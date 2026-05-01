@@ -1,2 +1,5 @@
-# Redirect old Hugo URLs if needed
+# Redirect old Hugo URLs (pagination)
 /page/* /posts/ 301
+
+# Enforce 404 status for unmatched paths
+/*    /404.html    404
