@@ -1,0 +1,48 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const modules = import.meta.glob('../../../content/posts/*.md', { eager: true });
+const posts = Object.entries(modules)
+  .map(([path, mod]: [string, any]) => {
+    const fm = mod.frontmatter ?? {};
+    return {
+      slug: fm.slug ?? path.split('/').pop()?.replace(/\.md$/, ''),
+      title: fm.title ?? 'Untitled',
+      description: fm.description ?? '',
+      date: fm.date ? String(fm.date) : '',
+    };
+  })
+  .sort((a, b) => (b.date > a.date ? 1 : -1));
+---
+<BaseLayout
+  title="All Guides | Obsidian Plugins Guide"
+  description="Browse all Obsidian plugin guides, theme reviews, and workflow tutorials."
+  canonicalURL="https://notes-automate.com/posts/"
+>
+  <div class="page-heading">
+    <h1>All Guides</h1>
+    <p>Plugin reviews, theme comparisons, and practical workflows for Obsidian power users.</p>
+  </div>
+  <ul class="post-list">
+    {posts.map(post => (
+      <li class="post-item">
+        <a href={`/posts/${post.slug}/`}>
+          <h2>{post.title}</h2>
+          {post.description && <p>{post.description}</p>}
+          {post.date && <time>{post.date}</time>}
+        </a>
+      </li>
+    ))}
+  </ul>
+</BaseLayout>
+
+<style>
+.page-heading { padding: 3rem 0 2rem; }
+.page-heading h1 { font-size: 2rem; font-weight: 700; margin-bottom: 0.5rem; }
+.post-list { list-style: none; padding: 0; max-width: 860px; display: grid; gap: 1.25rem; margin-bottom: 4rem; }
+.post-item a { display: block; padding: 1.5rem; border: 1px solid #e5e7eb; border-radius: 8px; text-decoration: none; color: inherit; transition: box-shadow 0.2s; }
+.post-item a:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+.post-item h2 { font-size: 1.1rem; font-weight: 600; margin: 0 0 0.5rem; color: #111827; }
+.post-item p { color: #6b7280; font-size: 0.9rem; margin: 0 0 0.5rem; }
+.post-item time { color: #9ca3af; font-size: 0.8rem; }
+</style>

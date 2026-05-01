@@ -1,0 +1,2 @@
+# Redirect old Hugo URLs if needed
+/page/* /posts/ 301
