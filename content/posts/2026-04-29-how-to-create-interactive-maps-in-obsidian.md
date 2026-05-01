@@ -6,6 +6,7 @@ slug: how-to-create-interactive-maps-in-obsidian
 description: "Provide downloadable templates for different use-cases, such as a world travel log, a fictional kingdom map, and a local project planner, allowing users to get started instantly."
 keywords: ["Obsidian Leaflet plugin", "Obsidian map view", "geospatial notes", "visualize notes on a map", "Obsidian travel journal", "worldbuilding map Obsidian", "connect notes geographically", "Obsidian CSS for maps"]
 draft: false
+type: "informational"
 ---
 
 # How to Create Interactive Maps in Obsidian: The Complete Leaflet Plugin Guide

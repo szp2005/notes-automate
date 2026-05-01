@@ -5,6 +5,8 @@ slug: how-to-use-obsidian-dataview-for-beginners
 description: "Provide a 'recipe book' of copy-pasteable queries for common use cases like meeting notes, project tracking, and content calendars, allowing beginners to get value instantly."
 keywords: ["obsidian dataview examples", "dataview query language", "DQL tutorial", "obsidian dataview table", "obsidian dataview list", "obsidian dataview task query", "how to install dataview obsidian", "obsidian metadata tutorial"]
 draft: false
+author: "Alex Chen"
+type: "informational"
 ---
 
 # How to Use Obsidian Dataview for Beginners: A Step-by-Step Guide with Copy-Paste Queries

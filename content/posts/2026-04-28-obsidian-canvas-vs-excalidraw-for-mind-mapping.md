@@ -6,6 +6,7 @@ slug: obsidian-canvas-vs-excalidraw-for-mind-mapping
 description: "Focus heavily on the 'Native vs. Plugin' paradigm. Canvas is part of Obsidian's core, ensuring stability and seamless note embedding, while Excalidraw offers more powerful, standalone features at the cost of being a separate dependency."
 keywords: ["obsidian canvas tutorial", "excalidraw obsidian plugin", "best mind mapping for obsidian", "visual note taking apps", "personal knowledge management workflow", "zettelkasten visualization", "obsidian canvas use cases", "infinite canvas software"]
 draft: false
+type: "review"
 ---
 
 # Obsidian Canvas vs. Excalidraw for Mind Mapping: Which Visual Tool Belongs in Your PKM Workflow?

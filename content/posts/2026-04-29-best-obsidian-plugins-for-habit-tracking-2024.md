@@ -6,6 +6,7 @@ slug: best-obsidian-plugins-for-habit-tracking-2024
 description: "Provide a detailed comparison table rating each plugin on key criteria: setup difficulty, mobile-friendliness, visualization options, and maintenance level."
 keywords: ["obsidian habit tracker template", "obsidian daily notes habit tracking", "dataview habit tracker", "obsidian tracker plugin tutorial", "obsidian habits plugin", "pkm habit tracking", "obsidian mobile habit tracking", "how to build a habit tracker in obsidian"]
 draft: false
+type: "informational"
 ---
 
 # Best Obsidian Plugins for Habit Tracking 2024: Build a Complete System That Actually Works

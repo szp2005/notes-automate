@@ -6,6 +6,7 @@ slug: minimal-theme-obsidian-review
 description: "Provide a detailed performance analysis, including startup time and resource usage with the theme enabled versus the default theme."
 keywords: ["obsidian minimal theme settings", "kepano obsidian theme", "best obsidian themes for writing", "obsidian style settings plugin", "clean obsidian setup", "obsidian customization css", "minimal theme obsidian tutorial", "obsidian focus mode"]
 draft: false
+type: "informational"
 ---
 
 # Obsidian Minimal Theme Review (2024): The Best Clean Interface for Your Second Brain?

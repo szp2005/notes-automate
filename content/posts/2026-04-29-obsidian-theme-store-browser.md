@@ -6,6 +6,7 @@ slug: obsidian-theme-store-browser
 description: "The primary and most efficient way to browse and install themes is directly within the Obsidian app via 'Settings > Appearance > Community themes > Browse'."
 keywords: ["how to install obsidian themes", "best obsidian themes", "obsidian community themes", "obsidian appearance settings", "customize obsidian", "obsidian css snippets", "obsidian theme gallery", "obsidian marketplace"]
 draft: false
+type: "review"
 ---
 
 # The Obsidian Theme Store Browser: How to Find, Install, and Manage Community Themes

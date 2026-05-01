@@ -6,6 +6,7 @@ slug: things-theme-vs-minimal-theme-obsidian
 description: "Provide a detailed side-by-side feature comparison table covering aspects often overlooked in forum discussions, such as mobile experience, specific plugin styling (Dataview, Kanban), and available helper classes."
 keywords: ["Obsidian.md themes", "best Obsidian theme", "Obsidian customization", "Obsidian CSS", "Minimal theme settings", "Things theme setup", "Obsidian GTD workflow", "PKM aesthetics"]
 draft: false
+type: "informational"
 ---
 
 # Things Theme vs Minimal Theme Obsidian: The Definitive Head-to-Head Comparison

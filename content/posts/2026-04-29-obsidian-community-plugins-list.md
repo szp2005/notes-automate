@@ -6,6 +6,7 @@ slug: obsidian-community-plugins-list
 description: "Create a more user-friendly experience than the official docs by categorizing plugins by user persona and workflow (e.g., 'For Writers', 'For Students', 'For Developers')."
 keywords: ["best obsidian plugins", "how to install obsidian plugins", "obsidian dataview plugin", "obsidian templater plugin", "obsidian tasks plugin", "obsidian calendar plugin", "obsidian plugin directory", "obsidian core plugins"]
 draft: false
+type: "informational"
 ---
 
 # The Ultimate Obsidian Community Plugins List (2024): Categorized by User & Workflow

@@ -5,6 +5,8 @@ slug: setting-up-a-zettelkasten-in-obsidian-with-plugins
 description: "Provide an opinionated, 'one-click' starter vault template with pre-configured plugins and settings, allowing users to get started immediately."
 keywords: ["obsidian zettelkasten guide", "how to build a second brain in obsidian", "obsidian note-taking system", "best plugins for zettelkasten obsidian", "dataview plugin zettelkasten", "templater plugin obsidian setup", "atomic notes obsidian", "linking your thinking obsidian"]
 draft: false
+author: "Alex Chen"
+type: "informational"
 ---
 
 # Setting Up a Zettelkasten in Obsidian with Plugins: A Step-by-Step Workflow Guide

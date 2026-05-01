@@ -6,6 +6,7 @@ slug: best-obsidian-themes-for-writing-longform-content
 description: "Provide a 'Writer's Scorecard' for each theme, rating them on specific criteria like Typography, Focus Mode Quality, and UI Minimalism for easy comparison."
 keywords: ["obsidian themes for writers", "minimalist obsidian themes", "obsidian focus mode", "obsidian css for writing", "best obsidian setup for authors", "obsidian typography settings", "distraction-free markdown editor", "obsidian readability"]
 draft: false
+type: "informational"
 ---
 
 # Best Obsidian Themes for Writing Longform Content: A Writer's Scorecard Comparison (2024)

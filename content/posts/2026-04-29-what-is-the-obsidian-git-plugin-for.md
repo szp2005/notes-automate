@@ -6,6 +6,7 @@ slug: what-is-the-obsidian-git-plugin-for
 description: "Position the plugin as the premier *free* alternative to the paid Obsidian Sync service, directly addressing the core user motivation of cost-savings."
 keywords: ["obsidian git setup", "obsidian backup solution", "obsidian version control", "obsidian sync alternative free", "how to use git with obsidian", "obsidian github integration", "obsidian notes backup", "obsidian mobile git sync"]
 draft: false
+type: "informational"
 ---
 
 # What Is the Obsidian Git Plugin For? A Beginner's Complete Guide

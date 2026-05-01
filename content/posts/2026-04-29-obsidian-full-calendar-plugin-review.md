@@ -6,6 +6,7 @@ slug: obsidian-full-calendar-plugin-review
 description: "Provide a 'zero-to-hero' setup guide that covers not just basic installation but also the often-tricky configuration of CalDAV and Google Calendar sync, with screenshots for each step."
 keywords: ["obsidian google calendar sync", "obsidian full calendar setup", "obsidian caldav integration", "best obsidian calendar plugin", "obsidian task management workflow", "obsidian planner setup", "how to use obsidian full calendar", "obsidian time blocking"]
 draft: false
+type: "informational"
 ---
 
 # Obsidian Full Calendar Plugin Review: Complete Setup Guide & Workflows (2024)

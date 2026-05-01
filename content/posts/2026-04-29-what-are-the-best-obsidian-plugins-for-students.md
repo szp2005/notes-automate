@@ -6,6 +6,7 @@ slug: what-are-the-best-obsidian-plugins-for-students
 description: "Structure the article around specific student workflows (e.g., 'Research & Citations', 'Writing Essays', 'Exam Prep') rather than a simple list, making it more actionable."
 keywords: ["Obsidian for academic writing", "Obsidian student setup", "Zettelkasten for students", "Obsidian citation management", "Obsidian spaced repetition plugin", "best note-taking apps for college", "Obsidian research workflow", "Obsidian templates for students"]
 draft: false
+type: "informational"
 ---
 
 # What Are the Best Obsidian Plugins for Students? A Workflow-Based Guide

@@ -6,6 +6,7 @@ slug: how-to-sync-obsidian-with-google-drive-using-a-plugin
 description: "Provide heavily annotated screenshots for every single click and configuration step to make the process foolproof, especially for non-technical users."
 keywords: ["Obsidian Remotely Save plugin", "Obsidian Google Drive integration", "free Obsidian sync", "Obsidian cross-device sync", "Obsidian community plugins", "set up Remotely Save Obsidian", "Obsidian sync tutorial", "Obsidian vault backup Google Drive"]
 draft: false
+type: "informational"
 ---
 
 # How to Sync Obsidian with Google Drive Using a Plugin (Free, Step-by-Step Guide)

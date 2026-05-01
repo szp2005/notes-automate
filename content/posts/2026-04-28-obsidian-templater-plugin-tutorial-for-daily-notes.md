@@ -6,6 +6,7 @@ slug: obsidian-templater-plugin-tutorial-for-daily-notes
 description: "Provide a downloadable 'Daily Note Starter Pack' with three levels of templates: beginner, intermediate, and advanced, so users can immediately implement the concepts."
 keywords: ["obsidian daily note template", "how to use templater in obsidian", "obsidian automation", "templater dynamic commands", "obsidian periodic notes setup", "tp.date.now format", "obsidian journal template", "templater user functions"]
 draft: false
+type: "informational"
 ---
 
 # Obsidian Templater Plugin Tutorial for Daily Notes: The Complete Step-by-Step Guide

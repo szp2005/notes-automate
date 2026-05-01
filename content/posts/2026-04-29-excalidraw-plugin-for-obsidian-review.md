@@ -6,6 +6,7 @@ slug: excalidraw-plugin-for-obsidian-review
 description: "Provide a detailed performance analysis, including load times and resource usage in small vs. large Obsidian vaults, a common concern for long-term users."
 keywords: ["Obsidian Excalidraw tutorial", "how to use Excalidraw in Obsidian", "Obsidian drawing plugin", "Excalidraw vs Obsidian Canvas", "visual note-taking Obsidian", "mind mapping in Obsidian", "Obsidian plugin for diagrams", "Excalidraw scripts for Obsidian"]
 draft: false
+type: "informational"
 ---
 
 # Excalidraw Plugin for Obsidian Review: The Definitive Visual Thinking Tool?

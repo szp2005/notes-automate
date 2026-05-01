@@ -6,6 +6,7 @@ slug: top-5-obsidian-plugins-for-academic-research
 description: "Competitors provide lists, but fail to show how the plugins integrate into a single, powerful workflow. Our angle will focus on the synergy between the top 5 plugins."
 keywords: ["Obsidian for PhD students", "Zotero Obsidian workflow", "Obsidian citation plugin", "academic knowledge management", "Obsidian literature review", "best Obsidian plugins for students", "Obsidian Zotero integration", "Dataview plugin for research"]
 draft: false
+type: "informational"
 ---
 
 # Top 5 Obsidian Plugins for Academic Research (And How They Work Together)

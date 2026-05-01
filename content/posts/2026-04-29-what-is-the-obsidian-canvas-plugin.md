@@ -6,6 +6,7 @@ slug: what-is-the-obsidian-canvas-plugin
 description: "Provide a gallery of inspirational, real-world canvas examples (e.g., project dashboards, storyboards, research maps) that go beyond simple mind maps."
 keywords: ["obsidian canvas tutorial", "obsidian canvas examples", "how to use obsidian canvas", "obsidian mind map", "obsidian infinite canvas", "obsidian visual notes", "obsidian canvas vs excalidraw", "obsidian canvas workflow"]
 draft: false
+type: "informational"
 ---
 
 # What Is the Obsidian Canvas Plugin? A Practical Guide for Visual Thinkers

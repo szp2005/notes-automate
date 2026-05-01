@@ -6,6 +6,7 @@ slug: obsidian-projects-plugin-review-and-setup
 description: "Provide pre-built, copy-and-paste project templates for specific workflows like content creation, academic research, and GTD, which offers immediate practical value."
 keywords: ["Obsidian project management", "Obsidian task management", "Obsidian Projects plugin tutorial", "how to use Obsidian Projects", "Obsidian Kanban board", "Obsidian Dataview vs Projects", "Obsidian gallery view", "Obsidian calendar view"]
 draft: false
+type: "informational"
 ---
 
 # Obsidian Projects Plugin: The Ultimate Review, Setup Guide & Power-User Templates (2024)
