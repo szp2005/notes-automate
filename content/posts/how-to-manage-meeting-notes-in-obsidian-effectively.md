@@ -1,5 +1,5 @@
 ---
-image: "/og/how-to-manage-meeting-notes-in-obsidian-effectively.png"
+image: "/og/how-to-manage-meeting-notes-in-obsidian-effectively.webp"
 title: "How to Manage Meeting Notes in Obsidian Effectively: 5-Step Guide"
 description: "Learn how to manage meeting notes in Obsidian effectively using templates, daily notes, and Dataview to stay organized and never lose an action item again."
 pubDate: "2026-05-02"

@@ -1,5 +1,5 @@
 ---
-image: "/og/applying-the-para-method-to-an-obsidian-vault.png"
+image: "/og/applying-the-para-method-to-an-obsidian-vault.webp"
 title: "Applying the PARA Method to an Obsidian Vault: Complete Guide"
 description: "Discover exactly how applying the PARA method to an Obsidian vault reduces friction in personal knowledge management with clear examples and workflows."
 pubDate: "2026-05-02"

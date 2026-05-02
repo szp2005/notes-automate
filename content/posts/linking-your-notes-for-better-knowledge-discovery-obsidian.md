@@ -1,5 +1,5 @@
 ---
-image: "/og/linking-your-notes-for-better-knowledge-discovery-obsidian.png"
+image: "/og/linking-your-notes-for-better-knowledge-discovery-obsidian.webp"
 title: "Linking Your Notes for Better Knowledge Discovery Obsidian: 5 Steps"
 description: "Master the exact strategies for linking your notes for better knowledge discovery obsidian. Uncover hidden insights and build a highly functional second brain."
 pubDate: "2026-05-02"

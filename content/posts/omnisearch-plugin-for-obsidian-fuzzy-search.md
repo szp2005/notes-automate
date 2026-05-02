@@ -1,5 +1,5 @@
 ---
-image: "/og/omnisearch-plugin-for-obsidian-fuzzy-search.png"
+image: "/og/omnisearch-plugin-for-obsidian-fuzzy-search.webp"
 title: "Omnisearch Plugin for Obsidian Fuzzy Search: Complete Guide"
 description: "Master the Omnisearch plugin for Obsidian fuzzy search. Learn how to instantly find text within notes, PDFs, and images using advanced OCR technology."
 pubDate: "2026-05-01"

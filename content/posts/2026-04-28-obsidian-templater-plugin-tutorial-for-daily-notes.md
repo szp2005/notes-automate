@@ -1,5 +1,5 @@
 ---
-image: "/og/obsidian-templater-plugin-tutorial-for-daily-notes.png"
+image: "/og/obsidian-templater-plugin-tutorial-for-daily-notes.webp"
 title: "Obsidian Templater Plugin: Daily Notes Automation Tutorial"
 author: "Alex Chen"
 date: 2026-04-28

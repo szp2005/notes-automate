@@ -1,5 +1,5 @@
 ---
-image: "/og/kanban-plugin-for-obsidian-project-management.png"
+image: "/og/kanban-plugin-for-obsidian-project-management.webp"
 title: "Kanban Plugin for Obsidian Project Management: Complete Guide"
 description: "Master the Kanban plugin for Obsidian project management. Learn how to structure boards, track tasks, and build a productive workflow directly inside your vault."
 pubDate: "2026-05-01"

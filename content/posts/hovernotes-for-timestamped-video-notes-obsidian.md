@@ -1,5 +1,5 @@
 ---
-image: "/og/hovernotes-for-timestamped-video-notes-obsidian.png"
+image: "/og/hovernotes-for-timestamped-video-notes-obsidian.webp"
 title: "HoverNotes for Timestamped Video Notes in Obsidian: Complete Guide"
 description: "Master HoverNotes for timestamped video notes in Obsidian. Learn how to sync YouTube playback, take precise annotations, and build your visual knowledge base."
 pubDate: "2026-05-01"

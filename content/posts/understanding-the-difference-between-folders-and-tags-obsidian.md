@@ -1,5 +1,5 @@
 ---
-image: "/og/understanding-the-difference-between-folders-and-tags-obsidian.png"
+image: "/og/understanding-the-difference-between-folders-and-tags-obsidian.webp"
 title: "Understanding the Difference Between Folders and Tags Obsidian Guide"
 description: "Master your PKM system by understanding the difference between folders and tags in Obsidian. Learn when to use each for optimal note retrieval and organization."
 pubDate: "2026-05-02"

@@ -1,5 +1,5 @@
 ---
-image: "/og/how-to-use-callouts-in-obsidian-for-better-notes.png"
+image: "/og/how-to-use-callouts-in-obsidian-for-better-notes.webp"
 title: "What Are Obsidian Callouts (And Why They Are a Game-Changer)"
 author: "Alex Chen"
 date: 2026-04-29

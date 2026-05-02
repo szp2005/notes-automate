@@ -1,5 +1,5 @@
 ---
-image: "/og/explanation-of-obsidian-vault-structure-for-backups.png"
+image: "/og/explanation-of-obsidian-vault-structure-for-backups.webp"
 title: "Explanation of Obsidian Vault Structure for Backups (Full Guide)"
 description: "A complete explanation of obsidian vault structure for backups. Learn how to secure your notes, understand hidden .obsidian folders, and prevent data loss."
 pubDate: "2026-05-02"

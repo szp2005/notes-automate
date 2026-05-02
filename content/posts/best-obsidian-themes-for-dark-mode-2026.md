@@ -1,5 +1,5 @@
 ---
-image: "/og/best-obsidian-themes-for-dark-mode-2026.png"
+image: "/og/best-obsidian-themes-for-dark-mode-2026.webp"
 title: "Best Obsidian Themes for Dark Mode in 2026: Top Picks"
 description: "Discover the best Obsidian themes for dark mode in 2026. Compare top picks for readability, aesthetics, and performance to optimize your knowledge workspace."
 pubDate: "2026-05-01"

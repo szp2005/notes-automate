@@ -1,5 +1,5 @@
 ---
-image: "/og/how-to-organize-school-notes-using-obsidian-for-students.png"
+image: "/og/how-to-organize-school-notes-using-obsidian-for-students.webp"
 title: "How to Organize School Notes Using Obsidian for Students: Complete 2026 Guide"
 description: "Learn exactly how to organize school notes using Obsidian for students. Discover structural frameworks, linking strategies, and plugins to boost study efficiency."
 pubDate: "2026-05-02"

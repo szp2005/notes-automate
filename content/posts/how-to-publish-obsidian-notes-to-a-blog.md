@@ -1,5 +1,5 @@
 ---
-image: "/og/how-to-publish-obsidian-notes-to-a-blog.png"
+image: "/og/how-to-publish-obsidian-notes-to-a-blog.webp"
 title: "How to Publish Obsidian Notes to a Blog: 5-Step Guide"
 description: "Learn how to publish Obsidian notes to a blog efficiently. We cover static site generators, plugins, and workflows to turn your local vault into a live website."
 pubDate: "2026-05-02"

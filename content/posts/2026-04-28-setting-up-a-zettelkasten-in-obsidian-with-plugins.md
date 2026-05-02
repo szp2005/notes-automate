@@ -1,5 +1,5 @@
 ---
-image: "/og/setting-up-a-zettelkasten-in-obsidian-with-plugins.png"
+image: "/og/setting-up-a-zettelkasten-in-obsidian-with-plugins.webp"
 title: "Obsidian Zettelkasten Setup: Best Plugins and Workflow Guide"
 date: 2026-04-28
 slug: setting-up-a-zettelkasten-in-obsidian-with-plugins

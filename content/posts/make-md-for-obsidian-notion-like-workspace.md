@@ -1,5 +1,5 @@
 ---
-image: "/og/make-md-obsidian-notion-like-workspace.png"
+image: "/og/make-md-obsidian-notion-like-workspace.webp"
 title: "Make.md for Obsidian: Notion-Like Workspace Setup Guide"
 description: "Learn how to use Make.md for Obsidian to create a Notion-like workspace. Master spaces, inline editing, and context blocks for ultimate productivity."
 pubDate: "2026-05-01"

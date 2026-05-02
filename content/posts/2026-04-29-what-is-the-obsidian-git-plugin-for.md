@@ -1,5 +1,5 @@
 ---
-image: "/og/what-is-the-obsidian-git-plugin-for.png"
+image: "/og/what-is-the-obsidian-git-plugin-for.webp"
 title: "What is the Obsidian Git Plugin? (A Simple Explanation)"
 author: "Alex Chen"
 date: 2026-04-29

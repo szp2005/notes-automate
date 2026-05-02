@@ -1,5 +1,5 @@
 ---
-image: "/og/streamlining-your-daily-note-workflow-for-better-productivity.png"
+image: "/og/streamlining-your-daily-note-workflow-for-better-productivity.webp"
 title: "Streamlining Your Daily Note Workflow for Better Productivity: 5-Step Guide"
 description: "Master streamlining your daily note workflow for better productivity by eliminating scattered thoughts and building a frictionless knowledge capture system."
 pubDate: "2026-05-02"

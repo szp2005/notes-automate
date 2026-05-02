@@ -1,5 +1,5 @@
 ---
-image: "/og/copilot-for-obsidian-chat-with-your-notes.png"
+image: "/og/copilot-for-obsidian-chat-with-your-notes.webp"
 title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
 description: "Discover how to use Copilot for Obsidian to chat with your notes natively. Learn setup, local LLM integration, and workflows for efficient knowledge retrieval."
 pubDate: "2026-05-01"

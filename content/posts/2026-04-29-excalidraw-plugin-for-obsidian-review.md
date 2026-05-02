@@ -1,5 +1,5 @@
 ---
-image: "/og/excalidraw-plugin-for-obsidian-review.png"
+image: "/og/excalidraw-plugin-for-obsidian-review.webp"
 title: "What is Excalidraw and Why Use It in Obsidian?"
 author: "Alex Chen"
 date: 2026-04-29

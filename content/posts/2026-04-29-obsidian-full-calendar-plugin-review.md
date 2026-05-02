@@ -1,5 +1,5 @@
 ---
-image: "/og/obsidian-full-calendar-plugin-review.png"
+image: "/og/obsidian-full-calendar-plugin-review.webp"
 title: "What is the Obsidian Full Calendar Plugin?"
 author: "Alex Chen"
 date: 2026-04-29

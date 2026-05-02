@@ -1,5 +1,5 @@
 ---
-image: "/og/is-obsidian-sync-worth-it-in-2026.png"
+image: "/og/is-obsidian-sync-worth-it-in-2026.webp"
 title: "Is Obsidian Sync Worth It in 2026? Comprehensive Review"
 description: "Wondering if Obsidian Sync is worth the price in 2026? We review its features, security, and top alternatives to help you decide if it fits your workflow."
 pubDate: "2026-05-02"

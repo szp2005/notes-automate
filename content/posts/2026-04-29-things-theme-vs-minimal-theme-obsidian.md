@@ -1,5 +1,5 @@
 ---
-image: "/og/things-theme-vs-minimal-theme-obsidian.png"
+image: "/og/things-theme-vs-minimal-theme-obsidian.webp"
 title: "Introduction: Beyond Default - Choosing Your Ideal Obsidian Interface"
 author: "Alex Chen"
 date: 2026-04-29

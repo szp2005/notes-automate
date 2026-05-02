@@ -1,5 +1,5 @@
 ---
-image: "/og/longform-plugin-obsidian-manuscript-writing.png"
+image: "/og/longform-plugin-obsidian-manuscript-writing.webp"
 title: "Longform Plugin for Obsidian: Complete Guide to Manuscript Writing"
 description: "Master the Longform plugin for Obsidian. Learn how to organize scenes, manage drafts, and compile your manuscript seamlessly in this complete 2026 guide."
 pubDate: "2026-05-01"

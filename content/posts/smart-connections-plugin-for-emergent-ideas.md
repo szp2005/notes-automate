@@ -1,5 +1,5 @@
 ---
-image: "/og/smart-connections-plugin-for-emergent-ideas.png"
+image: "/og/smart-connections-plugin-for-emergent-ideas.webp"
 title: "Smart Connections Plugin for Emergent Ideas: Complete 2026 Setup Guide"
 description: "Discover how the Smart Connections plugin for emergent ideas transforms your Obsidian vault. Learn to uncover hidden links and generate novel insights automatically."
 pubDate: "2026-05-01"

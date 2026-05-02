@@ -1,5 +1,5 @@
 ---
-image: "/og/top-5-obsidian-plugins-for-academic-research.png"
+image: "/og/top-5-obsidian-plugins-for-academic-research.webp"
 title: "Obsidian Plugins for Academic Research: 5 Best Tools"
 author: "Alex Chen"
 date: 2026-04-29

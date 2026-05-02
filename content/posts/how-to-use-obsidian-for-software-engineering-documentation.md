@@ -1,5 +1,5 @@
 ---
-image: "/og/how-to-use-obsidian-for-software-engineering-documentation.png"
+image: "/og/how-to-use-obsidian-for-software-engineering-documentation.webp"
 title: "How to Use Obsidian for Software Engineering Documentation: 7-Step Guide"
 description: "Learn how to use Obsidian for software engineering documentation. Master Markdown, wikilinks, and developer-focused plugins to build a fast knowledge base."
 pubDate: "2026-05-02"

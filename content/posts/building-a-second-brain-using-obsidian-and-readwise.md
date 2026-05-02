@@ -1,5 +1,5 @@
 ---
-image: "/og/building-a-second-brain-using-obsidian-and-readwise.png"
+image: "/og/building-a-second-brain-using-obsidian-and-readwise.webp"
 title: "Building a Second Brain Using Obsidian and Readwise: Complete Guide"
 description: "Learn exactly how building a second brain using Obsidian and Readwise transforms scattered highlights into a connected, actionable knowledge management system."
 pubDate: "2026-05-02"

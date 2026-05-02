@@ -1,5 +1,5 @@
 ---
-image: "/og/excalidraw-plugin-for-obsidian-visual-thinking.png"
+image: "/og/excalidraw-plugin-for-obsidian-visual-thinking.webp"
 title: "Excalidraw Plugin for Obsidian: Visual Thinking Complete Guide"
 description: "Master visual thinking in Obsidian with the Excalidraw plugin. Learn how to connect sketches, diagrams, and text notes to enhance your PKM workflow."
 pubDate: "2026-05-01"

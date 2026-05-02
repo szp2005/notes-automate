@@ -1,5 +1,5 @@
 ---
-image: "/og/spaced-repetition-plugin-for-obsidian-flashcards.png"
+image: "/og/spaced-repetition-plugin-for-obsidian-flashcards.webp"
 title: "Spaced Repetition Plugin for Obsidian Flashcards: Complete Setup Guide"
 description: "Master active recall and integrate the Spaced Repetition plugin for Obsidian flashcards into your workflow. Learn syntax, optimal algorithms, and deck management."
 pubDate: "2026-05-01"

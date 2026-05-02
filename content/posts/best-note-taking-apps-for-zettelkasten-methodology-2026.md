@@ -1,5 +1,5 @@
 ---
-image: "/og/best-note-taking-apps-for-zettelkasten-methodology-2026.png"
+image: "/og/best-note-taking-apps-for-zettelkasten-methodology-2026.webp"
 title: "Best Note Taking Apps for Zettelkasten Methodology 2026"
 description: "Discover the best note taking apps for Zettelkasten methodology in 2026. Compare top tools to build a powerful personal knowledge management system."
 pubDate: "2026-05-02"

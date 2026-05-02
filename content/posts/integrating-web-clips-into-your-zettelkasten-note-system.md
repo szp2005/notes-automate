@@ -1,5 +1,5 @@
 ---
-image: "/og/integrating-web-clips-into-your-zettelkasten-note-system.png"
+image: "/og/integrating-web-clips-into-your-zettelkasten-note-system.webp"
 title: "Integrating Web Clips Into Your Zettelkasten Note System Guide"
 description: "Learn the exact workflow for integrating web clips into your zettelkasten note system to build a seamless knowledge base and retain information forever."
 pubDate: "2026-05-02"

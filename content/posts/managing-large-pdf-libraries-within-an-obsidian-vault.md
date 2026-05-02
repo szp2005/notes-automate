@@ -1,5 +1,5 @@
 ---
-image: "/og/managing-large-pdf-libraries-within-an-obsidian-vault.png"
+image: "/og/managing-large-pdf-libraries-within-an-obsidian-vault.webp"
 title: "Managing Large PDF Libraries Within an Obsidian Vault: Complete Setup Guide"
 description: "Learn how to organize, annotate, and search hundreds of PDFs inside Obsidian without slowing down your vault. A complete system for academics and researchers."
 pubDate: "2026-05-02"

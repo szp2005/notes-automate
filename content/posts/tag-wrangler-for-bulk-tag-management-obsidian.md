@@ -1,5 +1,5 @@
 ---
-image: "/og/tag-wrangler-for-bulk-tag-management-obsidian.png"
+image: "/og/tag-wrangler-for-bulk-tag-management-obsidian.webp"
 title: "Tag Wrangler for Bulk Tag Management in Obsidian: Complete Guide"
 description: "Master Tag Wrangler for bulk tag management in Obsidian. Learn how to rename, merge, and organize your vault's metadata efficiently without breaking links."
 pubDate: "2026-05-01"
