@@ -1,173 +1,151 @@
 ---
-title: "How to Use Obsidian for Software Engineering Documentation: 5 Steps"
-description: "Learn how to use Obsidian for software engineering documentation. Discover vault setups, essential plugins, and markdown templates to streamline your dev workflow."
+title: "How to Use Obsidian for Software Engineering Documentation: 7-Step Guide"
+description: "Learn how to use Obsidian for software engineering documentation. Master Markdown, wikilinks, and developer-focused plugins to build a fast knowledge base."
 pubDate: "2026-05-02"
 author: "Alex Chen"
-tags: ["obsidian", "documentation", "software engineering", "productivity"]
+tags: ["obsidian", "documentation", "software engineering", "knowledge management"]
 slug: "how-to-use-obsidian-for-software-engineering-documentation"
 type: "informational"
 ---
 
-# How to Use Obsidian for Software Engineering Documentation: 5 Steps
+# How to Use Obsidian for Software Engineering Documentation: 7-Step Guide
 
-> **Quick Answer:** To use Obsidian for software engineering documentation, set up a local vault structured around Map of Content (MOC) methodology or PARA (Projects, Areas, Resources, Archives). Leverage core features like Canvas for architecture mapping, and install community plugins like Dataview, Templater, and Obsidian Git to automate status tracking, standardize Architecture Decision Records (ADRs), and version control your technical knowledge base alongside your codebase.
+> **Quick Answer:** To use Obsidian for software engineering documentation, store your notes locally in Markdown and use wikilinks (`[[link]]`) to connect code snippets, architecture diagrams, and API specs. By treating documentation like code and organizing it with Maps of Content (MOCs), developers can build an interconnected, version-controlled knowledge base that is highly searchable and infinitely faster than traditional cloud wikis.
 
-Software engineering generates an overwhelming amount of unstructured data. Between Jira tickets, Slack threads, Confluence pages, fragmented repository READMEs, and local scratchpads, critical technical context is easily lost. When system architectures shift or technical debt accrues, developers often find themselves hunting across five different platforms to understand why a specific database schema was chosen three years ago.
+Software engineers spend almost as much time reading and writing documentation as they do writing code. Yet, the tools we use for documentation often introduce massive friction. Cloud-based wikis like Confluence suffer from slow load times and rigid hierarchies. Notion is powerful but lacks offline support and true plain-text export. Scattered `README.md` files in repositories are hard to connect across a distributed microservices architecture.
 
-Obsidian solves this fragmentation by offering a local-first, Markdown-based knowledge base that operates exactly like the tools developers already use. Because Obsidian relies on local `.md` files, it fundamentally respects the software engineering workflow. You can version control your notes with Git, search them with `grep`, and edit them in your preferred IDE like VS Code or Neovim when you aren't using the Obsidian interface. 
+If you are frustrated by the latency and fragmentation of traditional documentation tools, Obsidian offers a compelling alternative. Obsidian is a local-first, plain-text markdown editor that uses bidirectional linking to connect ideas. Because it operates entirely on local text files, it is blazing fast, fully customizable, and natively compatible with Git and the command-line tools developers already use.
 
-Transitioning your personal or team documentation to Obsidian requires more than just opening a new vault and typing. A robust technical knowledge base requires deliberate architecture, standardized templates, and specific plugins to handle code snippets, system diagrams, and sprint tracking. This guide breaks down the five core steps to building an efficient, scalable documentation system tailored specifically for software engineers and systems architects.
+This guide details exactly how to use Obsidian for software engineering documentation, from setting up your initial vault architecture to integrating code execution and system design diagrams directly into your notes.
 
-## 1. Structure Your Developer Vault for Scalability
+## Why Software Engineers Are Adopting Obsidian
 
-A software engineer's documentation needs are distinct from a researcher's or a student's. You need immediate access to code snippets, active project constraints, meeting notes from sprint plannings, and historical architectural decisions. Setting up a strict folder hierarchy combined with Maps of Content (MOCs) prevents your vault from becoming a dumping ground.
+Before diving into the setup, it helps to understand why a tool originally designed for personal knowledge management (PKM) has become a staple for senior software engineers, DevOps practitioners, and systems architects.
 
-### The Modified PARA Structure for Engineers
+First, Obsidian is entirely plain text. Your documentation is stored as standard `.md` files on your hard drive. This means your knowledge is not locked into a proprietary database schema. If Obsidian disappears tomorrow, you still have a folder of standard Markdown files that you can read in VS Code, Vim, or NeoVim. 
 
-The PARA method (Projects, Areas, Resources, Archives) adapts perfectly to software engineering when modified slightly for technical workflows. Consider this foundational folder structure:
+Second, it is local-first. There is zero latency when searching across tens of thousands of notes, API endpoints, or error logs. You can document server outages while offline on a plane, and the interface responds instantly. 
 
-*   **00_Inbox:** The default landing zone for quick notes, code snippets copied from Stack Overflow, or rapid thoughts during a debugging session.
-*   **10_Projects:** Active, time-bound engineering tasks. Examples include `Migrate Auth to OAuth2` or `Q3 API Performance Fixes`. Once a project ships, its folder moves to Archives.
-*   **20_Architecture:** Permanent documentation for your systems. This includes Architecture Decision Records (ADRs), database schemas, system topology, and API documentation.
-*   **30_Resources:** Reusable assets. Code snippet libraries, bash aliases, regex cheat sheets, and notes on specific frameworks (e.g., `React Hooks`, `Postgres Indexing`).
-*   **40_Meetings:** Sprint planning notes, 1-on-1s, and retrospective logs.
-*   **99_Archive:** Shipped projects, deprecated system docs, and obsolete framework notes.
+Finally, Obsidian aligns with the "Docs as Code" philosophy. Because the files are text, you can version control them with Git, lint them, run regular expressions across them, and publish them via static site generators like Astro or Hugo. 
 
-### Using Maps of Content (MOCs) for System Topologies
+## Step 1: Architecting Your Developer Vault
 
-While folders handle strict categorization, software systems are deeply interconnected. A backend service relies on a specific database schema, which is consumed by a frontend client. Obsidian's bidirectional linking handles these relationships beautifully through Maps of Content (MOCs).
+The biggest mistake new Obsidian users make is creating a deep, rigid folder hierarchy that mirrors traditional wikis. Because Obsidian relies on bidirectional linking and graph search, a flatter structure is far more efficient.
 
-An MOC is simply an index note. For example, you might create an `[[Architecture_MOC]]` note that serves as the entry point for your entire backend system. Inside this note, you link out to individual microservices: `[[User_Authentication_Service]]`, `[[Payment_Gateway_API]]`, and `[[Notification_Worker]]`. When exploring the codebase, the MOC acts as the high-level system diagram, allowing you to click through to the specific service and see all related notes, linked PRs, and attached code snippets.
+Instead of nesting folders five levels deep, rely on a minimal set of root directories. 
 
-## 2. Standardize Engineering Workflows with Templater
+**Recommended Initial Structure:**
+- **00_Inbox:** The default landing zone for quick notes, code snippets grabbed from StackOverflow, or meeting agendas that haven't been processed.
+- **10_Projects:** Active development work, sprints, and epic tracking. Once a project ships, it moves to an archive.
+- **20_Reference:** Permanent knowledge. This includes API specifications, language syntax, framework documentation, and design patterns.
+- **30_Architecture:** System design documents, infrastructure diagrams, and Architecture Decision Records (ADRs).
+- **40_Daily:** Daily standup notes, work logs, and time tracking.
+- **99_Meta:** Obsidian templates, scripts, and configuration files.
 
-Consistency is the most difficult aspect of maintaining technical documentation. If every developer writes an Architecture Decision Record (ADR) differently, the archive becomes unsearchable. The **Templater** community plugin is essential for injecting standardized structures into your vault with a single keystroke.
+This structure allows you to separate actionable work (Projects and Daily notes) from permanent engineering knowledge (Reference and Architecture) without over-complicating file navigation.
 
-### Automating Architecture Decision Records (ADRs)
+## Step 2: Utilizing Maps of Content (MOCs) for Microservices
 
-An ADR captures the "why" behind a technical choice—arguably the most valuable documentation an engineer can write. Create a template file named `Template_ADR.md` in a dedicated templates folder:
+In software engineering, components rarely exist in isolation. A frontend service relies on a backend API, which queries a PostgreSQL database. Traditional folder hierarchies force you to place the documentation for that API in exactly one place. 
 
-```markdown
----
-status: Proposed
-date: <% tp.file.creation_date() %>
-deciders: 
-tags: [adr, architecture]
----
+Obsidian solves this with Maps of Content (MOCs). An MOC is simply a note that serves as an index or dashboard for a specific topic, heavily populated with links to other notes.
 
-# ADR: <% tp.file.title %>
+For example, if you are documenting a microservices architecture, you might create a `[[Backend Architecture MOC]]`. 
 
-## Context and Problem Statement
-[Describe the context and problem statement, e.g., in a few sentences.]
+This file would look something like this:
+- **Authentication Service:** `[[Auth API V2]]`, `[[OAuth2 Flow Diagram]]`
+- **Payment Gateway:** `[[Stripe Webhook Handler]]`, `[[Payment Retry Logic]]`
+- **Database:** `[[Postgres Schema Migration Log]]`, `[[Redis Caching Strategy]]`
 
-## Considered Options
-* [Option 1]
-* [Option 2]
-* [Option 3]
+Whenever you create a new note about the payment gateway, you simply add `[[Payment Gateway]]` anywhere in the note. You do not need to worry about which folder it lives in; the bidirectional links build a searchable graph of dependencies automatically. 
 
-## Decision Outcome
-Chosen option: "[Option 1]", because [justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force force | ... | comes out best (see below)].
+## Step 3: Integrating Code Execution and Syntax Highlighting
 
-## Consequences
-* Good, because [argument]
-* Bad, because [argument]
-```
+As a developer, your documentation will be heavily populated with code snippets. Obsidian natively supports standard Markdown code blocks with syntax highlighting for hundreds of languages using Prism.js. 
 
-Using Templater, whenever you create a new note in the `20_Architecture/ADRs` folder, this template can automatically populate, pulling in the current date and file name. This reduces the friction of documenting architectural pivots and ensures uniformity across your engineering organization.
+However, you can take this further by utilizing community plugins that turn your documentation into an interactive environment.
 
-### Sprint and Bug Report Templates
+The **Execute Code** plugin allows you to run Python, JavaScript, Bash, and SQL snippets directly within your Obsidian notes. This is exceptionally useful for documenting deployment scripts or database queries. Instead of copying a SQL query into DataGrip or pgAdmin, you can execute the `SELECT` statement directly from your documentation and see the results appended below the code block.
 
-You can apply the same logic to daily developer workflows. Create a `Template_Daily_Standup.md` that automatically generates sections for "Yesterday," "Today," and "Blockers." Create a `Template_Bug_Investigation.md` that prompts you for "Steps to Reproduce," "Expected Behavior," "Actual Behavior," and "Stack Trace." Lowering the barrier to entry ensures documentation actually gets written during high-stress debugging sessions.
+For documenting API payloads, the **JSON/CSV Importer** plugins allow you to render raw data sets as readable tables, making it much easier to document expected API responses and schema definitions.
 
-## 3. Leverage Plugins for Code Context and Tracking
+## Step 4: System Design and Diagramming
 
-Out of the box, Obsidian is a capable Markdown editor. With the right plugins, it transforms into an engineering control center capable of tracking sprints, visualizing code structures, and syncing with remote Git repositories.
+Text alone is rarely sufficient for explaining complex software systems. System architecture requires diagrams, flowcharts, and state machines. 
 
-### Dataview for Sprint and Project Tracking
+Obsidian integrates seamlessly with **Mermaid.js**, a JavaScript-based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically. 
 
-**Dataview** is arguably the most powerful plugin for software engineers. It treats your Obsidian vault like a queryable database, allowing you to write SQL-like queries against your Markdown metadata (YAML frontmatter).
+By simply opening a ````mermaid` code block in Obsidian, you can define sequence diagrams for OAuth flows, Gantt charts for project timelines, or entity-relationship diagrams for database schemas. Because Mermaid diagrams are generated from text, they are infinitely scalable, easily version-controlled, and instantly searchable.
 
-If you add a `status: active` and `type: project` to the frontmatter of your project notes, you can create a dynamic dashboard note with the following Dataview block:
+For freehand diagrams and whiteboarding, install the **Excalidraw** community plugin. Excalidraw allows you to draw informal architecture diagrams, wireframes, and component trees directly inside an Obsidian note. The plugin saves the drawing as both an editable file and an embedded image, allowing you to link visual components to text-based API documentation. 
 
-```text
-```dataview
-TABLE status, due_date
-FROM "10_Projects"
-WHERE status = "active"
-SORT due_date ASC
-```
-```
+## Step 5: Managing Sprints and Daily Standups
 
-This dynamically generates a table of all active engineering projects. You can use Dataview to aggregate all open bugs, compile all pending pull requests you need to review, or list all ADRs that are still in the "Proposed" status awaiting team consensus.
+Many engineers struggle to remember exactly what they worked on during daily standups or when writing performance reviews. Obsidian's Daily Notes core plugin is the perfect solution for sprint tracking.
 
-### Obsidian Git for Developer-Native Syncing
+Configure your vault to generate a new note automatically every day, applying a standard developer template. 
 
-Engineers inherently trust Git. Instead of relying on proprietary cloud syncing solutions, the **Obsidian Git** plugin allows you to version control your entire knowledge base. 
+A highly effective daily template includes:
+- **Standup Notes:** What I did yesterday, what I am doing today, current blockers.
+- **Active PRs:** Links to open Pull Requests (`[[PR-1452]]`) and code reviews pending my approval.
+- **Scratchpad:** A raw dump of terminal commands, error logs, and temporary variables used throughout the day.
 
-You can configure the plugin to automatically commit and push changes to a private GitHub, GitLab, or Bitbucket repository every X minutes, or push manually via the command palette. This provides absolute version history for your documentation. If you accidentally delete a critical SQL query from your notes, you can simply `git checkout` the previous commit. It also allows multiple engineers to collaborate on a single shared vault using the standard pull request and merge conflict resolution workflows they already know.
+By tagging specific entries with `#blocker` or `#achievement`, you can use Obsidian's search functions at the end of the week (or the end of the year) to instantly compile a list of everything you accomplished and the architectural hurdles you overcame.
 
-### Canvas and Excalidraw for Architecture Diagrams
+## Step 6: Tracking Architecture Decision Records (ADRs)
 
-System design requires visual mapping. Obsidian’s native **Canvas** feature provides an infinite spatial whiteboard where you can drop Markdown notes, images, and external URLs, then connect them with directional arrows. It is highly effective for mapping out microservice communications or visualizing CI/CD pipelines.
+An Architecture Decision Record (ADR) is a document that captures an important architectural decision made along with its context and consequences. In a team environment, ADRs often get buried in old Slack threads or locked inside Google Docs.
 
-For more standardized UML, entity-relationship, or sequence diagrams, the **Excalidraw** community plugin integrates directly into Obsidian. You can sketch out a database schema, save it, and embed that drawing directly into your `[[Database_Architecture]]` markdown file. Because Excalidraw files are saved in plain text within Obsidian, they remain highly portable.
+Obsidian is the ideal environment for a personal or team ADR log. Create a template for ADRs that includes Status, Context, Decision, and Consequences. 
 
-## 4. Integrating Obsidian with Your IDE and Repositories
+Because of bidirectional linking, your ADR for `[[Switching from REST to GraphQL]]` can directly link to the `[[Frontend State Management]]` note and the `[[API Gateway Configuration]]` note. When a new engineer joins the team and reviews the API Gateway documentation, the backlinks panel will immediately show them the ADR explaining *why* the system was built that way, preventing redundant conversations.
 
-The most effective documentation lives close to the code. If developers have to switch contexts and open a heavy web application to update a system design document, the document will quickly become obsolete. Obsidian mitigates this by integrating seamlessly into the local development environment.
+## Step 7: Version Control and Team Syncing
 
-### The Monorepo Vault Approach
+If you are using Obsidian solely for personal developer notes, Obsidian Sync is a secure, encrypted option for syncing your vault across devices. However, if you want to integrate your documentation with your engineering workflow, Git is the superior choice.
 
-If you work primarily in a massive monorepo or a single dominant repository, you can initialize your Obsidian vault directly at the root of your project. Simply open Obsidian, select "Open folder as vault," and choose your repository root. 
+Using the **Obsidian Git** community plugin, you can configure your vault to automatically back up to a private GitHub, GitLab, or Bitbucket repository every few minutes. 
 
-You can then add the `.obsidian` configuration folder to your `.gitignore` to keep your personal editor preferences from cluttering the main codebase. This allows you to write documentation right next to your `src` directory. You can easily reference local file paths, and when you open your project in VS Code or IntelliJ, your Obsidian documentation is accessible directly in your IDE's file explorer.
+This provides several massive advantages for software engineers:
+- **Version History:** You can use standard `git blame` and `git log` commands to see exactly when an API specification was changed and by whom.
+- **CI/CD Integration:** You can set up GitHub Actions to automatically lint your Markdown, check for broken internal links, or trigger a deployment to a static documentation site using Astro or Docusaurus.
+- **Team Collaboration:** Your entire engineering team can clone the documentation repository, open it as an Obsidian vault on their local machines, and use Git for conflict resolution just as they do with source code.
 
-### Using Obsidian URIs inside the Codebase
+## Best Practices for Developer Documentation in Obsidian
 
-Obsidian supports deep linking via customized URIs (e.g., `obsidian://open?vault=MyVault&file=Architecture_MOC`). This is highly useful for bridging the gap between your code execution and your conceptual documentation.
+Transitioning to Obsidian requires a shift in how you think about note-taking. To keep your developer vault fast and useful, adhere to these technical constraints:
 
-You can drop these URI links directly into your code comments. For example, above a complex, legacy authentication function, you might leave a comment:
+**Keep Files Atomic**
+Avoid writing massive, 50-page documents. In Obsidian, a file should cover exactly one concept, one service, or one API endpoint. If a document grows too large, extract the subsections into new notes and link them together. Smaller files are easier to read, easier to search, and produce a more useful graph view.
 
-`// Auth flow logic is highly specific due to legacy constraints.`
-`// See architectural reasoning at: obsidian://open?vault=Engineering&file=ADR-004-Auth-Migration`
+**Standardize Naming Conventions**
+A clean knowledge base requires strict naming rules. Decide early on whether you will use `CamelCase`, `kebab-case`, or natural language for your note titles. For engineering docs, prefacing notes with their domain (e.g., `API - User Authentication` or `DB - Postgres Schema`) ensures alphabetical sorting makes logical sense.
 
-Clicking this link from macOS or Windows will immediately launch Obsidian and open the exact file explaining the technical debt, providing immediate context without cluttering the source code itself.
+**Use the Dataview Plugin for Dashboards**
+The Dataview plugin turns your Obsidian vault into a database that you can query using a SQL-like syntax. You can write a query in your main Project Dashboard that automatically lists every file tagged with `#api-endpoint` that has a status of `Incomplete`. This dynamic querying prevents documentation from going stale.
 
-## 5. Practical Advice: Trade-offs and Team Collaboration
+**Do Not Over-Engineer the Setup**
+Engineers love to tinker, and it is easy to spend 40 hours customizing Obsidian CSS snippets and downloading 80 different plugins. Resist this urge. Start with plain Markdown, Daily Notes, and minimal folders. Only install a plugin when you encounter a specific friction point that plain text cannot solve.
 
-While Obsidian is unparalleled for personal developer productivity, deploying it across an entire engineering team involves specific trade-offs and architectural decisions.
+## Treat Documentation Like Code
 
-### Single-Player vs. Multiplayer Vaults
+The core philosophy of using Obsidian for software engineering documentation is simple: documentation is just another form of source code. 
 
-Obsidian shines as a "single-player" tool. It is the ultimate personal knowledge management (PKM) system for an individual staff engineer or technical lead tracking their own mental models, meeting notes, and snippet libraries.
-
-If you are deploying Obsidian for a 50-person engineering department, you must treat the vault like a codebase. Using Obsidian Git is mandatory. You will need to establish strict guidelines on folder structures, mandate the use of Templater for ADRs, and agree on a standard set of plugins. Because Obsidian does not feature real-time collaborative editing (like Google Docs or Notion), engineers must rely on asynchronous Git merges. This is a natural workflow for developers, but can cause friction for product managers or designers who are not comfortable resolving Git conflicts.
-
-### Managing Large Code Blocks and File Sizes
-
-Obsidian handles text exceptionally well, but storing massive log files or raw database dumps will bloat the application index and slow down searches. Keep your vault focused on context, reasoning, and reusable snippets. 
-
-For storing code snippets, utilize the standard Markdown triple-backtick syntax. Obsidian supports robust syntax highlighting for nearly all programming languages. If a snippet is longer than 100 lines, consider whether it belongs in your documentation or if it should be committed to a dedicated `scripts` directory in your actual source code repository, with your Obsidian note simply linking to the file path.
-
-### Security and Secrets Management
-
-Because Obsidian files are stored as plain text on your local hard drive, they are incredibly secure against cloud breaches—provided your machine is encrypted. However, this local convenience often tempts developers to paste API keys, database credentials, or AWS secret tokens directly into their notes.
-
-**Never store unencrypted secrets in your Obsidian vault.** Even if the vault is local, if you are utilizing Obsidian Git or syncing via a third-party cloud provider, those plaintext secrets will be pushed to the remote server. Treat your Obsidian knowledge base with the exact same security hygiene as a public GitHub repository.
+By using a local-first Markdown editor, you eliminate the latency and proprietary lock-in of enterprise wikis. You gain the ability to search your knowledge base in milliseconds, integrate it with version control, and dynamically link system diagrams to code snippets. When you reduce the friction required to write and retrieve information, you naturally write better documentation—ultimately making you a faster, more effective engineer.
 
 ## Frequently Asked Questions
 
-### Can multiple developers collaborate in a single Obsidian vault?
-Yes, but it requires a Git-based workflow. By using the Obsidian Git plugin, teams can sync a shared vault via GitHub or GitLab. Collaboration is asynchronous, meaning developers pull changes, write documentation locally, and commit. Real-time co-authoring is not supported natively.
+### Can I sync Obsidian with my team's GitHub repository?
+Yes. By using the Obsidian Git community plugin, you can automatically commit and push your local vault changes to any standard Git repository. This allows engineering teams to collaborate on documentation using standard pull request workflows and branch management.
 
-### Is Obsidian better than Notion for software engineering?
-Obsidian is generally preferred by engineers who want a local-first, offline-capable tool that respects Markdown standards and can be version-controlled via Git. Notion offers better real-time collaboration and cloud-native databases, making it better for cross-functional teams involving non-technical stakeholders.
+### Is Obsidian better than Notion for coding?
+For pure coding and engineering work, Obsidian generally outperforms Notion. Obsidian is local-first, meaning it has zero latency and works entirely offline. Furthermore, Obsidian's files are standard Markdown, which means they can be processed by command-line tools, linters, and native Git version control, whereas Notion relies on a proprietary cloud database.
 
-### How do I store and run code snippets in Obsidian?
-You can store code snippets using standard Markdown code blocks. To execute code directly within Obsidian, you can install community plugins like the "Execute Code" plugin, which allows you to run Python, JavaScript, Bash, and other languages directly from your notes without switching to a terminal.
+### How do I handle large architecture diagrams in Obsidian?
+Obsidian natively supports Mermaid.js, allowing you to write sequence, flowchart, and state diagrams using code blocks. For more complex, freehand system diagrams, the Excalidraw plugin integrates seamlessly, allowing you to embed and edit vector drawings directly within your Markdown notes.
 
-### Can I integrate Obsidian with GitHub or GitLab?
-Yes. Aside from using Git to sync the actual vault, you can use plugins like "GitHub Integration" to pull in active issues, pull requests, and repository statistics, displaying them dynamically within your Obsidian notes using Dataview or direct API queries.
+### Can Obsidian replace Confluence for enterprise teams?
+While Obsidian is exceptional for individual engineers and small, highly technical teams using Git, replacing Confluence across a massive enterprise can be challenging. Obsidian lacks built-in granular role-based access control (RBAC) and enterprise SSO out of the box, as it relies on the underlying file system or Git host for permissions.
 
-### What is the best way to handle large architectural diagrams?
-For large, complex systems, use the Excalidraw plugin within Obsidian. It allows you to draw vector-based architecture diagrams that are stored as plain text locally. Alternatively, you can use Obsidian Canvas to map out node-based relationships between your existing Markdown documents.
+### Does Obsidian support syntax highlighting for obscure languages?
+Yes. Obsidian uses Prism.js under the hood for its code blocks, which supports syntax highlighting for over 250 programming languages. From common languages like Python, Go, and Rust to older or obscure languages, standard Markdown code fences (using three backticks followed by the language name) will render correctly.
