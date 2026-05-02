@@ -11,6 +11,8 @@ type: "informational"
 tags: ["obsidian", "student", "secret", "weapon"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # What Are the Best Obsidian Plugins for Students? A Workflow-Based Guide
 
 > **TL;DR**
@@ -58,7 +60,7 @@ The plugins are what turn a good note app into a personalized academic operating
 
 Install these before anything else. They handle the core infrastructure every student vault depends on.
 
-### 1. Dataview
+### 1. [Dataview](https://www.amazon.com/s?k=Dataview&tag=notesautomate-20)
 
 Dataview lets you query your vault like a database. Write a simple code block and it returns every note tagged `#lecture` from the last seven days, sorted by date. Or pull every book in your reading list where you haven't written a summary yet.
 
@@ -66,7 +68,7 @@ Dataview lets you query your vault like a database. Write a simple code block an
 
 Practical example: Create a `study-tracker.md` note with a Dataview query that lists every topic note tagged `#needs-review`. As you master each topic and remove the tag, the list shrinks. That's a living study guide.
 
-### 2. Templater
+### 2. [Templater](https://www.amazon.com/s?k=Templater&tag=notesautomate-20)
 
 Templater is a supercharged template engine. Where Obsidian's built-in templates are static, Templater lets you use JavaScript expressions, auto-fill dates, prompt for input on note creation, and run scripts.
 
@@ -86,19 +88,19 @@ tags: [lecture, <% tp.system.prompt("Topic tag?") %>]
 ## Links to Related Notes
 ```
 
-### 3. Excalidraw
+### 3. [Excalidraw](https://www.amazon.com/s?k=Excalidraw&tag=notesautomate-20)
 
 Excalidraw embeds a full whiteboard canvas directly inside Obsidian. You can draw diagrams, build mind maps, sketch out argument structures, and annotate images — all linked back to your text notes.
 
 **Why students need it:** Not everything fits in linear prose. Drawing the causal chain in a history essay, diagramming a circuit, or mapping out the structure of a philosophical argument before writing it — these tasks need a canvas. Excalidraw keeps that visual work inside your vault rather than in a separate app you'll lose track of.
 
-### 4. Omnisearch
+### 4. [Omnisearch](https://www.amazon.com/s?k=Omnisearch&tag=notesautomate-20)
 
 The default Obsidian search is decent. Omnisearch is substantially better. It uses full-text search with ranking, fuzzy matching, and — critically — it searches inside PDFs stored in your vault.
 
 **Why students need it:** You'll eventually have dozens of academic PDFs, annotated readings, and lecture slides sitting in your vault. Being able to type a partial phrase and have it surface the right paper in under a second saves real time during study sessions and writing sprints.
 
-### 5. Style Settings
+### 5. [Style Settings](https://www.amazon.com/s?k=Style%20Settings&tag=notesautomate-20)
 
 Style Settings lets you tweak the visual parameters of your vault's theme — font sizes, line spacing, heading colors, sidebar width — without touching CSS files.
 

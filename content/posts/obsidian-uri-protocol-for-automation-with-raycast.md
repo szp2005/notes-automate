@@ -8,6 +8,8 @@ slug: "obsidian-uri-protocol-for-automation-with-raycast"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Obsidian URI Protocol for Automation with Raycast: Complete Guide
 
 > **Quick Answer:** The Obsidian URI protocol allows external apps to interact with your vault using deep links like `obsidian://open`. By combining this protocol with Raycast script commands on macOS, you can build custom, keyboard-driven automations to instantly capture ideas, open specific daily notes, or append text to running logs without ever touching your mouse.
@@ -65,21 +67,21 @@ By assigning this script an alias (like `dash`) or a global hotkey within Raycas
 
 Mastering the native URI protocol allows you to build several foundational automations that will save you minutes every single day. Let us explore the mechanics of the three most important actions.
 
-### 1. The Instant Search
+### 1. [The Instant Search](https://www.amazon.com/s?k=The%20Instant%20Search&tag=notesautomate-20)
 Sometimes you know exactly what you are looking for, but you do not want to open Obsidian, click the search icon, and type your query. You can pass a search query directly through the URI.
 
 Format: `obsidian://search?vault=VaultName&query=YourSearchTerm`
 
 By creating a Raycast script that accepts a text argument, you can build a global Obsidian search bar. When you trigger the command in Raycast and type your query, the script encodes your input and passes it to Obsidian, instantly displaying the search results pane.
 
-### 2. Rapid Note Creation
+### 2. [Rapid Note Creation](https://www.amazon.com/s?k=Rapid%20Note%20Creation&tag=notesautomate-20)
 When you need to draft a new document quickly, bypassing the folder hierarchy is essential. The `new` action allows you to specify the exact path and name of the new file.
 
 Format: `obsidian://new?vault=VaultName&file=Meetings%2FClientSync&content=Agenda:`
 
 You can utilize Raycast arguments to capture the title of the note directly in the launcher, executing the URI to create the note in your designated "Inbox" or "Meetings" folder with template text already inserted.
 
-### 3. Contextual Retrieval
+### 3. [Contextual Retrieval](https://www.amazon.com/s?k=Contextual%20Retrieval&tag=notesautomate-20)
 If you manage projects in Obsidian, you likely have "hub" notes or Kanban boards. Creating a suite of Raycast commands that open specific files allows you to treat these notes as standalone applications. Instead of switching to Obsidian and finding your "Q3 Marketing Plan," you simply hit your Raycast hotkey, and the exact note appears on screen immediately.
 
 ## Supercharging Workflows with Advanced URI Plugin

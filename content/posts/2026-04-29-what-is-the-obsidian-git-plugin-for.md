@@ -11,6 +11,8 @@ type: "informational"
 tags: ["obsidian", "git", "plugin", "simple"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # What Is the Obsidian Git Plugin For? A Beginner's Complete Guide
 
 **TL;DR**
@@ -47,15 +49,15 @@ What it is *not* is a simple Dropbox-style folder sync. It's a genuine version c
 
 ## The 3 Core Superpowers: Backup, Sync, and Version History {#three-superpowers}
 
-### 1. Backup
+### 1. [Backup](https://www.amazon.com/s?k=Backup&tag=notesautomate-20)
 
 Every time the plugin runs, it packages up all changes in your vault and pushes them to a remote repository — typically a free private repository on GitHub. That repository sits on Microsoft's servers, geographically separate from your computer. If your laptop is stolen, your hard drive fails, or you accidentally delete your entire vault, your notes are sitting safely in the cloud, intact. The backup happens automatically on a schedule you set. Configure it to run every 15 minutes and you'll never lose more than 15 minutes of work.
 
-### 2. Sync
+### 2. [Sync](https://www.amazon.com/s?k=Sync&tag=notesautomate-20)
 
 Once your vault lives on GitHub, any other device that has Git installed can pull down the exact same vault. Write 1,000 words on your desktop in the evening, push the changes, and by the time you open your laptop the next morning and pull, those words are already there. This works across Windows, macOS, and Linux desktops with full reliability. Mobile (iOS and Android) requires a bit of extra configuration through third-party apps, which the community has documented extensively.
 
-### 3. Version History
+### 3. [Version History](https://www.amazon.com/s?k=Version%20History&tag=notesautomate-20)
 
 This is where the Obsidian Git plugin genuinely earns its reputation as the obsidian backup solution of choice for power users. Every saved snapshot is called a "commit." You can browse those commits inside Obsidian, see exactly what changed in each note, and restore a previous version of a specific file without touching the rest of your vault. Accidentally deleted a paragraph you spent an hour writing? Find the commit from before you deleted it, pull that one file back, and carry on. No other free tool gives you this level of granularity.
 

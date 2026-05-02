@@ -9,6 +9,8 @@ slug: "local-gpt-plugin-for-obsidian-privacy"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Local GPT Plugin for Obsidian Privacy: Complete Guide
 
 > **Quick Answer:** Using a local GPT plugin for Obsidian ensures absolute privacy because all AI processing happens on your own hardware, never sending your sensitive personal knowledge base (PKM) data to external servers like OpenAI or Anthropic. You achieve this by running local LLMs via tools like LM Studio or Ollama and connecting them to Obsidian using plugins like BMO Chatbot or Text Generator.
@@ -76,22 +78,22 @@ If you have an M2/M3 Max Mac or a desktop with an Nvidia RTX 3080/4090, you can 
 
 To establish a secure, local GPT workflow in Obsidian, follow these structured steps to ensure stability and performance.
 
-### 1. Establish the Local Server
+### 1. [Establish the Local Server](https://www.amazon.com/s?k=Establish%20the%20Local%20Server&tag=notesautomate-20)
 Download and install Ollama. Open your terminal and run `ollama serve` to start the background process. Then, in a new terminal window, pull your chosen model, for example: `ollama run llama3`. Wait for the download to finish. Verify the local server is running by navigating to `http://localhost:11434` in your web browser; you should see an "Ollama is running" message.
 
-### 2. Configure the Obsidian Plugin
+### 2. [Configure the Obsidian Plugin](https://www.amazon.com/s?k=Configure%20the%20Obsidian%20Plugin&tag=notesautomate-20)
 Install the **BMO Chatbot** plugin from the Obsidian community plugins repository. Navigate to the plugin settings:
 - Go to the **Models** section.
 - Under **Connection Type**, select **Ollama**.
 - The Ollama REST API URL should default to `http://localhost:11434`.
 - Click the refresh icon next to the model list. Your downloaded models (e.g., `llama3:latest`) should appear in the dropdown. Select it.
 
-### 3. Manage System Resources
+### 3. [Manage System Resources](https://www.amazon.com/s?k=Manage%20System%20Resources&tag=notesautomate-20)
 Running an LLM locally while working in Obsidian will drain your battery quickly and heat up your machine. 
 - Ensure your inference engine is set to unload the model from memory after a period of inactivity (e.g., 5 minutes). Ollama does this by default; in LM Studio, this must be configured in the server settings.
 - If generation is too slow (less than 10 tokens per second), switch to a model with a lower quantization level (e.g., from Q8 to Q4) to reduce the computational load.
 
-### 4. Optimize Note Context
+### 4. [Optimize Note Context](https://www.amazon.com/s?k=Optimize%20Note%20Context&tag=notesautomate-20)
 Local models, especially smaller 8B models, have smaller context windows (the amount of text they can remember at once) and can get "confused" easily compared to GPT-4. When asking your local AI about a note, highlight exactly the text you want it to read, or use the plugin's commands to inject only the specific headers relevant to your query. Avoid injecting your entire daily note if only one paragraph matters.
 
 ## Conclusion

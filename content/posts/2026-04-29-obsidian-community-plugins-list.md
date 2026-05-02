@@ -11,6 +11,8 @@ type: "informational"
 tags: ["obsidian", "community", "plugins", "obsidian community plugins list"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # The Ultimate Obsidian Community Plugins List (2024): Categorized by User & Workflow
 
 *Last updated: June 2024 · Reading time: ~12 minutes*
@@ -89,43 +91,43 @@ Go to **Settings → Community Plugins** and click **Check for Updates**. Update
 
 These are the plugins that consistently show up in power users' vaults and deliver immediate, tangible value for most workflows.
 
-### 1. Templater
+### 1. [Templater](https://www.amazon.com/s?k=Templater&tag=notesautomate-20)
 **What it does:** Lets you create reusable note templates with dynamic values—current date, prompt input, JavaScript functions. It replaces the basic core Templates plugin.
 **Quick-start tip:** Create a `Daily Note` template that auto-fills the date and links to the previous day's note. Your morning setup drops from two minutes to three seconds.
 
-### 2. Calendar
+### 2. [Calendar](https://www.amazon.com/s?k=Calendar&tag=notesautomate-20)
 **What it does:** Adds a calendar panel in the sidebar. Click any day to open or create a daily note.
 **Quick-start tip:** Pair it with Periodic Notes (also free) to manage weekly and monthly reviews from the same panel.
 
-### 3. Tasks
+### 3. [Tasks](https://www.amazon.com/s?k=Tasks&tag=notesautomate-20)
 **What it does:** Turns Obsidian into a capable task manager. Adds due dates, recurrence, priorities, and a global task query view across your entire vault.
 **Quick-start tip:** Use the `Tasks: Create or edit task` command palette shortcut to add structured tasks without memorizing syntax.
 
-### 4. Dataview
+### 4. [Dataview](https://www.amazon.com/s?k=Dataview&tag=notesautomate-20)
 **What it does:** Queries your vault like a database. Write SQL-style queries in code blocks to pull notes by tag, date, field, or folder.
 **Quick-start tip:** Start with `LIST FROM #project` before tackling TABLE queries. Complexity can wait.
 
-### 5. Obsidian Git
+### 5. [Obsidian Git](https://www.amazon.com/s?k=Obsidian%20Git&tag=notesautomate-20)
 **What it does:** Auto-commits and pushes your vault to a GitHub repository on a schedule you set.
 **Quick-start tip:** Set auto-backup to every 10 minutes. You now have a full version history for every note without thinking about it.
 
-### 6. QuickAdd
+### 6. [QuickAdd](https://www.amazon.com/s?k=QuickAdd&tag=notesautomate-20)
 **What it does:** Creates macros to capture information fast—add a book to your reading list, log a meeting note, append to a daily note—without navigating there manually.
 **Quick-start tip:** Set up one Capture macro tied to a hotkey. Use it for 48 hours and you'll set up five more.
 
-### 7. Natural Language Dates
+### 7. [Natural Language Dates](https://www.amazon.com/s?k=Natural%20Language%20Dates&tag=notesautomate-20)
 **What it does:** Type `@tomorrow` or `@next Friday` anywhere and it converts to a formatted date link.
 **Quick-start tip:** Essential if you use Tasks or any date-heavy workflow.
 
-### 8. Linter
+### 8. [Linter](https://www.amazon.com/s?k=Linter&tag=notesautomate-20)
 **What it does:** Auto-formats your notes on save—consistent YAML frontmatter, heading levels, list spacing, line breaks.
 **Quick-start tip:** Enable "Lint on save" immediately. It silently fixes bad formatting you didn't know you were creating.
 
-### 9. Advanced Tables
+### 9. [Advanced Tables](https://www.amazon.com/s?k=Advanced%20Tables&tag=notesautomate-20)
 **What it does:** Makes editing Markdown tables bearable. Tab to navigate cells, auto-formats columns, adds sort buttons.
 **Quick-start tip:** If you've ever manually spaced Markdown table pipes, install this right now.
 
-### 10. Editing Toolbar
+### 10. [Editing Toolbar](https://www.amazon.com/s?k=Editing%20Toolbar&tag=notesautomate-20)
 **What it does:** Adds a formatting toolbar (bold, italic, code, callouts) for users who don't want to memorize every Markdown shortcut—especially useful on mobile.
 **Quick-start tip:** Customize the toolbar to include only the six commands you actually use. Default toolbar has too much noise.
 

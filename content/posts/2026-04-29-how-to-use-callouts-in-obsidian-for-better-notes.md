@@ -11,6 +11,8 @@ type: "informational"
 tags: ["obsidian", "callouts", "they", "game changer"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # How to Use Callouts in Obsidian for Better Notes (A Practical PKM Guide)
 
 ---
@@ -137,7 +139,7 @@ If you want dozens of beautiful pre-configured callouts without writing a single
 
 Five callouts designed for real PKM workflows. Copy each block into your `custom-callouts.css` file.
 
-### 1. `[!action]` — Action Item (Green)
+### 1. [`[!action]` — Action Item (Green)](https://www.amazon.com/s?k=%5B%21action%5D%20%E2%80%94%20Action%20Item%20%28Green%29&tag=notesautomate-20)
 
 ```css
 .callout[data-callout="action"] {
@@ -150,7 +152,7 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 
 ---
 
-### 2. `[!key]` — Key Insight (Amber)
+### 2. [`[!key]` — Key Insight (Amber)](https://www.amazon.com/s?k=%5B%21key%5D%20%E2%80%94%20Key%20Insight%20%28Amber%29&tag=notesautomate-20)
 
 ```css
 .callout[data-callout="key"] {
@@ -163,7 +165,7 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 
 ---
 
-### 3. `[!summary]` — TL;DR Block (Blue-Grey)
+### 3. [`[!summary]` — TL;DR Block (Blue-Grey)](https://www.amazon.com/s?k=%5B%21summary%5D%20%E2%80%94%20TL%3BDR%20Block%20%28Blue-Grey%29&tag=notesautomate-20)
 
 ```css
 .callout[data-callout="summary"] {
@@ -176,7 +178,7 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 
 ---
 
-### 4. `[!person]` — Contact / Attendee (Purple)
+### 4. [`[!person]` — Contact / Attendee (Purple)](https://www.amazon.com/s?k=%5B%21person%5D%20%E2%80%94%20Contact%20/%20Attendee%20%28Purple%29&tag=notesautomate-20)
 
 ```css
 .callout[data-callout="person"] {
@@ -189,7 +191,7 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 
 ---
 
-### 5. `[!goal]` — Project Goal (Teal)
+### 5. [`[!goal]` — Project Goal (Teal)](https://www.amazon.com/s?k=%5B%21goal%5D%20%E2%80%94%20Project%20Goal%20%28Teal%29&tag=notesautomate-20)
 
 ```css
 .callout[data-callout="goal"] {

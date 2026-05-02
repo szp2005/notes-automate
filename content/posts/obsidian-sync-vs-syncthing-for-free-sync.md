@@ -9,6 +9,8 @@ slug: "obsidian-sync-vs-syncthing-for-free-sync"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Obsidian Sync vs Syncthing for Free Sync: 2026 Comparison
 
 > **Quick Answer:** Syncthing is the most robust free, peer-to-peer sync solution for Android, Windows, Mac, and Linux, keeping your files completely private. However, because it lacks reliable iOS support, Apple users should opt for the official Obsidian Sync or community plugins like Remotely Save for a seamless cross-platform experience.
@@ -39,7 +41,7 @@ The primary drawback of the peer-to-peer model is simultaneous uptime. For Devic
 
 ## Comparing the Best Sync Solutions
 
-### 1. Obsidian Sync
+### 1. [Obsidian Sync](https://www.amazon.com/s?k=Obsidian%20Sync&tag=notesautomate-20)
 
 **Best for:** Users who want zero-friction, native synchronization across all platforms, especially iOS.
 **Price:** $4-$8/month
@@ -58,7 +60,7 @@ The service features end-to-end encryption by default, meaning not even the Obsi
 - Not a free solution, requiring a recurring monthly or annual subscription
 - Vault size limits exist depending on your subscription tier (1GB to 10GB)
 
-### 2. Syncthing
+### 2. [Syncthing](https://www.amazon.com/s?k=Syncthing&tag=notesautomate-20)
 
 **Best for:** Privacy-focused users and Android/PC owners seeking a powerful, completely free sync method.
 **Price:** Free
@@ -77,7 +79,7 @@ Because it operates entirely outside of the Obsidian application, Syncthing requ
 - Devices must be online simultaneously to execute the sync process
 - iOS support is currently non-existent, locking Apple mobile users out of the ecosystem
 
-### 3. Remotely Save (Community Plugin)
+### 3. [Remotely Save (Community Plugin)](https://www.amazon.com/s?k=Remotely%20Save%20%28Community%20Plugin%29&tag=notesautomate-20)
 
 **Best for:** Users who need a free sync method that works well on iOS and Android without paying for the official service.
 **Price:** Free (plus potential cloud storage costs)

@@ -9,6 +9,8 @@ slug: "how-to-use-obsidian-dataview-for-beginners"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # How to use Obsidian Dataview for beginners: Complete Guide
 
 > **Quick Answer:** To use Obsidian Dataview, install the plugin from community plugins, add structured metadata (like YAML frontmatter) to your notes, and write queries using the Dataview Query Language (DQL). A basic query looks like ````dataview LIST FROM "folder"````, which automatically generates a list of all notes within that specific folder. 
@@ -185,7 +187,7 @@ SORT rating DESC, author ASC
 
 Understanding the syntax is one thing, but applying it is where the value lies. Here are three common ways beginners can use Dataview to automate their workflows today.
 
-### 1. The Active Projects Dashboard
+### 1. [The Active Projects Dashboard](https://www.amazon.com/s?k=The%20Active%20Projects%20Dashboard&tag=notesautomate-20)
 
 Instead of losing track of current projects, create a central dashboard note. Ensure every project note in your vault has a `status` field in its YAML frontmatter.
 
@@ -198,7 +200,7 @@ SORT due_date ASC
 
 This single block guarantees you never lose track of an active project. When you finish a project and change its frontmatter status to "completed", it automatically vanishes from this dashboard.
 
-### 2. The Daily Journal Review
+### 2. [The Daily Journal Review](https://www.amazon.com/s?k=The%20Daily%20Journal%20Review&tag=notesautomate-20)
 
 If you write daily notes and use inline fields to track your mood (e.g., `mood:: 8`), you can review your entire month at a glance.
 
@@ -211,7 +213,7 @@ SORT file.name DESC
 
 This query introduces two built-in Dataview concepts: `file.cday` (creation date of the file) and `dur(30 days)` (a duration of 30 days). It dynamically looks back exactly one month from today, generating a table of your tracked metrics.
 
-### 3. The Content Pipeline
+### 3. [The Content Pipeline](https://www.amazon.com/s?k=The%20Content%20Pipeline&tag=notesautomate-20)
 
 If you write articles or create videos, managing your pipeline is essential.
 

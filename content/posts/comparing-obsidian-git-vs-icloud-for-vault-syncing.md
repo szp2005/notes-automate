@@ -8,6 +8,8 @@ slug: "comparing-obsidian-git-vs-icloud-for-vault-syncing"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Comparing Obsidian Git vs iCloud for Vault Syncing in 2026
 
 > **Quick Answer:** If you work entirely within the Apple hardware ecosystem, iCloud is the easiest, zero-configuration method for syncing your Obsidian vault. However, if you use a mix of Windows, Linux, or Android devices, or if you require strict version control to protect against accidental deletions, Obsidian Git is the vastly superior and more reliable solution.
@@ -26,7 +28,7 @@ Git relies on **snapshot-based version control**. Git tracks the exact additions
 
 ## Deep Dive: Syncing Obsidian with iCloud
 
-### 1. Apple iCloud Drive
+### 1. [Apple iCloud Drive](https://www.amazon.com/s?k=Apple%20iCloud%20Drive&tag=notesautomate-20)
 
 **Best for:** Users entirely within the Apple hardware ecosystem (Mac, iPhone, iPad).
 **Price:** Free (up to 5GB) to $9.99/mo for 2TB
@@ -51,7 +53,7 @@ Because iCloud manages file syncing directly through the operating system, Obsid
 
 ## Deep Dive: Syncing Obsidian with Git
 
-### 2. Obsidian Git (Community Plugin)
+### 2. [Obsidian Git (Community Plugin)](https://www.amazon.com/s?k=Obsidian%20Git%20%28Community%20Plugin%29&tag=notesautomate-20)
 
 **Best for:** Developers, power users, and cross-platform workers (Windows, Mac, Android, Linux).
 **Price:** Free

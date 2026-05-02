@@ -8,6 +8,8 @@ slug: "top-obsidian-plugins-for-creative-writers-in-2026"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Top Obsidian Plugins for Creative Writers in 2026
 
 > **Quick Answer:** The top Obsidian plugins for creative writers in 2026 include Longform for compiling manuscript drafts, Novel Word Count for tracking daily progress, and Dataview for dynamic world-building and character wikis. Together, these tools transform Obsidian from a simple note-taking app into a powerful, distraction-free writing environment capable of handling complex novel structures.
@@ -22,7 +24,7 @@ Whether you are pantser trying to keep track of a burgeoning cast of characters 
 
 When writing a novel, you rarely write a single document from start to finish. You write scenes, chapters, and fragments that eventually need to be stitched together. These plugins manage the actual text generation process.
 
-### 1. Longform
+### 1. [Longform](https://www.amazon.com/s?k=Longform&tag=notesautomate-20)
 
 **Best for:** Novelists and long-form essayists
 **Price:** Free
@@ -41,7 +43,7 @@ Beyond simple organization, Longform's compilation feature is its killer app. Wh
 - Learning curve for setting up projects and compilation rules
 - Can occasionally conflict with custom themes regarding pane styling
 
-### 2. Dangerzone Writing App
+### 2. [Dangerzone Writing App](https://www.amazon.com/s?k=Dangerzone%20Writing%20App&tag=notesautomate-20)
 
 **Best for:** Writers battling writer's block or perfectionism
 **Price:** Free
@@ -64,7 +66,7 @@ This plugin is not for editing or careful outlining. It is strictly for National
 
 Creative writing is a marathon. Maintaining momentum over months or years requires consistent tracking. Native Obsidian lacks dedicated goal-tracking mechanics, but the community has filled this gap effectively.
 
-### 3. Novel Word Count
+### 3. [Novel Word Count](https://www.amazon.com/s?k=Novel%20Word%20Count&tag=notesautomate-20)
 
 **Best for:** Authors tracking daily output and manuscript totals
 **Price:** Free
@@ -87,7 +89,7 @@ For novelists, this provides immediate, visual feedback on your progress. You ca
 
 Managing the continuity of a complex fictional universe is one of the hardest parts of writing. Obsidian's linking structure is ideal for story bibles, but these plugins elevate that capability.
 
-### 4. Dataview
+### 4. [Dataview](https://www.amazon.com/s?k=Dataview&tag=notesautomate-20)
 
 **Best for:** Sci-fi/Fantasy authors and meticulous world-builders
 **Price:** Free
@@ -106,7 +108,7 @@ Want a table of all living characters who reside in a specific city, sorted by a
 - Requires learning a SQL-like query language
 - Heavily reliant on disciplined use of YAML frontmatter
 
-### 5. Kanban
+### 5. [Kanban](https://www.amazon.com/s?k=Kanban&tag=notesautomate-20)
 
 **Best for:** Plotters, visual thinkers, and series planners
 **Price:** Free
@@ -129,7 +131,7 @@ You can create lists for "Act I," "Act II," and "Act III," and use cards to repr
 
 Once the draft is complete, the focus shifts to revision. Obsidian's plain text nature makes it easy to read, but you need tools to help spot errors and improve prose quality.
 
-### 6. LanguageTool Integration
+### 6. [LanguageTool Integration](https://www.amazon.com/s?k=LanguageTool%20Integration&tag=notesautomate-20)
 
 **Best for:** Self-editing and catching grammatical errors
 **Price:** Free (Basic) - $25/year (Premium API)
