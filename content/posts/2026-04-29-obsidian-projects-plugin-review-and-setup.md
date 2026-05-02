@@ -7,6 +7,7 @@ description: "Provide pre-built, copy-and-paste project templates for specific w
 keywords: ["Obsidian project management", "Obsidian task management", "Obsidian Projects plugin tutorial", "how to use Obsidian Projects", "Obsidian Kanban board", "Obsidian Dataview vs Projects", "Obsidian gallery view", "Obsidian calendar view"]
 draft: false
 type: "informational"
+tags: ["obsidian", "projects", "plugin", "obsidian projects plugin review and setup"]
 ---
 
 # Obsidian Projects Plugin: The Ultimate Review, Setup Guide & Power-User Templates (2024)

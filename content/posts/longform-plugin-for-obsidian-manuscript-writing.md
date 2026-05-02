@@ -167,3 +167,10 @@ Yes. Because Longform saves its project sequence data inside the `.obsidian/plug
 
 ### Can I track my daily writing goals within the Longform plugin?
 Longform provides basic word counts for individual scenes and the total project, but it does not have built-in daily goal tracking. For daily session tracking, you should pair it with the Obsidian Word Sprint plugin or the Better Word Count plugin.
+
+---
+
+## Related Reading
+
+- [Obsidian Bases Native Update Review 2026: The Notion Killer?](/posts/obsidian-bases-native-update-review-2026/)
+- [Tag Wrangler for Bulk Tag Management in Obsidian: Complete Guide](/posts/tag-wrangler-for-bulk-tag-management-obsidian/)

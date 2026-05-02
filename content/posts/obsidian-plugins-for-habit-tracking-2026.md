@@ -122,3 +122,10 @@ Dataview is primarily a query engine that retrieves data and presents it in tabl
 
 ### How do I reset a habit tracking goal for a new month?
 You do not need to delete old data. Instead, adjust the query parameters in your Dataview or Tracker blocks to filter specifically by the new month's date range. By setting a hard start and end date in the query logic of your monthly review template, your dashboard will automatically start fresh while preserving your historical data in the daily notes.
+
+---
+
+## Related Reading
+
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
+- [QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide](/posts/quickadd-plugin-for-rapid-capture-in-obsidian/)

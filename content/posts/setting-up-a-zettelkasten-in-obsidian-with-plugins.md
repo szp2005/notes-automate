@@ -225,3 +225,10 @@ Yes, because Obsidian relies on local Markdown files, you can sync your vault us
 
 ### What is the difference between tags and folders in a Zettelkasten?
 Folders force a note into a single, rigid location, creating artificial boundaries between ideas. Tags allow a note to exist across multiple categories simultaneously. In a Zettelkasten, folders should be used sparingly for broad architectural divisions (Inbox vs. Permanent), while tags should denote the state or format of the information.
+
+---
+
+## Related Reading
+
+- [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)
+- [HoverNotes for Timestamped Video Notes in Obsidian: Complete Guide](/posts/hovernotes-for-timestamped-video-notes-obsidian/)

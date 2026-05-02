@@ -172,3 +172,10 @@ Plugin compatibility on mobile devices can vary based on the specific OS limitat
 
 ### Are there alternatives to HoverNotes for timestamping in Obsidian?
 Yes, the Media Extended plugin is the most prominent alternative. It offers robust timestamping, speed controls, and media handling, but integrates the player directly into Obsidian's standard workspace panes rather than utilizing a floating window interface.
+
+---
+
+## Related Reading
+
+- [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)
+- [How to Publish Obsidian Notes to a Blog: 5-Step Guide](/posts/how-to-publish-obsidian-notes-to-a-blog/)

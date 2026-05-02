@@ -141,3 +141,10 @@ Obsidian Publish is worth the cost if you prioritize ease of use over technical 
 
 ### Can I use a custom domain with these publishing methods?
 Yes. Obsidian Publish, Vercel, Netlify, and Cloudflare Pages all support routing to custom domains. You simply need to update your domain registrar's DNS records (adding A records or CNAME records) to point to your hosting provider's servers.
+
+---
+
+## Related Reading
+
+- [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)
+- [HoverNotes for Timestamped Video Notes in Obsidian: Complete Guide](/posts/hovernotes-for-timestamped-video-notes-obsidian/)

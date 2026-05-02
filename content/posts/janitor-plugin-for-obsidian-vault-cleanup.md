@@ -124,3 +124,10 @@ By default, Obsidian and the Janitor plugin move deleted files to the system tra
 
 ### Does Janitor work on mobile devices?
 Yes, community plugins like Janitor operate on the mobile versions of Obsidian (iOS and Android). However, because mobile operating systems handle file systems differently, scanning a massive vault on a phone may be slower than on a desktop computer. It is generally recommended to perform bulk cleanups on a desktop environment.
+
+---
+
+## Related Reading
+
+- [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)
+- [Linter Plugin for Obsidian Auto-Formatting: Complete Guide](/posts/linter-plugin-for-obsidian-auto-formatting/)

@@ -131,3 +131,10 @@ To prevent conflicts, ensure the raw templates you build for Templater already c
 
 ### Can Linter format code blocks inside my notes?
 The Obsidian Linter plugin focuses primarily on Markdown syntax, spacing, and frontmatter. It does not act as a language-specific code formatter (like Prettier or Black). It will ignore the syntax inside fenced code blocks to prevent breaking your code snippets.
+
+---
+
+## Related Reading
+
+- [Janitor Plugin for Obsidian Vault Cleanup: Complete 2026 Guide](/posts/janitor-plugin-for-obsidian-vault-cleanup/)
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

@@ -176,3 +176,10 @@ This is likely due to halation caused by too much contrast between the text and 
 
 ### Will these themes break when Obsidian updates?
 Major Obsidian updates (like the shift to version 1.0 or 1.5) sometimes change underlying CSS classes, which can temporarily break custom themes. However, popular themes like Minimal and Things are maintained by highly active developers who typically issue compatibility patches within days of a major release.
+
+---
+
+## Related Reading
+
+- [Why Track Habits in Obsidian in 2024?](/posts/best-obsidian-plugins-for-habit-tracking-2024/)
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

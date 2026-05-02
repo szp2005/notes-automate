@@ -189,3 +189,10 @@ You can adjust the global text size directly in Obsidian's core Appearance setti
 
 ### Does the Minimal theme slow down Obsidian?
 No, Minimal is highly optimized and relies primarily on native CSS variables. It is generally as fast, if not faster, than the default theme. However, enabling dozens of custom CSS snippets on top of the theme can theoretically impact load times on older hardware.
+
+---
+
+## Related Reading
+
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
+- [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)

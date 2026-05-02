@@ -7,6 +7,7 @@ description: "Create a one-stop resource that consolidates information currently
 keywords: ["Obsidian community plugins", "Obsidian plugin help", "Obsidian plugin GitHub", "how to use Obsidian plugins", "Obsidian plugin guide", "Obsidian Dataview documentation", "Obsidian Templater docs", "find Obsidian plugin repository"]
 draft: false
 type: "informational"
+tags: ["easiest", "method", "finding", "docs"]
 ---
 
 # How to Find Obsidian Plugin Documentation: Every Method, Step by Step

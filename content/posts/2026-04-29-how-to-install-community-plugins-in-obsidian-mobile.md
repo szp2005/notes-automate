@@ -1,12 +1,13 @@
 ---
-title: "Why Use Community Plugins on Obsidian Mobile?"
+title: "Obsidian Mobile Community Plugins: Benefits and Setup Guide"
 author: "Alex Chen"
 date: 2026-04-29
 slug: how-to-install-community-plugins-in-obsidian-mobile
-description: "Emphasize the security implications of turning off 'Restricted Mode' and provide a checklist for how to vet plugins for safety and mobile compatibility before installing."
+description: "Emphasize the security implications of turning off 'Restricted Mode' and provide a checklist for how to vet plugins for safety and mobile compatibility."
 keywords: ["obsidian ios plugins", "obsidian android plugins", "turn off restricted mode obsidian", "obsidian mobile plugins not showing", "best obsidian mobile plugins", "how to use BRAT on obsidian mobile", "obsidian sync plugin settings", "obsidian vault mobile"]
 draft: false
 type: "informational"
+tags: ["use", "community", "plugins", "obsidian"]
 ---
 
 # How to Install Community Plugins in Obsidian Mobile (iOS & Android)

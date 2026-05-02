@@ -107,3 +107,10 @@ Yes. Modern embedding models, particularly those from OpenAI and Cohere, are hig
 
 ### What happens to my connections if I uninstall the plugin?
 The connections surfaced in the sidebar are generated dynamically and are not hardcoded into your markdown files. If you uninstall the plugin, you lose the automated suggestions. To preserve important insights, you should manually create standard Obsidian links (`[[ ]]`) between notes when the plugin reveals a valuable connection.
+
+---
+
+## Related Reading
+
+- [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)
+- [Janitor Plugin for Obsidian Vault Cleanup: Complete 2026 Guide](/posts/janitor-plugin-for-obsidian-vault-cleanup/)

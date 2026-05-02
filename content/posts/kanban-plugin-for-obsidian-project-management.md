@@ -176,3 +176,10 @@ Currently, you cannot embed a fully functional, interactive Kanban board within 
 
 ### How do I handle tasks that require multiple steps on a board?
 Instead of creating a single card for a massive task, either break the task down into smaller individual cards that move through the board sequentially, or create one card linked to a comprehensive Obsidian note. Keep the high-level card on the board, and manage the specific sub-steps using standard markdown checkboxes inside the linked note.
+
+---
+
+## Related Reading
+
+- [Why Track Habits in Obsidian in 2024?](/posts/best-obsidian-plugins-for-habit-tracking-2024/)
+- [Best Obsidian Themes for Dark Mode in 2026: Top Picks](/posts/best-obsidian-themes-for-dark-mode-2026/)

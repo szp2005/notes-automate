@@ -3,10 +3,11 @@ title: "The Power of Spaced Repetition in Your Second Brain"
 author: "Alex Chen"
 date: 2026-04-29
 slug: obsidian-anki-vs-spaced-repetition-plugin
-description: "Provide a clear decision-making framework or flowchart to guide users to the right plugin based on their specific needs (e.g., 'Are you a long-time Anki user?' or 'Do you need a mobile-first review experience?')."
+description: "Provide a clear decision-making framework or flowchart to guide users to the right plugin based on their specific needs (e.g., 'Are you a long-time Anki."
 keywords: ["obsidian flashcards", "obsidian spaced repetition setup", "anki integration obsidian", "obsidian sr plugin tutorial", "obsidian vs anki", "best way to learn with obsidian", "obsidian for students", "obsidian note-taking and learning"]
 draft: false
 type: "informational"
+tags: ["power", "spaced", "repetition", "second"]
 ---
 
 # Obsidian Anki vs Spaced Repetition Plugin: Which One Actually Fits Your Workflow?

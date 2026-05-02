@@ -1,12 +1,13 @@
 ---
-title: "Why Turn Your Obsidian Vault into a Public Blog?"
+title: "Publish Obsidian Notes: Turn Your Vault Into a Public Blog"
 author: "Alex Chen"
 date: 2026-04-29
 slug: how-to-publish-obsidian-notes-to-a-blog
-description: "Provide a decision-making framework with a comparison table (Cost vs. Technical Skill vs. Customization) to help users choose the right publishing method for their specific needs, rather than promoting a single solution."
+description: "Provide a decision-making framework with a comparison table (Cost vs. Technical Skill vs. Customization) to help users choose the right publishing method."
 keywords: ["Obsidian Publish", "digital garden", "static site generator", "Obsidian to Hugo", "Obsidian Quartz", "publish notes online", "Obsidian GitHub Pages", "Markdown blog"]
 draft: false
 type: "informational"
+tags: ["turn", "obsidian", "vault", "into"]
 ---
 
 # How to Publish Obsidian Notes to a Blog: Every Method Compared (2024)

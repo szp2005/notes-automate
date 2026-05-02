@@ -3,10 +3,11 @@ title: "The Core Question: What Problem Does Obsidian Sync Solve?"
 author: "Alex Chen"
 date: 2026-04-28
 slug: is-obsidian-sync-worth-it-review
-description: "Create a detailed 'Who is this for?' persona breakdown (e.g., The Busy Professional, The Security-Conscious Student, The Frugal Tinkerer) to help readers self-identify and make a decision."
+description: "Create a detailed 'Who is this for?' persona breakdown (e.g., The Busy Professional, The Security-Conscious Student, The Frugal Tinkerer) to help readers."
 keywords: ["obsidian sync price", "obsidian sync alternatives", "obsidian sync vs icloud", "obsidian sync vs git", "obsidian sync setup", "obsidian mobile sync", "end-to-end encrypted notes", "obsidian version history"]
 draft: false
 type: "informational"
+tags: ["core", "question", "problem", "obsidian"]
 ---
 
 # Is Obsidian Sync Worth It? An Honest, No-Nonsense Review (2024)

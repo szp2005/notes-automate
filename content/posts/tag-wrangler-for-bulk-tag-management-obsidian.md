@@ -130,3 +130,10 @@ Yes, Tag Wrangler is fully compatible with Obsidian for iOS and Android. You can
 
 ### Can I merge more than two tags at once?
 While you cannot select multiple tags simultaneously to merge in a single click, you can quickly merge multiple tags into a master tag by dragging and dropping them one by one onto the target tag in the Tag Pane.
+
+---
+
+## Related Reading
+
+- [Janitor Plugin for Obsidian Vault Cleanup: Complete 2026 Guide](/posts/janitor-plugin-for-obsidian-vault-cleanup/)
+- [Longform Plugin for Obsidian: Complete Guide to Manuscript Writing](/posts/longform-plugin-obsidian-manuscript-writing/)

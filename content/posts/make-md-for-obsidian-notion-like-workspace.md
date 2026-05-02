@@ -99,3 +99,10 @@ Make.md is available on the Obsidian mobile app and functions similarly to the d
 
 ### How do I uninstall Make.md safely?
 Simply disable and uninstall the plugin from the Community Plugins menu. Your folders will return to the native File Explorer, your Context tables will disappear (but the YAML data remains in the files), and your Flow embeds will revert to standard Obsidian embed syntax. No data is lost in the removal process.
+
+---
+
+## Related Reading
+
+- [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)
+- [HoverNotes for Timestamped Video Notes in Obsidian: Complete Guide](/posts/hovernotes-for-timestamped-video-notes-obsidian/)

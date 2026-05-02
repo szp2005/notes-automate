@@ -140,3 +140,10 @@ If you cancel your subscription, your remote vault on the Obsidian servers is ev
 
 ### Does Obsidian Sync backup my plugins and themes?
 Yes. You can configure Obsidian Sync to synchronize your `.obsidian` folder, which contains your themes, community plugins, hotkeys, and core settings. This ensures your working environment is identical across all your devices.
+
+---
+
+## Related Reading
+
+- [How to use Obsidian Dataview for beginners: Complete Guide](/posts/how-to-use-obsidian-dataview-for-beginners/)
+- [QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide](/posts/quickadd-plugin-for-rapid-capture-in-obsidian/)

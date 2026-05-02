@@ -1,5 +1,5 @@
 ---
-title: "Why Manage Projects in Obsidian? The Power of a Unified System"
+title: "Obsidian Tasks Plugin: Unified Project Management System"
 author: "Alex Chen"
 date: 2026-04-28
 slug: using-obsidian-tasks-plugin-for-project-management
@@ -7,6 +7,7 @@ description: "Provide a full project management template (a set of files and fol
 keywords: ["Obsidian Dataview plugin", "Obsidian project management template", "Obsidian GTD workflow", "Obsidian recurring tasks", "Obsidian task management", "Obsidian Projects plugin", "Obsidian task queries", "how to use obsidian for projects"]
 draft: false
 type: "informational"
+tags: ["manage", "projects", "obsidian", "power"]
 ---
 
 # Using the Obsidian Tasks Plugin for Project Management: A Complete Step-by-Step Guide

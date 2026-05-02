@@ -136,3 +136,10 @@ You can trigger QuickAdd macros on mobile by pulling down the command palette wi
 
 ### Does QuickAdd work with the Obsidian Dataview plugin?
 Yes. QuickAdd perfectly complements Dataview. You can use QuickAdd to rapidly insert properly formatted YAML frontmatter or inline Dataview fields into your notes. Once captured via QuickAdd, Dataview will automatically query and display that newly logged information across your vault dashboards.
+
+---
+
+## Related Reading
+
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
+- [How to use Obsidian Dataview for beginners: Complete Guide](/posts/how-to-use-obsidian-dataview-for-beginners/)

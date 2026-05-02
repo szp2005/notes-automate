@@ -113,3 +113,10 @@ Local models running on standard consumer hardware are smaller (fewer parameters
 
 ### How much hard drive space do local models take up?
 It depends on the model size and quantization. A small, highly compressed model like Phi-3 Mini might take up around 2.5GB of disk space. A standard 8B parameter model like Llama 3 (Q4 quantization) requires about 4.7GB. Larger models like Mixtral can require 25GB or more.
+
+---
+
+## Related Reading
+
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
+- [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)

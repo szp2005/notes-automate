@@ -7,6 +7,7 @@ description: "Provide a detailed performance analysis, including load times and 
 keywords: ["Obsidian Excalidraw tutorial", "how to use Excalidraw in Obsidian", "Obsidian drawing plugin", "Excalidraw vs Obsidian Canvas", "visual note-taking Obsidian", "mind mapping in Obsidian", "Obsidian plugin for diagrams", "Excalidraw scripts for Obsidian"]
 draft: false
 type: "informational"
+tags: ["excalidraw", "use", "obsidian", "excalidraw plugin for obsidian review"]
 ---
 
 # Excalidraw Plugin for Obsidian Review: The Definitive Visual Thinking Tool?

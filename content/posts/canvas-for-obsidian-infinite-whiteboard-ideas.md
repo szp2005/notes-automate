@@ -119,3 +119,10 @@ Currently, Obsidian does not support deep linking directly to a specific card or
 
 ### How do I export my Obsidian Canvas to share with others?
 You can export your entire Canvas, or just a specific highlighted section of it, as a static image. Click the gear icon in the top right corner of the Canvas view and select "Export as image." This allows you to generate a high-resolution PNG file of your whiteboard, which you can easily share via email, upload to cloud storage, or embed directly into a presentation.
+
+---
+
+## Related Reading
+
+- [Obsidian Plugins for Habit Tracking 2026: Complete Setup Guide](/posts/obsidian-plugins-for-habit-tracking-2026/)
+- [QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide](/posts/quickadd-plugin-for-rapid-capture-in-obsidian/)

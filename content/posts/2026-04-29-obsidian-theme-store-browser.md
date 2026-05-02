@@ -7,6 +7,7 @@ description: "The primary and most efficient way to browse and install themes is
 keywords: ["how to install obsidian themes", "best obsidian themes", "obsidian community themes", "obsidian appearance settings", "customize obsidian", "obsidian css snippets", "obsidian theme gallery", "obsidian marketplace"]
 draft: false
 type: "review"
+tags: ["two", "ways", "browse", "obsidian"]
 ---
 
 # The Obsidian Theme Store Browser: How to Find, Install, and Manage Community Themes

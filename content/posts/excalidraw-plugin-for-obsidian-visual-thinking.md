@@ -97,3 +97,10 @@ Yes. Since the text elements you type onto an Excalidraw canvas are saved as rea
 
 ### How do I link to a specific part of a large Excalidraw canvas?
 You can use Excalidraw's "Group" or "Frame" features to define specific areas. Once grouped, you can right-click the element and select "Copy block reference," which allows you to transclude or link to just that specific section of the canvas from any markdown note.
+
+---
+
+## Related Reading
+
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
+- [What is Excalidraw and Why Use It in Obsidian?](/posts/excalidraw-plugin-for-obsidian-review/)

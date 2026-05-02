@@ -1,5 +1,5 @@
 ---
-title: "Why Build a Zettelkasten in Obsidian?"
+title: "Obsidian Zettelkasten Setup: Best Plugins and Workflow Guide"
 date: 2026-04-28
 slug: setting-up-a-zettelkasten-in-obsidian-with-plugins
 description: "Provide an opinionated, 'one-click' starter vault template with pre-configured plugins and settings, allowing users to get started immediately."
@@ -7,6 +7,7 @@ keywords: ["obsidian zettelkasten guide", "how to build a second brain in obsidi
 draft: false
 author: "Alex Chen"
 type: "informational"
+tags: ["build", "zettelkasten", "obsidian", "setting up a zettelkasten in obsidian with plugins"]
 ---
 
 # Setting Up a Zettelkasten in Obsidian with Plugins: A Step-by-Step Workflow Guide

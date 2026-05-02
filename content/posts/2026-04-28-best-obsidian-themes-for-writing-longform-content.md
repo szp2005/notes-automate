@@ -1,5 +1,5 @@
 ---
-title: "Why Your Theme is Your Most Important Writing Tool in Obsidian"
+title: "Best Obsidian Themes for Writing Longform Content"
 author: "Alex Chen"
 date: 2026-04-28
 slug: best-obsidian-themes-for-writing-longform-content
@@ -7,6 +7,7 @@ description: "Provide a 'Writer's Scorecard' for each theme, rating them on spec
 keywords: ["obsidian themes for writers", "minimalist obsidian themes", "obsidian focus mode", "obsidian css for writing", "best obsidian setup for authors", "obsidian typography settings", "distraction-free markdown editor", "obsidian readability"]
 draft: false
 type: "informational"
+tags: ["theme", "most", "important", "writing"]
 ---
 
 # Best Obsidian Themes for Writing Longform Content: A Writer's Scorecard Comparison (2024)

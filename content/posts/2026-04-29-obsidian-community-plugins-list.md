@@ -3,10 +3,11 @@ title: "What Are Obsidian Community Plugins?"
 author: "Alex Chen"
 date: 2026-04-29
 slug: obsidian-community-plugins-list
-description: "Create a more user-friendly experience than the official docs by categorizing plugins by user persona and workflow (e.g., 'For Writers', 'For Students', 'For Developers')."
+description: "Create a more user-friendly experience than the official docs by categorizing plugins by user persona and workflow (e.g., 'For Writers', 'For Students'."
 keywords: ["best obsidian plugins", "how to install obsidian plugins", "obsidian dataview plugin", "obsidian templater plugin", "obsidian tasks plugin", "obsidian calendar plugin", "obsidian plugin directory", "obsidian core plugins"]
 draft: false
 type: "informational"
+tags: ["obsidian", "community", "plugins", "obsidian community plugins list"]
 ---
 
 # The Ultimate Obsidian Community Plugins List (2024): Categorized by User & Workflow

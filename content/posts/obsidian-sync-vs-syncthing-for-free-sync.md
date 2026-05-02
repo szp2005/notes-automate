@@ -145,3 +145,10 @@ Absolutely not. You should never run two different synchronization protocols on 
 
 ### What happens if there is a sync conflict?
 A conflict occurs if you edit the same note on two different offline devices, and then bring them both online. Syncthing handles this by saving both versions of the file, appending a `sync-conflict` timestamp to one of them. You must then manually review both files and consolidate your changes.
+
+---
+
+## Related Reading
+
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
+- [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)

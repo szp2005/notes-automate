@@ -133,3 +133,10 @@ Yes. The 2026 update includes a robust formula engine that allows you to calcula
 
 ### Is the Obsidian Bases 2026 update available on iOS and Android?
 Yes. The shift away from heavy web-wrapper frameworks means the new SQLite-backed architecture runs natively on both iOS and Android versions of Obsidian. The UI automatically collapses into a mobile-friendly card layout on smaller screens.
+
+---
+
+## Related Reading
+
+- [Longform Plugin for Obsidian: Complete Guide to Manuscript Writing](/posts/longform-plugin-obsidian-manuscript-writing/)
+- [Tag Wrangler for Bulk Tag Management in Obsidian: Complete Guide](/posts/tag-wrangler-for-bulk-tag-management-obsidian/)

@@ -3,10 +3,11 @@ title: "The Core Dilemma: Paid Convenience vs. Free Control"
 author: "Alex Chen"
 date: 2026-04-28
 slug: obsidian-sync-vs-syncthing-for-free-note-synchronization
-description: "Provide a 'Who is this for?' decision matrix that maps user personas (e.g., 'The Privacy-Conscious Tinkerer', 'The Busy Professional', 'The Cross-Platform User') to the most suitable sync solution, making the choice immediately actionable."
+description: "Provide a 'Who is this for?' decision matrix that maps user personas (e.g., 'The Privacy-Conscious Tinkerer', 'The Busy Professional', 'The Cross-Platform."
 keywords: ["obsidian sync alternatives", "free obsidian sync", "syncthing obsidian setup", "obsidian ios sync free", "obsidian android sync", "obsidian sync cost", "obsidian end-to-end encryption", "how to sync obsidian notes between devices"]
 draft: false
 type: "review"
+tags: ["core", "dilemma", "paid", "convenience"]
 ---
 
 # Obsidian Sync vs Syncthing for Free Note Synchronization: The Honest Comparison

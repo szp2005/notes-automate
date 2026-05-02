@@ -3,10 +3,11 @@ title: "What Are Obsidian Callouts (And Why They Are a Game-Changer)"
 author: "Alex Chen"
 date: 2026-04-29
 slug: how-to-use-callouts-in-obsidian-for-better-notes
-description: "Provide a 'copy-paste' CSS snippet library for 5-7 non-standard, workflow-oriented callouts (e.g., 'Action Item', 'Key Insight', 'Project Goal') that users can immediately implement."
+description: "Provide a 'copy-paste' CSS snippet library for 5-7 non-standard, workflow-oriented callouts (e.g., 'Action Item', 'Key Insight', 'Project Goal') that."
 keywords: ["obsidian custom callouts", "obsidian callout syntax", "obsidian admonitions", "obsidian css snippets", "obsidian note formatting", "how to customize obsidian", "obsidian tips and tricks", "personal knowledge management"]
 draft: false
 type: "informational"
+tags: ["obsidian", "callouts", "they", "game changer"]
 ---
 
 # How to Use Callouts in Obsidian for Better Notes (A Practical PKM Guide)

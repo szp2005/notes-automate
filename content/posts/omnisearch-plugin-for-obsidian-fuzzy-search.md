@@ -106,3 +106,10 @@ The plugin performs indexing asynchronously in the background. While it may brie
 
 ### Can Omnisearch search across multiple languages?
 Yes. The fuzzy search works algorithmically regardless of the language used in the markdown text. For extracting text from images and PDFs, you must ensure the appropriate language packs are installed and selected within the Text Extractor plugin settings.
+
+---
+
+## Related Reading
+
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
+- [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)

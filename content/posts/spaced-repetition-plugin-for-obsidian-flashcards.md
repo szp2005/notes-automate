@@ -165,3 +165,10 @@ Obsidian natively updates internal links when files are moved. Because the Space
 
 ### Can I export these cards to Anki later if I change my mind?
 Direct export is not natively supported by the Spaced Repetition plugin itself. However, because your cards are formatted with predictable markdown syntax (`::` or `==`), you can easily write a simple Python script or use community-built regex parsers to extract the text and convert it into a CSV file, which can then be imported directly into Anki.
+
+---
+
+## Related Reading
+
+- [Why Track Habits in Obsidian in 2024?](/posts/best-obsidian-plugins-for-habit-tracking-2024/)
+- [Best Obsidian Themes for Dark Mode in 2026: Top Picks](/posts/best-obsidian-themes-for-dark-mode-2026/)

@@ -1,12 +1,13 @@
 ---
-title: "Why Obsidian is a Student's Secret Weapon"
+title: "Best Obsidian Plugins for Students: Your Academic Edge"
 author: "Alex Chen"
 date: 2026-04-29
 slug: what-are-the-best-obsidian-plugins-for-students
-description: "Structure the article around specific student workflows (e.g., 'Research & Citations', 'Writing Essays', 'Exam Prep') rather than a simple list, making it more actionable."
+description: "Structure the article around specific student workflows (e.g., 'Research & Citations', 'Writing Essays', 'Exam Prep') rather than a simple list, making it."
 keywords: ["Obsidian for academic writing", "Obsidian student setup", "Zettelkasten for students", "Obsidian citation management", "Obsidian spaced repetition plugin", "best note-taking apps for college", "Obsidian research workflow", "Obsidian templates for students"]
 draft: false
 type: "informational"
+tags: ["obsidian", "student", "secret", "weapon"]
 ---
 
 # What Are the Best Obsidian Plugins for Students? A Workflow-Based Guide

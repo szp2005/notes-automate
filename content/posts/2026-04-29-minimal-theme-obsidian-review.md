@@ -7,6 +7,7 @@ description: "Provide a detailed performance analysis, including startup time an
 keywords: ["obsidian minimal theme settings", "kepano obsidian theme", "best obsidian themes for writing", "obsidian style settings plugin", "clean obsidian setup", "obsidian customization css", "minimal theme obsidian tutorial", "obsidian focus mode"]
 draft: false
 type: "informational"
+tags: ["obsidian", "minimal", "theme", "overview"]
 ---
 
 # Obsidian Minimal Theme Review (2024): The Best Clean Interface for Your Second Brain?

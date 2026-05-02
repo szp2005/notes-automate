@@ -3,10 +3,11 @@ title: "What is the Obsidian Full Calendar Plugin?"
 author: "Alex Chen"
 date: 2026-04-29
 slug: obsidian-full-calendar-plugin-review
-description: "Provide a 'zero-to-hero' setup guide that covers not just basic installation but also the often-tricky configuration of CalDAV and Google Calendar sync, with screenshots for each step."
+description: "Provide a 'zero-to-hero' setup guide that covers not just basic installation but also the often-tricky configuration of CalDAV and Google Calendar sync."
 keywords: ["obsidian google calendar sync", "obsidian full calendar setup", "obsidian caldav integration", "best obsidian calendar plugin", "obsidian task management workflow", "obsidian planner setup", "how to use obsidian full calendar", "obsidian time blocking"]
 draft: false
 type: "informational"
+tags: ["obsidian", "full", "calendar", "plugin"]
 ---
 
 # Obsidian Full Calendar Plugin Review: Complete Setup Guide & Workflows (2024)

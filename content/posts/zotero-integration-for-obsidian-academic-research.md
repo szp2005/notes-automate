@@ -177,3 +177,10 @@ The Zotero Integration plugin supports updating existing notes. If you add new h
 
 ### Does this integration work with Zotero 6 and Zotero 7?
 Yes, the integration works with both versions. However, Zotero 7 introduced significant architecture changes. Ensure you are running the latest version of the Better BibTeX plugin and the Obsidian Zotero Integration plugin, as the developers frequently release updates to maintain compatibility with Zotero's internal database structure.
+
+---
+
+## Related Reading
+
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
+- [Excalidraw Plugin for Obsidian: Visual Thinking Complete Guide](/posts/excalidraw-plugin-for-obsidian-visual-thinking/)

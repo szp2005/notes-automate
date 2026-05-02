@@ -133,3 +133,10 @@ This usually occurs when you exceed the model's context window. If you ask a bro
 
 ### Can I run this offline without an internet connection?
 Yes, absolutely. If you configure Copilot to connect to a local server running Ollama or LM Studio, all data processing happens directly on your computer's CPU or GPU. This requires no internet connection and ensures maximum privacy.
+
+---
+
+## Related Reading
+
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
+- [HoverNotes for Timestamped Video Notes in Obsidian: Complete Guide](/posts/hovernotes-for-timestamped-video-notes-obsidian/)

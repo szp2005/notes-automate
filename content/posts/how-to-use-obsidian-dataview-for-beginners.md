@@ -252,3 +252,10 @@ By default, Dataview renders dynamic HTML inside Obsidian. To export the data to
 
 ### Does Dataview work on Obsidian mobile?
 Yes, Dataview works seamlessly on both the iOS and Android versions of Obsidian. However, very complex queries on massive vaults may render slightly slower on mobile hardware compared to a desktop computer.
+
+---
+
+## Related Reading
+
+- [QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide](/posts/quickadd-plugin-for-rapid-capture-in-obsidian/)
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

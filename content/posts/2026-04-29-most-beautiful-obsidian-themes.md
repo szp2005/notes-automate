@@ -1,12 +1,13 @@
 ---
-title: "Why Your Obsidian Theme is More Than Just Eye Candy"
+title: "Most Beautiful Obsidian Themes for Better Productivity"
 author: "Alex Chen"
 date: 2026-04-29
 slug: most-beautiful-obsidian-themes
-description: "Categorize themes by aesthetic (e.g., 'Minimalist & Clean', 'Cozy Dark Mode', 'Colorful & Vibrant') to help users quickly find a style that matches their personality, rather than presenting one long, undifferentiated list."
+description: "Categorize themes by aesthetic (e.g., 'Minimalist & Clean', 'Cozy Dark Mode', 'Colorful & Vibrant') to help users quickly find a style that matches their."
 keywords: ["obsidian css themes", "best obsidian themes 2024", "obsidian minimalist theme", "obsidian dark mode theme", "obsidian aesthetic setup", "how to install obsidian themes", "obsidian community themes", "obsidian theme customization"]
 draft: false
 type: "informational"
+tags: ["obsidian", "theme", "more", "than"]
 ---
 
 # Most Beautiful Obsidian Themes in 2024: Minimalist, Dark Mode & Vibrant Picks

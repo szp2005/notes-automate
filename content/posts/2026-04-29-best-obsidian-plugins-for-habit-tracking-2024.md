@@ -1,5 +1,5 @@
 ---
-title: "Why Track Habits in Obsidian in 2024?"
+title: "Obsidian Habit Tracking: Best Plugins for 2024"
 author: "Alex Chen"
 date: 2026-04-29
 slug: best-obsidian-plugins-for-habit-tracking-2024
@@ -7,6 +7,7 @@ description: "Provide a detailed comparison table rating each plugin on key crit
 keywords: ["obsidian habit tracker template", "obsidian daily notes habit tracking", "dataview habit tracker", "obsidian tracker plugin tutorial", "obsidian habits plugin", "pkm habit tracking", "obsidian mobile habit tracking", "how to build a habit tracker in obsidian"]
 draft: false
 type: "informational"
+tags: ["track", "habits", "obsidian", "best obsidian plugins for habit tracking 2024"]
 ---
 
 # Best Obsidian Plugins for Habit Tracking 2024: Build a Complete System That Actually Works

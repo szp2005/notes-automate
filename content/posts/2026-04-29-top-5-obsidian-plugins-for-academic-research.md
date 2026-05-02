@@ -1,12 +1,13 @@
 ---
-title: "Why Your Old Research Workflow is Broken (and How Obsidian Fixes It)"
+title: "Obsidian Plugins for Academic Research: 5 Best Tools"
 author: "Alex Chen"
 date: 2026-04-29
 slug: top-5-obsidian-plugins-for-academic-research
-description: "Competitors provide lists, but fail to show how the plugins integrate into a single, powerful workflow. Our angle will focus on the synergy between the top 5 plugins."
+description: "Competitors provide lists, but fail to show how the plugins integrate into a single, powerful workflow."
 keywords: ["Obsidian for PhD students", "Zotero Obsidian workflow", "Obsidian citation plugin", "academic knowledge management", "Obsidian literature review", "best Obsidian plugins for students", "Obsidian Zotero integration", "Dataview plugin for research"]
 draft: false
 type: "informational"
+tags: ["old", "research", "workflow", "broken"]
 ---
 
 # Top 5 Obsidian Plugins for Academic Research (And How They Work Together)
