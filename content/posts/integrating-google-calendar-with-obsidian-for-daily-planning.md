@@ -117,3 +117,10 @@ Yes, this is fully supported. Most calendar plugins allow you to authenticate an
 
 ### What happens to my notes if I uninstall the calendar plugin?
 Any calendar data dynamically rendered (such as a sidebar agenda view or a specific code block query) will disappear immediately. However, if the plugin generated physical markdown files for your events in a dedicated folder, those files will remain permanently in your vault unless you manually delete them.
+
+---
+
+## Related Reading
+
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

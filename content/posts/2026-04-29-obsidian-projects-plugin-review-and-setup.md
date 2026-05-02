@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-projects-plugin-review-and-setup.png"
 title: "What is the Obsidian Projects Plugin (And Who is it For?)"
 author: "Alex Chen"
 date: 2026-04-29

@@ -1,4 +1,5 @@
 ---
+image: "/og/applying-the-para-method-to-an-obsidian-vault.png"
 title: "Applying the PARA Method to an Obsidian Vault: Complete Guide"
 description: "Discover exactly how applying the PARA method to an Obsidian vault reduces friction in personal knowledge management with clear examples and workflows."
 pubDate: "2026-05-02"
@@ -145,3 +146,10 @@ Yes, but they serve different functions. PARA organizes your actionable life and
 
 ### How often should I clean out my Obsidian PARA structure?
 A quick weekly review is ideal for clearing out your Inbox and updating Project statuses. A more thorough monthly review is recommended for moving completed Projects into the Archives and demoting neglected Areas back into Resources.
+
+---
+
+## Related Reading
+
+- [Comparing Obsidian Git vs iCloud for Vault Syncing in 2026](/posts/comparing-obsidian-git-vs-icloud-for-vault-syncing/)
+- [QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide](/posts/quickadd-plugin-for-rapid-capture-in-obsidian/)

@@ -1,4 +1,5 @@
 ---
+image: "/og/local-gpt-plugin-for-obsidian-privacy.png"
 title: "Local GPT Plugin for Obsidian Privacy: Complete Guide"
 description: "Protect your personal knowledge base while using AI. Learn how to set up a Local GPT plugin for Obsidian for ultimate privacy and zero data leakage."
 pubDate: "2026-05-01"

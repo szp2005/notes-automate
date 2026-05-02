@@ -1,4 +1,5 @@
 ---
+image: "/og/managing-large-pdf-libraries-within-an-obsidian-vault.png"
 title: "Managing Large PDF Libraries Within an Obsidian Vault: Complete Setup Guide"
 description: "Learn how to organize, annotate, and search hundreds of PDFs inside Obsidian without slowing down your vault. A complete system for academics and researchers."
 pubDate: "2026-05-02"
@@ -143,3 +144,10 @@ For libraries larger than a few hundred megabytes, Zotero is superior. Zotero ha
 
 ### How do I delete PDFs from Obsidian that I am no longer using?
 Deleting a link to a PDF in a markdown note does not delete the file. You must locate the PDF in your file explorer pane and delete it manually, or use a plugin like "Clear Unused Images/Attachments" to bulk remove unlinked files.
+
+---
+
+## Related Reading
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

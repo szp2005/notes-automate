@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-install-community-plugins-in-obsidian-mobile.png"
 title: "Obsidian Mobile Community Plugins: Benefits and Setup Guide"
 author: "Alex Chen"
 date: 2026-04-29

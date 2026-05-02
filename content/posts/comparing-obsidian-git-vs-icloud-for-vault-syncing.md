@@ -138,3 +138,10 @@ This behavior is almost always caused by Apple's "Optimize Mac Storage" feature.
 
 ### Can I use both Obsidian Git and iCloud at the same time?
 Running two syncing engines simultaneously on the same vault is highly discouraged. Doing so creates a race condition where iCloud's background daemon and Git's commit protocol attempt to modify the same file state concurrently. This inevitably leads to severe file duplication, corrupted Git histories, and eventual data loss.
+
+---
+
+## Related Reading
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
+- [QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide](/posts/quickadd-plugin-for-rapid-capture-in-obsidian/)

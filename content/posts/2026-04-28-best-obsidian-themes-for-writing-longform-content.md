@@ -1,4 +1,5 @@
 ---
+image: "/og/best-obsidian-themes-for-writing-longform-content.png"
 title: "Best Obsidian Themes for Writing Longform Content"
 author: "Alex Chen"
 date: 2026-04-28

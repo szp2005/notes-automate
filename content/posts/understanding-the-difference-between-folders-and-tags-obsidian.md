@@ -1,4 +1,5 @@
 ---
+image: "/og/understanding-the-difference-between-folders-and-tags-obsidian.png"
 title: "Understanding the Difference Between Folders and Tags Obsidian Guide"
 description: "Master your PKM system by understanding the difference between folders and tags in Obsidian. Learn when to use each for optimal note retrieval and organization."
 pubDate: "2026-05-02"
@@ -134,3 +135,10 @@ No. Because Obsidian directly mirrors your computer's local file system, a `.md`
 
 ### Do tags slow down Obsidian performance?
 No, tags themselves do not noticeably impact system performance, even in vaults with tens of thousands of notes. However, an extreme volume of unique tags (e.g., thousands of distinct tags) can make the visual Tag Pane unwieldy to scroll through and complicate the auto-complete dropdown menu when typing.
+
+---
+
+## Related Reading
+
+- [Comparing Obsidian Git vs iCloud for Vault Syncing in 2026](/posts/comparing-obsidian-git-vs-icloud-for-vault-syncing/)
+- [What is Excalidraw and Why Use It in Obsidian?](/posts/excalidraw-plugin-for-obsidian-review/)

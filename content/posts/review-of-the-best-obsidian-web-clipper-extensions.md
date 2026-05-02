@@ -157,3 +157,10 @@ Markdown files are incredibly small text files. You could save thousands of full
 
 ### Do I need Obsidian Sync to use a web clipper?
 No. Clippers like MarkDownload save files directly to your local hard drive directory, while the Official Clipper routes data through the Obsidian URI protocol. Neither requires a paid sync subscription to function on a single device.
+
+---
+
+## Related Reading
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

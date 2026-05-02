@@ -148,3 +148,10 @@ Broken date links usually stem from using standard Obsidian templates instead of
 
 ### Is Dataview required for this setup to work?
 No. Dataview is highly recommended for automatically aggregating data like books read or projects finished, but the Periodic Notes plugin will generate your yearly review document perfectly fine relying only on manual text entry.
+
+---
+
+## Related Reading
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

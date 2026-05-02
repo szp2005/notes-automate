@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-organize-school-notes-using-obsidian-for-students.png"
 title: "How to Organize School Notes Using Obsidian for Students: Complete 2026 Guide"
 description: "Learn exactly how to organize school notes using Obsidian for students. Discover structural frameworks, linking strategies, and plugins to boost study efficiency."
 pubDate: "2026-05-02"
@@ -135,3 +136,10 @@ Obsidian natively supports MathJax and LaTeX formatting. By wrapping your equati
 
 ### Does Obsidian require paid syncing for students?
 No, Obsidian is free for personal and educational use. While Obsidian Sync is a convenient paid service for seamless multi-device synchronization, students can easily sync their vaults for free using cloud storage providers like iCloud, Google Drive, or community plugins like Remotely Save.
+
+---
+
+## Related Reading
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
+- [Best Note Taking Apps for Zettelkasten Methodology 2026](/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/)

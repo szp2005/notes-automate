@@ -1,4 +1,5 @@
 ---
+image: "/og/streamlining-your-daily-note-workflow-for-better-productivity.png"
 title: "Streamlining Your Daily Note Workflow for Better Productivity: 5-Step Guide"
 description: "Master streamlining your daily note workflow for better productivity by eliminating scattered thoughts and building a frictionless knowledge capture system."
 pubDate: "2026-05-02"
@@ -119,3 +120,10 @@ During your daily review, uncompleted tasks must be explicitly migrated. You can
 
 ### How does daily note-taking connect to the Zettelkasten method?
 The daily note acts as the "fleeting note" inbox for a Zettelkasten system. You use the daily note to rapidly capture rough ideas and references in the moment. Later, during your review phase, you extract the most valuable insights from the daily timeline, refine them, and place them into your permanent Zettelkasten as standalone, deeply linked atomic notes.
+
+---
+
+## Related Reading
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
+- [7 Best Obsidian Plugins for Developers and Code Snippets in 2026](/posts/best-obsidian-plugins-for-developers-and-code-snippets/)

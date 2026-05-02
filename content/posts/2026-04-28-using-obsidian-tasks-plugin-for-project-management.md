@@ -1,4 +1,5 @@
 ---
+image: "/og/using-obsidian-tasks-plugin-for-project-management.png"
 title: "Obsidian Tasks Plugin: Unified Project Management System"
 author: "Alex Chen"
 date: 2026-04-28

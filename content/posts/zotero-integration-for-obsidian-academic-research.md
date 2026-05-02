@@ -1,4 +1,5 @@
 ---
+image: "/og/zotero-integration-for-obsidian-academic-research.png"
 title: "Zotero Integration for Obsidian: Complete Academic Research Guide"
 description: "Master Zotero integration for Obsidian academic research. Learn to automatically sync citations, annotations, and notes to streamline your literature review."
 pubDate: "2026-05-01"

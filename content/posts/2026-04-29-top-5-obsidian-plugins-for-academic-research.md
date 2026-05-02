@@ -1,9 +1,10 @@
 ---
+image: "/og/top-5-obsidian-plugins-for-academic-research.png"
 title: "Obsidian Plugins for Academic Research: 5 Best Tools"
 author: "Alex Chen"
 date: 2026-04-29
 slug: top-5-obsidian-plugins-for-academic-research
-description: "Competitors provide lists, but fail to show how the plugins integrate into a single, powerful workflow."
+description: "Stop settling for simple lists. Discover the 5 best Obsidian plugins for academic research and learn how to integrate them into a powerful, unified."
 keywords: ["Obsidian for PhD students", "Zotero Obsidian workflow", "Obsidian citation plugin", "academic knowledge management", "Obsidian literature review", "best Obsidian plugins for students", "Obsidian Zotero integration", "Dataview plugin for research"]
 draft: false
 type: "informational"

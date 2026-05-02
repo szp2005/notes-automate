@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-sync-vs-syncthing-for-free-note-synchronization.png"
 title: "The Core Dilemma: Paid Convenience vs. Free Control"
 author: "Alex Chen"
 date: 2026-04-28

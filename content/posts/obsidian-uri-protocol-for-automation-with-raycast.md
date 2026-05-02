@@ -168,3 +168,10 @@ Yes, but you must use the Obsidian Advanced URI community plugin. This plugin ex
 
 ### Is it possible to append text to a note without opening the Obsidian window?
 Native Obsidian URIs generally require the app to surface and process the command. However, if Obsidian is already running in the background, using the Advanced URI plugin with the append mode allows you to push text into a file seamlessly without the main window forcing its way to the front of your screen.
+
+---
+
+## Related Reading
+
+- [Building a Second Brain Using Obsidian and Readwise: Complete Guide](/posts/building-a-second-brain-using-obsidian-and-readwise/)
+- [Linking Your Notes for Better Knowledge Discovery Obsidian: 5 Steps](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/)

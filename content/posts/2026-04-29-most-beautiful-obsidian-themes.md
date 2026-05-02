@@ -1,4 +1,5 @@
 ---
+image: "/og/most-beautiful-obsidian-themes.png"
 title: "Most Beautiful Obsidian Themes for Better Productivity"
 author: "Alex Chen"
 date: 2026-04-29

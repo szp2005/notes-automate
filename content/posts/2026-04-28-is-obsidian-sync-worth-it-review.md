@@ -1,4 +1,5 @@
 ---
+image: "/og/is-obsidian-sync-worth-it-review.png"
 title: "The Core Question: What Problem Does Obsidian Sync Solve?"
 author: "Alex Chen"
 date: 2026-04-28

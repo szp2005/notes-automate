@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-anki-vs-spaced-repetition-plugin.png"
 title: "The Power of Spaced Repetition in Your Second Brain"
 author: "Alex Chen"
 date: 2026-04-29

@@ -23,7 +23,7 @@ const {
 } = Astro.props;
 const siteName = 'Obsidian Plugins Guide';
 const siteURL = 'https://notes-automate.com';
-const ogImage = `${siteURL}/og-default.png`;
+const ogImage = articleImage ? (articleImage.startsWith('http') ? articleImage : `${siteURL}${articleImage}`) : `${siteURL}/og-default.png`;
 const cloudflareWebAnalyticsToken = import.meta.env.PUBLIC_CLOUDFLARE_WEB_ANALYTICS_TOKEN;
 const adsensePublisherId = import.meta.env.PUBLIC_ADSENSE_PUBLISHER_ID;
 const ga4MeasurementId = import.meta.env.PUBLIC_GA4_MEASUREMENT_ID;

@@ -1,4 +1,5 @@
 ---
+image: "/og/linking-your-notes-for-better-knowledge-discovery-obsidian.png"
 title: "Linking Your Notes for Better Knowledge Discovery Obsidian: 5 Steps"
 description: "Master the exact strategies for linking your notes for better knowledge discovery obsidian. Uncover hidden insights and build a highly functional second brain."
 pubDate: "2026-05-02"
@@ -152,3 +153,10 @@ Orphan notes are files in your vault that have no incoming or outgoing links, ma
 
 ### How detailed should a Map of Content (MOC) be?
 An MOC should be detailed enough to provide structure but flexible enough to grow. Start with broad headings and bulleted links to your atomic notes. As the MOC grows beyond 30-40 links, you can break it down into more specific, specialized sub-MOCs to maintain clarity.
+
+---
+
+## Related Reading
+
+- [Customizing the Obsidian Graph View for Better Insights: 7-Step Guide](/posts/customizing-the-obsidian-graph-view-for-better-insights/)
+- [Setting up a Zettelkasten in Obsidian with Plugins: 5-Step Guide](/posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/)

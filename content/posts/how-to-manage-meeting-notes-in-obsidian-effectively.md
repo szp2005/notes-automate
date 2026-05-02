@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-manage-meeting-notes-in-obsidian-effectively.png"
 title: "How to Manage Meeting Notes in Obsidian Effectively: 5-Step Guide"
 description: "Learn how to manage meeting notes in Obsidian effectively using templates, daily notes, and Dataview to stay organized and never lose an action item again."
 pubDate: "2026-05-02"
@@ -138,3 +139,10 @@ Obsidian handles plain text markdown files exceptionally well. A vault with 10,0
 
 ### Can I share my Obsidian meeting notes with colleagues?
 Obsidian is primarily designed for personal knowledge management. To share a meeting note, you can export the markdown file to a PDF using Obsidian's core export feature, or simply copy the rendered text and paste it into an email or Slack message. If collaborative editing is required, a cloud-based tool like Google Docs is better suited for that specific phase before archiving the final result in Obsidian.
+
+---
+
+## Related Reading
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

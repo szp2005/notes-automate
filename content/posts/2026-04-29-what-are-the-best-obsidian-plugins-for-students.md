@@ -1,4 +1,5 @@
 ---
+image: "/og/what-are-the-best-obsidian-plugins-for-students.png"
 title: "Best Obsidian Plugins for Students: Your Academic Edge"
 author: "Alex Chen"
 date: 2026-04-29

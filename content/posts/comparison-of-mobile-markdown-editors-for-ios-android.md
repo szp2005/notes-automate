@@ -147,3 +147,10 @@ Markdown is traditionally a single-player format based on local files, making re
 
 ### Are mobile markdown editors safe for sensitive journal entries?
 Because markdown files are plain text, they are not inherently encrypted at rest. If privacy is a major concern, you must either use an app that supports localized encryption natively, or ensure your device-level encryption and cloud storage providers use zero-knowledge, end-to-end encryption for the folder where your markdown files reside.
+
+---
+
+## Related Reading
+
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

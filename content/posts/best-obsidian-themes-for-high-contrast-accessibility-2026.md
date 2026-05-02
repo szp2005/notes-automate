@@ -167,3 +167,10 @@ Not universally. Dark themes reduce overall screen glare and are generally prefe
 
 ### Which Obsidian plugins help with visual accessibility?
 Aside from the *Style Settings* plugin (essential for tweaking theme contrast), the *Advanced Appearance* plugin allows for quick toggling of UI elements. Additionally, the *Dyslexia* plugin changes the vault font to OpenDyslexic or similar weighted fonts to prevent letter swapping.
+
+---
+
+## Related Reading
+
+- [Best Obsidian Themes for Dark Mode in 2026: Top Picks](/posts/best-obsidian-themes-for-dark-mode-2026/)
+- [Is Obsidian Sync Worth It in 2026? Comprehensive Review](/posts/is-obsidian-sync-worth-it-in-2026/)

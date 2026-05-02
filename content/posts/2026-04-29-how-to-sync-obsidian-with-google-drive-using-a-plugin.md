@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-sync-obsidian-with-google-drive-using-a-plugin.png"
 title: "Sync Obsidian with Google Drive: Free Plugin Setup Guide"
 author: "Alex Chen"
 date: 2026-04-29

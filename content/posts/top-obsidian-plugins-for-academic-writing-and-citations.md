@@ -256,3 +256,10 @@ It requires some technical comfort but is well-documented. You need to install t
 
 ### What is the best way to handle large datasets or thousands of literature notes?
 Rely heavily on Dataview and structured YAML frontmatter. Avoid keeping all your literature notes in a single folder; instead, use tags and Dataview queries to surface relevant notes dynamically. Ensure your file naming convention is consistent (e.g., `@AuthorYear`) so you can easily link and search without relying solely on the file explorer pane.
+
+---
+
+## Related Reading
+
+- [Zotero Integration for Obsidian: Complete Academic Research Guide](/posts/zotero-integration-for-obsidian-academic-research/)
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)

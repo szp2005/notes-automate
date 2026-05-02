@@ -130,3 +130,10 @@ Yes, but it is challenging. You can export Notion workspaces as Markdown files, 
 
 ### Does Notion scale well when managing hundreds of concurrent projects?
 Notion can technically hold the data, but users frequently report significant performance degradation, slower search results, and laggy database views when a workspace becomes massive. Proper database architecture and aggressive filtering are required to maintain speed.
+
+---
+
+## Related Reading
+
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

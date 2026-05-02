@@ -143,3 +143,10 @@ The Raindrop Highlights plugin uses the unique Raindrop item ID to track synced 
 
 ### What happens to the synced notes if I uninstall the plugin?
 The notes remain in your vault. The integration relies on creating standard Markdown files. Once the files are generated, they are permanent local files on your hard drive, independent of the plugin or your Raindrop account.
+
+---
+
+## Related Reading
+
+- [7 Best Obsidian Plugins for Developers and Code Snippets in 2026](/posts/best-obsidian-plugins-for-developers-and-code-snippets/)
+- [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)

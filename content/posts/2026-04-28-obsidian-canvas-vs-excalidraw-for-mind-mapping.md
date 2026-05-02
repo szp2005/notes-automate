@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-canvas-vs-excalidraw-for-mind-mapping.png"
 title: "Obsidian Canvas vs. Excalidraw: Which Visual Tool Wins?"
 author: "Alex Chen"
 date: 2026-04-28

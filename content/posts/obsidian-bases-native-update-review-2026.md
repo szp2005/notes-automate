@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-bases-native-update-review-2026.png"
 title: "Obsidian Bases Native Update Review 2026: The Notion Killer?"
 description: "Our comprehensive Obsidian Bases native update review 2026 covers the new SQLite architecture, performance boosts, and whether it finally replaces Notion."
 pubDate: "2026-05-01"

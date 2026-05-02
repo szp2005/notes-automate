@@ -166,3 +166,10 @@ DataviewJS scripts execute when the specific note containing the script is rende
 
 ### How do I debug a broken DataviewJS script in Obsidian?
 Obsidian is an Electron app, meaning it has built-in developer tools. Press `Ctrl + Shift + I` (Windows/Linux) or `Cmd + Option + I` (Mac) to open the console. Use `console.log(dv.pages("#tag"))` within your script block to output the array data to the developer console, allowing you to inspect object structures and pinpoint logical errors.
+
+---
+
+## Related Reading
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
+- [Automating Your Task Management With Obsidian Tasks Plugin: Guide](/posts/automating-your-task-management-with-obsidian-tasks-plugin/)

@@ -1,4 +1,5 @@
 ---
+image: "/og/integrating-web-clips-into-your-zettelkasten-note-system.png"
 title: "Integrating Web Clips Into Your Zettelkasten Note System Guide"
 description: "Learn the exact workflow for integrating web clips into your zettelkasten note system to build a seamless knowledge base and retain information forever."
 pubDate: "2026-05-02"
@@ -114,3 +115,10 @@ Aim for no more than 15 to 30 minutes of processing time. If you cannot process 
 
 ### Can I automate the creation of permanent notes using AI?
 While AI tools can automatically summarize web clips, relying on them defeats the core purpose of a Zettelkasten. The primary value of the system is the cognitive effort required to synthesize the information yourself. Outsourcing the thinking to an AI deprives you of the deep understanding and memory retention that manual processing provides. Use automation for capturing and formatting, but reserve the synthesis for your own brain.
+
+---
+
+## Related Reading
+
+- [How to Build Personal Knowledge Base with Obsidian: 5-Step Guide](/posts/how-to-build-personal-knowledge-base-with-obsidian/)
+- [Setting up a Zettelkasten in Obsidian with Plugins: 5-Step Guide](/posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/)

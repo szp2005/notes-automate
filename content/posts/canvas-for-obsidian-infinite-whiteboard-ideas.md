@@ -1,4 +1,5 @@
 ---
+image: "/og/canvas-for-obsidian-infinite-whiteboard-ideas.png"
 title: "Canvas for Obsidian: Infinite Whiteboard Ideas for 2026"
 description: "Discover creative Canvas for Obsidian infinite whiteboard ideas. Learn how to map concepts, organize research, and visualize your knowledge base today."
 pubDate: "2026-05-01"

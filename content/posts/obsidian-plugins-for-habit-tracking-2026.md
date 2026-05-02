@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-plugins-for-habit-tracking-2026.png"
 title: "Obsidian Plugins for Habit Tracking 2026: Complete Setup Guide"
 description: "Discover the top Obsidian plugins for habit tracking in 2026. Build a custom, offline-first productivity system with Dataview, Tracker, and Heatmap tools."
 pubDate: "2026-05-02"

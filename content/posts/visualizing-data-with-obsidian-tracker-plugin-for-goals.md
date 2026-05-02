@@ -175,3 +175,10 @@ Yes, this is the most reliable method. Set `searchType: frontmatter` and ensure 
 
 ### Why is my Tracker block showing a "No valid date found" error?
 This almost always occurs because the "Date Format" in the Tracker plugin settings does not match the title format of your daily notes. If your note is named `2026-05-02`, your date format must be configured exactly as `YYYY-MM-DD`.
+
+---
+
+## Related Reading
+
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

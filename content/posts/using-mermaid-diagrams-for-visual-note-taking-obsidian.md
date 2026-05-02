@@ -160,3 +160,10 @@ Syntax errors usually stem from typos in directions (e.g., `TL` instead of `TD`)
 
 ### Does Mermaid work on the Obsidian mobile app?
 Yes, Mermaid is natively supported on both iOS and Android versions of Obsidian. Because it requires no external plugins or file types, you can type the diagram code on your phone, and it will render exactly as it does on your desktop.
+
+---
+
+## Related Reading
+
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

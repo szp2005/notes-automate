@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-use-obsidian-dataview-for-beginners.png"
 title: "How to use Obsidian Dataview for beginners: Complete Guide"
 description: "Learn how to use Obsidian Dataview for beginners. This complete guide shows you how to turn static markdown notes into dynamic, automated dashboards."
 pubDate: "2026-05-02"

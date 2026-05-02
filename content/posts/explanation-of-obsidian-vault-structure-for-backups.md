@@ -1,4 +1,5 @@
 ---
+image: "/og/explanation-of-obsidian-vault-structure-for-backups.png"
 title: "Explanation of Obsidian Vault Structure for Backups (Full Guide)"
 description: "A complete explanation of obsidian vault structure for backups. Learn how to secure your notes, understand hidden .obsidian folders, and prevent data loss."
 pubDate: "2026-05-02"
@@ -165,3 +166,10 @@ If you primarily write text and use standard plugins, an Obsidian vault rarely e
 
 ### Do I need Obsidian Sync if I already use an external hard drive?
 Obsidian Sync and external hard drives serve different purposes. Obsidian Sync is primarily a synchronization tool designed to seamlessly keep your workspace updated across your desktop, laptop, and mobile devices in real time with end-to-end encryption. An external hard drive provides historical, automated local backups; relying exclusively on Sync without a true backup puts you at risk if you accidentally delete files and the deletion synchronizes across all devices.
+
+---
+
+## Related Reading
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

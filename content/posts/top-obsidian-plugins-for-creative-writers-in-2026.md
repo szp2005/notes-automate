@@ -200,3 +200,10 @@ You can use the official, paid Obsidian Sync service for end-to-end encrypted sy
 
 ### Is Obsidian safe for storing my unpublished manuscripts?
 Yes. Unlike cloud-based tools (like Google Docs or Notion), Obsidian stores all your files locally on your computer's hard drive in standard Markdown format. You have complete ownership and control over your data, ensuring your unpublished work remains private.
+
+---
+
+## Related Reading
+
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

@@ -237,3 +237,10 @@ This usually happens if Templater is not configured to trigger automatically on 
 
 ### Do I need to know JavaScript to use the Templater plugin?
 No. You can access 90% of the plugin's value using built-in commands like `<% tp.date.now() %>` or `<% tp.file.title %>`. JavaScript is only required if you want to build complex conditional logic, loops, or integrate external data sources.
+
+---
+
+## Related Reading
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

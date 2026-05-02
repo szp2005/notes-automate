@@ -121,3 +121,10 @@ Technically yes, but it is highly discouraged. Running two different synchroniza
 
 ### What happens if I work offline?
 Obsidian Git handles offline work gracefully. It will continue to take local snapshots (commits) at your specified interval. Once an internet connection is re-established, the plugin will batch-push all pending local commits to your remote repository.
+
+---
+
+## Related Reading
+
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

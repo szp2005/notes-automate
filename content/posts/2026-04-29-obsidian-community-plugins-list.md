@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-community-plugins-list.png"
 title: "What Are Obsidian Community Plugins?"
 author: "Alex Chen"
 date: 2026-04-29

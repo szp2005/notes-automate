@@ -1,4 +1,5 @@
 ---
+image: "/og/what-is-the-obsidian-canvas-plugin.png"
 title: "What is Obsidian Canvas? The Infinite Whiteboard in Your Vault"
 author: "Alex Chen"
 date: 2026-04-29

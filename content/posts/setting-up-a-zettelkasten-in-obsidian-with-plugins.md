@@ -1,4 +1,5 @@
 ---
+image: "/og/setting-up-a-zettelkasten-in-obsidian-with-plugins.png"
 title: "Setting up a Zettelkasten in Obsidian with Plugins: 5-Step Guide"
 description: "Learn the exact process for setting up a Zettelkasten in Obsidian with plugins. We cover the best tools, workflows, and folder structures for connected note-taking."
 pubDate: "2026-05-02"

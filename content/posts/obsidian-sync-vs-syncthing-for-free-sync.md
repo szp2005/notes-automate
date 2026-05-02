@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-sync-vs-syncthing-for-free-sync.png"
 title: "Obsidian Sync vs Syncthing for Free Sync: 2026 Comparison"
 description: "Wondering if you should use Obsidian Sync or Syncthing for free sync? Read our comprehensive comparison of features, setup, and reliability for your vault."
 pubDate: "2026-05-01"

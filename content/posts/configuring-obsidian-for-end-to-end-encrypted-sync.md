@@ -120,3 +120,10 @@ No. Obsidian Sync's encryption only applies to data in transit and data at rest 
 
 ### Can I change my encryption password later?
 You cannot change the password on an existing remote vault. To update your encryption key, you must create a new remote vault with the new password, connect your primary device to upload your local files, reconnect all secondary devices to the new vault, and then safely delete the old remote vault from your account.
+
+---
+
+## Related Reading
+
+- [Sync Obsidian with Google Drive: Free Plugin Setup Guide](/posts/how-to-sync-obsidian-with-google-drive-using-a-plugin/)
+- [Local GPT Plugin for Obsidian Privacy: Complete Guide](/posts/local-gpt-plugin-for-obsidian-privacy/)

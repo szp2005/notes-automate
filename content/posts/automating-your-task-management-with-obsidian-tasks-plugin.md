@@ -158,3 +158,10 @@ Performance issues generally only arise when rendering complex dashboards that c
 
 ### Can I change the default checkboxes to use different symbols or colors?
 The Tasks plugin supports custom task statuses. You can configure the settings to recognize different characters inside the brackets (e.g., `[>]` for forwarded, `[-]` for canceled). When combined with custom CSS snippets or themes designed for task management, these alternative statuses will automatically render with distinct colors and strikethrough styles in your dashboards.
+
+---
+
+## Related Reading
+
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

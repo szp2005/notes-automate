@@ -1,4 +1,5 @@
 ---
+image: "/og/building-a-second-brain-using-obsidian-and-readwise.png"
 title: "Building a Second Brain Using Obsidian and Readwise: Complete Guide"
 description: "Learn exactly how building a second brain using Obsidian and Readwise transforms scattered highlights into a connected, actionable knowledge management system."
 pubDate: "2026-05-02"
@@ -146,3 +147,10 @@ If you change the filename of a Readwise export in Obsidian, the Readwise plugin
 
 ### Can I sync my Obsidian vault across devices if I use Readwise?
 Yes. Readwise simply deposits text files into your vault. You can then use Obsidian Sync, iCloud Drive, Dropbox, or any other standard file synchronization method to access those files on your mobile devices or secondary computers.
+
+---
+
+## Related Reading
+
+- [Obsidian URI Protocol for Automation with Raycast: Complete Guide](/posts/obsidian-uri-protocol-for-automation-with-raycast/)
+- [Best Note Taking Apps for Zettelkasten Methodology 2026](/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/)

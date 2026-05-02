@@ -1,4 +1,5 @@
 ---
+image: "/og/best-note-taking-apps-for-zettelkasten-methodology-2026.png"
 title: "Best Note Taking Apps for Zettelkasten Methodology 2026"
 description: "Discover the best note taking apps for Zettelkasten methodology in 2026. Compare top tools to build a powerful personal knowledge management system."
 pubDate: "2026-05-02"
@@ -153,3 +154,10 @@ Neither is objectively better; they serve different cognitive styles. Logseq is 
 
 ### How do I handle images and PDFs in a Zettelkasten?
 Your Zettelkasten should primarily consist of your own written thoughts, not hoarded files. However, for reference purposes, tools like Logseq and Obsidian allow you to embed PDFs directly into your vault, highlight text, and link those specific highlights to your permanent text notes.
+
+---
+
+## Related Reading
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
+- [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

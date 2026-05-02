@@ -205,3 +205,10 @@ Obsidian's native highlighting relies on Prism.js, which supports over 250 langu
 
 ### Can I run Python scripts directly in Obsidian?
 Yes. By installing the Execute Code plugin, you can run Python, JavaScript, Shell, and many other languages directly from your markdown files. The output is printed below the code block, making it ideal for testing scripts without switching to a terminal.
+
+---
+
+## Related Reading
+
+- [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)
+- [Customizing the Obsidian Graph View for Better Insights: 7-Step Guide](/posts/customizing-the-obsidian-graph-view-for-better-insights/)

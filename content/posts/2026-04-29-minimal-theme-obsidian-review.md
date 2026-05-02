@@ -1,4 +1,5 @@
 ---
+image: "/og/minimal-theme-obsidian-review.png"
 title: "What is the Obsidian Minimal Theme? An Overview"
 author: "Alex Chen"
 date: 2026-04-29

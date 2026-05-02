@@ -1,4 +1,5 @@
 ---
+image: "/og/quickadd-plugin-for-rapid-capture-in-obsidian.png"
 title: "QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide"
 description: "Learn how to master the QuickAdd plugin for rapid capture in Obsidian. Discover step-by-step workflows, macros, and templates to streamline your note-taking."
 pubDate: "2026-05-01"

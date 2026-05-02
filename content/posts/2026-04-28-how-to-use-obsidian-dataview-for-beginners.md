@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-use-obsidian-dataview-for-beginners.png"
 title: "What is Dataview and Why is it a Game-Changer for Your Notes?"
 date: 2026-04-28
 slug: how-to-use-obsidian-dataview-for-beginners

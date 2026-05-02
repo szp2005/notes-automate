@@ -157,3 +157,10 @@ Absolutely. Because the files are stored locally on the physical drive connected
 
 ### What happens if I pull the drive out without ejecting?
 Unlike macOS, iPadOS does not have a formal "Eject" button for external drives. However, you must ensure that Obsidian is completely closed and no files are actively writing before you physically disconnect the drive. Pulling it out during a write process can corrupt the active Markdown file or the vault's `.obsidian` workspace cache.
+
+---
+
+## Related Reading
+
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

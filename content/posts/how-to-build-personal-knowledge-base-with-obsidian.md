@@ -121,3 +121,10 @@ Notion is a cloud-based, block-level database application excellent for team col
 
 ### Do I need to learn Markdown to use Obsidian?
 While knowing basic Markdown syntax (like `**bold**` or `# headers`) is helpful, Obsidian features a Live Preview mode that formats text as you type, acting much like a standard word processor. You can navigate the interface and format text using standard keyboard shortcuts without writing raw Markdown.
+
+---
+
+## Related Reading
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
+- [Comparing Obsidian Git vs iCloud for Vault Syncing in 2026](/posts/comparing-obsidian-git-vs-icloud-for-vault-syncing/)

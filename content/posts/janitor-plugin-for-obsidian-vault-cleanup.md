@@ -1,4 +1,5 @@
 ---
+image: "/og/janitor-plugin-for-obsidian-vault-cleanup.png"
 title: "Janitor Plugin for Obsidian Vault Cleanup: Complete 2026 Guide"
 description: "Learn how to automate your knowledge base maintenance with the Janitor plugin for Obsidian vault cleanup. Remove orphans, fix empty files, and optimize speed."
 pubDate: "2026-05-01"

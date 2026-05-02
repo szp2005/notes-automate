@@ -1,4 +1,5 @@
 ---
+image: "/og/minimal-theme-for-obsidian-customization-tips.png"
 title: "Minimal Theme for Obsidian Customization Tips: Complete Guide"
 description: "Master the Minimal theme for Obsidian customization. Learn practical tips, CSS snippets, and essential plugin settings to build a distraction-free vault."
 pubDate: "2026-05-01"

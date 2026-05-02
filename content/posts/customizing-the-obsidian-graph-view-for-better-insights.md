@@ -136,3 +136,10 @@ In the Graph Settings, go to the "Groups" tab. Click "New Group" and in the sear
 
 ### Does a larger node mean a note is more important?
 By default, the size of a node in the Obsidian graph view is determined by the number of links connected to it (both incoming and outgoing). A larger node simply means it is highly connected, making it a "hub" note within your network, which often correlates with structural importance.
+
+---
+
+## Related Reading
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
+- [7 Best Obsidian Plugins for Developers and Code Snippets in 2026](/posts/best-obsidian-plugins-for-developers-and-code-snippets/)

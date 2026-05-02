@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-use-obsidian-for-software-engineering-documentation.png"
 title: "How to Use Obsidian for Software Engineering Documentation: 7-Step Guide"
 description: "Learn how to use Obsidian for software engineering documentation. Master Markdown, wikilinks, and developer-focused plugins to build a fast knowledge base."
 pubDate: "2026-05-02"
@@ -149,3 +150,10 @@ While Obsidian is exceptional for individual engineers and small, highly technic
 
 ### Does Obsidian support syntax highlighting for obscure languages?
 Yes. Obsidian uses Prism.js under the hood for its code blocks, which supports syntax highlighting for over 250 programming languages. From common languages like Python, Go, and Rust to older or obscure languages, standard Markdown code fences (using three backticks followed by the language name) will render correctly.
+
+---
+
+## Related Reading
+
+- [7 Best Obsidian Plugins for Developers and Code Snippets in 2026](/posts/best-obsidian-plugins-for-developers-and-code-snippets/)
+- [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)

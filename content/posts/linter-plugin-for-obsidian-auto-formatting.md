@@ -1,4 +1,5 @@
 ---
+image: "/og/linter-plugin-for-obsidian-auto-formatting.png"
 title: "Linter Plugin for Obsidian Auto-Formatting: Complete Guide"
 description: "Learn how to configure the Linter plugin for Obsidian auto-formatting to save time, enforce consistency, and streamline your entire note-taking workflow."
 pubDate: "2026-05-01"

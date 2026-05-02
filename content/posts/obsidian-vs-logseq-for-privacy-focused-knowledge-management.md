@@ -135,3 +135,10 @@ The most secure, free method for desktop-to-desktop synchronization is using Syn
 
 ### Do I lose my data if I uninstall either application?
 No. Uninstalling the application simply removes the software that reads the files. Your actual notes—the `.md` text files—remain exactly where you saved them on your hard drive. You can instantly open and read them using Notepad, TextEdit, VS Code, or any other basic text editor.
+
+---
+
+## Related Reading
+
+- [7 Best Obsidian Plugins for Developers and Code Snippets in 2026](/posts/best-obsidian-plugins-for-developers-and-code-snippets/)
+- [Configuring Obsidian for End to End Encrypted Sync: 5-Step Guide](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/)
