@@ -259,6 +259,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://notes-automate.com/posts/how-to-build-personal-knowledge-base-with-obsidian/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://notes-automate.com/posts/how-to-manage-meeting-notes-in-obsidian-effectively/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -278,6 +284,12 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/how-to-use-obsidian-dataview-for-beginners/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/how-to-use-obsidian-for-software-engineering-documentation/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -332,6 +344,12 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/make-md-obsidian-notion-like-workspace/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/managing-large-pdf-libraries-within-an-obsidian-vault/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -404,6 +422,18 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/understanding-the-difference-between-folders-and-tags-obsidian/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/using-mermaid-diagrams-for-visual-note-taking-obsidian/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
