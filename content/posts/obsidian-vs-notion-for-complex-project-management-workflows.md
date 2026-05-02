@@ -135,5 +135,7 @@ Notion can technically hold the data, but users frequently report significant pe
 
 ## Related Reading
 
+- [Kanban Plugin for Obsidian Project Management: Complete Guide](/posts/kanban-plugin-for-obsidian-project-management/)
+
 - [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

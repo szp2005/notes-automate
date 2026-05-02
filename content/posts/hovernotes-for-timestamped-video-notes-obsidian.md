@@ -178,5 +178,7 @@ Yes, the Media Extended plugin is the most prominent alternative. It offers robu
 
 ## Related Reading
 
+- [How to Use Obsidian for Software Engineering Documentation: 7-Step Guide](/posts/how-to-use-obsidian-for-software-engineering-documentation/)
+
 - [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)
 - [How to Publish Obsidian Notes to a Blog: 5-Step Guide](/posts/how-to-publish-obsidian-notes-to-a-blog/)

@@ -163,5 +163,7 @@ The Tasks plugin supports custom task statuses. You can configure the settings t
 
 ## Related Reading
 
+- [Obsidian vs Notion for Complex Project Management Workflows](/posts/obsidian-vs-notion-complex-project-management-workflows/)
+
 - [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

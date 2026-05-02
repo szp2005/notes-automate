@@ -119,5 +119,7 @@ It depends on the model size and quantization. A small, highly compressed model 
 
 ## Related Reading
 
+- [Two Ways to Browse Obsidian Themes: In-App vs. Web](/posts/obsidian-theme-store-browser/)
+
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
 - [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)

@@ -162,5 +162,7 @@ No. Clippers like MarkDownload save files directly to your local hard drive dire
 
 ## Related Reading
 
+- [Managing Large PDF Libraries Within an Obsidian Vault: Complete Setup Guide](/posts/managing-large-pdf-libraries-within-an-obsidian-vault/)
+
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

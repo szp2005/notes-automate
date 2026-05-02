@@ -258,5 +258,7 @@ Yes, Dataview works seamlessly on both the iOS and Android versions of Obsidian.
 
 ## Related Reading
 
+- [Streamlining Your Daily Note Workflow for Better Productivity: 5-Step Guide](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)
+
 - [QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide](/posts/quickadd-plugin-for-rapid-capture-in-obsidian/)
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

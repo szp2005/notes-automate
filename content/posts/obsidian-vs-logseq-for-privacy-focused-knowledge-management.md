@@ -140,5 +140,7 @@ No. Uninstalling the application simply removes the software that reads the file
 
 ## Related Reading
 
+- [Make.md for Obsidian: Notion-Like Workspace Setup Guide](/posts/make-md-obsidian-notion-like-workspace/)
+
 - [7 Best Obsidian Plugins for Developers and Code Snippets in 2026](/posts/best-obsidian-plugins-for-developers-and-code-snippets/)
 - [Configuring Obsidian for End to End Encrypted Sync: 5-Step Guide](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/)

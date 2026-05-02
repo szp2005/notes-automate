@@ -122,5 +122,7 @@ Any calendar data dynamically rendered (such as a sidebar agenda view or a speci
 
 ## Related Reading
 
+- [Setting Up Obsidian Git for Automated Version Control: Full Guide](/posts/setting-up-obsidian-git-for-automated-version-control/)
+
 - [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

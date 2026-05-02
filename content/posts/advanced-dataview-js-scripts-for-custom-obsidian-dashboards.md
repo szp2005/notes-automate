@@ -171,5 +171,7 @@ Obsidian is an Electron app, meaning it has built-in developer tools. Press `Ctr
 
 ## Related Reading
 
+- [Best Obsidian Plugins for Students: Your Academic Edge](/posts/what-are-the-best-obsidian-plugins-for-students/)
+
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
 - [Automating Your Task Management With Obsidian Tasks Plugin: Guide](/posts/automating-your-task-management-with-obsidian-tasks-plugin/)

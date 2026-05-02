@@ -195,5 +195,7 @@ No, Minimal is highly optimized and relies primarily on native CSS variables. It
 
 ## Related Reading
 
+- [The Easiest Method: Finding Docs Directly Inside Obsidian](/posts/how-to-find-obsidian-plugin-documentation/)
+
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
 - [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)

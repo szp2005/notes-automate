@@ -130,5 +130,7 @@ Yes, community plugins like Janitor operate on the mobile versions of Obsidian (
 
 ## Related Reading
 
+- [Smart Connections Plugin for Emergent Ideas: Complete 2026 Setup Guide](/posts/smart-connections-plugin-for-emergent-ideas/)
+
 - [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)
 - [Linter Plugin for Obsidian Auto-Formatting: Complete Guide](/posts/linter-plugin-for-obsidian-auto-formatting/)

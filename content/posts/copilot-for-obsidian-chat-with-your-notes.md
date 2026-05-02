@@ -139,5 +139,7 @@ Yes, absolutely. If you configure Copilot to connect to a local server running O
 
 ## Related Reading
 
+- [Publish Obsidian Notes: Turn Your Vault Into a Public Blog](/posts/how-to-publish-obsidian-notes-to-a-blog/)
+
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
 - [HoverNotes for Timestamped Video Notes in Obsidian: Complete Guide](/posts/hovernotes-for-timestamped-video-notes-obsidian/)

@@ -141,5 +141,7 @@ By default, the size of a node in the Obsidian graph view is determined by the n
 
 ## Related Reading
 
+- [Raindrop IO Integration for Obsidian Bookmark Management Guide](/posts/raindrop-io-integration-for-obsidian-bookmark-management/)
+
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
 - [7 Best Obsidian Plugins for Developers and Code Snippets in 2026](/posts/best-obsidian-plugins-for-developers-and-code-snippets/)

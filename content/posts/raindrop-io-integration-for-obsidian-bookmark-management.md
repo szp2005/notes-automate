@@ -148,5 +148,7 @@ The notes remain in your vault. The integration relies on creating standard Mark
 
 ## Related Reading
 
+- [Minimal Theme for Obsidian Customization Tips: Complete Guide](/posts/minimal-theme-for-obsidian-customization-tips/)
+
 - [7 Best Obsidian Plugins for Developers and Code Snippets in 2026](/posts/best-obsidian-plugins-for-developers-and-code-snippets/)
 - [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)

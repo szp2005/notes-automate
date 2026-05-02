@@ -151,5 +151,7 @@ A conflict occurs if you edit the same note on two different offline devices, an
 
 ## Related Reading
 
+- [Best Mobile Markdown Editors for iOS & Android in 2026](/posts/comparison-of-mobile-markdown-editors-for-ios-android/)
+
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
 - [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)

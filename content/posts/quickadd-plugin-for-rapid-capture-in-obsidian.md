@@ -142,5 +142,7 @@ Yes. QuickAdd perfectly complements Dataview. You can use QuickAdd to rapidly in
 
 ## Related Reading
 
+- [How to Manage Meeting Notes in Obsidian Effectively: 5-Step Guide](/posts/how-to-manage-meeting-notes-in-obsidian-effectively/)
+
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
 - [How to use Obsidian Dataview for beginners: Complete Guide](/posts/how-to-use-obsidian-dataview-for-beginners/)

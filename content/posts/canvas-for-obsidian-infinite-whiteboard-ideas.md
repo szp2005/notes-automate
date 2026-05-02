@@ -125,5 +125,7 @@ You can export your entire Canvas, or just a specific highlighted section of it,
 
 ## Related Reading
 
+- [What Are CSS Snippets and Why Should You Care?](/posts/how-to-customize-obsidian-appearance-with-css-snippets/)
+
 - [Obsidian Plugins for Habit Tracking 2026: Complete Setup Guide](/posts/obsidian-plugins-for-habit-tracking-2026/)
 - [QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide](/posts/quickadd-plugin-for-rapid-capture-in-obsidian/)

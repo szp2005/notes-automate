@@ -162,5 +162,7 @@ Unlike macOS, iPadOS does not have a formal "Eject" button for external drives. 
 
 ## Related Reading
 
+- [Omnisearch Plugin for Obsidian Fuzzy Search: Complete Guide](/posts/omnisearch-plugin-for-obsidian-fuzzy-search/)
+
 - [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

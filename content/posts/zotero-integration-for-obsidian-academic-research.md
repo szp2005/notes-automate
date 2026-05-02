@@ -183,5 +183,7 @@ Yes, the integration works with both versions. However, Zotero 7 introduced sign
 
 ## Related Reading
 
+- [Best Obsidian Plugins for Academic Writing and Citations in 2026](/posts/top-obsidian-plugins-for-academic-writing-and-citations/)
+
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
 - [Excalidraw Plugin for Obsidian: Visual Thinking Complete Guide](/posts/excalidraw-plugin-for-obsidian-visual-thinking/)

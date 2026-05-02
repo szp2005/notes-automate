@@ -112,5 +112,7 @@ Yes. The fuzzy search works algorithmically regardless of the language used in t
 
 ## Related Reading
 
+- [Integrating Google Calendar With Obsidian For Daily Planning](/posts/integrating-google-calendar-with-obsidian-for-daily-planning/)
+
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
 - [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)

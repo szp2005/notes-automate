@@ -147,5 +147,7 @@ Yes. Obsidian Publish, Vercel, Netlify, and Cloudflare Pages all support routing
 
 ## Related Reading
 
+- [Obsidian Plugins for Academic Research: 5 Best Tools](/posts/top-5-obsidian-plugins-for-academic-research/)
+
 - [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)
 - [HoverNotes for Timestamped Video Notes in Obsidian: Complete Guide](/posts/hovernotes-for-timestamped-video-notes-obsidian/)

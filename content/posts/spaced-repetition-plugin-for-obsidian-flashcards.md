@@ -171,5 +171,7 @@ Direct export is not natively supported by the Spaced Repetition plugin itself. 
 
 ## Related Reading
 
+- [Using Mermaid Diagrams for Visual Note Taking in Obsidian: Complete Guide](/posts/using-mermaid-diagrams-for-visual-note-taking-obsidian/)
+
 - [Why Track Habits in Obsidian in 2024?](/posts/best-obsidian-plugins-for-habit-tracking-2024/)
 - [Best Obsidian Themes for Dark Mode in 2026: Top Picks](/posts/best-obsidian-themes-for-dark-mode-2026/)

@@ -153,5 +153,7 @@ No. Dataview is highly recommended for automatically aggregating data like books
 
 ## Related Reading
 
+- [Explanation of Obsidian Vault Structure for Backups (Full Guide)](/posts/explanation-of-obsidian-vault-structure-for-backups/)
+
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

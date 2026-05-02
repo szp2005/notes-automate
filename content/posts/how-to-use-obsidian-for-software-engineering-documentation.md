@@ -155,5 +155,7 @@ Yes. Obsidian uses Prism.js under the hood for its code blocks, which supports s
 
 ## Related Reading
 
+- [Spaced Repetition Plugin for Obsidian Flashcards: Complete Setup Guide](/posts/spaced-repetition-plugin-for-obsidian-flashcards/)
+
 - [7 Best Obsidian Plugins for Developers and Code Snippets in 2026](/posts/best-obsidian-plugins-for-developers-and-code-snippets/)
 - [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)

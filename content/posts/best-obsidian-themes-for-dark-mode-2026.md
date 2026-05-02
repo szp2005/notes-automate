@@ -182,5 +182,7 @@ Major Obsidian updates (like the shift to version 1.0 or 1.5) sometimes change u
 
 ## Related Reading
 
+- [Best Obsidian Themes for High Contrast Accessibility in 2026](/posts/best-obsidian-themes-for-high-contrast-accessibility-2026/)
+
 - [Why Track Habits in Obsidian in 2024?](/posts/best-obsidian-plugins-for-habit-tracking-2024/)
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

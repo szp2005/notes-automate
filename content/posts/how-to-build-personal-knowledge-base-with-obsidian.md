@@ -126,5 +126,7 @@ While knowing basic Markdown syntax (like `**bold**` or `# headers`) is helpful,
 
 ## Related Reading
 
+- [Integrating Web Clips Into Your Zettelkasten Note System Guide](/posts/integrating-web-clips-into-your-zettelkasten-note-system/)
+
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
 - [Comparing Obsidian Git vs iCloud for Vault Syncing in 2026](/posts/comparing-obsidian-git-vs-icloud-for-vault-syncing/)

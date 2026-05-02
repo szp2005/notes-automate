@@ -128,5 +128,7 @@ You do not need to delete old data. Instead, adjust the query parameters in your
 
 ## Related Reading
 
+- [Obsidian Sync vs Syncthing for Free Sync: 2026 Comparison](/posts/obsidian-sync-vs-syncthing-for-free-sync/)
+
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
 - [QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide](/posts/quickadd-plugin-for-rapid-capture-in-obsidian/)

@@ -231,5 +231,7 @@ Folders force a note into a single, rigid location, creating artificial boundari
 
 ## Related Reading
 
+- [Obsidian vs Logseq for Privacy Focused Knowledge Management](/posts/obsidian-vs-logseq-for-privacy-focused-knowledge-management/)
+
 - [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)
 - [HoverNotes for Timestamped Video Notes in Obsidian: Complete Guide](/posts/hovernotes-for-timestamped-video-notes-obsidian/)

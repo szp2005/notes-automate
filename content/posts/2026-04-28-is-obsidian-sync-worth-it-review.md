@@ -231,6 +231,8 @@ Avoid copying a complex system before you understand the problem you are solving
 
 ## Related Reading
 
+- [The Core Dilemma: Paid Convenience vs. Free Control](/posts/obsidian-sync-vs-syncthing-for-free-note-synchronization/)
+
 - [Why Sync Obsidian with Google Drive? (The Free & Powerful Alternative)](/posts/how-to-sync-obsidian-with-google-drive-using-a-plugin/)
 - [What is Excalidraw and Why Use It in Obsidian?](/posts/excalidraw-plugin-for-obsidian-review/)
 - [Why Build a Zettelkasten in Obsidian?](/posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/)

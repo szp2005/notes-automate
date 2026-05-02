@@ -297,6 +297,8 @@ Yes. The plugin functions identically on iOS and Android. Hotkeys map to the mob
 ## Related Reading
 
 - [What is Dataview and Why is it a Game-Changer for Your Notes?](/posts/how-to-use-obsidian-dataview-for-beginners/)
+
+- [What is Dataview and Why is it a Game-Changer for Your Notes?](/posts/how-to-use-obsidian-dataview-for-beginners/)
 - [Why Your Daily Notes Need the Templater Plugin](/posts/obsidian-templater-plugin-tutorial-for-daily-notes/)
 - [What Are Obsidian Callouts (And Why They Are a Game-Changer)](/posts/how-to-use-callouts-in-obsidian-for-better-notes/)
 - [What is the Obsidian Full Calendar Plugin?](/posts/obsidian-full-calendar-plugin-review/)

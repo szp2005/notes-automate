@@ -171,5 +171,7 @@ Obsidian Sync and external hard drives serve different purposes. Obsidian Sync i
 
 ## Related Reading
 
+- [How to Organize School Notes Using Obsidian for Students: Complete 2026 Guide](/posts/how-to-organize-school-notes-using-obsidian-for-students/)
+
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

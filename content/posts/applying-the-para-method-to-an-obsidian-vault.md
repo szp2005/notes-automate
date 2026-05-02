@@ -151,5 +151,7 @@ A quick weekly review is ideal for clearing out your Inbox and updating Project 
 
 ## Related Reading
 
+- [Top Obsidian Plugins for Creative Writers in 2026](/posts/top-obsidian-plugins-for-creative-writers-in-2026/)
+
 - [Comparing Obsidian Git vs iCloud for Vault Syncing in 2026](/posts/comparing-obsidian-git-vs-icloud-for-vault-syncing/)
 - [QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide](/posts/quickadd-plugin-for-rapid-capture-in-obsidian/)

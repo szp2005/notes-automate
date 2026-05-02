@@ -144,5 +144,7 @@ Obsidian is primarily designed for personal knowledge management. To share a mee
 
 ## Related Reading
 
+- [Obsidian Periodic Notes Plugin Setup for Annual Reviews: Complete Guide](/posts/obsidian-periodic-notes-plugin-setup-for-annual-reviews/)
+
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

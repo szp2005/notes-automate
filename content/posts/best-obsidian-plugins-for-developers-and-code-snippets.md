@@ -210,5 +210,7 @@ Yes. By installing the Execute Code plugin, you can run Python, JavaScript, Shel
 
 ## Related Reading
 
+- [Setting Up Obsidian on iPad with External Storage: 5-Step Guide](/posts/setting-up-obsidian-on-ipad-with-external-storage/)
+
 - [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)
 - [Customizing the Obsidian Graph View for Better Insights: 7-Step Guide](/posts/customizing-the-obsidian-graph-view-for-better-insights/)

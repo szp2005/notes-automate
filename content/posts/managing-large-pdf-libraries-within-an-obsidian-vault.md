@@ -149,5 +149,7 @@ Deleting a link to a PDF in a markdown note does not delete the file. You must l
 
 ## Related Reading
 
+- [Templater Plugin for Obsidian Dynamic Templates Guide: Automate PKM](/posts/templater-plugin-for-obsidian-dynamic-templates-guide/)
+
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
