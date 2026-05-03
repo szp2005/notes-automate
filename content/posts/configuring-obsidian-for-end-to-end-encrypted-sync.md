@@ -1,4 +1,5 @@
 ---
+image: "/og/configuring-obsidian-for-end-to-end-encrypted-sync.webp"
 title: "Configuring Obsidian for End to End Encrypted Sync: 5-Step Guide"
 description: "Learn how configuring Obsidian for end to end encrypted sync protects your private notes. Follow our complete guide to secure your knowledge base across devices."
 pubDate: "2026-05-02"

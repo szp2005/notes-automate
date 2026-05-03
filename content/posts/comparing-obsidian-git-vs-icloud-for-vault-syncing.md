@@ -1,4 +1,5 @@
 ---
+image: "/og/comparing-obsidian-git-vs-icloud-for-vault-syncing.webp"
 title: "Comparing Obsidian Git vs iCloud for Vault Syncing in 2026"
 description: "A deep dive comparing Obsidian Git vs iCloud for vault syncing across devices. Learn which method offers the best speed, security, and cross-platform support."
 pubDate: "2026-05-02"

@@ -1,4 +1,5 @@
 ---
+image: "/og/explaining-obsidian-metadata-menu-for-structured-data.webp"
 title: "Explaining Obsidian Metadata Menu for Structured Data: Full Guide"
 description: "Master your personal knowledge management by explaining Obsidian metadata menu for structured data. Learn to organize notes efficiently and scale your vault."
 pubDate: "2026-05-03"

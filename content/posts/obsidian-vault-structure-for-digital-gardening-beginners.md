@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-vault-structure-digital-gardening-beginners.webp"
 title: "Obsidian Vault Structure for Digital Gardening Beginners: Guide"
 description: "Learn the exact Obsidian vault structure for digital gardening beginners. Start organizing notes, building connections, and growing your personal wiki today."
 pubDate: "2026-05-03"

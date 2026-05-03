@@ -1,4 +1,5 @@
 ---
+image: "/og/best-obsidian-plugins-for-medical-school-students-2026.webp"
 title: "Best Obsidian Plugins for Medical School Students in 2026"
 description: "Discover the best Obsidian plugins for medical school students in 2026. Optimize your study workflow, master spaced repetition, and manage clinical rotations."
 pubDate: "2026-05-03"

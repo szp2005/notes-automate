@@ -1,4 +1,5 @@
 ---
+image: "/og/python-scripts-for-bulk-processing-obsidian-markdown-files.webp"
 title: "Python Scripts for Bulk Processing Obsidian Markdown Files Guide"
 description: "Master Python scripts for bulk processing Obsidian markdown files. Automate tag updates, link fixing, and formatting across your entire vault efficiently."
 pubDate: "2026-05-03"

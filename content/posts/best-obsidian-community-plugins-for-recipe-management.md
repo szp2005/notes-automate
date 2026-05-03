@@ -1,4 +1,5 @@
 ---
+image: "/og/best-obsidian-community-plugins-for-recipe-management.webp"
 title: "Best Obsidian Community Plugins for Recipe Management (2026)"
 description: "Discover the best Obsidian community plugins for recipe management to organize meals, track ingredients, and build your ultimate personal cookbook system."
 pubDate: "2026-05-03"

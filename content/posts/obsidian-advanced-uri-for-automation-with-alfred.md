@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-advanced-uri-automation-alfred.webp"
 title: "Obsidian Advanced URI for Automation with Alfred: Setup Guide"
 description: "Learn how to configure Obsidian Advanced URI for automation with Alfred to instantly create notes, append text, and navigate your vault from macOS globally."
 pubDate: "2026-05-03"

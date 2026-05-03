@@ -1,4 +1,5 @@
 ---
+image: "/og/top-obsidian-css-snippets-for-clean-minimalist-look.webp"
 title: "Top 7 Obsidian CSS Snippets for a Clean Minimalist Look in 2026"
 description: "Discover the top Obsidian CSS snippets for a clean minimalist look. Transform your workspace with these tested visual tweaks to boost your daily focus."
 pubDate: "2026-05-03"

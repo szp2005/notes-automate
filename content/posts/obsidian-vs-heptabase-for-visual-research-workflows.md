@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-vs-heptabase-for-visual-research-workflows.webp"
 title: "Obsidian vs Heptabase for Visual Research Workflows: Which Is Better?"
 description: "Comparing Obsidian vs Heptabase for visual research workflows. Discover which knowledge management tool offers the best canvas, pricing, and features for you."
 pubDate: "2026-05-03"

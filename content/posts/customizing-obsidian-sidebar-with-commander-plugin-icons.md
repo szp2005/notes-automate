@@ -1,4 +1,5 @@
 ---
+image: "/og/customizing-obsidian-sidebar-with-commander-plugin-icons.webp"
 title: "How to Customize Obsidian Sidebar With Commander Plugin Icons"
 description: "Learn how customizing your Obsidian sidebar with Commander plugin icons can streamline your workflow. Discover setup steps, custom icons, and layout tips."
 pubDate: "2026-05-03"

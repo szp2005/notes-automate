@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-periodic-notes-plugin-setup-for-annual-reviews.webp"
 title: "Obsidian Periodic Notes Plugin Setup for Annual Reviews: Complete Guide"
 description: "Master your yearly reflection with the perfect Obsidian periodic notes plugin setup for annual reviews. We review the essential plugins and step-by-step workflow."
 pubDate: "2026-05-02"

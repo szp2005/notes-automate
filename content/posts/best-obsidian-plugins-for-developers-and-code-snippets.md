@@ -1,4 +1,5 @@
 ---
+image: "/og/best-obsidian-plugins-for-developers-and-code-snippets.webp"
 title: "7 Best Obsidian Plugins for Developers and Code Snippets in 2026"
 description: "Discover the best Obsidian plugins for developers to manage code snippets, highlight syntax, execute scripts, and streamline your programming workflow in 2026."
 pubDate: "2026-05-02"

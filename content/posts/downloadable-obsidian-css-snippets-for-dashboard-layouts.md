@@ -1,4 +1,5 @@
 ---
+image: "/og/downloadable-obsidian-css-snippets-for-dashboard-layouts.webp"
 title: "Best Downloadable Obsidian CSS Snippets for Dashboard Layouts"
 description: "Upgrade your personal knowledge management setup with these downloadable Obsidian CSS snippets for dashboard layouts. Build a beautiful workspace instantly."
 pubDate: "2026-05-03"

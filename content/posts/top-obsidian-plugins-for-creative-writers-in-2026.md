@@ -1,4 +1,5 @@
 ---
+image: "/og/top-obsidian-plugins-for-creative-writers-in-2026.webp"
 title: "Top Obsidian Plugins for Creative Writers in 2026"
 description: "Discover the top Obsidian plugins for creative writers in 2026. Streamline your world-building, drafting, and editing workflows with these essential tools."
 pubDate: "2026-05-02"

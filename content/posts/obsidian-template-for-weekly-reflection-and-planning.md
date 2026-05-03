@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-template-for-weekly-reflection-and-planning.webp"
 title: "Obsidian Template for Weekly Reflection and Planning: Complete Guide"
 description: "Download the ultimate Obsidian template for weekly reflection and planning. Streamline your review process, track habits, and set actionable goals in minutes."
 pubDate: "2026-05-03"

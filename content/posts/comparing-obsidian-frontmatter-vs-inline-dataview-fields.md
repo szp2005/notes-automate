@@ -1,4 +1,5 @@
 ---
+image: "/og/comparing-obsidian-frontmatter-vs-inline-dataview-fields.webp"
 title: "Comparing Obsidian Frontmatter vs Inline Dataview Fields (2026)"
 description: "Discover the pros and cons when comparing Obsidian frontmatter vs inline Dataview fields. Learn which metadata method is best for your PKM workflow."
 pubDate: "2026-05-03"

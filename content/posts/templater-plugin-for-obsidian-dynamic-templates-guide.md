@@ -1,4 +1,5 @@
 ---
+image: "/og/templater-plugin-for-obsidian-dynamic-templates-guide.webp"
 title: "Templater Plugin for Obsidian Dynamic Templates Guide: Automate PKM"
 description: "Master the Templater plugin for Obsidian. This dynamic templates guide shows you how to automate note creation, insert dynamic metadata, and build."
 pubDate: "2026-05-02"

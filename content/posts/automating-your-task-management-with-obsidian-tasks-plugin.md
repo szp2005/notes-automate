@@ -1,4 +1,5 @@
 ---
+image: "/og/automating-your-task-management-with-obsidian-tasks-plugin.webp"
 title: "Automating Your Task Management With Obsidian Tasks Plugin: Guide"
 description: "Learn how automating your task management with Obsidian Tasks plugin can streamline your workflow, organize projects, and boost your daily productivity."
 pubDate: "2026-05-02"

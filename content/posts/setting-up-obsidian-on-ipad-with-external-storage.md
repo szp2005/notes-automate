@@ -1,4 +1,5 @@
 ---
+image: "/og/setting-up-obsidian-on-ipad-with-external-storage.webp"
 title: "Setting Up Obsidian on iPad with External Storage: 5-Step Guide"
 description: "Learn how to set up Obsidian on iPad with external storage. Follow our guide to configure SSDs, sync vaults locally, and bypass iCloud restrictions."
 pubDate: "2026-05-02"

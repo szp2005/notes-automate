@@ -1,4 +1,5 @@
 ---
+image: "/og/advanced-dataview-js-scripts-for-custom-obsidian-dashboards.webp"
 title: "Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide"
 description: "Master advanced dataview js scripts for custom obsidian dashboards to transform your vault. Learn code snippets that automate tracking and elevate productivity."
 pubDate: "2026-05-02"

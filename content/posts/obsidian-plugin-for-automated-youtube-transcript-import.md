@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-plugin-automated-youtube-transcript-import.webp"
 title: "Best Obsidian Plugin for Automated YouTube Transcript Import"
 description: "Discover the top Obsidian plugin for automated YouTube transcript import to seamlessly turn video content into searchable notes and boost your PKM workflow."
 pubDate: "2026-05-03"

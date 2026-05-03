@@ -1,4 +1,5 @@
 ---
+image: "/og/configuring-obsidian-for-automated-daily-backup-to-dropbox.webp"
 title: "How to Configure Obsidian for Automated Daily Backup to Dropbox"
 description: "Learn how configuring Obsidian for automated daily backup to Dropbox protects your notes. A step-by-step guide to secure, hands-off local sync and recovery."
 pubDate: "2026-05-03"

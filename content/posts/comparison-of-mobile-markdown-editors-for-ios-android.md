@@ -1,4 +1,5 @@
 ---
+image: "/og/comparison-of-mobile-markdown-editors-for-ios-android.webp"
 title: "Best Mobile Markdown Editors for iOS & Android in 2026"
 description: "A comprehensive comparison of mobile markdown editors for iOS Android. Discover the top apps for cross-platform syncing, PKM, and distraction-free writing."
 pubDate: "2026-05-02"

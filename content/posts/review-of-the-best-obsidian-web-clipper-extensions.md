@@ -1,4 +1,5 @@
 ---
+image: "/og/review-of-the-best-obsidian-web-clipper-extensions.webp"
 title: "Best Obsidian Web Clipper Extensions: Complete 2026 Review"
 description: "Looking for a review of the best Obsidian web clipper extensions? Compare the top tools to save articles, capture highlights, and streamline your PKM workflow."
 pubDate: "2026-05-02"

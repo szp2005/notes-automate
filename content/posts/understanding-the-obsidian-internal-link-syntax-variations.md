@@ -1,4 +1,5 @@
 ---
+image: "/og/understanding-the-obsidian-internal-link-syntax-variations.webp"
 title: "Understanding the Obsidian Internal Link Syntax Variations: Complete Guide"
 description: "Master understanding the Obsidian internal link syntax variations. Learn how to link to blocks, headers, and embed files to build a more powerful knowledge graph."
 pubDate: "2026-05-03"

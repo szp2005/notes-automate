@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-uri-protocol-for-automation-with-raycast.webp"
 title: "Obsidian URI Protocol for Automation with Raycast: Complete Guide"
 description: "Master the Obsidian URI protocol for automation with Raycast. Learn how to create custom scripts, capture notes, and build seamless workflows instantly."
 pubDate: "2026-05-02"

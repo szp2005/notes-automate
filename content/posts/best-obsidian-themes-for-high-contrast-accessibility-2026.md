@@ -1,4 +1,5 @@
 ---
+image: "/og/best-obsidian-themes-for-high-contrast-accessibility-2026.webp"
 title: "Best Obsidian Themes for High Contrast Accessibility in 2026"
 description: "Discover the best Obsidian themes for high contrast accessibility in 2026. Protect your eyes and improve readability with our top WCAG-compliant picks."
 pubDate: "2026-05-02"

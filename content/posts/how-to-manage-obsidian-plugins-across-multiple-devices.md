@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-manage-obsidian-plugins-across-multiple-devices.webp"
 title: "How to Manage Obsidian Plugins Across Multiple Devices: Complete 2026 Guide"
 description: "Learn exactly how to manage Obsidian plugins across multiple devices. Compare Obsidian Sync, Git, and cloud options to keep your vault configurations identical."
 pubDate: "2026-05-03"

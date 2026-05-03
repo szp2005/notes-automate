@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-vs-notion-complex-project-management-workflows.webp"
 title: "Obsidian vs Notion for Complex Project Management Workflows"
 description: "Comparing Obsidian vs Notion for complex project management workflows. Discover which tool offers the best structure, customization, and team scalability."
 pubDate: "2026-05-02"

@@ -1,4 +1,5 @@
 ---
+image: "/og/best-font-pairings-obsidian-minimal-theme-2026.webp"
 title: "Best Font Pairings for Obsidian Minimal Theme in 2026"
 description: "Discover the best font pairings for the Obsidian Minimal theme in 2026 to enhance readability and focus. Compare top typography setups for your PKM."
 pubDate: "2026-05-03"

@@ -1,4 +1,5 @@
 ---
+image: "/og/using-obsidian-for-tabletop-rpg-world-building.webp"
 title: "Obsidian for Tabletop RPG World Building: Best Setup Guide (2026)"
 description: "Discover the ultimate guide to using Obsidian for tabletop RPG world building. Learn the best plugins, folder structures, and workflows for your campaign."
 pubDate: "2026-05-03"

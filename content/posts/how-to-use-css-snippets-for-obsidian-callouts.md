@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-use-css-snippets-for-obsidian-callouts.webp"
 title: "How to Use CSS Snippets for Obsidian Callouts: Customization Guide"
 description: "Learn how to use CSS snippets for Obsidian callouts to create custom colors, icons, and styles. Elevate your note-taking with personalized visual blocks."
 pubDate: "2026-05-03"

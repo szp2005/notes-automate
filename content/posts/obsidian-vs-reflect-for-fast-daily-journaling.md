@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-vs-reflect-for-fast-daily-journaling.webp"
 title: "Obsidian vs Reflect for Fast Daily Journaling: Which Is Better for Power Users?"
 description: "Comparing Obsidian vs Reflect for fast daily journaling. Discover which notes app offers the best speed, AI integrations, and offline capabilities for."
 pubDate: "2026-05-03"

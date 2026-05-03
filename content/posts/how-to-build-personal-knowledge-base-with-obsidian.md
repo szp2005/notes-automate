@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-build-personal-knowledge-base-with-obsidian.webp"
 title: "How to Build Personal Knowledge Base with Obsidian: 5-Step Guide"
 description: "Learn how to build a personal knowledge base with Obsidian using our 5-step framework. Discover folders, tags, and links to organize your ideas effectively."
 pubDate: "2026-05-02"

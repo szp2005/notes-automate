@@ -1,4 +1,5 @@
 ---
+image: "/og/raindrop-io-integration-for-obsidian-bookmark-management.webp"
 title: "Raindrop IO Integration for Obsidian Bookmark Management Guide"
 description: "Master the Raindrop IO integration for Obsidian bookmark management. Sync web highlights directly into your local knowledge graph with our complete setup guide."
 pubDate: "2026-05-02"

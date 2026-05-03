@@ -1,4 +1,5 @@
 ---
+image: "/og/using-obsidian-to-manage-n8n-workflow-documentation.webp"
 title: "Using Obsidian to Manage n8n Workflow Documentation: Complete Guide"
 description: "Learn how using Obsidian to manage n8n workflow documentation can streamline your automation processes, improve troubleshooting, and prevent knowledge silos."
 pubDate: "2026-05-03"

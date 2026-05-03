@@ -1,4 +1,5 @@
 ---
+image: "/og/setting-up-obsidian-for-deep-work-session-tracking.webp"
 title: "How to Set Up Obsidian for Deep Work Session Tracking: 5-Step Guide"
 description: "Learn setting up Obsidian for deep work session tracking. This complete guide shows you how to measure focus, eliminate distractions, and achieve more daily."
 pubDate: "2026-05-03"

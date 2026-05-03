@@ -1,4 +1,5 @@
 ---
+image: "/og/setting-up-obsidian-with-apple-shortcuts-for-mobile.webp"
 title: "Setting Up Obsidian with Apple Shortcuts for Mobile: Complete Guide"
 description: "Learn how to master setting up Obsidian with Apple Shortcuts for mobile. Automate your quick capture, daily notes, and tasks on iOS seamlessly."
 pubDate: "2026-05-03"

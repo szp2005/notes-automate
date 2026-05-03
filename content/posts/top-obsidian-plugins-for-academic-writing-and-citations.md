@@ -1,4 +1,5 @@
 ---
+image: "/og/top-obsidian-plugins-for-academic-writing-and-citations.webp"
 title: "Best Obsidian Plugins for Academic Writing and Citations in 2026"
 description: "Discover the top Obsidian plugins for academic writing and citations. Streamline your research, integrate Zotero, manage literature reviews, and format."
 pubDate: "2026-05-02"

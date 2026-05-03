@@ -1,4 +1,5 @@
 ---
+image: "/og/setting-up-obsidian-git-for-automated-version-control.webp"
 title: "Setting Up Obsidian Git for Automated Version Control: Full Guide"
 description: "Learn setting up obsidian git for automated version control. Secure your notes, sync across devices, and never lose data with this complete step-by-step guide."
 pubDate: "2026-05-02"

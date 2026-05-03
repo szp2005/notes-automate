@@ -1,4 +1,5 @@
 ---
+image: "/og/creating-automated-index-pages-with-obsidian-dataview.webp"
 title: "How to Create Automated Index Pages with Obsidian Dataview"
 description: "Learn how creating automated index pages with Obsidian Dataview can transform your personal knowledge management setup into a self-organizing system."
 pubDate: "2026-05-03"

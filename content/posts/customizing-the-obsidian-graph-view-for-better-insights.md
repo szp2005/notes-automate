@@ -1,4 +1,5 @@
 ---
+image: "/og/customizing-the-obsidian-graph-view-for-better-insights.webp"
 title: "Customizing the Obsidian Graph View for Better Insights: 7-Step Guide"
 description: "Master customizing the Obsidian graph view for better insights. Learn how to configure groups, forces, and filters to uncover hidden connections in your notes."
 pubDate: "2026-05-02"

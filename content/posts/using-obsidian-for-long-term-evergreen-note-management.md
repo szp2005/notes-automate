@@ -1,4 +1,5 @@
 ---
+image: "/og/using-obsidian-for-long-term-evergreen-note-management.webp"
 title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
 description: "Master the architecture of a resilient knowledge base. Learn a proven workflow for using Obsidian for long-term evergreen note management and personal growth."
 pubDate: "2026-05-03"

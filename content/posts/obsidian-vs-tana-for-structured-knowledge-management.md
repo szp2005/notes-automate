@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-vs-tana-structured-knowledge-management.webp"
 title: "Obsidian vs Tana for Structured Knowledge Management: Which Is Better in 2026?"
 description: "Compare Obsidian vs Tana for structured knowledge management. Discover which note-taking application offers the best metadata schema, querying."
 pubDate: "2026-05-03"

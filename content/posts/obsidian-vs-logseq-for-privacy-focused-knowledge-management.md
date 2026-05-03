@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-vs-logseq-for-privacy-focused-knowledge-management.webp"
 title: "Obsidian vs Logseq for Privacy Focused Knowledge Management"
 description: "Comparing Obsidian vs Logseq for privacy focused knowledge management. Discover which local-first, secure note-taking app is best for your data in 2026."
 pubDate: "2026-05-02"

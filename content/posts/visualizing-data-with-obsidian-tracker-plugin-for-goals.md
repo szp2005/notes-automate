@@ -1,4 +1,5 @@
 ---
+image: "/og/visualizing-data-with-obsidian-tracker-plugin-for-goals.webp"
 title: "Visualizing Data With Obsidian Tracker Plugin For Goals: Complete Setup Guide"
 description: "Learn how to start visualizing data with Obsidian Tracker plugin for goals. Master custom charts, habit tracking, and progress metrics in your daily notes."
 pubDate: "2026-05-02"

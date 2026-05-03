@@ -1,4 +1,5 @@
 ---
+image: "/og/automating-obsidian-frontmatter-with-templater-scripts.webp"
 title: "Automating Obsidian Frontmatter with Templater Scripts: 5-Step Guide"
 description: "Learn automating Obsidian frontmatter with Templater scripts to streamline your knowledge management workflow. Discover practical code snippets to save time."
 pubDate: "2026-05-03"

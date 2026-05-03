@@ -1,4 +1,5 @@
 ---
+image: "/og/guide-to-obsidian-outliner-plugin-for-structured-thinking.webp"
 title: "Obsidian Outliner Plugin Complete Guide: Master Structured Thinking"
 description: "Discover how to use the Obsidian Outliner plugin for structured thinking. Our complete guide covers installation, key shortcuts, and workflow strategies."
 pubDate: "2026-05-03"

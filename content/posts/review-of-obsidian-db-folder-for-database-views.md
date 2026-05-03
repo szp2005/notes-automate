@@ -1,4 +1,5 @@
 ---
+image: "/og/review-of-obsidian-db-folder-for-database-views.webp"
 title: "Review of Obsidian DB Folder for Database Views in 2026"
 description: "Looking for a Notion alternative? Read our complete review of Obsidian DB Folder for database views to see if this plugin transforms your PKM workflow."
 pubDate: "2026-05-03"

@@ -1,4 +1,5 @@
 ---
+image: "/og/integrating-google-calendar-with-obsidian-for-daily-planning.webp"
 title: "Integrating Google Calendar With Obsidian For Daily Planning"
 description: "Master integrating Google Calendar with Obsidian for daily planning. Discover the best plugins, setup steps, and workflows to unify your schedule and notes."
 pubDate: "2026-05-02"

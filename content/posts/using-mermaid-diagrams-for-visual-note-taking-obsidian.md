@@ -1,4 +1,5 @@
 ---
+image: "/og/using-mermaid-diagrams-for-visual-note-taking-obsidian.webp"
 title: "Using Mermaid Diagrams for Visual Note Taking in Obsidian: Complete Guide"
 description: "Master using Mermaid diagrams for visual note taking in Obsidian. Learn syntax, integration, and practical workflows to connect complex ideas visually."
 pubDate: "2026-05-02"
