@@ -174,5 +174,7 @@ Aside from the *Style Settings* plugin (essential for tweaking theme contrast), 
 
 ## Related Reading
 
+- [Publish Obsidian Notes: Turn Your Vault Into a Public Blog](/posts/how-to-publish-obsidian-notes-to-a-blog/)
+
 - [Best Obsidian Themes for Dark Mode in 2026: Top Picks](/posts/best-obsidian-themes-for-dark-mode-2026/)
 - [Is Obsidian Sync Worth It in 2026? Comprehensive Review](/posts/is-obsidian-sync-worth-it-in-2026/)

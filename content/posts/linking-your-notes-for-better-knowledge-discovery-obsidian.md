@@ -158,6 +158,8 @@ An MOC should be detailed enough to provide structure but flexible enough to gro
 
 ## Related Reading
 
+- [Obsidian Zettelkasten Setup: Best Plugins and Workflow Guide](/posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/)
+
 - [Understanding the Difference Between Folders and Tags Obsidian Guide](/posts/understanding-the-difference-between-folders-and-tags-obsidian/)
 
 - [Obsidian Zettelkasten Setup: Best Plugins and Workflow Guide](/posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/)
