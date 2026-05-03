@@ -19,7 +19,7 @@ When you first start using Obsidian, the freedom of plain-text markdown files is
 
 This is the exact pain point Obsidian Dataview solves. It bridges the gap between unstructured text and structured databases. By treating your vault as a database, Dataview allows you to query, filter, and display your notes dynamically without ever changing the underlying markdown files. 
 
-Learning Dataview can feel intimidating if you do not have a programming background. The documentation is thorough but often assumes prior knowledge of database logic. This guide is designed specifically for non-programmers. We will break down exactly how to use Obsidian Dataview for beginners, starting with the core concepts of metadata and building up to constructing your own automated vault dashboards.
+Learning Dataview can feel intimidating if you do not have a programming background. The [documentation](/posts/how-to-use-obsidian-for-software-engineering-documentation/) is thorough but often assumes prior knowledge of database logic. This guide is designed specifically for non-programmers. We will break down exactly how to use Obsidian Dataview for beginners, starting with the core concepts of metadata and building up to constructing your own automated vault [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/).
 
 ## Understanding the Core Concept: Metadata
 
@@ -36,7 +36,7 @@ Here is an example of frontmatter for a book review note:
 ```yaml
 ---
 author: James Clear
-genre: Productivity
+genre: [Productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)
 rating: 5
 date_read: 2026-01-15
 status: finished

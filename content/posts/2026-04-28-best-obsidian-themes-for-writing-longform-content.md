@@ -44,11 +44,11 @@ Most writers spend hours thinking about their outlining method, their folder str
 
 This is not aesthetics for aesthetics' sake. It is applied ergonomics.
 
-**Typography and line spacing have direct, measurable effects on reading fatigue.** A line length (or "measure") beyond 75–80 characters forces your eye to travel too far before snapping back to the start of the next line. A line-height below 1.5 on body text compresses the vertical rhythm and makes it harder to track lines in a dense passage. Default Obsidian — even in its current polished form — is not optimized for 2,000-word drafting sessions. It is optimized for general note-taking, which is a different cognitive task entirely.
+**Typography and line spacing have direct, measurable effects on reading fatigue.** A line length (or "measure") beyond 75–80 characters forces your eye to travel too far before snapping back to the start of the next line. A line-height below 1.5 on body text compresses the vertical rhythm and makes it harder to track lines in a dense passage. Default Obsidian — even in its current polished form — is not optimized for 2,000-word drafting sessions. It is optimized for general [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/), which is a different cognitive task entirely.
 
 **The psychological effect of a clean interface is underestimated.** The sidebar listing your vault, the ribbon with its icons, the status bar at the bottom — every one of those elements is a low-grade interruption. Research on attention consistently shows that visible, unrelated affordances in a workspace pull cognitive resources even when you are not actively using them. A theme that hides or mutes these elements during writing is doing real work for you.
 
-Tiago Forte makes a related argument in [*Building a Second Brain*](URL_PLACEHOLDER_1): a well-designed knowledge system should reduce friction, not add it. Your visual environment is part of that system. Getting it right means your vault stops feeling like a productivity app you have to fight and starts feeling like a writing room you chose.
+Tiago Forte makes a related argument in [*Building a Second Brain*](URL_PLACEHOLDER_1): a well-designed knowledge system should reduce friction, not add it. Your visual environment is part of that system. Getting it right means your vault stops feeling like a [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) app you have to fight and starts feeling like a writing room you chose.
 
 Moving past the default settings is not optional if you are serious about long-form work. It is the foundational step.
 

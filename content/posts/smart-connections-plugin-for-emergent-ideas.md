@@ -11,7 +11,7 @@ type: "informational"
 
 # Smart Connections Plugin for Emergent Ideas: Complete 2026 Setup Guide
 
-> **Quick Answer:** The Smart Connections plugin for Obsidian uses local or API-based embeddings to analyze your entire vault and surface conceptually related notes, even when no direct links exist. By clustering semantically similar concepts, it acts as an automated research assistant that highlights emergent ideas, bridges separate domains of thought, and prevents knowledge silos within large personal knowledge management (PKM) systems.
+> **Quick Answer:** The Smart Connections plugin for [Obsidian](/posts/obsidian-vs-tana-structured-knowledge-management/) uses local or API-based embeddings to analyze your entire vault and surface conceptually related notes, even when no direct links exist. By clustering semantically similar concepts, it acts as an automated research assistant that highlights emergent ideas, bridges separate domains of thought, and prevents knowledge silos within large personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) systems.
 
 The core challenge of maintaining a large personal knowledge management system is friction. As a vault grows beyond 1,000 notes, your ability to hold the entire architecture in your head diminishes. You begin writing duplicate notes, forgetting previous insights, and worst of all, missing the subtle intersections between different fields of study. Traditional linking requires manual effort—you have to know a connection exists before you can document it.
 
@@ -21,7 +21,7 @@ Using the Smart Connections plugin for emergent ideas allows you to move from a 
 
 ## How Semantic Search Replaces Manual Tagging
 
-Traditional search in Obsidian relies on Boolean logic and exact string matching. If you search for "productivity," you will not find notes where you exclusively used the terms "efficiency," "throughput," or "time management." This strict taxonomy forces users into rigid tagging systems that break down at scale.
+Traditional search in Obsidian relies on Boolean logic and exact string matching. If you search for "[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)," you will not find notes where you exclusively used the terms "efficiency," "throughput," or "time management." This strict taxonomy forces users into rigid tagging systems that break down at scale.
 
 Smart Connections operates on vector embeddings. When you install the plugin, it processes your notes through a language model (either locally via Ollama or remotely via OpenAI, Anthropic, or similar providers). The model converts the text of each note into a high-dimensional vector—a mathematical representation of its meaning. 
 

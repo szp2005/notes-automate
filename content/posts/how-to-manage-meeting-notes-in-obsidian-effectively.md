@@ -17,7 +17,7 @@ Managing meeting notes across disparate applications often leads to fragmented i
 
 However, presenting yourself with a blank text file at the start of a fast-paced meeting is a recipe for disorganized documentation. Without a structured, repeatable system, your Obsidian vault can quickly devolve into an unnavigable repository of isolated notes. The key to unlocking Obsidian’s potential lies in creating a frictionless workflow that standardizes input while maximizing output retrieval. 
 
-Learning how to manage meeting notes in Obsidian effectively transforms your note-taking from a passive recording activity into an active system that drives projects forward. This guide outlines a comprehensive, five-step framework for architecting a resilient meeting management system within your Obsidian vault.
+Learning how to manage meeting notes in Obsidian effectively transforms your [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) from a passive recording activity into an active system that drives projects forward. This guide outlines a comprehensive, five-step framework for architecting a resilient meeting management system within your Obsidian vault.
 
 ## Step 1: Establish a Standard Meeting Template
 
@@ -95,7 +95,7 @@ With this setup, you never have to review old files manually. You simply check y
 
 ## Step 5: Implement a Review and Archiving System
 
-Even with robust templates and automated Dataview dashboards, digital systems require regular maintenance to prevent database rot. Implementing a strict review and archiving protocol ensures your vault remains highly performant and contextually relevant.
+Even with robust templates and automated Dataview [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/), digital systems require regular maintenance to prevent database rot. Implementing a strict review and archiving protocol ensures your vault remains highly performant and contextually relevant.
 
 Schedule a 15-minute block at the end of each week specifically for reviewing your meeting notes. During this time, open your Dataview dashboard and process outstanding action items. Some tasks will have been completed organically; check them off. Others may be obsolete; delete them. Tasks that require dedicated effort should be migrated to your primary task manager (like Todoist, Things, or a dedicated Obsidian Kanban board).
 
@@ -108,7 +108,7 @@ For archiving, you must decide between a folder-based archive or relying entirel
 When scaling this system, several technical and practical considerations dictate how smoothly your vault operates.
 
 **Folder Structure vs. Flat Architecture:** 
-There is an ongoing debate within the personal knowledge management (PKM) community between strict folder hierarchies and flat structures driven by tags and links. For meeting notes, a hybrid approach works best. Create one single folder titled `Meetings` or `Log`. Route all Templater meeting outputs directly into this single folder. Avoid creating nested sub-folders like `Meetings/2026/May/Marketing`. Deep folder structures create unnecessary friction when saving files and complicate relative paths. Rely on YAML frontmatter (`year: 2026`, `department: marketing`) and Dataview to sort your notes dynamically.
+There is an ongoing debate within the personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) community between strict folder hierarchies and flat structures driven by tags and links. For meeting notes, a hybrid approach works best. Create one single folder titled `Meetings` or `Log`. Route all Templater meeting outputs directly into this single folder. Avoid creating nested sub-folders like `Meetings/2026/May/Marketing`. Deep folder structures create unnecessary friction when saving files and complicate relative paths. Rely on YAML frontmatter (`year: 2026`, `department: marketing`) and Dataview to sort your notes dynamically.
 
 **Strict Naming Conventions:** 
 Your file names should follow a strict, sortable convention. The optimal format is `YYYY-MM-DD - Context`. For example: `2026-05-02 - Q3 Financial Review`. Starting the file name with an ISO 8601 formatted date ensures that your files sort perfectly chronologically in the system file explorer, regardless of the application you use to view them. Avoid vague file names like `Sync with David` or `Tuesday Meeting`. 

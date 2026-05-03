@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Setting up Obsidian with Apple Shortcuts for mobile requires using the official Obsidian URI scheme or a community plugin like Advanced URI. By creating an Apple Shortcut that formats your text and sends it via an Obsidian URI link, you can bypass slow load times and capture ideas, daily notes, or tasks directly into your vault from your iPhone or iPad home screen.
 
-For many users, Obsidian is the ultimate tool for personal knowledge management on desktop. However, when transitioning to a mobile environment, a common friction point emerges: the mobile app can take several seconds to load, especially with large vaults or heavy plugin usage. This delay disrupts the flow of quick capture—the crucial ability to jot down an idea before it slips away.
+For many users, Obsidian is the ultimate tool for personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) on desktop. However, when transitioning to a mobile environment, a common friction point emerges: the mobile app can take several seconds to load, especially with large vaults or heavy plugin usage. This delay disrupts the flow of quick capture—the crucial ability to jot down an idea before it slips away.
 
 The solution for iOS and iPadOS users lies in Apple Shortcuts. By integrating Obsidian's deep linking capabilities (URI schemes) with Apple's native automation tool, you can create a frictionless, instant-capture pipeline. You can send text, URLs, and dictation straight into your vault without ever waiting for the Obsidian app to fully initialize.
 
@@ -75,7 +75,7 @@ Creating new files for every thought can clutter your vault. Many users prefer a
 
 Advanced URI allows you to target the daily note dynamically without needing to calculate today's date format within Apple Shortcuts. 
 
-The workflow is similar to the Quick Capture shortcut, but the URI construction changes significantly:
+The [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) is similar to the Quick Capture shortcut, but the URI construction changes significantly:
 
 1. **Ask for Input:** Prompt for text.
 2. **URL Encode:** Encode the provided input.

@@ -132,7 +132,7 @@ If you want to support the Obsidian developers further, the [Obsidian Catalyst l
 
 **The Non-Tinkerer.** Your vault is your second brain. You've invested hundreds of hours building it. You do not want to debug a Syncthing relay on a Sunday afternoon. You want to open a note on your phone while you're waiting in line and have it just be there.
 
-**Anyone for Whom Notes Are Mission-Critical.** Writers, researchers, consultants, anyone who loses real money or real work if their notes become inaccessible or corrupted. The version history alone is worth the subscription cost as insurance.
+**Anyone for Whom Notes Are Mission-Critical.** Writers, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), consultants, anyone who loses real money or real work if their notes become inaccessible or corrupted. The version history alone is worth the subscription cost as insurance.
 
 ---
 
@@ -215,7 +215,7 @@ For anyone whose Obsidian vault represents real, irreplaceable thinking, that's 
 
 ### What is the main benefit of Is Obsidian Sync Worth It?
 
-This guide explains how Obsidian users and note-taking power users can make a better decision about Is Obsidian Sync Worth It. The real benefit is that it turns a vague problem into a clearer decision, workflow, or setup that Obsidian users and note-taking power users can act on immediately.
+This guide explains how Obsidian users and [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) power users can make a better decision about Is Obsidian Sync Worth It. The real benefit is that it turns a vague problem into a clearer decision, workflow, or setup that Obsidian users and note-taking power users can act on immediately.
 
 ### Who is Is Obsidian Sync Worth It best for?
 

@@ -13,7 +13,7 @@ tags: ["old", "research", "workflow", "broken"]
 
 # Top 5 Obsidian Plugins for Academic Research (And How They Work Together)
 
-*Build a complete literature review, note-taking, and synthesis system — not just a plugin list.*
+*Build a complete literature review, [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), and synthesis system — not just a plugin list.*
 
 ---
 
@@ -46,7 +46,7 @@ If you're a graduate student or postdoc, your current research workflow probably
 
 This isn't a discipline problem. It's a tooling problem. The standard academic stack — Zotero, Word, Google Docs, maybe a mind-mapping app — was not designed to connect ideas across sources. Each tool is a silo. You export a bibliography from Zotero, paste it into Word, and the connection between your reference and your thinking dies right there.
 
-**Obsidian fixes this at the structural level.** Every note is a plain Markdown file stored locally on your machine. Notes can link to each other using `[[wikilinks]]`, so a concept mentioned in one paper's literature note can point directly to another paper's note, a theoretical framework, or a paragraph draft. The result is a genuine knowledge graph — what productivity circles call a "second brain" — that grows more useful the more you add to it.
+**Obsidian fixes this at the structural level.** Every note is a plain Markdown file stored locally on your machine. Notes can link to each other using `[[wikilinks]]`, so a concept mentioned in one paper's literature note can point directly to another paper's note, a theoretical framework, or a paragraph draft. The result is a genuine knowledge graph — what [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) circles call a "second brain" — that grows more useful the more you add to it.
 
 But Obsidian's core app is deliberately minimal. The real power lives in its plugin ecosystem, which is where most guides stop: they hand you a list and walk away. This article takes a different approach. Each plugin below solves a specific, named problem in academic research, and the final section shows how all five connect into a workflow you can start using the same day.
 
@@ -243,7 +243,7 @@ The five plugins covered in this article — Zotero Integration, Dataview, Canva
 
 Researchers who set this up describe a specific inflection point: somewhere around the fourth or fifth month, the vault starts generating insights rather than just storing information. You open a Canvas board and realize your argument is actually stronger than you thought. A Dataview query shows a gap in your literature coverage before your supervisor points it out. Omnisearch surfaces a connection between two papers you'd mentally filed in different categories.
 
-That's what a well-built knowledge management system does — it thinks alongside you, not just after you.
+That's what a well-built [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system does — it thinks alongside you, not just after you.
 
 **Ready to go deeper?** If you learn better through video and want a guided setup from a blank vault to a fully functional academic research system, the [Obsidian for Academics course on Udemy](URL_PLACEHOLDER_8) covers everything in this article in step-by-step screencasts, including more advanced Dataview queries and Templater scripts specifically built for literature review and thesis writing.
 

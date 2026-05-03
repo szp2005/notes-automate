@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Syncthing is the most robust free, peer-to-peer sync solution for Android, Windows, Mac, and Linux, keeping your files completely private. However, because it lacks reliable iOS support, Apple users should opt for the official Obsidian Sync or community plugins like Remotely Save for a seamless cross-platform experience.
 
-Choosing the right synchronization method for your Obsidian vault is one of the most critical decisions you will make when setting up your personal knowledge management system. Obsidian stores all your notes as local Markdown files. While this local-first approach guarantees unparalleled privacy and longevity, it places the burden of keeping those files updated across your devices entirely on your shoulders.
+Choosing the right synchronization method for your Obsidian vault is one of the most critical decisions you will make when setting up your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system. Obsidian stores all your notes as local Markdown files. While this local-first approach guarantees unparalleled privacy and longevity, it places the burden of keeping those files updated across your devices entirely on your shoulders.
 
 For users who regularly switch between a desktop computer, a laptop, and a mobile phone, a reliable sync solution is non-negotiable. A broken sync protocol can lead to duplicated files, lost thoughts, and hours of frustrating troubleshooting. As vault sizes grow to encompass thousands of notes, PDFs, and images, the demands placed on the synchronization engine increase exponentially.
 
@@ -112,7 +112,7 @@ Once the devices recognize each other, you designate the folder to be shared. On
 
 The pursuit of a free synchronization method often leads users down complex technical rabbit holes. While Syncthing and Remotely Save are incredibly capable tools, there is an undeniable cost associated with your time and attention. 
 
-You should absolutely invest in Obsidian Sync if your workflow relies heavily on iOS devices. The sandboxing restrictions imposed by Apple make background file synchronization via third-party apps profoundly unreliable. While iCloud Drive is an option, it notoriously offloads files to the cloud to save local space, resulting in Obsidian freezing as it attempts to download a required markdown file on the fly. Obsidian Sync circumvents all of this.
+You should absolutely invest in Obsidian Sync if your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) relies heavily on iOS devices. The sandboxing restrictions imposed by Apple make background file synchronization via third-party apps profoundly unreliable. While iCloud Drive is an option, it notoriously offloads files to the cloud to save local space, resulting in Obsidian freezing as it attempts to download a required markdown file on the fly. Obsidian Sync circumvents all of this.
 
 Furthermore, if you are collaborating on a shared vault with colleagues or family members, the official service is virtually mandatory. Configuring Syncthing networks across multiple non-technical users is a recipe for catastrophic file conflicts and data loss. Obsidian Sync handles multi-user conflict resolution gracefully and provides the necessary version history to recover from accidental deletions.
 

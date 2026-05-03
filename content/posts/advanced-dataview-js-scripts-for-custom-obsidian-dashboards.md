@@ -15,9 +15,9 @@ type: "informational"
 
 Obsidian’s default interface is a blank canvas, which is both its greatest strength and its most significant hurdle. When your vault grows from a few dozen notes to thousands of interlinked ideas, projects, and daily logs, finding actionable information becomes difficult. Standard Dataview queries (DQL) offer a solid starting point for surfacing data, but they lack the computational flexibility required for complex data manipulation, custom visual formatting, and complex logical operations.
 
-This is where the transition to DataviewJS becomes necessary. By tapping directly into the Dataview JavaScript API, you gain the ability to write full scripts that interact with your vault’s metadata in real-time. You can calculate dynamic project completion percentages, render habit tracking heatmaps, and build interactive CRM tables that adapt to your daily workflow.
+This is where the transition to DataviewJS becomes necessary. By tapping directly into the Dataview JavaScript API, you gain the ability to write full scripts that interact with your vault’s metadata in real-time. You can calculate dynamic project completion percentages, render habit tracking heatmaps, and build interactive CRM tables that adapt to your daily [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/).
 
-In this guide, we will break down the essential advanced dataview js scripts for custom obsidian dashboards. We will cover project management, task aggregation, performance optimization, and daily tracking, providing you with exact code snippets and the architectural logic needed to implement them in your personal knowledge management system.
+In this guide, we will break down the essential advanced dataview js scripts for custom obsidian dashboards. We will cover project management, task aggregation, performance optimization, and daily tracking, providing you with exact code snippets and the architectural logic needed to implement them in your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system.
 
 ## The Architectural Foundation of DataviewJS
 

@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Daily journaling has evolved far beyond physical notebooks and simple text editors. Today, power users rely on networked thought applications to capture ideas, track habits, and synthesize knowledge over time. When evaluating Obsidian vs Reflect for fast daily journaling, the decision often comes down to friction versus control. 
 
-Obsidian has long been the heavyweight champion of personal knowledge management (PKM). Its local-first approach guarantees longevity, while its massive plugin ecosystem allows you to build virtually any workflow. However, that power comes with a learning curve and configuration overhead. 
+Obsidian has long been the heavyweight champion of personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM). Its local-first approach guarantees longevity, while its massive plugin ecosystem allows you to build virtually any workflow. However, that power comes with a learning curve and configuration overhead. 
 
 Reflect entered the market with a starkly different philosophy. It removes the configuration burden entirely, offering an opinionated, highly polished interface centered around the daily note. With deep calendar integrations and native AI capabilities baked directly into the editor, it aims to capture the speed of human thought with zero setup.
 
@@ -111,7 +111,7 @@ Obsidian requires intentional system design for review. You can build complex Da
 
 Choosing between Obsidian and Reflect for fast daily journaling depends entirely on your tolerance for setup versus your willingness to pay for convenience.
 
-If you have specific workflow requirements, demand offline privacy, or enjoy the process of building and maintaining your own productivity systems, Obsidian is the definitive choice. The upfront time investment pays dividends in long-term flexibility.
+If you have specific workflow requirements, demand offline privacy, or enjoy the process of building and maintaining your own [productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/) systems, Obsidian is the definitive choice. The upfront time investment pays dividends in long-term flexibility.
 
 If you are a busy professional whose primary constraint is time, Reflect is the superior daily driver. The $10 monthly fee pays for itself in the hours saved on configuration and plugin maintenance. Its native voice transcription and calendar integrations make the act of journaling virtually frictionless, allowing you to focus entirely on the content of your thoughts rather than the structure of your database.
 
@@ -124,7 +124,7 @@ Yes. Because both applications rely heavily on markdown, you can import plain te
 Obsidian is inherently more secure from external breaches because your files live locally on your hard drive; they never touch the cloud unless you set up syncing. Reflect encrypts data in transit and at rest on their servers, and offers end-to-end encryption for the text of your notes, making it highly secure for a cloud-based application.
 
 ### Do I need to know coding to use Obsidian for daily journaling?
-No coding is strictly required. While knowing basic Markdown is helpful, Obsidian's visual editor allows you to type normally. However, configuring advanced daily dashboards using plugins like Dataview does require learning a simple, SQL-like query language.
+No coding is strictly required. While knowing basic Markdown is helpful, Obsidian's visual editor allows you to type normally. However, configuring advanced daily [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) using plugins like Dataview does require learning a simple, SQL-like query language.
 
 ### Does Reflect work entirely offline?
 Reflect has robust offline capabilities for a web-first app. The desktop and mobile apps cache your recent notes locally, allowing you to read and write daily journals without internet access. The app will automatically sync your changes to the cloud once a connection is re-established. However, AI features require an active connection.

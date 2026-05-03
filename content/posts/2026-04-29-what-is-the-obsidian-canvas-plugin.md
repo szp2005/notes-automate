@@ -123,13 +123,13 @@ Writers and content creators: put each scene or section as a note card, arranged
 
 ### Use Case 4: Visualizing a Research Topic
 
-Drop your source PDFs as media cards on the left. Your literature-review notes in the centre. Your emerging argument notes on the right. Draw edges from specific sources to the claims they support. This is a zettelkasten visualization workflow — you can see at a glance which arguments have two sources behind them and which are hanging in the air unsupported.
+Drop your source PDFs as media cards on the left. Your literature-review notes in the centre. Your emerging argument notes on the right. Draw edges from specific sources to the claims they support. This is a zettelkasten visualization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) — you can see at a glance which arguments have two sources behind them and which are hanging in the air unsupported.
 
 ### Use Case 5: Building a Vault Homepage
 
 Many Obsidian users create a "Home" canvas that sits at the top of their vault. It contains: a daily note card (embedding today's date-titled note), a projects group (cards linking to each active project's main note), a reading list card, and a goals card. Open Obsidian, open this canvas, and you have your entire context in one screen.
 
-To dive deeper into PKM workflows like these, [this Obsidian Skillshare course](URL_PLACEHOLDER_2) covers the full system from daily notes to Canvas dashboards in structured video lessons.
+To dive deeper into PKM workflows like these, [this Obsidian Skillshare course](URL_PLACEHOLDER_2) covers the full system from daily notes to Canvas [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) in structured video lessons.
 
 ---
 

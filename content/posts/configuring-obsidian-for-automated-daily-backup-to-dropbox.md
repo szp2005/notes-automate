@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The most reliable way to configure Obsidian for automated daily backup to Dropbox is by installing the community plugin "Remotely Save," authenticating it with your Dropbox account, and setting the auto-sync schedule to trigger every 24 hours. Alternatively, you can place your Obsidian vault directly inside your local Dropbox folder to leverage system-level continuous synchronization.
 
-Personal knowledge management systems grow increasingly valuable with every note you add. While Obsidian’s local-first architecture guarantees privacy and fast performance, it also places the burden of data security entirely on your shoulders. Hardware failure, accidental deletion, or software corruption can wipe out years of interconnected thoughts in an instant. Relying on manual backups is a fragile strategy because human memory is unreliable; eventually, you will forget to copy your files.
+Personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) systems grow increasingly valuable with every note you add. While Obsidian’s local-first architecture guarantees privacy and fast performance, it also places the burden of data security entirely on your shoulders. Hardware failure, accidental deletion, or software corruption can wipe out years of interconnected thoughts in an instant. Relying on manual backups is a fragile strategy because human memory is unreliable; eventually, you will forget to copy your files.
 
 Configuring Obsidian for automated daily backup to Dropbox bridges the gap between local control and cloud redundancy. Dropbox offers robust version history, wide platform support, and fast synchronization speeds. By automating this process, you create a frictionless safety net that protects your vault without requiring daily intervention.
 
@@ -61,7 +61,7 @@ Select "Dropbox" from the list of available remote services. Click the "Auth" bu
 
 ### Step 2: Configuring Automation
 
-By default, Remotely Save requires manual triggering via the command palette. To achieve our goal of automated daily backup, navigate to the "Automation" section within the plugin settings.
+By [default](/posts/things-theme-vs-minimal-theme-obsidian/), Remotely Save requires manual triggering via the command palette. To achieve our goal of automated daily backup, navigate to the "Automation" section within the plugin settings.
 
 Enable "Auto Run Every X Minutes." To configure Obsidian for automated daily backup to Dropbox, calculate the minutes in a day (1440) and enter `1440` into this field. Ensure that "Run Once On Startup" is also toggled on. This guarantees that if you do not leave Obsidian open continuously for 24 hours, the backup will still trigger the next time you launch the application.
 
@@ -93,7 +93,7 @@ The `-a` flag preserves file permissions and timestamps, while the `--delete` fl
 
 ## Managing the Hidden .obsidian Directory
 
-The `.obsidian` directory contains critical configuration data, including enabled plugins, custom CSS snippets, and hotkey bindings. Losing this folder means rebuilding your workspace from scratch, even if your Markdown files are safe.
+The `.obsidian` directory contains critical configuration data, including enabled plugins, custom [CSS snippets](/posts/how-to-use-css-snippets-for-obsidian-callouts/), and hotkey bindings. Losing this folder means rebuilding your workspace from scratch, even if your Markdown files are safe.
 
 However, the `.obsidian/workspace.json` file records the exact state of your open panes and cursor position. This file updates constantly. If you are using continuous Dropbox sync, this file will trigger uploads every few seconds. 
 

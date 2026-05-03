@@ -13,13 +13,13 @@ type: "informational"
 
 > **Quick Answer:** The Janitor plugin for Obsidian vault cleanup automates the removal of orphaned files, empty notes, and unlinked attachments that accumulate over time. By scanning your local directory and identifying assets not referenced by any active markdown file, it allows you to bulk-delete digital clutter, significantly improving vault loading times and search performance.
 
-Digital decay is an inevitable byproduct of active knowledge management. When you use Obsidian daily for drafting articles, clipping web content, or organizing research, your vault slowly accumulates residue. Images from deleted notes remain in your attachments folder. Placeholders you created but never filled sit empty. Files become disconnected from your graph, floating as orphans in your database. 
+Digital decay is an inevitable byproduct of active [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/). When you use Obsidian daily for drafting articles, clipping web content, or organizing research, your vault slowly accumulates residue. Images from deleted notes remain in your attachments folder. Placeholders you created but never filled sit empty. Files become disconnected from your graph, floating as orphans in your database. 
 
 Over months or years, this accumulation degrades performance. Obsidian has to index these unnecessary files every time it opens, slowing down load times and cluttering search results. Mobile synchronization across devices takes longer, consuming unnecessary bandwidth and storage space on your smartphone or tablet.
 
 The Janitor plugin was developed specifically to address this structural degradation. Rather than forcing you to manually audit hundreds of folders to find unlinked PDFs or unused PNGs, Janitor runs automated sweeps. It compares the actual files on your hard drive against the active links in your markdown files, highlighting discrepancies and giving you a centralized dashboard for remediation.
 
-This guide details exactly how the Janitor plugin for Obsidian vault cleanup functions, the optimal settings to use without risking data loss, and workflows to integrate vault maintenance into your regular productivity system.
+This guide details exactly how the Janitor plugin for Obsidian vault cleanup functions, the optimal settings to use without risking data loss, and workflows to integrate vault maintenance into your regular [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system.
 
 ## The Problem: Digital Clutter in Local Knowledge Bases
 
@@ -75,7 +75,7 @@ You can also set file size thresholds. For example, you can instruct Janitor to 
 
 ## Practical Advice: Safe Cleanup Workflows
 
-Automated deletion tools require a disciplined workflow to ensure data integrity. Do not blindly click "Delete All" after running a scan. 
+Automated deletion tools require a disciplined [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) to ensure data integrity. Do not blindly click "Delete All" after running a scan. 
 
 ### The Pre-Scan Backup
 Always ensure your vault is backed up before running a bulk cleanup operation. If you use Obsidian Sync, ensure your version history is active. If you use local backups, trigger a Git commit or run your backup utility before launching Janitor. This guarantees that if a necessary file is incorrectly identified as an orphan, you can restore the entire vault state.

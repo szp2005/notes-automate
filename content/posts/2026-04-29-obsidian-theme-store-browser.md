@@ -109,7 +109,7 @@ These five themes cover different aesthetics and are all actively maintained as 
 
 **AnuPpuccin** is the go-to choice if you want your vault to feel warm and cohesive. It ships with multiple color palettes selectable via Style Settings.
 
-**Things** replicates the refined UI of the Things 3 task manager. If you use Obsidian for project planning alongside note-taking, the visual consistency helps.
+**Things** replicates the refined UI of the Things 3 task manager. If you use Obsidian for project planning alongside [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/), the visual consistency helps.
 
 > 💡 **Want to go deeper on Obsidian workflows?** [This Udemy course on Obsidian for knowledge management](URL_PLACEHOLDER_3) covers vault architecture, automation, and visual customization in practical detail.
 
@@ -156,7 +156,7 @@ Snippets are also the right tool when a theme update breaks something you relied
 
 The Obsidian theme store browser is a two-part system: the in-app browser for installing and managing themes, and the web gallery at obsidian.md/themes for discovery and comparison. The fastest path to a vault you enjoy looking at is to filter the web gallery by your preferred mode, shortlist three or four candidates, install them all in-app, and cycle through them with your actual notes open. Then use CSS snippets for anything the theme does not handle exactly the way you want.
 
-If you want to take your Obsidian setup from functional to genuinely enjoyable to use every day, aesthetics matter more than most productivity writers admit. A vault that looks right is a vault you actually open. And that is the point of [building a solid personal knowledge system](URL_PLACEHOLDER_5) in the first place.
+If you want to take your Obsidian setup from functional to genuinely enjoyable to use every day, aesthetics matter more than most [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) writers admit. A vault that looks right is a vault you actually open. And that is the point of [building a solid personal knowledge system](URL_PLACEHOLDER_5) in the first place.
 
 > 🛠️ **Ready to level up beyond themes?** [Explore Obsidian courses on Udemy](URL_PLACEHOLDER_3) covering automation, templates, Dataview, and advanced customization — everything you need to turn Obsidian into a second brain that actually works for you.
 

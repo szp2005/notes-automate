@@ -31,7 +31,7 @@ To build an automated, friction-free annual review system, you need three specif
 **Price:** Free
 **Rating:** 5/5
 
-The Periodic Notes plugin by Liam Cain is the structural foundation of this workflow. It directly extends Obsidian's native daily notes functionality by introducing dedicated frameworks for weekly, monthly, quarterly, and yearly notes. For annual reviews, it handles the routing, creation, and formatting of your ultimate review document, ensuring it lives exactly where it belongs in your vault hierarchy.
+The Periodic Notes plugin by Liam Cain is the structural foundation of this [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/). It directly extends Obsidian's native daily notes functionality by introducing dedicated frameworks for weekly, monthly, quarterly, and yearly notes. For annual reviews, it handles the routing, creation, and formatting of your ultimate review document, ensuring it lives exactly where it belongs in your vault hierarchy.
 
 **Pros:**
 - Creates a seamless hierarchy from days to years
@@ -126,7 +126,7 @@ The mechanics of the Obsidian periodic notes plugin setup for annual reviews onl
 
 First, rely on the concept of "rollups." Do not attempt to read 365 daily notes during your annual review. Instead, your daily notes should inform your weekly reviews. Your weekly reviews inform your monthly summaries. When December arrives, you should only be reviewing 12 monthly synthesis notes, plus your four quarterly planning documents.
 
-Second, limit your prompts. It is tempting to download a 50-question yearly review template from a productivity guru. In practice, long templates lead to fatigue. Stick to high-leverage prompts:
+Second, limit your prompts. It is tempting to download a 50-question yearly review template from a [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) guru. In practice, long templates lead to fatigue. Stick to high-leverage prompts:
 - What energized me the most this year?
 - What drained my energy, and how can I structurally remove it next year?
 - What did I change my mind about?

@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Using Obsidian for long-term evergreen note management requires shifting from chronological capture to conceptual synthesis. By combining Obsidian's local, plain-text Markdown storage with a workflow built on atomic, densely linked concepts, you create a resilient knowledge graph that grows in compound value over decades without relying on proprietary databases.
 
-Most digital note-taking systems fail because they act as digital landfills. We clip articles, save bookmarks, and jot down fragmented thoughts into hierarchical folders, only to never revisit them. The friction of retrieval becomes higher than the value of the information stored. When the software company inevitably pivots, raises prices, or shuts down, those siloed databases become inaccessible. 
+Most digital [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) systems fail because they act as digital landfills. We clip articles, save bookmarks, and jot down fragmented thoughts into hierarchical folders, only to never revisit them. The friction of retrieval becomes higher than the value of the information stored. When the software company inevitably pivots, raises prices, or shuts down, those siloed databases become inaccessible. 
 
 The alternative is a system optimized for synthesis and longevity. Evergreen notes, a concept popularized by researcher Andy Matuschak, are fundamentally different from standard notes. They are written for yourself, to be read in the future, and are expected to evolve over time. They are concepts, not records of events or summaries of books. 
 
@@ -108,7 +108,7 @@ When you encounter an old evergreen note and realize your perspective has shifte
 ## Frequently Asked Questions
 
 ### How does Obsidian compare to Notion for evergreen notes?
-Notion is a block-based database heavily reliant on hierarchical organization and internet connectivity. While excellent for project management, its rigid database structures and proprietary format create high friction for atomic, densely linked, multi-decade knowledge management compared to Obsidian's fast, local, plain-text environment.
+Notion is a block-based database heavily reliant on hierarchical organization and internet connectivity. While excellent for project management, its rigid database structures and proprietary format create high friction for atomic, densely linked, multi-decade [knowledge management](/posts/obsidian-vs-tana-structured-knowledge-management/) compared to Obsidian's fast, local, plain-text environment.
 
 ### Do I need a complex folder structure for evergreen notes?
 No. A complex folder hierarchy is actively detrimental to evergreen notes. Concepts often span multiple disciplines. Using a flat structure for your finalized notes and relying on Maps of Content (MOCs) and bidirectional links allows ideas to connect across traditional subject boundaries.

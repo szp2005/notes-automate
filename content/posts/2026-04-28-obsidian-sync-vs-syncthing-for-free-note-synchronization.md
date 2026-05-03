@@ -15,7 +15,7 @@ tags: ["core", "dilemma", "paid", "convenience"]
 
 **TL;DR**
 - Obsidian Sync costs $4–$10/month and takes minutes to configure; Syncthing is completely free but requires manual setup on every device you own.
-- Both offer strong security — Obsidian Sync uses end-to-end encryption on their servers; Syncthing sends data directly between your devices with TLS, touching no third-party server.
+- Both offer strong security — Obsidian Sync uses end-to-end [encryption](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/) on their servers; Syncthing sends data directly between your devices with TLS, touching no third-party server.
 - Your decision comes down to one question: is your time worth more than the subscription fee, or is total data control worth a few hours of tinkering?
 
 ---
@@ -67,7 +67,7 @@ Obsidian Sync is the first-party, cloud-based synchronization service built dire
 - **Selective sync** so you can exclude folders (like a large attachments folder) to stay within your storage quota.
 - **Official support** if something breaks.
 
-**The pricing reality:** The standard Obsidian Sync plan is $4/month (billed annually) with 10 GB of storage and 1 year of version history. The Plus plan is $8/month (billed annually) with 100 GB and 12 months of history. These prices are reasonable for a professional tool, but $48–$96/year adds up, especially if you are already paying for Notion, Roam, or other productivity software.
+**The pricing reality:** The standard Obsidian Sync plan is $4/month (billed annually) with 10 GB of storage and 1 year of version history. The Plus plan is $8/month (billed annually) with 100 GB and 12 months of history. These prices are reasonable for a professional tool, but $48–$96/year adds up, especially if you are already paying for Notion, Roam, or other [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) software.
 
 **Who it is for:** Anyone who opens their vault on multiple devices daily and needs that experience to be invisible. If you sit down to write a meeting note and do not want to think about whether your phone synced last night, Obsidian Sync earns its fee.
 
@@ -239,7 +239,7 @@ Your notes remain on your device as plain Markdown files — you never lose them
 
 ### Do I need an always-on device for Syncthing to work?
 
-Not strictly. If your laptop and phone are both online at the same time and connected (on the same Wi-Fi or via Syncthing's relay servers), they will sync. The relay servers Syncthing uses for NAT traversal involve minimal data — metadata only, not file content. However, if you frequently switch between networks or need sync to happen overnight while your laptop is sleeping, an always-on node makes the experience dramatically more reliable.
+Not strictly. If your laptop and phone are both online at the same time and connected (on the same Wi-Fi or via Syncthing's relay servers), they will sync. The relay servers Syncthing uses for NAT traversal involve minimal data — [metadata](/posts/explaining-obsidian-metadata-menu-for-structured-data/) only, not file content. However, if you frequently switch between networks or need sync to happen overnight while your laptop is sleeping, an always-on node makes the experience dramatically more reliable.
 
 ### Can I use both Obsidian Sync and Syncthing at the same time?
 

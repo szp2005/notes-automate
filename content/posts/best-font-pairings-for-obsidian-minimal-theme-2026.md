@@ -15,11 +15,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The best font pairing for the Obsidian Minimal theme in 2026 is Inter for the user interface combined with iA Writer Quattro for body text. This combination offers the perfect balance of modern, clean UI aesthetics and exceptional long-form readability for extended writing sessions.
 
-Obsidian's Minimal theme, developed by Kepano, remains the gold standard for Personal Knowledge Management (PKM) users in 2026. Its defining characteristic is its ability to fade into the background, stripping away unnecessary UI elements to leave you alone with your thoughts. However, a minimalist environment places an enormous burden on the few elements that remain—most notably, typography.
+Obsidian's Minimal theme, developed by Kepano, remains the gold standard for Personal [Knowledge Management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) users in 2026. Its defining characteristic is its ability to fade into the background, stripping away unnecessary UI elements to leave you alone with your thoughts. However, a minimalist environment places an enormous burden on the few elements that remain—most notably, typography.
 
 Finding the best font pairings for Obsidian Minimal theme 2026 is not merely an aesthetic choice; it is a functional requirement. The right typography reduces cognitive load, minimizes eye strain during long research sessions, and helps delineate between interface navigation, active reading, and code blocks. With the widespread adoption of high-DPI OLED displays and advanced subpixel rendering on modern operating systems, the nuances of typographic design have never been more prominent. 
 
-Whether you are an academic building a Zettelkasten, a developer documenting complex architectures, or a writer drafting your next novel, your typography dictates the friction of your workflow. In this guide, we review the top font pairings that seamlessly integrate with the Minimal theme, evaluating them on legibility, aesthetic cohesion, and practical application within a digital brain.
+Whether you are an academic building a Zettelkasten, a developer documenting complex architectures, or a writer drafting your next novel, your typography dictates the friction of your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). In this guide, we review the top font pairings that seamlessly integrate with the Minimal theme, evaluating them on legibility, aesthetic cohesion, and practical application within a digital brain.
 
 ## Why Typography Matters in Your Obsidian Vault
 
@@ -100,7 +100,7 @@ Helvetica Neue provides a clean, dense interface that stays entirely out of the 
 
 The IBM Plex superfamily was designed to represent the intersection of mankind and machine, making it a philosophically perfect fit for a digital brain. Using Plex Sans for the UI and Plex Serif for the body text creates a highly cohesive, professional environment. Because both fonts share the same foundational geometry and proportions, the transition between your file explorer and your notes is entirely seamless.
 
-Plex Serif has slightly squared-off curves and open counters, giving it a technical yet approachable feel. It lacks the old-world stuffiness of traditional serifs, making it appropriate for business notes, meeting minutes, and project management dashboards. The Plex Sans UI is crisp, objective, and scales beautifully across different zoom levels.
+Plex Serif has slightly squared-off curves and open counters, giving it a technical yet approachable feel. It lacks the old-world stuffiness of traditional serifs, making it appropriate for business notes, meeting minutes, and project management [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/). The Plex Sans UI is crisp, objective, and scales beautifully across different zoom levels.
 
 **Pros:**
 - Perfect typographic harmony since both fonts belong to the same family

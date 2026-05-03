@@ -97,7 +97,7 @@ Inside Obsidian, open any note and click the Publish icon (paper-plane icon in t
 
 A static site generator (SSG) takes your Markdown files and converts them into plain HTML, CSS, and JavaScript. Because Obsidian notes are already Markdown, SSGs are a natural fit.
 
-The general workflow looks like this:
+The general [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) looks like this:
 
 ```
 Obsidian Vault → Git Repository → SSG Build Step → Static HTML → Hosted on CDN
@@ -227,7 +227,7 @@ Every note you publish should have a frontmatter block:
 
 ```yaml
 ---
-title: "How Spaced Repetition Rewired My Study Habits"
+title: "How [Spaced Repetition](/posts/spaced-repetition-plugin-for-obsidian-flashcards/) Rewired My Study Habits"
 author: "Alex Chen"
 description: "A practical breakdown of how I use Anki and Obsidian together to retain 90% of what I read."
 date: 2024-03-15

@@ -11,9 +11,9 @@ type: "informational"
 
 # Canvas for Obsidian: Infinite Whiteboard Ideas for 2026
 
-> **Quick Answer:** The Canvas core plugin for Obsidian turns your text-based vault into an infinite whiteboard. The best ideas for using it include creating spatial Maps of Content (MOCs), mapping out complex article structures, building visual project dashboards, and clustering research PDFs into thematic zones to discover hidden connections.
+> **Quick Answer:** The Canvas core plugin for Obsidian turns your text-based vault into an infinite whiteboard. The best ideas for using it include creating spatial Maps of Content (MOCs), mapping out complex article structures, building visual project [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/), and clustering research PDFs into thematic zones to discover hidden connections.
 
-Visual thinkers often hit a cognitive wall when using strictly text-based personal knowledge management (PKM) tools. While bidirectional linking is powerful for establishing relationships between ideas, seeing the actual spatial relationships between concepts can trigger insights that linear, top-down notes simply cannot. The introduction of the Canvas plugin bridged this gap, allowing users to arrange notes, images, PDFs, and live web pages on an infinite 2D plane. 
+Visual thinkers often hit a cognitive wall when using strictly text-based personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) tools. While bidirectional linking is powerful for establishing relationships between ideas, seeing the actual spatial relationships between concepts can trigger insights that linear, top-down notes simply cannot. The introduction of the Canvas plugin bridged this gap, allowing users to arrange notes, images, PDFs, and live web pages on an infinite 2D plane. 
 
 Despite having access to this feature natively, many users stare at a blank Canvas file and struggle to figure out how to incorporate it into their existing text-heavy workflows. The shift from writing linear documents to placing cards in a spatial environment requires an entirely different mental model. It demands that you think about grouping, proximity, and visual hierarchy rather than just headings and bullet points.
 
@@ -49,7 +49,7 @@ This modular approach allows you to see instantly if a chapter is overloaded wit
 
 ## Building Dynamic Dashboards and Home Pages
 
-Your vault's entry point sets the tone for your entire workflow. A visual dashboard built on a Canvas can be far more engaging and functionally dense than a standard markdown index note.
+Your vault's entry point sets the tone for your entire [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). A visual dashboard built on a Canvas can be far more engaging and functionally dense than a standard markdown index note.
 
 ### The Daily Operations Center
 Design a central home Canvas that you open first thing in the morning. Include a card that embeds your daily note or your primary task list. Right next to it, place a card linking to your current highest-priority project. 

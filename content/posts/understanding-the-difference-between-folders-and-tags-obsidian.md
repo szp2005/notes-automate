@@ -9,11 +9,11 @@ slug: "understanding-the-difference-between-folders-and-tags-obsidian"
 type: "informational"
 ---
 
-# Understanding the Difference Between Folders and Tags Obsidian Guide
+# Understanding the Difference Between Folders and Tags [Obsidian](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) Guide
 
 > **Quick Answer:** Folders create a rigid, physical hierarchy on your hard drive where a note can only exist in one single location, making them ideal for broad categories or access control. Tags function as flexible, non-hierarchical metadata, allowing a single note to be associated with multiple contexts, statuses, or topics simultaneously without changing its physical location.
 
-Setting up a personal knowledge management system in Obsidian often stalls at the very first decision: how to organize the initial vault. Because Obsidian offers a blank canvas, users must choose an architectural foundation before they begin capturing information. The core dilemma usually revolves around understanding the difference between folders and tags obsidian users face when structuring their notes.
+Setting up a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system in Obsidian often stalls at the very first decision: how to organize the initial vault. Because Obsidian offers a blank canvas, users must choose an architectural foundation before they begin capturing information. The core dilemma usually revolves around understanding the difference between folders and tags obsidian users face when structuring their notes.
 
 Unlike web-based note applications that hide their file structure behind a proprietary database, Obsidian operates directly on top of your local file system. This technical distinction fundamentally changes how organizational tools operate. A folder in Obsidian is not just a visual grouping; it is a literal directory on your hard drive. A tag is not just a colored label; it is a searchable string of text or a defined property in a YAML header.
 
@@ -108,7 +108,7 @@ When you search for `#source`, Obsidian will return every book, article, and pod
 
 For users who push Obsidian to its limits, the community plugin Dataview changes the folder vs tag dynamic entirely. Dataview allows you to write SQL-like queries to generate dynamic tables of your notes.
 
-Folders and tags become equally powerful query sources. You can instruct Dataview to build a dashboard showing all notes `FROM "Work/Projects"` that also contain the tag `#status/active`. Understanding that folders define the permanent pool of files, while tags define the temporary filter, allows you to build highly automated project dashboards that update themselves as you add or remove tags from files.
+Folders and tags become equally powerful query sources. You can instruct Dataview to build a dashboard showing all notes `FROM "Work/Projects"` that also contain the tag `#status/active`. Understanding that folders define the permanent pool of files, while tags define the temporary filter, allows you to build highly automated project [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) that update themselves as you add or remove tags from files.
 
 ## Final System Recommendations
 

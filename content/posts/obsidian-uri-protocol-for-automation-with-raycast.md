@@ -15,9 +15,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The Obsidian URI protocol allows external apps to interact with your vault using deep links like `obsidian://open`. By combining this protocol with Raycast script commands on macOS, you can build custom, keyboard-driven automations to instantly capture ideas, open specific daily notes, or append text to running logs without ever touching your mouse.
 
-For knowledge workers, friction is the enemy of productivity. When a brilliant idea strikes or a critical piece of information needs to be saved, the time it takes to switch contexts, open an application, navigate to the correct folder, create a new file, and start typing is often enough to derail your train of thought completely. 
+For knowledge workers, friction is the enemy of [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/). When a brilliant idea strikes or a critical piece of information needs to be saved, the time it takes to switch contexts, open an application, navigate to the correct folder, create a new file, and start typing is often enough to derail your train of thought completely. 
 
-Obsidian is widely regarded as one of the most powerful and flexible personal knowledge management (PKM) tools available today, primarily because of its local-first architecture and extensible nature. However, as your vault grows, navigating its interface can become a bottleneck. Enter Raycast, the modern, exceptionally fast launcher for macOS. While both tools are incredibly powerful on their own, linking them together transforms your computer into a frictionless productivity engine.
+Obsidian is widely regarded as one of the most powerful and flexible personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) tools available today, primarily because of its local-first architecture and extensible nature. However, as your vault grows, navigating its interface can become a bottleneck. Enter Raycast, the modern, exceptionally fast launcher for macOS. While both tools are incredibly powerful on their own, linking them together transforms your computer into a frictionless productivity engine.
 
 The secret to bridging these two applications lies in the Obsidian URI protocol. This framework allows you to trigger specific actions within your Obsidian vault from entirely outside the application. In this guide, we will explore exactly how the URI protocol works, how to craft custom Raycast script commands to leverage it, and how to build a personalized automation system that operates at the speed of thought.
 
@@ -153,7 +153,7 @@ If you use Obsidian Sync or iCloud to manage your vault across devices, be aware
 
 ## Conclusion
 
-The combination of the Obsidian URI protocol and Raycast transforms knowledge management from a passive filing system into an active, frictionless extension of your operating system. By investing an hour into configuring custom script commands, you eliminate the cognitive tax of context switching. Whether you are building an instantaneous quick-capture tool, setting up global search hotkeys, or creating automated project dashboards, mastering the URI protocol ensures that your tools conform entirely to how you work, rather than forcing you to adapt to them. 
+The combination of the Obsidian URI protocol and Raycast transforms knowledge management from a passive filing system into an active, frictionless extension of your operating system. By investing an hour into configuring custom script commands, you eliminate the cognitive tax of context switching. Whether you are building an instantaneous quick-capture tool, setting up global search hotkeys, or creating automated project [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/), mastering the URI protocol ensures that your tools conform entirely to how you work, rather than forcing you to adapt to them. 
 
 ## Frequently Asked Questions
 

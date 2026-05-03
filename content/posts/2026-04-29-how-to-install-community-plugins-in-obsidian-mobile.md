@@ -43,7 +43,7 @@ Here's why it's still worth doing:
 
 - **Custom toolbars.** Mobile keyboards hide your formatting shortcuts. Plugins like Commander let you put the commands you actually use front and center.
 - **Quick capture.** You're on your phone because something just happened. Plugins like QuickAdd let you log a thought in two taps without derailing your whole vault.
-- **Workflow continuity.** If you're already running plugins on desktop, getting the same ones running on mobile means your notes, templates, and automation behave consistently.
+- **[Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) continuity.** If you're already running plugins on desktop, getting the same ones running on mobile means your notes, templates, and automation behave consistently.
 
 The caveat: a plugin marked "mobile-compatible" by its developer may still have UI elements that are too small to tap, break the reading pane, or quietly fail on iOS but work fine on Android. You will need to test.
 
@@ -155,7 +155,7 @@ Some plugins inject custom HTML that assumes a wide viewport. If buttons are cut
 
 **Advanced Mobile Toolbar** fills the gap between Commander (which places commands in the toolbar) and the formatting options you'd normally access via keyboard shortcuts. If you write longform notes on mobile, this saves significant friction.
 
-**Dataview** renders fine on mobile but writing queries on a phone is painful. Set up your dashboards on desktop; use mobile to read the output.
+**Dataview** renders fine on mobile but writing queries on a phone is painful. Set up your [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) on desktop; use mobile to read the output.
 
 **Templater** follows the same logic — configure complex templates on desktop, trigger them cleanly on mobile.
 

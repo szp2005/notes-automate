@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The best Obsidian themes for high contrast accessibility in 2026 are **Minimal** (best overall when paired with the Style Settings plugin for true black/white toggles) and **Primary** (best for warm, astigmatism-friendly high contrast). Both themes consistently hit WCAG AAA standards for text legibility while providing distinct visual hierarchies that reduce cognitive load.
 
-Knowledge management requires extended screen time. For users dealing with visual impairments, astigmatism, or severe digital eye strain, the default appearance of many modern applications simply falls short. Low-contrast grays on slightly lighter gray backgrounds might look sleek, but they create unnecessary friction when you are trying to parse complex notes or read for hours.
+[Knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) requires extended screen time. For users dealing with visual impairments, astigmatism, or severe digital eye strain, the [default](/posts/things-theme-vs-minimal-theme-obsidian/) appearance of many modern applications simply falls short. Low-contrast grays on slightly lighter gray backgrounds might look sleek, but they create unnecessary friction when you are trying to parse complex notes or read for hours.
 
 Obsidian's flexibility is its greatest strength here. Because the application relies entirely on CSS for its styling, the community has developed interfaces that prioritize extreme readability without sacrificing aesthetic appeal. However, navigating the hundreds of available community themes to find those that genuinely adhere to accessibility standards can be overwhelming.
 
@@ -95,7 +95,7 @@ The Dracula color scheme is a ubiquitous standard across developer tools, and it
 **Price:** Free
 **Rating:** 4.5/5
 
-Inspired by the popular task management app, the Things theme for Obsidian focuses on absolute clarity. It excels in light mode, utilizing a stark white background for the text editor pane, contrasted sharply against a light gray sidebar. This hard division of workspace areas helps users with cognitive load issues compartmentalize the interface. The text contrast is extremely high, using near-black text on pure white, and active states are marked with a highly saturated blue.
+Inspired by the popular [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) app, the Things theme for Obsidian focuses on absolute clarity. It excels in light mode, utilizing a stark white background for the text editor pane, contrasted sharply against a light gray sidebar. This hard division of workspace areas helps users with cognitive load issues compartmentalize the interface. The text contrast is extremely high, using near-black text on pure white, and active states are marked with a highly saturated blue.
 
 **Pros:**
 - Exceptionally clean interface compartmentalization

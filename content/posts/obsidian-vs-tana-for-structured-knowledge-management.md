@@ -33,7 +33,7 @@ Before examining specific workflows, it is crucial to understand the architectur
 
 Obsidian is fundamentally a markdown editor that operates on a local folder of files. Its approach to structured data relies on YAML frontmatter (now natively supported via Properties) and a massive ecosystem of community plugins. Because it operates on local files, it guarantees absolute data permanence and offline capability. For structured knowledge, it functions as a modular operating system where you must bolt on database features using tools like Dataview, Tracker, and Metadata Menu. 
 
-The strength of Obsidian lies in its longevity and flexibility. Because you own the plain-text files, you are insulated from vendor lock-in. However, building a highly structured, database-like workflow requires significant initial configuration, regular maintenance, and a willingness to write basic code or queries.
+The strength of Obsidian lies in its longevity and flexibility. Because you own the plain-text files, you are insulated from vendor lock-in. However, building a highly structured, database-like [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) requires significant initial configuration, regular maintenance, and a willingness to write basic code or queries.
 
 **Pros:**
 - Complete data ownership via local plain-text markdown files
@@ -91,7 +91,7 @@ Tana's Search Nodes provide a more cohesive, interactive experience for managing
 
 The physical act of entering information dictates what kind of structured system you will build.
 
-Obsidian is fundamentally a text editor. It is optimized for long-form writing, research papers, and extensive documentation. While it supports lists and outlining, the primary unit of currency is the document. When you structure knowledge in Obsidian, you are typically structuring files. You link files together using bidirectional links (`[[Node]]`), creating a web of documents. This is ideal for Zettelkasten methodologies and heavy text processing. 
+Obsidian is fundamentally a text editor. It is optimized for long-form writing, research papers, and extensive [documentation](/posts/how-to-use-obsidian-for-software-engineering-documentation/). While it supports lists and outlining, the primary unit of currency is the document. When you structure knowledge in Obsidian, you are typically structuring files. You link files together using bidirectional links (`[[Node]]`), creating a web of documents. This is ideal for Zettelkasten methodologies and heavy text processing. 
 
 Tana is an outliner, sharing its DNA with tools like Workflowy, Roam Research, and Logseq. The primary unit of currency is the node (the bullet point). This granularity means you can attach structured metadata to a single sentence or task without creating an entire new document. If you are taking meeting notes, one bullet point can be tagged `#decision`, the next `#task`, and the next `#bug_report`. Each of these nodes is routed to its respective database automatically based on its tag.
 

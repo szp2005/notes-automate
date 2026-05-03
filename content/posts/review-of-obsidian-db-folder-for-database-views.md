@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Obsidian DB Folder is the most effective plugin for bringing Notion-style database views to local Markdown files. It excels at visually editing YAML frontmatter and organizing notes in a tabular format, making it the practical choice for managing project trackers and content pipelines directly within your Obsidian vault.
 
-Obsidian operates on a fundamental principle: your data belongs to you, stored locally as plain text Markdown files. While this text-first approach is highly resilient and excellent for interlinking disparate thoughts, managing highly structured data has traditionally been its primary limitation. Knowledge workers who use their personal knowledge management (PKM) systems for project tracking, content calendars, or customer relationship management frequently find themselves scanning plain-text YAML frontmatter across dozens of individual files. This manual process becomes inefficient and error-prone as vaults scale into the thousands of notes. The demand for visual, tabular data manipulation within the local file system led to a wave of community-developed plugins, with a select few standing out for direct metadata editing.
+Obsidian operates on a fundamental principle: your data belongs to you, stored locally as plain text Markdown files. While this text-first approach is highly resilient and excellent for interlinking disparate thoughts, managing highly structured data has traditionally been its primary limitation. Knowledge workers who use their personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) systems for project tracking, content calendars, or customer relationship management frequently find themselves scanning plain-text YAML frontmatter across dozens of individual files. This manual process becomes inefficient and error-prone as vaults scale into the thousands of notes. The demand for visual, tabular data manipulation within the local file system led to a wave of community-developed plugins, with a select few standing out for direct metadata editing.
 
 Our thorough review of Obsidian DB Folder for database views examines how this specific tool bridges the gap between local, plain-text environments and the highly visual, spreadsheet-like interfaces popularized by cloud applications. By converting standard local directories into interactive tables, it fundamentally alters how structured data is handled inside an Obsidian vault. This guide breaks down its core functionalities, evaluates its performance under varying workloads, and compares it to other popular solutions to help you optimize your digital workspace architecture.
 
@@ -77,7 +77,7 @@ Dataview is the most established tool for querying in Obsidian, treating your va
 **Pros:**
 - Unmatched flexibility and advanced querying logic
 - Superior performance and stability across massive vaults (10,000+ notes)
-- Extensive community support, documentation, and template availability
+- Extensive community support, [documentation](/posts/how-to-use-obsidian-for-software-engineering-documentation/), and template availability
 
 **Cons:**
 - Requires learning a SQL-like syntax (DQL) for advanced usage
@@ -120,7 +120,7 @@ Consolidating your metadata keys across your vault is a strict prerequisite. Uti
 
 Obsidian DB Folder and Dataview are highly complementary tools rather than strict competitors. The most efficient vaults utilize a dual-plugin strategy. 
 
-Use Obsidian DB Folder for operational hubs where you actively manage states, assignees, and deadlines—such as an active sprint board or an editorial calendar. Use Dataview for high-level, read-only dashboards that aggregate information across the entire vault, such as a weekly review page that pulls in all notes modified in the last seven days regardless of their folder location.
+Use Obsidian DB Folder for operational hubs where you actively manage states, assignees, and deadlines—such as an active sprint board or an editorial calendar. Use Dataview for high-level, read-only [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) that aggregate information across the entire vault, such as a weekly review page that pulls in all notes modified in the last seven days regardless of their folder location.
 
 ## Final Verdict
 

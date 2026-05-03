@@ -14,7 +14,7 @@ tags: ["obsidian", "full", "calendar", "plugin"]
 # Obsidian Full Calendar Plugin Review: Complete Setup Guide & Workflows (2024)
 
 **TL;DR**
-- Full Calendar transforms Obsidian into a genuine productivity hub by rendering interactive calendar views from local notes, Google Calendar, and CalDAV sources inside your vault.
+- Full Calendar transforms Obsidian into a genuine [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) hub by rendering interactive calendar views from local notes, Google Calendar, and CalDAV sources inside your vault.
 - Setup takes under 10 minutes for basic use; Google Calendar and CalDAV sync require a bit more work but the payoff is a single pane of glass for all your scheduling.
 - It beats every alternative for users who want external calendar sync—but it has real-world quirks you need to know before committing to it.
 
@@ -35,7 +35,7 @@ tags: ["obsidian", "full", "calendar", "plugin"]
 
 ## What Is the Obsidian Full Calendar Plugin? {#what-is}
 
-Most knowledge workers live in two separate worlds: a note-taking app for thinking and a calendar app for scheduling. The result is constant context-switching—you reference your meeting notes in Obsidian, then flip to Google Calendar to check a time, then back again. Every switch costs you focus.
+Most [knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/) live in two separate worlds: a [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) app for thinking and a calendar app for scheduling. The result is constant context-switching—you reference your meeting notes in Obsidian, then flip to Google Calendar to check a time, then back again. Every switch costs you focus.
 
 The [Obsidian Full Calendar plugin](URL_PLACEHOLDER_1), built by developer Davis Haupt (`davish`), collapses those two worlds into one. It renders a full FullCalendar.js-powered interface—month, week, and day views—directly inside an Obsidian pane, treating markdown notes as calendar events. Events live as `.md` files in your vault or sync in from external sources like Google Calendar and any CalDAV-compatible service.
 

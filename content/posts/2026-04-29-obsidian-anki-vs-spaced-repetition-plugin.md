@@ -11,7 +11,7 @@ type: "informational"
 tags: ["power", "spaced", "repetition", "second"]
 ---
 
-# Obsidian Anki vs Spaced Repetition Plugin: Which One Actually Fits Your Workflow?
+# Obsidian Anki vs Spaced Repetition Plugin: Which One Actually Fits Your [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)?
 
 ---
 
@@ -39,11 +39,11 @@ tags: ["power", "spaced", "repetition", "second"]
 
 ## 1. The Power of Spaced Repetition in Your Second Brain {#the-power-of-spaced-repetition}
 
-Spaced repetition is not a productivity hack. It is a well-documented cognitive technique rooted in Hermann Ebbinghaus's forgetting curve research from the 1880s, refined over a century, and validated repeatedly in modern cognitive science. The core mechanic: review material at increasing intervals just before you're likely to forget it. Combine that with active recall — forcing yourself to retrieve information rather than re-read it — and you have the most efficient long-term memory system available to a human learner.
+Spaced repetition is not a [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) hack. It is a well-documented cognitive technique rooted in Hermann Ebbinghaus's forgetting curve research from the 1880s, refined over a century, and validated repeatedly in modern cognitive science. The core mechanic: review material at increasing intervals just before you're likely to forget it. Combine that with active recall — forcing yourself to retrieve information rather than re-read it — and you have the most efficient long-term memory system available to a human learner.
 
 If you want a rigorous grounding in the science before you touch a single plugin, [Make It Stick: The Science of Successful Learning](URL_PLACEHOLDER_1) by Brown, Roediger, and McDaniel is the most accessible, research-backed book on the subject.
 
-Now layer that onto Obsidian. Obsidian is a local-first, Markdown-based note editor built on the principle that your notes should form a connected knowledge graph, not siloed documents. It's the ideal home for a Zettelkasten or any other personal knowledge management system precisely because notes link to each other, and ideas compound over time.
+Now layer that onto Obsidian. Obsidian is a local-first, Markdown-based note editor built on the principle that your notes should form a connected knowledge graph, not siloed documents. It's the ideal home for a Zettelkasten or any other personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system precisely because notes link to each other, and ideas compound over time.
 
 The obvious next step: use that accumulated knowledge for deliberate practice, not just reference. That's where the flashcard question gets thorny. Obsidian has two dominant approaches, and they are genuinely different tools serving genuinely different users.
 

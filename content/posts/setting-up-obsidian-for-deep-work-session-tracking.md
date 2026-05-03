@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 The concept of deep work—the ability to focus without distraction on a cognitively demanding task—is crucial for producing high-value output. However, many knowledge workers struggle to quantify how much actual deep work they achieve in a given week. Traditional time-tracking apps often sit outside your primary workflow, creating friction that leads to inconsistent logging.
 
-If you already use Obsidian as your personal knowledge management system, integrating your focus tracking directly into your vault solves this friction problem. By bringing the timer and the analytics into the environment where the actual thinking and writing happen, you create a seamless loop between intention and execution.
+If you already use Obsidian as your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system, integrating your focus tracking directly into your vault solves this friction problem. By bringing the timer and the analytics into the environment where the actual thinking and writing happen, you create a seamless loop between intention and execution.
 
 This guide outlines a specific, five-step architecture for configuring your Obsidian vault to track, measure, and analyze your deep work sessions without relying on external software.
 
@@ -25,7 +25,7 @@ This guide outlines a specific, five-step architecture for configuring your Obsi
 
 Using a standalone app like Toggl or RescueTime gives you raw data, but it lacks context. When you track time within Obsidian, you link the *duration* of your focus directly to the *output* of that focus.
 
-When you look back at your week, you do not just see that you spent 14 hours on "Deep Work." You see exactly which notes were created, which project milestones were crossed, and what ideas were synthesized during those specific blocks. This context is essential for understanding your actual productivity velocity. Furthermore, keeping this data in local, plain-text Markdown ensures you own your analytics and are not subject to the pricing changes or server outages of SaaS time trackers.
+When you look back at your week, you do not just see that you spent 14 hours on "Deep Work." You see exactly which notes were created, which project milestones were crossed, and what ideas were synthesized during those specific blocks. This context is essential for understanding your actual [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) velocity. Furthermore, keeping this data in local, plain-text Markdown ensures you own your analytics and are not subject to the pricing changes or server outages of SaaS time trackers.
 
 ## Step 1: Establish Your Frontmatter Schema
 
@@ -95,7 +95,7 @@ WHERE file.day >= date(today) - dur(14 days)
 SORT file.day DESC
 ```
 
-To calculate your total deep work hours for the current week, you can use DataviewJS to sum the values:
+To calculate your total deep work hours for the current week, you can use [DataviewJS](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) to sum the values:
 
 ```javascript
 `$= const pages = dv.pages('"Daily Notes"').where(p => p.file.day >= dv.date('sow')); const totalMins = pages.deep_work_actual_minutes.array().reduce((acc, val) => acc + (val || 0), 0); dv.paragraph("Total Deep Work This Week: **" + Math.round(totalMins / 60 * 10) / 10 + " hours**"); `

@@ -19,7 +19,7 @@ tags: ["dataview", "game changer", "notes", "how to use obsidian dataview for be
 
 - Dataview turns your Obsidian notes into a queryable database using simple, plain-English-style commands — no prior coding experience required.
 - You add "labels" (metadata) to your notes using YAML frontmatter or inline fields, then write short queries to pull those notes into automatic lists and tables.
-- This guide gives you copy-paste recipes for meeting logs, book trackers, and project hubs — working dashboards you can build in under 10 minutes.
+- This guide gives you copy-paste recipes for meeting logs, book trackers, and project hubs — working [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) you can build in under 10 minutes.
 
 ---
 
@@ -51,7 +51,7 @@ The three concrete wins Dataview delivers:
 2. **Dynamic dashboards.** A weekly review page that pulls every task marked incomplete across all notes, no manual gathering required.
 3. **Task tracking across files.** A single view of every `- [ ]` checkbox in your entire vault, filterable by project or due date.
 
-If you're serious about building a real personal knowledge system, the concepts behind this kind of structured note-taking are laid out clearly in [Building a Second Brain by Tiago Forte](URL_PLACEHOLDER_1) and [How to Take Smart Notes by Sönke Ahrens](URL_PLACEHOLDER_2) — both worth reading alongside this guide.
+If you're serious about building a real personal knowledge system, the concepts behind this kind of structured [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) are laid out clearly in [Building a Second Brain by Tiago Forte](URL_PLACEHOLDER_1) and [How to Take Smart Notes by Sönke Ahrens](URL_PLACEHOLDER_2) — both worth reading alongside this guide.
 
 ---
 
@@ -383,7 +383,7 @@ The three things that make the biggest difference early on: consistent field nam
 **Ready to go further?**
 
 - Deepen your understanding of the PKM philosophy that makes Dataview genuinely useful: [grab a copy of Building a Second Brain](URL_PLACEHOLDER_1) or [How to Take Smart Notes](URL_PLACEHOLDER_2).
-- For structured, video-based learning on Obsidian and personal knowledge management, [Skillshare and Udemy both have dedicated Obsidian courses](URL_PLACEHOLDER_3) that walk through advanced Dataview setups with real vault examples.
+- For structured, video-based learning on Obsidian and personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/), [Skillshare and Udemy both have dedicated Obsidian courses](URL_PLACEHOLDER_3) that walk through advanced Dataview setups with real vault examples.
 - If you want your organized vault available everywhere, [Obsidian Sync](URL_PLACEHOLDER_4) is the official, end-to-end encrypted option — your Dataview dashboards work identically on every device.
 
 Start with one query. Everything else follows from there.

@@ -9,9 +9,9 @@ slug: "linking-your-notes-for-better-knowledge-discovery-obsidian"
 type: "informational"
 ---
 
-# Linking Your Notes for Better Knowledge Discovery Obsidian: 5 Steps
+# Linking Your Notes for Better Knowledge Discovery [Obsidian](/posts/obsidian-vs-reflect-for-fast-daily-journaling/): 5 Steps
 
-> **Quick Answer:** The most effective method for linking your notes for better knowledge discovery obsidian involves combining bidirectional wikilinks, contextual block references, and strategic Maps of Content (MOCs). This structure prevents isolated silos of information, allowing your personal knowledge management system to organically reveal unexpected connections and surface relevant insights exactly when you need them.
+> **Quick Answer:** The most effective method for linking your notes for better knowledge discovery obsidian involves combining bidirectional wikilinks, contextual block references, and strategic Maps of Content (MOCs). This structure prevents isolated silos of information, allowing your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system to organically reveal unexpected connections and surface relevant insights exactly when you need them.
 
 Personal knowledge management relies heavily on the relationships between ideas rather than the isolated storage of facts. When information is filed away in rigid folder hierarchies, it becomes static. The true power of a networked thought tool lies in its ability to facilitate serendipity and surface latent insights. Implementing a systematic approach to linking your notes for better knowledge discovery obsidian is the difference between a digital graveyard of clipped articles and a dynamic, generative thinking environment. 
 
@@ -131,7 +131,7 @@ Do not confuse tags with links. Tags (`#concept`) are best used for broad catego
 
 ### Leveraging the Dataview Plugin
 
-For advanced users, the community plugin 'Dataview' acts as a query language for your vault. By combining Dataview queries with robust linking and frontmatter metadata, you can create dynamic dashboards that automatically aggregate notes based on their links, tags, and creation dates. This elevates your MOCs from static lists to automatically updating indexes.
+For advanced users, the community plugin 'Dataview' acts as a query language for your vault. By combining Dataview queries with robust linking and frontmatter metadata, you can create dynamic [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) that automatically aggregate notes based on their links, tags, and creation dates. This elevates your MOCs from static lists to automatically updating indexes.
 
 ## Conclusion
 

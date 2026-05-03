@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Managing a growing Obsidian vault eventually presents a scaling problem. As your collection of daily notes, research clips, and meeting minutes expands from hundreds to thousands of markdown files, standard search functions become insufficient. You remember writing down a specific insight about a project three months ago, but keyword searches only bring up fragmented context.
 
-This is the exact problem space where bringing an AI layer directly into your personal knowledge management (PKM) system creates measurable value. Instead of copy-pasting your notes into a separate browser window running ChatGPT or Claude, you can interact with an AI that already has context on your active workspace.
+This is the exact problem space where bringing an AI layer directly into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system creates measurable value. Instead of copy-pasting your notes into a separate browser window running ChatGPT or Claude, you can interact with an AI that already has context on your active workspace.
 
 Copilot for Obsidian bridges this gap. It operates as a flexible conversational interface residing in your sidebar, capable of reading your active notes, searching your vault, and helping you synthesize information without breaking your focus. This guide examines how to set up the plugin, configure it for both cloud and local models, and build effective workflows for interacting with your personal knowledge base.
 
@@ -121,7 +121,7 @@ Furthermore, when using paid APIs like OpenAI or Anthropic, every word sent to t
 
 ## Conclusion
 
-Integrating an AI copilot into your Obsidian workflow transforms the application from a static filing cabinet into an active research assistant. By setting up Copilot for Obsidian, you gain the ability to rapidly interrogate your own thoughts, summarize dense material, and surface forgotten connections. Whether you choose the raw power of cloud APIs for massive context synthesis or rely on local models to maintain absolute data sovereignty, treating your notes as a conversational interface is a significant upgrade to personal knowledge management. The key to success lies in understanding the limitations of context windows and utilizing targeted prompts to extract precise value from your localized data.
+Integrating an AI copilot into your Obsidian [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) transforms the application from a static filing cabinet into an active research assistant. By setting up Copilot for Obsidian, you gain the ability to rapidly interrogate your own thoughts, summarize dense material, and surface forgotten connections. Whether you choose the raw power of cloud APIs for massive context synthesis or rely on local models to maintain absolute data sovereignty, treating your notes as a conversational interface is a significant upgrade to personal knowledge management. The key to success lies in understanding the limitations of context windows and utilizing targeted prompts to extract precise value from your localized data.
 
 ## Frequently Asked Questions
 

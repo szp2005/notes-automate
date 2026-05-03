@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** The Linter plugin for Obsidian automatically formats your Markdown notes according to pre-set rules. It enforces consistent spacing, YAML frontmatter, heading structures, and list styles, eliminating manual formatting so you can focus entirely on writing.
 
-Managing a large database of text files inevitably leads to structural chaos. Over months and years of building a personal knowledge management (PKM) system, your formatting habits will drift. You might use two spaces after a heading one week, and zero the next. You might format your tags as arrays in your frontmatter today, but leave them as inline text a year later. 
+Managing a large database of text files inevitably leads to structural chaos. Over months and years of building a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system, your formatting habits will drift. You might use two spaces after a heading one week, and zero the next. You might format your tags as arrays in your frontmatter today, but leave them as inline text a year later. 
 
 This structural drift creates significant problems when you attempt to publish your notes, parse them with external scripts, or simply search through them using strict parameters. Inconsistent formatting breaks static site generators, clutters version control diffs, and makes your vault harder to navigate. 
 
@@ -38,7 +38,7 @@ Writing requires focus. When you are constantly stopping to delete extra spaces,
 
 ## Core Capabilities of the Obsidian Linter Plugin
 
-The Linter plugin operates through a robust set of toggleable rules. Rather than applying a single rigid format, it allows you to construct a custom style guide tailored to your specific workflow.
+The Linter plugin operates through a robust set of toggleable rules. Rather than applying a single rigid format, it allows you to construct a custom style guide tailored to your specific [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/).
 
 ### YAML Frontmatter Standardization
 Frontmatter is the metadata brain of an Obsidian note. The plugin can automatically insert missing frontmatter, sort existing keys alphabetically, and format specific values. It can ensure that your `tags` and `aliases` keys are always formatted as proper YAML arrays (e.g., `["productivity", "pkm"]`) rather than comma-separated strings. It can also manage your timestamps, automatically inserting the creation date and updating a `last_modified` date every time the file is saved.

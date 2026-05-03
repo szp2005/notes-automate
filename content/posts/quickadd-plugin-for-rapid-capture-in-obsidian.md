@@ -11,9 +11,9 @@ type: "informational"
 
 # QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide
 
-> **Quick Answer:** The QuickAdd plugin for rapid capture in Obsidian allows you to instantly create notes, log daily journal entries, and append information to existing files without interrupting your current workflow. By combining templates, captures, macros, and multi-step choices, it eliminates friction and ensures ideas are recorded the moment they strike.
+> **Quick Answer:** The QuickAdd plugin for rapid capture in Obsidian allows you to instantly create notes, log daily journal entries, and append information to existing files without interrupting your current [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). By combining templates, captures, macros, and multi-step choices, it eliminates friction and ensures ideas are recorded the moment they strike.
 
-The friction between having an idea and getting it into your personal knowledge management system is where most insights are lost. Obsidian is a powerful thinking environment, but out of the box, creating specific types of notes in designated folders with the correct formatting requires multiple clicks and deliberate navigation. This cognitive overhead interrupts deep work and often leads to fragmented, disorganized vaults. 
+The friction between having an idea and getting it into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system is where most insights are lost. Obsidian is a powerful thinking environment, but out of the box, creating specific types of notes in designated folders with the correct formatting requires multiple clicks and deliberate navigation. This cognitive overhead interrupts deep work and often leads to fragmented, disorganized vaults. 
 
 Enter the QuickAdd plugin. Built specifically to eliminate the gap between thought and documentation, it acts as the central nervous system for your vault's input operations. Whether you are logging a fleeting thought, generating a structured meeting note, or extracting highlights from an article, QuickAdd allows you to perform these actions instantly, often without your fingers ever leaving the keyboard.
 
@@ -27,7 +27,7 @@ To effectively utilize QuickAdd, you must understand its four primary building b
 
 The Template choice in QuickAdd goes far beyond Obsidian's core templating capabilities. When you trigger a Template action, QuickAdd can automatically create a new file based on a pre-defined Markdown template, apply a dynamic naming convention (such as injecting the current date or prompting you for a title), and place the file in a specific directory. 
 
-Furthermore, you can configure the Template module to automatically open the newly created note in a new pane, split the window, or keep it running in the background. This is particularly useful for generating standardized documents like Zettelkasten literature notes, project dashboards, or weekly reviews without manually navigating folder structures.
+Furthermore, you can configure the Template module to automatically open the newly created note in a new pane, split the window, or keep it running in the background. This is particularly useful for generating standardized documents like Zettelkasten literature notes, project [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/), or weekly reviews without manually navigating folder structures.
 
 ### Captures: Appending Without Context Switching
 

@@ -21,7 +21,7 @@ This guide details exactly how to use Obsidian for software engineering document
 
 ## Why Software Engineers Are Adopting Obsidian
 
-Before diving into the setup, it helps to understand why a tool originally designed for personal knowledge management (PKM) has become a staple for senior software engineers, DevOps practitioners, and systems architects.
+Before diving into the setup, it helps to understand why a tool originally designed for personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) has become a staple for senior software engineers, DevOps practitioners, and systems architects.
 
 First, Obsidian is entirely plain text. Your documentation is stored as standard `.md` files on your hard drive. This means your knowledge is not locked into a proprietary database schema. If Obsidian disappears tomorrow, you still have a folder of standard Markdown files that you can read in VS Code, Vim, or NeoVim. 
 
@@ -114,7 +114,7 @@ This provides several massive advantages for software engineers:
 
 ## Best Practices for Developer Documentation in Obsidian
 
-Transitioning to Obsidian requires a shift in how you think about note-taking. To keep your developer vault fast and useful, adhere to these technical constraints:
+Transitioning to Obsidian requires a shift in how you think about [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). To keep your developer vault fast and useful, adhere to these technical constraints:
 
 **Keep Files Atomic**
 Avoid writing massive, 50-page documents. In Obsidian, a file should cover exactly one concept, one service, or one API endpoint. If a document grows too large, extract the subsections into new notes and link them together. Smaller files are easier to read, easier to search, and produce a more useful graph view.
@@ -122,7 +122,7 @@ Avoid writing massive, 50-page documents. In Obsidian, a file should cover exact
 **Standardize Naming Conventions**
 A clean knowledge base requires strict naming rules. Decide early on whether you will use `CamelCase`, `kebab-case`, or natural language for your note titles. For engineering docs, prefacing notes with their domain (e.g., `API - User Authentication` or `DB - Postgres Schema`) ensures alphabetical sorting makes logical sense.
 
-**Use the Dataview Plugin for Dashboards**
+**Use the Dataview Plugin for [Dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)**
 The Dataview plugin turns your Obsidian vault into a database that you can query using a SQL-like syntax. You can write a query in your main Project Dashboard that automatically lists every file tagged with `#api-endpoint` that has a status of `Incomplete`. This dynamic querying prevents documentation from going stale.
 
 **Do Not Over-Engineer the Setup**

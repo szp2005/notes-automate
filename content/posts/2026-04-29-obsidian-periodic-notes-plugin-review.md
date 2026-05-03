@@ -36,7 +36,7 @@ tags: ["periodic", "notes", "plugin", "game changer"]
 
 Here's a vault most Obsidian users recognize: 847 daily notes dumped in the root folder, named `2024-01-15.md` through `2025-03-04.md`, no templates, no linking between days, and zero weekly reviews. You *remember* writing something important about a project in February but searching "project" returns 200 results. Congratulations — you have built a digital junk drawer.
 
-The Periodic Notes plugin, developed by Liam Cain, solves a structural problem, not a note-taking problem. It enforces a time-based hierarchy: daily notes feed into weekly notes, weekly notes feed into monthly notes, and so on up to yearly retrospectives. Each level lives in its own folder, opens from a hotkey, and auto-populates from a template you define once.
+The Periodic Notes plugin, developed by Liam Cain, solves a structural problem, not a [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) problem. It enforces a time-based hierarchy: daily notes feed into weekly notes, weekly notes feed into monthly notes, and so on up to yearly retrospectives. Each level lives in its own folder, opens from a hotkey, and auto-populates from a template you define once.
 
 The philosophy here is the same one Tiago Forte outlines in [Building a Second Brain](URL_PLACEHOLDER_1) — capture consistently, organize by action, and review regularly. Periodic Notes automates the "organize" and "review" steps so you stop deciding and start doing.
 
@@ -219,7 +219,7 @@ Install the [Calendar plugin](URL_PLACEHOLDER_4) alongside Periodic Notes. It re
 ---
 
 > **Want to Master Obsidian Beyond Periodic Notes?**
-> Structured courses from practitioners like Nick Milo (Linking Your Thinking) walk through full PKM system design — not just individual plugins. [Explore Obsidian courses here](URL_PLACEHOLDER_5) if you want to see how Periodic Notes fits into a complete knowledge management system.
+> Structured courses from practitioners like Nick Milo (Linking Your Thinking) walk through full PKM system design — not just individual plugins. [Explore Obsidian courses here](URL_PLACEHOLDER_5) if you want to see how Periodic Notes fits into a complete [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system.
 
 ---
 
@@ -258,7 +258,7 @@ Install the [Calendar plugin](URL_PLACEHOLDER_4) alongside Periodic Notes. It re
 - Use a second app (Notion, Roam) for time-based journaling and Obsidian only for reference notes
 - Are in your first two weeks with Obsidian — learn the core first, add Periodic Notes once you have a note-taking habit
 
-**Final verdict:** For anyone building a serious PKM system or using Obsidian as a productivity hub, Periodic Notes is not optional — it's load-bearing infrastructure. It takes 12 minutes to install, pays back that time on day two, and compounds in value every week you use it. The only valid reason to avoid it is genuine minimalism.
+**Final verdict:** For anyone building a serious PKM system or using Obsidian as a [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) hub, Periodic Notes is not optional — it's load-bearing infrastructure. It takes 12 minutes to install, pays back that time on day two, and compounds in value every week you use it. The only valid reason to avoid it is genuine minimalism.
 
 [Install the Periodic Notes plugin from Obsidian's community plugin directory](URL_PLACEHOLDER_6), and pair it immediately with the [starter template pack on GitHub](URL_PLACEHOLDER_7) to skip the template paralysis phase entirely.
 

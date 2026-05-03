@@ -13,11 +13,11 @@ type: "informational"
 
 > **Quick Answer:** To set up Obsidian on an iPad using external storage, you must use the iPadOS Files app to create or open a vault directly on a connected USB-C SSD or flash drive. Because Apple's sandboxing restricts third-party background sync, running your vault directly from a physical drive allows you to bypass iCloud, keep your data completely private, and save internal storage space.
 
-For many knowledge workers and students, the iPad has become the primary computing device. Combined with a Magic Keyboard, it offers a portable, focused writing environment. However, when it comes to knowledge management tools like Obsidian, iPadOS presents a unique set of challenges. Apple's aggressive sandboxing means that apps cannot easily share folders, and background syncing is notoriously restricted. 
+For many knowledge workers and students, the iPad has become the primary computing device. Combined with a Magic Keyboard, it offers a portable, focused writing environment. However, when it comes to [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) tools like Obsidian, iPadOS presents a unique set of challenges. Apple's aggressive sandboxing means that apps cannot easily share folders, and background syncing is notoriously restricted. 
 
 By default, Obsidian on the iPad pushes users toward two primary syncing options: their paid Obsidian Sync service or iCloud Drive. But what if you have a massive vault filled with PDFs and high-resolution images? What if you are dealing with sensitive client data that cannot legally be stored on a cloud server? Or what if you simply want to avoid the recurring subscription fees and the notoriously finicky iCloud sync engine?
 
-Setting up Obsidian on iPad with external storage is the definitive solution for users who demand absolute data sovereignty, high-speed access to massive vaults, and zero reliance on cloud infrastructure. This guide provides a complete technical walkthrough on how to configure your external drives, format them correctly for iPadOS, and seamlessly integrate them into your Obsidian workflow.
+Setting up Obsidian on iPad with external storage is the definitive solution for users who demand absolute data sovereignty, high-speed access to massive vaults, and zero reliance on cloud infrastructure. This guide provides a complete technical walkthrough on how to configure your external drives, format them correctly for iPadOS, and seamlessly integrate them into your Obsidian [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/).
 
 ## Why Use External Storage for Obsidian on iPad?
 

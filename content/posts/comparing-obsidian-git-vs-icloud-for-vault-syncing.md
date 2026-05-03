@@ -83,7 +83,7 @@ When evaluating speed and reliability, the winner depends entirely on the operat
 
 If you are syncing between a MacBook and an iPhone, iCloud operates with near-instantaneous speed. Changes made on the desktop usually appear on the phone within three to five seconds. However, iCloud on Windows is heavily throttled. Users attempting to sync a vault between a Windows PC and an iPhone often report delays stretching from minutes to hours, with the iCloud Windows client failing to register small text file modifications consistently. 
 
-Obsidian Git provides consistent performance regardless of the operating system. A `git push` from a Windows machine reaches GitHub instantly, and a `git pull` from an Android device retrieves it just as fast. The primary performance bottleneck with Git is binary files. If your workflow involves pasting dozens of screenshots or large PDFs into your daily notes, Git repositories become bloated. Cloning a massive Git repository onto a new mobile device can take significant time, whereas iCloud streams those attachments on-demand.
+Obsidian Git provides consistent performance regardless of the operating system. A `git push` from a Windows machine reaches GitHub instantly, and a `git pull` from an Android device retrieves it just as fast. The primary performance bottleneck with Git is binary files. If your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) involves pasting dozens of screenshots or large PDFs into your daily notes, Git repositories become bloated. Cloning a massive Git repository onto a new mobile device can take significant time, whereas iCloud streams those attachments on-demand.
 
 Reliability is where Git shines. Because Git is designed for distributed software development, it is exceptionally robust against data loss. If two devices edit the same note offline, Git will flag a merge conflict and force you to resolve it, ensuring zero data is overwritten. iCloud handles conflicts poorly; it simply duplicates the file, creating fractured, messy vaults that require manual cleanup.
 
@@ -112,7 +112,7 @@ When using Obsidian Git with a provider like GitHub, your data is encrypted in t
 
 ## Practical Advice and Tradeoffs
 
-Choosing the right syncing method requires assessing your specific hardware matrix and technical comfort level. 
+[Choosing](/posts/things-theme-vs-minimal-theme-obsidian/) the right syncing method requires assessing your specific hardware matrix and technical comfort level. 
 
 **Choose iCloud if:**
 - Every computer and mobile device you own has an Apple logo on it.

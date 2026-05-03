@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** To effectively organize school notes using Obsidian, implement a hybrid structure: use broad top-level folders for academic terms and subjects, apply tags for workflow statuses (e.g., #todo, #exam-prep), and rely heavily on bidirectional links (`[[links]]`) to connect related concepts. Pair this framework with core community plugins like Dataview for tracking assignments and Templater for standardizing lecture notes.
 
-Transitioning from traditional note-taking apps to a networked thought tool like Obsidian can be incredibly jarring. Many students abandon the software within the first two weeks because they encounter an empty interface and lack a predefined structure. Without rigid notebooks or binders dictating where a lecture note should live, the absolute freedom of a plain-text markdown vault easily spirals into an unmanageable mess of disconnected files just in time for midterm exams. 
+Transitioning from traditional [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) apps to a networked thought tool like Obsidian can be incredibly jarring. Many students abandon the software within the first two weeks because they encounter an empty interface and lack a predefined structure. Without rigid notebooks or binders dictating where a lecture note should live, the absolute freedom of a plain-text markdown vault easily spirals into an unmanageable mess of disconnected files just in time for midterm exams. 
 
 However, mastering how to organize school notes using Obsidian for students offers an unparalleled academic advantage. Unlike linear documents that trap information inside specific class folders, a networked note-taking system mimics how the brain actually learns. By explicitly linking historical contexts to literary movements, or mathematical proofs to physics applications, you build a personal knowledge base that appreciates in value throughout your academic career. 
 
@@ -96,7 +96,7 @@ You can create a dashboard note with a simple Dataview query that automatically 
 
 ### Templater: Advanced Document Generation
 
-Templater goes beyond the core template functionality by allowing you to inject variables and logic. For instance, you can design a template that automatically titles a new note based on the current date and class, drops it into the correct semester folder, and pre-fills the cursor location so you are ready to type the moment the professor begins speaking.
+Templater goes [beyond](/posts/things-theme-vs-minimal-theme-obsidian/) the core template functionality by allowing you to inject variables and logic. For instance, you can design a template that automatically titles a new note based on the current date and class, drops it into the correct semester folder, and pre-fills the cursor location so you are ready to type the moment the professor begins speaking.
 
 ### Calendar and Periodic Notes
 

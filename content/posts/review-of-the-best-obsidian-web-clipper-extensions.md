@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The official **Obsidian Web Clipper** is the best choice for most users due to its deep integration and free price point. Power users needing advanced highlighting and read-it-later capabilities should opt for the **Readwise Reader** extension, while developers and markdown purists will appreciate the highly customizable **MarkDownload**.
 
-Building a personal knowledge management (PKM) system requires low-friction ways to capture information. If saving an article takes more than two clicks, it breaks your flow. Obsidian is a powerhouse for connecting thoughts, but the browser is where most research actually happens. Bridging that gap efficiently is the job of a web clipper.
+Building a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system requires low-friction ways to capture information. If saving an article takes more than two clicks, it breaks your flow. Obsidian is a powerhouse for connecting thoughts, but the browser is where most research actually happens. Bridging that gap efficiently is the job of a web clipper.
 
 A good clipper doesn't just copy text; it translates HTML into clean Markdown, grabs metadata (like author, URL, and date), and formats it according to your vault's specific frontmatter rules. A bad clipper leaves you with broken links, missing images, and a formatting mess that takes longer to clean up than the article took to read.
 
@@ -67,7 +67,7 @@ Where MarkDownload shines is its granular control over the output. You can injec
 **Price:** $8.99-$12.99/month
 **Rating:** 4.7/5
 
-Readwise Reader is not just a clipper; it is a comprehensive read-it-later application with a robust browser extension. While it costs money, it provides an unparalleled workflow for people who highlight extensively before moving notes into Obsidian. The extension allows you to highlight text, add margin notes, and tag articles directly on the live webpage.
+Readwise Reader is not just a clipper; it is a comprehensive read-it-later application with a robust browser extension. While it costs money, it provides an unparalleled [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) for people who highlight extensively before moving notes into Obsidian. The extension allows you to highlight text, add margin notes, and tag articles directly on the live webpage.
 
 These highlights and notes are then automatically synced to your Obsidian vault via the official Readwise plugin. This prevents your vault from being cluttered with full articles you haven't read yet. Instead, only the distilled knowledge—your highlights and annotations—makes its way into your permanent notes.
 

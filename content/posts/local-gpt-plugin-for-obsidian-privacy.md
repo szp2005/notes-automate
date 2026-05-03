@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Using a local GPT plugin for Obsidian ensures absolute privacy because all AI processing happens on your own hardware, never sending your sensitive personal knowledge base (PKM) data to external servers like OpenAI or Anthropic. You achieve this by running local LLMs via tools like LM Studio or Ollama and connecting them to Obsidian using plugins like BMO Chatbot or Text Generator.
 
-Connecting your personal knowledge management (PKM) system to artificial intelligence offers incredible leverage for thinking, organizing, and synthesizing information. However, integrating cloud-based AI models like ChatGPT directly into your Obsidian vault introduces a significant vulnerability: your private, unfiltered thoughts, journals, and proprietary data are sent to external servers. For professionals handling confidential client data, researchers working on unreleased papers, or individuals who value digital sovereignty, this trade-off is unacceptable. 
+Connecting your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system to artificial intelligence offers incredible leverage for thinking, organizing, and synthesizing information. However, integrating cloud-based AI models like ChatGPT directly into your Obsidian vault introduces a significant vulnerability: your private, unfiltered thoughts, journals, and proprietary data are sent to external servers. For professionals handling confidential client data, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/) working on unreleased papers, or individuals who value digital sovereignty, this trade-off is unacceptable. 
 
 The solution is deploying a local GPT plugin for Obsidian. By leveraging open-source large language models (LLMs) running entirely on your local machine, you bridge the gap between advanced AI capabilities and air-gapped security. 
 
@@ -35,7 +35,7 @@ For users bound by strict data handling regulations (HIPAA, GDPR, or NDAs), a lo
 
 ## Choosing the Right Local Inference Engine
 
-Obsidian plugins do not run the AI models themselves; they are merely the user interface. To use a local GPT, you first need a backend application that downloads, loads, and runs the language models. Two primary options dominate the current landscape.
+[Obsidian plugins](/posts/smart-connections-plugin-for-emergent-ideas/) do not run the AI models themselves; they are merely the user interface. To use a local GPT, you first need a backend application that downloads, loads, and runs the language models. Two primary options dominate the current landscape.
 
 ### LM Studio: The Visual Approach
 LM Studio is a standalone desktop application available for Mac, Windows, and Linux. It provides a graphical interface to search for models on Hugging Face, download them, and run them. Crucially for Obsidian users, LM Studio features a built-in local server that mimics the OpenAI API format. 

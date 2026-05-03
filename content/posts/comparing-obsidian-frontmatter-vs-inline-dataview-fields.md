@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** When comparing Obsidian frontmatter vs inline Dataview fields, frontmatter (managed via Core Properties) is best for global, structured document metadata like creation dates, document types, and universal tags. Inline Dataview fields (`Key:: Value`) excel at contextual, paragraph-level data tracking directly within your writing. The most efficient Obsidian vaults utilize a hybrid approach: frontmatter for file-level architecture and inline fields for specific data extraction from daily notes or meeting logs.
 
-Setting up a robust personal knowledge management (PKM) system in Obsidian eventually forces a critical architectural decision: how should you store and structure your metadata? Metadata is the invisible scaffolding that allows plugins to query, link, and organize your vault. Without a consistent metadata strategy, as your vault scales past a few hundred notes, retrieving specific information becomes increasingly difficult.
+Setting up a robust personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system in Obsidian eventually forces a critical architectural decision: how should you store and structure your metadata? Metadata is the invisible scaffolding that allows plugins to query, link, and organize your vault. Without a consistent metadata strategy, as your vault scales past a few hundred notes, retrieving specific information becomes increasingly difficult.
 
 For years, users have debated the best approach for tracking variables like project statuses, task priorities, and daily habits. The primary battleground lies between two distinct methodologies. On one side, we have standard YAML frontmatter, recently bolstered by Obsidian's native Properties interface. On the other side, we have inline Dataview fields, a flexible syntax introduced by the immensely popular Dataview community plugin.
 
@@ -23,7 +23,7 @@ Choosing the right method dictates how you will interact with your notes daily, 
 
 ## The Core Metadata Contenders
 
-To understand which system aligns with your workflow, we need to evaluate them as distinct tools within your broader note-taking ecosystem.
+To understand which system aligns with your workflow, we need to evaluate them as distinct tools within your broader [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) ecosystem.
 
 ### 1. [Obsidian Frontmatter (Properties)](https://www.amazon.com/s?k=Obsidian%20Frontmatter%20%28Properties%29&tag=notesautomate-20)
 

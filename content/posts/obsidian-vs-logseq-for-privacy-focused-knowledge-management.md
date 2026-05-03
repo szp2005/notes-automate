@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian vs Logseq for Privacy Focused Knowledge Management
 
-> **Quick Answer:** Both applications offer outstanding local-first, offline-by-default architecture where your data remains purely on your hard drive. Choose Obsidian for long-form writing, extreme plugin customization, and traditional markdown file management. Choose Logseq for daily journaling, block-level referencing, and an integrated outliner workflow.
+> **Quick Answer:** Both applications offer outstanding local-first, offline-by-default architecture where your data remains purely on your hard drive. Choose Obsidian for long-form writing, extreme plugin customization, and traditional markdown file management. Choose Logseq for daily journaling, block-level referencing, and an integrated outliner [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/).
 
 When building a personal knowledge management (PKM) system, the software you choose acts as the brain trust for your most sensitive thoughts, research, and professional intellectual property. Moving this data into cloud-based software introduces vulnerabilities, platform lock-in, and terms of service changes that can compromise your digital sovereignty. This brings us to the forefront of the local-first movement.
 
@@ -27,7 +27,7 @@ To effectively choose between these platforms, we need to look at their specific
 
 ### 1. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=notesautomate-20)
 
-**Best for:** Long-form writers, researchers, and users who want extensive customization.
+**Best for:** Long-form writers, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and users who want extensive customization.
 **Price:** Free for personal use; $50/year for commercial use (Obsidian Sync is $4-$8/month)
 **Rating:** 4.8/5
 

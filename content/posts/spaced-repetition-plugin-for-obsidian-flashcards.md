@@ -15,7 +15,7 @@ type: "informational"
 
 When managing a growing library of notes, capturing information is only half the battle. Remembering and retaining that knowledge over time requires active engagement. For students, researchers, and lifelong learners using Obsidian, relying on passive reading often leads to the natural decay of memory—the forgetting curve—wiping out valuable insights within weeks of writing them down.
 
-Integrating active recall into your personal knowledge management (PKM) system is critical for preventing this knowledge loss. While dedicated applications like Anki or SuperMemo have dominated the flashcard space for decades, they force you to export your notes and sever the connection between your raw thoughts and your study materials. 
+Integrating active recall into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system is critical for preventing this knowledge loss. While dedicated applications like Anki or SuperMemo have dominated the flashcard space for decades, they force you to export your notes and sever the connection between your raw thoughts and your study materials. 
 
 The Spaced Repetition plugin for Obsidian transforms any standard markdown note into an interactive study session. It allows you to create, manage, and review flashcards seamlessly within your existing vault. By keeping your study materials and your original context in the exact same environment, you eliminate the friction of context switching and ensure your memory prompts are always grounded in your broader research. This guide covers the installation, syntax, algorithmic configuration, and practical workflows necessary to build a robust study system entirely inside Obsidian.
 
@@ -31,7 +31,7 @@ Many users start their PKM journey by writing extensive notes in Obsidian and th
 
 ### How the Plugin Solves Context Switching
 
-By using the Spaced Repetition plugin for Obsidian flashcards, the card and the context are one and the same. If you forget the answer to a prompt, you are already looking at the source document. You can immediately read the surrounding paragraphs, update the card's wording to make it clearer, and continue your review session without ever changing windows. This unified workflow drastically reduces the time spent managing cards and increases the time spent actually learning.
+By using the Spaced Repetition plugin for Obsidian flashcards, the card and the context are one and the same. If you forget the answer to a prompt, you are already looking at the source document. You can immediately read the surrounding paragraphs, update the card's wording to make it clearer, and continue your review session without ever changing windows. This unified [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) drastically reduces the time spent managing cards and increases the time spent actually learning.
 
 ## Installing and Configuring the Environment
 

@@ -11,7 +11,7 @@ type: "review"
 tags: ["obsidian", "canvas", "excalidraw", "visual"]
 ---
 
-# Obsidian Canvas vs. Excalidraw for Mind Mapping: Which Visual Tool Belongs in Your PKM Workflow?
+# Obsidian Canvas vs. Excalidraw for Mind Mapping: Which Visual Tool Belongs in Your PKM [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)?
 
 ---
 
@@ -40,7 +40,7 @@ tags: ["obsidian", "canvas", "excalidraw", "visual"]
 
 ## What This Comparison Actually Covers
 
-Visual thinking has become a legitimate pillar of personal knowledge management. Whether you follow Zettelkasten, PARA, or a hybrid system, there comes a point where a list of notes is not enough—you need to *see* the relationships.
+Visual thinking has become a legitimate pillar of personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/). Whether you follow Zettelkasten, PARA, or a hybrid system, there comes a point where a list of notes is not enough—you need to *see* the relationships.
 
 Inside Obsidian, two tools fight for that job. **Obsidian Canvas** ships with the app as a core plugin. Open a new Canvas file, drop notes onto an infinite white surface, draw arrows between them, and you're done. No downloads, no configuration. **Excalidraw**, on the other hand, is a community plugin built by Zsolt Viczián that wraps the popular open-source Excalidraw whiteboard library inside your vault. It requires installation, has its own file format, and packs substantially more drawing power.
 
@@ -82,7 +82,7 @@ Images, PDFs, audio files, and embedded web pages work the same way. A Canvas fu
 
 Because Canvas has no drawing primitives beyond rectangles and arrows, there are few decisions to make. Drag, connect, label. This low friction is a feature for anyone who uses visual layouts primarily to organize existing material rather than to generate new diagrams.
 
-**Canvas is best for:** Linking and arranging notes you already have, building project dashboards, simple concept maps, MOC (Map of Content) alternatives, and Zettelkasten visualization.
+**Canvas is best for:** Linking and arranging notes you already have, building project [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/), simple concept maps, MOC (Map of Content) alternatives, and Zettelkasten visualization.
 
 ---
 

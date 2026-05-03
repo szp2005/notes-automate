@@ -13,9 +13,9 @@ type: "informational"
 
 > **Quick Answer:** Tag Wrangler is an essential Obsidian plugin that enables bulk tag management directly from the native tag pane. It allows you to rename, merge, search, and delete tags across your entire vault simultaneously, automatically updating all associated notes and preventing broken links or fragmented metadata structures.
 
-Managing metadata in a growing personal knowledge management (PKM) system can quickly become overwhelming. When you first start using Obsidian, typing a few tags at the bottom of a note feels sufficient. Your taxonomy is small, your memory is fresh, and your retrieval needs are simple. However, as your vault scales to hundreds or thousands of files, inconsistencies inevitably creep in. You might use `#machine-learning` in one note, `#machine_learning` in another, and simply `#ml` somewhere else. 
+Managing metadata in a growing personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system can quickly become overwhelming. When you first start using Obsidian, typing a few tags at the bottom of a note feels sufficient. Your taxonomy is small, your memory is fresh, and your retrieval needs are simple. However, as your vault scales to hundreds or thousands of files, inconsistencies inevitably creep in. You might use `#machine-learning` in one note, `#machine_learning` in another, and simply `#ml` somewhere else. 
 
-By default, Obsidian does not offer a native way to bulk edit or merge these tags. Changing a tag across fifty notes requires finding every instance and performing fifty manual edits—or resorting to complex external find-and-replace tools that risk corrupting your markdown formatting. This limitation often discourages users from refining their organizational structures as their thinking evolves, leading to cluttered, unusable tag panes.
+By [default](/posts/things-theme-vs-minimal-theme-obsidian/), Obsidian does not offer a native way to bulk edit or merge these tags. Changing a tag across fifty notes requires finding every instance and performing fifty manual edits—or resorting to complex external find-and-replace tools that risk corrupting your markdown formatting. This limitation often discourages users from refining their organizational structures as their thinking evolves, leading to cluttered, unusable tag panes.
 
 Using Tag Wrangler for bulk tag management in Obsidian entirely eliminates this friction. This lightweight, widely adopted community plugin transforms the native tag pane into a powerful administrative interface. Instead of manually editing individual files, Tag Wrangler allows you to execute global changes to your taxonomy with a simple right-click, ensuring your vault remains clean, consistent, and highly searchable as your knowledge base expands.
 
@@ -44,7 +44,7 @@ Sometimes a tag outlives its usefulness. Perhaps you tracked a specific project 
 
 ## Step-by-Step Guide to Using Tag Wrangler
 
-Integrating Tag Wrangler into your workflow is straightforward. Here is exactly how to install, configure, and utilize its core features.
+Integrating Tag Wrangler into your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) is straightforward. Here is exactly how to install, configure, and utilize its core features.
 
 ### Installation and Setup
 Tag Wrangler is available directly through the Obsidian community plugins directory. 

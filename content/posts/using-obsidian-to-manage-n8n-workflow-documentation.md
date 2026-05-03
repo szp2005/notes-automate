@@ -13,9 +13,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Using Obsidian to Manage n8n Workflow Documentation: Complete Guide
 
-> **Quick Answer:** Using Obsidian to manage n8n workflow documentation provides a local, markdown-based knowledge graph that perfectly maps to the visual, node-based structure of n8n. By linking workflow overviews to specific node configurations and API schemas via bidirectional links, automation engineers can rapidly troubleshoot broken pipelines and onboard new team members without reverse-engineering complex JSON data.
+> **Quick Answer:** Using Obsidian to manage n8n workflow documentation provides a local, markdown-based knowledge graph that perfectly maps to the visual, node-based structure of n8n. By linking workflow overviews to specific node configurations and API schemas via bidirectional links, [automation](/posts/automating-obsidian-frontmatter-with-templater-scripts/) engineers can rapidly troubleshoot broken pipelines and onboard new team members without reverse-engineering complex JSON data.
 
-Managing complex automation environments often becomes a logistical challenge. When building integrations in n8n, the visual canvas makes it simple to construct logic, but the canvas itself is a poor medium for storing historical context, API limitations, or specific credential requirements. As your automation footprint scales from dozens to hundreds of active workflows, institutional knowledge becomes trapped within individual nodes or the minds of the original architects. 
+Managing complex automation environments often becomes a logistical challenge. When building integrations in n8n, the visual canvas makes it simple to construct logic, but the canvas itself is a poor medium for storing historical context, API limitations, or specific credential requirements. As your automation footprint scales from dozens to hundreds of active [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/), institutional knowledge becomes trapped within individual nodes or the minds of the original architects. 
 
 When a critical pipeline fails at 3:00 AM because an undocumented API endpoint changed its pagination method, the engineer on call must waste valuable time inspecting raw node data to understand the original intent. The gap between executing logic and documenting the rationale behind that logic is where technical debt accumulates in automation systems.
 
@@ -41,7 +41,7 @@ The foundational unit of your documentation is the Workflow Note. This note must
 
 ### Required Metadata
 
-Utilize Obsidian's Properties (YAML frontmatter) to standardize workflow metadata. This allows you to use plugins like Dataview to create dynamic dashboards of your n8n environment. Essential properties include:
+Utilize Obsidian's Properties (YAML frontmatter) to standardize workflow metadata. This allows you to use plugins like Dataview to create dynamic [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) of your n8n environment. Essential properties include:
 
 *   `n8n_id`: The internal numeric or UUID of the workflow.
 *   `status`: Active, Inactive, Draft, or Deprecated.

@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best Obsidian Plugin for Automated YouTube Transcript Import
 
-> **Quick Answer:** The most effective Obsidian plugin for automated YouTube transcript import is the dedicated "YouTube Transcript" plugin, often paired with "Media Extended" for playback integration. Together, they allow you to fetch full video text, complete with clickable timestamps, directly into your active note with a single command, transforming passive watching into an active knowledge management system.
+> **Quick Answer:** The most effective Obsidian plugin for automated YouTube transcript import is the dedicated "YouTube Transcript" plugin, often paired with "Media Extended" for playback integration. Together, they allow you to fetch full video text, complete with clickable timestamps, directly into your active note with a single command, transforming passive watching into an active [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system.
 
 Video content represents one of the richest sources of information available today, encompassing everything from deep technical tutorials to comprehensive lectures. However, extracting actionable knowledge from video remains inherently high-friction. Unlike text, which can be easily highlighted, copied, and searched, video forces you to either pause continuously to type notes manually or rely on fragile external tools to bridge the gap.
 
@@ -25,7 +25,7 @@ Achieving this requires specific tooling. By utilizing an Obsidian plugin for au
 
 Before evaluating specific solutions, it helps to understand how Obsidian interacts with YouTube's infrastructure. YouTube generates automated captions for most videos and allows creators to upload manual transcripts. This data is exposed through YouTube's API and backend endpoints.
 
-When a plugin fetches this data, it performs several operations simultaneously. It requests the transcript file, parses the XML or JSON structure returned by YouTube, and formats it into Markdown. The most critical component of this process is the retention of time metadata. A block of text without context is difficult to navigate; a block of text prefixed with a `[04:23]` link that directly controls an embedded video player represents a mature knowledge management workflow.
+When a plugin fetches this data, it performs several operations simultaneously. It requests the transcript file, parses the XML or JSON structure returned by YouTube, and formats it into Markdown. The most critical component of this process is the retention of time metadata. A block of text without context is difficult to navigate; a block of text prefixed with a `[04:23]` link that directly controls an embedded video player represents a mature knowledge management [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
 
 The formatting process also dictates how the text arrives in your vault. Some plugins dump the entire transcript as a single unformatted block, requiring manual line breaks. The best tools apply logical grouping, breaking the transcript into manageable paragraphs based on time intervals or natural pauses in speech, making the resulting document significantly easier to read and highlight.
 
@@ -107,7 +107,7 @@ Because the text is fully local, you can use block references to pull a specific
 
 ### Utilizing Dataview for Video Aggregation
 
-If you diligently tag your video notes and use structured frontmatter, you can use the Dataview plugin to build dynamic dashboards of your media consumption. You can create a query that aggregates all video notes tagged with `#neuroscience` that have a status of `processing`, giving you a prioritized queue of content to review and summarize.
+If you diligently tag your video notes and use structured frontmatter, you can use the Dataview plugin to build dynamic [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) of your media consumption. You can create a query that aggregates all video notes tagged with `#neuroscience` that have a status of `processing`, giving you a prioritized queue of content to review and summarize.
 
 ## Practical Advice: Overcoming Common Limitations
 

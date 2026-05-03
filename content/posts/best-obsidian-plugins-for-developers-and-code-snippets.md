@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The best Obsidian plugins for developers and code snippets are Code Styler for aesthetic and functional block formatting, Execute Code for running scripts directly within your notes, and Obsidian Git for seamless version control. Combined with Editor Syntax Highlight, these tools transform Obsidian from a standard markdown app into a powerful, offline-first snippet manager and development knowledge base.
 
-Obsidian has rapidly become the default knowledge management tool for software engineers, systems administrators, and data scientists. Because it uses local, plain-text markdown files, it inherently respects developer workflows. You maintain complete ownership of your data, and your notes can easily live alongside your codebase in version control.
+Obsidian has rapidly become the default [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) tool for software engineers, systems administrators, and data scientists. Because it uses local, plain-text markdown files, it inherently respects developer workflows. You maintain complete ownership of your data, and your notes can easily live alongside your codebase in version control.
 
 However, the vanilla Obsidian experience leaves some functionality on the table when it comes to managing code. Out of the box, code blocks lack line numbers, you cannot run scripts directly from your notes, and managing a growing library of reusable snippets can become cumbersome. 
 
@@ -93,7 +93,7 @@ This serves dual purposes: it acts as a reliable, free backup solution, and it a
 **Pros:**
 - Completely free synchronization and backup solution
 - Leverages industry-standard version control paradigms
-- Allows for branching and collaborative note-taking
+- Allows for branching and collaborative [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)
 
 **Cons:**
 - Requires familiarity with Git fundamentals
@@ -143,7 +143,7 @@ You can set code blocks to be folded by default, only expanding them when you ex
 **Price:** Free
 **Rating:** 4.5/5
 
-CustomJS is a power-user tool that allows you to write JavaScript functions in standard `.js` files within your vault, and then execute them anywhere using DataviewJS or Templater. This is essentially creating a standard library of utility functions for your notes.
+CustomJS is a power-user tool that allows you to write JavaScript functions in standard `.js` files within your vault, and then execute them anywhere using [DataviewJS](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) or Templater. This is essentially creating a standard library of utility functions for your notes.
 
 If you have complex logic for formatting dates, querying specific tags, or transforming API data that you use repeatedly across different notes, CustomJS lets you centralize that logic. Instead of copying and pasting the same JavaScript into multiple Dataview blocks, you call the function from your CustomJS file.
 

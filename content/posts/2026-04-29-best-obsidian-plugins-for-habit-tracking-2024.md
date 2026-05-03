@@ -208,7 +208,7 @@ SORT date DESC
 ```
 ````
 
-Paste this in a `Weekly Review` note or a master dashboard, and it updates automatically every time you open it.
+Paste this in a `[Weekly Review](/posts/obsidian-template-for-weekly-reflection-and-planning/)` note or a master dashboard, and it updates automatically every time you open it.
 
 ### Writing a Habit Streak Counter
 
@@ -286,7 +286,7 @@ Pull all three together in a single `Dashboard.md` note:
 [Tasks plugin query here]
 ```
 
-Pin this note to your sidebar. Open it every morning. This is your [atomic habits Obsidian setup](URL_PLACEHOLDER_7)—a system that makes the right action the visible, default action.
+Pin this note to your sidebar. Open it every morning. This is your [atomic habits Obsidian setup](URL_PLACEHOLDER_7)—a system that makes the right action the visible, [default](/posts/things-theme-vs-minimal-theme-obsidian/) action.
 
 ### Syncing Across Devices
 
@@ -314,7 +314,7 @@ To go deeper on building systems in Obsidian beyond habit tracking, [this Obsidi
 
 The best obsidian habit tracker is the one you'll actually use consistently. Start simple, get data in the vault, then build toward the complexity you earn by showing up.
 
-The four methods in this article cover every skill level and use case—from five-minute checkbox setups to full Dataview dashboards that make dedicated apps look limited. The comparison table gives you an honest benchmark. The starter templates give you a running start.
+The four methods in this article cover every skill level and use case—from five-minute checkbox setups to full Dataview [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) that make dedicated apps look limited. The comparison table gives you an honest benchmark. The starter templates give you a running start.
 
 If you want to go further with Obsidian beyond habit tracking—building a full PKM system, mastering Templater automation, or creating dashboards for goals and projects—[this Obsidian Mastery course](URL_PLACEHOLDER_8) is the most structured path available without spending hours stitching together YouTube tutorials.
 

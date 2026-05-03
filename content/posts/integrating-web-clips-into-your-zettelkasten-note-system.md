@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** Integrating web clips into your zettelkasten note system involves using capture tools to send web highlights to an inbox, processing those raw clips into your own words (fleeting notes), and formally linking the synthesized ideas into your network of permanent notes. This ensures captured content becomes active knowledge rather than digital hoarding.
 
-We consume more information online than ever before, yet most of what we read slips from memory within hours. You might find a brilliant article, highlight three key paragraphs, send it to a read-it-later app, and never look at it again. This phenomenon—the digital graveyard of good intentions—is the exact problem a structured personal knowledge management system aims to solve. When you use the Zettelkasten method, the goal is to transform passive consumption into active, interconnected knowledge.
+We consume more information online than ever before, yet most of what we read slips from memory within hours. You might find a brilliant article, highlight three key paragraphs, send it to a read-it-later app, and never look at it again. This phenomenon—the digital graveyard of good intentions—is the exact problem a structured personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system aims to solve. When you use the Zettelkasten method, the goal is to transform passive consumption into active, interconnected knowledge.
 
 However, a major friction point in modern digital workflows is the ingestion phase. How do you take raw data captured from the internet and elevate it into a structured, useful format without overwhelming yourself? Successfully integrating web clips into your zettelkasten note system requires a deliberate shift from collecting to connecting. It is not about saving the whole webpage; it is about extracting the atomic ideas and anchoring them into your existing web of thought.
 
@@ -29,7 +29,7 @@ Raw web clips are not Zettels (permanent notes). They are source material. If yo
 
 ## Choosing the Right Web Clipping Tools
 
-The first step in your workflow is capturing the information efficiently. You need tools that allow you to highlight text, save the source URL, and ideally capture metadata (author, publication date, title) without interrupting your reading flow. The market offers several robust options depending on your central note-taking application.
+The first step in your workflow is capturing the information efficiently. You need tools that allow you to highlight text, save the source URL, and ideally capture metadata (author, publication date, title) without interrupting your reading flow. The market offers several robust options depending on your central [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) application.
 
 Dedicated read-it-later applications like Omnivore, Matter, and Instapaper allow you to save articles, read them in a distraction-free environment, and highlight key passages. These tools often feature robust APIs or direct integrations with popular markdown-based note apps. 
 
@@ -71,7 +71,7 @@ A permanent note generated from a web clip is useless in isolation. The defining
 
 Immediately after writing your permanent note, ask yourself: How does this idea relate to what I already know? Does this web clip support a theory I am developing? Does it contradict an article I read last month? Does it offer a solution to a problem I documented earlier?
 
-Use bidirectional linking to map these relationships explicitly. If your new note is about asynchronous communication, link it to your existing notes on deep work, team productivity, or digital burnout. Do not just drop a link at the bottom of the page. Write the link into a sentence that explains the relationship. For example: "This preference for delayed responses aligns with the principles outlined in [[Deep Work requires extended periods of uninterrupted focus]], but it directly challenges the agile framework's reliance on [[Real-time daily standup meetings limit individual autonomy]]."
+Use bidirectional linking to map these relationships explicitly. If your new note is about asynchronous communication, link it to your existing notes on deep work, team [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/), or digital burnout. Do not just drop a link at the bottom of the page. Write the link into a sentence that explains the relationship. For example: "This preference for delayed responses aligns with the principles outlined in [[Deep Work requires extended periods of uninterrupted focus]], but it directly challenges the agile framework's reliance on [[Real-time daily standup meetings limit individual autonomy]]."
 
 By forcing yourself to articulate the connection, you are actively generating new knowledge. You are bridging the gap between someone else's web article and your own unique perspective. 
 

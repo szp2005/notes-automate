@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Integrating Obsidian Advanced URI with Alfred allows you to control your Obsidian vault globally from macOS. By installing the Advanced URI community plugin and mapping its URL schemes to Alfred workflows, you can instantly create notes, append tasks to daily notes, and trigger Obsidian commands without navigating the interface manually.
 
-Friction is the enemy of knowledge management. When you have a fleeting thought, an action item from a meeting, or a sudden structural idea for a project, the time it takes to switch applications, locate the correct folder, and open the right file often results in lost context. For macOS users, the spotlight-like interface of Alfred provides a direct line to your system, but connecting it to a specific local markdown application requires a translation layer. 
+Friction is the enemy of [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/). When you have a fleeting thought, an action item from a meeting, or a sudden structural idea for a project, the time it takes to switch applications, locate the correct folder, and open the right file often results in lost context. For macOS users, the spotlight-like interface of Alfred provides a direct line to your system, but connecting it to a specific local markdown application requires a translation layer. 
 
 This is where the Obsidian Advanced URI plugin comes in. While Obsidian includes a native URI protocol (`obsidian://`), it is primarily designed for basic navigation—opening vaults or specific files. The Advanced URI community plugin extends this functionality significantly, allowing external applications to pass complex instructions like appending text to specific headings, executing internal plugin commands, and writing to dynamic files like your daily note.
 
@@ -60,7 +60,7 @@ To instantly open your daily note from anywhere, configure the following:
 *   **Keyword:** `daily`
 
 To open a specific dashboard or project index:
-*   **Search URL:** `obsidian://advanced-uri?vault=YourVaultName&filepath=Dashboards/MasterIndex`
+*   **Search URL:** `obsidian://advanced-uri?vault=YourVaultName&filepath=[Dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)/MasterIndex`
 *   **Title:** Open Master Dashboard
 *   **Keyword:** `dash`
 
@@ -137,7 +137,7 @@ Furthermore, Obsidian must be running for the URI protocol to operate. If Obsidi
 
 ## Conclusion
 
-Combining Alfred's quick-entry capabilities with Obsidian Advanced URI removes the navigational tax of traditional note-taking. By offloading the mechanical steps of finding files, formatting bullet points, and locating specific headings to macOS background processes, you preserve your mental bandwidth for actual thinking. Start by implementing a simple daily logging workflow, test the encoding behavior, and systematically expand your automated routing to match your vault's architecture.
+Combining Alfred's quick-entry capabilities with Obsidian Advanced URI removes the navigational tax of traditional [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). By offloading the mechanical steps of finding files, formatting bullet points, and locating specific headings to macOS background processes, you preserve your mental bandwidth for actual thinking. Start by implementing a simple daily logging workflow, test the encoding behavior, and systematically expand your automated routing to match your vault's architecture.
 
 ## Frequently Asked Questions
 

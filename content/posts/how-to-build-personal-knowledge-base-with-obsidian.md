@@ -36,9 +36,9 @@ By separating other people's ideas from your own generated thoughts, you prevent
 
 The defining feature of Obsidian is the bidirectional link. By wrapping any word or phrase in double brackets `[[like this]]`, Obsidian creates a link to a note with that title. If the note doesn't exist yet, clicking the link creates it.
 
-This mechanic flips traditional note-taking on its head. Instead of asking "which folder does this belong in?", you ask "what concepts does this relate to?".
+This mechanic flips traditional [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) on its head. Instead of asking "which folder does this belong in?", you ask "what concepts does this relate to?".
 
-When taking a note about the psychology of habit formation, you might write: "Triggering a new behavior requires low friction, tying into the broader concept of [[Choice Architecture]]." Even if you haven't written the Choice Architecture note yet, you have created a placeholder. Over time, as you link to [[Choice Architecture]] from notes on product design, behavioral economics, and personal productivity, Obsidian builds a dense graph of connections.
+When taking a note about the psychology of habit formation, you might write: "Triggering a new behavior requires low friction, tying into the broader concept of [[Choice Architecture]]." Even if you haven't written the Choice Architecture note yet, you have created a placeholder. Over time, as you link to [[Choice Architecture]] from notes on product design, behavioral economics, and personal [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/), Obsidian builds a dense graph of connections.
 
 To maximize the value of linking, keep your concept notes atomic. An atomic note focuses on a single, highly specific idea rather than a broad topic. A note titled "Machine Learning" is too broad and will become a messy document. A note titled "Gradient Descent Optimization" is atomic and easily linkable from various contexts.
 
@@ -55,7 +55,7 @@ Effective workflow tags include:
 - `#type/book`: Identifies the medium of a source note.
 - `#type/meeting`: Identifies a log or daily note.
 
-Using nested tags (like `#status/inbox`) allows you to filter your search efficiently in Obsidian's side pane. When you sit down for a knowledge management session, you can pull up all `#status/inbox` notes and systematically process them.
+Using nested tags (like `#status/inbox`) allows you to filter your search efficiently in Obsidian's side pane. When you sit down for a [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) session, you can pull up all `#status/inbox` notes and systematically process them.
 
 ## Step 4: Create Maps of Content (MoCs) for Navigation
 

@@ -151,7 +151,7 @@ When mapping out the flow of an argument or structuring a literature review, the
 
 Dataview is the most powerful plugin in the Obsidian ecosystem, effectively turning your markdown vault into a queryable database. For academics, this means you can add YAML frontmatter to your literature notes (e.g., author, year, topic, methodology, read status) and then use SQL-like queries to generate dynamic tables.
 
-You could create a dashboard that automatically lists all unread papers tagged with "machine learning" published after 2024. Or you could generate a comprehensive table comparing the methodologies of 20 different papers. Dataview moves Obsidian beyond a simple note-taking app and into a full-fledged research management system.
+You could create a dashboard that automatically lists all unread papers tagged with "machine learning" published after 2024. Or you could generate a comprehensive table comparing the methodologies of 20 different papers. Dataview moves Obsidian beyond a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) app and into a full-fledged research management system.
 
 **Pros:**
 - Transforms static notes into dynamic, queryable databases
@@ -223,7 +223,7 @@ Consistency is crucial when compiling hundreds of notes into a single manuscript
 
 ## Practical Advice for Setting Up an Academic Vault
 
-Building an academic workflow in Obsidian requires deliberate architecture. Merely installing plugins will not solve structural issues. Follow these concrete principles when configuring your environment.
+Building an [academic workflow](/posts/managing-large-pdf-libraries-within-an-obsidian-vault/) in Obsidian requires deliberate architecture. Merely installing plugins will not solve structural issues. Follow these concrete principles when configuring your environment.
 
 **1. Separate Reference Management from Note-Taking**
 Keep your actual PDFs and core bibliographic metadata in a dedicated tool like Zotero. Use Obsidian for your thinking, synthesizing, and drafting. Zotero Integration should act as a bridge, pulling metadata into Obsidian, rather than trying to force Obsidian to be a reference manager. This ensures your library remains portable and standard-compliant.

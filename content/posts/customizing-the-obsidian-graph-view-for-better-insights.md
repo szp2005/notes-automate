@@ -39,7 +39,7 @@ The "Orphans" toggle is an excellent diagnostic tool. Turning this on (while tur
 
 ## Step 2: Implementing Strategic Grouping for Visual Clarity
 
-While filters hide information, Groups help you classify the information that remains visible. By assigning colors to nodes based on specific criteria, you can instantly identify patterns, concentrations of topics, and the workflow state of your notes.
+While filters hide information, Groups help you classify the information that remains visible. By assigning colors to nodes based on specific criteria, you can instantly identify patterns, concentrations of topics, and the [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) state of your notes.
 
 ### Color-Coding by Tag or Folder
 
@@ -119,7 +119,7 @@ If you use Obsidian primarily for task management, meeting notes, and project tr
 
 ## Conclusion
 
-Customizing the Obsidian graph view for better insights transforms a novelty feature into a vital component of your knowledge management workflow. By systematically stripping away noise with filters, classifying data with color-coded groups, and calibrating the physics engine for readability, you unlock the ability to visually audit your thinking. Whether you are hunting for missing links, diagnosing workflow bottlenecks, or searching for cross-disciplinary breakthroughs, an intentionally configured graph view provides the map you need to navigate your expanding digital mind.
+Customizing the Obsidian graph view for better insights transforms a novelty feature into a vital component of your [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) workflow. By systematically stripping away noise with filters, classifying data with color-coded groups, and calibrating the physics engine for readability, you unlock the ability to visually audit your thinking. Whether you are hunting for missing links, diagnosing workflow bottlenecks, or searching for cross-disciplinary breakthroughs, an intentionally configured graph view provides the map you need to navigate your expanding digital mind.
 
 ## Frequently Asked Questions
 

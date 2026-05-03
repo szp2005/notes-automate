@@ -64,7 +64,7 @@ Before touching any plugin settings, confirm you have the following in place:
 - **Obsidian installed on every secondary device** — Android phone, iPhone, iPad, second laptop, etc.
 - **Community plugins enabled.** By default, Obsidian ships in "Restricted mode," which blocks all third-party plugins. Go to **Settings → Community plugins** and click **Turn on community plugins**. You'll see a one-time warning about third-party code — click **I understand** to proceed.
 
-> 💼 **Power-user note:** If you manage notes for a team or small business and need more than 15 GB, [Google Workspace](URL_PLACEHOLDER_3) starts at around $6/user/month and gives each account a minimum of 30 GB pooled storage, along with shared drives and admin controls. Worth the upgrade if your vault contains project documentation, client files, or large media attachments.
+> 💼 **Power-user note:** If you manage notes for a team or small business and need more than 15 GB, [Google Workspace](URL_PLACEHOLDER_3) starts at around $6/user/month and gives each account a minimum of 30 GB pooled storage, along with shared drives and admin controls. Worth the upgrade if your vault contains project [documentation](/posts/how-to-use-obsidian-for-software-engineering-documentation/), client files, or large media attachments.
 
 ---
 
@@ -99,7 +99,7 @@ This is the most important step. Take it slowly.
 8. Switch back to Obsidian. Paste the code into the confirmation field if asked, then click **Submit** or **Confirm**.
 9. Back in plugin settings, you'll see a green indicator or a text note confirming the authentication is active.
 
-**Choosing your vault folder in Drive:**
+**[Choosing](/posts/things-theme-vs-minimal-theme-obsidian/) your vault folder in Drive:**
 
 In the plugin settings, look for the field labeled **"Folder for Remotely Save"** or **"Remote Base Dir"**. By default this is set to the name of your vault. Leave it as-is unless you have a specific reason to rename it. This folder will appear inside a top-level folder called `remotely-save` in your Google Drive.
 
@@ -173,7 +173,7 @@ Install Obsidian on your phone or second computer. Create a **new local vault** 
 
 ## Conclusion {#conclusion}
 
-Syncing Obsidian with Google Drive using Remotely Save is the most practical free sync solution available today. You get automatic cross-device sync, optional zero-knowledge encryption, and full control over your data — all without a monthly subscription.
+Syncing Obsidian with Google Drive using Remotely Save is the most practical free sync solution available today. You get automatic cross-[device sync](/posts/how-to-manage-obsidian-plugins-across-multiple-devices/), optional zero-knowledge encryption, and full control over your data — all without a monthly subscription.
 
 The full process takes 10 minutes: install Remotely Save, authenticate with Google, set your auto-sync interval, then repeat on each device with the same Remote Base Dir name. If anything breaks, 90% of issues trace back to either a stale OAuth token (re-authenticate) or a mismatched folder name (check capitalization).
 

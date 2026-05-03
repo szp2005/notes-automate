@@ -19,7 +19,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 **TL;DR**
 - Obsidian callouts use a simple `> [!TYPE]` syntax to create visually distinct blocks that make notes scannable in seconds.
-- The 12 built-in types cover most needs, but five copy-paste CSS snippets in this guide give you workflow-specific callouts like `[!action]` and `[!key]` immediately.
+- The 12 built-in types cover most needs, but five copy-paste CSS snippets in this guide give you [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/)-specific callouts like `[!action]` and `[!key]` immediately.
 - Connecting callouts to PARA, Zettelkasten, and Evergreen Note workflows turns a formatting trick into a genuine thinking tool.
 
 ---
@@ -174,7 +174,7 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 }
 ```
 
-**Usage:** Drop a `[!summary]` at the top of long evergreen notes. When you link to that note from elsewhere, the summary callout is the first thing you read.
+**Usage:** Drop a `[!summary]` at the top of long [evergreen notes](/posts/using-obsidian-for-long-term-evergreen-note-management/). When you link to that note from elsewhere, the summary callout is the first thing you read.
 
 ---
 

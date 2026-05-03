@@ -11,7 +11,7 @@ type: "informational"
 
 # Excalidraw Plugin for Obsidian: Visual Thinking Complete Guide
 
-> **Quick Answer:** The Excalidraw plugin for Obsidian bridges the gap between text-based note-taking and visual thinking by allowing you to embed, edit, and link hand-drawn diagrams directly within your markdown vault. It enables bi-directional linking within sketches, transclusion of notes onto the canvas, and seamless integration of visual spatial organization into your personal knowledge management (PKM) system.
+> **Quick Answer:** The Excalidraw plugin for Obsidian bridges the gap between text-based [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) and visual thinking by allowing you to embed, edit, and link hand-drawn diagrams directly within your markdown vault. It enables bi-directional linking within sketches, transclusion of notes onto the canvas, and seamless integration of visual spatial organization into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system.
 
 Traditional text-based note-taking excels at capturing structured thoughts, linear arguments, and detailed records. However, when dealing with complex systems, architectural layouts, or brainstorming sessions, rigid lines of text often fail to capture the spatial relationships between ideas. This limitation forces many to split their workflow across multiple applications—using one tool for writing and another for diagramming, creating friction and siloed information.
 
@@ -31,7 +31,7 @@ Conversely, you can embed portions of an Excalidraw drawing into a standard mark
 
 ### Bi-Directional Linking from the Canvas
 
-In a standard diagramming tool, a box labeled "Project Alpha" is just text inside a rectangle. In Obsidian's Excalidraw, that box can be an active link to the `[[Project Alpha]]` note. Clicking the shape opens the corresponding markdown file. When you view the local graph or backlinks for the "Project Alpha" note, the Excalidraw file will appear just like any other referencing document. This capability allows you to build visual dashboards or concept maps that act as functional navigation hubs for your vault.
+In a standard diagramming tool, a box labeled "Project Alpha" is just text inside a rectangle. In Obsidian's Excalidraw, that box can be an active link to the `[[Project Alpha]]` note. Clicking the shape opens the corresponding markdown file. When you view the local graph or backlinks for the "Project Alpha" note, the Excalidraw file will appear just like any other referencing document. This capability allows you to build visual [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) or concept maps that act as functional navigation hubs for your vault.
 
 ### Markdown and Drawing Syntax
 

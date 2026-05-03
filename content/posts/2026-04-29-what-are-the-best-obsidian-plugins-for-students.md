@@ -39,7 +39,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ## Why Obsidian Is a Student's Secret Weapon {#why-obsidian}
 
-Most note-taking apps treat your notes like documents inside a cloud service you don't control. Notion is excellent, but your data lives on their servers, the free tier has limitations, and the day they change pricing or shut down, your five years of lecture notes go with them. Evernote peaked around 2014. Apple Notes is fine until you need to do anything serious with structure or search.
+Most [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) apps treat your notes like documents inside a cloud service you don't control. Notion is excellent, but your data lives on their servers, the free tier has limitations, and the day they change pricing or shut down, your five years of lecture notes go with them. Evernote peaked around 2014. Apple Notes is fine until you need to do anything serious with structure or search.
 
 Obsidian works differently. Every note is a plain `.md` (Markdown) file that lives on your hard drive. You own it. You can open it in any text editor in 2045 if you want to. That matters for students because academic work compounds — your notes from a first-year biology class might be directly relevant to a graduate thesis seven years later.
 
@@ -168,7 +168,7 @@ This is where most student Obsidian guides stop at surface level. These three pl
 
 ### Spaced Repetition
 
-The [Spaced Repetition plugin](URL_PLACEHOLDER_4) (by Stephen Mwangi) implements the Anki algorithm directly inside Obsidian. You create flashcards from any note using a simple `#flashcard` tag, then review them in scheduled sessions. Cards you struggle with come back sooner; cards you know well are delayed.
+The [Spaced Repetition plugin](URL_PLACEHOLDER_4) (by Stephen Mwangi) implements the Anki algorithm directly inside Obsidian. You create [flashcards](/posts/spaced-repetition-plugin-for-obsidian-flashcards/) from any note using a simple `#flashcard` tag, then review them in scheduled sessions. Cards you struggle with come back sooner; cards you know well are delayed.
 
 **Why it beats Anki for most students:** Your flashcards live in the same notes where you're doing your actual studying. You read a lecture note, flag the key term as a flashcard on the spot, and it enters your review queue. No separate app, no manual deck creation. The scientific evidence for spaced repetition's effectiveness on long-term retention is overwhelming — the issue was always friction. This plugin eliminates that friction.
 

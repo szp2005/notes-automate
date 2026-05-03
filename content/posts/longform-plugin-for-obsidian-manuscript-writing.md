@@ -11,11 +11,11 @@ type: "informational"
 
 # Longform Plugin for Obsidian: Complete Guide to Manuscript Writing
 
-> **Quick Answer:** The Longform plugin transforms Obsidian from a standard note-taking environment into a structured manuscript editor resembling Scrivener. It allows writers to organize individual markdown files into ordered scenes and chapters, arrange them via a drag-and-drop sidebar, and compile them into a single, cohesive manuscript file without altering the core vault hierarchy.
+> **Quick Answer:** The Longform plugin transforms Obsidian from a standard [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) environment into a structured manuscript editor resembling Scrivener. It allows writers to organize individual markdown files into ordered scenes and chapters, arrange them via a drag-and-drop sidebar, and compile them into a single, cohesive manuscript file without altering the core vault hierarchy.
 
 Writing a book, dissertation, or lengthy essay in standard markdown applications often devolves into a disorganized folder of disjointed text files. While dedicated writing software like Scrivener or Ulysses handles complex document structures beautifully, many writers prefer the privacy, speed, and cross-linking capabilities of Obsidian. The friction occurs when attempting to sequence 80 different scene files into a linear narrative. 
 
-The Longform plugin bridges this gap. It provides a non-destructive structural layer over your existing markdown files, allowing you to sequence, draft, and compile large-scale writing projects directly within your personal knowledge management system. 
+The Longform plugin bridges this gap. It provides a non-destructive structural layer over your existing markdown files, allowing you to sequence, draft, and compile large-scale writing projects directly within your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system. 
 
 By treating individual notes as modular scenes, Longform gives you the flexibility to move pieces of your narrative around without tedious copy-pasting. This guide breaks down how to configure the plugin, structure your vault, and utilize advanced workflows to manage complex manuscript writing in Obsidian.
 
@@ -167,7 +167,7 @@ First, use the compile feature within Longform to merge your individual scenes i
 Yes. Because Longform saves its project sequence data inside the `.obsidian/plugins/longform/` directory, as long as you have Obsidian Sync configured to synchronize plugin settings and data files, your project structure will sync seamlessly across desktop and mobile devices.
 
 ### Can I track my daily writing goals within the Longform plugin?
-Longform provides basic word counts for individual scenes and the total project, but it does not have built-in daily goal tracking. For daily session tracking, you should pair it with the Obsidian Word Sprint plugin or the Better Word Count plugin.
+Longform provides basic word counts for individual scenes and the total project, but it does not have built-in daily [goal tracking](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/). For daily session tracking, you should pair it with the Obsidian Word Sprint plugin or the Better Word Count plugin.
 
 ---
 

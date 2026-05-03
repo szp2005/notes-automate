@@ -13,9 +13,9 @@ type: "informational"
 
 > **Quick Answer:** Automating your task management with Obsidian Tasks plugin requires installing the community plugin, using the global task format (`- [ ] #task`), and deploying dynamic code block queries to automatically pull, filter, and sort your action items into centralized dashboards based on due dates, priority, and tags.
 
-Keeping track of action items scattered across daily notes, project files, and meeting minutes often leads to missed deadlines and fragmented workflows. Traditional task managers force you into rigid structures, while plain text notes lack the database-like features required to aggregate and sort tasks dynamically. Obsidian, primarily known as a personal knowledge management system, bridges this gap when paired with the right extensions. 
+Keeping track of action items scattered across daily notes, project files, and meeting minutes often leads to missed deadlines and fragmented workflows. Traditional task managers force you into rigid structures, while plain text notes lack the database-like features required to aggregate and sort tasks dynamically. Obsidian, primarily known as a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system, bridges this gap when paired with the right extensions. 
 
-Automating your task management with Obsidian Tasks plugin transforms your interconnected vault into a powerful, automated productivity system. Instead of manually copying action items into a separate to-do list application, you can write tasks directly in your project notes where they naturally occur. The plugin then automatically queries these scattered items and builds customized dashboards that update in real-time.
+Automating your task management with Obsidian Tasks plugin transforms your interconnected vault into a powerful, automated [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system. Instead of manually copying action items into a separate to-do list application, you can write tasks directly in your project notes where they naturally occur. The plugin then automatically queries these scattered items and builds customized dashboards that update in real-time.
 
 By standardizing task metadata—such as due dates, scheduled dates, priorities, and custom tags—you create a self-organizing system. This approach ensures that your knowledge base and your action items live in the exact same environment, eliminating context switching and providing total control over how your workload is displayed.
 
@@ -37,7 +37,7 @@ The primary advantage of this system is that it makes location irrelevant. You c
 
 ## Setting Up Your Automated Dashboards
 
-The core mechanism for automating your workflow involves writing Queries. These are small blocks of text enclosed in code fences that tell the plugin exactly which tasks to pull and how to organize them. 
+The core mechanism for automating your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) involves writing Queries. These are small blocks of text enclosed in code fences that tell the plugin exactly which tasks to pull and how to organize them. 
 
 ### Creating a Daily Dashboard
 

@@ -151,13 +151,13 @@ This creates a clear visual threshold. Days where the bar surpasses the red line
 Implementing a goal-tracking system requires consistency and strategic vault organization. Follow these practical recommendations to maintain a sustainable setup.
 
 ### Standardize Your Daily Notes
-Use Obsidian's core Templates plugin or community plugins like Templater to ensure every daily note generates with the exact same YAML frontmatter keys. If you manually type `weight` on Monday and `BodyWeight` on Tuesday, the Tracker plugin will not aggregate the data.
+Use Obsidian's core [Templates](/posts/obsidian-template-for-weekly-reflection-and-planning/) plugin or community plugins like [Templater](/posts/automating-obsidian-frontmatter-with-templater-scripts/) to ensure every daily note generates with the exact same YAML frontmatter keys. If you manually type `weight` on Monday and `BodyWeight` on Tuesday, the Tracker plugin will not aggregate the data.
 
 ### Keep Dashboards Separate
 Do not place heavy Tracker code blocks inside the daily notes themselves. Create a dedicated `Goal Dashboard` note. The Tracker plugin executes its queries every time a note is opened. Having multiple complex charts load simultaneously inside a daily note will cause unnecessary lag.
 
 ### Manage Missing Data Gracefully
-You will inevitably miss a day. By default, the Tracker plugin might draw a line connecting Monday to Wednesday, ignoring Tuesday, or it might drop the line to zero. You can control this behavior using the `penalty` parameter for habits or by utilizing the `fillGap` setting within the code block to smooth out line charts when a daily note is missing or incomplete.
+You will inevitably miss a day. By [default](/posts/things-theme-vs-minimal-theme-obsidian/), the Tracker plugin might draw a line connecting Monday to Wednesday, ignoring Tuesday, or it might drop the line to zero. You can control this behavior using the `penalty` parameter for habits or by utilizing the `fillGap` setting within the code block to smooth out line charts when a daily note is missing or incomplete.
 
 ## Conclusion
 

@@ -41,7 +41,7 @@ This structure ensures that when you run queries or filters later, you can easil
 
 While a basic CRM can function using only Obsidian's native properties and links, two community plugins elevate the system from a static address book to an active tracking tool.
 
-1. **Dataview:** This plugin treats your vault as a database. It allows you to generate dynamic tables and lists based on note properties, tags, and folder locations. You will use Dataview to create your CRM dashboards.
+1. **Dataview:** This plugin treats your vault as a database. It allows you to generate dynamic tables and lists based on note properties, tags, and folder locations. You will use Dataview to create your CRM [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/).
 2. **Templater:** Automating note creation is critical for CRM adoption. Templater allows you to define standardized layouts and automatically inject dates, dynamic titles, and cursor placement when creating a new contact or interaction note.
 
 Ensure both plugins are installed, enabled, and updated to their latest versions before proceeding.
@@ -172,7 +172,7 @@ Set a recurring task in your task manager (or a reminder in Obsidian) to conduct
 
 ## Conclusion
 
-Transitioning your relationship management to local markdown files provides unmatched privacy, speed, and customization. By structuring your data with YAML properties, linking interactions naturally, and surfacing actionable insights through Dataview, learning how to build a CRM in an Obsidian vault transforms your note-taking app into a powerful professional networking tool. The lack of subscription fees is a bonus; the real value is having your network completely integrated into your existing knowledge ecosystem.
+Transitioning your relationship management to local markdown files provides unmatched privacy, speed, and customization. By structuring your data with YAML properties, linking interactions naturally, and surfacing actionable insights through Dataview, learning how to build a CRM in an Obsidian vault transforms your [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) app into a powerful professional networking tool. The lack of subscription fees is a bonus; the real value is having your network completely integrated into your existing knowledge ecosystem.
 
 ## Frequently Asked Questions
 

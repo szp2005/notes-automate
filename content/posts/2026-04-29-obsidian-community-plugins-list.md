@@ -13,7 +13,7 @@ tags: ["obsidian", "community", "plugins", "obsidian community plugins list"]
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# The Ultimate Obsidian Community Plugins List (2024): Categorized by User & Workflow
+# The Ultimate Obsidian Community Plugins List (2024): Categorized by User & [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/)
 
 *Last updated: June 2024 · Reading time: ~12 minutes*
 
@@ -21,7 +21,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ## TL;DR
 
-- **Community plugins** transform Obsidian from a decent Markdown editor into a full personal knowledge management system—but you need to know which ones are worth installing.
+- **Community plugins** transform Obsidian from a decent Markdown editor into a full personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system—but you need to know which ones are worth installing.
 - This guide categorizes the best plugins by **user type** (writers, students, power users), not just alphabetically or by download count.
 - Every featured plugin includes a **practical use-case tip** so you can get value in under five minutes.
 

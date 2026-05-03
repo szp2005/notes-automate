@@ -17,13 +17,13 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Choosing the right ecosystem to manage complex projects goes far beyond picking a digital to-do list. When workflows involve hundreds of interconnected tasks, deep research documents, cross-functional dependencies, and constant context switching, standard task managers quickly break down. You need a system that handles both the execution of tasks and the underlying knowledge that drives them.
 
-This brings us to the two heavyweights in the modern productivity space. Evaluating Obsidian vs Notion for complex project management workflows requires understanding their fundamentally different architectures. Notion relies on cloud-based relational databases and a block-level editor, making it highly structured and collaborative. Obsidian is a local-first markdown editor built around bidirectional linking, functioning more like a second brain that organically scales with your project complexity. 
+This brings us to the two heavyweights in the modern [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) space. Evaluating Obsidian vs Notion for complex project management workflows requires understanding their fundamentally different architectures. Notion relies on cloud-based relational databases and a block-level editor, making it highly structured and collaborative. Obsidian is a local-first markdown editor built around bidirectional linking, functioning more like a second brain that organically scales with your project complexity. 
 
 The right choice depends entirely on whether your complexity stems from team coordination and structured data, or from sheer informational density and required deep focus.
 
 ## Core Architectures: How Both Tools Approach Project Management
 
-At a foundational level, managing a complex workflow requires structuring information so it is immediately actionable but securely archived for future reference.
+At a foundational level, managing a complex [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) requires structuring information so it is immediately actionable but securely archived for future reference.
 
 Notion approaches project management like a visual database application. Every page can be a database entry, and these databases can be linked, filtered, and viewed as Kanban boards, Gantt charts, or calendars. This top-down structure means you design your workflow first—creating the properties, tags, and relational links—and then populate it with data. It forces consistency, which is crucial when multiple people are updating project statuses.
 
@@ -60,7 +60,7 @@ Its collaborative features are built-in from the ground up. Real-time co-editing
 
 Obsidian flips the traditional project management paradigm. Instead of putting data into a proprietary database, you write in standard Markdown files saved on your local drive. This guarantees lightning-fast load times, complete offline functionality, and future-proof data ownership. For complex workflows, Obsidian relies heavily on its plugin ecosystem. Using community plugins like Dataview, Kanban, and Tasks, you can turn a folder of plain text files into a robust project management engine.
 
-Because it utilizes bidirectional linking, Obsidian excels when projects involve heavy research, documentation, or coding. You can link a task directly to a meeting note, which links to a client brief, forming a dense knowledge graph. The learning curve is steep, and setting up an automated workflow requires configuring plugins and sometimes writing simple queries. It is also fundamentally a single-player tool; while there are workarounds for collaboration, it cannot match Notion's seamless multiplayer environment.
+Because it utilizes bidirectional linking, Obsidian excels when projects involve heavy research, [documentation](/posts/how-to-use-obsidian-for-software-engineering-documentation/), or coding. You can link a task directly to a meeting note, which links to a client brief, forming a dense knowledge graph. The learning curve is steep, and setting up an automated workflow requires configuring plugins and sometimes writing simple queries. It is also fundamentally a single-player tool; while there are workarounds for collaboration, it cannot match Notion's seamless multiplayer environment.
 
 **Pros:**
 - Blazing fast performance and true local-first offline capabilities

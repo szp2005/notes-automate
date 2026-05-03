@@ -25,7 +25,7 @@ Building an effective Obsidian vault structure for digital gardening beginners r
 
 The defining characteristic of a digital garden is that it organizes information by its stage of development rather than its subject matter. In a traditional folder structure, a note about a new workout routine might go into `Health > Fitness > Routines`. In a digital garden, that same note's location is determined by how refined the thought is.
 
-This shift is critical for beginners because subject-based folders force you to make categorization decisions before you even understand the concept. Is an article on the psychology of habit formation placed in "Psychology" or "Productivity"? This cognitive friction prevents you from writing.
+This shift is critical for beginners because subject-based folders force you to make categorization decisions before you even understand the concept. Is an article on the psychology of habit formation placed in "Psychology" or "[Productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)"? This cognitive friction prevents you from writing.
 
 Digital gardens bypass this by using plant-based metaphors to indicate maturity:
 
@@ -34,7 +34,7 @@ Digital gardens bypass this by using plant-based metaphors to indicate maturity:
 *   **Saplings:** Structured concepts that have been refined and edited. They are connected to several other notes in your vault.
 *   **Evergreens:** Complete, standalone concepts. These are permanent notes that represent your fully formed perspective on a topic. They are tightly interlinked with other evergreens.
 
-By organizing your vault around these stages, your daily workflow transitions from "filing documents" to "developing ideas."
+By organizing your vault around these stages, your daily [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) transitions from "filing documents" to "developing ideas."
 
 ## The Ideal Beginner Folder Structure
 
@@ -50,7 +50,7 @@ This is the active workspace where your notes live and evolve. Rather than using
 Digital gardens benefit heavily from chronological entry points. This folder holds your Daily Notes. Think of Daily Logs as the soil of your garden. You can draft rough ideas here, link to new Seedlings, and track your daily research. Over time, these daily entries become a chronological record of how your thinking has evolved.
 
 ### 04_Indexes_and_MOCs
-As your garden grows, you will need waypoints to navigate it. Maps of Content (MOCs) live here. MOCs are index notes that serve as tables of contents for broad topics. If you have twenty notes related to "Knowledge Management," you would create an MOC in this folder that links out to those individual notes in a structured, logical order.
+As your garden grows, you will need waypoints to navigate it. Maps of Content (MOCs) live here. MOCs are index notes that serve as tables of contents for broad topics. If you have twenty notes related to "[Knowledge Management](/posts/using-obsidian-for-long-term-evergreen-note-management/)," you would create an MOC in this folder that links out to those individual notes in a structured, logical order.
 
 ### 05_Meta
 This folder is the backend of your vault. It keeps the clutter out of your main workspace. The Meta folder should contain three subfolders:

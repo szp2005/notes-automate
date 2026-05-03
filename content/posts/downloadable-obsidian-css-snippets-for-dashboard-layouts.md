@@ -39,7 +39,7 @@ The Obsidian community has developed several robust, open-source CSS snippets de
 
 The Modular CSS Layout repository by user zamsyt is arguably the most comprehensive toolkit for manipulating Obsidian's interface. MCL is not a single snippet, but a collection of modular CSS files you can download individually based on your requirements.
 
-For dashboards, the **MCL Multi Column** snippet is the primary requirement. This file intercepts specific callout syntaxes and forces them into responsive grids. Once installed, you create a multi-column dashboard by wrapping content in a master callout, and nesting sub-callouts within it. 
+For [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/), the **MCL Multi Column** snippet is the primary requirement. This file intercepts specific callout syntaxes and forces them into responsive grids. Once installed, you create a multi-column dashboard by wrapping content in a master callout, and nesting sub-callouts within it. 
 
 The primary advantage of MCL is its granular control. You can explicitly dictate the width of individual columns directly inside the markdown (e.g., `> [!multi-column] | col-md-4 col-lg-6`). This mimics frameworks like Bootstrap, allowing you to set a dominant left column for project tracking and a narrow right column for quick links. 
 
@@ -144,7 +144,7 @@ A common mistake when utilizing grid CSS is filling every available pixel with i
 
 ## Conclusion
 
-Creating a functional, aesthetically pleasing start page in Obsidian does not require advanced web development skills or a degree in software engineering. By leveraging downloadable Obsidian CSS snippets for dashboard layouts, you can bypass the rigid constraints of standard Markdown and build a responsive, multi-column control center tailored exactly to your workflow. 
+Creating a functional, aesthetically pleasing start page in Obsidian does not require advanced web development skills or a degree in software engineering. By leveraging downloadable Obsidian CSS snippets for dashboard layouts, you can bypass the rigid constraints of standard Markdown and build a responsive, multi-column control center tailored exactly to your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/). 
 
 Whether you choose the modular precision of MCL, the clean simplicity of Dashboard++, or the visual focus of the Cards snippet, the underlying process remains the same: download the CSS file, apply the appropriate property classes, and construct your grids using native callouts. Paired with dynamic plugins like Dataview, your Obsidian vault transforms from a static repository of text files into a proactive, highly organized operating system for your work.
 

@@ -16,7 +16,7 @@ tags: ["excalidraw", "use", "obsidian", "excalidraw plugin for obsidian review"]
 **TL;DR**
 - Excalidraw for Obsidian delivers a full-featured whiteboard experience inside your vault, with deep linking, transclusion, and a scripting engine that Canvas simply cannot match for complex diagrams.
 - Performance is acceptable in vaults under ~5,000 notes but degrades noticeably on startup and during render in larger vaults — something most reviews ignore entirely.
-- If you work with structured diagrams, system maps, or project dashboards, Excalidraw is worth the learning curve; if you just want to arrange existing notes visually, stick with Canvas.
+- If you work with structured diagrams, system maps, or project [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/), Excalidraw is worth the learning curve; if you just want to arrange existing notes visually, stick with Canvas.
 
 ---
 
@@ -84,7 +84,7 @@ Beyond simple links, the plugin supports **transclusion**: you can embed the ful
 
 You can also embed one Excalidraw drawing inside another, which enables modular diagram structures — a high-level architecture drawing that embeds detailed component drawings in expandable frames.
 
-> **💡 Tablet Tip:** If you use Excalidraw for freehand sketching, a drawing tablet transforms the experience. The freehand pen tool is significantly more precise with stylus input. Both the [Wacom Intuus Small](URL_PLACEHOLDER_2) and [Huion Inspiroy H640P](URL_PLACEHOLDER_3) are solid entry-level options available on Amazon that pair well with this workflow.
+> **💡 Tablet Tip:** If you use Excalidraw for freehand sketching, a drawing tablet transforms the experience. The freehand pen tool is significantly more precise with stylus input. Both the [Wacom Intuus Small](URL_PLACEHOLDER_2) and [Huion Inspiroy H640P](URL_PLACEHOLDER_3) are solid entry-level options available on Amazon that pair well with this [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/).
 
 ### Scripts and the Element Library
 

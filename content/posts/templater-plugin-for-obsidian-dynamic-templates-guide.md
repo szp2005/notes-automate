@@ -13,11 +13,11 @@ type: "informational"
 
 > **Quick Answer:** The Templater plugin for Obsidian replaces static templates with dynamic, programmable scripts using the `<% tp %>` syntax. By executing JavaScript at the moment of note creation, it allows you to automatically insert the current date, fetch external data, rename files, prompt for user input, and route notes to specific folders without manual data entry.
 
-Managing a personal knowledge management (PKM) system often involves repetitive tasks. Every time you create a daily note, log a meeting, or capture a book summary, you likely type out the same structural headings, tags, and date formats. While Obsidian’s core Templates plugin handles basic text insertion, it falls short when you need context-aware data, conditional logic, or automatic file manipulation. 
+Managing a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system often involves repetitive tasks. Every time you create a daily note, log a meeting, or capture a book summary, you likely type out the same structural headings, tags, and date formats. While Obsidian’s core Templates plugin handles basic text insertion, it falls short when you need context-aware data, conditional logic, or automatic file manipulation. 
 
 This is where the Templater plugin becomes necessary. Instead of just pasting text, Templater acts as a scripting engine that evaluates code when a template is inserted. It reads the context of your vault, prompts you for missing information, and constructs the note exactly how you need it. 
 
-Transitioning from static text to dynamic generation reduces friction in your workflow. When your system automatically handles the metadata, you spend less time managing the structure of your notes and more time focusing on their content. This guide details how to implement dynamic templates, configure advanced scripts, and optimize your Obsidian vault for seamless automation.
+Transitioning from static text to dynamic generation reduces friction in your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/). When your system automatically handles the metadata, you spend less time managing the structure of your notes and more time focusing on their content. This guide details how to implement dynamic templates, configure advanced scripts, and optimize your Obsidian vault for seamless automation.
 
 ## Core Concepts of Dynamic Generation
 

@@ -15,13 +15,13 @@ type: "informational"
 
 Academic research requires wrangling hundreds of PDFs, managing metadata, extracting annotations, and synthesizing arguments. Historically, these tasks lived in separate silos: references in a citation manager and thoughts in a text editor. This fragmentation creates friction, leading to lost insights and redundant reading. When your highlights remain trapped inside a PDF viewer, they cannot interact with your original ideas or findings from other papers.
 
-Integrating Zotero with Obsidian eliminates this friction. By creating a direct pipeline between your reference manager and your knowledge base, you transform static PDFs into a dynamic network of interconnected thoughts. This approach moves you from passively collecting literature to actively building a web of knowledge, aligning perfectly with the Zettelkasten methodology and modern Personal Knowledge Management (PKM) principles.
+Integrating Zotero with Obsidian eliminates this friction. By creating a direct pipeline between your reference manager and your knowledge base, you transform static PDFs into a dynamic network of interconnected thoughts. This approach moves you from passively collecting literature to actively building a web of knowledge, aligning perfectly with the Zettelkasten methodology and modern Personal [Knowledge Management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) principles.
 
-This guide details the exact steps to establish a robust, automated workflow that extracts metadata and annotations from Zotero directly into beautifully formatted Obsidian literature notes.
+This guide details the exact steps to establish a robust, automated [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) that extracts metadata and annotations from Zotero directly into beautifully formatted Obsidian literature notes.
 
 ## The Core Components of the Integration
 
-To build a reliable academic workflow, you need three primary software components working in tandem. Understanding the role of each tool clarifies how data flows through the system and helps troubleshoot potential issues down the line.
+To build a reliable [academic workflow](/posts/managing-large-pdf-libraries-within-an-obsidian-vault/), you need three primary software components working in tandem. Understanding the role of each tool clarifies how data flows through the system and helps troubleshoot potential issues down the line.
 
 ### Zotero: The Reference Engine
 

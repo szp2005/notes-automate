@@ -319,7 +319,7 @@ Add these snippets to your vault's CSS snippets folder (**Settings → Appearanc
 https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png
 ```
 
-For planning complex projects before you map them, a mind-mapping session with a tool from [Setapp](URL_PLACEHOLDER_7)—which bundles MindNode and dozens of other Mac productivity apps in one subscription—can help you figure out your node structure before committing it to coordinates.
+For planning complex projects before you map them, a mind-mapping session with a tool from [Setapp](URL_PLACEHOLDER_7)—which bundles MindNode and dozens of other Mac [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) apps in one subscription—can help you figure out your node structure before committing it to coordinates.
 
 ---
 
@@ -350,7 +350,7 @@ Creating interactive maps in Obsidian is genuinely one of the most underused fea
 
 The path from zero to functional map takes about five minutes. The path from a basic map to a fully automated, Dataview-powered, custom-styled mapping system takes an afternoon. Neither requires programming knowledge—just an understanding of YAML and a willingness to experiment with the code block syntax.
 
-If you're building a fictional world, invest in [Wonderdraft](URL_PLACEHOLDER_10) for your base map image—it's a one-time purchase that produces far better results than any web tool. If you want to go deeper on data visualization and make your maps genuinely analytical, a structured course on [Skillshare or Udemy](URL_PLACEHOLDER_11) covering data visualization principles will dramatically raise the ceiling of what you can build.
+If you're building a fictional world, invest in [Wonderdraft](URL_PLACEHOLDER_10) for your base map image—it's a one-time purchase that produces far better results than any web tool. If you want to go deeper on [data visualization](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/) and make your maps genuinely analytical, a structured course on [Skillshare or Udemy](URL_PLACEHOLDER_11) covering data visualization principles will dramatically raise the ceiling of what you can build.
 
 Start with the five-minute tutorial. Add your three most important locations. Then come back for the Dataview integration when you're ready to make it scale.
 
@@ -362,7 +362,7 @@ Start with the five-minute tutorial. Add your three most important locations. Th
 
 ### What is the main benefit of Create Interactive Maps in Obsidian?
 
-This guide explains how Obsidian users and note-taking power users can make a better decision about Create Interactive Maps in Obsidian. The real benefit is that it turns a vague problem into a clearer decision, workflow, or setup that Obsidian users and note-taking power users can act on immediately.
+This guide explains how Obsidian users and note-taking power users can make a better decision about Create Interactive Maps in Obsidian. The real benefit is that it turns a vague problem into a clearer decision, [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), or setup that Obsidian users and note-taking power users can act on immediately.
 
 ### Who is Create Interactive Maps in Obsidian best for?
 

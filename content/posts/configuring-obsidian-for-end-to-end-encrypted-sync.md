@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** Configuring Obsidian for end to end encrypted sync requires enabling Obsidian Sync, choosing "Custom encryption key" during the remote vault creation process, and storing your key in a secure password manager. This ensures your markdown files are encrypted locally using AES-256-GCM before transmission, meaning neither your internet provider nor Obsidian's servers can read your data.
 
-Digital privacy is no longer an abstract concern; it is a fundamental requirement for anyone building a serious knowledge management system. When you use Obsidian to journal, draft business proposals, or compile research, you are creating a highly sensitive digital footprint. Storing this information locally is the first step toward ownership, but the moment you want to access your notes on a smartphone or a secondary laptop, you introduce vulnerability. Syncing data across the internet without proper encryption exposes your unencrypted markdown files to cloud providers, network intercepts, and potential server breaches.
+Digital privacy is no longer an abstract concern; it is a fundamental requirement for anyone building a serious [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system. When you use Obsidian to journal, draft business proposals, or compile research, you are creating a highly sensitive digital footprint. Storing this information locally is the first step toward ownership, but the moment you want to access your notes on a smartphone or a secondary laptop, you introduce vulnerability. Syncing data across the internet without proper encryption exposes your unencrypted markdown files to cloud providers, network intercepts, and potential server breaches.
 
 Configuring Obsidian for end to end encrypted sync solves this problem by moving the encryption process directly to your device. End-to-end encryption (E2EE) guarantees that your data is scrambled into unreadable ciphertext before it ever leaves your computer or phone. The decryption key remains exclusively with you, creating a zero-knowledge architecture where the server hosting the data literally lacks the mathematical ability to read it. 
 
@@ -29,7 +29,7 @@ The server stores this encrypted blob. When your smartphone connects to the serv
 
 ## Step 1: Preparing Your Local Vault for Synchronization
 
-Before you introduce remote synchronization to your workflow, you must prepare your local environment. Syncing is not a replacement for a traditional backup strategy. If you accidentally delete a file and that deletion syncs to all devices, you will need a local backup to restore it.
+Before you introduce remote synchronization to your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/), you must prepare your local environment. Syncing is not a replacement for a traditional backup strategy. If you accidentally delete a file and that deletion syncs to all devices, you will need a local backup to restore it.
 
 Start by creating a complete, compressed backup of your entire Obsidian vault folder. Include the hidden `.obsidian` directory, which contains your themes, plugins, and workspace layouts. Store this backup on a separate physical drive or a secure local NAS. 
 

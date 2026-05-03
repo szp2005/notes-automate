@@ -135,7 +135,7 @@ Sometimes docs are sparse, outdated, or don't address your exact situation. Here
 
 **Check when the plugin was last updated.** On the GitHub repository page, look at the "Latest commit" date next to each file, or check the Releases section on the right sidebar. If the last release was two or more years ago and the Issues tab is full of unanswered questions, the plugin may be abandoned. At that point, look for a fork or an alternative plugin that does the same job.
 
-**Watch YouTube tutorials.** Search `obsidian [plugin name] tutorial` on YouTube. Creators like Nicole van der Hoeven and Danny Hatcher produce detailed walkthroughs for popular plugins. Video tutorials are especially useful for visual, workflow-heavy plugins like Excalidraw or Canvas.
+**Watch YouTube tutorials.** Search `obsidian [plugin name] tutorial` on YouTube. Creators like Nicole van der Hoeven and Danny Hatcher produce detailed walkthroughs for popular plugins. Video tutorials are especially useful for visual, [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/)-heavy plugins like Excalidraw or Canvas.
 
 ---
 
@@ -145,7 +145,7 @@ Sometimes docs are sparse, outdated, or don't address your exact situation. Here
 |---|---|
 | Dataview | [blacksmithgu.github.io/obsidian-dataview](URL_PLACEHOLDER_4) |
 | Templater | [silentvoid13.github.io/Templater](URL_PLACEHOLDER_5) |
-| Periodic Notes | [github.com/liamcain/obsidian-periodic-notes](URL_PLACEHOLDER_6) |
+| [Periodic Notes](/posts/obsidian-periodic-notes-plugin-setup-for-annual-reviews/) | [github.com/liamcain/obsidian-periodic-notes](URL_PLACEHOLDER_6) |
 | Excalidraw | [github.com/zsviczian/obsidian-excalidraw-plugin](URL_PLACEHOLDER_7) |
 | Dataview (GitHub) | [github.com/blacksmithgu/obsidian-dataview](URL_PLACEHOLDER_8) |
 | Official Obsidian Help | [help.obsidian.md](URL_PLACEHOLDER_9) |

@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** The Kanban plugin for Obsidian transforms standard markdown lists into interactive, drag-and-drop project boards. It allows you to visualize workflows, link tasks directly to specific notes within your vault, and manage complex projects without ever leaving your local, text-based environment. 
 
-Managing projects inside a knowledge management system often leads to friction. While Obsidian excels at linking concepts and storing information, its native text-based interface can sometimes fall short when you need a top-down, visual perspective on moving pieces. Traditional task managers force you to split your workflow: you keep your notes in Obsidian but track your progress in external applications like Trello, Jira, or Asana. This context switching disrupts focus and fractures your data.
+Managing projects inside a [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system often leads to friction. While Obsidian excels at linking concepts and storing information, its native text-based interface can sometimes fall short when you need a top-down, visual perspective on moving pieces. Traditional task managers force you to split your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/): you keep your notes in Obsidian but track your progress in external applications like Trello, Jira, or Asana. This context switching disrupts focus and fractures your data.
 
 Using the Kanban plugin for Obsidian project management bridges this gap entirely. By rendering simple, underlying markdown as dynamic boards, this community plugin allows you to maintain the data ownership and linking capabilities of Obsidian while gaining the visual clarity of a dedicated project management tool. Every card on your board remains a plain text file or a link to one, ensuring your project metadata stays local, portable, and fully integrated with your existing personal knowledge management system.
 
@@ -105,7 +105,7 @@ Instead of a process pipeline, you can use the Kanban board as a prioritization 
 3.  **Urgent, Not Important (Delegate/Automate):** Administrative overhead.
 4.  **Neither (Eliminate):** Low-value tasks to be dropped.
 
-This structural flexibility proves that the Kanban plugin is not rigid; it adapts entirely to your preferred productivity framework.
+This structural flexibility proves that the Kanban plugin is not rigid; it adapts entirely to your preferred [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) framework.
 
 ## Advanced Techniques and Integrations
 

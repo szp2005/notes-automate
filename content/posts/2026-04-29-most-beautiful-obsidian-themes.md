@@ -41,7 +41,7 @@ tags: ["obsidian", "theme", "more", "than"]
 
 There is a well-documented relationship between your visual environment and the quality of sustained cognitive work. Don Norman explored this at length in [*The Design of Everyday Things*](URL_PLACEHOLDER_1) — the central argument being that objects designed well make you want to use them, while poorly designed tools create friction that compounds over time. The same logic applies to software.
 
-If you open Obsidian every day and the default interface makes you feel nothing — no anticipation, no comfort, no small jolt of pleasure — you are leaving motivational energy on the table. That matters specifically for note-taking because it is a habit, not a task. Habits live and die by how easy they are to start, and visual appeal is a legitimate on-ramp.
+If you open Obsidian every day and the default interface makes you feel nothing — no anticipation, no comfort, no small jolt of pleasure — you are leaving motivational energy on the table. That matters specifically for [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) because it is a habit, not a task. Habits live and die by how easy they are to start, and visual appeal is a legitimate on-ramp.
 
 There is a practical dimension too. A theme with poor contrast ratios will fatigue your eyes after 45 minutes. One with bad heading hierarchy makes skimming your own notes tedious. Typography choices affect reading speed. These are not aesthetic preferences; they are usability variables, and they accumulate across every session.
 
@@ -69,7 +69,7 @@ Obsidian updates its API regularly. A theme last touched in 2021 will break. Eve
 
 ## Category 1: Minimalist & Clean Themes for Ultimate Focus {#minimalist-themes}
 
-Minimalist themes remove everything that does not directly serve reading or writing. No gradients, no decorative elements, reduced UI chrome. If your work involves long writing sessions — you are a novelist, a researcher, or a daily journaler — these themes will do the most for your productivity.
+Minimalist themes remove everything that does not directly serve reading or writing. No gradients, no decorative elements, reduced UI chrome. If your work involves long writing sessions — you are a novelist, a researcher, or a daily journaler — these themes will do the most for your [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/).
 
 ### Things
 
@@ -144,7 +144,7 @@ Nord in Obsidian also renders code blocks exceptionally well, which makes it a n
 
 Sanctum's typography choices are particularly strong. The default heading stack creates clear visual hierarchy, and the body text weight is dialed in for readability. The sidebar uses subtle separators rather than heavy borders, which keeps the interface feeling unified.
 
-If you write a personal knowledge management vault that you want to feel like a *library* — considered, unhurried, serious — Sanctum is the closest any free Obsidian theme gets to that feeling.
+If you write a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) vault that you want to feel like a *library* — considered, unhurried, serious — Sanctum is the closest any free Obsidian theme gets to that feeling.
 
 **Best Paired With:**
 - **Banners**: Header images in Sanctum feel curated rather than decorative

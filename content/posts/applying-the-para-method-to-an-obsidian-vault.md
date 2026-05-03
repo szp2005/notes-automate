@@ -82,7 +82,7 @@ While PARA dictates the folder structure, Obsidian's unique features—tags, bid
 ### Using Folders vs. Links
 Folders dictate *where* a note lives based on actionability. Links dictate *how* notes relate to one another based on context. 
 
-For example, you might be researching a new note-taking app. You place the `Note-Taking App Research` note in your `1-Projects` folder because you have a deadline to choose an app by Friday. Within that note, you might create bidirectional links to `[[Personal Knowledge Management]]` and `[[Productivity Systems]]`, which live in your `3-Resources` folder. 
+For example, you might be researching a new [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) app. You place the `Note-Taking App Research` note in your `1-Projects` folder because you have a deadline to choose an app by Friday. Within that note, you might create bidirectional links to `[[Personal Knowledge Management]]` and `[[Productivity Systems]]`, which live in your `3-Resources` folder. 
 
 The folder structure tells you what to work on today. The links provide the deep, lateral context when you are exploring ideas.
 
@@ -122,7 +122,7 @@ Applying the PARA method to an Obsidian vault is straightforward in theory, but 
 ### Over-complicating the Area and Resource Distinction
 Users frequently struggle to distinguish between Areas and Resources. Remember: Areas have consequences if you ignore them; Resources do not. 
 
-If you ignore your `Finances` folder (an Area), your life suffers. If you ignore your `Typography Inspiration` folder (a Resource), nothing bad happens. If you catch yourself agonizing over where a folder belongs, default to Resources.
+If you ignore your `Finances` folder (an Area), your life suffers. If you ignore your `Typography Inspiration` folder (a Resource), nothing bad happens. If you catch yourself agonizing over where a folder belongs, [default](/posts/things-theme-vs-minimal-theme-obsidian/) to Resources.
 
 ### The "Too Many Folders" Trap
 Do not create empty folders in anticipation of future needs. Only create a Project, Area, or Resource folder when you have a note that requires it. Obsidian works best when the structure emerges organically from the content you actually produce, rather than forcing content into a rigid, pre-defined template.

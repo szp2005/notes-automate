@@ -12,7 +12,7 @@ type: "informational"
 
 > **Quick Answer:** The Raindrop IO integration for Obsidian bookmark management is best achieved using the community "Raindrop Highlights" plugin. It uses the Raindrop API to automatically pull saved bookmarks, tags, and text highlights into Obsidian as native Markdown files, allowing you to seamlessly connect web research with your local knowledge graph.
 
-Managing web research across different applications often creates friction. You find a valuable article, save it, perhaps highlight a few paragraphs, but that knowledge remains siloed in your browser or a read-it-later application. Obsidian excels at connecting ideas, but it requires raw text. Getting your saved links and highlights out of the cloud and into your local vault is the critical bridge for effective personal knowledge management.
+Managing web research across different applications often creates friction. You find a valuable article, save it, perhaps highlight a few paragraphs, but that knowledge remains siloed in your browser or a read-it-later application. Obsidian excels at connecting ideas, but it requires raw text. Getting your saved links and highlights out of the cloud and into your local vault is the critical bridge for effective personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/).
 
 The Raindrop IO integration for Obsidian bookmark management solves this workflow disconnect. By linking Raindrop's robust capturing capabilities with Obsidian's linking and storage, you create an automated pipeline. When you highlight text on the web via the Raindrop extension, those exact highlights, along with the article's metadata, automatically populate in your Obsidian vault, formatted exactly how you want them.
 
@@ -24,7 +24,7 @@ Before installing plugins, it helps to understand how data moves between these t
 
 Obsidian acts as the synthesis layer. It relies on local Markdown files. The integration bridges these layers via the Raindrop API. A plugin installed inside Obsidian authenticates with your Raindrop account, queries your collections for new or updated bookmarks, and translates that JSON data into Markdown files using a template you define.
 
-This is a one-way sync. Changes made to the bookmark title or highlights in Raindrop will update the corresponding Markdown file in Obsidian (depending on your plugin settings). However, editing the synced Markdown file in Obsidian will not update the bookmark back in Raindrop. This architectural constraint dictates that your reading and highlighting must happen in Raindrop, while your note-taking and linking happen in Obsidian.
+This is a one-way sync. Changes made to the bookmark title or highlights in Raindrop will update the corresponding Markdown file in Obsidian (depending on your plugin settings). However, editing the synced Markdown file in Obsidian will not update the bookmark back in Raindrop. This architectural constraint dictates that your reading and highlighting must happen in Raindrop, while your [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) and linking happen in Obsidian.
 
 ## Choosing the Right Integration Plugin
 

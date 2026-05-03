@@ -395,7 +395,7 @@ Now every time you hit `Ctrl+S`, the `modified` date updates automatically — n
 
 ### Use the Graph View Strategically
 
-The Graph View isn't a productivity tool — it's a diagnostic tool. Use it monthly, not daily. What you're looking for:
+The Graph View isn't a [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) tool — it's a diagnostic tool. Use it monthly, not daily. What you're looking for:
 
 - **Isolated nodes** (orphaned notes) → these need links
 - **Hub nodes** with many connections → these are natural MOC candidates
@@ -441,7 +441,7 @@ Here's what you've built:
 
 The system only works if you use it daily, even briefly. Fifteen minutes of processing fleeting notes and adding one link to a new permanent note compounds faster than you expect. After 90 days, the graph starts talking back.
 
-**If you want to go deeper into the theory and advanced workflow design**, [this PKM and Obsidian course](URL_PLACEHOLDER_4) by an experienced knowledge management practitioner covers the full system design process — from how to write atomic notes that actually produce insights to building advanced Dataview dashboards. Worth the investment once you've got the basics running.
+**If you want to go deeper into the theory and advanced workflow design**, [this PKM and Obsidian course](URL_PLACEHOLDER_4) by an experienced [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) practitioner covers the full system design process — from how to write atomic notes that actually produce insights to building advanced Dataview [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/). Worth the investment once you've got the basics running.
 
 Now close this tab and set up the vault. The reading is the easy part.
 

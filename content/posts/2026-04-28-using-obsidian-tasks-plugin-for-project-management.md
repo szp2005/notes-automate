@@ -18,8 +18,8 @@ tags: ["manage", "projects", "obsidian", "power"]
 ## TL;DR
 
 - The Obsidian Tasks plugin lets you capture, filter, and query tasks stored anywhere in your vault — turning plain markdown checkboxes into a full project management system without leaving your notes.
-- Combining Tasks with Dataview gives you dynamic dashboards that show overdue work, completion percentages, and priority views — all auto-updating and linked to your actual project notes.
-- This guide includes a copy-pasteable vault template structure, a "cookbook" of ready-to-use queries, and a PARA-based workflow you can implement today.
+- Combining Tasks with Dataview gives you dynamic [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) that show overdue work, completion percentages, and priority views — all auto-updating and linked to your actual project notes.
+- This guide includes a copy-pasteable vault template structure, a "cookbook" of ready-to-use queries, and a PARA-based [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) you can implement today.
 
 ---
 
@@ -490,7 +490,7 @@ The vault template structure — `Projects/`, `Areas/`, `Dashboard/`, `Daily Not
 
 For those who prefer to learn through video and want to go deeper into advanced DataviewJS dashboards, custom themes, and Obsidian automation workflows, [structured courses on platforms like Skillshare or Udemy](URL_PLACEHOLDER_5) offer step-by-step instruction with real vault walkthroughs. These courses compress months of trial-and-error into a few hours of focused learning.
 
-And if you are serious about the PARA method that underpins the workflow in this guide, [*Building a Second Brain* by Tiago Forte](URL_PLACEHOLDER_2) is the book to read. It is not an Obsidian book, but it is the clearest explanation of why project management and knowledge management belong in the same system — which is exactly what this setup delivers.
+And if you are serious about the PARA method that underpins the workflow in this guide, [*Building a Second Brain* by Tiago Forte](URL_PLACEHOLDER_2) is the book to read. It is not an Obsidian book, but it is the clearest explanation of why project management and [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) belong in the same system — which is exactly what this setup delivers.
 
 Your notes and your tasks should live together. Now they can.
 

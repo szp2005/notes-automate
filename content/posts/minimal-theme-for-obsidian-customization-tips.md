@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** The most effective way to customize the Minimal theme in Obsidian is by installing the companion "Minimal Theme Settings" and "Style Settings" community plugins. These allow you to adjust typography, toggle interface clutter, and switch color schemes (like Nord or Gruvbox) without writing code. For granular control, use Obsidian's CSS snippets feature to override specific design elements like callouts and headers.
 
-The default Obsidian interface is highly functional, but out of the box, it can feel visually dense. For users who rely on Obsidian as a daily driver for personal knowledge management, writing, or task tracking, visual clutter creates cognitive friction. Enter the Minimal theme. Developed by Kepano (the CEO of Obsidian), Minimal is the most downloaded theme in the Obsidian ecosystem. It is designed to strip away unnecessary UI elements, allowing your content to take center stage. 
+The default Obsidian interface is highly functional, but out of the box, it can feel visually dense. For users who rely on Obsidian as a daily driver for personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/), writing, or task tracking, visual clutter creates cognitive friction. Enter the Minimal theme. Developed by Kepano (the CEO of Obsidian), Minimal is the most downloaded theme in the Obsidian ecosystem. It is designed to strip away unnecessary UI elements, allowing your content to take center stage. 
 
 However, "minimal" does not mean rigid. The true power of the Minimal theme lies in its underlying flexibility. While it looks exceptionally clean upon installation, it functions as a highly modular design system. By leveraging specific plugins and configuration strategies, you can tune the theme to match your exact reading preferences, hardware setup, and aesthetic tastes. 
 
@@ -30,7 +30,7 @@ To begin, ensure you have the Minimal theme active via **Settings > Appearance >
 1. **Minimal Theme Settings:** This is a purpose-built plugin designed specifically for the Minimal theme. It provides toggles for the most common layout adjustments, font selections, and color scheme presets. 
 2. **Style Settings:** This is a broader, theme-agnostic plugin that hooks into variables provided by theme developers. Kepano has integrated hundreds of configurable variables into Minimal that only become visible once Style Settings is installed.
 
-Enable both plugins. Your customization workflow will now operate on two tiers: Minimal Theme Settings for broad, vault-wide adjustments, and Style Settings for precise, granular control over individual elements.
+Enable both plugins. Your customization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) will now operate on two tiers: Minimal Theme Settings for broad, vault-wide adjustments, and Style Settings for precise, granular control over individual elements.
 
 ## Core Typography and Spacing Tweaks
 

@@ -11,13 +11,13 @@ type: "informational"
 
 # Obsidian Plugins for Habit Tracking 2026: Complete Setup Guide
 
-> **Quick Answer:** The best Obsidian plugins for habit tracking in 2026 are Dataview (for querying daily note metadata), Tracker (for building progress charts), Heatmap Calendar (for GitHub-style commit grids), and Templater (for automating daily layouts). For a seamless setup, integrate these with your core Daily Notes to extract habit data automatically into centralized, offline-first dashboards.
+> **Quick Answer:** The best Obsidian plugins for habit tracking in 2026 are Dataview (for querying daily note metadata), Tracker (for building progress charts), Heatmap Calendar (for GitHub-style commit grids), and Templater (for automating daily layouts). For a seamless setup, integrate these with your core Daily Notes to extract habit data automatically into centralized, offline-first [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/).
 
 Managing personal knowledge and personal habits in two separate systems often creates friction that leads to eventual abandonment. When your notes, tasks, and reflections live in one application while your habit streaks live in a specialized mobile app, you split your attention. This context switching reduces the likelihood of maintaining long-term routines.
 
-As personal knowledge management (PKM) systems evolve, users are pulling more of their daily operational data into local, offline-first environments. The native Properties interface in Obsidian has made managing structured data incredibly accessible, transforming what used to require writing raw YAML syntax into a user-friendly, database-like experience. 
+As personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) systems evolve, users are pulling more of their daily operational data into local, offline-first environments. The native Properties interface in Obsidian has made managing structured data incredibly accessible, transforming what used to require writing raw YAML syntax into a user-friendly, database-like experience. 
 
-The challenge for users building their workspaces in 2026 isn't finding a standalone habit tracker; it is identifying the right combination of community plugins that respect local data privacy while seamlessly integrating with an existing journaling or daily note workflow. Building a resilient tracking system requires tools that parse your daily inputs and output visual, actionable feedback without requiring manual data entry across multiple dashboards.
+The challenge for users building their workspaces in 2026 isn't finding a standalone habit tracker; it is identifying the right combination of community plugins that respect local data privacy while seamlessly integrating with an existing journaling or daily note [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). Building a resilient tracking system requires tools that parse your daily inputs and output visual, actionable feedback without requiring manual data entry across multiple dashboards.
 
 ## 1. Dataview: The Core Data Engine
 

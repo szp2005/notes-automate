@@ -17,9 +17,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Managing a tabletop RPG campaign quickly becomes a sprawling logistical challenge. Between tracking the sociopolitical landscape of a homebrew continent, remembering the voice of a minor tavern keeper introduced twelve sessions ago, and balancing upcoming combat encounters, Game Masters (GMs) frequently outgrow standard word processors and physical binders. The cognitive load required to recall these interconnected details mid-session often leads to pacing issues and continuity errors.
 
-Obsidian has emerged as the premier knowledge management tool for GMs precisely because it mirrors how world building naturally occurs: non-linearly. Unlike rigid folder hierarchies, Obsidian’s bidirectional linking allows you to connect an NPC’s page directly to their hometown, the faction they represent, and the session note where the players first met them. 
+Obsidian has emerged as the premier [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) tool for GMs precisely because it mirrors how world building naturally occurs: non-linearly. Unlike rigid folder hierarchies, Obsidian’s bidirectional linking allows you to connect an NPC’s page directly to their hometown, the faction they represent, and the session note where the players first met them. 
 
-This guide breaks down exactly how to architect your Obsidian vault for campaign management, detailing the structural frameworks, practical workflows, and the specific ecosystem of plugins that turn a simple note-taking app into a comprehensive world-building engine.
+This guide breaks down exactly how to architect your Obsidian vault for campaign management, detailing the structural frameworks, practical workflows, and the specific ecosystem of plugins that turn a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) app into a comprehensive world-building engine.
 
 ## The Core Mechanics of Obsidian for Game Masters
 

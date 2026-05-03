@@ -35,7 +35,7 @@ tags: ["obsidian", "minimal", "theme", "overview"]
 
 ## What is the Obsidian Minimal Theme? {#overview}
 
-Obsidian ships with a perfectly functional default theme. It works. But "works" and "gets out of your way" are different things. After an hour of writing in the default interface, you start noticing the padding feels off, the sidebar competes for attention, and the note canvas never quite feels like a writing environment.
+Obsidian ships with a perfectly functional [default](/posts/things-theme-vs-minimal-theme-obsidian/) theme. It works. But "works" and "gets out of your way" are different things. After an hour of writing in the default interface, you start noticing the padding feels off, the sidebar competes for attention, and the note canvas never quite feels like a writing environment.
 
 Themes change that. Obsidian's community has published hundreds of them, ranging from brutalist dark-mode setups to pastel "cottagecore" designs. Among all of them, [Minimal](URL_PLACEHOLDER_2) — created by Stephan Ango, better known as **kepano**, who is also the current CEO of Obsidian — has become the closest thing to a community consensus on what a clean, serious interface looks like.
 
@@ -83,7 +83,7 @@ None of this requires CSS knowledge. It's point-and-click configuration.
 
 ### Focus Mode
 
-Triggering focus mode via the command palette removes every sidebar and centers your content at a comfortable reading width. Combined with Obsidian's full-screen mode, this is as close to a distraction-free writing environment as you'll get inside a tool that is also a full knowledge management system.
+Triggering focus mode via the command palette removes every sidebar and centers your content at a comfortable reading width. Combined with Obsidian's full-screen mode, this is as close to a distraction-free writing environment as you'll get inside a tool that is also a full [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system.
 
 ---
 
@@ -187,7 +187,7 @@ If you're running Obsidian on an older machine or a budget Android tablet, Minim
 
 The half-point deduction is honest: Minimal asks more of you than a theme like AnuPpuccin in the initial setup phase. If you install it and do nothing else, it looks clean but generic. Once you spend 30 minutes with Style Settings and the companion plugin, it becomes one of the most purposeful interfaces you'll use daily.
 
-For writers, researchers, and PKM builders who spend real time inside their vaults, this is the theme to start with and the hardest one to leave.
+For writers, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and PKM builders who spend real time inside their vaults, this is the theme to start with and the hardest one to leave.
 
 [Download Minimal directly inside Obsidian](URL_PLACEHOLDER_9) via Settings → Community Themes → search "Minimal." Then install the Minimal Theme Settings plugin and Style Settings plugin from Community Plugins. Your vault will look and feel different by the end of the hour — in exactly the right direction.
 

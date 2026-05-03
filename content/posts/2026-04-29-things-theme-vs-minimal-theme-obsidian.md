@@ -19,7 +19,7 @@ tags: ["introduction", "beyond", "default", "choosing"]
 
 - **Things theme** is an opinionated, GTD-ready skin inspired by the Things 3 app — install it and your vault looks polished in five minutes, no tinkering required.
 - **Minimal theme** is a near-blank canvas with deep Style Settings integration — ideal if you want granular control over typography, color, and layout.
-- **Neither is universally better**: your workflow, not aesthetics, should drive the decision.
+- **Neither is universally better**: your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/), not aesthetics, should drive the decision.
 
 ---
 
@@ -124,7 +124,7 @@ Minimal ships with a set of **CSS helper classes** you add directly to note prop
 - `cssclasses: image-grid` → tiles embedded images into a gallery layout
 - `cssclasses: column-list` → splits note content into newspaper-style columns
 
-These classes make individual notes look categorically different from one another — a feature with real workflow implications for dashboards, MOCs, and reference libraries.
+These classes make individual notes look categorically different from one another — a feature with real workflow implications for [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/), MOCs, and reference libraries.
 
 ---
 

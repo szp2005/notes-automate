@@ -47,11 +47,11 @@ Here's what the core plugin cannot do:
 - Fetch external data—quotes, weather, tasks
 - Execute any logic whatsoever
 
-**Templater** ([install from community plugins](URL_PLACEHOLDER_1)) fills every one of those gaps. It exposes a full scripting environment based on JavaScript that runs at the moment a new file is created—or when you explicitly invoke it. The result is what the documentation calls *dynamic commands*: placeholders that evaluate to real content rather than hardcoded strings.
+**Templater** ([install from community plugins](URL_PLACEHOLDER_1)) fills every one of those gaps. It exposes a full scripting environment based on JavaScript that runs at the moment a new file is created—or when you explicitly invoke it. The result is what the [documentation](/posts/how-to-use-obsidian-for-software-engineering-documentation/) calls *dynamic commands*: placeholders that evaluate to real content rather than hardcoded strings.
 
 In practical terms, a Templater daily note can:
 
-- Auto-insert the correctly formatted date and link it to the right weekly review note
+- Auto-insert the correctly formatted date and link it to the right [weekly review](/posts/obsidian-template-for-weekly-reflection-and-planning/) note
 - Pull today's tasks from across your vault using a Dataview query
 - Greet you with a random Stoic quote fetched from a public API
 - Ask you what your one priority is for the day and embed your answer inline
@@ -367,7 +367,7 @@ The core Templates plugin is a sticky note. Templater is a document assembly sys
 
 Start with the beginner template, get comfortable with `tp.date.now()` and `tp.file.title`, then drop in the advanced dashboard. Once that's running, spend an afternoon writing a User Function and you'll have live weather or a daily Stoic quote appearing without lifting a finger.
 
-The productivity systems taught in courses like [Building a Second Brain](URL_PLACEHOLDER_10) treat the daily note as the atomic unit of your knowledge practice. Templater ensures that unit is consistent, rich, and automated from day one—so you spend your cognitive budget on thinking, not formatting.
+The [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) systems taught in courses like [Building a Second Brain](URL_PLACEHOLDER_10) treat the daily note as the atomic unit of your knowledge practice. Templater ensures that unit is consistent, rich, and automated from day one—so you spend your cognitive budget on thinking, not formatting.
 
 **Ready to put this into practice?**
 - [Install Templater](URL_PLACEHOLDER_1) and follow Step 1 right now—it takes under 5 minutes.

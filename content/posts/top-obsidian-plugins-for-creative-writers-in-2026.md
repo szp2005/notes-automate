@@ -13,11 +13,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Top Obsidian Plugins for Creative Writers in 2026
 
-> **Quick Answer:** The top Obsidian plugins for creative writers in 2026 include Longform for compiling manuscript drafts, Novel Word Count for tracking daily progress, and Dataview for dynamic world-building and character wikis. Together, these tools transform Obsidian from a simple note-taking app into a powerful, distraction-free writing environment capable of handling complex novel structures.
+> **Quick Answer:** The top Obsidian plugins for creative writers in 2026 include Longform for compiling manuscript drafts, Novel Word Count for tracking daily progress, and Dataview for dynamic world-building and character wikis. Together, these tools transform Obsidian from a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) app into a powerful, distraction-free writing environment capable of handling complex novel structures.
 
 Creative writing requires a delicate balance between unhindered imagination and rigorous organization. Standard word processors often force you into linear drafting, while dedicated writing software like Scrivener can feel bloated or restrictive. Obsidian has emerged as a favorite among novelists, screenwriters, and world-builders because it offers a blank canvas built on local, future-proof Markdown files. 
 
-However, out of the box, Obsidian is essentially a personal knowledge management tool. To unlock its potential for storytelling, you need the right extensions. The community ecosystem has matured significantly, and in 2026, the available tools for plotting, drafting, and revising are more sophisticated than ever. 
+However, out of the box, Obsidian is essentially a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) tool. To unlock its potential for storytelling, you need the right extensions. The community ecosystem has matured significantly, and in 2026, the available tools for plotting, drafting, and revising are more sophisticated than ever. 
 
 Whether you are pantser trying to keep track of a burgeoning cast of characters or a plotter meticulously outlining a three-act structure, building a customized environment is crucial. This review covers the essential plugins that provide the necessary architecture for long-form creative writing without getting in the way of your prose.
 

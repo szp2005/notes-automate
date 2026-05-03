@@ -15,13 +15,13 @@ type: "informational"
 
 The modern knowledge worker consumes a staggering amount of information daily—articles, books, podcasts, and newsletters. Yet, without a reliable system to capture and connect this information, most of those insights evaporate within hours. The concept of a "Second Brain," popularized by Tiago Forte, offers a framework for externalizing your memory. However, the software you choose dictates the friction of maintaining that framework. 
 
-Many note-taking ecosystems trap your data in proprietary formats or require manual data entry that quickly becomes unsustainable. The combination of Obsidian and Readwise solves both the data sovereignty problem and the capture friction problem. Obsidian provides a future-proof, local-first markdown environment for thinking and linking, while Readwise acts as the universal aggregator, pulling highlights from almost any reading platform automatically.
+Many [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) ecosystems trap your data in proprietary formats or require manual data entry that quickly becomes unsustainable. The combination of Obsidian and Readwise solves both the data sovereignty problem and the capture friction problem. Obsidian provides a future-proof, local-first markdown environment for thinking and linking, while Readwise acts as the universal aggregator, pulling highlights from almost any reading platform automatically.
 
 This comprehensive guide breaks down exactly how to architect this system. We will cover the mechanics of connecting the two tools, the structural design of your Obsidian vault to handle incoming highlights, and the daily workflows required to turn passive consumption into active knowledge creation.
 
 ## The Architecture of a Frictionless Knowledge System
 
-To understand why this specific software pairing works so effectively, it helps to look at the different stages of the knowledge management pipeline: Capture, Organize, Distill, and Express (CODE). 
+To understand why this specific software pairing works so effectively, it helps to look at the different stages of the [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) pipeline: Capture, Organize, Distill, and Express (CODE). 
 
 ### Readwise as the Universal Capture Engine
 
@@ -122,7 +122,7 @@ Keep your folder hierarchy extremely shallow. A complex nested folder structure 
 - `04_Sources` (Other non-Readwise reference materials)
 
 **The Tradeoff of Automation:**
-The primary tradeoff of the Readwise to Obsidian pipeline is the illusion of productivity. Because the capture is entirely automated, it feels like you are doing work just by reading. You are not. Automated capture is a prerequisite for a second brain, not the entirety of it. You must enforce strict discipline regarding the "Distill" and "Express" phases of the CODE framework. If you find yourself with 500 unprocessed source files, pause your reading and focus on distillation.
+The primary tradeoff of the Readwise to Obsidian pipeline is the illusion of [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/). Because the capture is entirely automated, it feels like you are doing work just by reading. You are not. Automated capture is a prerequisite for a second brain, not the entirety of it. You must enforce strict discipline regarding the "Distill" and "Express" phases of the CODE framework. If you find yourself with 500 unprocessed source files, pause your reading and focus on distillation.
 
 **Handling Updates:**
 When you add new highlights to a book you are currently reading, Readwise will update the existing file in Obsidian. Ensure your template is set to "Append new highlights" rather than overwriting the entire file, otherwise any manual notes or formatting you added to that file in Obsidian will be destroyed upon syncing.

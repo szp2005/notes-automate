@@ -50,7 +50,7 @@ Think of it as a lightweight Airtable living inside your vault. Every note becom
 | Query flexibility | Limited to filters | Extremely high |
 | Inline editing of frontmatter | ✅ Yes | ❌ Read-only |
 | Learning curve | 15 minutes | Several hours |
-| Best for | Visual project dashboards | Complex, cross-vault queries |
+| Best for | Visual project [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) | Complex, cross-vault queries |
 
 The verdict: they are not competitors, they are complements. Use Projects for your active workflow views. Use Dataview for cross-vault reporting and aggregation.
 
@@ -104,7 +104,7 @@ The Table view is your default database interface. Each row is a note. Each colu
 - Use the **Filter** button to narrow rows by field value (e.g., show only notes where `status = "draft"`).
 - Use the **+** button in the column header area to add new fields — this writes a new frontmatter key to every note in the project.
 
-For content creators and researchers, Table view alone replaces a Notion database for most daily tracking needs.
+For content creators and [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), Table view alone replaces a Notion database for most daily tracking needs.
 
 ### Board View (Kanban)
 
@@ -297,7 +297,7 @@ If your Projects folder contains more than 500 notes, switch to a Dataview query
 
 The Projects plugin earns its place in any intermediate-to-advanced Obsidian vault. It solves the specific problem of visual, editable project tracking without requiring you to become a query language expert.
 
-> 📘 **Want to go deeper?** If this plugin has sparked an interest in building a complete personal knowledge management system — not just project tracking but the whole thinking infrastructure — [Nick Milo's Linking Your Thinking course](URL_PLACEHOLDER_8) is the most structured and practical path I have seen for Obsidian users who want to invest in that seriously.
+> 📘 **Want to go deeper?** If this plugin has sparked an interest in building a complete personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system — not just project tracking but the whole thinking infrastructure — [Nick Milo's Linking Your Thinking course](URL_PLACEHOLDER_8) is the most structured and practical path I have seen for Obsidian users who want to invest in that seriously.
 
 ---
 
