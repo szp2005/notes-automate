@@ -211,7 +211,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://notes-automate.com/posts/advanced-obsidian-templates-for-literature-review-matrix/</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://notes-automate.com/posts/applying-the-para-method-to-an-obsidian-vault/</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/automate-obsidian-with-n8n-and-webhooks/</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -224,6 +236,12 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/automating-your-task-management-with-obsidian-tasks-plugin/</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/best-apple-shortcuts-for-obsidian-power-users/</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -242,6 +260,12 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-obsidian-community-plugins-for-recipe-management/</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/best-obsidian-plugins-for-academic-researchers-2026/</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -308,6 +332,12 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/configuring-obsidian-for-end-to-end-encrypted-sync/</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/connecting-obsidian-to-external-api-with-python/</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -487,6 +517,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://notes-automate.com/posts/managing-a-ph-d-thesis-in-obsidian/</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://notes-automate.com/posts/managing-large-pdf-libraries-within-an-obsidian-vault/</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -494,6 +530,12 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/minimal-theme-for-obsidian-customization-tips/</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/n8n-obsidian-integration-for-automated-web-capture/</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -553,6 +595,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://notes-automate.com/posts/obsidian-vs-devonthink-for-large-research-archives/</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://notes-automate.com/posts/obsidian-vs-heptabase-for-visual-research-workflows/</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -583,6 +631,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://notes-automate.com/posts/obsidian-workflow-for-scientific-research-papers/</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://notes-automate.com/posts/omnisearch-plugin-for-obsidian-fuzzy-search/</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -590,6 +644,12 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/python-scripts-for-bulk-processing-obsidian-markdown-files/</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/python-scripts-for-obsidian-api-integration/</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
