@@ -11,6 +11,8 @@ type: "informational"
 tags: ["manage", "projects", "obsidian", "power"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Using the Obsidian Tasks Plugin for Project Management: A Complete Step-by-Step Guide
 
 ---
@@ -100,7 +102,7 @@ Every piece of metadata in a Tasks-formatted task is carried by a specific emoji
 
 ### Priority Markers
 
-| Emoji | Meaning |
+[| Emoji | Meaning |
 |-------|---------|
 | 🔺 | Urgent |
 | ⏫ | High |
@@ -139,7 +141,7 @@ A task query is a code block with the language set to `tasks`. Inside it, you wr
 
 ### Minimum Viable Query
 
-````markdown
+[````markdown
 ```tasks
 not done
 ```
@@ -174,7 +176,7 @@ The `heading includes` filter is powerful. Put a `## Action Items` heading in ev
 
 ### Grouping for Clarity
 
-````markdown
+[````markdown
 ```tasks
 not done
 due before in two weeks
@@ -313,10 +315,10 @@ tags: [project-apollo]
 # Project Apollo
 
 ## Goal
-{{ goal }}
+[{{ goal }}
 
 ## Action Items
-```tasks
+[```tasks
 not done
 path includes Projects/Project-Apollo
 sort by due date
@@ -324,7 +326,7 @@ group by heading
 ```
 
 ## Completed
-```tasks
+[```tasks
 done
 path includes Projects/Project-Apollo
 sort by done date reverse
@@ -337,7 +339,7 @@ When you create a new task anywhere inside the `Projects/Project-Apollo/` folder
 
 Area notes use tag-based queries to pull tasks from anywhere in the vault:
 
-````markdown
+[````markdown
 ```tasks
 not done
 tags include #area-operations
@@ -358,7 +360,7 @@ When a project completes, change `status: active` to `status: archived` in the f
 
 ### This Week's Priorities
 
-````markdown
+[````markdown
 ```tasks
 not done
 due this week
@@ -371,7 +373,7 @@ group by project
 
 ### Overdue Tasks by Project
 
-````markdown
+[````markdown
 ```tasks
 not done
 due before today
@@ -397,7 +399,7 @@ Tag high-stakes deliverables with `#milestone` to separate them from routine wor
 
 ### Waiting-For List
 
-````markdown
+[````markdown
 ```tasks
 not done
 tags include #waiting-for
@@ -410,7 +412,7 @@ Use `#waiting-for` on any task that is blocked on someone else. This is your fol
 
 ### Weekly Review Checklist
 
-````markdown
+[````markdown
 ```tasks
 not done
 scheduled this week
@@ -451,7 +453,7 @@ Install the Calendar plugin and enable it. It integrates with Tasks to show a do
 
 ### Common Pitfalls
 
-**Queries returning nothing:** Check that your Global Task Filter tag matches the tag on your tasks. If the filter is `#task` but your tasks use `#todo`, nothing appears. Also check that you did not accidentally add a space before the emoji — `- [ ] Task  📅 2025-08-15` (double space) can break parsing.
+[**Queries returning nothing:** Check that your Global Task Filter tag matches the tag on your tasks. If the filter is `#task` but your tasks use `#todo`, nothing appears. Also check that you did not accidentally add a space before the emoji — `-  ] Task  📅 2025-08-15` (double space) can break parsing.
 
 **Recurring tasks duplicating incorrectly:** Recurring tasks work by completing the current instance and generating a new one. If you edit the raw markdown of a completed recurring task, the plugin may lose the chain. Always complete recurring tasks by clicking the checkbox, not by changing `[ ]` to `[x]` manually.
 

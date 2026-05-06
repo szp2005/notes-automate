@@ -11,6 +11,8 @@ type: "informational"
 tags: ["use", "community", "plugins", "obsidian"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # How to Install Community Plugins in Obsidian Mobile (iOS & Android)
 
 **TL;DR**
@@ -196,6 +198,8 @@ Restricted Mode blocks all community plugins. Once you turn it off, it stays off
 iOS and Android use different rendering engines and file system permissions. Some plugins use APIs that behave differently on each platform. Check the plugin's GitHub issues for platform-specific bug reports, and test on both devices before relying on a plugin in your core workflow.
 
 ## Related Reading
+
+- [What Are Obsidian Community Plugins?](/posts/obsidian-community-plugins-list/)
 
 - [What Are Obsidian Community Plugins?](/posts/obsidian-community-plugins-list/)
 - [What is Excalidraw and Why Use It in Obsidian?](/posts/excalidraw-plugin-for-obsidian-review/)

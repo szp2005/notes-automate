@@ -265,3 +265,11 @@ Yes. Obsidian constantly monitors the file system for changes. If a Python scrip
 
 ### What should I do if a script accidentally deletes content?
 Immediately stop the script. Do not close Obsidian. Restore your entire vault directory from the backup you created before running the script, or use `git checkout .` if your vault is version-controlled. Review the script's logic, specifically the `open(..., 'w')` write commands, to identify the flaw before trying again.
+
+---
+
+## Related Reading
+
+- [n8n Obsidian Integration for Automated Web Capture: Complete Guide](/posts/n8n-obsidian-integration-for-automated-web-capture/)
+
+- [n8n Obsidian Integration for Automated Web Capture: Complete Guide](/posts/n8n-obsidian-integration-for-automated-web-capture/)

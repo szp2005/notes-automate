@@ -1,6 +1,6 @@
 ---
 image: "/og/what-is-the-obsidian-canvas-plugin.webp"
-title: "What is Obsidian Canvas? The Infinite Whiteboard in Your Vault"
+title: "Obsidian Canvas Plugin Guide: Infinite Visual Whiteboard"
 author: "Alex Chen"
 date: 2026-04-29
 slug: what-is-the-obsidian-canvas-plugin
@@ -10,6 +10,8 @@ draft: false
 type: "informational"
 tags: ["obsidian", "canvas", "infinite", "whiteboard"]
 ---
+
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
 # What Is the Obsidian Canvas Plugin? A Practical Guide for Visual Thinkers
 
@@ -226,6 +228,8 @@ Graph view is auto-generated based on your existing links — you can't manually
 Use Canvas when your primary need is surfacing and connecting existing vault notes visually. Use Excalidraw when you need freehand drawing, custom shapes, or presentation-quality diagrams. They solve different problems and both can coexist in the same vault without conflict.
 
 ## Related Reading
+
+- [Obsidian Canvas vs. Excalidraw: Which Visual Tool Wins?](/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/)
 
 - [Why Turn Your Obsidian Vault into a Public Blog?](/posts/how-to-publish-obsidian-notes-to-a-blog/)
 - [Obsidian Canvas vs. Excalidraw: Which Visual Tool Wins?](/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/)

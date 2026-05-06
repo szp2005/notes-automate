@@ -1,4 +1,5 @@
 ---
+image: "/og/python-scripts-for-obsidian-api-integration.webp"
 title: "Python Scripts for Obsidian API Integration: Complete Guide"
 description: "Unlock the full potential of your personal knowledge management with Python scripts for Obsidian API integration. Automate workflows and sync data effortlessly."
 pubDate: "2026-05-05"
@@ -38,14 +39,14 @@ Because the API allows full read and write access to your vault, security is par
 
 Before writing any Python code, you must configure both your Obsidian vault and your Python environment.
 
-### 1. [Configure Obsidian](https://www.amazon.com/s?k=Configure%20Obsidian&tag=notesautomate-20)
+### 1. Configure Obsidian
 1. Open Obsidian and navigate to **Settings** > **Community Plugins**.
 2. Turn off "Safe Mode" if you haven't already.
 3. Click **Browse** and search for "Local REST API".
 4. Install and enable the plugin by CoddingtonBear.
 5. In the plugin settings, note your API key and the base URI (usually `https://127.0.0.1:27124`).
 
-### 2. [Configure Python](https://www.amazon.com/s?k=Configure%20Python&tag=notesautomate-20)
+### 2. Configure Python
 You need a modern Python environment (Python 3.8+) and the `requests` library to handle HTTP communication.
 
 Install the required library using pip:
@@ -53,7 +54,7 @@ Install the required library using pip:
 
 *Note: Because the Local REST API uses a self-signed certificate, `requests` will throw a warning by default. We will use `urllib3` to suppress this warning in our scripts to keep the console output clean.*
 
-### 3. [Basic Authentication Wrapper](https://www.amazon.com/s?k=Basic%20Authentication%20Wrapper&tag=notesautomate-20)
+### 3. Basic Authentication Wrapper
 
 Create a foundational Python script to handle authentication and connection testing. This wrapper will be used in all subsequent operations.
 
@@ -285,3 +286,15 @@ Yes. Because the Local REST API modifies the files directly within the vault con
 
 ### How do I handle file paths with spaces in my Python requests?
 When sending requests to the `/vault/` endpoint, you must URL-encode the file path. In Python, you can use `urllib.parse.quote(filepath)` to safely convert spaces and special characters into a format the REST API can process.
+
+---
+
+## Related Reading
+
+- [Connecting Obsidian to External APIs with Python: Complete Guide](/posts/connecting-obsidian-to-external-api-with-python/)
+
+- [Connecting Obsidian to External APIs with Python: Complete Guide](/posts/connecting-obsidian-to-external-api-with-python/)
+
+- [Best Obsidian Plugins for Students: Your Academic Edge](/posts/what-are-the-best-obsidian-plugins-for-students/)
+
+- [Obsidian Habit Tracking: Best Plugins for 2024](/posts/best-obsidian-plugins-for-habit-tracking-2024/)

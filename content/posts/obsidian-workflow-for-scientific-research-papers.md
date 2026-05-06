@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-workflow-for-scientific-research-papers.webp"
 title: "Obsidian Workflow for Scientific Research Papers: Complete Guide"
 description: "Master an efficient Obsidian workflow for scientific research papers. Learn to ingest literature, extract annotations, and synthesize ideas for publication."
 pubDate: "2026-05-05"
@@ -125,3 +126,11 @@ Because Obsidian vaults are standard local folders, you can use any backup syste
 
 ### Is Obsidian suitable for collaborative scientific writing?
 Obsidian is fundamentally designed as a personal knowledge management tool. Real-time, multi-user collaboration on a single vault is highly complex and prone to sync conflicts. For collaborative scientific writing, it is best to use Obsidian for your individual research, outlining, and initial drafting, then transition to Google Docs, Overleaf, or Word when it is time to co-author with colleagues.
+
+---
+
+## Related Reading
+
+- [Obsidian Zettelkasten Setup: Best Plugins and Workflow Guide](/posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/)
+
+- [Obsidian Zettelkasten Setup: Best Plugins and Workflow Guide](/posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/)

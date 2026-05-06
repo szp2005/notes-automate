@@ -256,3 +256,13 @@ Yes, but you cannot use the `--callout-icon` variable for this. To use an emoji,
 
 ### How do I make my custom callout foldable by default?
 You do not need CSS to make a callout foldable. You handle this directly in the Markdown syntax. Add a minus sign `-` immediately after the callout name to render it collapsed by default: `> [!custom-name]- Title`. Use a plus sign `+` to render it expanded but foldable: `> [!custom-name]+ Title`.
+
+---
+
+## Related Reading
+
+- [Top 7 Obsidian CSS Snippets for a Clean Minimalist Look in 2026](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/)
+
+- [Top 7 Obsidian CSS Snippets for a Clean Minimalist Look in 2026](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/)
+
+- [What Are Obsidian Callouts (And Why They Are a Game-Changer)](/posts/how-to-use-callouts-in-obsidian-for-better-notes/)

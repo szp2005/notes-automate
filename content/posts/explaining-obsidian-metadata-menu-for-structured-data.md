@@ -111,19 +111,19 @@ You can create a setup where you multiply a `Time_Estimate_Hours` field by an `H
 
 Transitioning to a highly structured vault can be overwhelming. To avoid metadata fatigue, follow these concrete architectural recommendations.
 
-### 1. [Embrace Minimum Viable Metadata](https://www.amazon.com/s?k=Embrace%20Minimum%20Viable%20Metadata&tag=notesautomate-20)
+### 1. Embrace Minimum Viable Metadata
 The most common mistake new users make is creating 15-20 fields for every single note type. This leads to massive data entry friction. Only track fields that you actively intend to use in a Dataview query or a dashboard. If you never filter your reading list by the book's publisher, do not create a publisher field. Keep your schemas lean and purposeful.
 
-### 2. [Standardize Naming Conventions](https://www.amazon.com/s?k=Standardize%20Naming%20Conventions&tag=notesautomate-20)
+### 2. Standardize Naming Conventions
 Use strict, developer-style naming conventions for your fields. Use camelCase (e.g., `publishDate`, `authorName`) or snake_case (e.g., `publish_date`, `author_name`). Avoid using spaces in your field names (like `Publish Date`). While Obsidian's native properties handle spaces decently, complex Dataview queries and inline scripts strongly prefer continuous strings.
 
-### 3. [Automate Class Assignment](https://www.amazon.com/s?k=Automate%20Class%20Assignment&tag=notesautomate-20)
+### 3. Automate Class Assignment
 Use the Templater plugin in conjunction with Metadata Menu to remove setup friction. When you trigger a `New Book` template, configure Templater to automatically inject the `Book` File Class designation into the new file's frontmatter. The moment the file is created, the Metadata Menu interface becomes immediately available for that specific schema.
 
-### 4. [Implement Dimensional Constraints](https://www.amazon.com/s?k=Implement%20Dimensional%20Constraints&tag=notesautomate-20)
+### 4. Implement Dimensional Constraints
 When using the "Number" field type, utilize Metadata Menu's ability to set step counts and minimum/maximum ranges. If you use a 1-10 rating system, restrict the number field to a minimum of 1, a maximum of 10, and a step of 0.5. This prevents accidentally typing "11" or "5.33", keeping your data normalized.
 
-### 5. [Audit Schemas Regularly](https://www.amazon.com/s?k=Audit%20Schemas%20Regularly&tag=notesautomate-20)
+### 5. Audit Schemas Regularly
 Your PKM system is a living entity. Every few months, review your File Classes. If a specific "Select" option hasn't been used in 90 days, remove it. If a field is constantly left blank, delete it from the schema. Keep your dropdowns clean and your data entry process as fast as possible.
 
 ## Conclusion
@@ -148,3 +148,15 @@ Yes, Metadata Menu fully supports applying multiple File Classes to one note sim
 
 ### Will applying Metadata Menu slow down my vault?
 For the vast majority of users, the performance impact is completely negligible. However, if you possess tens of thousands of notes and heavily rely on complex Lookup and Formula fields that must recalculate across the entire vault in real-time, you may notice slight indexing delays during the initial application startup.
+
+---
+
+## Related Reading
+
+- [Obsidian for Tabletop RPG World Building: Best Setup Guide (2026)](/posts/using-obsidian-for-tabletop-rpg-world-building/)
+
+- [Obsidian for Tabletop RPG World Building: Best Setup Guide (2026)](/posts/using-obsidian-for-tabletop-rpg-world-building/)
+
+- [How to Customize Obsidian Sidebar With Commander Plugin Icons](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/)
+
+- [How to Customize Obsidian Sidebar With Commander Plugin Icons](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/)

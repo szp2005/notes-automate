@@ -1,6 +1,6 @@
 ---
 image: "/og/obsidian-full-calendar-plugin-review.webp"
-title: "What is the Obsidian Full Calendar Plugin?"
+title: "Obsidian Full Calendar Plugin Review: Complete Setup Guide"
 author: "Alex Chen"
 date: 2026-04-29
 slug: obsidian-full-calendar-plugin-review
@@ -10,6 +10,8 @@ draft: false
 type: "informational"
 tags: ["obsidian", "full", "calendar", "plugin"]
 ---
+
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
 # Obsidian Full Calendar Plugin Review: Complete Setup Guide & Workflows (2024)
 

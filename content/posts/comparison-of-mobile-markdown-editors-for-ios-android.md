@@ -38,7 +38,7 @@ While you write in raw syntax, you eventually need to share the output. Robust m
 
 For users who operate in a mixed OS environment—perhaps using an Android phone but an iPad for tablet work—cross-platform parity is essential. The following applications provide consistent experiences across operating systems.
 
-### 1. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=notesautomate-20)
+### 1. Obsidian
 
 **Best for:** Knowledge workers and PKM enthusiasts
 **Price:** Free - $48/year (Sync)
@@ -55,7 +55,7 @@ Obsidian has rapidly evolved from a desktop powerhouse into a highly capable mob
 - Steep learning curve for users new to markdown or PKM methodologies
 - Official Sync service requires a paid subscription (though third-party sync is possible)
 
-### 2. [iA Writer](https://www.amazon.com/s?k=iA%20Writer&tag=notesautomate-20)
+### 2. iA Writer
 
 **Best for:** Distraction-free writing purists
 **Price:** $49.99 (iOS) / Subscription or One-time (Android)
@@ -72,7 +72,7 @@ iA Writer remains the gold standard for minimalist text editing on mobile device
 - High upfront cost compared to standard subscription alternatives
 - Lacks advanced file organization, backlinking, or database features
 
-### 3. [JotterPad](https://www.amazon.com/s?k=JotterPad&tag=notesautomate-20)
+### 3. JotterPad
 
 **Best for:** Screenwriters and casual bloggers
 **Price:** Free - $29.99/year (Pro)
@@ -93,7 +93,7 @@ JotterPad caters specifically to creative writers, offering specialized template
 
 Sometimes the best tools are built specifically for the constraints and design languages of a single operating system. If you are deeply embedded in either Apple or Google's ecosystem, these exclusives warrant serious consideration.
 
-### 4. [Bear](https://www.amazon.com/s?k=Bear&tag=notesautomate-20)
+### 4. Bear
 
 **Best for:** iOS users wanting aesthetic note-taking
 **Price:** Free - $29.99/year (Bear Pro)
@@ -110,7 +110,7 @@ Bear is an iOS and macOS exclusive that combines the power of markdown with a st
 - Strictly limited to the Apple ecosystem (no Android or Windows support)
 - Syncing functionality and visual themes require the Bear Pro subscription
 
-### 5. [Markor](https://www.amazon.com/s?k=Markor&tag=notesautomate-20)
+### 5. Markor
 
 **Best for:** Android open-source advocates
 **Price:** Free

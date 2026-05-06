@@ -68,21 +68,21 @@ By assigning this script an alias (like `dash`) or a global hotkey within Raycas
 
 Mastering the native URI protocol allows you to build several foundational automations that will save you minutes every single day. Let us explore the mechanics of the three most important actions.
 
-### 1. [The Instant Search](https://www.amazon.com/s?k=The%20Instant%20Search&tag=notesautomate-20)
+### 1. The Instant Search
 Sometimes you know exactly what you are looking for, but you do not want to open Obsidian, click the search icon, and type your query. You can pass a search query directly through the URI.
 
 Format: `obsidian://search?vault=VaultName&query=YourSearchTerm`
 
 By creating a Raycast script that accepts a text argument, you can build a global Obsidian search bar. When you trigger the command in Raycast and type your query, the script encodes your input and passes it to Obsidian, instantly displaying the search results pane.
 
-### 2. [Rapid Note Creation](https://www.amazon.com/s?k=Rapid%20Note%20Creation&tag=notesautomate-20)
+### 2. Rapid Note Creation
 When you need to draft a new document quickly, bypassing the folder hierarchy is essential. The `new` action allows you to specify the exact path and name of the new file.
 
 Format: `obsidian://new?vault=VaultName&file=Meetings%2FClientSync&content=Agenda:`
 
 You can utilize Raycast arguments to capture the title of the note directly in the launcher, executing the URI to create the note in your designated "Inbox" or "Meetings" folder with template text already inserted.
 
-### 3. [Contextual Retrieval](https://www.amazon.com/s?k=Contextual%20Retrieval&tag=notesautomate-20)
+### 3. Contextual Retrieval
 If you manage projects in Obsidian, you likely have "hub" notes or Kanban boards. Creating a suite of Raycast commands that open specific files allows you to treat these notes as standalone applications. Instead of switching to Obsidian and finding your "Q3 Marketing Plan," you simply hit your Raycast hotkey, and the exact note appears on screen immediately.
 
 ## Supercharging Workflows with Advanced URI Plugin
@@ -175,6 +175,10 @@ Native Obsidian URIs generally require the app to surface and process the comman
 ---
 
 ## Related Reading
+
+- [How to Configure Obsidian for Automated Daily Backup to Dropbox](/posts/configuring-obsidian-for-automated-daily-backup-to-dropbox/)
+
+- [How to Configure Obsidian for Automated Daily Backup to Dropbox](/posts/configuring-obsidian-for-automated-daily-backup-to-dropbox/)
 
 - [Building a Second Brain Using Obsidian and Readwise: Complete Guide](/posts/building-a-second-brain-using-obsidian-and-readwise/)
 - [Linking Your Notes for Better Knowledge Discovery Obsidian: 5 Steps](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/)

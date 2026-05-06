@@ -33,7 +33,7 @@ Snippets act as localized overrides. They are modular pieces of CSS code that ta
 
 The following selections represent the top Obsidian CSS snippets for a clean minimalist look, categorized by the specific visual friction they eliminate.
 
-### 1. [Clean Embeds Snippet](https://www.amazon.com/s?k=Clean%20Embeds%20Snippet&tag=notesautomate-20)
+### 1. Clean Embeds Snippet
 
 **Best for:** Heavy users of block references and transclusion
 **Price:** Free
@@ -50,7 +50,7 @@ Transclusion is one of Obsidian's most powerful features, allowing you to embed 
 - Removes visual cues indicating text is sourced from elsewhere
 - Can make editing transcluded blocks slightly confusing without clicking
 
-### 2. [Faded Markdown Formatting](https://www.amazon.com/s?k=Faded%20Markdown%20Formatting&tag=notesautomate-20)
+### 2. Faded Markdown Formatting
 
 **Best for:** Writers who prefer Source Mode or Live Preview
 **Price:** Free
@@ -67,7 +67,7 @@ Markdown is designed to be unobtrusive, but seeing `**bold**`, `==highlights==`,
 - Low contrast can make troubleshooting formatting errors slightly harder
 - Requires adjustment depending on the specific contrast ratio of your base theme
 
-### 3. [Hide Workspace Scrollbars](https://www.amazon.com/s?k=Hide%20Workspace%20Scrollbars&tag=notesautomate-20)
+### 3. Hide Workspace Scrollbars
 
 **Best for:** Users with trackpads or scroll-wheel mice
 **Price:** Free
@@ -84,7 +84,7 @@ Scrollbars are a legacy UI pattern that serves little purpose when navigating vi
 - Removes at-a-glance awareness of document length
 - Can be frustrating for users who prefer clicking and dragging to scroll
 
-### 4. [Minimalist Custom Checkboxes](https://www.amazon.com/s?k=Minimalist%20Custom%20Checkboxes&tag=notesautomate-20)
+### 4. Minimalist Custom Checkboxes
 
 **Best for:** Task managers and daily planners
 **Price:** Free
@@ -101,7 +101,7 @@ Obsidian's default checkboxes are functional but visually heavy. When compiling 
 - Some snippets use complex SVG injections that may conflict with certain themes
 - Strike-through text can sometimes impede legibility on older monitors
 
-### 5. [Subtle Active Line Highlight](https://www.amazon.com/s?k=Subtle%20Active%20Line%20Highlight&tag=notesautomate-20)
+### 5. Subtle Active Line Highlight
 
 **Best for:** Editors and long-form writers
 **Price:** Free
@@ -118,7 +118,7 @@ Knowing exactly where your cursor is positioned is vital, but a harsh, solid bac
 - Can be too subtle on uncalibrated monitors
 - Sometimes requires manual hex-code adjustment to match your specific background color
 
-### 6. [Floating / Minimal Tabs](https://www.amazon.com/s?k=Floating%20/%20Minimal%20Tabs&tag=notesautomate-20)
+### 6. Floating / Minimal Tabs
 
 **Best for:** Users who heavily utilize Obsidian's tabbed interface
 **Price:** Free
@@ -135,7 +135,7 @@ When Obsidian introduced tabs, it added a significant block of UI at the top of 
 - Makes it harder to identify click targets for dragging and rearranging tabs
 - Close buttons are often hidden until hover, requiring an extra split-second to locate
 
-### 7. [Distraction-Free Typography Margins](https://www.amazon.com/s?k=Distraction-Free%20Typography%20Margins&tag=notesautomate-20)
+### 7. Distraction-Free Typography Margins
 
 **Best for:** Users working on large monitors
 **Price:** Free
@@ -184,3 +184,9 @@ Absolutely. Snippets are designed to inject rules on top of any active theme. Wh
 
 ### Is it safe to copy CSS code from community forums?
 Generally, yes. CSS is a styling language, not a scripting language. It cannot access your local files, connect to the internet, or execute malicious code. The worst a broken CSS snippet can do is make your text unreadable or hide buttons, which is instantly fixed by turning the snippet off in settings.
+
+---
+
+## Related Reading
+
+- [How to Set Up Obsidian for Deep Work Session Tracking: 5-Step Guide](/posts/setting-up-obsidian-for-deep-work-session-tracking/)

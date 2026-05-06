@@ -11,6 +11,8 @@ type: "informational"
 tags: ["daily", "notes", "need", "templater"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Obsidian Templater Plugin Tutorial for Daily Notes: The Complete Step-by-Step Guide
 
 **TL;DR**
@@ -142,7 +144,7 @@ That's the beginner template. Open today's daily note and run **Templater: Repla
 
 ## Core Templater Functions for Powerful Daily Notes {#core-functions}
 
-### The Date Module (`tp.date`)
+### The Date Module (tp.date)
 
 The date module is the most-used part of Templater for daily notes.
 
@@ -162,7 +164,7 @@ The date module is the most-used part of Templater for daily notes.
 
 The full signature is `tp.date.now(format, offset, reference, referenceFormat)`. The reference/referenceFormat pair is critical: it tells Templater to calculate the date *relative to the file title*, not relative to today. This means if you're filling in a back-dated note on a Tuesday, you still get the right dates.
 
-### Working with Files and Folders (`tp.file`)
+### Working with Files and Folders (tp.file)
 
 ```javascript
 // Link to yesterday's daily note
@@ -177,7 +179,7 @@ The full signature is `tp.date.now(format, offset, reference, referenceFormat)`.
 
 The `tp.file.move()` call is useful if your Periodic Notes plugin isn't handling folder organization. Note the `await`—any function that does I/O needs it.
 
-### Adding Dynamic Content (`tp.web`)
+### Adding Dynamic Content (tp.web)
 
 Templater has a built-in web module. The most immediately useful function:
 
@@ -192,7 +194,7 @@ Templater has a built-in web module. The most immediately useful function:
 
 Note the `<%*` opening tag—this is an *execution* block that runs code but only outputs what you explicitly add to `tR`. The `tR` variable is the template's output buffer.
 
-### Interactive Templates (`tp.system.prompt`)
+### Interactive Templates (tp.system.prompt)
 
 This is underused and extremely practical:
 
@@ -322,7 +324,7 @@ Restart Obsidian after adding new script files so Templater re-indexes them.
 
 ### Pushing External Data with Webhooks
 
-For more complex integrations—pulling today's Google Calendar events, importing action items from a project management tool—consider pairing Obsidian with [Make.com](URL_PLACEHOLDER_7) or [Zapier](URL_PLACEHOLDER_8). These services can watch an external trigger, format data as Markdown, and push it into your vault using the [Obsidian Local REST API plugin](URL_PLACEHOLDER_9). The daily note template then reads from a staging file that Make.com has already populated. It's a more involved setup, but it eliminates all manual data entry for recurring information.
+For more complex integrations—pulling today's Google Calendar events, importing action items from a project management tool—consider pairing Obsidian with Make.com(URL_PLACEHOLDER_7) or Zapier(URL_PLACEHOLDER_8). These services can watch an external trigger, format data as Markdown, and push it into your vault using the Obsidian Local REST API plugin(URL_PLACEHOLDER_9). The daily note template then reads from a staging file that Make.com has already populated. It's a more involved setup, but it eliminates all manual data entry for recurring information.
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+image: "/og/n8n-obsidian-integration-for-automated-web-capture.webp"
 title: "n8n Obsidian Integration for Automated Web Capture: Complete Guide"
 description: "Learn how to build a reliable n8n Obsidian integration for automated web capture. Step-by-step workflow guide to saving articles, metadata, and highlights."
 pubDate: "2026-05-05"
@@ -147,3 +148,17 @@ By default, markdown conversion simply creates hotlinks to the original image UR
 
 ### What happens if I capture the same web page twice?
 This depends on your node configuration. If using the Obsidian Local REST API or Cloud storage nodes, attempting to write a file with an identical name will typically overwrite the existing file. You can modify your n8n Code Node to append a timestamp to the file name to prevent accidental overwrites.
+
+---
+
+## Related Reading
+
+- [Using Obsidian to Manage n8n Workflow Documentation: Complete Guide](/posts/using-obsidian-to-manage-n8n-workflow-documentation/)
+
+- [Using Obsidian to Manage n8n Workflow Documentation: Complete Guide](/posts/using-obsidian-to-manage-n8n-workflow-documentation/)
+
+- [Python Scripts for Bulk Processing Obsidian Markdown Files Guide](/posts/python-scripts-for-bulk-processing-obsidian-markdown-files/)
+
+- [Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026](/posts/advanced-obsidian-templates-for-literature-review-matrix/)
+
+- [Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026](/posts/advanced-obsidian-templates-for-literature-review-matrix/)

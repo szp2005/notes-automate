@@ -231,6 +231,10 @@ Folders force a note into a single, rigid location, creating artificial boundari
 
 ## Related Reading
 
+- [Obsidian Workflow for Scientific Research Papers: Complete Guide](/posts/obsidian-workflow-for-scientific-research-papers/)
+
+- [Obsidian Workflow for Scientific Research Papers: Complete Guide](/posts/obsidian-workflow-for-scientific-research-papers/)
+
 - [Obsidian vs Logseq for Privacy Focused Knowledge Management](/posts/obsidian-vs-logseq-for-privacy-focused-knowledge-management/)
 
 - [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)

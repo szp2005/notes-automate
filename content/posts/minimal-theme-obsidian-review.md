@@ -1,6 +1,6 @@
 ---
 image: "/og/minimal-theme-obsidian-review.webp"
-title: "What is the Obsidian Minimal Theme? An Overview"
+title: "Obsidian Minimal Theme Review: The Ultimate Minimalist Guide"
 author: "Alex Chen"
 date: 2026-04-29
 slug: minimal-theme-obsidian-review
@@ -10,6 +10,8 @@ draft: false
 type: "informational"
 tags: ["obsidian", "minimal", "theme", "overview"]
 ---
+
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
 # Obsidian Minimal Theme Review (2024): The Best Clean Interface for Your Second Brain?
 
@@ -83,7 +85,7 @@ None of this requires CSS knowledge. It's point-and-click configuration.
 
 ### Focus Mode
 
-Triggering focus mode via the command palette removes every sidebar and centers your content at a comfortable reading width. Combined with Obsidian's full-screen mode, this is as close to a distraction-free writing environment as you'll get inside a tool that is also a full [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system.
+Triggering focus mode via the command palette removes every sidebar and centers your content at a comfortable reading width. Combined with Obsidian's full-screen mode, this is as close to a distraction-free writing environment as you'll get inside a tool that is also a full knowledge management(/posts/using-obsidian-for-long-term-evergreen-note-management/) system.
 
 ---
 
@@ -217,7 +219,27 @@ A: Yes. Mobile rendering is explicitly supported and the theme looks consistent 
 
 ## Related Reading
 
+- [Best Obsidian Themes for Writing Longform Content](/posts/best-obsidian-themes-for-writing-longform-content/)
+
+- [长篇写作的最佳 Obsidian 主题](/posts/best-obsidian-themes-for-writing-longform-content/)
+
+- [长篇写作的最佳 Obsidian 主题](/posts/best-obsidian-themes-for-writing-longform-content/)
+
+- [Best Obsidian Themes for Writing Longform Content](/posts/best-obsidian-themes-for-writing-longform-content/)
+
+- [Best Obsidian Themes for Writing Longform Content](/posts/best-obsidian-themes-for-writing-longform-content/)
+
+- [Most Beautiful Obsidian Themes for Better Productivity](/posts/most-beautiful-obsidian-themes/)
+
+- [Best Obsidian Themes for Writing Longform Content](/posts/best-obsidian-themes-for-writing-longform-content/)
+
 - [Why Your Theme is Your Most Important Writing Tool in Obsidian](/posts/best-obsidian-themes-for-writing-longform-content/)
 - [Why Your Obsidian Theme is More Than Just Eye Candy](/posts/most-beautiful-obsidian-themes/)
 - [What is Excalidraw and Why Use It in Obsidian?](/posts/excalidraw-plugin-for-obsidian-review/)
 - [Why Build a Zettelkasten in Obsidian?](/posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/)
+
+---
+
+## Related Reading
+
+- [Best Obsidian Themes for Writing Longform Content](/posts/best-obsidian-themes-for-writing-longform-content/)

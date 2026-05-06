@@ -66,7 +66,7 @@ Obsidian DB Folder brings a visual, spreadsheet-like interface directly to your 
 - Initial configuration and mapping of metadata keys can be steep for beginners
 - Performance degrades noticeably in folders containing thousands of heavy markdown files
 
-### 2. [Dataview Plugin](https://www.amazon.com/s?k=Dataview%20Plugin&tag=notesautomate-20)
+### 2. Dataview Plugin
 
 **Best for:** Programmers and code-savvy knowledge workers
 **Price:** Free (Open Source)
@@ -83,7 +83,7 @@ Dataview is the most established tool for querying in Obsidian, treating your va
 - Requires learning a SQL-like syntax (DQL) for advanced usage
 - Views are strictly read-only; metadata cannot be edited from the table interface
 
-### 3. [Make.md Spaces](https://www.amazon.com/s?k=Make.md%20Spaces&tag=notesautomate-20)
+### 3. Make.md Spaces
 
 **Best for:** Users seeking an all-in-one workspace overhaul
 **Price:** Free

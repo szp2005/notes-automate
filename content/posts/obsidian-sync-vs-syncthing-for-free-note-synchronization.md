@@ -11,6 +11,8 @@ type: "review"
 tags: ["core", "dilemma", "paid", "convenience"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Obsidian Sync vs Syncthing for Free Note Synchronization: The Honest Comparison
 
 **TL;DR**

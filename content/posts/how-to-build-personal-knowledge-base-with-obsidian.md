@@ -127,6 +127,10 @@ While knowing basic Markdown syntax (like `**bold**` or `# headers`) is helpful,
 
 ## Related Reading
 
+- [How to Build a CRM in Obsidian Vault: Complete 2026 Guide](/posts/how-to-build-a-crm-in-obsidian-vault/)
+
+- [How to Build a CRM in Obsidian Vault: Complete 2026 Guide](/posts/how-to-build-a-crm-in-obsidian-vault/)
+
 - [Integrating Web Clips Into Your Zettelkasten Note System Guide](/posts/integrating-web-clips-into-your-zettelkasten-note-system/)
 
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

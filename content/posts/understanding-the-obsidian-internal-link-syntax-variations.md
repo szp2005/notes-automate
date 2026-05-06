@@ -119,19 +119,19 @@ Standard markdown links also support header targeting. The syntax translates to:
 
 Understanding the syntax is only half the battle; knowing when to use which variation dictates the efficiency of your system. Here are practical guidelines for applying these link variations in a production environment.
 
-### 1. [Default to Wikilinks Unless Publishing](https://www.amazon.com/s?k=Default%20to%20Wikilinks%20Unless%20Publishing&tag=notesautomate-20)
+### 1. Default to Wikilinks Unless Publishing
 If your vault is strictly for personal use, stick to the `[[Wikilink]]` syntax. It is faster to type, visually cleaner in source mode, and better supported by the vast ecosystem of Obsidian community plugins. Only switch to standard relative markdown links if you have a strict requirement to use external editors heavily or are publishing directly to a strict markdown compiler.
 
-### 2. [Use Aliases for Organic Integration](https://www.amazon.com/s?k=Use%20Aliases%20for%20Organic%20Integration&tag=notesautomate-20)
+### 2. Use Aliases for Organic Integration
 Never force a sentence to accommodate a note title. Use aliases aggressively. A well-maintained vault should read naturally. If you find yourself repeatedly using the same alias (e.g., aliasing "Artificial Intelligence" to "AI" hundreds of times), add `aliases: [AI]` to the frontmatter of the target note. Obsidian will then suggest it automatically, saving you keystrokes.
 
-### 3. [Prefer Header Links Over Block Links](https://www.amazon.com/s?k=Prefer%20Header%20Links%20Over%20Block%20Links&tag=notesautomate-20)
+### 3. Prefer Header Links Over Block Links
 When linking precisely, try to link to headers (`#`) rather than blocks (`^`) whenever possible. Headers are semantic and human-readable. If you rely heavily on auto-generated alphanumeric block IDs, your raw text files become cluttered with hashes (`^8f2c1a`) that make no sense outside of Obsidian. If you must link to a block, take the extra three seconds to write a custom, descriptive block ID (e.g., `^definition-of-trust`).
 
-### 4. [Leverage Transclusion for Reusable Components](https://www.amazon.com/s?k=Leverage%20Transclusion%20for%20Reusable%20Components&tag=notesautomate-20)
+### 4. Leverage Transclusion for Reusable Components
 Identify text you rewrite frequently—such as an author bio, a standardized project checklist, or a specific piece of reference code. Isolate this text into its own note, and use the `![[Note Name]]` transclusion syntax to embed it wherever needed. If the checklist procedure changes, you only update the source note, and every project referencing it updates instantly.
 
-### 5. [Managing Unresolved Links](https://www.amazon.com/s?k=Managing%20Unresolved%20Links&tag=notesautomate-20)
+### 5. Managing Unresolved Links
 Do not be afraid of unresolved (empty) links. They are excellent placeholders. If you are writing a research paper and reference a theory you haven't researched yet, just bracket it: `[[String Theory]]`. You can use Obsidian's graph view or core search to find all "unresolved links" later, turning them into a built-in to-do list for future research.
 
 ## Conclusion

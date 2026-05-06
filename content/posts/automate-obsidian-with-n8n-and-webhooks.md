@@ -1,4 +1,5 @@
 ---
+image: "/og/automate-obsidian-with-n8n-and-webhooks.webp"
 title: "How to Automate Obsidian with n8n and Webhooks: 5-Step Guide"
 description: "Learn how to automate Obsidian with n8n and webhooks to capture notes, sync tasks, and streamline your personal knowledge management without manual entry."
 pubDate: "2026-05-05"
@@ -140,3 +141,23 @@ When configuring the HTTP Request node in n8n for the Obsidian API, ensure you u
 
 ### Is it safe to expose my Obsidian vault to n8n?
 Using the Local REST API plugin is highly secure provided it is restricted to your local network (`localhost` or `127.0.0.1`) and relies on the generated bearer token for authentication. You should never port-forward or expose the REST API port to the public internet without implementing robust enterprise-grade authentication and encryption proxies.
+
+---
+
+## Related Reading
+
+- [How to Create Automated Index Pages with Obsidian Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/)
+
+- [How to Create Automated Index Pages with Obsidian Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/)
+
+- [Best Obsidian Community Plugins for Recipe Management (2026)](/posts/best-obsidian-community-plugins-for-recipe-management/)
+
+- [Best Apple Shortcuts for Obsidian Power Users in 2026](/posts/best-apple-shortcuts-for-obsidian-power-users/)
+
+- [Best Obsidian Community Plugins for Recipe Management (2026)](/posts/best-obsidian-community-plugins-for-recipe-management/)
+
+- [Best Apple Shortcuts for Obsidian Power Users in 2026](/posts/best-apple-shortcuts-for-obsidian-power-users/)
+
+- [Two Ways to Browse Obsidian Themes: In-App vs. Web](/posts/obsidian-theme-store-browser/)
+
+- [The Easiest Method: Finding Docs Directly Inside Obsidian](/posts/how-to-find-obsidian-plugin-documentation/)

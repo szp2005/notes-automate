@@ -11,6 +11,8 @@ type: "informational"
 tags: ["obsidian", "theme", "more", "than"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Most Beautiful Obsidian Themes in 2024: Minimalist, Dark Mode & Vibrant Picks
 
 ---
@@ -273,7 +275,7 @@ Iconize lets you assign icons to individual files, folders, or file types in you
 Supercharged Links adds visual metadata to internal links throughout your vault. You can configure it to display colored dots, emoji, or prefix text on links based on their properties — so a link to a note tagged `#book` shows a book emoji, a link to a `#person` note shows a name-style prefix. Under any vibrant theme, this creates a genuinely visual linking system.
 
 ### Custom Fonts via Envato Elements
-If you want to take your vault's typography to a level no free theme bundle provides, [Envato Elements](URL_PLACEHOLDER_7) is a subscription that includes thousands of premium fonts and icon sets. Load a downloaded font via Obsidian's `Settings → Appearance → Text Font` field (specify the font family name after installing it system-wide). Pairing Minimal or Sanctum with a premium serif body font changes the reading experience noticeably.
+If you want to take your vault's typography to a level no free theme bundle provides, Envato Elements(URL_PLACEHOLDER_7) is a subscription that includes thousands of premium fonts and icon sets. Load a downloaded font via Obsidian's `Settings → Appearance → Text Font` field (specify the font family name after installing it system-wide). Pairing Minimal or Sanctum with a premium serif body font changes the reading experience noticeably.
 
 ---
 
@@ -329,3 +331,9 @@ Yes, all themes listed here support mobile. Quality varies slightly — some Sty
 - [Why Your Theme is Your Most Important Writing Tool in Obsidian](/posts/best-obsidian-themes-for-writing-longform-content/)
 - [What is Excalidraw and Why Use It in Obsidian?](/posts/excalidraw-plugin-for-obsidian-review/)
 - [Why Build a Zettelkasten in Obsidian?](/posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/)
+
+---
+
+## Related Reading
+
+- [Best Obsidian Themes for Writing Longform Content](/posts/best-obsidian-themes-for-writing-longform-content/)

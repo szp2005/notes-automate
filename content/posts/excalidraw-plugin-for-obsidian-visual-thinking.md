@@ -103,5 +103,11 @@ You can use Excalidraw's "Group" or "Frame" features to define specific areas. O
 
 ## Related Reading
 
+- [Obsidian Canvas 与 Excalidraw：哪款可视化工具更胜一筹？](/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/)
+
+- [Obsidian Canvas vs. Excalidraw: Which Visual Tool Wins?](/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/)
+
+- [Obsidian Canvas vs. Excalidraw: Which Visual Tool Wins?](/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/)
+
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)
 - [What is Excalidraw and Why Use It in Obsidian?](/posts/excalidraw-plugin-for-obsidian-review/)

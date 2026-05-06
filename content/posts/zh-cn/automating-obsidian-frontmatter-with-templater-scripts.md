@@ -227,4 +227,8 @@ mood:
 
 ## Related Reading
 
+- [Obsidian vs DEVONthink: Which Is Better for Large Research Archives?](/posts/obsidian-vs-devonthink-for-large-research-archives/)
+
+- [Best Downloadable Obsidian CSS Snippets for Dashboard Layouts](/posts/downloadable-obsidian-css-snippets-for-dashboard-layouts/)
+
 - [Managing a Ph.D. Thesis in Obsidian: 7-Step Setup Guide](/posts/managing-a-ph-d-thesis-in-obsidian/)

@@ -35,7 +35,7 @@ By isolating layout logic into the `.obsidian/snippets` directory, your dashboar
 
 The Obsidian community has developed several robust, open-source CSS snippets dedicated specifically to layout management. These solutions are thoroughly tested across different operating systems and screen sizes, ensuring your start page won't break when switching from a desktop monitor to a laptop screen.
 
-### 1. [Modular CSS Layout (MCL) Snippets](https://www.amazon.com/s?k=Modular%20CSS%20Layout%20%28MCL%29%20Snippets&tag=notesautomate-20)
+### 1. Modular CSS Layout (MCL) Snippets
 
 The Modular CSS Layout repository by user zamsyt is arguably the most comprehensive toolkit for manipulating Obsidian's interface. MCL is not a single snippet, but a collection of modular CSS files you can download individually based on your requirements.
 
@@ -43,7 +43,7 @@ For [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboa
 
 The primary advantage of MCL is its granular control. You can explicitly dictate the width of individual columns directly inside the markdown (e.g., `> [!multi-column] | col-md-4 col-lg-6`). This mimics frameworks like Bootstrap, allowing you to set a dominant left column for project tracking and a narrow right column for quick links. 
 
-### 2. [Dashboard++ Snippet](https://www.amazon.com/s?k=Dashboard%2B%2B%20Snippet&tag=notesautomate-20)
+### 2. Dashboard++ Snippet
 
 Authored by prominent community member TfTHacker, the Dashboard++ snippet simplifies the dashboard creation process by leveraging standard CSS Flexbox constraints. It was explicitly designed for users who want an aesthetic start page without managing complex nested structures.
 
@@ -51,7 +51,7 @@ Dashboard++ triggers when you add `cssclasses: dashboard` to your note's frontma
 
 The snippet excels at text alignment and whitespace management. It removes default borders from callouts, centers header text within the grid blocks, and applies subtle drop shadows. If you want a dashboard populated mostly by internal links and Dataview task queries, Dashboard++ offers the cleanest visual output with the lowest learning curve.
 
-### 3. [Minimal Theme Cards Snippet](https://www.amazon.com/s?k=Minimal%20Theme%20Cards%20Snippet&tag=notesautomate-20)
+### 3. Minimal Theme Cards Snippet
 
 If you use the popular Minimal theme by developer Kepano, you do not actually need an external dashboard snippet—the functionality is built directly into the theme's core CSS framework. However, Kepano provides the underlying logic as an isolated downloadable snippet for users who prefer standard themes but want the specific card functionality.
 
@@ -59,7 +59,7 @@ The Cards snippet converts standard Dataview tables or raw markdown tables into 
 
 This snippet is essential if your dashboard strategy relies heavily on visual media. If you are building a dashboard to track books to read, project mood boards, or recipe indexes, the Cards snippet allows you to map an image link to the cover of the card, creating a highly visual, Pinterest-style interface right inside your start page.
 
-### 4. [ITS Theme Sliders and Callouts](https://www.amazon.com/s?k=ITS%20Theme%20Sliders%20and%20Callouts&tag=notesautomate-20)
+### 4. ITS Theme Sliders and Callouts
 
 The ITS Theme by SlRvb includes a massive library of layout snippets that can be downloaded and used independently of the master theme. The ITS Callout Adjustments snippet is particularly useful for dashboards.
 

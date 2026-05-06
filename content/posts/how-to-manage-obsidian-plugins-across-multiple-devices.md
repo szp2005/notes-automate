@@ -111,13 +111,13 @@ For mobile access, Android users can use an app like GitJournal or Termux to clo
 
 Regardless of whether you choose Obsidian Sync, iCloud, Syncthing, or Git, managing complex plugin setups across varied hardware requires a disciplined approach. 
 
-### 1. [Maintain a Lean Plugin Stack](https://www.amazon.com/s?k=Maintain%20a%20Lean%20Plugin%20Stack&tag=notesautomate-20)
+### 1. Maintain a Lean Plugin Stack
 Every plugin you install adds latency to your app's startup time and increases the surface area for sync conflicts. Limit your installed plugins to those that actively drive your workflow. If you install a plugin just to test it, uninstall it completely (don't just disable it) when you are done to keep your `.obsidian/plugins` directory clean.
 
-### 2. [Standardize Your Hotkeys](https://www.amazon.com/s?k=Standardize%20Your%20Hotkeys&tag=notesautomate-20)
+### 2. Standardize Your Hotkeys
 Synchronizing your `hotkeys.json` file is vital for muscle memory. However, macOS uses the Command (`Cmd`) key while Windows/Linux use the Control (`Ctrl`) key. Obsidian generally handles this translation gracefully automatically. Ensure you don't map plugins to hardware-specific keys (like a proprietary mouse button) if you expect to trigger that plugin on a secondary laptop.
 
-### 3. [Use Separate Configuration Folders for Mobile (Advanced)](https://www.amazon.com/s?k=Use%20Separate%20Configuration%20Folders%20for%20Mobile%20%28Advanced%29&tag=notesautomate-20)
+### 3. Use Separate Configuration Folders for Mobile (Advanced)
 If you find that your desktop plugin setup is simply too heavy for your smartphone to handle, Obsidian allows you to specify a completely different configuration folder.
 
 On your desktop, navigate to **Settings > About > Advanced**. Here, you can change the configuration folder from `.obsidian` to something else, though it is usually better to leave the desktop on the default and change the mobile device.
@@ -129,10 +129,10 @@ On your desktop, navigate to **Settings > About > Advanced**. Here, you can chan
 
 This creates a completely sandboxed settings environment for your phone. Your markdown notes will still sync identically, but your phone will have its own independent list of active plugins, its own theme settings, and its own layout, completely immune to whatever changes you make on your desktop. The trade-off is that you must now manually install and update plugins in both environments.
 
-### 4. [Regularly Audit Plugin Data](https://www.amazon.com/s?k=Regularly%20Audit%20Plugin%20Data&tag=notesautomate-20)
+### 4. Regularly Audit Plugin Data
 Some plugins generate massive amounts of local data. For example, plugins that index your entire vault for fast search or graph rendering might store megabytes of `.json` data in their respective plugin folders. When syncing across slow mobile networks, this can stall your sync process. Periodically review your `.obsidian/plugins` directory and clear the cache of heavy plugins if they are causing synchronization bottlenecks.
 
-### 5. [Be Wary of Absolute Paths](https://www.amazon.com/s?k=Be%20Wary%20of%20Absolute%20Paths&tag=notesautomate-20)
+### 5. Be Wary of Absolute Paths
 When configuring plugins that interact with your file system (like attachment managers, template engines, or script runners), always use relative paths instead of absolute paths. 
 
 *   **Wrong:** `C:\Users\Alex\Documents\Vault\Templates`

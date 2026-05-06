@@ -31,7 +31,7 @@ While this is fantastic for privacy and longevity, moving those files between a 
 
 To determine if the official service is worth your money, we must look at how it stacks up against the most common methods users employ to sync their vaults today.
 
-### 1. [Obsidian Sync](https://www.amazon.com/s?k=Obsidian%20Sync&tag=notesautomate-20)
+### 1. Obsidian Sync
 
 **Best for:** Cross-platform users requiring maximum security and zero-friction setup
 **Price:** $4-$8/month (depending on plan and billing cycle)
@@ -49,7 +49,7 @@ Obsidian Sync is the first-party syncing solution built directly into the Obsidi
 - Requires an ongoing subscription for a primarily free application
 - Storage limits apply (typically 1GB to 10GB depending on the tier)
 
-### 2. [iCloud Drive](https://www.amazon.com/s?k=iCloud%20Drive&tag=notesautomate-20)
+### 2. iCloud Drive
 
 **Best for:** Users exclusively inside the Apple ecosystem
 **Price:** Free (up to 5GB)
@@ -67,7 +67,7 @@ iCloud is the default choice for users who only use MacBooks, iPads, and iPhones
 - Frequent issues with iCloud offloading files, causing slow load times
 - Lacks native granular version history for individual markdown files
 
-### 3. [Syncthing](https://www.amazon.com/s?k=Syncthing&tag=notesautomate-20)
+### 3. Syncthing
 
 **Best for:** Technically proficient users wanting free cross-platform syncing
 **Price:** Free
@@ -85,7 +85,7 @@ Syncthing is an open-source, peer-to-peer file synchronization program. It does 
 - Devices must be online at the same time to sync
 - No official iOS client, requiring complicated workarounds like Mobius Sync
 
-### 4. [Git (via Obsidian Git Plugin)](https://www.amazon.com/s?k=Git%20%28via%20Obsidian%20Git%20Plugin%29&tag=notesautomate-20)
+### 4. Git (via Obsidian Git Plugin)
 
 **Best for:** Developers and version control enthusiasts
 **Price:** Free (via GitHub/GitLab)

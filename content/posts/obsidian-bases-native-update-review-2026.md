@@ -37,7 +37,7 @@ When you open a database view, the plugin queries this optimized cache rather th
 
 To understand where the new update sits in the ecosystem, we need to compare it with the other major players handling structured data in Obsidian.
 
-### 1. [Obsidian Bases (2026 Native Update)](https://www.amazon.com/s?k=Obsidian%20Bases%20%282026%20Native%20Update%29&tag=notesautomate-20)
+### 1. Obsidian Bases (2026 Native Update)
 
 **Best for:** Power users wanting fully writable Notion-like databases inside Obsidian
 **Price:** Free (Open Source)
@@ -54,7 +54,7 @@ Obsidian Bases has matured into a seamless, highly performant structured data ma
 - Initial indexing of large vaults can take several minutes on older hardware
 - Advanced formula properties still require basic JavaScript knowledge
 
-### 2. [Obsidian Datacore](https://www.amazon.com/s?k=Obsidian%20Datacore&tag=notesautomate-20)
+### 2. Obsidian Datacore
 
 **Best for:** Developers and query-heavy users transitioning from Dataview
 **Price:** Free (Open Source)
@@ -71,7 +71,7 @@ Datacore is the spiritual and literal successor to the legendary Dataview plugin
 - Tables are essentially read-only; you cannot edit cell data directly from the view
 - High learning curve for users unfamiliar with query languages
 
-### 3. [Data Loom](https://www.amazon.com/s?k=Data%20Loom&tag=notesautomate-20)
+### 3. Data Loom
 
 **Best for:** Visual thinkers and users managing smaller, isolated tables
 **Price:** Free (Open Source)

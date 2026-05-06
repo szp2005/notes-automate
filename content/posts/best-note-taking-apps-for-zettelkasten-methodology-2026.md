@@ -23,7 +23,7 @@ As we move through 2026, the landscape of personal [knowledge management](/posts
 
 ## Top Software for Networked Thought
 
-### 1. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=notesautomate-20)
+### 1. Obsidian
 
 **Best for:** Power users prioritizing data ownership and extreme customization
 **Price:** Free for personal use, $50/year for Obsidian Sync, $50/year for Commercial license
@@ -43,7 +43,7 @@ For Zettelkasten practitioners, Obsidian's core strengths lie in its lightning-f
 - High learning curve for users unfamiliar with Markdown or CSS
 - Mobile application syncing requires a paid subscription or complex third-party workarounds
 
-### 2. [Logseq](https://www.amazon.com/s?k=Logseq&tag=notesautomate-20)
+### 2. Logseq
 
 **Best for:** Open-source advocates and outliner-style note takers
 **Price:** Free, $5/month for Logseq Sync (Beta)
@@ -63,7 +63,7 @@ Operating primarily through a daily journal interface, Logseq encourages you to 
 - Occasional sync conflicts when using third-party cloud drives like iCloud or Dropbox
 - Performance can degrade slightly in massive graphs compared to document-based apps
 
-### 3. [Roam Research](https://www.amazon.com/s?k=Roam%20Research&tag=notesautomate-20)
+### 3. Roam Research
 
 **Best for:** Academics and researchers comfortable with cloud-based software
 **Price:** $15/month or $165/year
@@ -84,7 +84,7 @@ For users who want a frictionless setup without worrying about local file manage
 - Cloud-only architecture lacks the security of local plaintext files
 - Exporting fully formatted data to other platforms can be cumbersome
 
-### 4. [Zettlr](https://www.amazon.com/s?k=Zettlr&tag=notesautomate-20)
+### 4. Zettlr
 
 **Best for:** Academics needing deep citation management integration
 **Price:** Free (Open Source)
@@ -104,7 +104,7 @@ The standout feature of Zettlr is its native integration with reference managers
 - User interface feels dated compared to modern electron apps
 - Graph visualization is basic and lacks granular filtering capabilities
 
-### 5. [Tana](https://www.amazon.com/s?k=Tana&tag=notesautomate-20)
+### 5. Tana
 
 **Best for:** structured data enthusiasts and database-driven thinkers
 **Price:** $10/month

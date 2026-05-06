@@ -33,7 +33,7 @@ Furthermore, the use of tags and frontmatter (YAML) allows for robust metadata o
 
 While the core app is powerful, the community plugin ecosystem is what elevates Obsidian to a dedicated GM screen. Here is a review of the essential plugins that provide specialized tabletop functionality.
 
-### 1. [Obsidian Leaflet](https://www.amazon.com/s?k=Obsidian%20Leaflet&tag=notesautomate-20)
+### 1. Obsidian Leaflet
 
 **Best for:** Map management and interactive locations
 **Price:** Free
@@ -50,7 +50,7 @@ Obsidian Leaflet is arguably the most critical plugin for visual world building.
 - Initial syntax configuration can be intimidating for beginners
 - Performance can stutter if hundreds of markers are loaded simultaneously
 
-### 2. [Fantasy Calendar](https://www.amazon.com/s?k=Fantasy%20Calendar&tag=notesautomate-20)
+### 2. Fantasy Calendar
 
 **Best for:** Tracking time and weather in homebrew worlds
 **Price:** Free
@@ -67,7 +67,7 @@ Time tracking is a notoriously difficult aspect of GMing. Fantasy Calendar solve
 - Setup requires meticulous data entry for custom eras and leap rules
 - UI can feel slightly cramped on smaller laptop screens
 
-### 3. [Initiative Tracker](https://www.amazon.com/s?k=Initiative%20Tracker&tag=notesautomate-20)
+### 3. Initiative Tracker
 
 **Best for:** Running combat encounters natively in your vault
 **Price:** Free
@@ -84,7 +84,7 @@ Rather than switching to a browser tab or a physical notepad during combat, the 
 - Does not automate complex RPG rulesets or saving throws natively
 - Managing large hordes of identical monsters requires manual grouping
 
-### 4. [Dataview](https://www.amazon.com/s?k=Dataview&tag=notesautomate-20)
+### 4. Dataview
 
 **Best for:** Automated NPC and location directories
 **Price:** Free

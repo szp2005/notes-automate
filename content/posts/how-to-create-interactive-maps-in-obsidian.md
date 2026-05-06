@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-create-interactive-maps-in-obsidian.webp"
 title: "Obsidian Interactive Maps: Spatial Note-Taking Guide"
 author: "Alex Chen"
 date: 2026-04-29
@@ -9,6 +10,8 @@ draft: false
 type: "informational"
 tags: ["beyond", "backlinks", "power", "spatial"]
 ---
+
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
 # How to Create Interactive Maps in Obsidian: The Complete Leaflet Plugin Guide
 

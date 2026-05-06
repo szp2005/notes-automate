@@ -35,7 +35,7 @@ When these three elements work in harmony, your vault feels like a cohesive, pre
 
 Below is our comprehensive review of the best typographic combinations for your Minimal setup. We have paired them logically, assuming the first font is used for the Interface/UI and the second is used for the Text/Body.
 
-### 1. [Inter & iA Writer Quattro](https://www.amazon.com/s?k=Inter%20%26%20iA%20Writer%20Quattro&tag=notesautomate-20)
+### 1. Inter & iA Writer Quattro
 
 **Best for:** Digital minimalists, daily journalers, and standard note-takers
 **Price:** Free (Open Source)
@@ -54,7 +54,7 @@ This pairing respects the ethos of the Minimal theme perfectly. The UI disappear
 - Quattro's unique spacing can feel slightly disjointed for purely narrative, long-form writing
 - Widespread use of Inter might feel somewhat generic to typography enthusiasts
 
-### 2. [San Francisco Pro & Lora](https://www.amazon.com/s?k=San%20Francisco%20Pro%20%26%20Lora&tag=notesautomate-20)
+### 2. San Francisco Pro & Lora
 
 **Best for:** Academics, researchers, and long-form writers on macOS
 **Price:** Free (macOS System / Google Fonts)
@@ -73,7 +73,7 @@ Lora features brushed curves and driving serifs that guide the eye effortlessly 
 - SF Pro is limited to the Apple ecosystem (requires workarounds on Windows/Linux)
 - Serifs like Lora may feel out of place for heavily technical or code-based vaults
 
-### 3. [Berkeley Mono & Helvetica Neue](https://www.amazon.com/s?k=Berkeley%20Mono%20%26%20Helvetica%20Neue&tag=notesautomate-20)
+### 3. Berkeley Mono & Helvetica Neue
 
 **Best for:** Software engineers, system architects, and terminal enthusiasts
 **Price:** $75.00 - Free (System)
@@ -92,7 +92,7 @@ Helvetica Neue provides a clean, dense interface that stays entirely out of the 
 - Berkeley Mono is a paid, premium typeface
 - Reading thousands of words in pure monospace can be fatiguing for non-technical content
 
-### 4. [IBM Plex Sans & IBM Plex Serif](https://www.amazon.com/s?k=IBM%20Plex%20Sans%20%26%20IBM%20Plex%20Serif&tag=notesautomate-20)
+### 4. IBM Plex Sans & IBM Plex Serif
 
 **Best for:** Corporate professionals, project managers, and data analysts
 **Price:** Free (Open Source)
@@ -111,7 +111,7 @@ Plex Serif has slightly squared-off curves and open counters, giving it a techni
 - Can feel slightly sterile or corporate compared to more character-rich fonts
 - Plex Sans can appear a bit wide in the file explorer, requiring minor CSS width adjustments
 
-### 5. [Atkinson Hyperlegible & Fira Code](https://www.amazon.com/s?k=Atkinson%20Hyperlegible%20%26%20Fira%20Code&tag=notesautomate-20)
+### 5. Atkinson Hyperlegible & Fira Code
 
 **Best for:** Users with visual impairments, fast readers, and accessibility advocates
 **Price:** Free (Open Source)
@@ -130,7 +130,7 @@ Pairing Atkinson with Fira Code for your monospace needs completes the hyper-fun
 - Atkinson's exaggerated characters can look slightly quirky at larger heading sizes
 - Lacks the refined aesthetic polish of premium retail typefaces
 
-### 6. [JetBrains Mono & Roboto Flex](https://www.amazon.com/s?k=JetBrains%20Mono%20%26%20Roboto%20Flex&tag=notesautomate-20)
+### 6. JetBrains Mono & Roboto Flex
 
 **Best for:** Android ecosystem users and data scientists
 **Price:** Free (Google Fonts / Open Source)
@@ -149,7 +149,7 @@ By injecting JetBrains Mono as the monospace and specific heading font, you add 
 - Can feel too close to standard Google Docs/Android defaults, lacking uniqueness
 - Variable font configuration requires deeper CSS knowledge to fully exploit
 
-### 7. [Avenir Next & Menlo](https://www.amazon.com/s?k=Avenir%20Next%20%26%20Menlo&tag=notesautomate-20)
+### 7. Avenir Next & Menlo
 
 **Best for:** Design professionals and visual thinkers
 **Price:** System default (macOS) / Commercial (Windows)

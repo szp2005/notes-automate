@@ -1,6 +1,6 @@
 ---
 image: "/og/excalidraw-plugin-for-obsidian-review.webp"
-title: "What is Excalidraw and Why Use It in Obsidian?"
+title: "Excalidraw Obsidian Plugin Review: Visual Thinking Guide"
 author: "Alex Chen"
 date: 2026-04-29
 slug: excalidraw-plugin-for-obsidian-review
@@ -10,6 +10,8 @@ draft: false
 type: "informational"
 tags: ["excalidraw", "use", "obsidian", "excalidraw plugin for obsidian review"]
 ---
+
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
 # Excalidraw Plugin for Obsidian Review: The Definitive Visual Thinking Tool?
 

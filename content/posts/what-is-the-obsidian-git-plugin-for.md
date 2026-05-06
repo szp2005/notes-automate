@@ -1,6 +1,6 @@
 ---
 image: "/og/what-is-the-obsidian-git-plugin-for.webp"
-title: "What is the Obsidian Git Plugin? (A Simple Explanation)"
+title: "Obsidian Git Plugin: Simple Sync and Version Control Guide"
 author: "Alex Chen"
 date: 2026-04-29
 slug: what-is-the-obsidian-git-plugin-for
@@ -49,15 +49,15 @@ What it is *not* is a simple Dropbox-style folder sync. It's a genuine version c
 
 ## The 3 Core Superpowers: Backup, Sync, and Version History {#three-superpowers}
 
-### 1. [Backup](https://www.amazon.com/s?k=Backup&tag=notesautomate-20)
+### 1. Backup
 
 Every time the plugin runs, it packages up all changes in your vault and pushes them to a remote repository — typically a free private repository on GitHub. That repository sits on Microsoft's servers, geographically separate from your computer. If your laptop is stolen, your hard drive fails, or you accidentally delete your entire vault, your notes are sitting safely in the cloud, intact. The backup happens automatically on a schedule you set. Configure it to run every 15 minutes and you'll never lose more than 15 minutes of work.
 
-### 2. [Sync](https://www.amazon.com/s?k=Sync&tag=notesautomate-20)
+### 2. Sync
 
 Once your vault lives on GitHub, any other device that has Git installed can pull down the exact same vault. Write 1,000 words on your desktop in the evening, push the changes, and by the time you open your laptop the next morning and pull, those words are already there. This works across Windows, macOS, and Linux desktops with full reliability. Mobile (iOS and Android) requires a bit of extra configuration through third-party apps, which the community has documented extensively.
 
-### 3. [Version History](https://www.amazon.com/s?k=Version%20History&tag=notesautomate-20)
+### 3. Version History
 
 This is where the Obsidian Git plugin genuinely earns its reputation as the obsidian backup solution of choice for power users. Every saved snapshot is called a "commit." You can browse those commits inside Obsidian, see exactly what changed in each note, and restore a previous version of a specific file without touching the rest of your vault. Accidentally deleted a paragraph you spent an hour writing? Find the commit from before you deleted it, pull that one file back, and carry on. No other free tool gives you this level of granularity.
 
@@ -137,7 +137,7 @@ Here's an honest accounting.
 
 ## Conclusion
 
-The Obsidian Git plugin is, simply put, the best free infrastructure you can put under your [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) practice. It solves backup, sync, and version history simultaneously — problems that other tools charge monthly fees to address — and it does so while keeping you in complete control of your data.
+The Obsidian Git plugin is, simply put, the best free infrastructure you can put under your note-taking(/posts/streamlining-your-daily-note-workflow-for-better-productivity(/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) practice. It solves backup, sync, and version history simultaneously — problems that other tools charge monthly fees to address — and it does so while keeping you in complete control of your data.
 
 The setup takes one afternoon. The payoff lasts as long as you use Obsidian.
 
@@ -168,6 +168,14 @@ Yes. The plugin works with any remote Git repository. GitLab and Bitbucket both 
 You'll get a merge conflict — Git's way of saying "I found two different versions of this file and don't know which one you want." The plugin will flag the conflict, and you'll need to open the file, review both versions (they're marked clearly in the text), keep the content you want, and commit the resolved file. It sounds intimidating but in practice takes two minutes.
 
 ## Related Reading
+
+- [What is the Obsidian Projects Plugin (And Who is it For?)](/posts/obsidian-projects-plugin-review-and-setup/)
+
+- [What is the Obsidian Full Calendar Plugin?](/posts/obsidian-full-calendar-plugin-review/)
+
+- [What is the Obsidian Projects Plugin (And Who is it For?)](/posts/obsidian-projects-plugin-review-and-setup/)
+
+- [What is the Obsidian Full Calendar Plugin?](/posts/obsidian-full-calendar-plugin-review/)
 
 - [What is the Obsidian Full Calendar Plugin?](/posts/obsidian-full-calendar-plugin-review/)
 - [What is the Obsidian Projects Plugin (And Who is it For?)](/posts/obsidian-projects-plugin-review-and-setup/)

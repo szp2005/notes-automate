@@ -57,20 +57,20 @@ Running local models requires substantial hardware. For smooth performance, an A
 
 Setting up Copilot for Obsidian is straightforward, but correctly configuring the API connection is where users frequently encounter errors.
 
-### 1. [Install the Community Plugin](https://www.amazon.com/s?k=Install%20the%20Community%20Plugin&tag=notesautomate-20)
+### 1. Install the Community Plugin
 1. Open Obsidian Settings.
 2. Navigate to **Community plugins** and ensure **Safe mode** is turned off.
 3. Click **Browse** and search for "Copilot".
 4. Look for the plugin created by *logancyang*. Click **Install** and then **Enable**.
 
-### 2. [Configure a Cloud API (OpenAI Example)](https://www.amazon.com/s?k=Configure%20a%20Cloud%20API%20%28OpenAI%20Example%29&tag=notesautomate-20)
+### 2. Configure a Cloud API (OpenAI Example)
 1. Go to the Copilot settings pane in Obsidian.
 2. In the **Default Model** section, select `gpt-4o` or `gpt-4o-mini`.
 3. Locate the **OpenAI API Key** field.
 4. Generate an API key from the OpenAI developer dashboard (`platform.openai.com`). Note that this requires a funded developer account, which is separate from a ChatGPT Plus subscription.
 5. Paste the key into the settings. The plugin will save it securely.
 
-### 3. [Configure a Local Model (Ollama Example)](https://www.amazon.com/s?k=Configure%20a%20Local%20Model%20%28Ollama%20Example%29&tag=notesautomate-20)
+### 3. Configure a Local Model (Ollama Example)
 1. Ensure Ollama is running on your machine and you have pulled a model (e.g., run `ollama run llama3` in your terminal).
 2. In the Copilot settings, locate the **Ollama Settings** section.
 3. Toggle on **Enable Ollama**.

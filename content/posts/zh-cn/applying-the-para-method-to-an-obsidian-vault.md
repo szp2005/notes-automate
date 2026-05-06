@@ -162,6 +162,16 @@ PARA 的真正力量在于其流动性。笔记并不打算永远停留在一个
 
 ## Related Reading
 
+- [How to use Obsidian Dataview for beginners: Complete Guide](/posts/how-to-use-obsidian-dataview-for-beginners/)
+
+- [Best Obsidian Plugin for Automated YouTube Transcript Import](/posts/obsidian-plugin-automated-youtube-transcript-import/)
+
+- [Best Obsidian Plugin for Automated YouTube Transcript Import](/posts/obsidian-plugin-automated-youtube-transcript-import/)
+
+- [How to use Obsidian Dataview for beginners: Complete Guide](/posts/how-to-use-obsidian-dataview-for-beginners/)
+
+- [How to use Obsidian Dataview for beginners: Complete Guide](/posts/how-to-use-obsidian-dataview-for-beginners/)
+
 - [Obsidian Dataview Tutorial: Complete Beginner's Guide](/posts/how-to-use-obsidian-dataview-for-beginners/)
 
 - [Obsidian Dataview Tutorial: Complete Beginner's Guide](/posts/how-to-use-obsidian-dataview-for-beginners/)

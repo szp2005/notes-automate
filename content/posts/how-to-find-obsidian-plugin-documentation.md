@@ -11,6 +11,8 @@ type: "informational"
 tags: ["easiest", "method", "finding", "docs"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # How to Find Obsidian Plugin Documentation: Every Method, Step by Step
 
 **TL;DR**

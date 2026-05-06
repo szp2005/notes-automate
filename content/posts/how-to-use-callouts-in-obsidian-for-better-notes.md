@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-use-callouts-in-obsidian-for-better-notes.webp"
-title: "What Are Obsidian Callouts (And Why They Are a Game-Changer)"
+title: "Obsidian Callouts: The Complete Guide to Better Notes"
 author: "Alex Chen"
 date: 2026-04-29
 slug: how-to-use-callouts-in-obsidian-for-better-notes
@@ -139,7 +139,7 @@ If you want dozens of beautiful pre-configured callouts without writing a single
 
 Five callouts designed for real PKM workflows. Copy each block into your `custom-callouts.css` file.
 
-### 1. [`[!action]` — Action Item (Green)](https://www.amazon.com/s?k=%5B%21action%5D%20%E2%80%94%20Action%20Item%20%28Green%29&tag=notesautomate-20)
+### 1. !action — Action Item (Green)
 
 ```css
 .callout[data-callout="action"] {
@@ -152,7 +152,7 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 
 ---
 
-### 2. [`[!key]` — Key Insight (Amber)](https://www.amazon.com/s?k=%5B%21key%5D%20%E2%80%94%20Key%20Insight%20%28Amber%29&tag=notesautomate-20)
+### 2. !key — Key Insight (Amber)
 
 ```css
 .callout[data-callout="key"] {
@@ -165,7 +165,7 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 
 ---
 
-### 3. [`[!summary]` — TL;DR Block (Blue-Grey)](https://www.amazon.com/s?k=%5B%21summary%5D%20%E2%80%94%20TL%3BDR%20Block%20%28Blue-Grey%29&tag=notesautomate-20)
+### 3. `!summary` — TL;DR Block (Blue-Grey)
 
 ```css
 .callout[data-callout="summary"] {
@@ -178,7 +178,7 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 
 ---
 
-### 4. [`[!person]` — Contact / Attendee (Purple)](https://www.amazon.com/s?k=%5B%21person%5D%20%E2%80%94%20Contact%20/%20Attendee%20%28Purple%29&tag=notesautomate-20)
+### 4. !person — Contact / Attendee (Purple)
 
 ```css
 .callout[data-callout="person"] {
@@ -191,7 +191,7 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 
 ---
 
-### 5. [`[!goal]` — Project Goal (Teal)](https://www.amazon.com/s?k=%5B%21goal%5D%20%E2%80%94%20Project%20Goal%20%28Teal%29&tag=notesautomate-20)
+### 5. !goal — Project Goal (Teal)
 
 ```css
 .callout[data-callout="goal"] {
@@ -206,7 +206,7 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 
 ## The Callout Cookbook
 
-### Meeting Note Template
+[### Meeting Note Template
 
 ```markdown
 > [!person] Attendees
@@ -228,7 +228,7 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 
 ### Book Summary Template
 
-```markdown
+[```markdown
 > [!summary]- One-Sentence Summary
 > The book argues that deliberate practice, not talent, explains elite performance.
 
@@ -246,7 +246,7 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 
 ### Project Dashboard Template
 
-```markdown
+[```markdown
 > [!goal] Project Goal
 > Launch beta to 500 users by November 1.
 

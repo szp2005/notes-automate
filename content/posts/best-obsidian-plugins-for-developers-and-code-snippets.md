@@ -23,7 +23,7 @@ By leveraging the community plugin ecosystem, you can add IDE-like features to y
 
 ## Top Plugins for Managing Code Snippets
 
-### 1. [Code Styler](https://www.amazon.com/s?k=Code%20Styler&tag=notesautomate-20)
+### 1. Code Styler
 
 **Best for:** Enhancing the visual appearance and functionality of code blocks
 **Price:** Free
@@ -42,7 +42,7 @@ Beyond aesthetics, Code Styler adds a dedicated copy button to every block, elim
 - Can occasionally conflict with heavily customized CSS snippets
 - Requires manually specifying the language tag for full functionality
 
-### 2. [Execute Code](https://www.amazon.com/s?k=Execute%20Code&tag=notesautomate-20)
+### 2. Execute Code
 
 **Best for:** Running scripts and compiling code within notes
 **Price:** Free
@@ -61,7 +61,7 @@ When you execute a block, the plugin captures the standard output and standard e
 - Requires the underlying language runtime to be installed on your system
 - Not suitable for long-running processes or complex interactive CLI tools
 
-### 3. [Editor Syntax Highlight](https://www.amazon.com/s?k=Editor%20Syntax%20Highlight&tag=notesautomate-20)
+### 3. Editor Syntax Highlight
 
 **Best for:** Syntax highlighting in live preview and editing mode
 **Price:** Free
@@ -80,7 +80,7 @@ This means your code snippets remain perfectly color-coded while you are writing
 - Highlighting colors are strictly tied to your active Obsidian theme
 - May struggle slightly with extremely large, multi-thousand line files
 
-### 4. [Obsidian Git](https://www.amazon.com/s?k=Obsidian%20Git&tag=notesautomate-20)
+### 4. Obsidian Git
 
 **Best for:** Version control and syncing code notes
 **Price:** Free
@@ -99,7 +99,7 @@ This serves dual purposes: it acts as a reliable, free backup solution, and it a
 - Requires familiarity with Git fundamentals
 - Mobile support exists but can be complex to configure initially
 
-### 5. [QuickAdd](https://www.amazon.com/s?k=QuickAdd&tag=notesautomate-20)
+### 5. QuickAdd
 
 **Best for:** Rapidly capturing and formatting code snippets
 **Price:** Free
@@ -118,7 +118,7 @@ You can set up a QuickAdd workflow that prompts you for the snippet's language, 
 - Steep learning curve for setting up complex macros
 - Relies on basic JavaScript knowledge for advanced conditional logic
 
-### 6. [Codeblock Customizer](https://www.amazon.com/s?k=Codeblock%20Customizer&tag=notesautomate-20)
+### 6. Codeblock Customizer
 
 **Best for:** Adding specific visual tweaks and foldability to code
 **Price:** Free
@@ -137,7 +137,7 @@ You can set code blocks to be folded by default, only expanding them when you ex
 - Feature set overlaps heavily with Code Styler
 - Folding state is not always preserved when switching devices
 
-### 7. [CustomJS](https://www.amazon.com/s?k=CustomJS&tag=notesautomate-20)
+### 7. CustomJS
 
 **Best for:** Writing and executing reusable JavaScript functions across the vault
 **Price:** Free

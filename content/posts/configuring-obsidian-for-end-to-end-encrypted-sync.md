@@ -127,4 +127,6 @@ You cannot change the password on an existing remote vault. To update your encry
 ## Related Reading
 
 - [Sync Obsidian with Google Drive: Free Plugin Setup Guide](/posts/how-to-sync-obsidian-with-google-drive-using-a-plugin/)
+
+- [Sync Obsidian with Google Drive: Free Plugin Setup Guide](/posts/how-to-sync-obsidian-with-google-drive-using-a-plugin/)
 - [Local GPT Plugin for Obsidian Privacy: Complete Guide](/posts/local-gpt-plugin-for-obsidian-privacy/)

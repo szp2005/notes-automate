@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-customize-obsidian-appearance-with-css-snippets.webp"
-title: "What Are CSS Snippets and Why Should You Care?"
+title: "Obsidian CSS Snippets: Customize Your Vault Appearance"
 author: "Alex Chen"
 date: 2026-04-29
 slug: how-to-customize-obsidian-appearance-with-css-snippets
@@ -10,6 +10,8 @@ draft: false
 type: "informational"
 tags: ["css", "snippets", "care", "how to customize obsidian appearance with css snippets"]
 ---
+
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
 # How to Customize Obsidian Appearance with CSS Snippets (Complete Guide + Copy-Paste Starter Pack)
 
@@ -78,7 +80,7 @@ Let's build confidence before moving to complex stuff. Here are two snippets tha
 
 ### Change the Editor Body Font
 
-```css
+[```css
 /* my-fonts.css */
 .cm-editor, .markdown-preview-view {
     font-family: 'Georgia', serif;
@@ -91,7 +93,7 @@ Let's build confidence before moving to complex stuff. Here are two snippets tha
 
 ### Color Your H1 Headings
 
-```css
+[```css
 /* header-colors.css */
 .markdown-preview-view h1,
 .cm-header-1 {

@@ -25,7 +25,7 @@ This technical review examines both applications specifically through the lens o
 
 Before examining specific workflows, it is crucial to understand the architectural differences between the two platforms. Here is how they position themselves for structured data management.
 
-### 1. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=notesautomate-20)
+### 1. Obsidian
 
 **Best for:** Developers, researchers, and privacy-conscious users who want full control over their metadata schema and file storage.
 **Price:** $0-$50/year (Sync/Publish add-ons available for $4-$8/month)
@@ -46,7 +46,7 @@ The strength of Obsidian lies in its longevity and flexibility. Because you own 
 - Advanced querying relies on third-party plugins like Dataview that have learning curves
 - No native collaborative database features for teams
 
-### 2. [Tana](https://www.amazon.com/s?k=Tana&tag=notesautomate-20)
+### 2. Tana
 
 **Best for:** Systems thinkers, project managers, and power users who need relational database functionality without writing code.
 **Price:** $10-$14/month

@@ -11,6 +11,8 @@ type: "review"
 tags: ["obsidian", "canvas", "excalidraw", "visual"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Obsidian Canvas vs. Excalidraw for Mind Mapping: Which Visual Tool Belongs in Your PKM [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)?
 
 ---
@@ -40,7 +42,7 @@ tags: ["obsidian", "canvas", "excalidraw", "visual"]
 
 ## What This Comparison Actually Covers
 
-Visual thinking has become a legitimate pillar of personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/). Whether you follow Zettelkasten, PARA, or a hybrid system, there comes a point where a list of notes is not enough—you need to *see* the relationships.
+Visual thinking has become a legitimate pillar of personal knowledge management(/posts/using-obsidian-for-long-term-evergreen-note-management/). Whether you follow Zettelkasten, PARA, or a hybrid system, there comes a point where a list of notes is not enough—you need to *see* the relationships.
 
 Inside Obsidian, two tools fight for that job. **Obsidian Canvas** ships with the app as a core plugin. Open a new Canvas file, drop notes onto an infinite white surface, draw arrows between them, and you're done. No downloads, no configuration. **Excalidraw**, on the other hand, is a community plugin built by Zsolt Viczián that wraps the popular open-source Excalidraw whiteboard library inside your vault. It requires installation, has its own file format, and packs substantially more drawing power.
 
@@ -96,7 +98,7 @@ The hand-drawn aesthetic is also deliberate. Research from the Excalidraw commun
 
 ### Collaboration you can actually use
 
-Canvas has no collaboration feature. Excalidraw files can be opened directly at Excalidraw.com and shared in real time. For power users and teams who need robust shared workspaces, persistent collaborative rooms, and end-to-end encrypted sharing, [Excalidraw+](URL_PLACEHOLDER_1) provides a premium tier purpose-built for that workflow. If you're a project manager or educator who needs to share diagrams with people who don't use Obsidian, this is a decisive advantage.
+Canvas has no collaboration feature. Excalidraw files can be opened directly at Excalidraw.com and shared in real time. For power users and teams who need robust shared workspaces, persistent collaborative rooms, and end-to-end encrypted sharing, Excalidraw+(URL_PLACEHOLDER_1) provides a premium tier purpose-built for that workflow. If you're a project manager or educator who needs to share diagrams with people who don't use Obsidian, this is a decisive advantage.
 
 ### Portability outside the vault
 

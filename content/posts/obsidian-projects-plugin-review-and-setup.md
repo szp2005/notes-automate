@@ -1,6 +1,6 @@
 ---
 image: "/og/obsidian-projects-plugin-review-and-setup.webp"
-title: "What is the Obsidian Projects Plugin (And Who is it For?)"
+title: "Obsidian Projects Plugin Review: Complete Setup Guide"
 author: "Alex Chen"
 date: 2026-04-29
 slug: obsidian-projects-plugin-review-and-setup
@@ -10,6 +10,8 @@ draft: false
 type: "informational"
 tags: ["obsidian", "projects", "plugin", "obsidian projects plugin review and setup"]
 ---
+
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
 # Obsidian Projects Plugin: The Ultimate Review, Setup Guide & Power-User Templates (2024)
 
@@ -201,7 +203,7 @@ This is where Obsidian project management moves from useful to genuinely powerfu
 
 ### Using Templater to Pre-Fill Frontmatter
 
-Install the [Templater plugin](URL_PLACEHOLDER_5) and create a template file for each project type. Example for the content pipeline:
+Install the Templater plugin(URL_PLACEHOLDER_5) and create a template file for each project type. Example for the content pipeline:
 
 ```
 ---

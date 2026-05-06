@@ -53,7 +53,7 @@ The plugin automatically handles the insertion of new bullet points at the corre
 
 Setting up the Outliner plugin correctly ensures a stable environment that enhances, rather than disrupts, your existing vault. Follow these specific steps to configure the plugin for optimal performance.
 
-### 1. [Installation from the Community Directory](https://www.amazon.com/s?k=Installation%20from%20the%20Community%20Directory&tag=notesautomate-20)
+### 1. Installation from the Community Directory
 
 1. Open your Obsidian settings by clicking the gear icon in the lower-left corner or using the `Cmd/Ctrl + ,` shortcut.
 2. Navigate to the **Community plugins** tab.
@@ -61,7 +61,7 @@ Setting up the Outliner plugin correctly ensures a stable environment that enhan
 4. Click **Browse** and search for "Outliner" by vslinko.
 5. Click **Install**, and once completed, click **Enable**.
 
-### 2. [Essential Plugin Settings](https://www.amazon.com/s?k=Essential%20Plugin%20Settings&tag=notesautomate-20)
+### 2. Essential Plugin Settings
 
 Navigate to the plugin's specific settings page within Obsidian to configure its behavior. The default settings are generally excellent, but a few specific adjustments optimize the experience for structured thinking.
 
@@ -70,7 +70,7 @@ Navigate to the plugin's specific settings page within Obsidian to configure its
 *   **Enhance the Tab key:** Enable this. It allows you to use Tab and Shift-Tab to indent and outdent items seamlessly, applying the movement to the parent and all nested children.
 *   **Draw vertical indentation lines:** Enable this. Visual context is crucial for structured thinking. These lines connect parent nodes to their children, making the hierarchy instantly readable, even in deeply nested lists.
 
-### 3. [Compatibility Checks](https://www.amazon.com/s?k=Compatibility%20Checks&tag=notesautomate-20)
+### 3. Compatibility Checks
 
 The Outliner plugin interacts deeply with Obsidian's editor. Ensure you are not running conflicting plugins. Plugins that aggressively auto-format text or alter standard list behaviors can occasionally clash with Outliner. If you experience erratic cursor movement, temporarily disable other formatting plugins to isolate the issue.
 

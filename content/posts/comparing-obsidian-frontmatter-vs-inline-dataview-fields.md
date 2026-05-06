@@ -25,7 +25,7 @@ Choosing the right method dictates how you will interact with your notes daily, 
 
 To understand which system aligns with your workflow, we need to evaluate them as distinct tools within your broader [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) ecosystem.
 
-### 1. [Obsidian Frontmatter (Properties)](https://www.amazon.com/s?k=Obsidian%20Frontmatter%20%28Properties%29&tag=notesautomate-20)
+### 1. Obsidian Frontmatter (Properties)
 
 **Best for:** File-level organization and standardized vault architecture
 **Price:** Free (Core Feature)
@@ -46,7 +46,7 @@ Because frontmatter sits outside the body text, it acts as a structured database
 - Rigid structure makes it cumbersome for logging multiple rapid entries in a single note
 
 
-### 2. [Inline Dataview Fields](https://www.amazon.com/s?k=Inline%20Dataview%20Fields&tag=notesautomate-20)
+### 2. Inline Dataview Fields
 
 **Best for:** Contextual logging, daily note tracking, and rapid data entry
 **Price:** Free (Requires Dataview Plugin)

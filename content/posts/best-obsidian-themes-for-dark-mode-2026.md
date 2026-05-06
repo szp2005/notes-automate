@@ -23,7 +23,7 @@ Below is a detailed analysis of the most effective dark mode themes currently av
 
 ## Evaluating the Top Dark Mode Themes
 
-### 1. [Minimal](https://www.amazon.com/s?k=Minimal&tag=notesautomate-20)
+### 1. Minimal
 
 **Best for:** Writers, academics, and focused thinkers
 **Price:** Free (Sponsorship available)
@@ -42,7 +42,7 @@ Its true strength lies in its modularity. You can achieve a near-invisible inter
 - Requires companion plugins to unlock its full potential
 - Might feel too stark for users who prefer visual compartmentalization
 
-### 2. [AnuPpuccin](https://www.amazon.com/s?k=AnuPpuccin&tag=notesautomate-20)
+### 2. AnuPpuccin
 
 **Best for:** Power users and aesthetic customizers
 **Price:** Free
@@ -61,7 +61,7 @@ The theme's implementation of the Style Settings plugin is arguably the most com
 - The sheer number of settings can be overwhelming
 - Slight performance overhead on older devices due to complex CSS variables
 
-### 3. [Things](https://www.amazon.com/s?k=Things&tag=notesautomate-20)
+### 3. Things
 
 **Best for:** Task managers and dashboard builders
 **Price:** Free
@@ -80,7 +80,7 @@ Things is particularly effective for users who treat Obsidian as an operating sy
 - Rigid design language limits extreme customization
 - Less ideal for purely distraction-free long-form writing
 
-### 4. [Prism](https://www.amazon.com/s?k=Prism&tag=notesautomate-20)
+### 4. Prism
 
 **Best for:** Developers and high-contrast preferences
 **Price:** Free
@@ -99,7 +99,7 @@ The theme provides excellent visual hierarchy. Headers are distinct not just by 
 - Accents may be too sharp for users preferring muted palettes
 - Sidebar styling can feel visually dense with many folders
 
-### 5. [Catppuccin](https://www.amazon.com/s?k=Catppuccin&tag=notesautomate-20)
+### 5. Catppuccin
 
 **Best for:** Cross-platform ecosystem users
 **Price:** Free
@@ -118,7 +118,7 @@ The Obsidian implementation of Catppuccin is incredibly stable. It focuses on re
 - Fewer layout modifications compared to Minimal or AnuPpuccin
 - Limited built-in typography overrides
 
-### 6. [Dracula](https://www.amazon.com/s?k=Dracula&tag=notesautomate-20)
+### 6. Dracula
 
 **Best for:** Night owls and low-light environments
 **Price:** Free

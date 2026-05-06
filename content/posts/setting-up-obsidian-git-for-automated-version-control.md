@@ -127,6 +127,10 @@ Obsidian Git handles offline work gracefully. It will continue to take local sna
 
 ## Related Reading
 
+- [What is the Obsidian Git Plugin? (A Simple Explanation)](/posts/what-is-the-obsidian-git-plugin-for/)
+
+- [What is the Obsidian Git Plugin? (A Simple Explanation)](/posts/what-is-the-obsidian-git-plugin-for/)
+
 - [Visualizing Data With Obsidian Tracker Plugin For Goals: Complete Setup Guide](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)
 
 - [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)

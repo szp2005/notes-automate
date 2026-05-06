@@ -25,7 +25,7 @@ However, how they handle those text files, structure your thoughts, and present 
 
 To effectively choose between these platforms, we need to look at their specific implementations, target audiences, and feature sets. Below is a detailed breakdown of each application.
 
-### 1. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=notesautomate-20)
+### 1. Obsidian
 
 **Best for:** Long-form writers, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and users who want extensive customization.
 **Price:** Free for personal use; $50/year for commercial use (Obsidian Sync is $4-$8/month)
@@ -46,7 +46,7 @@ The privacy model is absolute: Obsidian functions entirely offline without ever 
 - Block-level referencing exists but feels clunky compared to native outliners
 - Commercial use requires a paid license, which trips up some solo practitioners
 
-### 2. [Logseq](https://www.amazon.com/s?k=Logseq&tag=notesautomate-20)
+### 2. Logseq
 
 **Best for:** Outliners, task managers, and heavy users of daily journals.
 **Price:** Free (Open Source)

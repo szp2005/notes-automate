@@ -70,18 +70,18 @@ A standard block should include the date created, the date modified, and an arra
 
 Maintaining an evergreen system requires a strict separation between consuming information and synthesizing knowledge. Attempting to write an evergreen note while reading an article usually results in poor synthesis. The workflow is split into four distinct stages.
 
-### 1. [Capture (Fleeting Notes)](https://www.amazon.com/s?k=Capture%20%28Fleeting%20Notes%29&tag=notesautomate-20)
+### 1. Capture (Fleeting Notes)
 This is the lowest-friction stage. You are reading a book, listening to a podcast, or having a conversation, and an idea strikes. You capture it quickly into your Inbox. These notes are messy, informal, and temporary. The only goal is to externalize the thought before it disappears. 
 
-### 2. [Distill (Literature Notes)](https://www.amazon.com/s?k=Distill%20%28Literature%20Notes%29&tag=notesautomate-20)
+### 2. Distill (Literature Notes)
 When you finish reading a book or processing a dense article, you review your highlights and fleeting notes. You translate these into literature notes. A literature note is still tethered to the source material. It represents your summary of what the author said. It is stored in the Sources folder and acts as the raw material for your own ideas.
 
-### 3. [Synthesize (Evergreen Notes)](https://www.amazon.com/s?k=Synthesize%20%28Evergreen%20Notes%29&tag=notesautomate-20)
+### 3. Synthesize (Evergreen Notes)
 This is the core work of the system. You review your literature notes and ask: "What are the universal concepts here?" You extract those concepts, severing them from the source material, and rewrite them as atomic ideas. 
 
 If you read a book on the fall of the Roman Empire, your literature note summarizes the book. Your evergreen note, however, might be titled "Complex systems collapse from cascading minor failures." You write this concept in your own words, citing the Roman Empire book as one example.
 
-### 4. [Connect (The Graph)](https://www.amazon.com/s?k=Connect%20%28The%20Graph%29&tag=notesautomate-20)
+### 4. Connect (The Graph)
 Once the evergreen note is written, you must integrate it into the network. You open the new note and search your vault for related terms. You add internal links to older notes, and crucially, you open those older notes and add links back to the new one. This bidirectional weaving ensures the concept will resurface organically when you explore related topics in the future.
 
 ## Practical Advice for Maintenance and Scale

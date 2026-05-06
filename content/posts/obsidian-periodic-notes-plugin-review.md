@@ -1,6 +1,6 @@
 ---
 image: "/og/obsidian-periodic-notes-plugin-review.webp"
-title: "What is the Periodic Notes Plugin (And Why It's a Game-Changer)"
+title: "Periodic Notes Plugin Review: Essential Obsidian Workflow"
 author: "Alex Chen"
 date: 2026-04-29
 slug: obsidian-periodic-notes-plugin-review
@@ -10,6 +10,8 @@ draft: false
 type: "informational"
 tags: ["periodic", "notes", "plugin", "game changer"]
 ---
+
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
 # Obsidian Periodic Notes Plugin Review: Hands-On Setup, Advanced Workflows, and Honest Verdict
 
@@ -130,7 +132,7 @@ The plugin does nothing special with templates on its own — it opens a templat
 # <% tp.date.now("dddd, MMMM D, YYYY") %>
 
 ## Tasks
-- [ ] 
+[-  ]
 
 ## Top 3 Priorities
 1. 
@@ -139,7 +141,7 @@ The plugin does nothing special with templates on its own — it opens a templat
 
 ## Meeting Notes
 
-## Daily Reflection
+[## Daily Reflection
 **What moved the needle today?**
 
 **What's stuck?**
@@ -159,15 +161,15 @@ The Dataview block at the bottom queries *this week's* weekly note for incomplet
 # Week <% tp.date.now("WW") %> — <% tp.date.now("MMMM YYYY") %>
 
 ## This Week's Goals
-- [ ] 
+[-  ]
 
 ## Wins
 
-## Blockers
+[## Blockers
 
 ## Next Week's Focus
 
-## Days This Week
+[## Days This Week
 \`\`\`dataview
 list from "Periodic/Daily"
 where file.name >= "<% tp.date.now("YYYY-MM-DD", 0, "day", -tp.date.now("d") + 1) %>"
@@ -295,6 +297,10 @@ Use `YYYY-[Q]Q` as the format string. The brackets tell Moment.js to treat `Q` a
 Yes. The plugin functions identically on iOS and Android. Hotkeys map to the mobile toolbar buttons you configure in Settings → Mobile. The one limitation: Templater's system-level commands (executing shell scripts, etc.) don't run on mobile, so keep mobile templates to Templater's tp.date and tp.file functions only.
 
 ## Related Reading
+
+- [什么是 Dataview？为什么它是你笔记的颠覆者？](/posts/how-to-use-obsidian-dataview-for-beginners/)
+
+- [What is Dataview and Why is it a Game-Changer for Your Notes?](/posts/how-to-use-obsidian-dataview-for-beginners/)
 
 - [What is Dataview and Why is it a Game-Changer for Your Notes?](/posts/how-to-use-obsidian-dataview-for-beginners/)
 

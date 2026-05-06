@@ -219,4 +219,6 @@ Zsolt Viczián 开发的 Obsidian Excalidraw 插件是生态系统中下载量�
 
 ## Related Reading
 
+- [What is Obsidian Canvas? The Infinite Whiteboard in Your Vault](/posts/what-is-the-obsidian-canvas-plugin/)
+
 - [The Core Question: What Problem Does Obsidian Sync Solve?](/posts/is-obsidian-sync-worth-it-review/)

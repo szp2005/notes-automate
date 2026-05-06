@@ -11,6 +11,8 @@ type: "review"
 tags: ["two", "ways", "browse", "obsidian"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # The Obsidian Theme Store Browser: How to Find, Install, and Manage Community Themes
 
 **TL;DR**

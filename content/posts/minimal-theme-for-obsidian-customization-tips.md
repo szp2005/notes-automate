@@ -195,6 +195,16 @@ No, Minimal is highly optimized and relies primarily on native CSS variables. It
 
 ## Related Reading
 
+- [Best Font Pairings for Obsidian Minimal Theme in 2026](/posts/best-font-pairings-obsidian-minimal-theme-2026/)
+
+- [2026年 Obsidian Minimal 主题最佳字体搭配](/posts/best-font-pairings-obsidian-minimal-theme-2026/)
+
+- [2026年 Obsidian Minimal 主题最佳字体搭配](/posts/best-font-pairings-obsidian-minimal-theme-2026/)
+
+- [Best Font Pairings for Obsidian Minimal Theme in 2026](/posts/best-font-pairings-obsidian-minimal-theme-2026/)
+
+- [Best Font Pairings for Obsidian Minimal Theme in 2026](/posts/best-font-pairings-obsidian-minimal-theme-2026/)
+
 - [The Easiest Method: Finding Docs Directly Inside Obsidian](/posts/how-to-find-obsidian-plugin-documentation/)
 
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

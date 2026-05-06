@@ -1,4 +1,5 @@
 ---
+image: "/og/managing-a-ph-d-thesis-in-obsidian.webp"
 title: "Managing a Ph.D. Thesis in Obsidian: 7-Step Setup Guide"
 description: "Learn how managing a ph d thesis in obsidian streamlines research, literature reviews, and drafting. Discover the ultimate vault setup to finish your dissertation."
 pubDate: "2026-05-05"
@@ -112,3 +113,17 @@ No, though your strategy must adapt. If you adopt Obsidian late in the process, 
 
 ### Should I separate my personal notes from my academic thesis vault?
 This depends on your specific cognitive workflow and discipline. Keeping personal and academic notes in one vault allows for unexpected, cross-disciplinary connections, but maintaining a strictly dedicated academic vault minimizes distractions and keeps your search queries highly focused on your dissertation topic.
+
+---
+
+## Related Reading
+
+- [Review of Obsidian DB Folder for Database Views in 2026](/posts/review-of-obsidian-db-folder-for-database-views/)
+
+- [Obsidian vs DEVONthink: Which Is Better for Large Research Archives?](/posts/obsidian-vs-devonthink-for-large-research-archives/)
+
+- [Review of Obsidian DB Folder for Database Views in 2026](/posts/review-of-obsidian-db-folder-for-database-views/)
+
+- [Best Downloadable Obsidian CSS Snippets for Dashboard Layouts](/posts/downloadable-obsidian-css-snippets-for-dashboard-layouts/)
+
+- [Obsidian Habit Tracking: Best Plugins for 2024](/posts/best-obsidian-plugins-for-habit-tracking-2024/)

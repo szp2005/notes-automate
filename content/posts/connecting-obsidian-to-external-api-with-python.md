@@ -1,4 +1,5 @@
 ---
+image: "/og/connecting-obsidian-to-external-api-with-python.webp"
 title: "Connecting Obsidian to External APIs with Python: Complete Guide"
 description: "Learn how to connect Obsidian to external APIs using Python. This step-by-step guide covers reading local vaults, making HTTP requests, and safely writing data back."
 pubDate: "2026-05-05"
@@ -127,3 +128,17 @@ If the external API modifies its JSON response format, your script will likely t
 
 ### Do I need to learn TypeScript to build Obsidian tools?
 No. While TypeScript is required to build native plugins that run inside the application interface, external scripts written in Python, Go, or bash can modify the underlying Markdown files just as effectively. This allows you to use whichever language you are most proficient in for data manipulation.
+
+---
+
+## Related Reading
+
+- [Python Scripts for Obsidian API Integration: Complete Guide](/posts/python-scripts-for-obsidian-api-integration/)
+
+- [Python Scripts for Bulk Processing Obsidian Markdown Files Guide](/posts/python-scripts-for-bulk-processing-obsidian-markdown-files/)
+
+- [Python Scripts for Obsidian API Integration: Complete Guide](/posts/python-scripts-for-obsidian-api-integration/)
+
+- [Publish Obsidian Notes: Turn Your Vault Into a Public Blog](/posts/how-to-publish-obsidian-notes-to-a-blog/)
+
+- [The Core Question: What Problem Does Obsidian Sync Solve?](/posts/is-obsidian-sync-worth-it-review/)

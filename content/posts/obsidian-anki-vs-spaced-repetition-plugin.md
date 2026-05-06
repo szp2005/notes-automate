@@ -11,6 +11,8 @@ type: "informational"
 tags: ["power", "spaced", "repetition", "second"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Obsidian Anki vs Spaced Repetition Plugin: Which One Actually Fits Your [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)?
 
 ---
@@ -57,7 +59,7 @@ The [Obsidian to Anki plugin](URL_PLACEHOLDER_2) acts as a bridge. You write not
 
 ### How It Actually Works
 
-The plugin requires [AnkiConnect](URL_PLACEHOLDER_3), a free Anki add-on that opens a local API so the Obsidian plugin can push cards into your Anki collection. The flow is:
+The plugin requires AnkiConnect(URL_PLACEHOLDER_3), a free Anki add-on that opens a local API so the Obsidian plugin can push cards into your Anki collection. The flow is:
 
 1. Write a note with designated card syntax (e.g., `TARGET DECK` comment, `START/END` block markers, or inline cloze deletions).
 2. Open Anki so AnkiConnect is running.

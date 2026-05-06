@@ -11,6 +11,8 @@ type: "informational"
 tags: ["core", "question", "problem", "obsidian"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Is Obsidian Sync Worth It? An Honest, No-Nonsense Review (2024)
 
 **TL;DR**

@@ -31,7 +31,7 @@ Obsidian approaches project management from the bottom up. It operates on a fold
 
 ## Deep Dive Reviews
 
-### 1. [Notion](https://www.amazon.com/s?k=Notion&tag=notesautomate-20)
+### 1. Notion
 
 **Best for:** Collaborative teams, agencies, and managers needing structured, visual databases.
 **Price:** Free to $15 per user/month
@@ -52,7 +52,7 @@ Its collaborative features are built-in from the ground up. Real-time co-editing
 - Weak offline mode makes working without internet frustrating
 - Vendor lock-in; exporting a complex workspace structure is difficult
 
-### 2. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=notesautomate-20)
+### 2. Obsidian
 
 **Best for:** Solo project managers, researchers, and developers requiring absolute data ownership and speed.
 **Price:** Free (Sync is $8/month, Commercial use $50/year)

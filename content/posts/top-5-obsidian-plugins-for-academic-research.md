@@ -11,6 +11,8 @@ type: "informational"
 tags: ["old", "research", "workflow", "broken"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Top 5 Obsidian Plugins for Academic Research (And How They Work Together)
 
 *Build a complete literature review, [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), and synthesis system — not just a plugin list.*
@@ -163,13 +165,13 @@ date-added: <% tp.date.now("YYYY-MM-DD") %>
 ## Key Arguments
 -
 
-## Methodology Notes
+[## Methodology Notes
 -
 
 ## Quotes Worth Keeping
 -
 
-## Connection to My Research
+[## Connection to My Research
 -
 
 ## Citation

@@ -168,3 +168,11 @@ Ampersands (`&`) and hashtags (`#`) are reserved characters in URL structures. I
 
 ### Is it possible to pull data out of Obsidian using Shortcuts?
 Yes, but it is more complex. The Advanced URI plugin allows you to specify a file path and return its contents via x-callback-url. However, this requires more advanced Shortcuts programming to catch the returned data and parse the Markdown for use in other iOS apps.
+
+---
+
+## Related Reading
+
+- [Obsidian Advanced URI for Automation with Alfred: Setup Guide](/posts/obsidian-advanced-uri-automation-alfred/)
+
+- [Obsidian Advanced URI for Automation with Alfred: Setup Guide](/posts/obsidian-advanced-uri-automation-alfred/)

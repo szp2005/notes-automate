@@ -190,3 +190,11 @@ You can export contacts from Google Contacts, LinkedIn, or existing CRMs as a CS
 
 ### Is it secure to keep client data in Obsidian?
 Because Obsidian stores files locally on your hard drive, it is inherently more private than cloud-based SaaS products, provided your physical device is secure. If you use cloud syncing, ensure your provider offers strong encryption, or rely on Obsidian Sync's end-to-end encryption to protect sensitive client information.
+
+---
+
+## Related Reading
+
+- [Obsidian Vault Structure for Digital Gardening Beginners: Guide](/posts/obsidian-vault-structure-digital-gardening-beginners/)
+
+- [Obsidian Vault Structure for Digital Gardening Beginners: Guide](/posts/obsidian-vault-structure-digital-gardening-beginners/)

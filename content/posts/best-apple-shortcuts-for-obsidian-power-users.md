@@ -1,4 +1,5 @@
 ---
+image: "/og/best-apple-shortcuts-for-obsidian-power-users.webp"
 title: "Best Apple Shortcuts for Obsidian Power Users in 2026"
 description: "Discover the best Apple Shortcuts for Obsidian power users to automate your PKM workflow. Compare top iOS/macOS tools for rapid capture and organization."
 pubDate: "2026-05-05"
@@ -24,7 +25,7 @@ In this comprehensive guide, we review the top tools and shortcut integrations a
 
 To build powerful shortcuts, you first need a bridge between Apple's shortcut engine and your vault. Here are the top tools that enable these advanced workflows.
 
-### 1. [Actions for Obsidian](https://www.amazon.com/s?k=Actions%20for%20Obsidian&tag=notesautomate-20)
+### 1. Actions for Obsidian
 
 **Best for:** Users who want native, easy-to-use shortcut actions without coding
 **Price:** $15.00-$20.00
@@ -43,7 +44,7 @@ For power users, this tool drastically reduces the friction of building automati
 - Requires a paid license (separate for iOS and macOS, though bundled options exist)
 - Requires a companion Obsidian plugin to be continuously active in your vault
 
-### 2. [Obsidian Advanced URI Plugin](https://www.amazon.com/s?k=Obsidian%20Advanced%20URI%20Plugin&tag=notesautomate-20)
+### 2. Obsidian Advanced URI Plugin
 
 **Best for:** Technical users who want free, limitless customization
 **Price:** $0.00-$0.00
@@ -62,7 +63,7 @@ To use this with Apple Shortcuts, you simply use the native "Open URL" action an
 - Steep learning curve for formatting and encoding URLs correctly
 - Harder to debug when a shortcut fails to execute properly on mobile
 
-### 3. [Drafts App Integration](https://www.amazon.com/s?k=Drafts%20App%20Integration&tag=notesautomate-20)
+### 3. Drafts App Integration
 
 **Best for:** Writers focused on pure text capture speed and processing
 **Price:** $0.00-$19.99/year
@@ -81,7 +82,7 @@ While not purely an Obsidian shortcut by itself, Drafts relies heavily on Apple 
 - Requires Drafts Pro subscription for the most advanced automation features
 - Adds another inbox that you must remember to process or empty regularly
 
-### 4. [ToolBox Pro for Obsidian Workflows](https://www.amazon.com/s?k=ToolBox%20Pro%20for%20Obsidian%20Workflows&tag=notesautomate-20)
+### 4. ToolBox Pro for Obsidian Workflows
 
 **Best for:** Users needing advanced filesystem operations and background processing
 **Price:** $0.00-$5.99
@@ -100,7 +101,7 @@ By using ToolBox Pro's advanced file handling capabilities, you can create a sho
 - Only works if your vault is stored in iCloud Drive (incompatible with Obsidian Sync)
 - Setup requires a strong technical understanding of file paths and Markdown extensions
 
-### 5. [Native iOS Files Integration (iCloud Vaults)](https://www.amazon.com/s?k=Native%20iOS%20Files%20Integration%20%28iCloud%20Vaults%29&tag=notesautomate-20)
+### 5. Native iOS Files Integration (iCloud Vaults)
 
 **Best for:** Minimalists who want no third-party plugins or apps
 **Price:** $0.00-$0.00
@@ -164,3 +165,19 @@ They serve entirely different phases of the workflow. Community plugins are best
 
 ### Can I trigger an Apple Shortcut from inside Obsidian?
 Yes. You can use Obsidian's native URI schemes to trigger an Apple Shortcut from a link inside your notes. By creating a Markdown link formatted as `[Run Shortcut](shortcuts://run-shortcut?name=ShortcutName)`, clicking the link inside Obsidian will launch the Shortcuts app and execute the specified workflow, allowing for bi-directional automation.
+
+---
+
+## Related Reading
+
+- [Setting Up Obsidian with Apple Shortcuts for Mobile: Complete Guide](/posts/setting-up-obsidian-with-apple-shortcuts-for-mobile/)
+
+- [Setting Up Obsidian with Apple Shortcuts for Mobile: Complete Guide](/posts/setting-up-obsidian-with-apple-shortcuts-for-mobile/)
+
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+
+- [Best Obsidian Plugins for Students: Your Academic Edge](/posts/what-are-the-best-obsidian-plugins-for-students/)
+
+- [The Easiest Method: Finding Docs Directly Inside Obsidian](/posts/how-to-find-obsidian-plugin-documentation/)

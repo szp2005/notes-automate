@@ -200,3 +200,15 @@ No, standard Dataview is strictly read-only. It queries and displays data but ca
 
 ### Why is my Dataview table showing "0 results" when I know the notes exist?
 The most common cause is a metadata syntax error or a typo in the `WHERE` clause. Ensure your YAML frontmatter is formatted correctly (e.g., strings in quotes if they contain special characters) and verify that the spelling and capitalization in your query exactly match the data in your notes.
+
+---
+
+## Related Reading
+
+- [Comparing Obsidian Frontmatter vs Inline Dataview Fields (2026)](/posts/comparing-obsidian-frontmatter-vs-inline-dataview-fields/)
+
+- [Comparing Obsidian Frontmatter vs Inline Dataview Fields (2026)](/posts/comparing-obsidian-frontmatter-vs-inline-dataview-fields/)
+
+- [How to Automate Obsidian with n8n and Webhooks: 5-Step Guide](/posts/automate-obsidian-with-n8n-and-webhooks/)
+
+- [How to Automate Obsidian with n8n and Webhooks: 5-Step Guide](/posts/automate-obsidian-with-n8n-and-webhooks/)

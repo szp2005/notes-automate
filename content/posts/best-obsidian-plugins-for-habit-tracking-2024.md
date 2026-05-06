@@ -11,6 +11,8 @@ type: "informational"
 tags: ["track", "habits", "obsidian", "best obsidian plugins for habit tracking 2024"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Best Obsidian Plugins for Habit Tracking 2024: Build a Complete System That Actually Works
 
 ---
@@ -89,9 +91,9 @@ The [Habits plugin](URL_PLACEHOLDER_3) (by Habitual, available in the community 
 
 ### What a Daily Note Entry Looks Like
 
-```markdown
+[```markdown
 ## Habits
-- [ ] Morning workout
+[-  ] Morning workout
 - [ ] Read 20 minutes
 - [ ] No alcohol
 - [ ] Meditation
@@ -150,7 +152,7 @@ That block renders a GitHub-style contribution heatmap of every day you logged a
 
 ### Building a Mood Trend Line
 
-````markdown
+[````markdown
 ```tracker
 searchType: frontmatter
 searchTarget: mood
@@ -199,7 +201,7 @@ focus_hours: 3.5
 
 This Dataview query generates a table of your last seven days of habit data:
 
-````markdown
+[````markdown
 ```dataview
 TABLE workout, meditation, reading, mood
 FROM "Daily Notes"
@@ -212,7 +214,7 @@ Paste this in a `[Weekly Review](/posts/obsidian-template-for-weekly-reflection-
 
 ### Writing a Habit Streak Counter
 
-````markdown
+[````markdown
 ```dataviewjs
 const files = dv.pages('"Daily Notes"').sort(p => p.date, 'desc');
 let streak = 0;
@@ -254,7 +256,7 @@ mood:
 ---
 
 ## Today's Habits
-- [ ] Morning workout
+[-  ] Morning workout
 - [ ] Meditation
 - [ ] Read 20 minutes
 ```
@@ -290,7 +292,7 @@ Pin this note to your sidebar. Open it every morning. This is your [atomic habit
 
 ### Syncing Across Devices
 
-If you use Obsidian on both desktop and mobile—and for habit tracking, you need to, because you're completing habits away from your desk—[Obsidian Sync](URL_PLACEHOLDER_2) is the cleanest solution. It's $4/month, end-to-end encrypted, and just works. iCloud and Git both work but require more configuration and have more failure points.
+If you use Obsidian on both desktop and mobile—and for habit tracking, you need to, because you're completing habits away from your desk—Obsidian Sync(URL_PLACEHOLDER_2) is the cleanest solution. It's $4/month, end-to-end encrypted, and just works. iCloud and Git both work but require more configuration and have more failure points.
 
 ---
 
