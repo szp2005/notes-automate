@@ -451,6 +451,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://notes-automate.com/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://notes-automate.com/posts/explanation-of-obsidian-vault-structure-for-backups/</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -500,6 +506,12 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/how-to-publish-obsidian-notes-to-a-blog/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/how-to-sync-obsidian-with-self-hosted-servers/</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -617,6 +629,12 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/n8n-obsidian-integration-for-automated-web-capture/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/n8n-workflow-for-syncing-obsidian-with-notion/</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
