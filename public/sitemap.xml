@@ -268,6 +268,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/applying-the-para-method-to-an-obsidian-vault/"/>
   </url>
   <url>
+    <loc>https://notes-automate.com/posts/automate-obsidian-daily-notes-using-python/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://notes-automate.com/posts/automate-obsidian-with-n8n-and-webhooks/</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -302,6 +308,12 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-font-pairings-for-obsidian-minimal-theme-2026/"/>
     <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-font-pairings-for-obsidian-minimal-theme-2026/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-font-pairings-for-obsidian-minimal-theme-2026/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/best-n8n-workflows-for-obsidian-automation-2026/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/</loc>
@@ -508,6 +520,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/how-to-use-obsidian-dataview-for-beginners/"/>
   </url>
   <url>
+    <loc>https://notes-automate.com/posts/how-to-use-obsidian-for-qualitative-analysis/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://notes-automate.com/posts/how-to-use-obsidian-for-software-engineering-documentation/</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -539,6 +557,12 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/kanban-plugin-for-obsidian-project-management/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/keyboard-maestro-macros-for-advanced-obsidian-navigation/</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -677,6 +701,12 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/obsidian-vs-reflect-for-fast-daily-journaling/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/obsidian-vs-scrivenir-for-long-form-writing/</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
