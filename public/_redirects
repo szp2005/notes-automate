@@ -1,5 +1,4 @@
 # Redirect old Hugo URLs (pagination)
 /page/* /posts/ 301
 
-# Enforce 404 status for unmatched paths
-/*    /404.html    404
+# Cloudflare Pages serves /404.html automatically for missing static routes.
