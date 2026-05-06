@@ -210,4 +210,6 @@ Because Obsidian operates locally on your machine, your data is as secure as you
 
 - [Best Note Taking Apps for Zettelkasten Methodology 2026](/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/)
 
+- [Best Note Taking Apps for Zettelkasten Methodology 2026](/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/)
+
 - [What Are CSS Snippets and Why Should You Care?](/posts/how-to-customize-obsidian-appearance-with-css-snippets/)

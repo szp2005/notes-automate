@@ -159,6 +159,8 @@ Obsidian's core application is free for personal use, with optional paid service
 
 ## Related Reading
 
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+
 - [Best Obsidian Themes for Long-Form Writing Focus in 2026](/posts/best-obsidian-themes-for-long-form-writing-focus/)
 
 - [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)

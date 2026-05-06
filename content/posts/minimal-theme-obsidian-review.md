@@ -223,6 +223,8 @@ A: Yes. Mobile rendering is explicitly supported and the theme looks consistent 
 
 - [Best Obsidian Themes for Writing Longform Content](/posts/best-obsidian-themes-for-writing-longform-content/)
 
+- [Best Obsidian Themes for Writing Longform Content](/posts/best-obsidian-themes-for-writing-longform-content/)
+
 - [长篇写作的最佳 Obsidian 主题](/posts/best-obsidian-themes-for-writing-longform-content/)
 
 - [长篇写作的最佳 Obsidian 主题](/posts/best-obsidian-themes-for-writing-longform-content/)
