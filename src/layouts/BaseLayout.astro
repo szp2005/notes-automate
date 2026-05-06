@@ -13,7 +13,7 @@ interface Props {
 const {
   title = 'Obsidian Plugins Guide',
   description = 'The best Obsidian plugins, themes, and tips to supercharge your note-taking.',
-  canonicalURL = Astro.url.href,
+  canonicalURL: canonicalURLProp,
   pubDate,
   isArticle = false,
   noindex = false,
@@ -30,7 +30,7 @@ const { pathname } = Astro.url;
 const lang = pathname.startsWith('/zh-cn') ? 'zh-cn' : 'en';
 
 // Force canonical to siteURL host regardless of which domain served the page.
-const canonicalURL = Astro.props.canonicalURL ?? `${siteURL}${pathname}${Astro.url.search}`;
+const canonicalURL = canonicalURLProp ?? `${siteURL}${pathname}${Astro.url.search}`;
 
 // Alternate links for SEO
 const alternateEn = `${siteURL}${pathname.replace('/zh-cn', '')}`;
