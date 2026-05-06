@@ -306,3 +306,11 @@ The main challenges when adopting Obsidian for team project management include t
 ### How does Obsidian handle version control for collaborative documents?
 
 Obsidian handles version control for collaborative documents primarily through external synchronization methods. When
+
+---
+
+## Related Reading
+
+- [Mastering Academic Projects: Organizing in an Obsidian Vault](/posts/organizing-complex-academic-projects-in-an-obsidian-vault/)
+
+- [How to Use Obsidian for Qualitative Analysis: A Complete Guide](/posts/how-to-use-obsidian-for-qualitative-analysis/)

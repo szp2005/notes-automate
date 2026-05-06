@@ -244,3 +244,9 @@ Several factors can cause sync issues. First, ensure you are properly authentica
 
 ### Is a Readwise subscription necessary for automated Kindle highlights sync to Obsidian?
 No, a Readwise subscription is not strictly necessary. The 'Kindle Highlights' community plugin offers a direct, free method to sync your Kindle highlights to Obsidian without needing a Readwise account. Readwise is an alternative service that offers broader highlight aggregation and additional features, but it is not a prerequisite for basic Kindle highlight sync.
+
+---
+
+## Related Reading
+
+- [Obsidian vs TiddlyWiki: Which Is Better for Advanced Personal Wikis?](/posts/obsidian-vs-tiddlywiki-for-advanced-personal-wikis/)

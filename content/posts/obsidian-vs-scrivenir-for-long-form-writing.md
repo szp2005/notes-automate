@@ -154,3 +154,11 @@ For academic writing, the choice depends on the stage and your preference. Scriv
 
 ### What are the main cost differences?
 Obsidian's core application is free for personal use, with optional paid services like Sync and Publish. Scrivener is a one-time purchase ($59.99 for desktop, $23.99 for iOS), meaning you own the license indefinitely without recurring subscriptions for the core features. For long-term use, Scrivener can be more cost-effective if you only need its core features, while Obsidian can be free if you manage your own sync and don't need publishing services.
+
+---
+
+## Related Reading
+
+- [Best Obsidian Themes for Long-Form Writing Focus in 2026](/posts/best-obsidian-themes-for-long-form-writing-focus/)
+
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)

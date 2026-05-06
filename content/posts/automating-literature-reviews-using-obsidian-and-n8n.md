@@ -186,3 +186,11 @@ Dedicated literature review software often provides a more opinionated, all-in-o
 
 For an automated literature review workflow, essential Obsidian plugins include "Citations" (for integration with reference managers), "Dataview" (for querying and displaying data from your notes), and potentially "Templater" (for creating standardized note structures). Other useful plugins might include "Advanced Tables" and "Tasks."
 ---
+
+---
+
+## Related Reading
+
+- [Using Obsidian for Systematic Literature Reviews: A Complete Guide](/posts/using-obsidian-for-systematic-literature-reviews/)
+
+- [n8n Workflow for Syncing Obsidian with Notion: A Complete Guide](/posts/n8n-workflow-for-syncing-obsidian-with-notion/)

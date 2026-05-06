@@ -452,3 +452,11 @@ Keep approvals on sensitive steps, log every run, and test with a small sample b
 ### How do you measure whether automate obsidian daily notes using python is working?
 
 Track cycle time, skipped manual steps, error rate, and user follow-up questions. If the workflow saves time but creates confusion, simplify the handoff before adding more automation.
+
+---
+
+## Related Reading
+
+- [Mastering Obsidian: Keyboard Maestro Macros for Advanced Navigation](/posts/keyboard-maestro-macros-for-advanced-obsidian-navigation/)
+
+- [Custom CSS for Obsidian Academic Paper Formatting: A Complete Guide](/posts/custom-css-for-obsidian-academic-paper-formatting/)

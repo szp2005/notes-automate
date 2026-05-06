@@ -131,6 +131,8 @@ Obsidian is fundamentally designed as a personal knowledge management tool. Real
 
 ## Related Reading
 
+- [The Core Question: What Problem Does Obsidian Sync Solve?](/posts/is-obsidian-sync-worth-it-review/)
+
 - [Obsidian Zettelkasten Setup: Best Plugins and Workflow Guide](/posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/)
 
 - [Obsidian Zettelkasten Setup: Best Plugins and Workflow Guide](/posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/)

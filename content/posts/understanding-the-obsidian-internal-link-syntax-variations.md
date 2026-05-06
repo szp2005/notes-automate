@@ -153,3 +153,9 @@ Yes, Obsidian's parser will recognize its custom block IDs even when formatted a
 
 ### Why are my embedded links not showing up correctly?
 If an embedded transclusion (e.g., `![[My Note]]`) is showing as a simple link or not rendering, ensure you are in "Live Preview" or "Reading" mode. Transclusions do not render their contents fully when you are in the raw "Source Mode" view. Additionally, verify that the file name is spelled exactly correctly and exists within your vault.
+
+---
+
+## Related Reading
+
+- [Obsidian vs Citavi: Which is Better for Research Citations in 2026?](/posts/obsidian-vs-citavi-for-managing-research-citations/)

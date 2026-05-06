@@ -144,3 +144,9 @@ Obsidian Canvas files are saved as `.canvas` files, which are simply open-format
 
 ### Are there Zotero integrations for both tools?
 Obsidian has deep, community-built Zotero integrations that allow you to import citations, annotations, and bibliographies seamlessly. Heptabase is actively developing its own robust academic integrations, but currently, Obsidian offers more extensive customization for strict academic reference management.
+
+---
+
+## Related Reading
+
+- [Best Note Taking Apps for Zettelkasten Methodology 2026](/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/)

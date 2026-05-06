@@ -313,3 +313,9 @@ The Obsidian Raycast extension stands out by offering deep integration with a lo
 
 ### What are the system requirements for using the Obsidian Raycast extension?
 The primary requirement is a macOS operating system, as both Raycast and Obsidian are native macOS applications. You need to have both Obsidian and Raycast installed and running on your system.
+
+---
+
+## Related Reading
+
+- [Using Obsidian for Longitudinal Research Data Tracking: A Comprehensive Guide](/posts/using-obsidian-for-longitudinal-research-data-tracking/)

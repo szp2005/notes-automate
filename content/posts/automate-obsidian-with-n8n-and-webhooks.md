@@ -146,6 +146,8 @@ Using the Local REST API plugin is highly secure provided it is restricted to yo
 
 ## Related Reading
 
+- [Best n8n Workflows for Obsidian Automation in 2026](/posts/best-n8n-workflows-obsidian-automation-2026/)
+
 - [How to Create Automated Index Pages with Obsidian Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/)
 
 - [How to Create Automated Index Pages with Obsidian Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/)

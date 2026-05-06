@@ -162,3 +162,9 @@ Generally, themes have a minimal impact on Obsidian's performance. Most themes a
 
 ### What if a theme breaks after an Obsidian update?
 Occasionally, an Obsidian update might introduce changes that cause a theme to display incorrectly. If this happens, first check if the theme developer has released an update. You can also try switching to the default theme and then back to your preferred theme. If issues persist, you might need to temporarily use another theme or report the bug to the theme's developer.
+
+---
+
+## Related Reading
+
+- [Obsidian vs Scrivener for Long-Form Writing: Which Is Better?](/posts/obsidian-vs-scrivenir-for-long-form-writing/)

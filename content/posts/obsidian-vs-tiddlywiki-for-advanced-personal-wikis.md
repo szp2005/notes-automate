@@ -273,3 +273,9 @@ Obsidian's core application is desktop and mobile-based. While you can sync your
 ### Which tool has a larger and more active community?
 
 Obsidian generally has a larger and more rapidly growing community, particularly on platforms like Discord, Reddit, and its official forum. TiddlyWiki has a highly dedicated and knowledgeable community that has been active for much longer, but it is typically smaller and more niche.
+
+---
+
+## Related Reading
+
+- [Obsidian Plugin for Automated Kindle Highlights Sync: A Complete Guide](/posts/obsidian-plugin-for-automated-kindle-highlights-sync/)

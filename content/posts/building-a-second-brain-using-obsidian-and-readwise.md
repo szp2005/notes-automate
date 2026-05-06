@@ -152,5 +152,7 @@ Yes. Readwise simply deposits text files into your vault. You can then use Obsid
 
 ## Related Reading
 
+- [How to Sync Obsidian with Self-Hosted Servers: A Complete Guide](/posts/how-to-sync-obsidian-with-self-hosted-servers/)
+
 - [Obsidian URI Protocol for Automation with Raycast: Complete Guide](/posts/obsidian-uri-protocol-for-automation-with-raycast/)
 - [Best Note Taking Apps for Zettelkasten Methodology 2026](/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/)

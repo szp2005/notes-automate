@@ -153,6 +153,8 @@ For the vast majority of users, the performance impact is completely negligible.
 
 ## Related Reading
 
+- [Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/)
+
 - [Obsidian for Tabletop RPG World Building: Best Setup Guide (2026)](/posts/using-obsidian-for-tabletop-rpg-world-building/)
 
 - [Obsidian for Tabletop RPG World Building: Best Setup Guide (2026)](/posts/using-obsidian-for-tabletop-rpg-world-building/)

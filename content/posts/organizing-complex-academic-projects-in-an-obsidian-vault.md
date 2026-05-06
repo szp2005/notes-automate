@@ -178,3 +178,9 @@ Yes, the "Tasks" community plugin is excellent for this. It allows you to embed 
 
 ### How do I ensure my academic research notes in Obsidian are backed up and version-controlled?
 Since Obsidian vaults are local Markdown files, you can use standard methods. Cloud synchronization services like Obsidian Sync, Dropbox, Google Drive, or OneDrive provide basic backups. For robust version control, initializing a Git repository in your vault's root folder allows you to track every change, revert to previous versions, and push to a remote repository like GitHub for off-site security.
+
+---
+
+## Related Reading
+
+- [Obsidian Project Management for Academic Research Teams: A Complete Guide](/posts/obsidian-project-management-academic-research-teams/)

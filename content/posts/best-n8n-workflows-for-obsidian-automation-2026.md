@@ -149,3 +149,9 @@ When self-hosting n8n, your data remains entirely on your own infrastructure, of
 
 ### Can n8n automate publishing content from Obsidian?
 Yes, n8n can automate publishing content. Workflows can be configured to monitor specific Obsidian notes or folders, and upon changes or a trigger, push the content to platforms like WordPress, Ghost, social media, or email newsletters using their respective APIs.
+
+---
+
+## Related Reading
+
+- [Obsidian Metadata Menu vs. Database Folder: Which is Best for Your Workflow?](/posts/comparing-obsidian-metadata-menu-vs-database-folder/)

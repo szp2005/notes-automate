@@ -212,3 +212,9 @@ For SLRs, use a consistent tagging strategy. Employ broad tags for categories (e
 
 ### How do I handle large numbers of papers in Obsidian?
 For large SLRs, optimize your vault structure with clear folders, use templates for consistent data extraction, and heavily rely on frontmatter and tags. The Dataview plugin is crucial for querying and summarizing information from hundreds of notes. Consider breaking down complex analyses into smaller, manageable MOCs (Maps of Content) to maintain clarity.
+
+---
+
+## Related Reading
+
+- [Automating Literature Reviews with Obsidian & n8n: A Complete Guide](/posts/automating-literature-reviews-using-obsidian-and-n8n/)

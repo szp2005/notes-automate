@@ -167,3 +167,9 @@ Obsidian properties are stored as plain text key-value pairs within Markdown fil
 
 ### What are the performance implications of using many properties?
 While Obsidian is highly optimized, using an excessive number of properties (e.g., hundreds per note) or having an extremely large vault (tens of thousands of notes) can slightly impact performance, especially for complex Dataview queries. However, for typical advanced use cases, the performance impact is negligible. Focus on adding properties that genuinely add value rather than maximizing their count.
+
+---
+
+## Related Reading
+
+- [Obsidian Raycast Extension: Rapid Research Capture Guide](/posts/obsidian-raycast-extension-for-rapid-research-capture/)

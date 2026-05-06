@@ -147,3 +147,9 @@ Keep approvals on sensitive steps, log every run, and test with a small sample b
 ### How do you measure whether how to sync obsidian with self hosted servers is working?
 
 Track cycle time, skipped manual steps, error rate, and user follow-up questions. If the workflow saves time but creates confusion, simplify the handoff before adding more automation.
+
+---
+
+## Related Reading
+
+- [Automate Obsidian Daily Notes with Python: A Complete Guide](/posts/automate-obsidian-daily-notes-using-python/)
