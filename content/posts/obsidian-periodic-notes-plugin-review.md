@@ -40,7 +40,7 @@ Here's a vault most Obsidian users recognize: 847 daily notes dumped in the root
 
 The Periodic Notes plugin, developed by Liam Cain, solves a structural problem, not a [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) problem. It enforces a time-based hierarchy: daily notes feed into weekly notes, weekly notes feed into monthly notes, and so on up to yearly retrospectives. Each level lives in its own folder, opens from a hotkey, and auto-populates from a template you define once.
 
-The philosophy here is the same one Tiago Forte outlines in [Building a Second Brain](URL_PLACEHOLDER_1) — capture consistently, organize by action, and review regularly. Periodic Notes automates the "organize" and "review" steps so you stop deciding and start doing.
+The philosophy here is the same one Tiago Forte outlines in Building a Second Brain — capture consistently, organize by action, and review regularly. Periodic Notes automates the "organize" and "review" steps so you stop deciding and start doing.
 
 **The before-and-after in concrete terms:**
 
@@ -76,15 +76,15 @@ The settings pane has six tabs: Daily, Weekly, Monthly, Quarterly, Yearly, and G
 ```
 Vault/
 ├── Periodic/
-│   ├── Daily/
-│   ├── Weekly/
-│   ├── Monthly/
-│   ├── Quarterly/
-│   └── Yearly/
+│ ├── Daily/
+│ ├── Weekly/
+│ ├── Monthly/
+│ ├── Quarterly/
+│ └── Yearly/
 ├── Templates/
-│   ├── Template-Daily.md
-│   ├── Template-Weekly.md
-│   └── Template-Monthly.md
+│ ├── Template-Daily.md
+│ ├── Template-Weekly.md
+│ └── Template-Monthly.md
 ```
 
 Create these folders before configuring the plugin — it won't create them for you, and mistyping the path means your notes land in the root folder silently.
@@ -124,7 +124,7 @@ Day 12. I'd written in my weekly template a goal: "Ship the client proposal by T
 
 ## 4. Supercharge Your Workflow with Templates {#templates}
 
-The plugin does nothing special with templates on its own — it opens a template file you specify. The power comes from combining it with [Templater plugin](URL_PLACEHOLDER_2) (not the core Templates plugin), which executes JavaScript-like expressions when a note opens.
+The plugin does nothing special with templates on its own — it opens a template file you specify. The power comes from combining it with Templater plugin (not the core Templates plugin), which executes JavaScript-like expressions when a note opens.
 
 **Example Daily Note Template (using Templater):**
 
@@ -132,12 +132,12 @@ The plugin does nothing special with templates on its own — it opens a templat
 # <% tp.date.now("dddd, MMMM D, YYYY") %>
 
 ## Tasks
-[-  ]
+[- ]
 
 ## Top 3 Priorities
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 ## Meeting Notes
 
@@ -161,11 +161,11 @@ The Dataview block at the bottom queries *this week's* weekly note for incomplet
 # Week <% tp.date.now("WW") %> — <% tp.date.now("MMMM YYYY") %>
 
 ## This Week's Goals
-[-  ]
+[- ]
 
 ## Wins
 
-[## Blockers
+## Blockers
 
 ## Next Week's Focus
 
@@ -176,7 +176,7 @@ where file.name >= "<% tp.date.now("YYYY-MM-DD", 0, "day", -tp.date.now("d") + 1
 \`\`\`
 ```
 
-For task management that syncs across these notes, [Setapp](URL_PLACEHOLDER_3) bundles several apps (including OmniFocus-compatible workflows) that pair cleanly with an Obsidian-based daily review system.
+For task management that syncs across these notes, [Setapp bundles several apps (including OmniFocus-compatible workflows) that pair cleanly with an Obsidian-based daily review system.
 
 ---
 
@@ -216,12 +216,12 @@ where sprint = true and project = "ClientX"
 
 **Calendar Plugin Integration**
 
-Install the [Calendar plugin](URL_PLACEHOLDER_4) alongside Periodic Notes. It renders a month-view calendar in your sidebar where every day with an existing daily note shows a dot. Click any date to open or create that day's note. Missing days stand out immediately — you see at a glance if you skipped four days of journaling. The two plugins share the same date format settings, so no reconfiguration required.
+Install the Calendar plugin alongside Periodic Notes. It renders a month-view calendar in your sidebar where every day with an existing daily note shows a dot. Click any date to open or create that day's note. Missing days stand out immediately — you see at a glance if you skipped four days of journaling. The two plugins share the same date format settings, so no reconfiguration required.
 
 ---
 
 > **Want to Master Obsidian Beyond Periodic Notes?**
-> Structured courses from practitioners like Nick Milo (Linking Your Thinking) walk through full PKM system design — not just individual plugins. [Explore Obsidian courses here](URL_PLACEHOLDER_5) if you want to see how Periodic Notes fits into a complete [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system.
+> Structured courses from practitioners like Nick Milo (Linking Your Thinking) walk through full PKM system design — not just individual plugins. Explore Obsidian courses here if you want to see how Periodic Notes fits into a complete [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system.
 
 ---
 
@@ -262,7 +262,7 @@ Install the [Calendar plugin](URL_PLACEHOLDER_4) alongside Periodic Notes. It re
 
 **Final verdict:** For anyone building a serious PKM system or using Obsidian as a [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) hub, Periodic Notes is not optional — it's load-bearing infrastructure. It takes 12 minutes to install, pays back that time on day two, and compounds in value every week you use it. The only valid reason to avoid it is genuine minimalism.
 
-[Install the Periodic Notes plugin from Obsidian's community plugin directory](URL_PLACEHOLDER_6), and pair it immediately with the [starter template pack on GitHub](URL_PLACEHOLDER_7) to skip the template paralysis phase entirely.
+Install the Periodic Notes plugin from Obsidian's community plugin directory, and pair it immediately with the starter template pack on GitHub to skip the template paralysis phase entirely.
 
 ---
 
@@ -270,7 +270,7 @@ Install the [Calendar plugin](URL_PLACEHOLDER_4) alongside Periodic Notes. It re
 
 The Periodic Notes plugin is a 12-minute investment that restructures how your entire vault scales over time. It replaces chaotic daily-note accumulation with a clean, navigable timeline — daily notes inside weekly containers, weekly notes summarized monthly, monthly notes queryable at the quarterly and yearly level via Dataview. The setup friction is real but front-loaded; after that first configuration session, the system runs itself.
 
-If you're ready to stop organizing your vault manually and start letting your tools do that work, [grab Periodic Notes from the community plugin browser](URL_PLACEHOLDER_6), spend 20 minutes on a minimal template, and use it every day for two weeks before judging it. That's the only honest benchmark.
+If you're ready to stop organizing your vault manually and start letting your tools do that work, grab Periodic Notes from the community plugin browser, spend 20 minutes on a minimal template, and use it every day for two weeks before judging it. That's the only honest benchmark.
 
 ---
 

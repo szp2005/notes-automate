@@ -1,4 +1,5 @@
 ---
+image: "/og/organizing-complex-academic-projects-in-an-obsidian-vault.webp"
 title: "Mastering Academic Projects: Organizing in an Obsidian Vault"
 description: "Practical guide to organizing complex academic projects in an obsidian vault: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-06"

@@ -50,7 +50,7 @@ This is not aesthetics for aesthetics' sake. It is applied ergonomics.
 
 **The psychological effect of a clean interface is underestimated.** The sidebar listing your vault, the ribbon with its icons, the status bar at the bottom — every one of those elements is a low-grade interruption. Research on attention consistently shows that visible, unrelated affordances in a workspace pull cognitive resources even when you are not actively using them. A theme that hides or mutes these elements during writing is doing real work for you.
 
-Tiago Forte makes a related argument in [*Building a Second Brain*](URL_PLACEHOLDER_1): a well-designed knowledge system should reduce friction, not add it. Your visual environment is part of that system. Getting it right means your vault stops feeling like a [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) app you have to fight and starts feeling like a writing room you chose.
+Tiago Forte makes a related argument in *Building a Second Brain*: a well-designed knowledge system should reduce friction, not add it. Your visual environment is part of that system. Getting it right means your vault stops feeling like a [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) app you have to fight and starts feeling like a writing room you chose.
 
 Moving past the default settings is not optional if you are serious about long-form work. It is the foundational step.
 
@@ -70,7 +70,7 @@ Does the theme have a built-in focus or zen mode? How well does it handle typewr
 How much visual noise does the theme remove from the workspace? Does it have a clean, uncluttered approach to tabs, status bars, and the editor toolbar?
 
 **Customization via Style Settings (CS)**
-How deeply does the [Style Settings plugin](URL_PLACEHOLDER_2) integration go? Can you change fonts, adjust line lengths, toggle sidebar behavior, and fine-tune colors — or is what you see what you get?
+How deeply does the Style Settings plugin integration go? Can you change fonts, adjust line lengths, toggle sidebar behavior, and fine-tune colors — or is what you see what you get?
 
 ---
 
@@ -78,7 +78,7 @@ How deeply does the [Style Settings plugin](URL_PLACEHOLDER_2) integration go? C
 
 **Best for: Writers who want ultimate control and a clean slate — the Minimalist Novelist archetype.**
 
-[Minimal Theme](URL_PLACEHOLDER_3) by Kepano is the most downloaded community theme in Obsidian, and for long-form writing specifically, it earns that position. Its default appearance is clean, slightly opinionated, and immediately more comfortable than the Obsidian default. But its real power is the depth of its Style Settings integration.
+Minimal Theme by Kepano is the most downloaded community theme in Obsidian, and for long-form writing specifically, it earns that position. Its default appearance is clean, slightly opinionated, and immediately more comfortable than the Obsidian default. But its real power is the depth of its Style Settings integration.
 
 ### What Minimal Gets Right
 
@@ -90,7 +90,7 @@ Typography defaults are solid: a clean system sans-serif, sensible line height, 
 
 iA Writer's appeal to serious writers is well documented: it uses a custom monospaced font, restricts line length to roughly 65 characters, centers the content column, and washes out everything that is not the current sentence or paragraph. You can replicate all of this in Minimal with about ten minutes of Style Settings adjustments.
 
-Install the [Style Settings plugin](URL_PLACEHOLDER_2) first, then open **Settings → Style Settings → Minimal Theme**. Apply these specific changes:
+Install the Style Settings plugin first, then open **Settings → Style Settings → Minimal Theme**. Apply these specific changes:
 
 **Step 1: Set the font.** Under *Text*, change body font to `iA Writer Duospace` (free download from iA's GitHub) or substitute `Merriweather` for a traditional serif experience.
 
@@ -105,13 +105,13 @@ Install the [Style Settings plugin](URL_PLACEHOLDER_2) first, then open **Settin
 ```css
 /* Minimal Theme — Writer's Focus Override */
 .markdown-source-view.mod-cm6 .cm-content {
-  max-width: 680px;
-  margin: 0 auto;
-  padding: 0 24px;
+ max-width: 680px;
+ margin: 0 auto;
+ padding: 0 24px;
 }
 
 .markdown-source-view .cm-line {
-  line-height: 1.75;
+ line-height: 1.75;
 }
 ```
 
@@ -133,7 +133,7 @@ Paste this into a `.css` file inside your vault's `.obsidian/snippets/` folder a
 
 **Best for: Writers who want a beautiful, comfortable setup immediately — no configuration required.**
 
-[Typomagical](URL_PLACEHOLDER_4) is the closest thing Obsidian has to a theme designed exclusively by a typographer. Where most themes treat typography as one element among many, Typomagical treats it as the entire point. It ships with carefully chosen serif fonts, meticulous vertical rhythm, and heading sizes that actually feel like they belong in a published document rather than a developer's notes app.
+Typomagical is the closest thing Obsidian has to a theme designed exclusively by a typographer. Where most themes treat typography as one element among many, Typomagical treats it as the entire point. It ships with carefully chosen serif fonts, meticulous vertical rhythm, and heading sizes that actually feel like they belong in a published document rather than a developer's notes app.
 
 ### What Typomagical Gets Right
 
@@ -150,9 +150,9 @@ Typomagical's dark mode defaults are good, but if you write for three or four ho
 ```css
 /* Typomagical — Warm Dark Mode for Long Sessions */
 .theme-dark {
-  --background-primary: #1c1a17;
-  --background-secondary: #211f1b;
-  --text-normal: #d4c9b8;
+ --background-primary: #1c1a17;
+ --background-secondary: #211f1b;
+ --text-normal: #d4c9b8;
 }
 ```
 
@@ -174,7 +174,7 @@ This shifts the dark background toward a warm off-black and the text toward a wa
 
 **Best for: Academics, researchers, and non-fiction writers — the Academic Researcher archetype.**
 
-[Things Theme](URL_PLACEHOLDER_5) takes its name from the Cultured Code task manager it visually echoes, but for academic writing in Obsidian, it punches well above its reputation as a "productivity-adjacent" theme. Its real strengths for longform writers are structural: heading hierarchy is among the most visually distinct of any theme, footnote styling is actually readable, and its callout block design is the best implementation in any theme currently available.
+Things Theme takes its name from the Cultured Code task manager it visually echoes, but for academic writing in Obsidian, it punches well above its reputation as a "productivity-adjacent" theme. Its real strengths for longform writers are structural: heading hierarchy is among the most visually distinct of any theme, footnote styling is actually readable, and its callout block design is the best implementation in any theme currently available.
 
 ### What Things Gets Right for Academics
 
@@ -191,21 +191,21 @@ Footnote text renders at a clearly differentiated size but remains readable — 
 ```css
 /* Things Theme — Academic Manuscript Mode */
 .markdown-rendered h2 {
-  border-left: 3px solid var(--color-accent);
-  padding-left: 10px;
-  margin-top: 2.5em;
+ border-left: 3px solid var(--color-accent);
+ padding-left: 10px;
+ margin-top: 2.5em;
 }
 
 .markdown-rendered blockquote {
-  border-left: 2px solid var(--text-muted);
-  color: var(--text-muted);
-  font-style: italic;
-  padding: 0.4em 1em;
+ border-left: 2px solid var(--text-muted);
+ color: var(--text-muted);
+ font-style: italic;
+ padding: 0.4em 1em;
 }
 
 .footnote-ref, .footnote {
-  font-size: 0.82em;
-  color: var(--text-muted);
+ font-size: 0.82em;
+ color: var(--text-muted);
 }
 ```
 
@@ -225,7 +225,7 @@ Footnote text renders at a clearly differentiated size but remains readable — 
 
 ### Sanctum
 
-[Sanctum](URL_PLACEHOLDER_6) is built around the concept of a "sacred space" for writing and thinking. Its color palette is muted to the point of near-monochrome, with the entire UI stepping back to let your content breathe. It handles long paragraphs with exceptional grace. The caveat: Sanctum is less actively maintained than Minimal or Things, and occasional Obsidian updates can break specific elements. Ideal for the writer who wants a polished, meditative atmosphere and is comfortable applying the occasional CSS fix.
+Sanctum is built around the concept of a "sacred space" for writing and thinking. Its color palette is muted to the point of near-monochrome, with the entire UI stepping back to let your content breathe. It handles long paragraphs with exceptional grace. The caveat: Sanctum is less actively maintained than Minimal or Things, and occasional Obsidian updates can break specific elements. Ideal for the writer who wants a polished, meditative atmosphere and is comfortable applying the occasional CSS fix.
 
 **Best for:** Poets, essayists, and writers who find colorful themes distracting.
 
@@ -237,7 +237,7 @@ A stripped-back, high-contrast theme that does exactly one thing: gets out of yo
 
 ### Prism
 
-[Prism](URL_PLACEHOLDER_7) is the choice for writers who want their tools to feel alive. It uses a structured color system that distinguishes heading levels through color, not just size, and supports a wide range of accent color customizations. It is the most visually active theme in this roundup, which makes it polarizing in a list focused on distraction-free writing. However, for bloggers and content writers who draft directly in Obsidian and want a workspace that energizes rather than quiets, Prism is genuinely excellent.
+Prism is the choice for writers who want their tools to feel alive. It uses a structured color system that distinguishes heading levels through color, not just size, and supports a wide range of accent color customizations. It is the most visually active theme in this roundup, which makes it polarizing in a list focused on distraction-free writing. However, for bloggers and content writers who draft directly in Obsidian and want a workspace that energizes rather than quiets, Prism is genuinely excellent.
 
 **Best for:** Content creators and bloggers who do shorter longform work (800–2,000 words) and want a dynamic, modern environment.
 
@@ -249,7 +249,7 @@ A great theme creates the visual container. These plugins fill it with the right
 
 ### Longform Plugin
 
-The [Longform plugin](URL_PLACEHOLDER_8) is not optional if you are writing a novel, thesis, or any multi-chapter project in Obsidian. It lets you organize a project into scenes or chapters as individual notes, set a writing target, track word count per session, and compile everything into a single document for export. It turns Obsidian from a note-taking app into something that competes directly with Scrivener — and combined with any theme in this list, the writing environment is genuinely superior for many users.
+The Longform plugin is not optional if you are writing a novel, thesis, or any multi-chapter project in Obsidian. It lets you organize a project into scenes or chapters as individual notes, set a writing target, track word count per session, and compile everything into a single document for export. It turns Obsidian from a note-taking app into something that competes directly with Scrivener — and combined with any theme in this list, the writing environment is genuinely superior for many users.
 
 The plugin works with any theme. Minimal and Things pair especially well because their clean structure does not visually compete with Longform's sidebar panels.
 
@@ -290,9 +290,9 @@ The difference between Obsidian's default appearance and a properly configured w
 
 **The writer who just wants to start now** opens Typomagical, enables Typewriter Scroll, and has a comfortable, beautiful drafting environment inside of five minutes.
 
-If you work across multiple devices, pair any of these setups with [Obsidian Sync](URL_PLACEHOLDER_9) — it is the most reliable way to keep your vault, plugins, themes, and CSS snippets identical across Mac, iPad, iPhone, and Windows without any manual file management. It is the one Obsidian paid product that writers who take their vault seriously consistently say is worth the cost.
+If you work across multiple devices, pair any of these setups with Obsidian Sync — it is the most reliable way to keep your vault, plugins, themes, and CSS snippets identical across Mac, iPad, iPhone, and Windows without any manual file management. It is the one Obsidian paid product that writers who take their vault seriously consistently say is worth the cost.
 
-When your draft is done, shift your tools to the editing phase. [ProWritingAid](URL_PLACEHOLDER_10) integrates with plain text exports and handles grammar, style consistency, and pacing analysis at a depth that general-purpose tools do not reach — a practical next step after Obsidian gets you through the draft.
+When your draft is done, shift your tools to the editing phase. ProWritingAid integrates with plain text exports and handles grammar, style consistency, and pacing analysis at a depth that general-purpose tools do not reach — a practical next step after Obsidian gets you through the draft.
 
 Pick the theme that matches your archetype. Configure it once. Then write.
 

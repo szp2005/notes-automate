@@ -86,7 +86,7 @@ If you're comfortable with the command line and you only sync to a second device
 
 ### Obsidian Sync vs. Syncthing
 
-[Syncthing](URL_PLACEHOLDER_1) is a free, open-source, peer-to-peer sync tool that many power users swear by. It works well, it's genuinely secure (TLS + device verification), and it has no cloud intermediary at all. The issue is that both devices must be online at the same time to sync, or you need to run a relay/always-on device to bridge them. Setting up Syncthing correctly takes 30–90 minutes even for experienced users, and it requires occasional maintenance — firewall rules, app updates, conflict resolution.
+Syncthing is a free, open-source, peer-to-peer sync tool that many power users swear by. It works well, it's genuinely secure (TLS + device verification), and it has no cloud intermediary at all. The issue is that both devices must be online at the same time to sync, or you need to run a relay/always-on device to bridge them. Setting up Syncthing correctly takes 30–90 minutes even for experienced users, and it requires occasional maintenance — firewall rules, app updates, conflict resolution.
 
 If you have a home server running 24/7 and you enjoy infrastructure, Syncthing is excellent. If you're evaluating tools to reduce friction in your workflow, adding a self-hosted relay to your stack is moving in the wrong direction.
 
@@ -122,7 +122,7 @@ The more honest calculation is time. If troubleshooting iCloud sync issues costs
 
 Non-profit organizations and users in certain lower-income regions can apply for pricing adjustments directly through Obsidian's support. Students should check whether their institution has any arrangements, though there are none currently listed publicly.
 
-If you want to support the Obsidian developers further, the [Obsidian Catalyst license](URL_PLACEHOLDER_2) is a one-time purchase that funds development and grants access to insider builds — it's not a substitute for Sync, but it's worth knowing about.
+If you want to support the Obsidian developers further, the Obsidian Catalyst license is a one-time purchase that funds development and grants access to insider builds — it's not a substitute for Sync, but it's worth knowing about.
 
 ---
 
@@ -130,7 +130,7 @@ If you want to support the Obsidian developers further, the [Obsidian Catalyst l
 
 **The Multi-Platform Professional.** You have a Windows work laptop, a personal MacBook, and an Android phone. No single free solution covers all three without friction. Obsidian Sync does, out of the box.
 
-**The Security-Conscious User.** If your vault contains anything you'd consider sensitive — therapy notes, client work, medical information, personal finances — E2EE isn't optional. It's the baseline. Obsidian Sync and [Sync.com](URL_PLACEHOLDER_3) (for ancillary file storage) are among the few services that take this seriously at the consumer level. Speaking of which: if you care enough about E2EE to pay for it in your notes, it's worth extending that thinking to your whole internet connection with a trusted VPN like [NordVPN](URL_PLACEHOLDER_4).
+**The Security-Conscious User.** If your vault contains anything you'd consider sensitive — therapy notes, client work, medical information, personal finances — E2EE isn't optional. It's the baseline. Obsidian Sync and Sync.com (for ancillary file storage) are among the few services that take this seriously at the consumer level. Speaking of which: if you care enough about E2EE to pay for it in your notes, it's worth extending that thinking to your whole internet connection with a trusted VPN like NordVPN.
 
 **The Non-Tinkerer.** Your vault is your second brain. You've invested hundreds of hours building it. You do not want to debug a Syncthing relay on a Sunday afternoon. You want to open a note on your phone while you're waiting in line and have it just be there.
 
@@ -142,7 +142,7 @@ If you want to support the Obsidian developers further, the [Obsidian Catalyst l
 
 **The Budget-Conscious Student or Hobbyist.** If $96/year is genuinely a stretch, and you only use one or two Apple devices, iCloud is workable. Save your money, accept the occasional sync headache, and revisit when your situation changes.
 
-**The Single-Device User.** If you write on one machine and never need your notes elsewhere, you need no sync solution at all. Local backups to an external drive or [Sync.com](URL_PLACEHOLDER_3) cover your data safety needs for less.
+**The Single-Device User.** If you write on one machine and never need your notes elsewhere, you need no sync solution at all. Local backups to an external drive or Sync.com cover your data safety needs for less.
 
 **The Enthusiast Who Enjoys the Setup.** Git is genuinely powerful. If you want per-commit version history, full portability, and you like configuring tools, the Obsidian Git plugin plus a private GitHub repo is a legitimate, robust setup. You're not missing out — you're making a different tradeoff.
 
@@ -209,9 +209,9 @@ For anyone whose Obsidian vault represents real, irreplaceable thinking, that's 
 
 ---
 
-**Ready to try it?** [Start your Obsidian Sync free trial](URL_PLACEHOLDER_5) — 2 months free, no commitment. If you decide it's not for you, your notes are still yours and you can switch to any alternative with zero friction.
+**Ready to try it?** Start your Obsidian Sync free trial — 2 months free, no commitment. If you decide it's not for you, your notes are still yours and you can switch to any alternative with zero friction.
 
-*If you value E2EE for your notes, consider extending that protection to your broader digital life. [Sync.com](URL_PLACEHOLDER_3) offers zero-knowledge encrypted cloud storage for everything else, and [NordVPN](URL_PLACEHOLDER_4) secures your connection on the networks where you do your best work.*
+*If you value E2EE for your notes, consider extending that protection to your broader digital life. Sync.com offers zero-knowledge encrypted cloud storage for everything else, and NordVPN secures your connection on the networks where you do your best work.*
 
 ## Frequently Asked Questions
 

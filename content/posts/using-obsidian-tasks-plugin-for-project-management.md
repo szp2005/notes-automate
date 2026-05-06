@@ -141,7 +141,7 @@ A task query is a code block with the language set to `tasks`. Inside it, you wr
 
 ### Minimum Viable Query
 
-[````markdown
+````markdown
 ```tasks
 not done
 ```
@@ -221,9 +221,9 @@ In a file called `Dashboard/Projects.md`, add this Dataview query:
 ````markdown
 ```dataview
 TABLE
-  status AS "Status",
-  due AS "Deadline",
-  length(filter(file.tasks, (t) => t.completed)) + "/" + length(file.tasks) AS "Progress"
+ status AS "Status",
+ due AS "Deadline",
+ length(filter(file.tasks, (t) => t.completed)) + "/" + length(file.tasks) AS "Progress"
 FROM "Projects"
 WHERE status != "archived"
 SORT due ASC
@@ -255,7 +255,7 @@ sort by due date
 ```
 ````
 
-This is not a visual Kanban board with drag-and-drop, but it groups your work by status in a way that reads like swim lanes. For a true Kanban visual, the community [Obsidian Kanban plugin](URL_PLACEHOLDER_1) paired with Tasks works well — use tasks in Kanban cards and query them independently.
+This is not a visual Kanban board with drag-and-drop, but it groups your work by status in a way that reads like swim lanes. For a true Kanban visual, the community [Obsidian Kanban plugin paired with Tasks works well — use tasks in Kanban cards and query them independently.
 
 ### Finding Stuck Tasks
 
@@ -277,25 +277,25 @@ Review this weekly. Any task that has been sitting without a date is either a de
 
 ## A Practical Workflow: The PARA Method with Tasks {#a-practical-workflow-the-para-method}
 
-PARA (Projects, Areas, Resources, Archives) is the organizational framework developed by Tiago Forte. [His book, *Building a Second Brain*](URL_PLACEHOLDER_2), is the clearest articulation of why this structure works. The short version: Projects have deadlines, Areas have ongoing standards, Resources are reference material, Archives are inactive items.
+PARA (Projects, Areas, Resources, Archives) is the organizational framework developed by Tiago Forte. His book, *Building a Second Brain*, is the clearest articulation of why this structure works. The short version: Projects have deadlines, Areas have ongoing standards, Resources are reference material, Archives are inactive items.
 
 ### Vault Structure
 
 ```
 📁 Projects/
-  📁 Project-Apollo/
-    📄 Project-Apollo.md      ← Project Home note
-    📄 Meeting-2025-08-01.md
-    📄 Research.md
+ 📁 Project-Apollo/
+ 📄 Project-Apollo.md ← Project Home note
+ 📄 Meeting-2025-08-01.md
+ 📄 Research.md
 📁 Areas/
-  📄 Operations.md
-  📄 Client-Relationships.md
+ 📄 Operations.md
+ 📄 Client-Relationships.md
 📁 Resources/
 📁 Archives/
 📁 Dashboard/
-  📄 Today.md
-  📄 Projects.md
-  📄 Weekly-Review.md
+ 📄 Today.md
+ 📄 Projects.md
+ 📄 Weekly-Review.md
 📁 Daily Notes/
 ```
 
@@ -315,7 +315,7 @@ tags: [project-apollo]
 # Project Apollo
 
 ## Goal
-[{{ goal }}
+{{ goal }}
 
 ## Action Items
 [```tasks
@@ -439,11 +439,11 @@ sort by created date
 
 ### Use the Templater Plugin for Project Notes
 
-The [Templater community plugin](URL_PLACEHOLDER_3) lets you create a new Project Home note from a template with one keypress. The template auto-fills today's date, asks for the project name, and pre-builds the folder structure. This removes the friction of setup so you actually create project notes instead of skipping them.
+The [Templater community plugin lets you create a new Project Home note from a template with one keypress. The template auto-fills today's date, asks for the project name, and pre-builds the folder structure. This removes the friction of setup so you actually create project notes instead of skipping them.
 
 ### Mobile: Sync Is Not Optional
 
-If you use Obsidian on your phone — and you should, because capturing tasks on mobile is where most to-do systems break down — you need reliable sync. [Obsidian Sync](URL_PLACEHOLDER_4) is the most reliable option because it is built by the same team and handles conflict resolution intelligently. It is $4/month and it means your vault, including every task, is consistent across your desktop and phone within seconds. iCloud and third-party sync solutions work but introduce edge cases where task completions on mobile fail to propagate correctly.
+If you use Obsidian on your phone — and you should, because capturing tasks on mobile is where most to-do systems break down — you need reliable sync. Obsidian Sync is the most reliable option because it is built by the same team and handles conflict resolution intelligently. It is $4/month and it means your vault, including every task, is consistent across your desktop and phone within seconds. iCloud and third-party sync solutions work but introduce edge cases where task completions on mobile fail to propagate correctly.
 
 For mobile task entry specifically: set up a Quick Capture note. Configure the Tasks plugin to append new tasks via Share Sheet. Then route those tasks during your next review.
 
@@ -453,7 +453,7 @@ Install the Calendar plugin and enable it. It integrates with Tasks to show a do
 
 ### Common Pitfalls
 
-[**Queries returning nothing:** Check that your Global Task Filter tag matches the tag on your tasks. If the filter is `#task` but your tasks use `#todo`, nothing appears. Also check that you did not accidentally add a space before the emoji — `-  ] Task  📅 2025-08-15` (double space) can break parsing.
+[**Queries returning nothing:** Check that your Global Task Filter tag matches the tag on your tasks. If the filter is `#task` but your tasks use `#todo`, nothing appears. Also check that you did not accidentally add a space before the emoji — `- ] Task 📅 2025-08-15` (double space) can break parsing.
 
 **Recurring tasks duplicating incorrectly:** Recurring tasks work by completing the current instance and generating a new one. If you edit the raw markdown of a completed recurring task, the plugin may lose the chain. Always complete recurring tasks by clicking the checkbox, not by changing `[ ]` to `[x]` manually.
 
@@ -490,9 +490,9 @@ The system described in this guide scales from a single project to a full PARA-s
 
 The vault template structure — `Projects/`, `Areas/`, `Dashboard/`, `Daily Notes/` — is simple enough to set up in 20 minutes and robust enough to run a full consulting practice or research workflow without modification.
 
-For those who prefer to learn through video and want to go deeper into advanced DataviewJS dashboards, custom themes, and Obsidian automation workflows, [structured courses on platforms like Skillshare or Udemy](URL_PLACEHOLDER_5) offer step-by-step instruction with real vault walkthroughs. These courses compress months of trial-and-error into a few hours of focused learning.
+For those who prefer to learn through video and want to go deeper into advanced DataviewJS dashboards, custom themes, and Obsidian automation workflows, structured courses on platforms like Skillshare or Udemy offer step-by-step instruction with real vault walkthroughs. These courses compress months of trial-and-error into a few hours of focused learning.
 
-And if you are serious about the PARA method that underpins the workflow in this guide, [*Building a Second Brain* by Tiago Forte](URL_PLACEHOLDER_2) is the book to read. It is not an Obsidian book, but it is the clearest explanation of why project management and [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) belong in the same system — which is exactly what this setup delivers.
+And if you are serious about the PARA method that underpins the workflow in this guide, *Building a Second Brain* by Tiago Forte is the book to read. It is not an Obsidian book, but it is the clearest explanation of why project management and [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) belong in the same system — which is exactly what this setup delivers.
 
 Your notes and your tasks should live together. Now they can.
 

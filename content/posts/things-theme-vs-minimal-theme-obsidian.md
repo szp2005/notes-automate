@@ -70,7 +70,7 @@ Choosing wrong wastes hours. You set up a system, tweak CSS, build templates —
 
 ## 3. Deep Dive: The Things Theme — Structure and Productivity {#things-theme}
 
-[The Things theme](URL_PLACEHOLDER_1) was built by Colin Eckert specifically to mirror the visual language of [Things 3](URL_PLACEHOLDER_2), Cultured Code's task manager for Mac and iOS. If you use Things 3 for task capture and Obsidian for notes, the two apps start to feel like a single system.
+The Things theme was built by Colin Eckert specifically to mirror the visual language of Things 3, Cultured Code's task manager for Mac and iOS. If you use Things 3 for task capture and Obsidian for notes, the two apps start to feel like a single system.
 
 ### What It Actually Looks Like
 
@@ -98,7 +98,7 @@ Plugin support is adequate but not curated. Dataview tables render correctly but
 
 ## 4. Deep Dive: The Minimal Theme — A Canvas for Focus {#minimal-theme}
 
-[Minimal](URL_PLACEHOLDER_3) is maintained by Stephan Ango (@kepano), who is also a co-founder of Obsidian. That proximity to the core team shows in how well the theme tracks with every major app update. It has been the most-downloaded community theme for years running, and the ecosystem around it reflects that longevity.
+Minimal is maintained by Stephan Ango (@kepano), who is also a co-founder of Obsidian. That proximity to the core team shows in how well the theme tracks with every major app update. It has been the most-downloaded community theme for years running, and the ecosystem around it reflects that longevity.
 
 ### Design Philosophy: Get Out of the Way
 
@@ -106,7 +106,7 @@ The design intention is explicit in the documentation: remove everything that do
 
 ### Style Settings Integration: 100+ Knobs
 
-Install the [Style Settings plugin](URL_PLACEHOLDER_4) alongside Minimal and you unlock a dedicated settings panel covering:
+Install the Style Settings plugin alongside Minimal and you unlock a dedicated settings panel covering:
 
 - **Color schemes**: 15+ presets including Atom, Solarized, Gruvbox, Rosé Pine, Dracula
 - **Font stacks**: Separate controls for UI font, body text, monospace, and headings
@@ -141,7 +141,7 @@ If you want control, **Minimal is not even close competition**. The Style Settin
 Both themes support raw CSS snippets, but Minimal's documentation explicitly lists its CSS variable names, making targeted tweaks straightforward. Things uses a smaller set of undocumented variables, so custom CSS is more trial-and-error.
 
 **Recommended snippet workflow for Things:**
-1. Install the [Minimal Things CSS snippet](URL_PLACEHOLDER_5) from the community — it bridges some gaps.
+1. Install the Minimal Things CSS snippet from the community — it bridges some gaps.
 2. Override `--color-base-00` through `--color-base-100` to shift the warm palette toward cooler tones if preferred.
 
 **Recommended workflow for Minimal:**
@@ -157,13 +157,13 @@ Both themes support raw CSS snippets, but Minimal's documentation explicitly lis
 
 Open a blank note, set `cssclasses: wide-page` for drafting, then remove it when you want the 660px reading width during editing. Set a serif body font (Palatino or iA Writer Quattro both work cleanly) through Style Settings. Enable "Readable line length" in Obsidian's editor settings.
 
-The result: a focused writing surface with no competing UI elements. The sidebar contrast drops low enough that you stop noticing it during deep work sessions. For writers building a PKM around long-form content, this environment is genuinely different from any other Obsidian configuration — and it's the kind of system a well-structured [PKM course](URL_PLACEHOLDER_6) would walk you through end-to-end.
+The result: a focused writing surface with no competing UI elements. The sidebar contrast drops low enough that you stop noticing it during deep work sessions. For writers building a PKM around long-form content, this environment is genuinely different from any other Obsidian configuration — and it's the kind of system a well-structured PKM course would walk you through end-to-end.
 
 ### Use Case 2: Managing a Project with Things Theme
 
 Create a project note with a clear H1 title, H2 sections for each phase, and H3 for subtasks. Use the custom checkbox types throughout: `- [/]` for active work, `- [>]` for items blocked on others, `- [!]` for blockers.
 
-The warm header hierarchy makes the note scannable at a glance. The deferred and cancelled checkbox states mean your task list reflects actual GTD state, not just binary done/not-done. If you also use [Things 3](URL_PLACEHOLDER_2) for daily task management, the visual continuity between apps reduces context-switching friction in a measurable way.
+The warm header hierarchy makes the note scannable at a glance. The deferred and cancelled checkbox states mean your task list reflects actual GTD state, not just binary done/not-done. If you also use Things 3 for daily task management, the visual continuity between apps reduces context-switching friction in a measurable way.
 
 ---
 
@@ -203,7 +203,7 @@ The warm header hierarchy makes the note scannable at a glance. The deferred and
 - You plan to maintain and evolve your vault setup over time
 - You need a reliable mobile experience with theme-specific adjustments
 
-One practical note on mobile: if you use Obsidian across desktop and phone, theme consistency matters. [Obsidian Sync](URL_PLACEHOLDER_7) carries your theme settings and CSS snippets across devices, so whichever theme you choose looks identical on every platform — worth the subscription if your workflow spans devices.
+One practical note on mobile: if you use Obsidian across desktop and phone, theme consistency matters. Obsidian Sync carries your theme settings and CSS snippets across devices, so whichever theme you choose looks identical on every platform — worth the subscription if your workflow spans devices.
 
 Both themes are free. Both are production-quality. There is no wrong answer — only the wrong theme for your specific habits.
 
@@ -215,7 +215,7 @@ The Things vs. Minimal debate in Obsidian isn't really about looks. It's about w
 
 Pick Things, open your vault, start working. Pick Minimal, spend twenty minutes in Style Settings, then open your vault and start working. Either path leads to a significantly better daily experience than the default theme delivers.
 
-If you're building a serious PKM practice, aesthetics are the easy part. System, habit, and workflow come first — and [a structured Obsidian course](URL_PLACEHOLDER_6) can accelerate that by months. Pair whichever theme you choose with [Obsidian Sync](URL_PLACEHOLDER_7) to keep it consistent across every device, and your setup becomes something you actually look forward to opening each morning.
+If you're building a serious PKM practice, aesthetics are the easy part. System, habit, and workflow come first — and a structured Obsidian course can accelerate that by months. Pair whichever theme you choose with Obsidian Sync to keep it consistent across every device, and your setup becomes something you actually look forward to opening each morning.
 
 That's the real goal.
 
@@ -233,7 +233,7 @@ Yes, and unlike Minimal, it works well without it. Things ships as a complete vi
 
 ### Will either theme break when Obsidian updates?
 
-Minimal is maintained by an Obsidian co-founder and updates quickly after major app releases. Things is community-maintained with a slower update cadence — check the [GitHub repository](URL_PLACEHOLDER_1) for the last commit date before relying on it for a production vault.
+Minimal is maintained by an Obsidian co-founder and updates quickly after major app releases. Things is community-maintained with a slower update cadence — check the GitHub repository for the last commit date before relying on it for a production vault.
 
 ### Which theme performs better on mobile?
 

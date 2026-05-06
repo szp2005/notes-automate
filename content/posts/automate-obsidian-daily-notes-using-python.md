@@ -1,4 +1,5 @@
 ---
+image: "/og/automate-obsidian-daily-notes-using-python.webp"
 title: "Automate Obsidian Daily Notes with Python: A Complete Guide"
 description: "Learn how to automate Obsidian daily notes using Python scripts to streamline your notetaking workflow, ensure consistency, and save valuable time."
 pubDate: "2026-05-06"

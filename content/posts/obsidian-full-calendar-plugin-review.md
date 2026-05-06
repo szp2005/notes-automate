@@ -39,16 +39,16 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Most [knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/) live in two separate worlds: a [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) app for thinking and a calendar app for scheduling. The result is constant context-switching—you reference your meeting notes in Obsidian, then flip to Google Calendar to check a time, then back again. Every switch costs you focus.
 
-The [Obsidian Full Calendar plugin](URL_PLACEHOLDER_1), built by developer Davis Haupt (`davish`), collapses those two worlds into one. It renders a full FullCalendar.js-powered interface—month, week, and day views—directly inside an Obsidian pane, treating markdown notes as calendar events. Events live as `.md` files in your vault or sync in from external sources like Google Calendar and any CalDAV-compatible service.
+The Obsidian Full Calendar plugin, built by developer Davis Haupt (`davish`), collapses those two worlds into one. It renders a full FullCalendar.js-powered interface—month, week, and day views—directly inside an Obsidian pane, treating markdown notes as calendar events. Events live as `.md` files in your vault or sync in from external sources like Google Calendar and any CalDAV-compatible service.
 
-This is meaningfully different from the stock [Obsidian Calendar plugin](URL_PLACEHOLDER_2), which only lets you navigate daily notes chronologically. Full Calendar lets you *schedule* things, drag events across time, and pull live data from the calendars you already use.
+This is meaningfully different from the stock Obsidian Calendar plugin, which only lets you navigate daily notes chronologically. Full Calendar lets you *schedule* things, drag events across time, and pull live data from the calendars you already use.
 
 **Who gets the most out of it:**
 - **Students** tracking assignment deadlines, exam blocks, and study sessions
 - **Content creators** running an editorial calendar with draft → publish pipelines
 - **Professionals** who live in meetings and want context-rich notes linked directly to each event
 
-If you have ever wished your PKM system could double as a planner without leaving the app—this is your plugin. If you want to deepen the productivity methodology behind a setup like this, [Getting Things Done by David Allen](URL_PLACEHOLDER_3) is still the clearest framework for understanding how to structure your capture and review cycles.
+If you have ever wished your PKM system could double as a planner without leaving the app—this is your plugin. If you want to deepen the productivity methodology behind a setup like this, Getting Things Done by David Allen is still the clearest framework for understanding how to structure your capture and review cycles.
 
 ---
 
@@ -146,18 +146,18 @@ Your Google Calendar events now appear in Obsidian. They refresh when you reopen
 
 ### CalDAV Sync (Two-Way, Full Read/Write)
 
-For genuine two-way sync—where you can create and edit events from inside Obsidian and have them appear in your external calendar—you need a **CalDAV source**. [Fastmail](URL_PLACEHOLDER_4) is our recommended provider: it's privacy-focused, reliable, and its CalDAV implementation is clean and well-documented.
+For genuine two-way sync—where you can create and edit events from inside Obsidian and have them appear in your external calendar—you need a **CalDAV source**. Fastmail is our recommended provider: it's privacy-focused, reliable, and its CalDAV implementation is clean and well-documented.
 
 **Setup steps:**
 
 1. In your CalDAV provider, locate the CalDAV server URL and your calendar's specific URL path
-   - **Fastmail**: `https://caldav.fastmail.com/dav/principals/user/you@fastmail.com/`
-   - **iCloud**: `https://caldav.icloud.com/`
+ - **Fastmail**: `https://caldav.fastmail.com/dav/principals/user/you@fastmail.com/`
+ - **iCloud**: `https://caldav.icloud.com/`
 2. In Obsidian: **Settings → Full Calendar → Add Calendar Source → CalDAV**
 3. Enter:
-   - **CalDAV server URL** (from step 1)
-   - **Username** (usually your email address)
-   - **Password** (for iCloud, generate an app-specific password at appleid.apple.com)
+ - **CalDAV server URL** (from step 1)
+ - **Username** (usually your email address)
+ - **Password** (for iCloud, generate an app-specific password at appleid.apple.com)
 4. Click **Find Calendars**—the plugin queries the server and lists available calendars
 5. Select which calendar to sync, assign a color, save
 
@@ -173,7 +173,7 @@ Events now flow both directions. Create an event in Obsidian and it appears in F
 
 **How it works**: Each assignment gets a note in `Deadlines` with the due date. Use the week view to see upcoming deadlines, then create Study Block events by clicking open time slots—working backward from the deadline. When you open a Study Block event note, link it directly to your course notes using standard `[[wikilinks]]`. You now have a calendar that opens into your actual study material.
 
-For users who want to build this kind of system more formally, [this productivity course on Skillshare](URL_PLACEHOLDER_5) walks through building a full PKM system from scratch.
+For users who want to build this kind of system more formally, this productivity course on Skillshare walks through building a full PKM system from scratch.
 
 ### Workflow 2: The Content Creator's Editorial Calendar
 
@@ -247,9 +247,9 @@ For users who want to build this kind of system more formally, [this productivit
 - Color customization is limited to the source level, not individual events
 - Performance degrades with very large source folders
 
-**Bottom line**: If your workflow involves any external calendar—work, school, or personal—Full Calendar is the only Obsidian plugin worth using. The iCal sync gets you 80% of the way there in five minutes. CalDAV with [Fastmail](URL_PLACEHOLDER_4) gets you the full two-way integration that makes Obsidian genuinely replace your standalone calendar app for day-to-day use.
+**Bottom line**: If your workflow involves any external calendar—work, school, or personal—Full Calendar is the only Obsidian plugin worth using. The iCal sync gets you 80% of the way there in five minutes. CalDAV with Fastmail gets you the full two-way integration that makes Obsidian genuinely replace your standalone calendar app for day-to-day use.
 
-[Install the Full Calendar plugin from the Community Plugins browser](URL_PLACEHOLDER_1) and spend 20 minutes following the setup guide above. The investment pays back within the first week of daily use.
+Install the Full Calendar plugin from the Community Plugins browser and spend 20 minutes following the setup guide above. The investment pays back within the first week of daily use.
 
 ---
 

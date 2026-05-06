@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 **TL;DR**
 - The fastest way to browse and install themes is directly inside Obsidian: **Settings → Appearance → Community themes → Browse**.
-- A web-based gallery at [obsidian.md/themes](URL_PLACEHOLDER_1) lets you preview themes before touching the app.
+- A web-based gallery at obsidian.md/themes lets you preview themes before touching the app.
 - CSS snippets let you tweak any installed theme without replacing it — a skill worth learning early.
 
 ---
@@ -73,7 +73,7 @@ This is the primary method. Here is exactly how it works.
 
 ## 3. How to Use the Official Web Theme Gallery for Discovery {#web-gallery}
 
-Head to [obsidian.md/themes](URL_PLACEHOLDER_1) in any browser. The page loads a grid of every community theme with a screenshot thumbnail, the theme name, and the author.
+Head to obsidian.md/themes in any browser. The page loads a grid of every community theme with a screenshot thumbnail, the theme name, and the author.
 
 **Filtering:** At the top of the page you can filter by **Light** or **Dark** mode. This is the one feature the in-app browser lacks, making the web gallery genuinely useful for users who know they want a specific mode before they browse.
 
@@ -101,7 +101,7 @@ These five themes cover different aesthetics and are all actively maintained as 
 
 | Theme | Best For | Mode | Style |
 |---|---|---|---|
-| [Minimal](URL_PLACEHOLDER_2) | Focus, distraction-free writing | Light + Dark | Stripped-back, spacious |
+| Minimal | Focus, distraction-free writing | Light + Dark | Stripped-back, spacious |
 | Things | Polished everyday use | Light + Dark | Inspired by Things 3 app |
 | AnuPpuccin | Visual appeal, color variety | Light + Dark | Pastel, Catppuccin-based |
 | Primary | Power users, heavy customization | Light + Dark | Feature-rich, style-system |
@@ -113,7 +113,7 @@ These five themes cover different aesthetics and are all actively maintained as 
 
 **Things** replicates the refined UI of the Things 3 task manager. If you use Obsidian for project planning alongside [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/), the visual consistency helps.
 
-> 💡 **Want to go deeper on Obsidian workflows?** [This Udemy course on Obsidian for knowledge management](URL_PLACEHOLDER_3) covers vault architecture, automation, and visual customization in practical detail.
+> 💡 **Want to go deeper on Obsidian workflows?** This Udemy course on Obsidian for knowledge management covers vault architecture, automation, and visual customization in practical detail.
 
 ---
 
@@ -125,14 +125,14 @@ CSS snippets are small `.css` files that layer on top of your active theme. They
 
 **How to enable a snippet:** Settings → Appearance → scroll to **CSS snippets** → toggle the snippet on. Obsidian hot-reloads snippets, so changes apply immediately without restarting.
 
-**Finding snippets:** The [Obsidian Forum Share & Showcase section](URL_PLACEHOLDER_4) is the best source. Users post ready-to-paste snippets for specific tweaks. Search the forum for your theme name plus the issue you are trying to fix (e.g., "Minimal theme tag color snippet").
+**Finding snippets:** The Obsidian Forum Share & Showcase section is the best source. Users post ready-to-paste snippets for specific tweaks. Search the forum for your theme name plus the issue you are trying to fix (e.g., "Minimal theme tag color snippet").
 
 **A concrete example:** If your H1 headings feel too small, create a file called `heading-fix.css` in your snippets folder and add:
 
 ```css
 .markdown-rendered h1,
 .cm-header-1 {
-  font-size: 2em;
+ font-size: 2em;
 }
 ```
 
@@ -150,7 +150,7 @@ Snippets are also the right tool when a theme update breaks something you relied
 
 **Mobile vs. desktop rendering differences:** Obsidian Mobile shares the same themes, but some themes are not optimized for mobile screen widths. Look for themes that explicitly mention mobile support in their README.
 
-**Where to get help:** The [official Obsidian forum](URL_PLACEHOLDER_4) has a dedicated Themes channel. The Obsidian Discord is faster for quick questions. When asking for help, always include your Obsidian version, theme name and version, and a screenshot.
+**Where to get help:** The official Obsidian forum has a dedicated Themes channel. The Obsidian Discord is faster for quick questions. When asking for help, always include your Obsidian version, theme name and version, and a screenshot.
 
 ---
 
@@ -158,9 +158,9 @@ Snippets are also the right tool when a theme update breaks something you relied
 
 The Obsidian theme store browser is a two-part system: the in-app browser for installing and managing themes, and the web gallery at obsidian.md/themes for discovery and comparison. The fastest path to a vault you enjoy looking at is to filter the web gallery by your preferred mode, shortlist three or four candidates, install them all in-app, and cycle through them with your actual notes open. Then use CSS snippets for anything the theme does not handle exactly the way you want.
 
-If you want to take your Obsidian setup from functional to genuinely enjoyable to use every day, aesthetics matter more than most [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) writers admit. A vault that looks right is a vault you actually open. And that is the point of [building a solid personal knowledge system](URL_PLACEHOLDER_5) in the first place.
+If you want to take your Obsidian setup from functional to genuinely enjoyable to use every day, aesthetics matter more than most [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) writers admit. A vault that looks right is a vault you actually open. And that is the point of building a solid personal knowledge system in the first place.
 
-> 🛠️ **Ready to level up beyond themes?** [Explore Obsidian courses on Udemy](URL_PLACEHOLDER_3) covering automation, templates, Dataview, and advanced customization — everything you need to turn Obsidian into a second brain that actually works for you.
+> 🛠️ **Ready to level up beyond themes?** Explore Obsidian courses on Udemy covering automation, templates, Dataview, and advanced customization — everything you need to turn Obsidian into a second brain that actually works for you.
 
 ---
 

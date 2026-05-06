@@ -50,7 +50,7 @@ The Obsidian Leaflet plugin makes all of that possible without leaving Obsidian,
 
 ## Getting Started: Installing the Obsidian Leaflet Plugin {#getting-started-installing}
 
-**What is the Leaflet plugin?** It's a community plugin that embeds a [Leaflet.js](URL_PLACEHOLDER_1) powered map directly inside any Obsidian note. You define the map using a fenced code block. The plugin handles rendering, zooming, panning, and marker interaction.
+**What is the Leaflet plugin?** It's a community plugin that embeds a Leaflet.js powered map directly inside any Obsidian note. You define the map using a fenced code block. The plugin handles rendering, zooming, panning, and marker interaction.
 
 **Installation steps:**
 
@@ -126,7 +126,7 @@ That's your first working multi-marker map.
 
 The plugin ships with a `default` marker type, but you can define your own in **Settings → Obsidian Leaflet → Marker Types**. Each custom type gets:
 - A name
-- An icon from the [Font Awesome 5 free set](URL_PLACEHOLDER_2)
+- An icon from the Font Awesome 5 free set
 - A hex color
 
 Once defined, use the type name in your marker lines:
@@ -144,7 +144,7 @@ For borders, routes, and regions, Leaflet accepts GeoJSON. Create a `.geojson` f
 geojson: [[regions/northern-kingdom.geojson]]
 ```
 
-GeoJSON is the standard format for geographic shapes. Tools like [geojson.io](URL_PLACEHOLDER_3) let you draw polygons and export the file directly.
+GeoJSON is the standard format for geographic shapes. Tools like geojson.io let you draw polygons and export the file directly.
 
 ### Pulling Data from YAML Frontmatter
 
@@ -197,7 +197,7 @@ With `markerTag: travel`, the plugin automatically pins every note in your vault
 
 ### For the World-Builder: Fictional Kingdom Map
 
-First, create your map image (PNG or JPG). [Wonderdraft](URL_PLACEHOLDER_4) is the purpose-built tool for this—it produces print-quality fantasy maps and exports at whatever resolution you need. Once you have your image:
+First, create your map image (PNG or JPG). Wonderdraft is the purpose-built tool for this—it produces print-quality fantasy maps and exports at whatever resolution you need. Once you have your image:
 
 ````markdown
 ```leaflet
@@ -215,7 +215,7 @@ marker: forest, 50, 55, [[Whispering Wood]]
 ```
 ````
 
-For image-based maps, `lat`/`long` are percentages of the image dimensions (0–100), not real-world coordinates. Set `unit` to anything meaningful for your fiction. The [Dungeondraft](URL_PLACEHOLDER_5) companion app handles interior maps, taverns, and dungeons at the same level of quality.
+For image-based maps, `lat`/`long` are percentages of the image dimensions (0–100), not real-world coordinates. Set `unit` to anything meaningful for your fiction. The Dungeondraft companion app handles interior maps, taverns, and dungeons at the same level of quality.
 
 ### For the Researcher: Historical Events Map
 
@@ -237,7 +237,7 @@ Tag every battle note with `ww1-event`, add coordinates to frontmatter, and the 
 
 ## Automate Your Maps with the Dataview Plugin {#automate-with-dataview}
 
-[Dataview](URL_PLACEHOLDER_6) is a community plugin that lets you query your vault like a database. Combined with Leaflet's `markerTag` parameter, it creates self-updating maps.
+Dataview is a community plugin that lets you query your vault like a database. Combined with Leaflet's `markerTag` parameter, it creates self-updating maps.
 
 **Setup:**
 
@@ -286,9 +286,9 @@ Add these snippets to your vault's CSS snippets folder (**Settings → Appearanc
 
 ```css
 .leaflet-container {
-  border-radius: 8px;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
-  border: 1px solid var(--background-modifier-border);
+ border-radius: 8px;
+ box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
+ border: 1px solid var(--background-modifier-border);
 }
 ```
 
@@ -296,15 +296,15 @@ Add these snippets to your vault's CSS snippets folder (**Settings → Appearanc
 
 ```css
 .leaflet-popup-content-wrapper {
-  background: var(--background-primary);
-  color: var(--text-normal);
-  border-radius: 6px;
-  font-size: 0.9em;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+ background: var(--background-primary);
+ color: var(--text-normal);
+ border-radius: 6px;
+ font-size: 0.9em;
+ box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
 .leaflet-popup-tip {
-  background: var(--background-primary);
+ background: var(--background-primary);
 }
 ```
 
@@ -312,7 +312,7 @@ Add these snippets to your vault's CSS snippets folder (**Settings → Appearanc
 
 ```css
 .leaflet-marker-icon[data-marker-type="restaurant"] {
-  filter: hue-rotate(120deg) saturate(1.5);
+ filter: hue-rotate(120deg) saturate(1.5);
 }
 ```
 
@@ -322,7 +322,7 @@ Add these snippets to your vault's CSS snippets folder (**Settings → Appearanc
 https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png
 ```
 
-For planning complex projects before you map them, a mind-mapping session with a tool from [Setapp](URL_PLACEHOLDER_7)—which bundles MindNode and dozens of other Mac [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) apps in one subscription—can help you figure out your node structure before committing it to coordinates.
+For planning complex projects before you map them, a mind-mapping session with a tool from Setapp—which bundles MindNode and dozens of other Mac [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) apps in one subscription—can help you figure out your node structure before committing it to coordinates.
 
 ---
 
@@ -334,7 +334,7 @@ For planning complex projects before you map them, a mind-mapping session with a
 Check that your `id` is unique across the vault. Duplicate IDs cause the map to fail silently. Also confirm the plugin is enabled—go to Settings → Community Plugins and verify the toggle is on. If tiles aren't loading, check your internet connection; real-world maps require a tile server connection.
 
 **Q2: How do I find the latitude and longitude for a location?**
-Right-click any point on [Google Maps](URL_PLACEHOLDER_8) and the coordinates appear at the top of the context menu. Alternatively, search the location on maps.google.com and read the lat/long from the URL. For fictional maps, remember you're working in a 0–100 percentage system based on image dimensions.
+Right-click any point on Google Maps and the coordinates appear at the top of the context menu. Alternatively, search the location on maps.google.com and read the lat/long from the URL. For fictional maps, remember you're working in a 0–100 percentage system based on image dimensions.
 
 **Q3: Can I use my own image as a map background?**
 Yes. Drop a PNG or JPG anywhere in your vault, then reference it with `image: [[path/to/your-image.jpg]]`. Coordinates become percentages of the image's pixel dimensions, not geographic coordinates. Set `lat: 50` and `long: 50` to center on the image initially.
@@ -343,7 +343,7 @@ Yes. Drop a PNG or JPG anywhere in your vault, then reference it with `image: [[
 Confirm the referenced note has a `location:` field formatted exactly as `location: [lat, long]`—it must be an array, not a string. The brackets are required.
 
 **Q5: Is the Leaflet plugin still maintained?**
-The original repository by valentine195 has been forked and is actively maintained by the Obsidian community under [obsidian-leaflet](URL_PLACEHOLDER_9). Check the community plugins browser for the current version. As of 2024, it remains one of the most downloaded Obsidian plugins with regular updates.
+The original repository by valentine195 has been forked and is actively maintained by the Obsidian community under obsidian-leaflet. Check the community plugins browser for the current version. As of 2024, it remains one of the most downloaded Obsidian plugins with regular updates.
 
 ---
 
@@ -353,7 +353,7 @@ Creating interactive maps in Obsidian is genuinely one of the most underused fea
 
 The path from zero to functional map takes about five minutes. The path from a basic map to a fully automated, Dataview-powered, custom-styled mapping system takes an afternoon. Neither requires programming knowledge—just an understanding of YAML and a willingness to experiment with the code block syntax.
 
-If you're building a fictional world, invest in [Wonderdraft](URL_PLACEHOLDER_10) for your base map image—it's a one-time purchase that produces far better results than any web tool. If you want to go deeper on [data visualization](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/) and make your maps genuinely analytical, a structured course on [Skillshare or Udemy](URL_PLACEHOLDER_11) covering data visualization principles will dramatically raise the ceiling of what you can build.
+If you're building a fictional world, invest in Wonderdraft for your base map image—it's a one-time purchase that produces far better results than any web tool. If you want to go deeper on [data visualization](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/) and make your maps genuinely analytical, a structured course on Skillshare or Udemy covering data visualization principles will dramatically raise the ceiling of what you can build.
 
 Start with the five-minute tutorial. Add your three most important locations. Then come back for the Dataview integration when you're ready to make it scale.
 

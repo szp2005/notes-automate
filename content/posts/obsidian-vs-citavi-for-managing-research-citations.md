@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-vs-citavi-for-managing-research-citations.webp"
 title: "Obsidian vs Citavi: Which is Better for Research Citations in 2026?"
 description: "Practical guide to obsidian vs citavi for managing research citations: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-06"
@@ -155,3 +156,10 @@ Citavi's main advantage in knowledge organization is its structured approach, di
 
 ### ### Which tool is better for collaborative research projects?
 For collaborative research projects that involve shared reference libraries and collective knowledge organization, Citavi is generally better. Its cloud-based project sharing allows multiple team members to work on the same reference collection and project outline simultaneously. Obsidian's collaboration features are less integrated and typically rely on external cloud storage or its paid Obsidian Sync service.
+
+---
+
+## Related Reading
+
+- [7 Best Obsidian Plugins for Developers and Code Snippets in 2026](/posts/best-obsidian-plugins-for-developers-and-code-snippets/)
+- [Copilot for Obsidian Complete Guide: Chat With Your Notes](/posts/copilot-for-obsidian-chat-with-your-notes/)

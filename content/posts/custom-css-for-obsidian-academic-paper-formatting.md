@@ -1,4 +1,5 @@
 ---
+image: "/og/custom-css-for-obsidian-academic-paper-formatting.webp"
 title: "Custom CSS for Obsidian Academic Paper Formatting: A Complete Guide"
 description: "Master custom CSS for Obsidian academic paper formatting. Tailor your notes, citations, and exports for professional research documents with this."
 pubDate: "2026-05-06"
@@ -525,3 +526,10 @@ Keep approvals on sensitive steps, log every run, and test with a small sample b
 ### How do you measure whether custom css for obsidian academic paper formatting is working?
 
 Track cycle time, skipped manual steps, error rate, and user follow-up questions. If the workflow saves time but creates confusion, simplify the handoff before adding more automation.
+
+---
+
+## Related Reading
+
+- [Obsidian for Software Engineering Documentation: 7-Step Guide](/posts/how-to-use-obsidian-for-software-engineering-documentation/)
+- [Mastering Obsidian: Keyboard Maestro Macros for Advanced Navigation](/posts/keyboard-maestro-macros-for-advanced-obsidian-navigation/)

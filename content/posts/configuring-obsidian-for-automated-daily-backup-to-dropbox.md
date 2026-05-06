@@ -1,6 +1,6 @@
 ---
 image: "/og/configuring-obsidian-for-automated-daily-backup-to-dropbox.webp"
-title: "How to Configure Obsidian for Automated Daily Backup to Dropbox"
+title: "Obsidian for Automated Daily Backup to Dropbox: Configuration Guide"
 description: "Learn how configuring Obsidian for automated daily backup to Dropbox protects your notes. A step-by-step guide to secure, hands-off local sync and recovery."
 pubDate: "2026-05-03"
 author: "Alex Chen"
@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# How to Configure Obsidian for Automated Daily Backup to Dropbox
+# Obsidian for Automated Daily Backup to Dropbox: Configuration Guide
 
 > **Quick Answer:** The most reliable way to configure Obsidian for automated daily backup to Dropbox is by installing the community plugin "Remotely Save," authenticating it with your Dropbox account, and setting the auto-sync schedule to trigger every 24 hours. Alternatively, you can place your Obsidian vault directly inside your local Dropbox folder to leverage system-level continuous synchronization.
 

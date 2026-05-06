@@ -58,7 +58,7 @@ Both tools produce visual diagrams. That's roughly where the similarity ends. Th
 | **File format** | `.canvas` (JSON) | `.excalidraw` (JSON-based) |
 | **Note embedding** | Live, interactive note cards | Static image embeds of notes |
 | **Drawing tools** | Basic shapes, arrows, text | Full shape library, freehand, icons, LaTeX |
-| **Real-time collaboration** | None | Via Excalidraw.com / [Excalidraw+](URL_PLACEHOLDER_1) |
+| **Real-time collaboration** | None | Via Excalidraw.com / Excalidraw+ |
 | **Backlinks from canvas** | Limited; links inside cards are tracked | Embedded wikilinks inside drawings are tracked |
 | **Export options** | PNG, limited | SVG, PNG, JSON, clipboard |
 | **Mobile experience** | Functional but sluggish at scale | Workable; complex files are slow |
@@ -98,7 +98,7 @@ The hand-drawn aesthetic is also deliberate. Research from the Excalidraw commun
 
 ### Collaboration you can actually use
 
-Canvas has no collaboration feature. Excalidraw files can be opened directly at Excalidraw.com and shared in real time. For power users and teams who need robust shared workspaces, persistent collaborative rooms, and end-to-end encrypted sharing, Excalidraw+(URL_PLACEHOLDER_1) provides a premium tier purpose-built for that workflow. If you're a project manager or educator who needs to share diagrams with people who don't use Obsidian, this is a decisive advantage.
+Canvas has no collaboration feature. Excalidraw files can be opened directly at Excalidraw.com and shared in real time. For power users and teams who need robust shared workspaces, persistent collaborative rooms, and end-to-end encrypted sharing, Excalidraw+ provides a premium tier purpose-built for that workflow. If you're a project manager or educator who needs to share diagrams with people who don't use Obsidian, this is a decisive advantage.
 
 ### Portability outside the vault
 
@@ -138,7 +138,7 @@ Neither tool scales to infinite complexity without friction—be skeptical of an
 Canvas wins. Drop your source notes as live cards, arrange them by argument section, draw arrows showing which evidence supports which claim. The ability to read and edit each note without leaving the spatial layout accelerates outlining considerably.
 
 **The Project Manager documenting a process:**
-Excalidraw wins. Build a swimlane diagram or flowchart with proper connectors, shape styles, and labeled decision points. Export to SVG, paste into a shared doc, or share via [Excalidraw+](URL_PLACEHOLDER_1) with your team—none of which requires your collaborators to touch Obsidian.
+Excalidraw wins. Build a swimlane diagram or flowchart with proper connectors, shape styles, and labeled decision points. Export to SVG, paste into a shared doc, or share via Excalidraw+ with your team—none of which requires your collaborators to touch Obsidian.
 
 **The Researcher mapping a literature review:**
 Canvas wins. Create a node per paper (each its own note), group by theme using colored backgrounds, and connect methodological relationships with labeled arrows. The live-card feature means you never lose context while navigating the map.
@@ -157,18 +157,18 @@ Excalidraw wins by a wide margin. Shape libraries include common software archit
 Do you need to share or collaborate with non-Obsidian users?
 ├── Yes → Excalidraw
 └── No
-    ├── Are you primarily arranging existing notes?
-    │   ├── Yes → Canvas
-    │   └── No
-    │       ├── Do you need freehand drawing or detailed diagrams?
-    │       │   ├── Yes → Excalidraw
-    │       │   └── No → Canvas
-    └── Do you need real-time collaboration?
-        ├── Yes → Excalidraw (+ Excalidraw+)
-        └── No → Canvas
+ ├── Are you primarily arranging existing notes?
+ │ ├── Yes → Canvas
+ │ └── No
+ │ ├── Do you need freehand drawing or detailed diagrams?
+ │ │ ├── Yes → Excalidraw
+ │ │ └── No → Canvas
+ └── Do you need real-time collaboration?
+ ├── Yes → Excalidraw (+ Excalidraw+)
+ └── No → Canvas
 ```
 
-When in doubt, install the [Excalidraw plugin](URL_PLACEHOLDER_2) and keep Canvas enabled. Use Canvas as your knowledge organization layer and Excalidraw as your diagramming tool. There is no rule against having both.
+When in doubt, install the Excalidraw plugin and keep Canvas enabled. Use Canvas as your knowledge organization layer and Excalidraw as your diagramming tool. There is no rule against having both.
 
 ---
 
@@ -180,9 +180,9 @@ If you had to pick one, the decision is straightforward: choose Canvas if the co
 
 Most PKM practitioners who have used both for more than a month end up running them in parallel. Canvas handles the knowledge graph layer; Excalidraw handles everything that needs to be drawn from scratch.
 
-To protect and access your visual maps across all your devices seamlessly, consider supporting the developers with [Obsidian Sync](URL_PLACEHOLDER_3)—it handles both `.canvas` and `.excalidraw` files without any special configuration.
+To protect and access your visual maps across all your devices seamlessly, consider supporting the developers with Obsidian Sync—it handles both `.canvas` and `.excalidraw` files without any special configuration.
 
-If you want to go deeper on building a structured second brain that integrates both tools intelligently, [this highly-rated PKM course on Udemy](URL_PLACEHOLDER_4) covers visual workflow design, linking strategies, and Zettelkasten implementation in practical detail.
+If you want to go deeper on building a structured second brain that integrates both tools intelligently, this highly-rated PKM course on Udemy covers visual workflow design, linking strategies, and Zettelkasten implementation in practical detail.
 
 ---
 

@@ -49,7 +49,7 @@ Here's what the core plugin cannot do:
 - Fetch external data—quotes, weather, tasks
 - Execute any logic whatsoever
 
-**Templater** ([install from community plugins](URL_PLACEHOLDER_1)) fills every one of those gaps. It exposes a full scripting environment based on JavaScript that runs at the moment a new file is created—or when you explicitly invoke it. The result is what the [documentation](/posts/how-to-use-obsidian-for-software-engineering-documentation/) calls *dynamic commands*: placeholders that evaluate to real content rather than hardcoded strings.
+**Templater** (install from community plugins) fills every one of those gaps. It exposes a full scripting environment based on JavaScript that runs at the moment a new file is created—or when you explicitly invoke it. The result is what the [documentation](/posts/how-to-use-obsidian-for-software-engineering-documentation/) calls *dynamic commands*: placeholders that evaluate to real content rather than hardcoded strings.
 
 In practical terms, a Templater daily note can:
 
@@ -94,7 +94,7 @@ Turn this on only if you plan to run shell scripts. Leave it off for the daily n
 
 ### Connecting Templater with Periodic Notes
 
-[Periodic Notes](URL_PLACEHOLDER_2) is a community plugin that handles the *navigation* side of daily journaling—creating today's note with a consistent filename, linking to weekly/monthly equivalents. Templater handles *what goes inside* those files. Together they're the backbone of every serious Obsidian journaling setup.
+Periodic Notes is a community plugin that handles the *navigation* side of daily journaling—creating today's note with a consistent filename, linking to weekly/monthly equivalents. Templater handles *what goes inside* those files. Together they're the backbone of every serious Obsidian journaling setup.
 
 Install Periodic Notes, then configure:
 
@@ -122,7 +122,7 @@ tags: daily-note
 **Date:** <% tp.date.now("dddd, MMMM Do YYYY") %>
 
 ## ✅ Tasks
-- [ ] 
+- [ ]
 
 ## 📝 Notes
 
@@ -134,7 +134,7 @@ tags: daily-note
 
 **`<% tp.file.title %>`** — Inserts the filename (without extension) as the note title. Since Periodic Notes names files `2025-07-14`, your H1 becomes `# 2025-07-14` automatically.
 
-**`<% tp.date.now("YYYY-MM-DD") %>`** — Inserts the current date formatted as `2025-07-14`. The format string follows [Moment.js conventions](URL_PLACEHOLDER_3): `YYYY` = 4-digit year, `MM` = 2-digit month, `DD` = 2-digit day.
+**`<% tp.date.now("YYYY-MM-DD") %>`** — Inserts the current date formatted as `2025-07-14`. The format string follows Moment.js conventions: `YYYY` = 4-digit year, `MM` = 2-digit month, `DD` = 2-digit day.
 
 **`<% tp.date.now("dddd, MMMM Do YYYY") %>`** — Produces a human-readable string like `Monday, July 14th 2025`. Use this for display; use the ISO format for frontmatter where Dataview will parse it.
 
@@ -185,10 +185,10 @@ Templater has a built-in web module. The most immediately useful function:
 
 ```javascript
 // Random quote from quotable.io
-<%* 
-  const response = await tp.obsidian.requestUrl({url: "https://api.quotable.io/random"});
-  const data = response.json;
-  tR += `> "${data.content}"\n> — ${data.author}`;
+<%*
+ const response = await tp.obsidian.requestUrl({url: "https://api.quotable.io/random"});
+ const data = response.json;
+ tR += `> "${data.content}"\n> — ${data.author}`;
 %>
 ```
 
@@ -199,9 +199,9 @@ Note the `<%*` opening tag—this is an *execution* block that runs code but onl
 This is underused and extremely practical:
 
 ```javascript
-<%* 
-  const priority = await tp.system.prompt("What is your #1 priority today?");
-  tR += `**🎯 Top Priority:** ${priority}`;
+<%*
+ const priority = await tp.system.prompt("What is your #1 priority today?");
+ tR += `**🎯 Top Priority:** ${priority}`;
 %>
 ```
 
@@ -226,8 +226,8 @@ tags: daily-note
 
 ---
 <%*
-  const priority = await tp.system.prompt("🎯 What is your #1 priority today?");
-  tR += `> **Top Priority:** ${priority}\n`;
+ const priority = await tp.system.prompt("🎯 What is your #1 priority today?");
+ tR += `> **Top Priority:** ${priority}\n`;
 %>
 
 ---
@@ -257,9 +257,9 @@ where !completed and due = date("<% tp.date.now("YYYY-MM-DD") %>")
 
 ---
 <%*
-  const response = await tp.obsidian.requestUrl({url: "https://api.quotable.io/random"});
-  const data = response.json;
-  tR += `## 💬 Daily Quote\n> "${data.content}"\n> — **${data.author}**`;
+ const response = await tp.obsidian.requestUrl({url: "https://api.quotable.io/random"});
+ const data = response.json;
+ tR += `## 💬 Daily Quote\n> "${data.content}"\n> — **${data.author}**`;
 %>
 
 ## 🌙 Evening Reflection
@@ -270,9 +270,9 @@ where !completed and due = date("<% tp.date.now("YYYY-MM-DD") %>")
 **Gratitude:**
 ```
 
-The Dataview block renders a live task list at note-open time. Install the [Dataview plugin](URL_PLACEHOLDER_4) if you haven't—it's the other essential companion to Templater.
+The Dataview block renders a live task list at note-open time. Install the Dataview plugin if you haven't—it's the other essential companion to Templater.
 
-If you want to sync this setup across devices, [Obsidian Sync](URL_PLACEHOLDER_5) keeps your vault—templates, plugins, settings—identical on every machine without a third-party service.
+If you want to sync this setup across devices, Obsidian Sync keeps your vault—templates, plugins, settings—identical on every machine without a third-party service.
 
 ---
 
@@ -292,31 +292,31 @@ Settings → Templater → **Script Files Folder Location** → set to `_scripts
 
 ```javascript
 async function getWeather(city) {
-  const apiKey = "YOUR_OPENWEATHERMAP_KEY"; // free tier works fine
-  const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
-  
-  try {
-    const response = await fetch(url);
-    const data = await response.json();
-    const temp = Math.round(data.main.temp);
-    const desc = data.weather[0].description;
-    return `${temp}°C, ${desc}`;
-  } catch (e) {
-    return "Weather unavailable";
-  }
+ const apiKey = "YOUR_OPENWEATHERMAP_KEY"; // free tier works fine
+ const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
+
+ try {
+ const response = await fetch(url);
+ const data = await response.json();
+ const temp = Math.round(data.main.temp);
+ const desc = data.weather[0].description;
+ return `${temp}°C, ${desc}`;
+ } catch (e) {
+ return "Weather unavailable";
+ }
 }
 
 module.exports = getWeather;
 ```
 
-Get a free API key at [OpenWeatherMap](URL_PLACEHOLDER_6). The free tier allows 60 calls/minute—more than sufficient for a daily note.
+Get a free API key at OpenWeatherMap. The free tier allows 60 calls/minute—more than sufficient for a daily note.
 
 **3. Call it inside your template**
 
 ```javascript
 <%*
-  const weather = await tp.user.getWeather("London");
-  tR += `**🌤 Weather:** ${weather}`;
+ const weather = await tp.user.getWeather("London");
+ tR += `**🌤 Weather:** ${weather}`;
 %>
 ```
 
@@ -324,7 +324,7 @@ Restart Obsidian after adding new script files so Templater re-indexes them.
 
 ### Pushing External Data with Webhooks
 
-For more complex integrations—pulling today's Google Calendar events, importing action items from a project management tool—consider pairing Obsidian with Make.com(URL_PLACEHOLDER_7) or Zapier(URL_PLACEHOLDER_8). These services can watch an external trigger, format data as Markdown, and push it into your vault using the Obsidian Local REST API plugin(URL_PLACEHOLDER_9). The daily note template then reads from a staging file that Make.com has already populated. It's a more involved setup, but it eliminates all manual data entry for recurring information.
+For more complex integrations—pulling today's Google Calendar events, importing action items from a project management tool—consider pairing Obsidian with Make.com or Zapier. These services can watch an external trigger, format data as Markdown, and push it into your vault using the Obsidian Local REST API plugin. The daily note template then reads from a staging file that Make.com has already populated. It's a more involved setup, but it eliminates all manual data entry for recurring information.
 
 ---
 
@@ -369,12 +369,12 @@ The core Templates plugin is a sticky note. Templater is a document assembly sys
 
 Start with the beginner template, get comfortable with `tp.date.now()` and `tp.file.title`, then drop in the advanced dashboard. Once that's running, spend an afternoon writing a User Function and you'll have live weather or a daily Stoic quote appearing without lifting a finger.
 
-The [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) systems taught in courses like [Building a Second Brain](URL_PLACEHOLDER_10) treat the daily note as the atomic unit of your knowledge practice. Templater ensures that unit is consistent, rich, and automated from day one—so you spend your cognitive budget on thinking, not formatting.
+The [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) systems taught in courses like Building a Second Brain treat the daily note as the atomic unit of your knowledge practice. Templater ensures that unit is consistent, rich, and automated from day one—so you spend your cognitive budget on thinking, not formatting.
 
 **Ready to put this into practice?**
-- [Install Templater](URL_PLACEHOLDER_1) and follow Step 1 right now—it takes under 5 minutes.
-- [Set up Obsidian Sync](URL_PLACEHOLDER_5) to keep your templates and scripts identical across every device.
-- If you want the full automation stack with external data, [start a free Make.com account](URL_PLACEHOLDER_7) and connect it to your vault.
+- Install Templater and follow Step 1 right now—it takes under 5 minutes.
+- Set up Obsidian Sync to keep your templates and scripts identical across every device.
+- If you want the full automation stack with external data, start a free Make.com account and connect it to your vault.
 
 The templates in this guide are copy-paste ready. The only thing left is to open Obsidian and create today's note.
 
@@ -392,7 +392,7 @@ Yes, and this is the recommended setup. Configure Periodic Notes to handle file 
 
 ### Will Templater break my vault if I make a syntax error in a template?
 
-No. A broken template will throw an error notification and leave the file either empty or partially filled. Your vault itself is untouched. Keep a backup of working templates in a separate folder while experimenting—or use [Obsidian Sync](URL_PLACEHOLDER_5) which maintains version history.
+No. A broken template will throw an error notification and leave the file either empty or partially filled. Your vault itself is untouched. Keep a backup of working templates in a separate folder while experimenting—or use Obsidian Sync which maintains version history.
 
 ### How do I format dates in my local language?
 
@@ -400,7 +400,7 @@ Moment.js (which Templater uses internally) supports locale-aware formatting. Ad
 
 ### Is there a way to run a template automatically every morning without manually opening Obsidian?
 
-Templater can't wake your computer, but it can auto-create today's note the moment Obsidian opens. Enable **Periodic Notes → Open daily note on startup** and combine with Templater's folder trigger. The note is created and templated within seconds of Obsidian launching. For truly automated data ingestion (calendar events, weather pre-fetched), pair with [Make.com](URL_PLACEHOLDER_7) running on a schedule.
+Templater can't wake your computer, but it can auto-create today's note the moment Obsidian opens. Enable **Periodic Notes → Open daily note on startup** and combine with Templater's folder trigger. The note is created and templated within seconds of Obsidian launching. For truly automated data ingestion (calendar events, weather pre-fetched), pair with Make.com running on a schedule.
 
 ## Related Reading
 

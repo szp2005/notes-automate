@@ -1,4 +1,5 @@
 ---
+image: "/og/comparing-obsidian-metadata-menu-vs-database-folder.webp"
 title: "Obsidian Metadata Menu vs. Database Folder: Which is Best for Your Workflow?"
 description: "Comparing Obsidian Metadata Menu and Database Folder plugins to help you choose the ideal tool for managing structured data and enhancing your note-taking workflow."
 pubDate: "2026-05-06"
@@ -156,3 +157,10 @@ No, neither plugin requires coding knowledge. Metadata Menu involves configuring
 
 ### ### Which plugin is better for task management in Obsidian?
 For simple task lists within a project or folder, the Database Folder plugin is often preferred due to its intuitive table view, allowing for easy status updates, sorting by due date, and filtering. For more complex task management that involves deep integration with other data points across your vault and advanced automation, Metadata Menu combined with Dataview might offer more power and flexibility.
+
+---
+
+## Related Reading
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
+- [Best n8n Workflows for Obsidian Automation in 2026](/posts/best-n8n-workflows-obsidian-automation-2026/)

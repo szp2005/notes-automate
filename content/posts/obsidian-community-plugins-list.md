@@ -83,7 +83,7 @@ Most plugins add an entry to your Settings sidebar after enabling. Spend two min
 **Step 5 – Keep Plugins Updated**
 Go to **Settings → Community Plugins** and click **Check for Updates**. Updates are not automatic, so build this into a weekly habit.
 
-> **Sync consideration:** If you use Obsidian across multiple devices, your plugin *files* sit inside the vault. A Git-based sync plugin can replicate them, but it requires setup time. [Obsidian Sync](URL_PLACEHOLDER_1) handles this automatically with end-to-end encryption and is the zero-friction option if you work on Mac, Windows, iOS, and Android simultaneously.
+> **Sync consideration:** If you use Obsidian across multiple devices, your plugin *files* sit inside the vault. A Git-based sync plugin can replicate them, but it requires setup time. Obsidian Sync handles this automatically with end-to-end encryption and is the zero-friction option if you work on Mac, Windows, iOS, and Android simultaneously.
 
 ---
 
@@ -153,7 +153,7 @@ Adds a drag-and-drop kanban board backed by plain Markdown. Each card is a secti
 ### Projects
 A newer plugin (by Marcus Olsson) that builds structured views—tables, boards, calendars—from a specific folder. Think of it as Dataview with a polished GUI. Good for users who want database-style views without writing queries.
 
-> 📚 **Take Your Workflow to the Next Level:** These organizational plugins work even better when you have a solid methodology behind them. Tiago Forte's [Building a Second Brain course](URL_PLACEHOLDER_2) teaches the PARA method that maps directly to how these tools structure your vault. Zettelkasten practitioners should look at the [Linking Your Thinking workshop](URL_PLACEHOLDER_3).
+> 📚 **Take Your Workflow to the Next Level:** These organizational plugins work even better when you have a solid methodology behind them. Tiago Forte's Building a Second Brain course teaches the PARA method that maps directly to how these tools structure your vault. Zettelkasten practitioners should look at the Linking Your Thinking workshop.
 
 ---
 
@@ -165,7 +165,7 @@ Designed for long-form writing projects. Creates a manuscript structure where ea
 **Use-case:** Create a new Longform project for your novel. Add scenes as individual notes. Reorder them by dragging in the Longform panel. Compile to a single document before sending to an editor—no copy-paste, no lost formatting.
 
 ### Readwise Official
-[Readwise](URL_PLACEHOLDER_4) syncs all your Kindle highlights, web article annotations, podcast transcripts, and Twitter/X saves directly into your vault as structured notes. The plugin handles the sync automatically.
+Readwise syncs all your Kindle highlights, web article annotations, podcast transcripts, and Twitter/X saves directly into your vault as structured notes. The plugin handles the sync automatically.
 
 **Use-case:** Highlight a passage in a Kindle book, open Obsidian ten minutes later, and find that highlight linked to the book's note with your tags and metadata already applied.
 
@@ -228,9 +228,9 @@ The Obsidian community plugins list is not a feature—it's an ecosystem. The pl
 
 Start with three: **Templater**, **Tasks**, and **Calendar**. Get comfortable. Add **Dataview** when you're ready to query your notes. Layer in category-specific tools from there.
 
-If you want your vault to sync seamlessly across every device without touching a Git repository, [Obsidian Sync](URL_PLACEHOLDER_1) is the cleanest path—it's built by the same team and keeps your plugin configurations in sync automatically.
+If you want your vault to sync seamlessly across every device without touching a Git repository, Obsidian Sync is the cleanest path—it's built by the same team and keeps your plugin configurations in sync automatically.
 
-And if you've assembled the tools but want a proven methodology to run on top of them, [Readwise](URL_PLACEHOLDER_4) is worth a look for anyone who reads heavily—the Obsidian integration alone pays for the subscription if you've ever lost a highlight you needed.
+And if you've assembled the tools but want a proven methodology to run on top of them, Readwise is worth a look for anyone who reads heavily—the Obsidian integration alone pays for the subscription if you've ever lost a highlight you needed.
 
 The best vault is the one you actually use. Pick the plugins that reduce friction for your specific workflow, and ignore the rest.
 
@@ -252,7 +252,7 @@ Most do, with exceptions. Plugins relying on Node.js modules or system-level acc
 
 ### What should I do if a plugin breaks after an update?
 
-First, check the plugin's GitHub Issues page—someone else probably already reported it. Temporarily disable the plugin. If you need the functionality immediately, roll back via the [BRAT plugin](URL_PLACEHOLDER_5), which lets you install specific older versions directly from GitHub. Most breaking issues are fixed within days by active maintainers.
+First, check the plugin's GitHub Issues page—someone else probably already reported it. Temporarily disable the plugin. If you need the functionality immediately, roll back via the BRAT plugin, which lets you install specific older versions directly from GitHub. Most breaking issues are fixed within days by active maintainers.
 
 ### What is the difference between Dataview and the native Properties feature?
 

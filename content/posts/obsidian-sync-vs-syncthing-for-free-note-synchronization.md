@@ -40,7 +40,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Obsidian stores your notes as plain Markdown files on your local drive. That's a deliberate design choice — your data stays yours. The problem is "local-first" means syncing across your laptop, desktop, phone, and tablet becomes your problem, not the app's.
 
-Obsidian's official answer is Obsidian Sync, a polished paid add-on. The community's most popular free answer is [Syncthing](URL_PLACEHOLDER_1), an open-source peer-to-peer sync tool. Both work. Neither is objectively superior. The right choice depends entirely on your situation.
+Obsidian's official answer is Obsidian Sync, a polished paid add-on. The community's most popular free answer is Syncthing, an open-source peer-to-peer sync tool. Both work. Neither is objectively superior. The right choice depends entirely on your situation.
 
 Here is the quick summary before we dig in:
 
@@ -77,16 +77,16 @@ Obsidian Sync is the first-party, cloud-based synchronization service built dire
 
 ## Deep Dive: Syncthing {#deep-dive-syncthing}
 
-[Syncthing](URL_PLACEHOLDER_2) is an open-source file synchronization program maintained by a nonprofit foundation. It is free, contains no ads, and collects no data. Instead of routing your files through a cloud server, it establishes direct encrypted connections between your devices using TLS with certificate-based device authentication.
+Syncthing is an open-source file synchronization program maintained by a nonprofit foundation. It is free, contains no ads, and collects no data. Instead of routing your files through a cloud server, it establishes direct encrypted connections between your devices using TLS with certificate-based device authentication.
 
 **What you get:**
 - **Zero cost.** Permanently.
 - **No central server.** Your vault files travel directly from device A to device B. Nobody in the middle can see them.
 - **File versioning** as an optional setting — Syncthing can keep N previous versions of any changed file in a hidden `.stversions` folder.
 - **Granular control:** Sync frequency, ignore patterns (equivalent to `.gitignore`), folder types (send-only, receive-only, or bidirectional).
-- **Cross-platform:** Windows, macOS, Linux, Android. iOS via the third-party [Möbius Sync](URL_PLACEHOLDER_3) app.
+- **Cross-platform:** Windows, macOS, Linux, Android. iOS via the third-party Möbius Sync app.
 
-**The catch:** Syncthing is peer-to-peer. For two devices to sync, at least one of them must be online. If your phone and laptop are both off, nothing syncs. The practical solution is an always-on device — a home server, a [Raspberry Pi](URL_PLACEHOLDER_4), a [Synology NAS](URL_PLACEHOLDER_5), or a cheap cloud VPS — that acts as a relay node. This is not strictly required, but without it, syncing only happens when both devices are running simultaneously.
+**The catch:** Syncthing is peer-to-peer. For two devices to sync, at least one of them must be online. If your phone and laptop are both off, nothing syncs. The practical solution is an always-on device — a home server, a Raspberry Pi, a Synology NAS, or a cheap cloud VPS — that acts as a relay node. This is not strictly required, but without it, syncing only happens when both devices are running simultaneously.
 
 **Who it is for:** Privacy advocates who are uncomfortable with any third party holding their notes (even encrypted), developers comfortable with terminal commands and configuration files, and anyone who needs to eliminate a recurring subscription.
 
@@ -118,7 +118,7 @@ On Android, the native Syncthing app is solid. On iOS, Obsidian Sync is dramatic
 
 ### Step 1: Install Syncthing on Your Primary Computer
 
-**Windows/Mac:** Download the installer from [syncthing.net](URL_PLACEHOLDER_6). Run it. Syncthing opens a web UI in your browser at `http://127.0.0.1:8384`.
+**Windows/Mac:** Download the installer from syncthing.net. Run it. Syncthing opens a web UI in your browser at `http://127.0.0.1:8384`.
 
 ### Step 2: Add Your Obsidian Vault as a Synced Folder
 
@@ -133,7 +133,7 @@ These files change every time you open Obsidian and cause constant false sync ev
 
 ### Step 3: Connect Your Android Phone
 
-Install [Syncthing from F-Droid](URL_PLACEHOLDER_7) or Google Play on your Android device. Open the app and copy your phone's **Device ID** from the menu.
+Install Syncthing from F-Droid or Google Play on your Android device. Open the app and copy your phone's **Device ID** from the menu.
 
 Back in your computer's Syncthing web UI, click **Add Remote Device** and paste that ID. Accept the connection request on your phone. Then share your Obsidian vault folder with that device. On the phone, accept the folder share and set the destination path to a folder inside your phone's local storage (not SD card — it's slower and less reliable).
 
@@ -141,7 +141,7 @@ Back in your computer's Syncthing web UI, click **Add Remote Device** and paste 
 
 ### Step 4: iOS Setup via Möbius Sync
 
-Download [Möbius Sync](URL_PLACEHOLDER_8) from the App Store. Open it and go to **Add Folder**. Copy the Device ID from Möbius Sync and add it to your computer's Syncthing via **Add Remote Device**, exactly as you did with Android. Share your vault folder with Möbius Sync. In Obsidian on iOS, open the vault from the Möbius Sync–managed folder location.
+Download Möbius Sync from the App Store. Open it and go to **Add Folder**. Copy the Device ID from Möbius Sync and add it to your computer's Syncthing via **Add Remote Device**, exactly as you did with Android. Share your vault folder with Möbius Sync. In Obsidian on iOS, open the vault from the Möbius Sync–managed folder location.
 
 **iOS pitfall:** iOS aggressively kills background processes. For reliable sync, open Möbius Sync briefly before switching to Obsidian. This is the most significant usability gap compared to Obsidian Sync on iOS.
 
@@ -149,8 +149,8 @@ Download [Möbius Sync](URL_PLACEHOLDER_8) from the App Store. Open it and go to
 
 For reliable sync when your devices are not on the same network, you need a device that is always on. Options:
 
-- **Home option:** A [Raspberry Pi 4](URL_PLACEHOLDER_9) ($50–80) running Syncthing, plugged in to your router. Initial setup takes about two hours. After that, it runs indefinitely with near-zero power draw.
-- **Cloud option:** A $5/month VPS from [DigitalOcean](URL_PLACEHOLDER_10) or [Vultr](URL_PLACEHOLDER_11) with Syncthing installed. This is better if you travel often — a home server on your home network still needs your router to be reachable from the internet (which requires port forwarding or a relay). A cloud VPS handles this automatically.
+- **Home option:** A Raspberry Pi 4 ($50–80) running Syncthing, plugged in to your router. Initial setup takes about two hours. After that, it runs indefinitely with near-zero power draw.
+- **Cloud option:** A $5/month VPS from DigitalOcean or Vultr with Syncthing installed. This is better if you travel often — a home server on your home network still needs your router to be reachable from the internet (which requires port forwarding or a relay). A cloud VPS handles this automatically.
 
 ---
 
@@ -217,9 +217,9 @@ If you are still undecided, spend one month on Syncthing. If a conflict file str
 
 The obsidian sync vs syncthing debate does not have a universally correct answer, and anyone telling you otherwise is selling something. What exists is a straightforward trade: money for convenience, or time for control.
 
-If Syncthing fits your setup, [download it now](URL_PLACEHOLDER_12) — it is free, takes an hour to configure, and you will own that configuration forever. If you want reliable sync on iOS without compromise, or you simply want to stop thinking about it, [start your Obsidian Sync trial](URL_PLACEHOLDER_13). It is the most direct way to support the tool you are already using every day.
+If Syncthing fits your setup, download it now — it is free, takes an hour to configure, and you will own that configuration forever. If you want reliable sync on iOS without compromise, or you simply want to stop thinking about it, start your Obsidian Sync trial. It is the most direct way to support the tool you are already using every day.
 
-For Syncthing users who want that always-on reliability node, a [Raspberry Pi starter kit](URL_PLACEHOLDER_14) is the cleanest home solution, or spin up a [$5/month DigitalOcean droplet](URL_PLACEHOLDER_15) if you need something accessible from anywhere without port forwarding headaches.
+For Syncthing users who want that always-on reliability node, a Raspberry Pi starter kit is the cleanest home solution, or spin up a $5/month DigitalOcean droplet if you need something accessible from anywhere without port forwarding headaches.
 
 Your notes are your thinking. Make sure they follow you reliably, whatever that takes.
 

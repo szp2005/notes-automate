@@ -1,4 +1,5 @@
 ---
+image: "/og/using-obsidian-for-systematic-literature-reviews.webp"
 title: "Using Obsidian for Systematic Literature Reviews: A Complete Guide"
 description: "Practical guide to using obsidian for systematic literature reviews: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"

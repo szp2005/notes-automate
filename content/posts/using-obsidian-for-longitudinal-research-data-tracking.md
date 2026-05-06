@@ -1,4 +1,5 @@
 ---
+image: "/og/using-obsidian-for-longitudinal-research-data-tracking.webp"
 title: "Using Obsidian for Longitudinal Research Data Tracking: A Comprehensive Guide"
 description: "Practical guide to using obsidian for longitudinal research data tracking: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-06"
@@ -340,3 +341,10 @@ Regardless of the method, clear communication and established protocols for data
 ### How do I ensure data privacy in Obsidian?
 Data privacy in Obsidian relies on practices outside the application itself. Since files are local:
 1.
+
+---
+
+## Related Reading
+
+- [Automate Obsidian Daily Notes with Python: A Complete Guide](/posts/automate-obsidian-daily-notes-using-python/)
+- [Automating Literature Reviews with Obsidian & n8n: A Complete Guide](/posts/automating-literature-reviews-using-obsidian-and-n8n/)

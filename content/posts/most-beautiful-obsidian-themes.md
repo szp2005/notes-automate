@@ -41,7 +41,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ## Why Your Obsidian Theme is More Than Just Eye Candy {#why-theme-matters}
 
-There is a well-documented relationship between your visual environment and the quality of sustained cognitive work. Don Norman explored this at length in [*The Design of Everyday Things*](URL_PLACEHOLDER_1) — the central argument being that objects designed well make you want to use them, while poorly designed tools create friction that compounds over time. The same logic applies to software.
+There is a well-documented relationship between your visual environment and the quality of sustained cognitive work. Don Norman explored this at length in *The Design of Everyday Things* — the central argument being that objects designed well make you want to use them, while poorly designed tools create friction that compounds over time. The same logic applies to software.
 
 If you open Obsidian every day and the default interface makes you feel nothing — no anticipation, no comfort, no small jolt of pleasure — you are leaving motivational energy on the table. That matters specifically for [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) because it is a habit, not a task. Habits live and die by how easy they are to start, and visual appeal is a legitimate on-ramp.
 
@@ -62,7 +62,7 @@ Does every element — sidebar, editor pane, headings, code blocks, tags, graph 
 Each theme was tested during a 90-minute writing session in both light and dark mode where applicable. Contrast ratios were checked against WCAG AA standards. If your eyes hurt, the theme fails, regardless of how nice the screenshots look.
 
 **Style Settings Compatibility**
-The [Style Settings plugin](URL_PLACEHOLDER_2) is a community plugin that exposes a settings panel inside Obsidian where you can change fonts, toggle features, adjust color accents, and more — without touching a single line of CSS. Themes that offer deep Style Settings integration scored higher because they give you control without requiring coding knowledge.
+The Style Settings plugin is a community plugin that exposes a settings panel inside Obsidian where you can change fonts, toggle features, adjust color accents, and more — without touching a single line of CSS. Themes that offer deep Style Settings integration scored higher because they give you control without requiring coding knowledge.
 
 **Active Maintenance**
 Obsidian updates its API regularly. A theme last touched in 2021 will break. Every theme here has a GitHub commit within the last eight months as of this writing.
@@ -75,7 +75,7 @@ Minimalist themes remove everything that does not directly serve reading or writ
 
 ### Things
 
-**Things** was built by [Colin Hou](URL_PLACEHOLDER_3) with a clear reference point: it wants Obsidian to feel like a native macOS application. The sidebar uses soft grays, the active note indicator is a clean blue accent, and the overall impression is closer to Bear or Apple Notes than to a developer's tool.
+**Things** was built by Colin Hou with a clear reference point: it wants Obsidian to feel like a native macOS application. The sidebar uses soft grays, the active note indicator is a clean blue accent, and the overall impression is closer to Bear or Apple Notes than to a developer's tool.
 
 What makes Things stand out is its treatment of headers. H1 through H3 scale proportionally with sensible weight differences, so note structure is immediately readable without the headers screaming at you. Code blocks are styled cleanly with a light background that does not interrupt reading flow.
 
@@ -125,7 +125,7 @@ These themes are built for people who live in dark mode and want something warme
 
 ### Nord
 
-**Nord** is based on the [Nord color palette](URL_PLACEHOLDER_4) — an Arctic-inspired set of cool blues, muted teals, and white tones originally developed for code editors. It migrated into Obsidian theming early and has accumulated one of the largest user bases of any community theme.
+**Nord** is based on the Nord color palette — an Arctic-inspired set of cool blues, muted teals, and white tones originally developed for code editors. It migrated into Obsidian theming early and has accumulated one of the largest user bases of any community theme.
 
 The appeal is consistency. If you already use Nord in your terminal, your code editor, or your system theme, your Obsidian vault will feel continuous with your entire setup. The blues are desaturated enough to avoid visual fatigue, the dark backgrounds are true dark-navy rather than pure black, and text sits at a contrast level that holds up over long sessions.
 
@@ -193,7 +193,7 @@ Headers in Primary are bold and color-blocked. Checkboxes use thick strokes. The
 
 ### AnuPpuccin
 
-**AnuPpuccin** is built on the [Catppuccin color palette](URL_PLACEHOLDER_5) — soft pastels in four flavors (Latte, Frappé, Macchiato, Mocha) that have become enormously popular across developer tools. The Obsidian port by AnubisNekhet extends the base palette with substantial UI customization and ranks among the most-downloaded community themes as of 2024.
+**AnuPpuccin** is built on the Catppuccin color palette — soft pastels in four flavors (Latte, Frappé, Macchiato, Mocha) that have become enormously popular across developer tools. The Obsidian port by AnubisNekhet extends the base palette with substantial UI customization and ranks among the most-downloaded community themes as of 2024.
 
 What separates AnuPpuccin from a straight palette port is the custom CSS it ships with: alternate checkboxes, rainbow folder colors, custom callout styles, and animated elements accessible through Style Settings. You can spend an hour customizing AnuPpuccin and end up with a vault that looks nothing like anyone else's, even with the same base theme.
 
@@ -257,7 +257,7 @@ Return to `Settings → Appearance → Themes`. The dropdown shows all installed
 **Pro Tip: Install Style Settings Immediately**
 Go to `Settings → Community Plugins → Browse`, search "Style Settings," install and enable it. Then return to `Settings → Style Settings` — if your active theme supports it, a full customization panel appears. Change fonts, toggle UI elements, adjust accent colors, all without code.
 
-**Wanting to go further than Style Settings allows?** Basic CSS skills open up complete control over every visual element in Obsidian. A practical starting point is [this CSS for Beginners course on Skillshare](URL_PLACEHOLDER_6), which will get you from zero to writing functional snippets in a few hours. Obsidian supports CSS snippets natively under `Settings → Appearance → CSS Snippets`.
+**Wanting to go further than Style Settings allows?** Basic CSS skills open up complete control over every visual element in Obsidian. A practical starting point is this CSS for Beginners course on Skillshare, which will get you from zero to writing functional snippets in a few hours. Obsidian supports CSS snippets natively under `Settings → Appearance → CSS Snippets`.
 
 ---
 
@@ -275,7 +275,7 @@ Iconize lets you assign icons to individual files, folders, or file types in you
 Supercharged Links adds visual metadata to internal links throughout your vault. You can configure it to display colored dots, emoji, or prefix text on links based on their properties — so a link to a note tagged `#book` shows a book emoji, a link to a `#person` note shows a name-style prefix. Under any vibrant theme, this creates a genuinely visual linking system.
 
 ### Custom Fonts via Envato Elements
-If you want to take your vault's typography to a level no free theme bundle provides, Envato Elements(URL_PLACEHOLDER_7) is a subscription that includes thousands of premium fonts and icon sets. Load a downloaded font via Obsidian's `Settings → Appearance → Text Font` field (specify the font family name after installing it system-wide). Pairing Minimal or Sanctum with a premium serif body font changes the reading experience noticeably.
+If you want to take your vault's typography to a level no free theme bundle provides, Envato Elements is a subscription that includes thousands of premium fonts and icon sets. Load a downloaded font via Obsidian's `Settings → Appearance → Text Font` field (specify the font family name after installing it system-wide). Pairing Minimal or Sanctum with a premium serif body font changes the reading experience noticeably.
 
 ---
 
@@ -293,7 +293,7 @@ The time investment is small. The compounding return — opening a workspace you
 
 ---
 
-**Ready to build the vault setup you actually want?** Start with [Minimal](URL_PLACEHOLDER_8) and the [Style Settings plugin](URL_PLACEHOLDER_9), then work through this list by category. If you want to unlock full CSS customization beyond what any plugin offers, [this Skillshare course](URL_PLACEHOLDER_6) gets you there faster than piecing it together from forum posts. For premium fonts and icon resources that give your vault a truly custom feel, [Envato Elements](URL_PLACEHOLDER_7) has the deepest catalog available.
+**Ready to build the vault setup you actually want?** Start with Minimal and the Style Settings plugin, then work through this list by category. If you want to unlock full CSS customization beyond what any plugin offers, this Skillshare course gets you there faster than piecing it together from forum posts. For premium fonts and icon resources that give your vault a truly custom feel, Envato Elements has the deepest catalog available.
 
 Your vault should look like *yours*. Go make it that way.
 

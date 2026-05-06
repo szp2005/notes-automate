@@ -37,7 +37,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ## What Is the Obsidian Git Plugin? (A Simple Explanation) {#what-is-it}
 
-The [Obsidian Git plugin](URL_PLACEHOLDER_1) is a community-built add-on that acts as a direct bridge between your Obsidian note vault and Git — the most widely used version control system in software development. If you've never heard of Git before, don't let that scare you off. For the purposes of this plugin, you can think of Git as **a save button with a perfect memory**.
+The Obsidian Git plugin is a community-built add-on that acts as a direct bridge between your Obsidian note vault and Git — the most widely used version control system in software development. If you've never heard of Git before, don't let that scare you off. For the purposes of this plugin, you can think of Git as **a save button with a perfect memory**.
 
 Every time you hit that save button (or the plugin does it for you automatically), Git records a snapshot of your notes. Unlike a regular file save that simply overwrites the previous version, Git stores every single change you've ever made. You can see what your vault looked like yesterday, three months ago, or on the day you created it. Then you connect that history to a free cloud service like GitHub, and suddenly you have an off-site backup and a sync mechanism in one.
 
@@ -99,12 +99,12 @@ This is the question most Obsidian users eventually arrive at. Here's a straight
 Understanding the moving parts makes troubleshooting much easier later. There are three pieces:
 
 **1. Git on Your Computer**
-Git is free, open-source software that runs locally on your machine. It's the engine that tracks changes, creates commits, and manages the history. You install it once from [git-scm.com](URL_PLACEHOLDER_2) and mostly forget it exists. If you're brand new to Git and want a structured foundation before diving in, a short beginner course — [this Git fundamentals course](URL_PLACEHOLDER_3) covers everything you need in a few hours — is a worthwhile investment of an evening.
+Git is free, open-source software that runs locally on your machine. It's the engine that tracks changes, creates commits, and manages the history. You install it once from git-scm.com and mostly forget it exists. If you're brand new to Git and want a structured foundation before diving in, a short beginner course — this Git fundamentals course covers everything you need in a few hours — is a worthwhile investment of an evening.
 
 **2. A Remote Repository on GitHub**
-Think of this as your secure cloud hard drive for notes. You create a free private repository on [GitHub](URL_PLACEHOLDER_4), and Git on your computer knows to send (push) and receive (pull) changes from it. The free GitHub plan handles this perfectly for most users. If you later want advanced features — protected branches, more GitHub Actions minutes — [GitHub Pro](URL_PLACEHOLDER_5) is a reasonable upgrade, but you'll likely never need it just for note sync.
+Think of this as your secure cloud hard drive for notes. You create a free private repository on GitHub, and Git on your computer knows to send (push) and receive (pull) changes from it. The free GitHub plan handles this perfectly for most users. If you later want advanced features — protected branches, more GitHub Actions minutes — GitHub Pro is a reasonable upgrade, but you'll likely never need it just for note sync.
 
-For users with serious privacy requirements, you can skip GitHub entirely and self-host your own Git server using Gitea on a [DigitalOcean Droplet](URL_PLACEHOLDER_6) for around $4/month. That gives you a private server that no third party can access.
+For users with serious privacy requirements, you can skip GitHub entirely and self-host your own Git server using Gitea on a DigitalOcean Droplet for around $4/month. That gives you a private server that no third party can access.
 
 **3. The Obsidian Git Plugin**
 This is the user interface that ties everything together inside Obsidian. It adds a command palette of Git operations (commit, push, pull, view history) and a settings panel where you configure automatic backup intervals. Without it, you'd have to open a terminal every time you wanted to back up your notes. The plugin eliminates that entirely.
@@ -141,7 +141,7 @@ The Obsidian Git plugin is, simply put, the best free infrastructure you can put
 
 The setup takes one afternoon. The payoff lasts as long as you use Obsidian.
 
-Ready to get started? [Install the Obsidian Git plugin from the community plugins directory](URL_PLACEHOLDER_1), set up your [free private GitHub repository](URL_PLACEHOLDER_4), and if you want a solid Git foundation before you dive in, [this beginner Git course](URL_PLACEHOLDER_3) will have you comfortable with the concepts in an evening. Your future self — the one who needs to recover a note at 11pm on a deadline — will thank you.
+Ready to get started? Install the Obsidian Git plugin from the community plugins directory, set up your free private GitHub repository, and if you want a solid Git foundation before you dive in, this beginner Git course will have you comfortable with the concepts in an evening. Your future self — the one who needs to recover a note at 11pm on a deadline — will thank you.
 
 ---
 

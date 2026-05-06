@@ -43,14 +43,14 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Most habit apps are silos. You log your run in one app, write your journal in another, and your project notes live somewhere else entirely. When February rolls around and your streak breaks, there's zero context about *why*—no note about the stressful week, no link to the project that ate your evenings, no connection to the goal it was supposed to serve.
 
-Obsidian solves this by keeping habit data in the same place where you think. The note you wrote on January 14th about feeling burned out sits two clicks away from the habit log that shows a five-day gap starting January 15th. That context is what turns raw data into insight. If you're serious about building lasting behaviors—and have read [Atomic Habits by James Clear](URL_PLACEHOLDER_1)—you already know that environment design and feedback loops matter more than willpower. Obsidian is one of the most powerful environments you can design for yourself.
+Obsidian solves this by keeping habit data in the same place where you think. The note you wrote on January 14th about feeling burned out sits two clicks away from the habit log that shows a five-day gap starting January 15th. That context is what turns raw data into insight. If you're serious about building lasting behaviors—and have read Atomic Habits by James Clear—you already know that environment design and feedback loops matter more than willpower. Obsidian is one of the most powerful environments you can design for yourself.
 
 **The real advantages of tracking habits in Obsidian in 2024:**
 
 - **Integration with your PKM.** Habit data lives next to your daily notes, weekly reviews, project pages, and goals. You can build queries that cross-reference all of them.
 - **Complete customization.** No app developer decides what "habits" look like for you. Track anything: medication, mood, word count, sleep quality, whether you left your phone in another room.
 - **Data privacy and ownership.** Every check, every score, every streak is a plain `.md` file on your local drive. No subscription cancels your history. No server breach exposes your sleep data. If Obsidian dies tomorrow, your data is still readable in any text editor.
-- **No recurring cost per feature.** Dedicated apps like Streaks, HabitBull, or Notion charge for the features you'll actually want. Obsidian is free; most plugins are free; [Obsidian Sync](URL_PLACEHOLDER_2) is the only optional paid component worth considering seriously.
+- **No recurring cost per feature.** Dedicated apps like Streaks, HabitBull, or Notion charge for the features you'll actually want. Obsidian is free; most plugins are free; Obsidian Sync is the only optional paid component worth considering seriously.
 
 **Honest challenges you should know about upfront:**
 
@@ -79,21 +79,21 @@ Four approaches cover nearly every use case for obsidian habit tracking. Three u
 
 ## Method 1: The Habits Plugin for Simplicity & Speed {#habits-plugin}
 
-The [Habits plugin](URL_PLACEHOLDER_3) (by Habitual, available in the community plugin browser) is the most friction-free dedicated solution available. It reads checkboxes from your daily notes and surfaces a simple dashboard.
+The Habits plugin (by Habitual, available in the community plugin browser) is the most friction-free dedicated solution available. It reads checkboxes from your daily notes and surfaces a simple dashboard.
 
 ### Step-by-Step Setup
 
 1. Open **Settings → Community Plugins → Browse**, search for "Habits," install and enable it.
 2. In plugin settings, set your **Daily Notes folder path** (e.g., `Daily Notes/`).
 3. Define your habits in settings—each habit is just a string that the plugin looks for as a checkbox in your daily note. Example: `- [ ] Morning workout`.
-4. Create or update your daily note template to include those exact checkbox strings. Use the [Templater plugin](URL_PLACEHOLDER_4) to auto-insert them every day.
+4. Create or update your daily note template to include those exact checkbox strings. Use the Templater plugin to auto-insert them every day.
 5. Open the Habits panel (ribbon icon or command palette: "Open Habits Tracker") to see your rolling 30-day grid.
 
 ### What a Daily Note Entry Looks Like
 
 [```markdown
 ## Habits
-[-  ] Morning workout
+[- ] Morning workout
 - [ ] Read 20 minutes
 - [ ] No alcohol
 - [ ] Meditation
@@ -111,14 +111,14 @@ Check the boxes as you complete them. The plugin scans the file, finds those str
 
 ## Method 2: The Tracker Plugin for Data Visualization {#tracker-plugin}
 
-The [Tracker plugin](URL_PLACEHOLDER_5) by pyrochlore is the go-to choice when you want your habit data to *look* like data. It produces heatmaps, line charts, bar charts, and pie charts by reading values from your notes' YAML frontmatter or inline text.
+The Tracker plugin by pyrochlore is the go-to choice when you want your habit data to *look* like data. It produces heatmaps, line charts, bar charts, and pie charts by reading values from your notes' YAML frontmatter or inline text.
 
 ### Installation and Basic Configuration
 
 1. Install "Tracker" from community plugins.
 2. Decide where your data lives. The two most common approaches:
-   - **YAML frontmatter** in daily notes: `mood: 7`
-   - **Inline text** the plugin can parse: `walk:: 1`
+ - **YAML frontmatter** in daily notes: `mood: 7`
+ - **Inline text** the plugin can parse: `walk:: 1`
 
 A daily note frontmatter block for Tracker looks like this:
 
@@ -144,7 +144,7 @@ folder: Daily Notes
 startDate: 2024-01-01
 endDate: 2024-12-31
 heatmap:
-  color: "#4CAF50"
+ color: "#4CAF50"
 ```
 ````
 
@@ -158,9 +158,9 @@ searchType: frontmatter
 searchTarget: mood
 folder: Daily Notes
 line:
-  title: Mood Over Time
-  yAxisLabel: Score (1-10)
-  lineColor: "#2196F3"
+ title: Mood Over Time
+ yAxisLabel: Score (1-10)
+ lineColor: "#2196F3"
 ```
 ````
 
@@ -214,13 +214,13 @@ Paste this in a `[Weekly Review](/posts/obsidian-template-for-weekly-reflection-
 
 ### Writing a Habit Streak Counter
 
-[````markdown
+````markdown
 ```dataviewjs
 const files = dv.pages('"Daily Notes"').sort(p => p.date, 'desc');
 let streak = 0;
 for (let page of files) {
-  if (page.workout === true) streak++;
-  else break;
+ if (page.workout === true) streak++;
+ else break;
 }
 dv.paragraph(`Current workout streak: **${streak} days**`);
 ```
@@ -242,7 +242,7 @@ No habit tracking setup in Obsidian works best as a single plugin. These four su
 
 ### Templater: Eliminate Daily Friction
 
-[Templater](URL_PLACEHOLDER_6) auto-generates your daily note with the correct date, pre-populated habit checkboxes, and YAML frontmatter fields already in place. Without it, you're manually creating each note and prone to inconsistency.
+[Templater auto-generates your daily note with the correct date, pre-populated habit checkboxes, and YAML frontmatter fields already in place. Without it, you're manually creating each note and prone to inconsistency.
 
 A minimal Templater daily note snippet:
 
@@ -252,11 +252,11 @@ date: <% tp.date.now("YYYY-MM-DD") %>
 workout: false
 meditation: false
 reading: false
-mood: 
+mood:
 ---
 
 ## Today's Habits
-[-  ] Morning workout
+[- ] Morning workout
 - [ ] Meditation
 - [ ] Read 20 minutes
 ```
@@ -288,11 +288,11 @@ Pull all three together in a single `Dashboard.md` note:
 [Tasks plugin query here]
 ```
 
-Pin this note to your sidebar. Open it every morning. This is your [atomic habits Obsidian setup](URL_PLACEHOLDER_7)—a system that makes the right action the visible, [default](/posts/things-theme-vs-minimal-theme-obsidian/) action.
+Pin this note to your sidebar. Open it every morning. This is your atomic habits Obsidian setup—a system that makes the right action the visible, [default](/posts/things-theme-vs-minimal-theme-obsidian/) action.
 
 ### Syncing Across Devices
 
-If you use Obsidian on both desktop and mobile—and for habit tracking, you need to, because you're completing habits away from your desk—Obsidian Sync(URL_PLACEHOLDER_2) is the cleanest solution. It's $4/month, end-to-end encrypted, and just works. iCloud and Git both work but require more configuration and have more failure points.
+If you use Obsidian on both desktop and mobile—and for habit tracking, you need to, because you're completing habits away from your desk—Obsidian Sync is the cleanest solution. It's $4/month, end-to-end encrypted, and just works. iCloud and Git both work but require more configuration and have more failure points.
 
 ---
 
@@ -308,7 +308,7 @@ Here's the honest, no-hedging breakdown:
 
 **My personal recommendation:** Start with the Habits plugin for the first 30 days. Log consistently. Then migrate your frontmatter to include numeric fields (mood, focus hours) and add the Tracker plugin for visualizations. If you find yourself wanting to query across habits and projects, bolt on Dataview. You'll build toward complexity only where you have a genuine need for it—which is exactly the right order.
 
-To go deeper on building systems in Obsidian beyond habit tracking, [this Obsidian Mastery course](URL_PLACEHOLDER_8) covers Dataview, Templater, and dashboard design in structured detail.
+To go deeper on building systems in Obsidian beyond habit tracking, this Obsidian Mastery course covers Dataview, Templater, and dashboard design in structured detail.
 
 ---
 
@@ -318,9 +318,9 @@ The best obsidian habit tracker is the one you'll actually use consistently. Sta
 
 The four methods in this article cover every skill level and use case—from five-minute checkbox setups to full Dataview [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) that make dedicated apps look limited. The comparison table gives you an honest benchmark. The starter templates give you a running start.
 
-If you want to go further with Obsidian beyond habit tracking—building a full PKM system, mastering Templater automation, or creating dashboards for goals and projects—[this Obsidian Mastery course](URL_PLACEHOLDER_8) is the most structured path available without spending hours stitching together YouTube tutorials.
+If you want to go further with Obsidian beyond habit tracking—building a full PKM system, mastering Templater automation, or creating dashboards for goals and projects—this Obsidian Mastery course is the most structured path available without spending hours stitching together YouTube tutorials.
 
-And if you want the philosophy to match the system, [Atomic Habits by James Clear](URL_PLACEHOLDER_1) remains the clearest framework for understanding *why* the mechanics of tracking work—and how to design your environment so showing up becomes the default.
+And if you want the philosophy to match the system, Atomic Habits by James Clear remains the clearest framework for understanding *why* the mechanics of tracking work—and how to design your environment so showing up becomes the default.
 
 Build the system. Ship it this week. Improve it next month.
 
@@ -334,7 +334,7 @@ Build the system. Ship it this week. Improve it next month.
 
 ### Q: Can I track habits in Obsidian on mobile without a separate app?
 
-Yes, and the Habits plugin is the most mobile-friendly option. It relies on core checkboxes that render natively on iOS and Android. Tracker plugin charts can lag on mobile with large data sets. Dataview works on mobile but complex DataviewJS queries are slow on older phones. For reliable mobile tracking, pair any method with [Obsidian Sync](URL_PLACEHOLDER_2) to keep your vault consistent across devices.
+Yes, and the Habits plugin is the most mobile-friendly option. It relies on core checkboxes that render natively on iOS and Android. Tracker plugin charts can lag on mobile with large data sets. Dataview works on mobile but complex DataviewJS queries are slow on older phones. For reliable mobile tracking, pair any method with Obsidian Sync to keep your vault consistent across devices.
 
 ### Q: Do I need to know how to code to use Dataview for habit tracking?
 

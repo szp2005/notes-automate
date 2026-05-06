@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-project-management-academic-research-teams.webp"
 title: "Obsidian Project Management for Academic Research Teams: A Complete Guide"
 description: "Master Obsidian project management for academic research teams. Streamline collaboration, knowledge synthesis, and publication workflows with this powerful guide."
 pubDate: "2026-05-06"

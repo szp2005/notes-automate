@@ -111,7 +111,7 @@ Hover over the edge of any card until you see a small circle appear. Drag from t
 
 Put a single central question in the middle of a blank canvas as a text card. Branch outward with note cards for each sub-topic. Draw labeled edges like "example of" or "challenges." This is the classic obsidian mind map setup. The advantage over a dedicated mind map tool: every branch can link to a real note with 500 words of supporting detail.
 
-For the theory behind why spatial brainstorming works, [The Back of the Napkin by Dan Roam](URL_PLACEHOLDER_1) is worth reading — it's the clearest book-length argument for visual thinking as a problem-solving method.
+For the theory behind why spatial brainstorming works, The Back of the Napkin by Dan Roam is worth reading — it's the clearest book-length argument for visual thinking as a problem-solving method.
 
 ### Use Case 2: Project Dashboard
 
@@ -131,7 +131,7 @@ Drop your source PDFs as media cards on the left. Your literature-review notes i
 
 Many Obsidian users create a "Home" canvas that sits at the top of their vault. It contains: a daily note card (embedding today's date-titled note), a projects group (cards linking to each active project's main note), a reading list card, and a goals card. Open Obsidian, open this canvas, and you have your entire context in one screen.
 
-To dive deeper into PKM workflows like these, [this Obsidian Skillshare course](URL_PLACEHOLDER_2) covers the full system from daily notes to Canvas [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) in structured video lessons.
+To dive deeper into PKM workflows like these, this Obsidian Skillshare course covers the full system from daily notes to Canvas [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) in structured video lessons.
 
 ---
 
@@ -199,7 +199,7 @@ Obsidian Canvas is one of the most practical additions to Obsidian in years prec
 
 Start small: build a single project dashboard or a homepage canvas this week. Once you've seen a task note update live inside a canvas card, or watched Dataview results render inline on a whiteboard, the use cases multiply on their own.
 
-For structured guidance on building a complete PKM system around Canvas and Obsidian, [this Udemy course on Obsidian for Personal Knowledge Management](URL_PLACEHOLDER_3) is one of the most comprehensive paid resources available — it covers daily notes, Canvas dashboards, and plugin integrations in a single learning path. And if you want the conceptual foundations of visual thinking that make Canvas genuinely useful, [The Back of the Napkin](URL_PLACEHOLDER_1) by Dan Roam remains the clearest book on the subject.
+For structured guidance on building a complete PKM system around Canvas and Obsidian, this Udemy course on Obsidian for Personal Knowledge Management is one of the most comprehensive paid resources available — it covers daily notes, Canvas dashboards, and plugin integrations in a single learning path. And if you want the conceptual foundations of visual thinking that make Canvas genuinely useful, The Back of the Napkin by Dan Roam remains the clearest book on the subject.
 
 Your vault already has the raw material. Canvas gives you the workspace to see what it all means.
 

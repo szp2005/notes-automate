@@ -100,7 +100,7 @@ The plugin browser doesn't filter by mobile compatibility. You have to do that r
 
 **For advanced users: BRAT**
 
-[BRAT (Beta Reviewers Auto-update Tool)](URL_PLACEHOLDER_1) is a plugin that lets you install plugins directly from a GitHub repository URL — including beta versions not yet in the official directory. On mobile, you install BRAT itself through the normal browser, then use it to add unlisted plugins by pasting a GitHub link.
+BRAT (Beta Reviewers Auto-update Tool) is a plugin that lets you install plugins directly from a GitHub repository URL — including beta versions not yet in the official directory. On mobile, you install BRAT itself through the normal browser, then use it to add unlisted plugins by pasting a GitHub link.
 
 This is useful for testing a plugin that claims to have a mobile fix in beta but hasn't pushed an official release. It adds risk, since beta code is less vetted. Don't use BRAT to install plugins from developers you haven't researched.
 
@@ -126,7 +126,7 @@ This almost always means the enable step was skipped. Go back to **Settings > Co
 
 Plugin settings are stored in `.obsidian/plugins/[plugin-name]/data.json`. If your sync solution isn't copying that file between devices, your settings won't transfer.
 
-[Obsidian Sync](URL_PLACEHOLDER_2) is the most reliable option here. It explicitly syncs vault configuration files, including plugin data, and handles conflicts gracefully. If you're relying on iCloud or Dropbox, those services sometimes lock files, skip hidden folders starting with `.`, or create sync conflicts that corrupt the data.json file silently. The symptom is usually a plugin that appears enabled on mobile but behaves as if freshly installed with no configuration.
+Obsidian Sync is the most reliable option here. It explicitly syncs vault configuration files, including plugin data, and handles conflicts gracefully. If you're relying on iCloud or Dropbox, those services sometimes lock files, skip hidden folders starting with `.`, or create sync conflicts that corrupt the data.json file silently. The symptom is usually a plugin that appears enabled on mobile but behaves as if freshly installed with no configuration.
 
 If you're not ready to pay for Obsidian Sync, manually copy your `data.json` files via Files (iOS) or a file manager (Android) after making configuration changes on desktop.
 
@@ -145,11 +145,11 @@ Some plugins inject custom HTML that assumes a wide viewport. If buttons are cut
 
 | Plugin | What It Solves | Mobile Compatibility |
 |---|---|---|
-| [Commander](URL_PLACEHOLDER_3) | Adds custom buttons to the mobile toolbar | Excellent — built with mobile in mind |
-| [QuickAdd](URL_PLACEHOLDER_4) | Fast capture: append text, create notes from templates | Excellent — minimal UI, works great on small screens |
-| [Advanced Mobile Toolbar](URL_PLACEHOLDER_5) | Expands the editing toolbar with more formatting options | Good — designed specifically for mobile |
-| [Dataview](URL_PLACEHOLDER_6) | Query-based note views | Good — renders on mobile, editing queries is awkward |
-| [Templater](URL_PLACEHOLDER_7) | Runs template logic on note creation | Good — configure on desktop, use on mobile |
+| Commander | Adds custom buttons to the mobile toolbar | Excellent — built with mobile in mind |
+| QuickAdd | Fast capture: append text, create notes from templates | Excellent — minimal UI, works great on small screens |
+| Advanced Mobile Toolbar | Expands the editing toolbar with more formatting options | Good — designed specifically for mobile |
+| Dataview | Query-based note views | Good — renders on mobile, editing queries is awkward |
+| Templater | Runs template logic on note creation | Good — configure on desktop, use on mobile |
 
 **Commander** is the first plugin most mobile Obsidian users should install. The default mobile toolbar is limited. Commander lets you add, remove, and reorder buttons for any command in Obsidian — so your most-used actions are one tap away instead of buried in a menu.
 
@@ -169,7 +169,7 @@ Installing community plugins on Obsidian mobile is a five-minute process once yo
 
 Start simple: disable Restricted Mode, install Commander and QuickAdd, and see how they change your daily capture routine. Add more plugins only when you have a specific problem they solve.
 
-If syncing settings across devices is causing you headaches, [Obsidian Sync](URL_PLACEHOLDER_2) removes that entire category of problems and is the official, tested solution — worth considering if you rely on Obsidian seriously across multiple devices.
+If syncing settings across devices is causing you headaches, Obsidian Sync removes that entire category of problems and is the official, tested solution — worth considering if you rely on Obsidian seriously across multiple devices.
 
 Got a plugin question not covered here? Drop it in the comments or reach out — this guide is updated as the Obsidian mobile app evolves.
 

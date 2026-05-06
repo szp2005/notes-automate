@@ -80,12 +80,12 @@ Let's build confidence before moving to complex stuff. Here are two snippets tha
 
 ### Change the Editor Body Font
 
-[```css
+```css
 /* my-fonts.css */
 .cm-editor, .markdown-preview-view {
-    font-family: 'Georgia', serif;
-    font-size: 17px;
-    line-height: 1.8;
+ font-family: 'Georgia', serif;
+ font-size: 17px;
+ line-height: 1.8;
 }
 ```
 
@@ -97,9 +97,9 @@ Let's build confidence before moving to complex stuff. Here are two snippets tha
 /* header-colors.css */
 .markdown-preview-view h1,
 .cm-header-1 {
-    color: #2e86ab;
-    border-bottom: 2px solid #2e86ab;
-    padding-bottom: 4px;
+ color: #2e86ab;
+ border-bottom: 2px solid #2e86ab;
+ padding-bottom: 4px;
 }
 ```
 
@@ -127,7 +127,7 @@ Those hyphenated words after `class=` are the CSS selectors you target. To style
 
 ```css
 .nav-file-title {
-    color: red;
+ color: red;
 }
 ```
 
@@ -135,11 +135,11 @@ Those hyphenated words after `class=` are the CSS selectors you target. To style
 
 ```css
 .selector-you-found {
-    property: value;
+ property: value;
 }
 ```
 
-If you want to learn CSS properties beyond what you see in examples here, [a beginner CSS course on Udemy](URL_PLACEHOLDER_1) will get you from zero to writing confident rules in a weekend. Alternatively, the [CSS Pocket Reference book](URL_PLACEHOLDER_2) is a reliable desk companion for quick property lookups.
+If you want to learn CSS properties beyond what you see in examples here, [a beginner CSS course on Udemy will get you from zero to writing confident rules in a weekend. Alternatively, the CSS Pocket Reference book is a reliable desk companion for quick property lookups.
 
 ---
 
@@ -152,9 +152,9 @@ Each snippet below is ready to copy. Create a separate `.css` file for each one 
 ```css
 /* ui-font.css */
 body {
-    --font-interface: 'Inter', sans-serif;
-    --font-text: 'Merriweather', serif;
-    --font-monospace: 'Fira Code', monospace;
+ --font-interface: 'Inter', sans-serif;
+ --font-text: 'Merriweather', serif;
+ --font-monospace: 'Fira Code', monospace;
 }
 ```
 
@@ -186,12 +186,12 @@ Removes the left ribbon and bottom status bar for a clean, distraction-free writ
 ```css
 /* checkboxes.css */
 input[type="checkbox"]:checked + .task-list-item-checkbox {
-    background-color: #2a9d8f;
-    border-color: #2a9d8f;
+ background-color: #2a9d8f;
+ border-color: #2a9d8f;
 }
 .task-list-item.is-checked {
-    color: #888;
-    text-decoration: line-through;
+ color: #888;
+ text-decoration: line-through;
 }
 ```
 
@@ -203,8 +203,8 @@ Turns completed task checkboxes teal and grays out the completed task text. Subt
 /* wide-notes.css */
 .markdown-preview-view,
 .cm-editor .cm-content {
-    max-width: 850px;
-    margin: 0 auto;
+ max-width: 850px;
+ margin: 0 auto;
 }
 ```
 
@@ -215,13 +215,13 @@ The default line width in many themes is around 700px. Bumping it to 850px gives
 ```css
 /* external-links.css */
 a.external-link {
-    color: #e76f51;
-    text-decoration: none;
-    border-bottom: 1px dashed #e76f51;
+ color: #e76f51;
+ text-decoration: none;
+ border-bottom: 1px dashed #e76f51;
 }
 a.external-link::after {
-    content: " ↗";
-    font-size: 0.8em;
+ content: " ↗";
+ font-size: 0.8em;
 }
 ```
 
@@ -232,12 +232,12 @@ External links turn orange with a dashed underline and get a small ↗ arrow app
 ```css
 /* callouts.css */
 .callout[data-callout="note"] {
-    --callout-color: 46, 134, 171;
-    --callout-icon: lucide-pencil;
+ --callout-color: 46, 134, 171;
+ --callout-icon: lucide-pencil;
 }
 .callout[data-callout="warning"] {
-    background-color: rgba(231, 111, 81, 0.15);
-    border-left: 4px solid #e76f51;
+ background-color: rgba(231, 111, 81, 0.15);
+ border-left: 4px solid #e76f51;
 }
 ```
 
@@ -260,8 +260,8 @@ Makes the graph view match your color scheme instead of looking like a generic n
 ```css
 /* justified-text.css */
 .markdown-preview-view p {
-    text-align: justify;
-    hyphens: auto;
+ text-align: justify;
+ hyphens: auto;
 }
 ```
 
@@ -272,19 +272,19 @@ Justified text with automatic hyphenation. Looks more like a printed book. Perso
 ```css
 /* kanban.css */
 .kanban-plugin__lane-title {
-    font-size: 1.1em;
-    font-weight: 700;
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
-    color: #457b9d;
+ font-size: 1.1em;
+ font-weight: 700;
+ letter-spacing: 0.05em;
+ text-transform: uppercase;
+ color: #457b9d;
 }
 .kanban-plugin__lane {
-    background-color: rgba(69, 123, 157, 0.05);
-    border-radius: 8px;
+ background-color: rgba(69, 123, 157, 0.05);
+ border-radius: 8px;
 }
 ```
 
-Gives Kanban boards cleaner column headers and a subtle background tint per column. Requires the [Kanban plugin](URL_PLACEHOLDER_3) installed.
+Gives Kanban boards cleaner column headers and a subtle background tint per column. Requires the Kanban plugin installed.
 
 ---
 
@@ -318,7 +318,7 @@ Snippets are surgical. Themes are architectural. Here's when each makes sense:
 
 The best approach is often **both**: pick a well-maintained community theme like Minimal, AnuPpuccin, or Things as your foundation, then add snippets for the handful of things those themes don't handle exactly how you want.
 
-Browse community themes at **Settings → Appearance → Themes → Manage**. If you want a premium, professionally designed Obsidian theme that comes with advanced customization options built in, [several are available through Gumroad](URL_PLACEHOLDER_4) from independent designers who specialize in PKM aesthetics.
+Browse community themes at **Settings → Appearance → Themes → Manage**. If you want a premium, professionally designed Obsidian theme that comes with advanced customization options built in, several are available through Gumroad from independent designers who specialize in PKM aesthetics.
 
 **Comparison: Snippets vs. Community Themes**
 
@@ -341,7 +341,7 @@ The `.obsidian/snippets` folder is yours. Fill it.
 
 ---
 
-**Ready to go deeper?** If you want to move from copy-pasting to writing your own rules from scratch, [this beginner CSS course on Udemy](URL_PLACEHOLDER_1) is the fastest structured path — most students are writing confident CSS within a few hours. And if you decide you'd rather start with a premium professionally designed Obsidian theme as your base, [check out these Gumroad options](URL_PLACEHOLDER_4) built specifically for PKM workflows. Either way, your vault, your rules.
+**Ready to go deeper?** If you want to move from copy-pasting to writing your own rules from scratch, this beginner CSS course on Udemy is the fastest structured path — most students are writing confident CSS within a few hours. And if you decide you'd rather start with a premium professionally designed Obsidian theme as your base, check out these Gumroad options built specifically for PKM workflows. Either way, your vault, your rules.
 
 ---
 

@@ -43,7 +43,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Spaced repetition is not a [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) hack. It is a well-documented cognitive technique rooted in Hermann Ebbinghaus's forgetting curve research from the 1880s, refined over a century, and validated repeatedly in modern cognitive science. The core mechanic: review material at increasing intervals just before you're likely to forget it. Combine that with active recall — forcing yourself to retrieve information rather than re-read it — and you have the most efficient long-term memory system available to a human learner.
 
-If you want a rigorous grounding in the science before you touch a single plugin, [Make It Stick: The Science of Successful Learning](URL_PLACEHOLDER_1) by Brown, Roediger, and McDaniel is the most accessible, research-backed book on the subject.
+If you want a rigorous grounding in the science before you touch a single plugin, Make It Stick: The Science of Successful Learning by Brown, Roediger, and McDaniel is the most accessible, research-backed book on the subject.
 
 Now layer that onto Obsidian. Obsidian is a local-first, Markdown-based note editor built on the principle that your notes should form a connected knowledge graph, not siloed documents. It's the ideal home for a Zettelkasten or any other personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system precisely because notes link to each other, and ideas compound over time.
 
@@ -55,11 +55,11 @@ The obvious next step: use that accumulated knowledge for deliberate practice, n
 
 ### Core Concept
 
-The [Obsidian to Anki plugin](URL_PLACEHOLDER_2) acts as a bridge. You write notes in Obsidian using special syntax, run a sync, and those notes become cards inside your Anki deck. Anki does all the actual scheduling, reviewing, and algorithm work. Obsidian is the authoring environment; Anki is the review environment.
+The Obsidian to Anki plugin acts as a bridge. You write notes in Obsidian using special syntax, run a sync, and those notes become cards inside your Anki deck. Anki does all the actual scheduling, reviewing, and algorithm work. Obsidian is the authoring environment; Anki is the review environment.
 
 ### How It Actually Works
 
-The plugin requires AnkiConnect(URL_PLACEHOLDER_3), a free Anki add-on that opens a local API so the Obsidian plugin can push cards into your Anki collection. The flow is:
+The plugin requires AnkiConnect, a free Anki add-on that opens a local API so the Obsidian plugin can push cards into your Anki collection. The flow is:
 
 1. Write a note with designated card syntax (e.g., `TARGET DECK` comment, `START/END` block markers, or inline cloze deletions).
 2. Open Anki so AnkiConnect is running.
@@ -94,7 +94,7 @@ This plugin is purpose-built for people who are **already Anki users** or who wa
 
 ### Core Concept
 
-The [Spaced Repetition (SR) plugin](URL_PLACEHOLDER_4) for Obsidian is a fully self-contained system. Cards are created, stored, and reviewed without ever leaving Obsidian. There is no external dependency. Your flashcard data is embedded directly in your Markdown files as YAML front matter.
+The Spaced Repetition (SR) plugin for Obsidian is a fully self-contained system. Cards are created, stored, and reviewed without ever leaving Obsidian. There is no external dependency. Your flashcard data is embedded directly in your Markdown files as YAML front matter.
 
 ### How It Actually Works
 
@@ -117,7 +117,7 @@ This plugin is ideal for users who want a **frictionless, single-app workflow**.
 - FSRS algorithm provides high-quality scheduling without any configuration.
 - Reviews happen inside Obsidian, so you can click links, view backlinks, or edit the note while reviewing.
 - Vault-level due-date tracking means you can see what's due across all notes in one place.
-- Works on Obsidian mobile with [Obsidian Sync](URL_PLACEHOLDER_5) or any sync solution you already use.
+- Works on Obsidian mobile with Obsidian Sync or any sync solution you already use.
 
 ### Cons
 
@@ -158,18 +158,18 @@ Work through these questions in order. Stop as soon as you hit a clear answer.
 Are you already an active Anki user with existing decks?
 ├── YES → Use the Obsidian to Anki plugin. Protect your card history.
 └── NO
-    │
-    Do you need advanced card types (image occlusion, audio, LaTeX-heavy cards)?
-    ├── YES → Use Obsidian to Anki. Only Anki's ecosystem covers this.
-    └── NO
-        │
-        Do you want to review on mobile frequently?
-        ├── YES, and I want a native app experience → Obsidian to Anki.
-        ├── YES, and I already use Obsidian mobile with a sync solution → SR Plugin.
-        └── NO
-            │
-            Do you want to set this up in under 10 minutes and stay in one app?
-            └── YES → Spaced Repetition Plugin. Done.
+ │
+ Do you need advanced card types (image occlusion, audio, LaTeX-heavy cards)?
+ ├── YES → Use Obsidian to Anki. Only Anki's ecosystem covers this.
+ └── NO
+ │
+ Do you want to review on mobile frequently?
+ ├── YES, and I want a native app experience → Obsidian to Anki.
+ ├── YES, and I already use Obsidian mobile with a sync solution → SR Plugin.
+ └── NO
+ │
+ Do you want to set this up in under 10 minutes and stay in one app?
+ └── YES → Spaced Repetition Plugin. Done.
 ```
 
 **The rule of thumb**: If you have never used Anki, start with the SR plugin. If you have used Anki for more than six months and built up card history you care about, use the Obsidian to Anki plugin and don't look back.
@@ -224,15 +224,15 @@ If David's learning remains at a conceptual level, the SR plugin is all he needs
 
 ### Setting Up the Obsidian to Anki Plugin
 
-1. Install [Anki](URL_PLACEHOLDER_6) on your desktop (free).
-2. Inside Anki, go to **Tools → Add-ons → Get Add-ons** and install [AnkiConnect](URL_PLACEHOLDER_7) (code: 2055492159). Restart Anki.
+1. Install Anki on your desktop (free).
+2. Inside Anki, go to **Tools → Add-ons → Get Add-ons** and install AnkiConnect (code: 2055492159). Restart Anki.
 3. In Obsidian, open **Settings → Community Plugins → Browse**, search for "Obsidian_to_Anki" and install it.
 4. Enable the plugin and open its settings. Configure your deck name, note type defaults, and field mapping.
 5. Add your first card using the `START/END` syntax in any note.
 6. With Anki open, run the **Anki Sync** command from Obsidian's command palette (Ctrl/Cmd + P).
 7. Verify the card appears in Anki.
 
-Full documentation lives on the [plugin's GitHub repository](URL_PLACEHOLDER_8).
+Full documentation lives on the plugin's GitHub repository.
 
 ### Setting Up the Spaced Repetition Plugin
 
@@ -243,9 +243,9 @@ Full documentation lives on the [plugin's GitHub repository](URL_PLACEHOLDER_8).
 5. Open the command palette and run **Review Flashcards**. Your card appears immediately.
 6. Rate it and close. Done.
 
-Full documentation is available on the [SR plugin's GitHub page](URL_PLACEHOLDER_9).
+Full documentation is available on the SR plugin's GitHub page.
 
-> **Master Your Learning Workflow**: If you want to go deeper on both tools and the broader science of effective learning, [this Obsidian-focused Udemy course](URL_PLACEHOLDER_10) covers vault structure, plugin setup, and spaced repetition workflows in practical detail. Alternatively, [Skillshare's learning science courses](URL_PLACEHOLDER_11) pair well with whichever plugin you choose.
+> **Master Your Learning Workflow**: If you want to go deeper on both tools and the broader science of effective learning, this Obsidian-focused Udemy course covers vault structure, plugin setup, and spaced repetition workflows in practical detail. Alternatively, Skillshare's learning science courses pair well with whichever plugin you choose.
 
 ---
 
@@ -259,7 +259,7 @@ The **Obsidian to Anki plugin** hands your cards to the most battle-tested flash
 
 If you are a complete newcomer to both tools: **start with the SR plugin**. Get your first 100 cards created and build the habit. If you hit its limits — you need image occlusion, you want detailed stats, or you want to review without opening your laptop — migrate to the Anki integration at that point. The two approaches are not mutually exclusive forever; they are entry points for different stages of the same learning journey.
 
-**Ready to build a proper learning workflow in Obsidian?** [This curated course bundle](URL_PLACEHOLDER_12) walks you through vault architecture, plugin configuration, and spaced repetition habits in a structured format — so you spend time learning, not configuring.
+**Ready to build a proper learning workflow in Obsidian?** This curated course bundle walks you through vault architecture, plugin configuration, and spaced repetition habits in a structured format — so you spend time learning, not configuring.
 
 ---
 
@@ -271,7 +271,7 @@ Technically yes, but it creates confusion fast. If you use the Anki plugin for s
 
 ### Does the Spaced Repetition plugin work on Obsidian mobile?
 
-Yes. If your vault syncs to your phone (via [Obsidian Sync](URL_PLACEHOLDER_13), iCloud, Syncthing, or any other solution), the SR plugin runs on Obsidian mobile and the review interface works. It's not a native mobile app experience, but it is functional for daily reviews.
+Yes. If your vault syncs to your phone (via Obsidian Sync, iCloud, Syncthing, or any other solution), the SR plugin runs on Obsidian mobile and the review interface works. It's not a native mobile app experience, but it is functional for daily reviews.
 
 ### What happens to my Anki cards if I change the note in Obsidian?
 

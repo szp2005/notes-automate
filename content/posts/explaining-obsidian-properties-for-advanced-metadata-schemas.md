@@ -1,4 +1,5 @@
 ---
+image: "/og/explaining-obsidian-properties-for-advanced-metadata-schemas.webp"
 title: "Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge"
 description: "Practical guide to explaining obsidian properties for advanced metadata schemas: setup steps, tool choices, risks, and checks for building reliable."
 pubDate: "2026-05-06"

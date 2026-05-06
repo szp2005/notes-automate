@@ -1,4 +1,5 @@
 ---
+image: "/og/keyboard-maestro-macros-for-advanced-obsidian-navigation.webp"
 title: "Mastering Obsidian: Keyboard Maestro Macros for Advanced Navigation"
 description: "Unlock advanced Obsidian navigation with powerful Keyboard Maestro macros. Streamline your note-taking, link management, and daily workflow for peak productivity."
 pubDate: "2026-05-06"
@@ -325,3 +326,10 @@ On macOS, other automation tools exist, such as Alfred (with Powerpack workflows
 ### How do I share my Keyboard Maestro Obsidian macros?
 
 Keyboard Maestro allows you to export individual macros or entire macro groups as `.kmmacros` files. You can then share these files with other users, who can import them directly into their Keyboard Maestro editor. When sharing, it's good practice to include a brief description of what the macro does, its trigger, and any specific Obsidian settings or plugins it relies upon.
+
+---
+
+## Related Reading
+
+- [Automate Obsidian Daily Notes with Python: A Complete Guide](/posts/automate-obsidian-daily-notes-using-python/)
+- [Building a Second Brain Using Obsidian and Readwise: Complete Guide](/posts/building-a-second-brain-using-obsidian-and-readwise/)

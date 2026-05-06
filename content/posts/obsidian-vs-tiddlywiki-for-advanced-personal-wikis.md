@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-vs-tiddlywiki-for-advanced-personal-wikis.webp"
 title: "Obsidian vs TiddlyWiki: Which Is Better for Advanced Personal Wikis?"
 description: "Practical guide to obsidian vs tiddlywiki for advanced personal wikis: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-06"

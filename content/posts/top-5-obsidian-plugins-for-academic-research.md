@@ -52,7 +52,7 @@ This isn't a discipline problem. It's a tooling problem. The standard academic s
 
 But Obsidian's core app is deliberately minimal. The real power lives in its plugin ecosystem, which is where most guides stop: they hand you a list and walk away. This article takes a different approach. Each plugin below solves a specific, named problem in academic research, and the final section shows how all five connect into a workflow you can start using the same day.
 
-One practical note before diving in: if you work across a laptop, office desktop, and tablet, [Obsidian Sync](URL_PLACEHOLDER_1) is worth the subscription. It keeps your entire vault — notes, attachments, plugin settings — identical across devices with end-to-end encryption. For research data, that security detail matters.
+One practical note before diving in: if you work across a laptop, office desktop, and tablet, Obsidian Sync is worth the subscription. It keeps your entire vault — notes, attachments, plugin settings — identical across devices with end-to-end encryption. For research data, that security detail matters.
 
 ---
 
@@ -60,11 +60,11 @@ One practical note before diving in: if you work across a laptop, office desktop
 
 **The problem it solves:** You've spent two hours reading and annotating a PDF in Zotero. Now you want to write about it in Obsidian. Without a bridge, you're manually copying the author, title, year, journal, DOI, and your highlights into a new note. That's tedious, error-prone, and a reason people give up on structured note-taking.
 
-**What the plugin does:** [Zotero Integration](URL_PLACEHOLDER_2) (developed by mgmeyers, available in the Obsidian Community Plugins directory) creates a direct pipeline between your Zotero library and your Obsidian vault. When you trigger it, it pulls the metadata and your annotations from a Zotero item and populates a new Obsidian note automatically.
+**What the plugin does:** Zotero Integration (developed by mgmeyers, available in the Obsidian Community Plugins directory) creates a direct pipeline between your Zotero library and your Obsidian vault. When you trigger it, it pulls the metadata and your annotations from a Zotero item and populates a new Obsidian note automatically.
 
 **Setup in three steps:**
 
-1. Install the [Better BibTeX for Zotero](URL_PLACEHOLDER_3) extension in your browser and Zotero desktop app. This assigns a stable citation key to every reference (e.g., `smith2019`) and is required for the integration to work reliably.
+1. Install the Better BibTeX for Zotero extension in your browser and Zotero desktop app. This assigns a stable citation key to every reference (e.g., `smith2019`) and is required for the integration to work reliably.
 2. In Obsidian, go to Settings → Community Plugins, search for "Zotero Integration," and install it. In the plugin settings, point it to your Zotero database file (typically located at `~/Zotero/zotero.sqlite`).
 3. Create an import template (more on this in the Templater section below) and link it in the plugin settings under "Import Formats."
 
@@ -72,7 +72,7 @@ Once set up, you press a hotkey, type an author name or title, select the paper 
 
 **Why this matters for literature review:** Your literature note becomes the canonical home for everything you know about a paper. Instead of flipping back to the PDF every time you need a detail, you read the note, follow the DOI link if you need the full text, and move on. Over a 200-source literature review, this time savings is substantial.
 
-**Zotero storage note:** The integration works best when your PDFs are stored and synced through Zotero itself. Zotero's free plan gives you 300 MB of cloud storage — fine for a modest library, but most active researchers exceed this quickly. [Upgrading your Zotero storage](URL_PLACEHOLDER_4) to the 2 GB or unlimited plan keeps your PDF library accessible across machines without breaking the plugin's file path references.
+**Zotero storage note:** The integration works best when your PDFs are stored and synced through Zotero itself. Zotero's free plan gives you 300 MB of cloud storage — fine for a modest library, but most active researchers exceed this quickly. Upgrading your Zotero storage to the 2 GB or unlimited plan keeps your PDF library accessible across machines without breaking the plugin's file path references.
 
 ---
 
@@ -80,7 +80,7 @@ Once set up, you press a hotkey, type an author name or title, select the paper 
 
 **The problem it solves:** After three months of active note-taking, you have 80 literature notes. You want to answer questions like: "Which papers have I read but not yet summarized?" or "Show me all sources tagged `#methodology` sorted by year." Without Dataview, you're doing this manually, or not at all.
 
-**What the plugin does:** [Dataview](URL_PLACEHOLDER_5) treats your Obsidian vault as a database. It reads the YAML frontmatter and inline fields in your notes and lets you write queries in a SQL-like language directly inside any note. The output is a live, auto-updating table, list, or calendar.
+**What the plugin does:** Dataview treats your Obsidian vault as a database. It reads the YAML frontmatter and inline fields in your notes and lets you write queries in a SQL-like language directly inside any note. The output is a live, auto-updating table, list, or calendar.
 
 **A concrete example — the Reading Dashboard:**
 
@@ -142,7 +142,7 @@ The key insight is that Canvas doesn't replace your notes, it *reads* them. When
 
 **The problem it solves:** Consistency. If your literature notes have different structures — sometimes you include the abstract, sometimes you don't, sometimes the frontmatter uses `author` and sometimes `authors` — your Dataview queries break and your notes become harder to skim. Rebuilding structure by hand every time you start a new note is slow and inconsistency creeps in anyway.
 
-**What the plugin does:** [Templater](URL_PLACEHOLDER_6) is a community plugin that lets you create note templates with dynamic placeholders. Unlike Obsidian's built-in templates feature, Templater can run JavaScript, insert the current date automatically, prompt you for input when a note is created, and even call the Zotero Integration plugin to auto-populate fields.
+**What the plugin does:** Templater is a community plugin that lets you create note templates with dynamic placeholders. Unlike Obsidian's built-in templates feature, Templater can run JavaScript, insert the current date automatically, prompt you for input when a note is created, and even call the Zotero Integration plugin to auto-populate fields.
 
 **A practical literature note template looks like this:**
 
@@ -165,7 +165,7 @@ date-added: <% tp.date.now("YYYY-MM-DD") %>
 ## Key Arguments
 -
 
-[## Methodology Notes
+## Methodology Notes
 -
 
 ## Quotes Worth Keeping
@@ -190,7 +190,7 @@ The investment in Templater pays back quickly. Setting up three templates (liter
 
 **The problem it solves:** Obsidian's built-in search is good for finding text in your Markdown notes. But it doesn't index the content of PDF files stored in your vault. If you've attached 150 PDFs and you want to find every one that mentions "social capital formation in rural communities," the native search returns nothing.
 
-**What the plugin does:** [Omnisearch](URL_PLACEHOLDER_7) is a community plugin that builds a full-text search index across your entire vault, including the text inside PDF attachments. It uses a relevance-scored search algorithm rather than simple string matching, so results are ranked by likely relevance rather than just presence of the term.
+**What the plugin does:** [Omnisearch is a community plugin that builds a full-text search index across your entire vault, including the text inside PDF attachments. It uses a relevance-scored search algorithm rather than simple string matching, so results are ranked by likely relevance rather than just presence of the term.
 
 **What this means in practice:**
 
@@ -247,9 +247,9 @@ Researchers who set this up describe a specific inflection point: somewhere arou
 
 That's what a well-built [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system does — it thinks alongside you, not just after you.
 
-**Ready to go deeper?** If you learn better through video and want a guided setup from a blank vault to a fully functional academic research system, the [Obsidian for Academics course on Udemy](URL_PLACEHOLDER_8) covers everything in this article in step-by-step screencasts, including more advanced Dataview queries and Templater scripts specifically built for literature review and thesis writing.
+**Ready to go deeper?** If you learn better through video and want a guided setup from a blank vault to a fully functional academic research system, the Obsidian for Academics course on Udemy covers everything in this article in step-by-step screencasts, including more advanced Dataview queries and Templater scripts specifically built for literature review and thesis writing.
 
-If you're still building out your Zotero library alongside your vault, check whether your current [Zotero storage plan](URL_PLACEHOLDER_4) will handle your full PDF archive — running out of space mid-project is an avoidable headache.
+If you're still building out your Zotero library alongside your vault, check whether your current Zotero storage plan will handle your full PDF archive — running out of space mid-project is an avoidable headache.
 
 Start with one plugin. Install Templater, build a single literature note template, and create three notes this week. The system grows from there.
 
@@ -263,7 +263,7 @@ Start with one plugin. Install Templater, build a single literature note templat
 
 ### Q: Do I need to pay for Obsidian to use these plugins?
 
-Obsidian is free for personal use, and all five plugins described here work on the free tier. The only paid Obsidian product worth considering for researchers is [Obsidian Sync](URL_PLACEHOLDER_1), which provides encrypted vault synchronization across devices. It costs $10/month, but if you work on multiple machines, the alternative (setting up Dropbox sync manually) has edge cases that can corrupt your vault.
+Obsidian is free for personal use, and all five plugins described here work on the free tier. The only paid Obsidian product worth considering for researchers is Obsidian Sync, which provides encrypted vault synchronization across devices. It costs $10/month, but if you work on multiple machines, the alternative (setting up Dropbox sync manually) has edge cases that can corrupt your vault.
 
 ### Q: Is Zotero Integration the same as the Citations plugin?
 
@@ -279,7 +279,7 @@ Markdown is language-agnostic, and Obsidian renders Unicode correctly, so notes 
 
 ### Q: What's the best way to back up an Obsidian vault used for research?
 
-Your vault is a folder of plain text files plus attachments. Any backup solution that syncs folders works: Time Machine on Mac, File History on Windows, or cloud storage like Backblaze. If you use [Obsidian Sync](URL_PLACEHOLDER_1), it maintains 12 months of version history, which has saved more than a few researchers who accidentally deleted a large note. Treat your vault like you'd treat your dissertation draft: three separate backup locations minimum.
+Your vault is a folder of plain text files plus attachments. Any backup solution that syncs folders works: Time Machine on Mac, File History on Windows, or cloud storage like Backblaze. If you use Obsidian Sync, it maintains 12 months of version history, which has saved more than a few researchers who accidentally deleted a large note. Treat your vault like you'd treat your dissertation draft: three separate backup locations minimum.
 
 ## Related Reading
 

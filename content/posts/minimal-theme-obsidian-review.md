@@ -16,7 +16,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 # Obsidian Minimal Theme Review (2024): The Best Clean Interface for Your Second Brain?
 
 **TL;DR**
-- Minimal is a [free, actively maintained Obsidian theme by Kepano](URL_PLACEHOLDER_1) that strips visual noise without gutting functionality — out of the box it already beats most themes for writer focus.
+- Minimal is a free, actively maintained Obsidian theme by Kepano that strips visual noise without gutting functionality — out of the box it already beats most themes for writer focus.
 - Paired with the Style Settings and Minimal Theme Settings plugins, you get granular control over typography, color, and layout without touching a single line of CSS.
 - It loads fast, stays fast, and suits writers, academics, and PKM power users — but if you want decorative flair or anime-style aesthetics, look elsewhere.
 
@@ -39,7 +39,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Obsidian ships with a perfectly functional [default](/posts/things-theme-vs-minimal-theme-obsidian/) theme. It works. But "works" and "gets out of your way" are different things. After an hour of writing in the default interface, you start noticing the padding feels off, the sidebar competes for attention, and the note canvas never quite feels like a writing environment.
 
-Themes change that. Obsidian's community has published hundreds of them, ranging from brutalist dark-mode setups to pastel "cottagecore" designs. Among all of them, [Minimal](URL_PLACEHOLDER_2) — created by Stephan Ango, better known as **kepano**, who is also the current CEO of Obsidian — has become the closest thing to a community consensus on what a clean, serious interface looks like.
+Themes change that. Obsidian's community has published hundreds of them, ranging from brutalist dark-mode setups to pastel "cottagecore" designs. Among all of them, Minimal — created by Stephan Ango, better known as **kepano**, who is also the current CEO of Obsidian — has become the closest thing to a community consensus on what a clean, serious interface looks like.
 
 The core philosophy is exactly what the name suggests: remove everything that isn't load-bearing. Borders, drop shadows, heavy UI chrome — gone. What stays is a tight typographic hierarchy, comfortable reading line lengths, and a neutral color palette that adapts to both light and dark modes without looking like an afterthought.
 
@@ -91,7 +91,7 @@ Triggering focus mode via the command palette removes every sidebar and centers 
 
 ## Unlocking Full Potential: Customization with Style Settings {#customization}
 
-The [Style Settings community plugin](URL_PLACEHOLDER_3) is the unlock that separates Minimal from themes that just look good versus themes that *fit* you specifically. Install it from Community Plugins (search "Style Settings"), and it adds a dedicated options panel under Settings → Style Settings.
+The Style Settings community plugin is the unlock that separates Minimal from themes that just look good versus themes that *fit* you specifically. Install it from Community Plugins (search "Style Settings"), and it adds a dedicated options panel under Settings → Style Settings.
 
 Here are five customizations worth making on day one:
 
@@ -101,9 +101,9 @@ Here are five customizations worth making on day one:
 4. **Accent color**: One hex value changes the color of links, highlights, checkboxes, and active sidebar items simultaneously. Takes 20 seconds and makes the vault feel custom-built.
 5. **Active line highlight**: A subtle background tint on the line you're currently editing. Small thing, but it eliminates the need to hunt for your cursor in a dense note.
 
-If you want to go further without writing CSS yourself, the [Obsidian Hub forum](URL_PLACEHOLDER_4) has dozens of community snippet collections specifically built for Minimal.
+If you want to go further without writing CSS yourself, the Obsidian Hub forum has dozens of community snippet collections specifically built for Minimal.
 
-To genuinely master your setup, [Skillshare hosts comprehensive Obsidian courses](URL_PLACEHOLDER_5) that cover advanced workflows, YAML frontmatter, and Dataview integration — all of which pair naturally with a clean Minimal configuration.
+To genuinely master your setup, Skillshare hosts comprehensive Obsidian courses that cover advanced workflows, YAML frontmatter, and Dataview integration — all of which pair naturally with a clean Minimal configuration.
 
 ---
 
@@ -166,7 +166,7 @@ Minimal's overhead compared to the default is effectively zero — a rounding er
 
 If you're running Obsidian on an older machine or a budget Android tablet, Minimal is almost certainly the best-performing non-default theme available.
 
-> **Complete your minimalist workspace**: If you're building a focused writing environment, the right keyboard makes a real difference. [The Keychron K3 Pro](URL_PLACEHOLDER_6) and [NuPhy Air75](URL_PLACEHOLDER_7) are both low-profile, minimal-aesthetic boards that pair well with a clean Obsidian setup. And for the philosophical foundation behind digital minimalism, [*Digital Minimalism* by Cal Newport](URL_PLACEHOLDER_8) is the book that contextualizes why any of this matters.
+> **Complete your minimalist workspace**: If you're building a focused writing environment, the right keyboard makes a real difference. The Keychron K3 Pro and NuPhy Air75 are both low-profile, minimal-aesthetic boards that pair well with a clean Obsidian setup. And for the philosophical foundation behind digital minimalism, *Digital Minimalism* by Cal Newport is the book that contextualizes why any of this matters.
 
 ---
 
@@ -191,7 +191,7 @@ The half-point deduction is honest: Minimal asks more of you than a theme like A
 
 For writers, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and PKM builders who spend real time inside their vaults, this is the theme to start with and the hardest one to leave.
 
-[Download Minimal directly inside Obsidian](URL_PLACEHOLDER_9) via Settings → Community Themes → search "Minimal." Then install the Minimal Theme Settings plugin and Style Settings plugin from Community Plugins. Your vault will look and feel different by the end of the hour — in exactly the right direction.
+Download Minimal directly inside Obsidian via Settings → Community Themes → search "Minimal." Then install the Minimal Theme Settings plugin and Style Settings plugin from Community Plugins. Your vault will look and feel different by the end of the hour — in exactly the right direction.
 
 ---
 

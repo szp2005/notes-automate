@@ -1,6 +1,6 @@
 ---
 image: "/og/automate-obsidian-with-n8n-and-webhooks.webp"
-title: "How to Automate Obsidian with n8n and Webhooks: 5-Step Guide"
+title: "Obsidian with n8n and Webhooks Automation: 5-Step Guide"
 description: "Learn how to automate Obsidian with n8n and webhooks to capture notes, sync tasks, and streamline your personal knowledge management without manual entry."
 pubDate: "2026-05-05"
 author: "Alex Chen"
@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# How to Automate Obsidian with n8n and Webhooks: 5-Step Guide
+# Obsidian with n8n and Webhooks Automation: 5-Step Guide
 
 > **Quick Answer:** You can automate Obsidian with n8n and webhooks by setting up an n8n workflow to receive HTTP POST requests from external apps, formatting the incoming data into Markdown, and pushing it directly to your local Obsidian vault using the Obsidian Local REST API plugin. This allows you to automatically save emails, tasks, and web clippings into your notes.
 

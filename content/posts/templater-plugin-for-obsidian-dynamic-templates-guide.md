@@ -253,5 +253,7 @@ No. You can access 90% of the plugin's value using built-in commands like `<% tp
 
 - [Automating Obsidian Frontmatter with Templater Scripts: 5-Step Guide](/posts/automating-obsidian-frontmatter-with-templater-scripts/)
 
+- [Automating Obsidian Frontmatter with Templater Scripts: 5-Step Guide](/posts/automating-obsidian-frontmatter-with-templater-scripts/)
+
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

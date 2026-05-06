@@ -1,6 +1,6 @@
 ---
 image: "/og/setting-up-obsidian-for-deep-work-session-tracking.webp"
-title: "How to Set Up Obsidian for Deep Work Session Tracking: 5-Step Guide"
+title: "Set Up Obsidian for Deep Work Session Tracking: 5-Step Guide"
 description: "Learn setting up Obsidian for deep work session tracking. This complete guide shows you how to measure focus, eliminate distractions, and achieve more daily."
 pubDate: "2026-05-03"
 author: "Alex Chen"
@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# How to Set Up Obsidian for Deep Work Session Tracking: 5-Step Guide
+# Set Up Obsidian for Deep Work Session Tracking: 5-Step Guide
 
 > **Quick Answer:** Setting up Obsidian for deep work session tracking requires enabling the core Daily Notes plugin, installing the Dataview and Pomodoro community plugins, and standardizing your frontmatter metadata to log session duration and task completion. This combination allows you to time your focus blocks natively and automatically generate weekly reports on your deep work habits.
 

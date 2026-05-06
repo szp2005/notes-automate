@@ -38,7 +38,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Excalidraw started as a standalone, open-source whiteboard app — the kind of thing you'd pull up in a browser to sketch a system diagram on a call. The hand-drawn aesthetic is intentional: it keeps diagrams loose and collaborative rather than stiff and polished. That's useful because it signals "thinking in progress" rather than "finished document."
 
-[Zsolt Viczi](URL_PLACEHOLDER_1) ported the entire thing into an Obsidian plugin and then kept going. Today the plugin is one of the most sophisticated in the entire community ecosystem. It is not a simple wrapper; it is a deeply integrated visual environment that reads and writes `.md` files, respects Obsidian's graph, and surfaces inside your backlinks pane like any other note.
+Zsolt Viczi ported the entire thing into an Obsidian plugin and then kept going. Today the plugin is one of the most sophisticated in the entire community ecosystem. It is not a simple wrapper; it is a deeply integrated visual environment that reads and writes `.md` files, respects Obsidian's graph, and surfaces inside your backlinks pane like any other note.
 
 The core value proposition is direct: you stop context-switching between your note app and a drawing app. A concept map sits in the same vault folder as the literature note it references. You can transclude a drawing inside a regular markdown note. You can click an element in a drawing and open the linked note. That tight integration is what separates this from just opening Miro in another tab.
 
@@ -86,13 +86,13 @@ Beyond simple links, the plugin supports **transclusion**: you can embed the ful
 
 You can also embed one Excalidraw drawing inside another, which enables modular diagram structures — a high-level architecture drawing that embeds detailed component drawings in expandable frames.
 
-> **💡 Tablet Tip:** If you use Excalidraw for freehand sketching, a drawing tablet transforms the experience. The freehand pen tool is significantly more precise with stylus input. Both the [Wacom Intuus Small](URL_PLACEHOLDER_2) and [Huion Inspiroy H640P](URL_PLACEHOLDER_3) are solid entry-level options available on Amazon that pair well with this [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/).
+> **💡 Tablet Tip:** If you use Excalidraw for freehand sketching, a drawing tablet transforms the experience. The freehand pen tool is significantly more precise with stylus input. Both the Wacom Intuus Small and Huion Inspiroy H640P are solid entry-level options available on Amazon that pair well with this [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/).
 
 ### Scripts and the Element Library
 
 The plugin ships with an **Excalidraw Script Engine** that lets community members (and you) write JavaScript scripts that manipulate drawings programmatically. Scripts are stored as `.md` files in a folder you designate, and they execute via command palette.
 
-The [Excalidraw Script Store](URL_PLACEHOLDER_4) — maintained by Zsolt — contains dozens of pre-built scripts: OCR for handwritten text, automatic connector routing, box-around-selected-elements, and more. Installing a script pack is a drag-and-drop operation.
+The Excalidraw Script Store — maintained by Zsolt — contains dozens of pre-built scripts: OCR for handwritten text, automatic connector routing, box-around-selected-elements, and more. Installing a script pack is a drag-and-drop operation.
 
 The **Element Library** is a reusable shape repository. You can build your own or install community libraries (UI component kits, network diagram icons, flowchart shapes). Libraries save enormous time when you're building similar diagram types repeatedly.
 
@@ -135,7 +135,7 @@ Canvas shipped with Obsidian 1.1 as a core feature. It is excellent at one speci
 
 Create one Excalidraw file per project (e.g., `ProjectAlpha-Dashboard.excalidraw.md`). Build a visual layout: a status tracker at the top (colored rectangles = states), swimlane columns for phases, and elements that link to individual task notes and meeting logs. Transclude a Dataview note that auto-populates open tasks as a list inside a drawing frame.
 
-The result is a single-file command center. Open the drawing → everything you need to navigate the project is one click away. You can sync this across devices using [Obsidian Sync](URL_PLACEHOLDER_5), which handles the binary-like `.excalidraw.md` format cleanly without the conflict issues you'd see with generic cloud sync tools.
+The result is a single-file command center. Open the drawing → everything you need to navigate the project is one click away. You can sync this across devices using Obsidian Sync, which handles the binary-like `.excalidraw.md` format cleanly without the conflict issues you'd see with generic cloud sync tools.
 
 ### Workflow 2: The Visual Book Summary
 
@@ -179,9 +179,9 @@ Excalidraw for Obsidian is the most capable visual tool in the Obsidian ecosyste
 
 **Ideal user:** A developer, researcher, student, or project manager who builds complex knowledge structures and needs visual thinking tools that are first-class citizens in their PKM system — not external apps bolted on afterward.
 
-If that's you, [install Excalidraw from the Community Plugins store](URL_PLACEHOLDER_6) today and start with the Project Dashboard workflow described above. You'll have a working visual system within an hour.
+If that's you, install Excalidraw from the Community Plugins store today and start with the Project Dashboard workflow described above. You'll have a working visual system within an hour.
 
-Want to go deeper on the methodology behind visual thinking and PKM? [Skillshare has strong courses on both topics](URL_PLACEHOLDER_7) that pair directly with what this plugin makes possible inside Obsidian.
+Want to go deeper on the methodology behind visual thinking and PKM? Skillshare has strong courses on both topics that pair directly with what this plugin makes possible inside Obsidian.
 
 ---
 

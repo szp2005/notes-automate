@@ -89,9 +89,9 @@ Some plugins grow complex enough that a single README file can't contain everyth
 
 **Real-world examples:**
 
-[Dataview](URL_PLACEHOLDER_1) is the most downloaded query plugin for Obsidian. Its README is brief by design — it points you to a standalone documentation site at `blacksmithgu.github.io/obsidian-dataview`. That site has a full reference for every function, type, and query syntax. If you're trying to learn Dataview from the README alone, you're missing 80% of what it can do.
+Dataview is the most downloaded query plugin for Obsidian. Its README is brief by design — it points you to a standalone documentation site at `blacksmithgu.github.io/obsidian-dataview`. That site has a full reference for every function, type, and query syntax. If you're trying to learn Dataview from the README alone, you're missing 80% of what it can do.
 
-[Templater](URL_PLACEHOLDER_2) follows the same pattern. The README links to a dedicated site that documents every internal function, with usage examples for each one.
+Templater follows the same pattern. The README links to a dedicated site that documents every internal function, with usage examples for each one.
 
 For complex plugins, bookmark the dedicated site immediately. Treat the README as the entry point, not the destination.
 
@@ -102,7 +102,7 @@ For complex plugins, bookmark the dedicated site immediately. Treat the README a
 Core plugins — like Backlinks, Canvas, Daily Notes, and Tags — ship with Obsidian itself. They are maintained by the Obsidian team, not third-party developers, so their documentation lives in one place.
 
 **The difference matters:**
-- Core plugins: documented on the [official Obsidian Help site](URL_PLACEHOLDER_3).
+- Core plugins: documented on the official Obsidian Help site.
 - Community plugins: documented on GitHub (and sometimes dedicated sites).
 
 **How to access official core plugin documentation:**
@@ -145,12 +145,12 @@ Sometimes docs are sparse, outdated, or don't address your exact situation. Here
 
 | Plugin | Documentation URL |
 |---|---|
-| Dataview | [blacksmithgu.github.io/obsidian-dataview](URL_PLACEHOLDER_4) |
-| Templater | [silentvoid13.github.io/Templater](URL_PLACEHOLDER_5) |
-| [Periodic Notes](/posts/obsidian-periodic-notes-plugin-setup-for-annual-reviews/) | [github.com/liamcain/obsidian-periodic-notes](URL_PLACEHOLDER_6) |
-| Excalidraw | [github.com/zsviczian/obsidian-excalidraw-plugin](URL_PLACEHOLDER_7) |
-| Dataview (GitHub) | [github.com/blacksmithgu/obsidian-dataview](URL_PLACEHOLDER_8) |
-| Official Obsidian Help | [help.obsidian.md](URL_PLACEHOLDER_9) |
+| Dataview | blacksmithgu.github.io/obsidian-dataview |
+| Templater | silentvoid13.github.io/Templater |
+| [Periodic Notes](/posts/obsidian-periodic-notes-plugin-setup-for-annual-reviews/) | github.com/liamcain/obsidian-periodic-notes |
+| Excalidraw | github.com/zsviczian/obsidian-excalidraw-plugin |
+| Dataview (GitHub) | github.com/blacksmithgu/obsidian-dataview |
+| Official Obsidian Help | help.obsidian.md |
 
 ---
 
@@ -173,7 +173,7 @@ Sometimes docs are sparse, outdated, or don't address your exact situation. Here
 
 Finding Obsidian plugin documentation isn't complicated once you know the hierarchy: start in the app, follow the GitHub link, check for a README, look for a Wiki tab or dedicated site, then escalate to the community if you're still stuck. The common mistake is jumping straight to the forum before reading what the developer already wrote.
 
-For users who want to move beyond hunting for plugin docs one at a time — and build a systematic, confident Obsidian workflow from the ground up — a structured course is worth the investment. [The Sweet Setup's "To Obsidian and Beyond" course](URL_PLACEHOLDER_10) walks through core and community plugins with the kind of depth that scattered forum posts never deliver. If you'd rather explore a broad library of options, [Udemy's Obsidian productivity courses](URL_PLACEHOLDER_11) regularly go on sale and cover everything from basic setup to advanced plugin stacking.
+For users who want to move beyond hunting for plugin docs one at a time — and build a systematic, confident Obsidian workflow from the ground up — a structured course is worth the investment. The Sweet Setup's "To Obsidian and Beyond" course walks through core and community plugins with the kind of depth that scattered forum posts never deliver. If you'd rather explore a broad library of options, Udemy's Obsidian productivity courses regularly go on sale and cover everything from basic setup to advanced plugin stacking.
 
 The documentation exists. Now you know exactly where to look.
 

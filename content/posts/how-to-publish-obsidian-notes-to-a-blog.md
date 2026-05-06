@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-publish-obsidian-notes-to-a-blog.webp"
-title: "How to Publish Obsidian Notes to a Blog: 5-Step Guide"
+title: "Publish Obsidian Notes to a Blog: 5-Step Guide"
 description: "Learn how to publish Obsidian notes to a blog efficiently. We cover static site generators, plugins, and workflows to turn your local vault into a live website."
 pubDate: "2026-05-02"
 author: "Alex Chen"
@@ -9,7 +9,7 @@ slug: "how-to-publish-obsidian-notes-to-a-blog"
 type: "informational"
 ---
 
-# How to Publish Obsidian Notes to a Blog: 5-Step Guide
+# Publish Obsidian Notes to a Blog: 5-Step Guide
 
 > **Quick Answer:** The most efficient way to publish Obsidian notes to a blog is by using a static site generator like Quartz, Astro, or Hugo. By pushing your markdown files to a GitHub repository, you can automatically deploy your local notes to platforms like Vercel or Netlify without breaking your existing [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/).
 

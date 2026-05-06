@@ -1,4 +1,5 @@
 ---
+image: "/og/best-obsidian-themes-for-long-form-writing-focus.webp"
 title: "Best Obsidian Themes for Long-Form Writing Focus in 2026"
 description: "Discover the best Obsidian themes for long-form writing focus, enhancing readability and minimizing distractions to boost your productivity and creative flow."
 pubDate: "2026-05-06"

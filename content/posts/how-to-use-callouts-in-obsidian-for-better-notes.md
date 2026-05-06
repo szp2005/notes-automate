@@ -131,7 +131,7 @@ CSS snippets are plain text files with a `.css` extension. Obsidian loads them f
 4. Paste your CSS, save the file
 5. Return to Settings → Appearance → CSS Snippets and toggle your file on
 
-If you want dozens of beautiful pre-configured callouts without writing a single line of code, a [premium Obsidian theme](URL_PLACEHOLDER_1) from Gumroad or Ko-fi typically includes an entire custom callout library out of the box — worth considering if design consistency matters to your workflow.
+If you want dozens of beautiful pre-configured callouts without writing a single line of code, a premium Obsidian theme from Gumroad or Ko-fi typically includes an entire custom callout library out of the box — worth considering if design consistency matters to your workflow.
 
 ---
 
@@ -143,8 +143,8 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 
 ```css
 .callout[data-callout="action"] {
-  --callout-color: 34, 197, 94;
-  --callout-icon: lucide-check-square;
+ --callout-color: 34, 197, 94;
+ --callout-icon: lucide-check-square;
 }
 ```
 
@@ -156,8 +156,8 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 
 ```css
 .callout[data-callout="key"] {
-  --callout-color: 245, 158, 11;
-  --callout-icon: lucide-key;
+ --callout-color: 245, 158, 11;
+ --callout-icon: lucide-key;
 }
 ```
 
@@ -169,8 +169,8 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 
 ```css
 .callout[data-callout="summary"] {
-  --callout-color: 100, 116, 139;
-  --callout-icon: lucide-align-left;
+ --callout-color: 100, 116, 139;
+ --callout-icon: lucide-align-left;
 }
 ```
 
@@ -182,8 +182,8 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 
 ```css
 .callout[data-callout="person"] {
-  --callout-color: 168, 85, 247;
-  --callout-icon: lucide-user;
+ --callout-color: 168, 85, 247;
+ --callout-icon: lucide-user;
 }
 ```
 
@@ -195,8 +195,8 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 
 ```css
 .callout[data-callout="goal"] {
-  --callout-color: 20, 184, 166;
-  --callout-icon: lucide-target;
+ --callout-color: 20, 184, 166;
+ --callout-icon: lucide-target;
 }
 ```
 
@@ -296,7 +296,7 @@ Five callouts designed for real PKM workflows. Copy each block into your `custom
 
 **Changing the display title only:** The title after `[!TYPE]` is purely display text. `> [!action] Schedule by EOD Friday` shows the green action icon with the custom title — the type still controls the style.
 
-**Mobile:** Callouts render identically in the Obsidian mobile app. If you use custom CSS snippets, sync them through [Obsidian Sync](URL_PLACEHOLDER_2) — the most reliable method to keep your `.obsidian/snippets/` folder consistent across every device without manual file transfers.
+**Mobile:** Callouts render identically in the Obsidian mobile app. If you use custom CSS snippets, sync them through Obsidian Sync — the most reliable method to keep your `.obsidian/snippets/` folder consistent across every device without manual file transfers.
 
 ---
 
@@ -321,7 +321,7 @@ Callouts are one of the highest-leverage formatting decisions you can make in Ob
 
 Start with the meeting note cookbook template this week. Add `[!key]` to your next book chapter note. Once those are habits, layer in the project dashboard structure.
 
-If you want to go further and build a complete, linked PKM system around these ideas — not just formatting but linking, retrieval, and synthesis — [Linking Your Thinking by Nick Milo](URL_PLACEHOLDER_3) is the most thorough practical course available for Obsidian users at this level.
+If you want to go further and build a complete, linked PKM system around these ideas — not just formatting but linking, retrieval, and synthesis — Linking Your Thinking by Nick Milo is the most thorough practical course available for Obsidian users at this level.
 
 ---
 

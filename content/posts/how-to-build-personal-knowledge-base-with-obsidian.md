@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-build-personal-knowledge-base-with-obsidian.webp"
-title: "How to Build Personal Knowledge Base with Obsidian: 5-Step Guide"
+title: "Personal Knowledge Base with Obsidian Setup: 5-Step Guide"
 description: "Learn how to build a personal knowledge base with Obsidian using our 5-step framework. Discover folders, tags, and links to organize your ideas effectively."
 pubDate: "2026-05-02"
 author: "Alex Chen"
@@ -9,7 +9,7 @@ slug: "how-to-build-personal-knowledge-base-with-obsidian"
 type: "informational"
 ---
 
-# How to Build Personal Knowledge Base with Obsidian: 5-Step Guide
+# Personal Knowledge Base with Obsidian Setup: 5-Step Guide
 
 > **Quick Answer:** To build a personal knowledge base with Obsidian, start by creating a central vault and establishing a basic folder structure for your daily notes, source materials, and permanent ideas. Use Obsidian's bidirectional linking (`[[link]]`) to connect related concepts naturally as you write, rather than relying strictly on rigid folders. Adopt a progressive summarization workflow to turn raw information into your own interconnected insights over time.
 

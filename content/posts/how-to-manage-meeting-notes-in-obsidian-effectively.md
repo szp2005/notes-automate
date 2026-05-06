@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-manage-meeting-notes-in-obsidian-effectively.webp"
-title: "How to Manage Meeting Notes in Obsidian Effectively: 5-Step Guide"
+title: "Meeting Notes in Obsidian Effectively: 5-Step Guide"
 description: "Learn how to manage meeting notes in Obsidian effectively using templates, daily notes, and Dataview to stay organized and never lose an action item again."
 pubDate: "2026-05-02"
 author: "Alex Chen"
@@ -9,7 +9,7 @@ slug: "how-to-manage-meeting-notes-in-obsidian-effectively"
 type: "informational"
 ---
 
-# How to Manage Meeting Notes in Obsidian Effectively: 5-Step Guide
+# Meeting Notes in Obsidian Effectively: 5-Step Guide
 
 > **Quick Answer:** To manage meeting notes in Obsidian effectively, use a standardized template via the Templater plugin, link every meeting document to your Daily Notes, and aggregate all resulting action items using the Dataview plugin. This ensures structural consistency, provides automatic cross-referencing, and prevents critical tasks from falling through the cracks.
 

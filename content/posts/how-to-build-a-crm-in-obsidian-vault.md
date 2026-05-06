@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-build-a-crm-in-obsidian-vault.webp"
-title: "How to Build a CRM in Obsidian Vault: Complete 2026 Guide"
+title: "CRM in Obsidian Vault Setup: Complete 2026 Guide"
 description: "Learn how to build a CRM in Obsidian vault to track clients, manage leads, and link notes locally without monthly subscriptions. Step-by-step setup."
 pubDate: "2026-05-03"
 author: "Alex Chen"
@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# How to Build a CRM in Obsidian Vault: Complete 2026 Guide
+# CRM in Obsidian Vault Setup: Complete 2026 Guide
 
 > **Quick Answer:** To build a CRM in an Obsidian vault, rely on the Dataview and Templater plugins to organize people and companies as markdown notes. Create a unified `Person` template with YAML properties for status, contact info, and last contact date, then use Dataview tables to aggregate your pipeline and prompt follow-ups.
 

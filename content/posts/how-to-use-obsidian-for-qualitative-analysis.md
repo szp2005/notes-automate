@@ -1,5 +1,6 @@
 ---
-title: "How to Use Obsidian for Qualitative Analysis: A Complete Guide"
+image: "/og/how-to-use-obsidian-for-qualitative-analysis.webp"
+title: "Obsidian for Qualitative Analysis: A Complete Guide"
 description: "Practical guide to how to use obsidian for qualitative analysis: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"
 author: "Alex Chen"
@@ -9,7 +10,7 @@ type: "informational"
 ---
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-# How to Use Obsidian for Qualitative Analysis: A Complete Guide
+# Obsidian for Qualitative Analysis: A Complete Guide
 
 > **Quick Answer:** Obsidian can be leveraged for qualitative analysis by creating a structured vault for research notes, using internal links for thematic connections, and employing tags for coding. Its powerful graph view visualizes relationships, while community plugins enhance data management, memoing, and export, streamlining the analytical process for researchers.
 
@@ -312,3 +313,10 @@ Obsidian can handle relatively large datasets, as it operates on local Markdown 
 ### How do I ensure data security and privacy in Obsidian?
 
 Obsidian stores all your data locally on your computer, giving you full control over your files and ensuring privacy by default. To enhance security, you should encrypt your vault folder using operating system features (like BitLocker for Windows or FileVault for macOS) or third-party encryption software. Regular backups to secure cloud storage or an external drive are also crucial for data integrity and recovery.
+
+---
+
+## Related Reading
+
+- [Obsidian Project Management for Academic Research Teams: A Complete Guide](/posts/obsidian-project-management-academic-research-teams/)
+- [Mastering Academic Projects: Organizing in an Obsidian Vault](/posts/organizing-complex-academic-projects-in-an-obsidian-vault/)

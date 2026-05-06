@@ -85,7 +85,7 @@ tags: [lecture, <% tp.system.prompt("Topic tag?") %>]
 
 ## Key Concepts
 
-[## Links to Related Notes
+## Links to Related Notes
 ```
 
 ### 3. Excalidraw
@@ -114,7 +114,7 @@ This is where Obsidian earns its place in serious academic work.
 
 ### Zotero Integration
 
-Zotero is the gold-standard free reference manager for academics. The Zotero Integration plugin(URL_PLACEHOLDER_1) connects it directly to Obsidian. When you've saved a paper in Zotero, you can import a formatted citation note into your vault with a single command — including your Zotero annotations, highlights, and notes.
+Zotero is the gold-standard free reference manager for academics. The Zotero Integration plugin connects it directly to Obsidian. When you've saved a paper in Zotero, you can import a formatted citation note into your vault with a single command — including your Zotero annotations, highlights, and notes.
 
 **Setup:** Install Zotero desktop + the Better BibTeX extension + the Obsidian plugin. Point the plugin at your Zotero library. You'll be pulling citations in five minutes.
 
@@ -128,9 +128,9 @@ The Annotator plugin lets you highlight and annotate PDFs and EPUBs directly ins
 
 ### Readwise Official
 
-[Readwise](URL_PLACEHOLDER_2) is a paid service (there's a free trial) that aggregates highlights from Kindle, Instapaper, Pocket, web articles, physical books via their mobile app, and even tweets. The Obsidian plugin syncs all of those highlights into your vault automatically.
+[Readwise is a paid service (there's a free trial) that aggregates highlights from Kindle, Instapaper, Pocket, web articles, physical books via their mobile app, and even tweets. The Obsidian plugin syncs all of those highlights into your vault automatically.
 
-**Why students need it:** If you read anywhere beyond your desk — on a phone, Kindle, or tablet — Readwise catches every highlight and sends it to Obsidian. No manual copying. For students who consume research across multiple devices and formats, the time savings are significant. The [Readwise + Obsidian combination](URL_PLACEHOLDER_3) is particularly powerful for literature reviews where you're pulling from 20+ sources.
+**Why students need it:** If you read anywhere beyond your desk — on a phone, Kindle, or tablet — Readwise catches every highlight and sends it to Obsidian. No manual copying. For students who consume research across multiple devices and formats, the time savings are significant. The Readwise + Obsidian combination is particularly powerful for literature reviews where you're pulling from 20+ sources.
 
 ---
 
@@ -168,7 +168,7 @@ This is where most student Obsidian guides stop at surface level. These three pl
 
 ### Spaced Repetition
 
-The [Spaced Repetition plugin](URL_PLACEHOLDER_4) (by Stephen Mwangi) implements the Anki algorithm directly inside Obsidian. You create [flashcards](/posts/spaced-repetition-plugin-for-obsidian-flashcards/) from any note using a simple `#flashcard` tag, then review them in scheduled sessions. Cards you struggle with come back sooner; cards you know well are delayed.
+The Spaced Repetition plugin (by Stephen Mwangi) implements the Anki algorithm directly inside Obsidian. You create [flashcards](/posts/spaced-repetition-plugin-for-obsidian-flashcards/) from any note using a simple `#flashcard` tag, then review them in scheduled sessions. Cards you struggle with come back sooner; cards you know well are delayed.
 
 **Why it beats Anki for most students:** Your flashcards live in the same notes where you're doing your actual studying. You read a lecture note, flag the key term as a flashcard on the spot, and it enters your review queue. No separate app, no manual deck creation. The scientific evidence for spaced repetition's effectiveness on long-term retention is overwhelming — the issue was always friction. This plugin eliminates that friction.
 
@@ -187,7 +187,7 @@ The Kanban plugin creates Trello-style boards inside your vault. Columns like "B
 
 ### Tasks
 
-The Tasks plugin is a vault-wide to-do list system. Add `-  ` tasks with due dates (`📅 2024-12-15`) anywhere in your notes and use a Tasks query anywhere else to pull all due items into a single view.
+The Tasks plugin is a vault-wide to-do list system. Add `- ` tasks with due dates (`📅 2024-12-15`) anywhere in your notes and use a Tasks query anywhere else to pull all due items into a single view.
 
 **Why it matters:** Your lecture notes, project notes, and reading notes all generate action items. Without Tasks, those action items stay buried in whatever note you were writing when you had the idea. With Tasks, they surface in a centralized dashboard sorted by due date. Combined with Dataview, you can build a complete academic planner inside a single note.
 
@@ -216,15 +216,15 @@ Here's a concrete example: writing a 3,000-word literature review for a graduate
 A blank vault is intimidating. Here's the folder structure that makes the workflow above function cleanly:
 
 ```
-📁 00 - Inbox          (unprocessed notes, quick captures)
-📁 10 - Courses        (one subfolder per course)
-📁 20 - Research       (source notes, Zotero imports)
-📁 30 - Projects       (essays, papers — Longform projects live here)
-📁 40 - Reference      (evergreen concept notes, Zettelkasten-style)
-📁 50 - Exam Prep      (flashcard review notes, study guides)
-📁 60 - Templates      (Templater templates)
-📁 70 - Assets         (PDFs, images, Excalidraw files)
-📁 99 - Archive        (finished projects, old courses)
+📁 00 - Inbox (unprocessed notes, quick captures)
+📁 10 - Courses (one subfolder per course)
+📁 20 - Research (source notes, Zotero imports)
+📁 30 - Projects (essays, papers — Longform projects live here)
+📁 40 - Reference (evergreen concept notes, Zettelkasten-style)
+📁 50 - Exam Prep (flashcard review notes, study guides)
+📁 60 - Templates (Templater templates)
+📁 70 - Assets (PDFs, images, Excalidraw files)
+📁 99 - Archive (finished projects, old courses)
 ```
 
 **Core templates to build in Templater:**
@@ -282,7 +282,7 @@ That's five plugins. Start there.
 
 ### 📚 Want to Go Deeper?
 
-If you prefer video instruction to written guides, there are excellent structured courses that walk you through building an academic Obsidian vault from scratch — covering Dataview queries, Templater scripting, and PKM theory in detail. Check out the [top-rated Obsidian courses on Udemy](URL_PLACEHOLDER_6) and [Skillshare's productivity course library](URL_PLACEHOLDER_7) for guided walkthroughs that complement this written setup guide.
+If you prefer video instruction to written guides, there are excellent structured courses that walk you through building an academic Obsidian vault from scratch — covering Dataview queries, Templater scripting, and PKM theory in detail. Check out the top-rated Obsidian courses on Udemy and Skillshare's productivity course library for guided walkthroughs that complement this written setup guide.
 
 ---
 
@@ -294,7 +294,7 @@ If you prefer video instruction to written guides, there are excellent structure
 
 ### How do I sync my Obsidian notes between my laptop and phone?
 
-The cleanest paid option is [Obsidian Sync](URL_PLACEHOLDER_5), which costs $4/month with a student discount available. It's end-to-end encrypted and built by the Obsidian team, so it handles plugin settings and themes correctly. Free alternatives include iCloud (Mac/iPhone only, works reasonably well), Syncthing (self-hosted, free, slightly technical to set up), or a Git-based workflow via the Obsidian Git plugin if you're comfortable with GitHub.
+The cleanest paid option is Obsidian Sync, which costs $4/month with a student discount available. It's end-to-end encrypted and built by the Obsidian team, so it handles plugin settings and themes correctly. Free alternatives include iCloud (Mac/iPhone only, works reasonably well), Syncthing (self-hosted, free, slightly technical to set up), or a Git-based workflow via the Obsidian Git plugin if you're comfortable with GitHub.
 
 ### Is Obsidian free for students?
 

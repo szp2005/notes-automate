@@ -1,4 +1,5 @@
 ---
+image: "/og/automating-literature-reviews-using-obsidian-and-n8n.webp"
 title: "Automating Literature Reviews with Obsidian & n8n: A Complete Guide"
 description: "Practical guide to automating literature reviews using obsidian and n8n: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-06"

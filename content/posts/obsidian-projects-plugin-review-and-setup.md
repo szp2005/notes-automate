@@ -37,13 +37,13 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ## 1. What is the Obsidian Projects Plugin (And Who is it For?) {#what-is-it}
 
-The [Obsidian Projects plugin](URL_PLACEHOLDER_1), built by Marcus Olsson, does one thing with real precision: it reads a collection of notes — defined by a folder path, a tag, or a Dataview query — and renders the YAML frontmatter in those notes as a structured, interactive dashboard.
+The Obsidian Projects plugin, built by Marcus Olsson, does one thing with real precision: it reads a collection of notes — defined by a folder path, a tag, or a Dataview query — and renders the YAML frontmatter in those notes as a structured, interactive dashboard.
 
 Think of it as a lightweight Airtable living inside your vault. Every note becomes a row. Every frontmatter field becomes a column. You can then switch between four view types depending on what you need to see.
 
 **How does this compare to manual methods?** Without this plugin, tracking 30 article drafts across different stages means either relying on memory, building a hand-maintained index note, or writing Dataview queries. All three options have friction.
 
-**How does it compare to Dataview?** This is the most common question in the community, and the [Reddit thread comparing the two](URL_PLACEHOLDER_2) is worth reading. Here is the practical breakdown:
+**How does it compare to Dataview?** This is the most common question in the community, and the Reddit thread comparing the two is worth reading. Here is the practical breakdown:
 
 | Feature | Projects Plugin | Dataview |
 |---|---|---|
@@ -77,16 +77,16 @@ Before creating your first project, spend two minutes in the plugin settings (**
 - **Date format:** Match this to the format you use in your frontmatter (e.g., `YYYY-MM-DD`). A mismatch here is the single most common cause of Calendar view breaking.
 - **Exclude paths:** Add your templates folder. Otherwise, template files show up as phantom notes in every project.
 
-If you use [Obsidian Sync](URL_PLACEHOLDER_3) to work across a desktop and mobile device, your Projects configuration travels with the vault automatically — no extra steps required. This is the cleanest way to keep your project dashboards consistent across devices.
+If you use Obsidian Sync to work across a desktop and mobile device, your Projects configuration travels with the vault automatically — no extra steps required. This is the cleanest way to keep your project dashboards consistent across devices.
 
 ### Creating Your First Project
 
 1. Click the Projects icon in the ribbon → **New Project**.
 2. Give the project a name (e.g., `Article Pipeline`).
 3. Under **Data Source**, choose:
-   - **Folder** — simplest option; all notes inside that folder appear.
-   - **Tag** — useful when your notes are spread across the vault.
-   - **Dataview query** — for power users who want precise filtering.
+ - **Folder** — simplest option; all notes inside that folder appear.
+ - **Tag** — useful when your notes are spread across the vault.
+ - **Dataview query** — for power users who want precise filtering.
 4. Choose **Folder**, point it at an existing folder with at least three or four notes.
 5. Click **Create**. You will immediately see a Table view populated with your notes.
 
@@ -117,7 +117,7 @@ Set it up:
 2. Click **Configure** → select the field to group by (e.g., `status`).
 3. Your defined values become columns. Drag a card between columns to update the frontmatter value in the underlying note instantly.
 
-This is a genuine Kanban board. It is simpler than the dedicated [Obsidian Kanban plugin](URL_PLACEHOLDER_4) but has the advantage of being unified with your other views.
+This is a genuine Kanban board. It is simpler than the dedicated Obsidian Kanban plugin but has the advantage of being unified with your other views.
 
 ### Calendar View
 
@@ -148,7 +148,7 @@ Create a folder for each project, add notes with the frontmatter below, then poi
 title: "Article Title Here"
 author: "Alex Chen"
 status: "idea"
-publish-date: 
+publish-date:
 tags: [content]
 word-count: 0
 url: ""
@@ -186,7 +186,7 @@ author: "Alex Chen"
 status: "inbox"
 context: ""
 energy: "medium"
-due: 
+due:
 project: ""
 ---
 ```
@@ -203,7 +203,7 @@ This is where Obsidian project management moves from useful to genuinely powerfu
 
 ### Using Templater to Pre-Fill Frontmatter
 
-Install the Templater plugin(URL_PLACEHOLDER_5) and create a template file for each project type. Example for the content pipeline:
+Install the Templater plugin and create a template file for each project type. Example for the content pipeline:
 
 ```
 ---
@@ -224,14 +224,14 @@ When you create a new note in your `Content/` folder using this template, the fr
 QuickAdd lets you trigger a capture command from anywhere in your vault — or from a hotkey — and route the new note directly into a specific folder with a specific template applied.
 
 Setup steps:
-1. Install [QuickAdd](URL_PLACEHOLDER_6).
+1. Install QuickAdd.
 2. Create a new Macro called `New Article Idea`.
 3. Add a **Capture** step, set the file path to `Content/{{VALUE}}.md`, and assign your Templater content template.
 4. Assign a hotkey (e.g., `Ctrl+Shift+A`).
 
 Now, from anywhere in your vault, press the hotkey, type the article title, and a new note lands in `Content/` with complete frontmatter, ready to appear in your Projects Board as an `idea`.
 
-If you are on a Mac and want to extend this capture workflow to system-wide clipboard management or text expansion across apps, [Setapp](URL_PLACEHOLDER_7) is worth looking at — it includes tools like Raycast extensions, clipboard managers, and text expanders that pair directly with this kind of rapid-capture workflow, all under a single subscription.
+If you are on a Mac and want to extend this capture workflow to system-wide clipboard management or text expansion across apps, Setapp is worth looking at — it includes tools like Raycast extensions, clipboard managers, and text expanders that pair directly with this kind of rapid-capture workflow, all under a single subscription.
 
 ### Embedding Dataview Inside Project Notes
 
@@ -299,7 +299,7 @@ If your Projects folder contains more than 500 notes, switch to a Dataview query
 
 The Projects plugin earns its place in any intermediate-to-advanced Obsidian vault. It solves the specific problem of visual, editable project tracking without requiring you to become a query language expert.
 
-> 📘 **Want to go deeper?** If this plugin has sparked an interest in building a complete personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system — not just project tracking but the whole thinking infrastructure — [Nick Milo's Linking Your Thinking course](URL_PLACEHOLDER_8) is the most structured and practical path I have seen for Obsidian users who want to invest in that seriously.
+> 📘 **Want to go deeper?** If this plugin has sparked an interest in building a complete personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system — not just project tracking but the whole thinking infrastructure — Nick Milo's Linking Your Thinking course is the most structured and practical path I have seen for Obsidian users who want to invest in that seriously.
 
 ---
 
@@ -318,7 +318,7 @@ Start with the content pipeline or GTD template, spend fifteen minutes getting y
 
 ### Does the Obsidian Projects plugin work on mobile?
 
-Yes. The plugin runs on Obsidian mobile. Views render correctly, and inline editing works on touch. Sync your vault with [Obsidian Sync](URL_PLACEHOLDER_3) to keep project configurations identical across devices.
+Yes. The plugin runs on Obsidian mobile. Views render correctly, and inline editing works on touch. Sync your vault with Obsidian Sync to keep project configurations identical across devices.
 
 ### Can I use the Projects plugin without any YAML frontmatter?
 

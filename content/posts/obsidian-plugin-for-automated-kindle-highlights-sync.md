@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-plugin-for-automated-kindle-highlights-sync.webp"
 title: "Obsidian Plugin for Automated Kindle Highlights Sync: A Complete Guide"
 description: "Practical guide to obsidian plugin for automated kindle highlights sync: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-06"

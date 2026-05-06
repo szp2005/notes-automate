@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-use-obsidian-dataview-for-beginners.webp"
-title: "How to use Obsidian Dataview for beginners: Complete Guide"
+title: "Obsidian Dataview for Beginners: Complete Guide"
 description: "Learn how to use Obsidian Dataview for beginners. This complete guide shows you how to turn static markdown notes into dynamic, automated dashboards."
 pubDate: "2026-05-02"
 author: "Alex Chen"
@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# How to use Obsidian Dataview for beginners: Complete Guide
+# Obsidian Dataview for Beginners: Complete Guide
 
 > **Quick Answer:** To use Obsidian Dataview, install the plugin from community plugins, add structured metadata (like YAML frontmatter) to your notes, and write queries using the Dataview Query Language (DQL). A basic query looks like ````dataview LIST FROM "folder"````, which automatically generates a list of all notes within that specific folder. 
 

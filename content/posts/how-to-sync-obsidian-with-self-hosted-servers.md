@@ -1,5 +1,6 @@
 ---
-title: "How to Sync Obsidian with Self-Hosted Servers: A Complete Guide"
+image: "/og/how-to-sync-obsidian-with-self-hosted-servers.webp"
+title: "Sync Obsidian with Self-hosted Servers: A Complete Guide"
 description: "Practical guide to how to sync obsidian with self hosted servers: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"
 author: "Alex Chen"
@@ -10,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# How to Sync Obsidian with Self-Hosted Servers: A Complete Guide
+# Sync Obsidian with Self-hosted Servers: A Complete Guide
 
 > **Quick Answer:** To sync Obsidian with self-hosted servers, popular methods include using Git for version-controlled synchronization, leveraging file synchronization tools like Syncthing or Nextcloud, or employing WebDAV/SFTP for direct file transfers. Each approach offers varying degrees of control, security, and complexity, allowing users to choose based on their technical comfort and privacy requirements.
 

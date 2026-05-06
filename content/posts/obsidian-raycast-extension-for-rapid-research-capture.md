@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-raycast-extension-for-rapid-research-capture.webp"
 title: "Obsidian Raycast Extension: Rapid Research Capture Guide"
 description: "Practical guide to obsidian raycast extension for rapid research capture: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-06"

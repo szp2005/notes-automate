@@ -1,4 +1,5 @@
 ---
+image: "/og/best-n8n-workflows-obsidian-automation-2026.webp"
 title: "Best n8n Workflows for Obsidian Automation in 2026"
 description: "Practical guide to best n8n workflows for obsidian automation 2026: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"

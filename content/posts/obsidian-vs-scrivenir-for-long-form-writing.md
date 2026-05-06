@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-vs-scrivenir-for-long-form-writing.webp"
 title: "Obsidian vs Scrivener for Long-Form Writing: Which Is Better?"
 description: "Practical guide to obsidian vs scrivenir for long form writing: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"
@@ -158,6 +159,8 @@ Obsidian's core application is free for personal use, with optional paid service
 ---
 
 ## Related Reading
+
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
 
 - [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
 

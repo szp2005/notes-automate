@@ -53,7 +53,7 @@ Here's a direct comparison:
 | Version history | Yes (12 months) | Via Google Drive file versions |
 | Setup complexity | Near-zero | ~10 minutes |
 
-The [Remotely Save plugin](URL_PLACEHOLDER_1) is a community-built, open-source plugin that acts as the bridge. It handles the OAuth authentication handshake with Google, manages file diffing, and runs sync on a schedule you define. You are not rerouting files through any third-party server — your vault goes directly from your device to your Google Drive.
+The Remotely Save plugin is a community-built, open-source plugin that acts as the bridge. It handles the OAuth authentication handshake with Google, manages file diffing, and runs sync on a schedule you define. You are not rerouting files through any third-party server — your vault goes directly from your device to your Google Drive.
 
 ---
 
@@ -62,11 +62,11 @@ The [Remotely Save plugin](URL_PLACEHOLDER_1) is a community-built, open-source 
 Before touching any plugin settings, confirm you have the following in place:
 
 - **A Google Account** with Drive access. Your free 15 GB is enough for most vaults; heavy attachment users may want to expand.
-- **Obsidian installed on your primary computer** (Windows, macOS, or Linux). Download it from [obsidian.md](URL_PLACEHOLDER_2) if needed.
+- **Obsidian installed on your primary computer** (Windows, macOS, or Linux). Download it from obsidian.md if needed.
 - **Obsidian installed on every secondary device** — Android phone, iPhone, iPad, second laptop, etc.
 - **Community plugins enabled.** By default, Obsidian ships in "Restricted mode," which blocks all third-party plugins. Go to **Settings → Community plugins** and click **Turn on community plugins**. You'll see a one-time warning about third-party code — click **I understand** to proceed.
 
-> 💼 **Power-user note:** If you manage notes for a team or small business and need more than 15 GB, [Google Workspace](URL_PLACEHOLDER_3) starts at around $6/user/month and gives each account a minimum of 30 GB pooled storage, along with shared drives and admin controls. Worth the upgrade if your vault contains project [documentation](/posts/how-to-use-obsidian-for-software-engineering-documentation/), client files, or large media attachments.
+> 💼 **Power-user note:** If you manage notes for a team or small business and need more than 15 GB, Google Workspace starts at around $6/user/month and gives each account a minimum of 30 GB pooled storage, along with shared drives and admin controls. Worth the upgrade if your vault contains project [documentation](/posts/how-to-use-obsidian-for-software-engineering-documentation/), client files, or large media attachments.
 
 ---
 
@@ -179,7 +179,7 @@ Syncing Obsidian with Google Drive using Remotely Save is the most practical fre
 
 The full process takes 10 minutes: install Remotely Save, authenticate with Google, set your auto-sync interval, then repeat on each device with the same Remote Base Dir name. If anything breaks, 90% of issues trace back to either a stale OAuth token (re-authenticate) or a mismatched folder name (check capitalization).
 
-**Ready to go further?** Install [Remotely Save from the Obsidian community plugin browser](URL_PLACEHOLDER_5), pair it with a [Google Workspace account](URL_PLACEHOLDER_6) for expanded storage and team sharing, or explore [pCloud](URL_PLACEHOLDER_7) if you want a Google-free, end-to-end encrypted alternative. Your notes, your infrastructure, your rules.
+**Ready to go further?** Install Remotely Save from the Obsidian community plugin browser, pair it with a Google Workspace account for expanded storage and team sharing, or explore pCloud if you want a Google-free, end-to-end encrypted alternative. Your notes, your infrastructure, your rules.
 
 ---
 
@@ -199,7 +199,7 @@ By default, it syncs the entire vault including the `.obsidian` folder, which co
 
 ### What happens if I run out of Google Drive storage?
 
-Sync will fail with a storage quota error. Remotely Save will log the error rather than silently skip files. Free up Drive space, or upgrade your Google storage. If you prefer not to use Google's ecosystem at all, [pCloud](URL_PLACEHOLDER_4) is a strong privacy-focused alternative — it offers end-to-end encrypted storage out of the box with a lifetime plan option, and Remotely Save supports it as a WebDAV backend.
+Sync will fail with a storage quota error. Remotely Save will log the error rather than silently skip files. Free up Drive space, or upgrade your Google storage. If you prefer not to use Google's ecosystem at all, pCloud is a strong privacy-focused alternative — it offers end-to-end encrypted storage out of the box with a lifetime plan option, and Remotely Save supports it as a WebDAV backend.
 
 ### Can I sync multiple vaults to the same Google Drive account?
 
