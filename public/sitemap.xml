@@ -1,806 +1,986 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://notes-automate.com/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/about/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/tags/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://notes-automate.com/privacy/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/contact/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://notes-automate.com/posts/2026-04-28-best-obsidian-themes-for-writing-longform-content/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/2026-04-28-best-obsidian-themes-for-writing-longform-content/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/2026-04-28-best-obsidian-themes-for-writing-longform-content/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/2026-04-28-best-obsidian-themes-for-writing-longform-content/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-28-how-to-use-obsidian-dataview-for-beginners/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/2026-04-28-how-to-use-obsidian-dataview-for-beginners/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/2026-04-28-how-to-use-obsidian-dataview-for-beginners/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/2026-04-28-how-to-use-obsidian-dataview-for-beginners/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-28-is-obsidian-sync-worth-it-review/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/2026-04-28-is-obsidian-sync-worth-it-review/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/2026-04-28-is-obsidian-sync-worth-it-review/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/2026-04-28-is-obsidian-sync-worth-it-review/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-28-obsidian-canvas-vs-excalidraw-for-mind-mapping/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/2026-04-28-obsidian-canvas-vs-excalidraw-for-mind-mapping/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/2026-04-28-obsidian-canvas-vs-excalidraw-for-mind-mapping/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/2026-04-28-obsidian-canvas-vs-excalidraw-for-mind-mapping/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-28-obsidian-sync-vs-syncthing-for-free-note-synchronization/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/2026-04-28-obsidian-sync-vs-syncthing-for-free-note-synchronization/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/2026-04-28-obsidian-sync-vs-syncthing-for-free-note-synchronization/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/2026-04-28-obsidian-sync-vs-syncthing-for-free-note-synchronization/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-28-obsidian-templater-plugin-tutorial-for-daily-notes/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-28-setting-up-a-zettelkasten-in-obsidian-with-plugins/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-28-using-obsidian-tasks-plugin-for-project-management/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-best-obsidian-plugins-for-habit-tracking-2024/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-excalidraw-plugin-for-obsidian-review/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-how-to-create-interactive-maps-in-obsidian/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-how-to-customize-obsidian-appearance-with-css-snippets/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-how-to-find-obsidian-plugin-documentation/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-how-to-install-community-plugins-in-obsidian-mobile/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-how-to-publish-obsidian-notes-to-a-blog/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-how-to-sync-obsidian-with-google-drive-using-a-plugin/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-how-to-use-callouts-in-obsidian-for-better-notes/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-minimal-theme-obsidian-review/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-most-beautiful-obsidian-themes/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-obsidian-anki-vs-spaced-repetition-plugin/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-obsidian-community-plugins-list/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-obsidian-full-calendar-plugin-review/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-obsidian-periodic-notes-plugin-review/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-obsidian-projects-plugin-review-and-setup/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-obsidian-theme-store-browser/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-things-theme-vs-minimal-theme-obsidian/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-top-5-obsidian-plugins-for-academic-research/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-what-are-the-best-obsidian-plugins-for-students/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-what-is-the-obsidian-canvas-plugin/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/2026-04-29-what-is-the-obsidian-git-plugin-for/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/advanced-obsidian-templates-for-literature-review-matrix/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/applying-the-para-method-to-an-obsidian-vault/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/applying-the-para-method-to-an-obsidian-vault/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/applying-the-para-method-to-an-obsidian-vault/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/applying-the-para-method-to-an-obsidian-vault/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/automate-obsidian-with-n8n-and-webhooks/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/automating-obsidian-frontmatter-with-templater-scripts/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/automating-obsidian-frontmatter-with-templater-scripts/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/automating-obsidian-frontmatter-with-templater-scripts/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/automating-obsidian-frontmatter-with-templater-scripts/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/automating-your-task-management-with-obsidian-tasks-plugin/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-apple-shortcuts-for-obsidian-power-users/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-font-pairings-for-obsidian-minimal-theme-2026/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-font-pairings-for-obsidian-minimal-theme-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-font-pairings-for-obsidian-minimal-theme-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-font-pairings-for-obsidian-minimal-theme-2026/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-obsidian-community-plugins-for-recipe-management/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-obsidian-plugins-for-academic-researchers-2026/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-obsidian-plugins-for-developers-and-code-snippets/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-obsidian-plugins-for-medical-school-students-2026/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-obsidian-themes-for-dark-mode-2026/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-obsidian-themes-for-high-contrast-accessibility-2026/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/building-a-second-brain-using-obsidian-and-readwise/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/canvas-for-obsidian-infinite-whiteboard-ideas/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/comparing-obsidian-frontmatter-vs-inline-dataview-fields/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/comparing-obsidian-git-vs-icloud-for-vault-syncing/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/comparison-of-mobile-markdown-editors-for-ios-android/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/configuring-obsidian-for-automated-daily-backup-to-dropbox/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/configuring-obsidian-for-end-to-end-encrypted-sync/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/connecting-obsidian-to-external-api-with-python/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/copilot-for-obsidian-chat-with-your-notes/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/creating-automated-index-pages-with-obsidian-dataview/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/customizing-the-obsidian-graph-view-for-better-insights/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/downloadable-obsidian-css-snippets-for-dashboard-layouts/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/excalidraw-plugin-for-obsidian-visual-thinking/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/explaining-obsidian-metadata-menu-for-structured-data/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/explanation-of-obsidian-vault-structure-for-backups/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/guide-to-obsidian-outliner-plugin-for-structured-thinking/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/hovernotes-for-timestamped-video-notes-obsidian/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/how-to-build-a-crm-in-obsidian-vault/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/how-to-build-personal-knowledge-base-with-obsidian/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/how-to-manage-meeting-notes-in-obsidian-effectively/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/how-to-manage-obsidian-plugins-across-multiple-devices/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/how-to-organize-school-notes-using-obsidian-for-students/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/how-to-publish-obsidian-notes-to-a-blog/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/how-to-use-css-snippets-for-obsidian-callouts/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/how-to-use-obsidian-dataview-for-beginners/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/how-to-use-obsidian-dataview-for-beginners/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/how-to-use-obsidian-dataview-for-beginners/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/how-to-use-obsidian-dataview-for-beginners/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/how-to-use-obsidian-for-software-engineering-documentation/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/integrating-google-calendar-with-obsidian-for-daily-planning/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/integrating-web-clips-into-your-zettelkasten-note-system/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/is-obsidian-sync-worth-it-in-2026/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/janitor-plugin-for-obsidian-vault-cleanup/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/kanban-plugin-for-obsidian-project-management/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/linter-plugin-for-obsidian-auto-formatting/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/local-gpt-plugin-for-obsidian-privacy/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/longform-plugin-for-obsidian-manuscript-writing/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/make-md-for-obsidian-notion-like-workspace/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/managing-a-ph-d-thesis-in-obsidian/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/managing-large-pdf-libraries-within-an-obsidian-vault/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/minimal-theme-for-obsidian-customization-tips/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/n8n-obsidian-integration-for-automated-web-capture/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/obsidian-advanced-uri-for-automation-with-alfred/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/obsidian-bases-native-update-review-2026/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/obsidian-periodic-notes-plugin-setup-for-annual-reviews/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/obsidian-plugin-for-automated-youtube-transcript-import/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/obsidian-plugins-for-habit-tracking-2026/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/obsidian-sync-vs-syncthing-for-free-sync/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/obsidian-template-for-weekly-reflection-and-planning/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/obsidian-uri-protocol-for-automation-with-raycast/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/obsidian-vault-structure-for-digital-gardening-beginners/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/obsidian-vs-devonthink-for-large-research-archives/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/obsidian-vs-heptabase-for-visual-research-workflows/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/obsidian-vs-logseq-for-privacy-focused-knowledge-management/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/obsidian-vs-notion-for-complex-project-management-workflows/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/obsidian-vs-reflect-for-fast-daily-journaling/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/obsidian-vs-tana-for-structured-knowledge-management/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/obsidian-workflow-for-scientific-research-papers/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/omnisearch-plugin-for-obsidian-fuzzy-search/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/python-scripts-for-bulk-processing-obsidian-markdown-files/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/python-scripts-for-obsidian-api-integration/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/quickadd-plugin-for-rapid-capture-in-obsidian/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/raindrop-io-integration-for-obsidian-bookmark-management/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/review-of-obsidian-db-folder-for-database-views/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/review-of-the-best-obsidian-web-clipper-extensions/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/setting-up-obsidian-for-deep-work-session-tracking/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/setting-up-obsidian-git-for-automated-version-control/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/setting-up-obsidian-on-ipad-with-external-storage/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/setting-up-obsidian-with-apple-shortcuts-for-mobile/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/smart-connections-plugin-for-emergent-ideas/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/spaced-repetition-plugin-for-obsidian-flashcards/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/streamlining-your-daily-note-workflow-for-better-productivity/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/tag-wrangler-for-bulk-tag-management-obsidian/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/templater-plugin-for-obsidian-dynamic-templates-guide/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/top-obsidian-css-snippets-for-clean-minimalist-look/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/top-obsidian-plugins-for-academic-writing-and-citations/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/top-obsidian-plugins-for-creative-writers-in-2026/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/understanding-the-difference-between-folders-and-tags-obsidian/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/understanding-the-obsidian-internal-link-syntax-variations/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/using-mermaid-diagrams-for-visual-note-taking-obsidian/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/using-obsidian-for-long-term-evergreen-note-management/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/using-obsidian-for-tabletop-rpg-world-building/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/using-obsidian-to-manage-n8n-workflow-documentation/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/zotero-integration-for-obsidian-academic-research/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/2026-04-28-best-obsidian-themes-for-writing-longform-content/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/2026-04-28-best-obsidian-themes-for-writing-longform-content/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/2026-04-28-best-obsidian-themes-for-writing-longform-content/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/2026-04-28-best-obsidian-themes-for-writing-longform-content/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/2026-04-28-how-to-use-obsidian-dataview-for-beginners/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/2026-04-28-how-to-use-obsidian-dataview-for-beginners/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/2026-04-28-how-to-use-obsidian-dataview-for-beginners/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/2026-04-28-how-to-use-obsidian-dataview-for-beginners/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/2026-04-28-is-obsidian-sync-worth-it-review/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/2026-04-28-is-obsidian-sync-worth-it-review/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/2026-04-28-is-obsidian-sync-worth-it-review/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/2026-04-28-is-obsidian-sync-worth-it-review/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/2026-04-28-obsidian-canvas-vs-excalidraw-for-mind-mapping/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/2026-04-28-obsidian-canvas-vs-excalidraw-for-mind-mapping/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/2026-04-28-obsidian-canvas-vs-excalidraw-for-mind-mapping/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/2026-04-28-obsidian-canvas-vs-excalidraw-for-mind-mapping/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/2026-04-28-obsidian-sync-vs-syncthing-for-free-note-synchronization/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/2026-04-28-obsidian-sync-vs-syncthing-for-free-note-synchronization/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/2026-04-28-obsidian-sync-vs-syncthing-for-free-note-synchronization/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/2026-04-28-obsidian-sync-vs-syncthing-for-free-note-synchronization/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/applying-the-para-method-to-an-obsidian-vault/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/applying-the-para-method-to-an-obsidian-vault/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/applying-the-para-method-to-an-obsidian-vault/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/applying-the-para-method-to-an-obsidian-vault/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/automating-obsidian-frontmatter-with-templater-scripts/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/automating-obsidian-frontmatter-with-templater-scripts/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/automating-obsidian-frontmatter-with-templater-scripts/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/automating-obsidian-frontmatter-with-templater-scripts/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/best-font-pairings-for-obsidian-minimal-theme-2026/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-font-pairings-for-obsidian-minimal-theme-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-font-pairings-for-obsidian-minimal-theme-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-font-pairings-for-obsidian-minimal-theme-2026/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/best-obsidian-themes-for-writing-longform-content/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/how-to-use-obsidian-dataview-for-beginners/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/how-to-use-obsidian-dataview-for-beginners/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/how-to-use-obsidian-dataview-for-beginners/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/how-to-use-obsidian-dataview-for-beginners/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/is-obsidian-sync-worth-it-review/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/obsidian-sync-vs-syncthing-for-free-note-synchronization/</loc>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
