@@ -25,6 +25,10 @@ const {
 const siteName = 'Obsidian Plugins Guide';
 const siteURL = 'https://notes-automate.com';
 
+// Locale-aware nav links
+const isZhCn = Astro.url.pathname.startsWith('/zh-cn/');
+const localePrefix = isZhCn ? '/zh-cn' : '';
+
 // i18n logic
 const { pathname } = Astro.url;
 const lang = pathname.startsWith('/zh-cn') ? 'zh-cn' : 'en';
@@ -172,10 +176,10 @@ const ga4MeasurementId = import.meta.env.PUBLIC_GA4_MEASUREMENT_ID;
   </head>
   <body>
     <header class="site-header">
-      <a class="brand" href="/">Obsidian Plugins Guide</a>
+      <a class="brand" href={isZhCn ? "/zh-cn/" : "/"}>Obsidian Plugins Guide</a>
       <nav>
-        <a href="/posts/">Guides</a>
-        <a href="/about/">About</a>
+        <a href={`${localePrefix}/posts/`}>Guides</a>
+        <a href={`${localePrefix}/about/`}>About</a>
         <a href="/tags/">Tags</a>
         <a href="/search/">Search</a>
       </nav>
@@ -186,10 +190,10 @@ const ga4MeasurementId = import.meta.env.PUBLIC_GA4_MEASUREMENT_ID;
     <footer class="site-footer">
       <p>Independent guides and reviews for Obsidian plugins, themes, and workflows.</p>
       <nav class="footer-nav">
-        <a href="/about/">About</a>
-        <a href="/contact/">Contact</a>
-        <a href="/privacy/">Privacy</a>
-        <a href="/posts/">All Posts</a>
+        <a href={`${localePrefix}/about/`}>About</a>
+        <a href={`${localePrefix}/contact/`}>Contact</a>
+        <a href={`${localePrefix}/privacy/`}>Privacy</a>
+        <a href={`${localePrefix}/posts/`}>All Posts</a>
         <a href="/tags/">Tags</a>
         <a href="/rss.xml">RSS</a>
       </nav>
