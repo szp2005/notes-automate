@@ -8,7 +8,7 @@ description: "Position the plugin as the premier *free* alternative to the paid 
 keywords: ["obsidian git setup", "obsidian backup solution", "obsidian version control", "obsidian sync alternative free", "how to use git with obsidian", "obsidian github integration", "obsidian notes backup", "obsidian mobile git sync"]
 draft: false
 type: "informational"
-tags: ["obsidian", "git", "plugin", "simple"]
+tags: ["obsidian", "git", "version control", "backup"]
 ---
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._

@@ -8,7 +8,7 @@ description: "Provide a downloadable 'Daily Note Starter Pack' with three levels
 keywords: ["obsidian daily note template", "how to use templater in obsidian", "obsidian automation", "templater dynamic commands", "obsidian periodic notes setup", "tp.date.now format", "obsidian journal template", "templater user functions"]
 draft: false
 type: "informational"
-tags: ["daily", "notes", "need", "templater"]
+tags: ["obsidian", "templater", "daily notes", "automation"]
 ---
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._

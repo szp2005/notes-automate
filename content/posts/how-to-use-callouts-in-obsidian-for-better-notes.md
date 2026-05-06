@@ -8,7 +8,7 @@ description: "Provide a 'copy-paste' CSS snippet library for 5-7 non-standard, w
 keywords: ["obsidian custom callouts", "obsidian callout syntax", "obsidian admonitions", "obsidian css snippets", "obsidian note formatting", "how to customize obsidian", "obsidian tips and tricks", "personal knowledge management"]
 draft: false
 type: "informational"
-tags: ["obsidian", "callouts", "they", "game changer"]
+tags: ["obsidian", "callouts", "note formatting", "knowledge management"]
 ---
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._

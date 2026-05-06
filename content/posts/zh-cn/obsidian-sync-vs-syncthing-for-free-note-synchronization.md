@@ -8,7 +8,7 @@ description: "提供一个“适合谁？”的决策矩阵，映射用户画像
 keywords: ["obsidian sync alternatives", "free obsidian sync", "syncthing obsidian setup", "obsidian ios sync free", "obsidian android sync", "obsidian sync cost", "obsidian end-to-end encryption", "how to sync obsidian notes between devices"]
 draft: false
 type: "review"
-tags: ["core", "dilemma", "paid", "convenience"]
+tags: ["obsidian", "sync", "syncthing", "privacy"]
 ---
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._

@@ -8,7 +8,7 @@ description: "Provide a 'zero-to-hero' setup guide that covers not just basic in
 keywords: ["obsidian google calendar sync", "obsidian full calendar setup", "obsidian caldav integration", "best obsidian calendar plugin", "obsidian task management workflow", "obsidian planner setup", "how to use obsidian full calendar", "obsidian time blocking"]
 draft: false
 type: "informational"
-tags: ["obsidian", "full", "calendar", "plugin"]
+tags: ["obsidian", "calendar", "planning", "plugin review"]
 ---
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._

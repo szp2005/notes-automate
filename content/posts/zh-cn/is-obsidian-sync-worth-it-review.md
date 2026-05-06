@@ -8,7 +8,7 @@ description: "详细分析“目标受众”画像（例如：忙碌的专业人
 keywords: ["obsidian sync price", "obsidian sync alternatives", "obsidian sync vs icloud", "obsidian sync vs git", "obsidian sync setup", "obsidian mobile sync", "end-to-end encrypted notes", "obsidian version history"]
 draft: false
 type: "informational"
-tags: ["core", "question", "problem", "obsidian"]
+tags: ["obsidian", "sync", "privacy", "review"]
 ---
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._

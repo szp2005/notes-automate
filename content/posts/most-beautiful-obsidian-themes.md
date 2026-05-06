@@ -8,7 +8,7 @@ description: "Categorize themes by aesthetic (e.g., 'Minimalist & Clean', 'Cozy 
 keywords: ["obsidian css themes", "best obsidian themes 2024", "obsidian minimalist theme", "obsidian dark mode theme", "obsidian aesthetic setup", "how to install obsidian themes", "obsidian community themes", "obsidian theme customization"]
 draft: false
 type: "informational"
-tags: ["obsidian", "theme", "more", "than"]
+tags: ["obsidian", "themes", "visual design", "customization"]
 ---
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._

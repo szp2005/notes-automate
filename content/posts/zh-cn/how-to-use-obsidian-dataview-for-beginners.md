@@ -8,7 +8,7 @@ keywords: ["obsidian dataview examples", "dataview query language", "DQL tutoria
 draft: false
 author: "Alex Chen"
 type: "informational"
-tags: ["dataview", "game changer", "notes", "how to use obsidian dataview for beginners"]
+tags: ["obsidian", "dataview", "knowledge management", "automation"]
 ---
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._

@@ -8,7 +8,7 @@ description: "Structure the article around specific student workflows (e.g., 'Re
 keywords: ["Obsidian for academic writing", "Obsidian student setup", "Zettelkasten for students", "Obsidian citation management", "Obsidian spaced repetition plugin", "best note-taking apps for college", "Obsidian research workflow", "Obsidian templates for students"]
 draft: false
 type: "informational"
-tags: ["obsidian", "student", "secret", "weapon"]
+tags: ["obsidian", "students", "study tools", "academic workflow"]
 ---
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._

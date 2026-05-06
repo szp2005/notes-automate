@@ -8,7 +8,7 @@ description: "Provide a detailed side-by-side feature comparison table covering 
 keywords: ["Obsidian.md themes", "best Obsidian theme", "Obsidian customization", "Obsidian CSS", "Minimal theme settings", "Things theme setup", "Obsidian GTD workflow", "PKM aesthetics"]
 draft: false
 type: "informational"
-tags: ["introduction", "beyond", "default", "choosing"]
+tags: ["obsidian", "themes", "minimal theme", "things theme"]
 ---
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._

@@ -8,7 +8,7 @@ description: "Provide a detailed performance analysis, including startup time an
 keywords: ["obsidian minimal theme settings", "kepano obsidian theme", "best obsidian themes for writing", "obsidian style settings plugin", "clean obsidian setup", "obsidian customization css", "minimal theme obsidian tutorial", "obsidian focus mode"]
 draft: false
 type: "informational"
-tags: ["obsidian", "minimal", "theme", "overview"]
+tags: ["obsidian", "minimal theme", "theme review", "customization"]
 ---
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._

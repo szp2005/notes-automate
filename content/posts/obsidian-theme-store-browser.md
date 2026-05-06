@@ -8,7 +8,7 @@ description: "The primary and most efficient way to browse and install themes is
 keywords: ["how to install obsidian themes", "best obsidian themes", "obsidian community themes", "obsidian appearance settings", "customize obsidian", "obsidian css snippets", "obsidian theme gallery", "obsidian marketplace"]
 draft: false
 type: "review"
-tags: ["two", "ways", "browse", "obsidian"]
+tags: ["obsidian", "themes", "appearance", "customization"]
 ---
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._

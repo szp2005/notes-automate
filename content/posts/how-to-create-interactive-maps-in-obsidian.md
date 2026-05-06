@@ -8,7 +8,7 @@ description: "Provide downloadable templates for different use-cases, such as a 
 keywords: ["Obsidian Leaflet plugin", "Obsidian map view", "geospatial notes", "visualize notes on a map", "Obsidian travel journal", "worldbuilding map Obsidian", "connect notes geographically", "Obsidian CSS for maps"]
 draft: false
 type: "informational"
-tags: ["beyond", "backlinks", "power", "spatial"]
+tags: ["obsidian", "visual notes", "maps", "knowledge management"]
 ---
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._

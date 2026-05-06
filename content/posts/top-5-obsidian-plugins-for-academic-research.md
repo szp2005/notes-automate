@@ -8,7 +8,7 @@ description: "Stop settling for simple lists. Discover the 5 best Obsidian plugi
 keywords: ["Obsidian for PhD students", "Zotero Obsidian workflow", "Obsidian citation plugin", "academic knowledge management", "Obsidian literature review", "best Obsidian plugins for students", "Obsidian Zotero integration", "Dataview plugin for research"]
 draft: false
 type: "informational"
-tags: ["old", "research", "workflow", "broken"]
+tags: ["obsidian", "academic research", "plugins", "research workflow"]
 ---
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._

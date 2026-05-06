@@ -8,7 +8,7 @@ description: "Provide a 'Before and After' comparison, showing a disorganized va
 keywords: ["obsidian daily notes setup", "obsidian weekly review template", "obsidian monthly notes", "obsidian calendar plugin", "how to use periodic notes obsidian", "obsidian journaling workflow", "obsidian pkm system", "dataview obsidian periodic notes"]
 draft: false
 type: "informational"
-tags: ["periodic", "notes", "plugin", "game changer"]
+tags: ["obsidian", "periodic notes", "weekly review", "plugin review"]
 ---
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
