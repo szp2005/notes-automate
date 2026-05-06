@@ -280,6 +280,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://notes-automate.com/posts/automating-literature-reviews-using-obsidian-and-n8n/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://notes-automate.com/posts/automating-obsidian-frontmatter-with-templater-scripts/</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -361,6 +367,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://notes-automate.com/posts/best-obsidian-themes-for-long-form-writing-focus/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://notes-automate.com/posts/building-a-second-brain-using-obsidian-and-readwise/</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -422,6 +434,12 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/creating-automated-index-pages-with-obsidian-dataview/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/custom-css-for-obsidian-academic-paper-formatting/</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -676,6 +694,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://notes-automate.com/posts/obsidian-project-management-for-academic-research-teams/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://notes-automate.com/posts/obsidian-raycast-extension-for-rapid-research-capture/</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -755,6 +779,12 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/omnisearch-plugin-for-obsidian-fuzzy-search/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/organizing-complex-academic-projects-in-an-obsidian-vault/</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
