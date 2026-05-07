@@ -4,7 +4,7 @@ title: "Best n8n Workflows for Obsidian Automation in 2026"
 description: "Practical guide to best n8n workflows for obsidian automation 2026: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"
 author: "Alex Chen"
-tags: ["n8n", "Obsidian", "automation", "productivity", "workflows", "2026"]
+tags: ["obsidian", "n8n", "workflow automation", "note-taking automation"]
 slug: "best-n8n-workflows-obsidian-automation-2026"
 type: "review"
 ---
