@@ -21,6 +21,8 @@ By utilizing DataviewJS, you can transform static markdown files into a dynamic 
 
 This guide details the structural logic, the metadata requirements, and the exact JavaScript code needed to build a robust recurring task system natively within your Obsidian vault.
 
+For a lower-code baseline before writing custom JavaScript, compare this approach with a dedicated [Obsidian Tasks plugin setup](/posts/best-obsidian-tasks-plugin-setup-2026/) so you know which responsibilities should stay in DataviewJS and which can be delegated to a task plugin.
+
 ## The Anatomy of an Obsidian Recurring Task
 
 Before writing any JavaScript, the underlying task data must be structured predictably. Dataview relies on metadata, which can be formatted as YAML frontmatter or inline fields. For task management, inline fields attached directly to the markdown checkbox are the most reliable method.
