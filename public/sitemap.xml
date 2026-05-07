@@ -127,6 +127,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-font-pairings-for-obsidian-minimal-theme-2026/"/>
   </url>
   <url>
+    <loc>https://notes-automate.com/posts/best-n8n-templates-for-obsidian-vault-automation/</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://notes-automate.com/posts/best-n8n-workflows-for-obsidian-automation-2026/</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -757,6 +763,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://notes-automate.com/posts/obsidian-vs-notion-api-for-automated-workflows/</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://notes-automate.com/posts/obsidian-vs-notion-for-complex-project-management-workflows/</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -920,6 +932,12 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/top-5-obsidian-plugins-for-academic-research/</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/top-obsidian-automation-plugins-for-power-users/</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
