@@ -11,11 +11,11 @@ type: "informational"
 
 # Meeting Notes in Obsidian Effectively: 5-Step Guide
 
-> **Quick Answer:** To manage meeting notes in Obsidian effectively, use a standardized template via the [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/) plugin, link every meeting document to your Daily Notes, and aggregate all resulting action items using the Dataview plugin. This ensures structural consistency, provides automatic cross-referencing, and prevents critical tasks from falling through the cracks.
+> **Quick Answer:** To manage meeting notes in Obsidian effectively, use a standardized template via the [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/) plugin, link every meeting document to your Daily Notes, and aggregate all resulting action items using the [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) plugin. This ensures structural consistency, provides automatic cross-referencing, and prevents critical tasks from falling through the cracks.
 
 Managing meeting notes across disparate applications often leads to fragmented information, lost action items, and a severe lack of context. You remember discussing a specific project requirement, but you cannot recall whether it was logged in an email, a team chat, or a standalone document. Obsidian, with its local-first architecture and powerful bi-directional linking capabilities, offers a highly efficient environment for capturing and utilizing meeting information. 
 
-However, presenting yourself with a blank text file at the start of a fast-paced meeting is a recipe for disorganized documentation. Without a structured, repeatable system, your Obsidian vault can quickly devolve into an unnavigable repository of isolated notes. The key to unlocking Obsidian’s potential lies in creating a frictionless [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) that standardizes input while maximizing output retrieval. 
+However, presenting yourself with a blank text file at the start of a fast-paced meeting is a recipe for disorganized documentation. Without a structured, repeatable system, your Obsidian vault can quickly devolve into an unnavigable repository of isolated notes. The key to unlocking Obsidian’s potential lies in creating a frictionless [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) that standardizes input while maximizing output retrieval. 
 
 Learning how to manage meeting notes in Obsidian effectively transforms your [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) from a passive recording activity into an active system that drives projects forward. This guide outlines a comprehensive, five-step framework for architecting a resilient meeting management system within your Obsidian vault.
 
@@ -138,7 +138,7 @@ For recurring meetings, use your standard meeting template, but ensure you link 
 Obsidian handles plain text markdown files exceptionally well. A vault with 10,000 text files will still load in less than a second on modern hardware. Performance issues typically arise from excessive Dataview queries rendering simultaneously or possessing too many high-resolution image attachments, not from the text files themselves.
 
 ### Can I share my Obsidian meeting notes with colleagues?
-Obsidian is primarily designed for personal knowledge management. To share a meeting note, you can export the markdown file to a PDF using Obsidian's core export feature, or simply copy the rendered text and paste it into an email or Slack message. If collaborative editing is required, a cloud-based tool like Google Docs is better suited for that specific phase before archiving the final result in Obsidian.
+Obsidian is primarily designed for [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/). To share a meeting note, you can export the markdown file to a PDF using Obsidian's core export feature, or simply copy the rendered text and paste it into an email or Slack message. If collaborative editing is required, a cloud-based tool like Google Docs is better suited for that specific phase before archiving the final result in Obsidian.
 
 ---
 

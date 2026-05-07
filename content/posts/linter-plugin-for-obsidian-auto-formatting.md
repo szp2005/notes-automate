@@ -28,7 +28,7 @@ Markdown is designed to be forgiving, which is both its greatest strength and it
 Implementing a strict formatting standard through the Linter plugin provides three primary advantages.
 
 ### Portability and Tool Interoperability
-Your notes are stored as flat text files, meaning they are not locked into Obsidian. You may want to parse them with Python scripts, publish them via Astro or Hugo, or read them in a different editor like VS Code or Neovim. External parsers are rarely as forgiving as Obsidian. A static site generator will fail to build if your YAML frontmatter is missing a space after a colon, or if you mix string and array formats for your tags. Linting ensures your files are structurally pristine and universally readable.
+Your notes are stored as flat text files, meaning they are not locked into Obsidian. You may want to parse them with [Python](/posts/connecting-obsidian-to-external-api-with-python/) scripts, publish them via Astro or Hugo, or read them in a different editor like VS Code or Neovim. External parsers are rarely as forgiving as Obsidian. A static site generator will fail to build if your YAML frontmatter is missing a space after a colon, or if you mix string and array formats for your tags. Linting ensures your files are structurally pristine and universally readable.
 
 ### Cleaner Git Version Control
 If you back up your Obsidian vault using Git, you rely on commit diffs to see how your notes evolve. When you manually adjust spacing or fix typos, you often leave trailing whitespace or inconsistent blank lines. Git tracks every single space. Without a linter, your commit history becomes polluted with meaningless whitespace changes, making it impossible to see actual content revisions. A linter normalizes whitespace, ensuring Git diffs only highlight true semantic modifications.
@@ -38,10 +38,10 @@ Writing requires focus. When you are constantly stopping to delete extra spaces,
 
 ## Core Capabilities of the Obsidian Linter Plugin
 
-The Linter plugin operates through a robust set of toggleable rules. Rather than applying a single rigid format, it allows you to construct a custom style guide tailored to your specific [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
+The Linter plugin operates through a robust set of toggleable rules. Rather than applying a single rigid format, it allows you to construct a custom style guide tailored to your specific [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/).
 
 ### YAML Frontmatter Standardization
-Frontmatter is the metadata brain of an Obsidian note. The plugin can automatically insert missing frontmatter, sort existing keys alphabetically, and format specific values. It can ensure that your `tags` and `aliases` keys are always formatted as proper YAML arrays (e.g., `["productivity", "pkm"]`) rather than comma-separated strings. It can also manage your timestamps, automatically inserting the creation date and updating a `last_modified` date every time the file is saved.
+Frontmatter is the [metadata](/posts/explaining-obsidian-metadata-menu-for-structured-data/) brain of an Obsidian note. The plugin can automatically insert missing frontmatter, sort existing keys alphabetically, and format specific values. It can ensure that your `tags` and `aliases` keys are always formatted as proper YAML arrays (e.g., `["productivity", "pkm"]`) rather than comma-separated strings. It can also manage your timestamps, automatically inserting the creation date and updating a `last_modified` date every time the file is saved.
 
 ### Whitespace and Spacing Normalization
 Whitespace rules are the foundation of a clean document. The plugin removes trailing spaces at the end of lines, which are notorious for causing accidental line breaks in some Markdown parsers. It enforces a specific number of blank lines before and after headings, around blockquotes, and between list items. This ensures your document rhythm remains consistent from top to bottom.

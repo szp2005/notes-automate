@@ -57,7 +57,7 @@ This is closer to how people actually think during complex projects: spatially, 
 
 ## Getting Started: Your First 5 Minutes with Canvas {#getting-started}
 
-**Enable the plugin first.** Go to *Settings → Core Plugins → Canvas* and toggle it on. Done.
+**Enable the plugin first.** Go to *Settings → Core [Plugins](/posts/periodic-notes-plugin-weekly-reviews/) → Canvas* and toggle it on. Done.
 
 **Create a new canvas** three ways:
 - Command palette (`Ctrl/Cmd + P`) → type "New Canvas"
@@ -125,7 +125,7 @@ Writers and content creators: put each scene or section as a note card, arranged
 
 ### Use Case 4: Visualizing a Research Topic
 
-Drop your source PDFs as media cards on the left. Your literature-review notes in the centre. Your emerging argument notes on the right. Draw edges from specific sources to the claims they support. This is a [zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/) visualization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) — you can see at a glance which arguments have two sources behind them and which are hanging in the air unsupported.
+Drop your source PDFs as media cards on the left. Your literature-review notes in the centre. Your emerging argument notes on the right. Draw edges from specific sources to the claims they support. This is a [zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/) visualization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) — you can see at a glance which arguments have two sources behind them and which are hanging in the air unsupported.
 
 ### Use Case 5: Building a Vault Homepage
 
@@ -187,7 +187,7 @@ See the full comparison table in the next section. The short version:
 
 **My embedded note card doesn't show the latest content:** Click anywhere outside the card, then click back. Canvas caches the render briefly. If it persists, close and reopen the canvas file.
 
-**I can't scroll inside a note card:** Click *once* on the card to select it. Click *again* to enter edit/scroll mode. This two-click behavior catches a lot of beginners.
+**I can't scroll inside a note card:** Click *once* on the card to select it. Click *again* to enter edit/scroll mode. This two-click behavior catches a lot of [beginners](/posts/obsidian-vault-structure-digital-gardening-beginners/).
 
 **Canvas file is getting large (slow to load):** Check the JSON — very large images embedded directly balloon the file size. Reference images stored in your vault's attachment folder instead of dropping them from external sources; Canvas stores external images as base64 in the JSON, which gets heavy fast.
 

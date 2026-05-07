@@ -67,7 +67,7 @@ Each Obsidian vault becomes a Git repository. When you make changes on one devic
     *   On your local machine, add the remote:
         `git remote add origin ssh://user@your_server_ip:/path/to/your/repos/obsidian-vault.git` (adjust for Gitea/GitLab if applicable)
     *   Push your initial commit: `git push -u origin master` (or `main` if that's your default branch).
-5.  **Synchronization [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/):**
+5.  **Synchronization [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/):**
     *   **Before editing:** `git pull origin master`
     *   **After editing:**
         ```bash
@@ -107,7 +107,7 @@ Syncthing is an open-source, peer-to-peer file synchronization application. It a
 
 #### Advantages and Disadvantages of Syncthing
 *   **Advantages:** Decentralized (no single point of failure), end-to-end [encryption](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/), real-time sync, cross-platform, excellent for local network sync, highly configurable.
-*   **Disadvantages:** Can be resource-intensive on mobile, initial setup can be confusing for beginners, requires all devices to be online for direct peer-to-peer sync (unless a relay server is used).
+*   **Disadvantages:** Can be resource-intensive on mobile, initial setup can be confusing for [beginners](/posts/obsidian-vault-structure-digital-gardening-beginners/), requires all devices to be online for direct peer-to-peer sync (unless a relay server is used).
 
 ### Nextcloud
 Nextcloud is a self-hosted suite of [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) tools, including a robust file synchronization and sharing platform. It acts as your personal cloud, providing a centralized server for your files, which are then synchronized to your devices via Nextcloud desktop and mobile clients.
@@ -139,7 +139,7 @@ Start by mapping the current manual process from trigger to final handoff. Once 
 
 ### Which tools are usually needed for how to sync obsidian with self hosted servers?
 
-Most teams need an intake source, a workflow automation tool, a database or CRM, and a notification channel. The exact stack matters less than having clear field names, ownership, and error handling.
+Most teams need an intake source, a [workflow automation](/posts/n8n-workflow-for-syncing-obsidian-with-notion/) tool, a database or CRM, and a notification channel. The exact stack matters less than having clear field names, ownership, and error handling.
 
 ### How do you avoid automation mistakes?
 

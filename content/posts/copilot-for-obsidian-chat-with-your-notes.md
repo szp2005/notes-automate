@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Copilot for Obsidian Complete Guide: Chat With Your Notes
 
-> **Quick Answer:** Copilot for Obsidian is a community plugin that integrates large language models (LLMs) directly into your Obsidian vault. It allows you to chat with your existing markdown notes, summarize long documents, and generate text using either cloud-based APIs like OpenAI and Anthropic, or [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/)-focused local models via Ollama and LM Studio.
+> **Quick Answer:** Copilot for Obsidian is a [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugin that integrates large language models (LLMs) directly into your Obsidian vault. It allows you to chat with your existing markdown notes, summarize long documents, and generate text using either cloud-based APIs like OpenAI and Anthropic, or [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/)-focused local models via Ollama and LM Studio.
 
 Managing a growing Obsidian vault eventually presents a scaling problem. As your collection of [daily notes](/posts/automate-obsidian-daily-notes-using-python/), [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) clips, and meeting minutes expands from hundreds to thousands of markdown files, standard search functions become insufficient. You remember writing down a specific insight about a project three months ago, but keyword searches only bring up fragmented context.
 
@@ -94,7 +94,7 @@ Copilot reads the markdown file currently in focus, appends your prompt, and ret
 To ask questions across multiple notes, you need to ensure Copilot is utilizing your vault context. You can use the `@` command in the chat interface to explicitly reference other files or folders in your vault.
 
 *   **Prompt:** "@folder:Meeting-Notes Based on the last four weeks of meetings, what are the recurring blockers preventing the completion of Project X?"
-*   **Prompt:** "@note:2025-Q1-Goals @note:2025-Q2-Goals Compare these two planning documents and list the goals that were carried over."
+*   **Prompt:** "@note:2025-Q1-Goals @note:2025-Q2-Goals Compare these two [planning](/posts/obsidian-full-calendar-plugin-review/) documents and list the goals that were carried over."
 
 *Note: Vault-wide queries consume significantly more tokens. Ensure you are using an API with a sufficient context limit and are monitoring your API usage costs if using cloud providers.*
 
@@ -121,7 +121,7 @@ Furthermore, when using paid APIs like OpenAI or Anthropic, every word sent to t
 
 ## Conclusion
 
-Integrating an AI copilot into your Obsidian [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) transforms the application from a static filing cabinet into an active research assistant. By setting up Copilot for Obsidian, you gain the ability to rapidly interrogate your own thoughts, summarize dense material, and surface forgotten connections. Whether you choose the raw power of cloud APIs for massive context synthesis or rely on local models to maintain absolute data sovereignty, treating your notes as a conversational interface is a significant upgrade to [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/). The key to success lies in understanding the limitations of context windows and utilizing targeted prompts to extract precise value from your localized data.
+Integrating an AI copilot into your Obsidian [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) transforms the application from a static filing cabinet into an active research assistant. By setting up Copilot for Obsidian, you gain the ability to rapidly interrogate your own thoughts, summarize dense material, and surface forgotten connections. Whether you choose the raw power of cloud APIs for massive context synthesis or rely on local models to maintain absolute data sovereignty, treating your notes as a conversational interface is a significant upgrade to [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/). The key to success lies in understanding the limitations of context windows and utilizing targeted prompts to extract precise value from your localized data.
 
 ## Frequently Asked Questions
 

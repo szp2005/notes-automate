@@ -49,7 +49,7 @@ This modular approach allows you to see instantly if a chapter is overloaded wit
 
 ## Building Dynamic Dashboards and Home Pages
 
-Your vault's entry point sets the tone for your entire [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). A visual dashboard built on a Canvas can be far more engaging and functionally dense than a standard markdown index note.
+Your vault's entry point sets the tone for your entire [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). A visual dashboard built on a Canvas can be far more engaging and functionally dense than a standard markdown index note.
 
 ### The Daily Operations Center
 Design a central home Canvas that you open first thing in the morning. Include a card that embeds your daily note or your primary task list. Right next to it, place a card linking to your current highest-priority project. 
@@ -63,7 +63,7 @@ This creates a literal, interactive map of your knowledge. Navigation becomes va
 
 ## Managing Daily Tasks and Complex Projects
 
-Task management in Obsidian is often handled by plugins like Tasks or Dataview, but for those who prefer Kanban boards or visual [project management](/posts/obsidian-project-management-academic-research-teams/), the Canvas offers flexibility.
+Task management in Obsidian is often handled by [plugins](/posts/periodic-notes-plugin-weekly-reviews/) like Tasks or Dataview, but for those who prefer Kanban boards or visual [project management](/posts/obsidian-project-management-academic-research-teams/), the Canvas offers flexibility.
 
 ### The Freeform Kanban Board
 Create a Canvas to act as your project pipeline. Draw three large group boxes: "To Do," "Doing," and "Done." Instead of simple text tasks, drop entire project notes, reference images, or bug reports into the "To Do" box. As you work through your week, physically drag these notes from one column to the next. This tactile interaction provides a sense of accomplishment and allows you to attach extensive context to a task that a simple checkbox cannot accommodate.
@@ -81,7 +81,7 @@ When starting a new project, double-click anywhere on the Canvas to create a new
 Once you have a scattered, chaotic mess of ideas across the screen, begin the sorting phase. Drag related cards closer together. Draw connections between concepts that unexpectedly share a common thread. The physical act of moving the cards around on the screen often triggers the realization of exactly how the project should be structured.
 
 ### Process Flowcharts and Systems Design
-If you are designing a software system, a customer user journey, or a technical architecture, use the Canvas to build comprehensive flowcharts. Create cards for each step in the process and link them with directional arrows. Because these cards are fully functional Obsidian notes rather than static shapes, you can click into any step of the flowchart to read detailed [documentation](/posts/using-obsidian-to-manage-n8n-workflow-documentation/), write executable code snippets, or check off tasks related to that specific component.
+If you are designing a software system, a customer user journey, or a technical architecture, use the Canvas to build comprehensive flowcharts. Create cards for each step in the process and link them with directional arrows. Because these cards are fully functional Obsidian notes rather than static shapes, you can click into any step of the flowchart to read detailed [documentation](/posts/using-obsidian-to-manage-n8n-workflow-documentation/), write executable [code snippets](/posts/best-obsidian-plugins-for-developers-and-code-snippets/), or check off tasks related to that specific component.
 
 ## Practical Advice for Canvas Management
 

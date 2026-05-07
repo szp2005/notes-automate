@@ -49,7 +49,7 @@ A **CSS snippet** is a small `.css` file containing one or more rules that overr
 
 - **Precision.** You change exactly what bothers you without affecting everything else.
 - **Stackable.** You can run 10 snippets at once, each handling a different element.
-- **Theme-agnostic.** They work on top of any community theme. Use Minimal Theme as your base and layer your own tweaks on top.
+- **Theme-agnostic.** They work on top of any community theme. Use [Minimal Theme](/posts/minimal-theme-obsidian-review/) as your base and layer your own tweaks on top.
 - **Zero lock-in.** Toggle any snippet off with a single click. Nothing is permanent.
 
 If you've ever installed a community theme and thought "I love everything except those ugly blockquotes," snippets are the answer.
@@ -70,7 +70,7 @@ You don't need to touch a terminal or install anything.
 
 **Step 5:** Paste your CSS rules into the file and save it. Back in Obsidian's Appearance settings, click the **refresh icon** next to the CSS snippets heading. Your new file will appear in the list with a toggle switch. Flip it on.
 
-That's the entire [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). Every time you edit a snippet file and save it, Obsidian hot-reloads it automatically — you can see changes in real time.
+That's the entire [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). Every time you edit a snippet file and save it, Obsidian hot-reloads it automatically — you can see changes in real time.
 
 ---
 
@@ -89,7 +89,7 @@ Let's build confidence before moving to complex stuff. Here are two snippets tha
 }
 ```
 
-**What this does:** Switches the editor and reading view to Georgia at 17px with comfortable line spacing. Replace `'Georgia', serif` with any font installed on your system — `'Inter'`, `'Fira Code'`, `'Merriweather'` — or reference a Google Font after importing it.
+**What this does:** Switches the editor and reading view to Georgia at 17px with comfortable line spacing. Replace `'Georgia', serif` with any font installed on your system — `'Inter'`, `'Fira Code'`, `'Merriweather'` — or reference a [Google](/posts/how-to-sync-obsidian-with-google-drive-using-a-plugin/) Font after importing it.
 
 ### Color Your H1 Headings
 

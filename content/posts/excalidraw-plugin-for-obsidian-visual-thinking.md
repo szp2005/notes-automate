@@ -11,7 +11,7 @@ type: "informational"
 
 # Excalidraw Plugin for Obsidian: Visual Thinking Complete Guide
 
-> **Quick Answer:** The Excalidraw plugin for Obsidian bridges the gap between text-based [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) and visual thinking by allowing you to embed, edit, and link hand-drawn diagrams directly within your markdown vault. It enables bi-directional linking within sketches, transclusion of notes onto the canvas, and seamless integration of visual spatial organization into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system.
+> **Quick Answer:** The Excalidraw plugin for Obsidian bridges the gap between text-based [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) and visual thinking by allowing you to embed, edit, and link hand-drawn diagrams directly within your markdown vault. It enables bi-directional linking within sketches, transclusion of notes onto the canvas, and seamless integration of visual spatial organization into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system.
 
 Traditional text-based note-taking excels at capturing structured thoughts, linear arguments, and detailed records. However, when dealing with complex systems, architectural layouts, or brainstorming sessions, rigid lines of text often fail to capture the spatial relationships between ideas. This limitation forces many to split their workflow across multiple applications—using one tool for writing and another for diagramming, creating friction and siloed information.
 
@@ -73,11 +73,11 @@ When you embed an Excalidraw drawing into a markdown note using `![[Drawing Name
 
 ### Utilizing the Automate Functionality
 
-For [advanced users](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), the Excalidraw plugin includes an [Automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) script engine (Excalidraw Automate). This allows you to write JavaScript snippets to manipulate the canvas programmatically. You can create scripts to generate mind maps from standard markdown outlines, format specific shapes based on their content, or automatically arrange nodes. While not necessary for basic visual thinking, Automate provides infinite extensibility for those who want to build complex, self-organizing visual systems.
+For [advanced users](/posts/explaining-obsidian-properties-for-advanced-[metadata](/posts/explaining-obsidian-metadata-menu-for-structured-data/)-schemas/), the Excalidraw plugin includes an [Automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) script engine (Excalidraw Automate). This allows you to write JavaScript snippets to manipulate the canvas programmatically. You can create scripts to generate mind maps from standard markdown outlines, format specific shapes based on their content, or automatically arrange nodes. While not necessary for basic visual thinking, Automate provides infinite extensibility for those who want to build complex, self-organizing visual systems.
 
 ## The Limits of Visual Thinking in Obsidian
 
-While the Excalidraw plugin is immensely powerful, it is important to recognize when *not* to use it. A common pitfall is attempting to force highly structured, tabular data into a spatial format. If you are managing a database of client contacts or tracking repetitive tasks, standard markdown tables or plugins like Dataview are significantly more efficient.
+While the Excalidraw plugin is immensely powerful, it is important to recognize when *not* to use it. A common pitfall is attempting to force highly structured, tabular data into a spatial format. If you are managing a database of client contacts or tracking repetitive tasks, standard markdown tables or [plugins](/posts/periodic-notes-plugin-weekly-reviews/) like Dataview are significantly more efficient.
 
 Additionally, very large canvases with hundreds of embedded markdown files can begin to impact performance on older machines or mobile devices. It is generally better practice to create smaller, focused diagrams that link to one another, rather than building a single, monolithic whiteboard that encompasses your entire vault. Use visual thinking for relationships, architecture, and ideation; rely on text for structure, querying, and long-form writing.
 

@@ -27,7 +27,7 @@ First, Obsidian is entirely plain text. Your documentation is stored as standard
 
 Second, it is local-first. There is zero latency when searching across tens of thousands of notes, API endpoints, or error logs. You can document server outages while offline on a plane, and the interface responds instantly. 
 
-Finally, Obsidian aligns with the "Docs as Code" philosophy. Because the files are text, you can version control them with Git, lint them, run regular expressions across them, and publish them via static site generators like Astro or Hugo. 
+Finally, Obsidian aligns with the "Docs as Code" philosophy. Because the files are text, you can [version control](/posts/setting-up-obsidian-git-for-automated-version-control/) them with Git, lint them, run regular expressions across them, and publish them via static site generators like Astro or Hugo. 
 
 ## Step 1: Architecting Your Developer Vault
 
@@ -103,7 +103,7 @@ Because of bidirectional linking, your ADR for `[[Switching from REST to GraphQL
 
 ## Step 7: Version Control and Team Syncing
 
-If you are using Obsidian solely for personal developer notes, Obsidian Sync is a secure, encrypted option for syncing your vault across devices. However, if you want to integrate your documentation with your engineering [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), Git is the superior choice.
+If you are using Obsidian solely for personal developer notes, Obsidian Sync is a secure, encrypted option for syncing your vault across devices. However, if you want to integrate your documentation with your engineering [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/), Git is the superior choice.
 
 Using the **Obsidian Git** community plugin, you can configure your vault to automatically back up to a private GitHub, GitLab, or Bitbucket repository every few minutes. 
 
@@ -137,7 +137,7 @@ By using a local-first Markdown editor, you eliminate the latency and proprietar
 ## Frequently Asked Questions
 
 ### Can I sync Obsidian with my team's GitHub repository?
-Yes. By using the Obsidian Git community plugin, you can automatically commit and push your local vault changes to any standard Git repository. This allows engineering teams to collaborate on documentation using standard pull request workflows and branch management.
+Yes. By using the Obsidian Git community plugin, you can automatically commit and push your local vault changes to any standard Git repository. This allows engineering teams to collaborate on documentation using standard pull request [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) and branch management.
 
 ### Is Obsidian better than Notion for coding?
 For pure coding and engineering work, Obsidian generally outperforms Notion. Obsidian is local-first, meaning it has zero latency and works entirely offline. Furthermore, Obsidian's files are standard Markdown, which means they can be processed by command-line tools, linters, and native Git version control, whereas Notion relies on a proprietary cloud database.

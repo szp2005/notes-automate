@@ -19,7 +19,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 **TL;DR**
 - Obsidian callouts use a simple `> [!TYPE]` syntax to create visually distinct blocks that make notes scannable in seconds.
-- The 12 built-in types cover most needs, but five copy-paste [CSS snippets](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/) in this guide give you [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)-specific callouts like `[!action]` and `[!key]` immediately.
+- The 12 built-in types cover most needs, but five copy-paste [CSS snippets](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/) in this guide give you [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/)-specific callouts like `[!action]` and `[!key]` immediately.
 - Connecting callouts to PARA, [Zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/), and Evergreen Note [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) turns a formatting trick into a genuine thinking tool.
 
 ---
@@ -47,7 +47,7 @@ A callout is a visually distinct block inside your note. It has a colored left b
 Compare two versions of the same note section:
 
 **Without callouts:**
-> Warning: Do not delete the raw source files before archiving. Action: Schedule backup by Friday. Key insight: This bottleneck affects every downstream process.
+> Warning: Do not delete the raw source files before archiving. Action: Schedule [backup](/posts/what-is-the-obsidian-git-plugin-for/) by Friday. Key insight: This bottleneck affects every downstream process.
 
 That text is a wall. Your eye has nowhere to land.
 
@@ -345,7 +345,7 @@ Obsidian uses [Lucide icons](https://lucide.dev). The icon name in CSS must matc
 
 ### Q: Are callouts the same as admonitions?
 
-Functionally yes. "Admonitions" was the term used with the community plugin of that name. Obsidian's native callouts replaced that plugin in version 0.14 and are built into core — no plugin needed.
+Functionally yes. "Admonitions" was the term used with the [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugin of that name. Obsidian's native callouts replaced that plugin in version 0.14 and are built into core — no plugin needed.
 
 ### Q: Will callouts slow down Obsidian in a large vault?
 

@@ -38,7 +38,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ## The Core Dilemma: Paid Convenience vs. Free Control {#the-core-dilemma}
 
-Obsidian stores your notes as plain Markdown files on your local drive. That's a deliberate design choice — your data stays yours. The problem is "local-first" means syncing across your laptop, desktop, phone, and tablet becomes your problem, not the app's.
+Obsidian stores your notes as plain [Markdown](/posts/comparison-of-mobile-markdown-editors-for-ios-android/) files on your local drive. That's a deliberate design choice — your data stays yours. The problem is "local-first" means syncing across your laptop, desktop, phone, and tablet becomes your problem, not the app's.
 
 Obsidian's official answer is Obsidian Sync, a polished paid add-on. The [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/)'s most popular free answer is Syncthing, an open-source peer-to-peer sync tool. Both work. Neither is objectively superior. The right choice depends entirely on your situation.
 
@@ -88,7 +88,7 @@ Syncthing is an open-source file synchronization program maintained by a nonprof
 
 **The catch:** Syncthing is peer-to-peer. For two devices to sync, at least one of them must be online. If your phone and laptop are both off, nothing syncs. The practical solution is an always-on device — a home server, a Raspberry Pi, a Synology NAS, or a cheap cloud VPS — that acts as a relay node. This is not strictly required, but without it, syncing only happens when both devices are running simultaneously.
 
-**Who it is for:** Privacy advocates who are uncomfortable with any third party holding their notes (even encrypted), [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) comfortable with terminal commands and configuration files, and anyone who needs to eliminate a recurring subscription.
+**Who it is for:** Privacy advocates who are uncomfortable with any third party holding their notes (even encrypted), [developers](/posts/best-obsidian-plugins-for-developers-and-code-[snippets](/posts/how-to-customize-obsidian-appearance-with-css-snippets/)/) comfortable with terminal commands and configuration files, and anyone who needs to eliminate a recurring subscription.
 
 ---
 
@@ -149,7 +149,7 @@ Download Möbius Sync from the App Store. Open it and go to **Add Folder**. Copy
 
 For reliable sync when your devices are not on the same network, you need a device that is always on. Options:
 
-- **Home option:** A Raspberry Pi 4 ($50–80) running Syncthing, plugged in to your router. Initial setup takes about two hours. After that, it runs indefinitely with near-zero power draw.
+- **Home option:** A Raspberry Pi 4 ($50–80) running Syncthing, plugged in to your router. Initial setup takes about two hours. After that, it runs indefinitely with near-zero [power](/posts/using-obsidian-tasks-plugin-for-project-management/) draw.
 - **Cloud option:** A $5/month VPS from DigitalOcean or Vultr with Syncthing installed. This is better if you travel often — a home server on your home network still needs your router to be reachable from the internet (which requires port forwarding or a relay). A cloud VPS handles this automatically.
 
 ---

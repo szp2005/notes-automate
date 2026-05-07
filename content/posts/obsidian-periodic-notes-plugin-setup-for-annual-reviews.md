@@ -23,7 +23,7 @@ This guide details the exact Obsidian periodic notes plugin setup for annual rev
 
 ## The Core Tool Stack for Yearly Reviews
 
-To build an automated, friction-free annual review system, you need three specific community plugins working in tandem. Here is a review of the essential components for your stack.
+To build an automated, friction-free annual review system, you need three specific community [plugins](/posts/periodic-notes-plugin-weekly-reviews/) working in tandem. Here is a review of the essential components for your stack.
 
 ### 1. Periodic Notes Plugin
 
@@ -31,7 +31,7 @@ To build an automated, friction-free annual review system, you need three specif
 **Price:** Free
 **Rating:** 5/5
 
-The Periodic Notes plugin by Liam Cain is the structural foundation of this [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). It directly extends Obsidian's native daily notes functionality by introducing dedicated frameworks for weekly, monthly, quarterly, and yearly notes. For annual reviews, it handles the routing, creation, and formatting of your ultimate review document, ensuring it lives exactly where it belongs in your vault hierarchy.
+The Periodic Notes plugin by Liam Cain is the structural foundation of this [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/). It directly extends Obsidian's native daily notes functionality by introducing dedicated frameworks for weekly, monthly, quarterly, and yearly notes. For annual reviews, it handles the routing, creation, and formatting of your ultimate review document, ensuring it lives exactly where it belongs in your vault hierarchy.
 
 **Pros:**
 - Creates a seamless hierarchy from days to years
@@ -56,7 +56,7 @@ While Periodic Notes handles the creation of your yearly review file, Templater 
 - Replaces standard Obsidian templates entirely
 
 **Cons:**
-- Syntax syntax can be punishing for beginners
+- Syntax syntax can be punishing for [beginners](/posts/obsidian-vault-structure-digital-gardening-beginners/)
 - Excessive automation can lead to bloated notes
 
 ### 3. Dataview Plugin

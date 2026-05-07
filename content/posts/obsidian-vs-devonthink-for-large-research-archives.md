@@ -19,11 +19,11 @@ Knowledge workers, [academic researchers](/posts/using-obsidian-for-longitudinal
 
 The debate between Obsidian and DEVONthink represents a fundamental divergence in how we approach information architecture. One system relies on decentralized, networked thought built atop universally readable text files. The other acts as a monolithic, highly intelligent database designed to index and retrieve every document type across a specific operating system environment. 
 
-Choosing between Obsidian and DEVONthink for large research archives requires evaluating how you capture information, how you retrieve it, and the file formats that dominate your day-to-day [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). This comparison examines how both platforms scale when pushed to the limits of personal research environments.
+Choosing between Obsidian and DEVONthink for large research archives requires evaluating how you capture information, how you retrieve it, and the file formats that dominate your day-to-day [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). This comparison examines how both platforms scale when pushed to the limits of personal research environments.
 
 ## The Architecture of Scale
 
-When an archive surpasses the 10,000-document threshold, search speed, metadata handling, and file integrity become critical. Standard [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/) applications often suffer from latency, indexing failures, or interface freezing under this weight.
+When an archive surpasses the 10,000-document threshold, search speed, [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) handling, and file integrity become critical. Standard [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/) applications often suffer from latency, indexing failures, or interface freezing under this weight.
 
 DEVONthink approaches scale through an internal database structure. While it can index external folders, its native behavior involves importing files into its proprietary database bundles. This allows it to generate complex concordances, run rapid Boolean searches across millions of words, and apply machine learning algorithms to categorize files locally. It is a digital filing cabinet engineered for bulk processing.
 
@@ -57,7 +57,7 @@ For users dealing with gigabytes of legal briefs, academic papers, downloaded we
 
 Obsidian represents the pinnacle of networked thought tools. Operating strictly over a local directory of Markdown files, it enables you to build a highly customized web of knowledge using bi-directional links. Because all data remains in standard formats, you have absolute assurance that your archive will be readable decades from now, independent of any specific software vendor.
 
-Where Obsidian shines is in the synthesis phase of research. The ability to view connections via the Graph View, query your notes using the community Dataview plugin, and visually arrange concepts on infinite Canvas boards makes it an unmatched environment for drafting and ideation. It forces a more deliberate, active form of note-taking rather than passive hoarding. 
+Where Obsidian shines is in the synthesis phase of research. The ability to view connections via the Graph View, query your notes using the community [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) plugin, and visually arrange concepts on infinite Canvas boards makes it an unmatched environment for drafting and ideation. It forces a more deliberate, active form of note-taking rather than passive hoarding. 
 
 **Pros:**
 - Future-proof archive built entirely on plain-text markdown files

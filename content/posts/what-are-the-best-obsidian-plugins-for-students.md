@@ -13,11 +13,11 @@ tags: ["obsidian", "students", "study tools", "academic workflow"]
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# What Are the Best Obsidian Plugins for Students? A [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)-Based Guide
+# What Are the Best Obsidian Plugins for Students? A [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/)-Based Guide
 
 > **TL;DR**
 > - The best Obsidian plugins for students aren't random additions — they map directly to specific academic tasks: researching, writing, and reviewing for exams.
-> - Core plugins like Dataview, [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/), and Zotero Integration do the heavy lifting most students actually need; flashy extras are optional.
+> - Core plugins like [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/), [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/), and Zotero Integration do the heavy lifting most students actually need; flashy extras are optional.
 > - This guide walks you through a complete student vault setup, including a starter template, plugin-by-plugin breakdowns, and a real workflow example from first source to final flashcard.
 
 ---
@@ -294,7 +294,7 @@ If you prefer video instruction to written guides, there are excellent structure
 
 ### How do I sync my Obsidian notes between my laptop and phone?
 
-The cleanest paid option is Obsidian Sync, which costs $4/month with a student discount available. It's end-to-end encrypted and built by the Obsidian team, so it handles plugin settings and themes correctly. Free alternatives include iCloud (Mac/iPhone only, works reasonably well), Syncthing (self-hosted, free, slightly technical to set up), or a Git-based workflow via the Obsidian Git plugin if you're comfortable with GitHub.
+The cleanest paid option is Obsidian Sync, which costs $4/month with a student discount available. It's end-to-end encrypted and built by the Obsidian team, so it handles plugin settings and [themes](/posts/things-theme-vs-minimal-theme-obsidian/) correctly. Free alternatives include iCloud (Mac/iPhone only, works reasonably well), Syncthing (self-hosted, free, slightly technical to set up), or a Git-based workflow via the Obsidian Git plugin if you're comfortable with GitHub.
 
 ### Is Obsidian free for students?
 

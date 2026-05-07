@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The best Obsidian plugins for developers and code snippets are Code Styler for aesthetic and functional block formatting, Execute Code for running scripts directly within your notes, and Obsidian Git for seamless [version control](/posts/setting-up-obsidian-git-for-automated-version-control/). Combined with Editor Syntax Highlight, these tools transform Obsidian from a standard markdown app into a powerful, offline-first snippet manager and development knowledge base.
 
-Obsidian has rapidly become the default [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) tool for software engineers, systems administrators, and data scientists. Because it uses local, plain-text markdown files, it inherently respects developer workflows. You maintain complete ownership of your data, and your notes can easily live alongside your codebase in version control.
+Obsidian has rapidly become the default [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) tool for software engineers, systems administrators, and data scientists. Because it uses local, plain-text markdown files, it inherently respects developer [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/). You maintain complete ownership of your data, and your notes can easily live alongside your codebase in version control.
 
 However, the vanilla Obsidian experience leaves some functionality on the table when it comes to managing code. Out of the box, code blocks lack line numbers, you cannot run scripts directly from your notes, and managing a growing library of reusable snippets can become cumbersome. 
 
@@ -48,7 +48,7 @@ Beyond aesthetics, Code Styler adds a dedicated copy button to every block, elim
 **Price:** Free
 **Rating:** 4.7/5
 
-Execute Code bridges the gap between static notes and an active development environment. If you document API calls, data transformation scripts, or shell commands, this plugin allows you to run them directly from the markdown file. It supports a wide array of languages including Python, JavaScript, Bash, Go, and C++.
+Execute Code bridges the gap between static notes and an active development environment. If you document API calls, data transformation scripts, or shell commands, this plugin allows you to run them directly from the markdown file. It supports a wide array of languages including [Python](/posts/connecting-obsidian-to-external-api-with-python/), JavaScript, Bash, Go, and C++.
 
 When you execute a block, the plugin captures the standard output and standard error, appending it directly below the code block in your note. This is invaluable for creating interactive [documentation](/posts/using-obsidian-to-manage-n8n-workflow-documentation/), testing regex patterns, or maintaining a runbook for server deployments where you want to see the immediate result of a command without switching to a terminal.
 
@@ -93,7 +93,7 @@ This serves dual purposes: it acts as a reliable, free backup solution, and it a
 **Pros:**
 - Completely free synchronization and backup solution
 - Leverages industry-standard version control paradigms
-- Allows for branching and collaborative [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)
+- Allows for branching and collaborative [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/)
 
 **Cons:**
 - Requires familiarity with Git fundamentals

@@ -27,7 +27,7 @@ Folders in Obsidian map directly to the operating system's directory structure (
 
 ### Rigid Hierarchy and Exclusivity
 
-The defining characteristic of a folder is mutual exclusivity. A specific Markdown file can only exist in one folder at a time. If you write a note titled `2026-Marketing-Budget.md`, it must live in the `Marketing` folder, the `Finance` folder, or the `2026-Planning` folder. It cannot live in all three simultaneously. 
+The defining characteristic of a folder is mutual exclusivity. A specific Markdown file can only exist in one folder at a time. If you write a note titled `2026-Marketing-Budget.md`, it must live in the `Marketing` folder, the `Finance` folder, or the `2026-[Planning](/posts/obsidian-full-calendar-plugin-review/)` folder. It cannot live in all three simultaneously. 
 
 This strict physical location forces a top-down hierarchy. You must make a definitive decision about a note's primary categorization the moment you create it. While this rigidity can cause filing anxiety for nuanced notes, it provides a strong skeleton for your vault. When a file system has a predictable structure, it becomes portable. If you ever move away from Obsidian, that folder structure remains perfectly intact on your hard drive, completely independent of any software.
 
@@ -55,7 +55,7 @@ Tags create a bottom-up, associative network. They allow you to pull together di
 
 Tags are optimized for cross-cutting attributes that span multiple categories or change frequently over time.
 
-**[Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) and Status Tracking:** Tags are the standard mechanism for tracking a note's lifecycle. Tags like `#status/draft`, `#status/in-progress`, or `#action-item` allow you to query your vault for actionable work regardless of where the file actually lives. When the work is done, you simply delete or update the tag—you do not have to drag the file into a new folder.
+**[Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) and Status Tracking:** Tags are the standard mechanism for tracking a note's lifecycle. Tags like `#status/draft`, `#status/in-progress`, or `#action-item` allow you to query your vault for actionable work regardless of where the file actually lives. When the work is done, you simply delete or update the tag—you do not have to drag the file into a new folder.
 
 **Thematic Grouping:** When researching complex topics, notes often touch on multiple subjects. A reading note on a psychology book might be relevant to behavioral economics, habit formation, and management theory. Tagging the note with `#psychology`, `#economics`, and `#management` ensures the note surfaces whenever you search any of those specific [themes](/posts/things-theme-vs-minimal-theme-obsidian/).
 
@@ -106,7 +106,7 @@ When you search for `#source`, Obsidian will return every book, article, and pod
 
 ### Leveraging Dataview for Advanced Architecture
 
-For users who push Obsidian to its limits, the community plugin Dataview changes the folder vs tag dynamic entirely. Dataview allows you to write SQL-like queries to generate dynamic tables of your notes.
+For users who push Obsidian to its limits, the [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugin Dataview changes the folder vs tag dynamic entirely. Dataview allows you to write SQL-like queries to generate dynamic tables of your notes.
 
 Folders and tags become equally powerful query sources. You can instruct Dataview to build a dashboard showing all notes `FROM "Work/Projects"` that also contain the tag `#status/active`. Understanding that folders define the permanent pool of files, while tags define the temporary filter, allows you to build highly automated project [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) that update themselves as you add or remove tags from files.
 

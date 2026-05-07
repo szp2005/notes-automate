@@ -38,7 +38,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Here's a vault most Obsidian users recognize: 847 daily notes dumped in the root folder, named `2024-01-15.md` through `2025-03-04.md`, no templates, no linking between days, and zero weekly reviews. You *remember* writing something important about a project in February but searching "project" returns 200 results. Congratulations — you have built a digital junk drawer.
 
-The Periodic Notes plugin, developed by Liam Cain, solves a structural problem, not a [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) problem. It enforces a time-based hierarchy: daily notes feed into weekly notes, weekly notes feed into monthly notes, and so on up to yearly retrospectives. Each level lives in its own folder, opens from a hotkey, and auto-populates from a template you define once.
+The Periodic Notes plugin, developed by Liam Cain, solves a structural problem, not a [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) problem. It enforces a time-based hierarchy: daily notes feed into weekly notes, weekly notes feed into monthly notes, and so on up to yearly retrospectives. Each level lives in its own folder, opens from a hotkey, and auto-populates from a template you define once.
 
 The philosophy here is the same one Tiago Forte outlines in Building a Second Brain — capture consistently, organize by action, and review regularly. Periodic Notes automates the "organize" and "review" steps so you stop deciding and start doing.
 
@@ -50,7 +50,7 @@ The philosophy here is the same one Tiago Forte outlines in Building a Second Br
 | No template consistency | Same template opens every morning via hotkey |
 | No [weekly review](/posts/obsidian-template-for-weekly-reflection-and-planning/) habit | Friday hotkey opens pre-built review template |
 | Monthly planning done in random notes | Monthly note auto-created on the 1st, links to that month's dailies |
-| Quarterly goals lost somewhere | `Q1-2025.md` created automatically, Dataview pulls all monthly wins |
+| Quarterly goals lost somewhere | `Q1-2025.md` created automatically, [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) pulls all monthly wins |
 
 That table represents four weeks of real vault reorganization compressed into one plugin configuration session.
 
@@ -176,7 +176,7 @@ where file.name >= "<% tp.date.now("YYYY-MM-DD", 0, "day", -tp.date.now("d") + 1
 \`\`\`
 ```
 
-For task management that syncs across these notes, [Setapp bundles several apps (including OmniFocus-compatible workflows) that pair cleanly with an Obsidian-based daily review system.
+For [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) that syncs across these notes, [Setapp bundles several apps (including OmniFocus-compatible workflows) that pair cleanly with an Obsidian-based daily review system.
 
 ---
 

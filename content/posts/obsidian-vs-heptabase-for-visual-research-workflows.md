@@ -13,9 +13,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian vs Heptabase for Visual Research Workflows: Which Is Better?
 
-> **Quick Answer:** For pure, frictionless visual sense-making with heavy PDF integration, Heptabase is the superior choice due to its purpose-built architecture. However, if data privacy, offline-first storage, and deep customization are your priorities, Obsidian with its native Canvas plugin offers a highly capable, budget-friendly alternative for visual research workflows.
+> **Quick Answer:** For pure, frictionless visual sense-making with heavy PDF integration, Heptabase is the superior choice due to its purpose-built architecture. However, if data [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/), offline-first storage, and deep customization are your priorities, Obsidian with its native Canvas plugin offers a highly capable, budget-friendly alternative for visual research workflows.
 
-When managing complex academic papers, market research, or intricate world-building, traditional linear [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) often breaks down. Text documents force a top-to-bottom reading path that fails to capture the lateral connections between disparate ideas. This is where visual research workflows come in—allowing you to map concepts spatially on an infinite whiteboard, group related evidence visually, and see the "big picture" alongside the granular details.
+When managing complex academic papers, market research, or intricate world-building, traditional linear [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) often breaks down. Text documents force a top-to-bottom reading path that fails to capture the lateral connections between disparate ideas. This is where visual research workflows come in—allowing you to map concepts spatially on an infinite whiteboard, group related evidence visually, and see the "big picture" alongside the granular details.
 
 In the rapidly evolving landscape of personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM), two tools have emerged as heavyweights for spatial reasoning: Obsidian and Heptabase. Both offer powerful whiteboard features, bi-directional linking, and robust text editing. Yet, their underlying philosophies, architectures, and pricing models are fundamentally different. 
 
@@ -107,7 +107,7 @@ Visual thinkers often have highly specific preferences for how their environment
 
 **Obsidian** is famously customizable. With thousands of community plugins and [themes](/posts/things-theme-vs-minimal-theme-obsidian/), you can mold the software to do almost anything. Want to run [Python](/posts/connecting-obsidian-to-external-api-with-python/) scripts inside your notes? Integrate with [Zotero](/posts/zotero-integration-for-obsidian-academic-research/)? Build Kanban boards on your canvas? There is a plugin for that. This flexibility is Obsidian's greatest strength, but it can also be a distraction, leading users to spend more time "building the system" than doing actual research.
 
-**Heptabase** takes an opinionated approach. The developers have designed a specific workflow, and the tool guides you toward using it. There are no community plugins and minimal aesthetic customization options. The interface is clean, modern, and highly focused. This lack of customization is intentional; it forces you to stop tinkering with settings and start synthesizing your research.
+**Heptabase** takes an opinionated approach. The [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) have designed a specific workflow, and the tool guides you toward using it. There are no community plugins and minimal aesthetic customization options. The interface is clean, modern, and highly focused. This lack of customization is intentional; it forces you to stop tinkering with settings and start synthesizing your research.
 
 ## Practical Advice for Setting Up Your Workflow
 

@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best Obsidian Themes for Dark Mode in 2026: Top Picks
 
-> **Quick Answer:** The best Obsidian themes for dark mode in 2026 are Minimal for distraction-free writing, AnuPpuccin for deep customization and soft contrasts, and Things for structured [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/). Your ideal choice depends heavily on whether your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) prioritizes long-form writing, visual flair, or dashboard management.
+> **Quick Answer:** The best Obsidian themes for dark mode in 2026 are Minimal for distraction-free writing, AnuPpuccin for deep [customization](/posts/minimal-theme-for-obsidian-customization-tips/) and soft contrasts, and Things for structured [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/). Your ideal choice depends heavily on whether your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) prioritizes long-form writing, visual flair, or dashboard management.
 
 Spending hours inside a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system requires a UI that reduces eye strain while keeping critical information legible. The default Obsidian dark mode provides a solid foundation, but community [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) have pushed the boundaries of what the application's CSS engine can handle. In 2026, themes have evolved beyond simple color swaps into comprehensive workspace overlays that integrate seamlessly with complex plugins.
 
@@ -157,7 +157,7 @@ Consider overriding your theme's default fonts with dedicated screen-reading fon
 
 Complex themes often conflict with complex plugins. Dataview tables, Calendar widgets, and Kanban boards inject their own HTML structures that a theme must account for. When evaluating a dark mode setup, immediately load your most complex note. 
 
-Check the borders of Dataview tables—are they visible against the dark background? Look at your calendar plugin—is the active day highlighted with sufficient contrast? Themes like Minimal and AnuPpuccin have dedicated CSS snippets specifically designed to harmonize with these popular plugins, ensuring the dark UI remains unbroken across your entire workflow.
+Check the borders of Dataview tables—are they visible against the dark background? Look at your calendar plugin—is the active day highlighted with sufficient contrast? Themes like Minimal and AnuPpuccin have dedicated [CSS snippets](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/) specifically designed to harmonize with these popular plugins, ensuring the dark UI remains unbroken across your entire workflow.
 
 ## Conclusion
 

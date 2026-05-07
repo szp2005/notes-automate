@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Automated Index Pages with Obsidian Dataview Setup: Complete Guide
 
-> **Quick Answer:** Creating automated index pages with Obsidian Dataview requires installing the Dataview community plugin and using its query language (DQL) to filter notes based on tags, folders, or [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/). By inserting a simple code block like ````dataview list from #projects```` into a note, Dataview dynamically generates an up-to-date list of all matching files, eliminating the need for manual link maintenance.
+> **Quick Answer:** Creating automated index pages with Obsidian Dataview requires installing the Dataview [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugin and using its query language (DQL) to filter notes based on tags, folders, or [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/). By inserting a simple code block like ````dataview list from #projects```` into a note, Dataview dynamically generates an up-to-date list of all matching files, eliminating the need for manual link maintenance.
 
 Managing a growing vault in Obsidian often feels like fighting a losing battle against entropy. As your collection expands from dozens of notes to thousands, finding what you need becomes increasingly difficult. Traditional folders offer rigid categorization, while manual links demand constant upkeep. If you forget to update your "Project Dashboard" or "Book Log" when creating a new file, that note becomes an orphan, lost in the digital void.
 
@@ -68,7 +68,7 @@ When you switch to reading mode or click away from the block, Dataview replaces 
 
 You are not limited to tags. You can index notes based on their location or their relationships to other notes.
 
-To list all files in the "Daily Notes" folder:
+To list all files in the "[Daily Notes](/posts/automate-obsidian-daily-notes-using-python/)" folder:
 ````markdown
 ```dataview
 LIST
@@ -182,7 +182,7 @@ Establish a rigid schema for your primary [workflows](/posts/automating-your-tas
 
 ## Conclusion
 
-Transitioning from manual linking to creating automated index pages with Obsidian Dataview represents a fundamental shift in personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/). It moves you away from the friction of maintenance and toward the flow of creation. By defining rules rather than hardcoding relationships, your vault transforms into an organic system that organizes itself in real-time. Start with simple list queries, standardize your metadata, and gradually build the tables and task views that match your specific cognitive [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
+Transitioning from manual linking to creating automated index pages with Obsidian Dataview represents a fundamental shift in personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/). It moves you away from the friction of maintenance and toward the flow of creation. By defining rules rather than hardcoding relationships, your vault transforms into an organic system that organizes itself in real-time. Start with simple list queries, standardize your metadata, and gradually build the tables and task views that match your specific cognitive [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/).
 
 ## Frequently Asked Questions
 
@@ -204,6 +204,8 @@ The most common cause is a metadata syntax error or a typo in the `WHERE` clause
 ---
 
 ## Related Reading
+
+- [How to Use Dataview Arrays for Complex Obsidian Tables: Complete Guide](/posts/using-dataview-arrays-for-complex-obsidian-tables/)
 
 - [Comparing Obsidian Frontmatter vs Inline Dataview Fields (2026)](/posts/comparing-obsidian-frontmatter-vs-inline-dataview-fields/)
 

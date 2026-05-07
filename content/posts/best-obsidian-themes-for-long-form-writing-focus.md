@@ -32,7 +32,7 @@ Firstly, **readability** is paramount. This encompasses thoughtful font choices 
 
 Secondly, **minimalism** is key. An ideal long-form writing theme strips away unnecessary UI elements, allowing your content to take center stage. This might involve subtle hiding of sidebars until hovered over, simplified icons, or a clean status bar. The goal is to reduce visual distractions that pull your attention away from your writing. Many themes offer a "focus mode" or "distraction-free mode" that further streamlines the interface.
 
-Thirdly, **customization options** are highly beneficial. While a theme provides a strong baseline, the ability to tweak font sizes, colors for specific elements (like links or highlights), and active line highlighting can personalize the experience to your exact preferences. Some themes integrate seamlessly with Obsidian's CSS snippets feature, allowing [advanced users](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) to make granular adjustments. Finally, robust **dark mode/light mode compatibility** ensures the theme looks and feels consistent regardless of your ambient lighting conditions or personal preference.
+Thirdly, **[customization](/posts/minimal-theme-for-obsidian-customization-tips/) options** are highly beneficial. While a theme provides a strong baseline, the ability to tweak font sizes, colors for specific elements (like links or highlights), and active line highlighting can personalize the experience to your exact preferences. Some themes integrate seamlessly with Obsidian's [CSS snippets](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/) feature, allowing [advanced users](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) to make granular adjustments. Finally, robust **dark mode/light mode compatibility** ensures the theme looks and feels consistent regardless of your ambient lighting conditions or personal preference.
 
 ## Top Obsidian Themes for Long-Form Writing Focus
 
@@ -104,7 +104,7 @@ The Typewriter theme brings a touch of vintage charm to Obsidian, recreating the
 Writer's Block is a modern, clean theme that strikes a balance between minimalism and clear markdown distinction. While keeping the overall interface unobtrusive, it uses subtle color cues and font variations to clearly differentiate headings, links, bold text, and other markdown elements. This makes it easier for writers who frequently use complex markdown structures to navigate their notes without visual confusion. The theme offers a comfortable reading experience with well-chosen fonts and spacing, ensuring that even heavily formatted documents remain highly readable during long writing sessions.
 
 **Pros:**
-- Clear and intuitive markdown styling for better structure comprehension.
+- Clear and intuitive [markdown styling](/posts/custom-css-for-obsidian-academic-paper-formatting/) for better structure comprehension.
 - Modern, clean aesthetic with good contrast.
 - Comfortable typography and line spacing.
 - Maintains a minimalist feel while providing visual cues.

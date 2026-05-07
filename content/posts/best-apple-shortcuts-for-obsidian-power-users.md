@@ -15,11 +15,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The best Apple Shortcuts for Obsidian rely on dedicated integration apps and plugins to bridge the gap between iOS/macOS and your local vault. **Actions for Obsidian** is the top premium choice for creating robust, native-feeling shortcuts across Apple devices without complex URL schemes, while the **Obsidian Advanced URI** plugin is the best free alternative for users comfortable with customizing URL parameters for automated note creation and appending.
 
-Obsidian is unparalleled as a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system, offering total control over your local plain-text files. However, its native mobile and desktop capture experiences can sometimes feel slow when you just need to jot down a quick, fleeting thought. For users deeply entrenched in the Apple ecosystem, Apple Shortcuts provide the ultimate bridge. By leveraging shortcuts on your iPhone, iPad, and Mac, you can instantly append text to your daily note, capture web clippings, or trigger complex templating workflows without ever waiting for the Obsidian app to sync, load, and render its interface.
+Obsidian is unparalleled as a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system, offering total control over your local plain-text files. However, its native mobile and desktop capture experiences can sometimes feel slow when you just need to jot down a quick, fleeting thought. For users deeply entrenched in the Apple ecosystem, Apple Shortcuts provide the ultimate bridge. By leveraging shortcuts on your iPhone, iPad, and Mac, you can instantly append text to your daily note, capture web clippings, or trigger complex templating [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) without ever waiting for the Obsidian app to sync, load, and render its interface.
 
 However, building these automations isn't always straightforward. Because Obsidian is an Electron app on the desktop and uses a unique local file structure sandbox on mobile, native Apple Shortcuts support out of the box is somewhat limited. To get the absolute best Apple Shortcuts for Obsidian power users, you need the right third-party tools, community plugins, and pre-built workflows to make the magic happen safely and reliably. 
 
-In this comprehensive guide, we review the top tools and shortcut integrations available in 2026 to supercharge your Obsidian vault. Whether you are looking for a premium, plug-and-play application or a completely free, highly customizable URL scheme setup, these are the best solutions for automating your PKM [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) across iOS, iPadOS, and macOS.
+In this comprehensive guide, we review the top tools and shortcut integrations available in 2026 to supercharge your Obsidian vault. Whether you are looking for a premium, plug-and-play application or a completely free, highly customizable URL scheme setup, these are the best solutions for automating your PKM [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) across iOS, iPadOS, and macOS.
 
 ## Top Integrations for Obsidian Apple Shortcuts
 
@@ -174,7 +174,7 @@ Yes. You can use Obsidian's native URI schemes to trigger an Apple Shortcut from
 
 - [Setting Up Obsidian with Apple Shortcuts for Mobile: Complete Guide](/posts/setting-up-obsidian-with-apple-shortcuts-for-mobile/)
 
-- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Advanced [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
 
 - [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
 

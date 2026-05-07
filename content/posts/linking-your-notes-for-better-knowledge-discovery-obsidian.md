@@ -21,7 +21,7 @@ This guide details a comprehensive framework for establishing meaningful connect
 
 ## The Foundations of Obsidian Linking Mechanics
 
-Before developing advanced linking [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/), it is essential to understand the core mechanical features Obsidian provides for connecting files. Obsidian’s architecture is built on flat markdown files, but its linking capabilities allow these files to act as a relational database.
+Before developing advanced linking [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/), it is essential to understand the core mechanical features Obsidian provides for connecting files. Obsidian’s architecture is built on flat markdown files, but its linking capabilities allow these files to act as a relational [database](/posts/obsidian-bases-native-update-review-2026/).
 
 ### Bidirectional Wikilinks
 
@@ -47,7 +47,7 @@ When your notes are atomic, connections become precise. You are no longer linkin
 
 ### Breaking Down Monolithic Notes
 
-Transitioning to atomic notes does not require abandoning long-form writing. Instead, use long documents as staging areas or "source notes." As you read a book or article, take comprehensive notes in one file. Later, during your review process, extract the most valuable, discrete concepts into their own atomic notes. Replace the extracted text in the source note with an embed (`![[Atomic Note]]`) or a standard wikilink to maintain the original sequence while freeing the idea to exist independently in your graph.
+Transitioning to atomic notes does not require abandoning [long-form writing](/posts/obsidian-vs-scrivenir-for-long-form-writing/). Instead, use long documents as staging areas or "source notes." As you read a book or article, take comprehensive notes in one file. Later, during your review process, extract the most valuable, discrete concepts into their own atomic notes. Replace the extracted text in the source note with an embed (`![[Atomic Note]]`) or a standard wikilink to maintain the original sequence while freeing the idea to exist independently in your graph.
 
 ## Step 2: Contextualizing Your Connections
 
@@ -149,7 +149,7 @@ To keep the graph useful, focus on contextual, inline linking rather than dumpin
 No. Over-linking creates noise and diminishes the value of the connections. You should only link to concepts that are highly relevant to the context of the current note, or terms that you actively want to build an atomic note around for future reference.
 
 ### What are 'orphan notes' and how do I fix them?
-Orphan notes are files in your vault that have no incoming or outgoing links, making them entirely disconnected from your knowledge graph. You can find them using the graph view or specific plugins, and fix them by reviewing their content and linking them to relevant Maps of Content or related atomic notes.
+Orphan notes are files in your vault that have no incoming or outgoing links, making them entirely disconnected from your knowledge graph. You can find them using the graph view or specific [plugins](/posts/periodic-notes-plugin-weekly-reviews/), and fix them by reviewing their content and linking them to relevant Maps of Content or related atomic notes.
 
 ### How detailed should a Map of Content (MOC) be?
 An MOC should be detailed enough to provide structure but flexible enough to grow. Start with broad headings and bulleted links to your atomic notes. As the MOC grows beyond 30-40 links, you can break it down into more specific, specialized sub-MOCs to maintain clarity.

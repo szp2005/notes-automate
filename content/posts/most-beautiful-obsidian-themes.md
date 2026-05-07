@@ -43,7 +43,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 There is a well-documented relationship between your visual environment and the quality of sustained cognitive work. Don Norman explored this at length in *The Design of Everyday Things* — the central argument being that objects designed well make you want to use them, while poorly designed tools create friction that compounds over time. The same logic applies to software.
 
-If you open Obsidian every day and the default interface makes you feel nothing — no anticipation, no comfort, no small jolt of pleasure — you are leaving motivational energy on the table. That matters specifically for [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) because it is a habit, not a task. Habits live and die by how easy they are to start, and visual appeal is a legitimate on-ramp.
+If you open Obsidian every day and the default interface makes you feel nothing — no anticipation, no comfort, no small jolt of pleasure — you are leaving motivational energy on the table. That matters specifically for [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) because it is a habit, not a task. Habits live and die by how easy they are to start, and visual appeal is a legitimate on-ramp.
 
 There is a practical dimension too. A theme with poor contrast ratios will fatigue your eyes after 45 minutes. One with bad heading hierarchy makes skimming your own notes tedious. Typography choices affect reading speed. These are not aesthetic preferences; they are usability variables, and they accumulate across every session.
 
@@ -101,7 +101,7 @@ The graph view in Minimal also stands out: node colors adapt to your accent colo
 - **[Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/)**: Minimal's card and table styles make Dataview outputs genuinely attractive
 - **Kanban**: Kanban boards render crisply under Minimal's card layout mode
 
-**Ideal for:** Power users, developers, anyone who wants long-term flexibility
+**Ideal for:** Power users, [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/), anyone who wants long-term flexibility
 
 ---
 
@@ -257,7 +257,7 @@ Return to `Settings → Appearance → Themes`. The dropdown shows all installed
 **Pro Tip: Install Style Settings Immediately**
 Go to `Settings → Community Plugins → Browse`, search "Style Settings," install and enable it. Then return to `Settings → Style Settings` — if your active theme supports it, a full customization panel appears. Change fonts, toggle UI elements, adjust accent colors, all without code.
 
-**Wanting to go further than Style Settings allows?** Basic CSS skills open up complete control over every visual element in Obsidian. A practical starting point is this CSS for Beginners course on Skillshare, which will get you from zero to writing functional snippets in a few hours. Obsidian supports CSS snippets natively under `Settings → Appearance → CSS Snippets`.
+**Wanting to go further than Style Settings allows?** Basic CSS skills open up complete control over every visual element in Obsidian. A practical starting point is this CSS for [Beginners](/posts/obsidian-vault-structure-digital-gardening-beginners/) course on Skillshare, which will get you from zero to writing functional snippets in a few hours. Obsidian supports CSS snippets natively under `Settings → Appearance → CSS Snippets`.
 
 ---
 

@@ -54,7 +54,7 @@ Its collaborative features are built-in from the ground up. Real-time co-editing
 
 ### 2. Obsidian
 
-**Best for:** Solo project managers, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and developers requiring absolute data ownership and speed.
+**Best for:** Solo project managers, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) requiring absolute data ownership and speed.
 **Price:** Free (Sync is $8/month, Commercial use $50/year)
 **Rating:** 4.8/5
 
@@ -97,7 +97,7 @@ Both platforms are highly customizable, but in different directions.
 
 Notion provides a "Lego block" approach. You construct pages using predefined blocks (text, toggles, tables, databases). You have limited control over the underlying code or deep styling, but the blocks provided are highly polished and functionally robust. It also offers a robust API, allowing integration with Zapier, Make, and internal company tools.
 
-Obsidian offers granular, structural customization. Because it operates on local files, you can use any text editor to modify your data. You can write custom CSS snippets to change every visual aspect of the UI. The community plugin architecture allows developers to fundamentally alter how Obsidian behaves—adding Vim keybindings, integrating Excalidraw for whiteboarding, or embedding Python scripts directly into notes.
+Obsidian offers granular, structural customization. Because it operates on local files, you can use any text editor to modify your data. You can write custom CSS snippets to change every visual aspect of the UI. The community plugin architecture allows developers to fundamentally alter how Obsidian behaves—adding Vim keybindings, integrating Excalidraw for whiteboarding, or embedding [Python](/posts/connecting-obsidian-to-external-api-with-python/) scripts directly into notes.
 
 ## Practical Setup Advice for Project Managers
 
@@ -126,7 +126,7 @@ No. While Notion caches recently opened pages, allowing limited offline reading 
 Generally, no. While tools like Obsidian Sync exist, the local-first, plain-text nature of the application makes real-time collaboration, granular user permissions, and conflict resolution difficult compared to cloud-native platforms.
 
 ### How secure is my project data in Obsidian compared to Notion?
-Obsidian is fundamentally more private because data is stored entirely on your local hard drive. Unless you use a syncing service, your data never touches the cloud. Notion stores all data on its servers, meaning you are trusting their security infrastructure and privacy policies.
+Obsidian is fundamentally more private because data is stored entirely on your local hard drive. Unless you use a syncing service, your data never touches the cloud. Notion stores all data on its servers, meaning you are trusting their security infrastructure and [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/) policies.
 
 ### Can I migrate my complex project management setup from Notion to Obsidian?
 Yes, but it is challenging. You can export Notion workspaces as Markdown files, but complex relational databases do not translate perfectly to plain text. You will need to rebuild your database logic using [Obsidian plugins](/posts/smart-connections-plugin-for-emergent-ideas/) like Dataview and frontmatter properties.

@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Top Obsidian Plugins for Creative Writers in 2026
 
-> **Quick Answer:** The top Obsidian plugins for creative writers in 2026 include Longform for compiling manuscript drafts, Novel Word Count for tracking daily progress, and [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) for dynamic world-building and character wikis. Together, these tools transform Obsidian from a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) app into a powerful, distraction-free writing environment capable of handling complex novel structures.
+> **Quick Answer:** The top Obsidian plugins for creative writers in 2026 include Longform for compiling manuscript drafts, Novel Word Count for tracking daily progress, and [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) for dynamic world-building and character wikis. Together, these tools transform Obsidian from a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) app into a powerful, distraction-free writing environment capable of handling complex novel structures.
 
 Creative writing requires a delicate balance between unhindered imagination and rigorous organization. Standard word processors often force you into linear drafting, while dedicated [writing software](/posts/obsidian-vs-scrivenir-for-long-form-writing/) like Scrivener can feel bloated or restrictive. Obsidian has emerged as a favorite among novelists, screenwriters, and world-builders because it offers a blank canvas built on local, future-proof Markdown files. 
 
@@ -96,9 +96,9 @@ Managing the continuity of a complex fictional universe is one of the hardest pa
 **Price:** Free
 **Rating:** 5.0/5
 
-Dataview is a live index and query engine for your personal knowledge base. While widely used by students and [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), it is a superpower for creative writers. By using YAML frontmatter in your character, location, and item notes (e.g., `Type: Character`, `Allegiance: House Stark`, `Status: Alive`), you can use Dataview to generate dynamic tables and lists.
+Dataview is a live index and query engine for your personal knowledge base. While widely used by [students](/posts/organizing-complex-academic-projects-in-an-obsidian-vault/) and [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), it is a superpower for creative writers. By using YAML frontmatter in your character, location, and item notes (e.g., `Type: Character`, `Allegiance: House Stark`, `Status: Alive`), you can use Dataview to generate dynamic tables and lists.
 
-Want a table of all living characters who reside in a specific city, sorted by age? Dataview does that instantly. As your story evolves and you update a character's status to `Dead`, every Dataview table in your vault updates automatically. It turns a static folder of notes into a dynamic, relational database of your fictional world.
+Want a table of all living characters who reside in a specific city, sorted by age? Dataview does that instantly. As your story evolves and you update a character's status to `Dead`, every Dataview table in your vault updates automatically. It turns a static folder of notes into a dynamic, relational [database](/posts/obsidian-bases-native-update-review-2026/) of your fictional world.
 
 **Pros:**
 - Incredibly powerful querying for maintaining story continuity

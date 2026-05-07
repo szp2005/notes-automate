@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Obsidian provides an exceptional local-first environment for thinking, writing, and organizing knowledge. However, because it operates entirely on your local file system, connecting your notes to the rest of your digital ecosystem can feel friction-heavy. Every time you draft an email, outline a project task, or write a social media post within Obsidian, moving that text to its final destination usually requires manual copy-pasting.
 
-By bridging Obsidian and n8n—a powerful, source-available [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) automation tool—you transform your static local vault into an active command center. Instead of just storing information, your notes can execute actions. Adding a specific tag can publish a blog post, while checking off a task in a meeting note can automatically generate a ticket in Jira or Linear. 
+By bridging Obsidian and n8n—a powerful, source-available [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) tool—you transform your static local vault into an active command center. Instead of just storing information, your notes can execute actions. Adding a specific tag can publish a blog post, while checking off a task in a meeting note can automatically generate a ticket in Jira or Linear. 
 
 Learning how to sync Obsidian with n8n webhooks requires configuring both ends of the connection: preparing n8n to listen for incoming data and setting up Obsidian to broadcast it. This guide outlines the complete process to establish a reliable, automated link between your local Markdown files and your cloud applications.
 
@@ -51,7 +51,7 @@ Because Obsidian does not send webhooks out of the box, you must install a commu
 
 ### The QuickAdd Plugin Approach
 
-QuickAdd is highly recommended for webhook integration due to its immense flexibility. While primarily known for creating templates, QuickAdd features a powerful macro system that can execute user scripts.
+QuickAdd is highly recommended for webhook integration due to its immense flexibility. While primarily known for creating [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), QuickAdd features a powerful macro system that can execute user scripts.
 
 By using QuickAdd, you can create a specific command that extracts the exact variables you need—such as the note title, the selected text, and specific frontmatter fields—and formats them precisely before sending. This is the method we will detail in the subsequent steps, as it offers the most robust data structure for n8n to parse.
 

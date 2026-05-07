@@ -46,7 +46,7 @@ Most writers spend hours thinking about their outlining method, their folder str
 
 This is not aesthetics for aesthetics' sake. It is applied ergonomics.
 
-**Typography and line spacing have direct, measurable effects on reading fatigue.** A line length (or "measure") beyond 75–80 characters forces your eye to travel too far before snapping back to the start of the next line. A line-height below 1.5 on body text compresses the vertical rhythm and makes it harder to track lines in a dense passage. Default Obsidian — even in its current polished form — is not optimized for 2,000-word drafting sessions. It is optimized for general [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), which is a different cognitive task entirely.
+**Typography and line spacing have direct, measurable effects on reading fatigue.** A line length (or "measure") beyond 75–80 characters forces your eye to travel too far before snapping back to the start of the next line. A line-height below 1.5 on body text compresses the vertical rhythm and makes it harder to track lines in a dense passage. Default Obsidian — even in its current polished form — is not optimized for 2,000-word drafting sessions. It is optimized for general [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/), which is a different cognitive task entirely.
 
 **The psychological effect of a clean interface is underestimated.** The sidebar listing your vault, the ribbon with its icons, the status bar at the bottom — every one of those elements is a low-grade interruption. Research on attention consistently shows that visible, unrelated affordances in a workspace pull cognitive resources even when you are not actively using them. A theme that hides or mutes these elements during writing is doing real work for you.
 
@@ -69,7 +69,7 @@ Does the theme have a built-in focus or zen mode? How well does it handle typewr
 **UI Minimalism (UM)**
 How much visual noise does the theme remove from the workspace? Does it have a clean, uncluttered approach to tabs, status bars, and the editor toolbar?
 
-**Customization via Style Settings (CS)**
+**[Customization](/posts/minimal-theme-for-obsidian-customization-tips/) via Style Settings (CS)**
 How deeply does the Style Settings plugin integration go? Can you change fonts, adjust line lengths, toggle sidebar behavior, and fine-tune colors — or is what you see what you get?
 
 ---
@@ -115,7 +115,7 @@ Install the Style Settings plugin first, then open **Settings → Style Settings
 }
 ```
 
-Paste this into a `.css` file inside your vault's `.obsidian/snippets/` folder and enable it under **Settings → Appearance → CSS Snippets**.
+Paste this into a `.css` file inside your vault's `.obsidian/snippets/` folder and enable it under **Settings → Appearance → [CSS Snippets](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/)**.
 
 ### Writer's Scorecard: Minimal Theme
 

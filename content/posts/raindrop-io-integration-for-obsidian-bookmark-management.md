@@ -14,13 +14,13 @@ type: "informational"
 
 Managing web research across different applications often creates friction. You find a valuable article, save it, perhaps highlight a few paragraphs, but that knowledge remains siloed in your browser or a read-it-later application. Obsidian excels at connecting ideas, but it requires raw text. Getting your saved links and highlights out of the cloud and into your local vault is the critical bridge for effective personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/).
 
-The Raindrop IO integration for Obsidian bookmark management solves this [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) disconnect. By linking Raindrop's robust capturing capabilities with Obsidian's linking and storage, you create an automated pipeline. When you highlight text on the web via the Raindrop extension, those exact highlights, along with the article's [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), automatically populate in your Obsidian vault, formatted exactly how you want them.
+The Raindrop IO integration for Obsidian bookmark management solves this [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) disconnect. By linking Raindrop's robust capturing capabilities with Obsidian's linking and storage, you create an automated pipeline. When you highlight text on the web via the Raindrop extension, those exact highlights, along with the article's [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), automatically populate in your Obsidian vault, formatted exactly how you want them.
 
 This guide details the exact steps to configure this sync, the [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) required to structure your imported data, and the specific settings to prevent duplicate files or messy folder structures.
 
 ## Understanding the Raindrop to Obsidian Pipeline
 
-Before installing plugins, it helps to understand how data moves between these two tools. Raindrop.io acts as the capture layer. It lives in your browser and on your mobile device, optimized for speed. When you save a URL, Raindrop extracts the title, description, cover image, and full article text (if you use the Pro version).
+Before installing [plugins](/posts/periodic-notes-plugin-weekly-reviews/), it helps to understand how data moves between these two tools. Raindrop.io acts as the capture layer. It lives in your browser and on your mobile device, optimized for speed. When you save a URL, Raindrop extracts the title, description, cover image, and full article text (if you use the Pro version).
 
 Obsidian acts as the synthesis layer. It relies on local Markdown files. The integration bridges these layers via the Raindrop API. A plugin installed inside Obsidian authenticates with your Raindrop account, queries your collections for new or updated bookmarks, and translates that JSON data into Markdown files using a template you define.
 
@@ -67,7 +67,7 @@ Alternatively, you can sync based on tags. If you tag a bookmark in Raindrop wit
 
 ### Step 3: Template Formatting and Frontmatter
 
-The most critical configuration step is defining how the incoming data is translated into Markdown. The Raindrop Highlights plugin uses a template system. You need to structure this template to fit your existing Obsidian workflows, particularly regarding YAML frontmatter.
+The most critical configuration step is defining how the incoming data is translated into Markdown. The Raindrop Highlights plugin uses a template system. You need to structure this template to fit your existing Obsidian [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/), particularly regarding YAML frontmatter.
 
 In the plugin settings, find the template text area. Here is a baseline template optimized for searchability and linking:
 

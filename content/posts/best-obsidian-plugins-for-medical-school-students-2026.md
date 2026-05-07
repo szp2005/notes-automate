@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best Obsidian Plugins for Medical School Students in 2026
 
-> **Quick Answer:** The best Obsidian plugins for medical school students in 2026 focus on memorization and [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) efficiency. **Obsidian to Anki** is essential for seamless flashcard integration, **Excalidraw** excels at mapping complex biochemical pathways, and **Dataview** is unmatched for tracking clinical rotation logs and study schedules.
+> **Quick Answer:** The best Obsidian plugins for medical school students in 2026 focus on memorization and [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) efficiency. **Obsidian to Anki** is essential for seamless flashcard integration, **Excalidraw** excels at mapping complex biochemical pathways, and **[Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/)** is unmatched for tracking clinical rotation logs and study schedules.
 
 Medical school is an overwhelming deluge of information, often compared to drinking from a fire hose. Success in pre-clinical years (USMLE Step 1/COMLEX Level 1) and clinical rotations requires a [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system that scales infinitely without slowing down. Obsidian, a local-first markdown [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) app, has become a staple among medical students due to its speed, offline capability, and highly extensible nature.
 
@@ -67,7 +67,7 @@ You can import an image of the brachial plexus, draw over it to highlight nerve 
 **Price:** Free
 **Rating:** 5.0/5
 
-Dataview turns your Obsidian vault into a queryable database. For medical students, this is the ultimate organizational tool for the chaos of clinical years. By adding simple YAML [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) to your daily notes or patient encounter templates (e.g., `rotation: Internal Medicine`, `disease: CHF`), you can generate dynamic tables that aggregate your experiences.
+Dataview turns your Obsidian vault into a queryable database. For medical students, this is the ultimate organizational tool for the chaos of clinical years. By adding simple YAML [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) to your daily notes or patient encounter [templates](/posts/obsidian-template-for-weekly-reflection-and-planning/) (e.g., `rotation: Internal Medicine`, `disease: CHF`), you can generate dynamic tables that aggregate your experiences.
 
 Instead of hunting for that one interesting cardiology case you saw three weeks ago, a Dataview query instantly pulls up a table of every patient note tagged with heart failure, sorted by date. It is equally powerful for tracking study progress, allowing you to list all pharmacology notes that haven't been reviewed in the last 30 days.
 

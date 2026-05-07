@@ -29,7 +29,7 @@ The server stores this encrypted blob. When your smartphone connects to the serv
 
 ## Step 1: Preparing Your Local Vault for Synchronization
 
-Before you introduce remote synchronization to your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), you must prepare your local environment. Syncing is not a replacement for a traditional [backup strategy](/posts/configuring-obsidian-for-automated-daily-backup-to-dropbox/). If you accidentally delete a file and that deletion syncs to all devices, you will need a local backup to restore it.
+Before you introduce remote synchronization to your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/), you must prepare your local environment. Syncing is not a replacement for a traditional [backup strategy](/posts/configuring-obsidian-for-automated-daily-backup-to-dropbox/). If you accidentally delete a file and that deletion syncs to all devices, you will need a local backup to restore it.
 
 Start by creating a complete, compressed backup of your entire Obsidian vault folder. Include the hidden `.obsidian` directory, which contains your [themes](/posts/things-theme-vs-minimal-theme-obsidian/), [plugins](/posts/periodic-notes-plugin-weekly-reviews/), and workspace layouts. Store this backup on a separate physical drive or a secure local NAS. 
 
@@ -87,13 +87,13 @@ Maintaining an encrypted sync setup requires slightly more operational awareness
 
 **Managing large file uploads:** Encryption adds computational overhead. When you drop a 50MB PDF into your vault, Obsidian must encrypt the entire file locally before uploading. On older hardware or low-power mobile devices, this can temporarily spike CPU usage and pause the syncing of smaller text files. If you are adding a massive batch of files, do so on your most powerful desktop machine and allow the sync to complete fully before opening Obsidian on your mobile device.
 
-**Resolving sync conflicts:** Even with real-time sync, conflicts can occur if you edit the exact same line of a note on two different offline devices and then bring them both online. Obsidian handles this gracefully by creating a duplicate file appended with "sync conflict." Because the conflict resolution happens locally after decryption, you can easily review the two files side-by-side in your vault and merge the changes manually.
+**Resolving sync conflicts:** Even with real-time sync, conflicts can occur if you edit the exact same line of a note on two different offline devices and then bring them both online. Obsidian handles this gracefully by creating a duplicate file appended with "sync conflict." Because the conflict resolution happens locally after decryption, you can easily [review](/posts/is-obsidian-sync-worth-it-review/) the two files side-by-side in your vault and merge the changes manually.
 
 **Periodic key rotation:** While not strictly necessary unless you suspect your key has been compromised, periodic security audits are good practice. Unfortunately, Obsidian Sync does not currently support seamless key rotation. If you wish to change your encryption password, you must create a completely new remote vault with the new password, upload your entire local vault to the new remote, connect all your devices to the new remote, and then delete the old remote vault. 
 
 ## Alternative Methods for Encrypted Obsidian Sync
 
-While the official Obsidian Sync service is the most frictionless method for configuring Obsidian for end to end encrypted sync, it is a paid service. If you prefer to manage your own infrastructure, there are alternative methods that provide zero-knowledge encryption, though they require significantly more technical configuration.
+While the official Obsidian Sync service is the most frictionless [method](/posts/how-to-find-obsidian-plugin-documentation/) for configuring Obsidian for end to end encrypted sync, it is a paid service. If you prefer to manage your own infrastructure, there are alternative methods that provide zero-knowledge encryption, though they require significantly more technical configuration.
 
 **Syncthing:** Syncthing is a free, open-source peer-to-peer file synchronization program. It does not use a central server; instead, it syncs files directly between your devices over an encrypted TLS connection. Because the files only exist on your own hardware and transit securely, it effectively functions as an encrypted sync solution. The major limitation is that both devices must be powered on and connected to the internet simultaneously to synchronize. Furthermore, setting up Syncthing on iOS devices is currently impossible due to operating system restrictions on background processes.
 

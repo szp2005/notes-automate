@@ -25,7 +25,7 @@ This Templater plugin tutorial for Obsidian power users will skip the basic "how
 
 The native Obsidian Templates plugin is limited to simple string replacement (`{{title}}`, `{{date}}`, `{{time}}`). It cannot evaluate logic, interact with the file system, or ask you questions during note creation.
 
-As a power user, your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) likely requires:
+As a power user, your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) likely requires:
 - Automatically moving a newly created "Meeting Note" into the `Meetings/2026/05` directory.
 - Prompting you to select a "Project Status" from a dropdown menu when creating a project dashboard.
 - Conditionally inserting text based on the day of the week or the folder the note resides in.
@@ -71,7 +71,7 @@ To get the title of the file, completely sanitized of illegal characters:
 To calculate future or past dates dynamically (e.g., setting a review date 7 days from creation):
 `Review Date: <% tp.date.now("YYYY-MM-DD", 7) %>`
 
-To get the date of the previous Monday, useful for weekly review templates:
+To get the date of the previous Monday, useful for [weekly review](/posts/obsidian-template-for-weekly-reflection-and-planning/) templates:
 `<% tp.date.weekday("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>`
 
 ### User Input and Prompts with tp.system
@@ -230,7 +230,7 @@ module.exports = getWeather;
 **Weather:** <% await tp.user.weather("London") %>
 ```
 
-When the template runs, Templater executes the external script, reaches out to the API, and injects the live weather data directly into your markdown file. You can use this same methodology to pull calendar events from Google Calendar APIs, fetch latest read articles from Readwise, or sync tasks from Todoist.
+When the template runs, Templater executes the external script, reaches out to the API, and injects the live weather data directly into your markdown file. You can use this same methodology to pull calendar events from Google Calendar APIs, fetch latest read articles from [Readwise](/posts/building-a-second-brain-using-obsidian-and-readwise/), or sync tasks from Todoist.
 
 ## Conclusion
 

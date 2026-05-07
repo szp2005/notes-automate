@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian Dataview for Beginners: Complete Guide
 
-> **Quick Answer:** To use Obsidian Dataview, install the plugin from community [plugins](/posts/periodic-notes-plugin-weekly-reviews/), add structured [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) (like YAML frontmatter) to your notes, and write queries using the Dataview Query Language (DQL). A basic query looks like ````dataview LIST FROM "folder"````, which automatically generates a list of all notes within that specific folder. 
+> **Quick Answer:** To use Obsidian Dataview, install the plugin from [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) [plugins](/posts/periodic-notes-plugin-weekly-reviews/), add structured [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) (like YAML frontmatter) to your notes, and write queries using the Dataview Query Language (DQL). A basic query looks like ````dataview LIST FROM "folder"````, which automatically generates a list of all notes within that specific folder. 
 
 When you first start using Obsidian, the freedom of plain-text markdown files is liberating. You create folders, drop links between notes, and watch your local graph grow. However, as your vault expands from a few dozen notes to hundreds or thousands, manually updating index pages and tracking down specific types of information becomes a tedious, error-prone chore. You find yourself spending more time managing your vault than actually writing or thinking.
 
@@ -236,7 +236,7 @@ As you implement Dataview, keep these concrete recommendations and tradeoffs in 
 
 **Keep queries small and targeted.** Dataview runs dynamically. Every time you open a note with a Dataview table, the plugin searches your vault to render it. If you have a query searching 10,000 notes with five complex `WHERE` and `OR` clauses, that specific note will take a second or two to load. Restrict your `FROM` clauses to specific folders or tags rather than searching the entire vault.
 
-**Understand the difference between Dataview and search.** Obsidian's core search function is for finding specific words inside paragraphs. Dataview is for manipulating structured metadata. Do not use Dataview to find a quote you vaguely remember; use the native search. Use Dataview to answer questions like "Which articles have I published this month?"
+**Understand the difference between Dataview and search.** Obsidian's core search function is for [finding](/posts/how-to-find-obsidian-plugin-documentation/) specific words inside paragraphs. Dataview is for manipulating structured metadata. Do not use Dataview to find a quote you vaguely remember; use the native search. Use Dataview to answer questions like "Which articles have I published this month?"
 
 ## Conclusion
 
@@ -251,7 +251,7 @@ No, Dataview is strictly a read-only plugin. It scans your metadata and displays
 The most common beginner error is a typo in the metadata key or the query syntax. Ensure your frontmatter uses exact spelling, that you have a space after the YAML colon (e.g., `status: active`, not `status:active`), and that your folder names in the `FROM` clause exactly match your vault structure, including capitalization.
 
 ### Can I export a Dataview table to a CSV or Excel file?
-By default, Dataview renders dynamic HTML inside Obsidian. To export the data to a spreadsheet, you can highlight the rendered table in Obsidian's Reading view, copy it, and paste it directly into Excel or Google Sheets, which usually preserves the column formatting. 
+By default, Dataview renders dynamic HTML inside Obsidian. To export the data to a spreadsheet, you can highlight the rendered table in Obsidian's Reading view, copy it, and paste it directly into Excel or [Google](/posts/how-to-sync-obsidian-with-google-drive-using-a-plugin/) Sheets, which usually preserves the column formatting. 
 
 ### Does Dataview work on Obsidian mobile?
 Yes, Dataview works seamlessly on both the iOS and Android versions of Obsidian. However, very complex queries on massive vaults may render slightly slower on mobile hardware compared to a desktop computer.

@@ -11,7 +11,7 @@ type: "informational"
 
 # Personal Knowledge Base with Obsidian Setup: 5-Step Guide
 
-> **Quick Answer:** To build a personal knowledge base with Obsidian, start by creating a central vault and establishing a basic folder structure for your daily notes, source materials, and permanent ideas. Use Obsidian's bidirectional linking (`[[link]]`) to connect related concepts naturally as you write, rather than relying strictly on rigid folders. Adopt a progressive summarization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) to turn raw information into your own interconnected insights over time.
+> **Quick Answer:** To build a personal knowledge base with Obsidian, start by creating a central vault and establishing a basic folder structure for your daily notes, source materials, and permanent ideas. Use Obsidian's bidirectional linking (`[[link]]`) to connect related concepts naturally as you write, rather than relying strictly on rigid folders. Adopt a progressive summarization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) to turn raw information into your own interconnected insights over time.
 
 Information overload is the defining challenge of modern knowledge work. You read articles, listen to podcasts, and take meeting notes, but when it comes time to synthesize that information into a cohesive project or insight, those isolated fragments are impossible to find. Relying on your memory or a chaotic downloads folder inevitably leads to lost ideas and duplicated effort.
 
@@ -90,7 +90,7 @@ Start with Obsidian's built-in plugins before installing third-party community t
 
 **Community Plugins (Use Sparingly):**
 While the Obsidian community offers thousands of plugins, adding too many will slow down your application and create dependencies that threaten the longevity of your plain text files. Limit yourself to high-leverage tools:
-- **Dataview:** Turns your vault into a database, allowing you to query notes by tags, folders, or metadata.
+- **Dataview:** Turns your vault into a database, allowing you to query notes by tags, folders, or [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/).
 - **[Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/):** An advanced version of the core template plugin, allowing for automated date insertion and cursor placement.
 - **Omnisearch:** Significantly improves Obsidian's native search algorithm, including OCR for text within images.
 
@@ -118,7 +118,7 @@ In almost all cases, you should use a single vault. Ideas cross-pollinate unexpe
 Obsidian handles attachments well. Create a dedicated "Attachments" folder and configure Obsidian's settings to default all new media uploads to that specific folder. This keeps your root directory clean while allowing you to embed images `![[image.png]]` and PDFs directly into your markdown notes.
 
 ### What is the difference between Obsidian and Notion?
-Notion is a cloud-based, block-level database application excellent for team collaboration and highly structured [project management](/posts/obsidian-project-management-academic-research-teams/). Obsidian is a local-first, plain-text markdown editor designed for rapid, associative thought linking and long-term personal knowledge management.
+Notion is a cloud-based, block-level database application excellent for team collaboration and highly structured [project management](/posts/obsidian-project-management-academic-research-teams/). Obsidian is a local-first, plain-text markdown editor designed for rapid, associative thought linking and long-term [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/).
 
 ### Do I need to learn Markdown to use Obsidian?
 While knowing basic Markdown syntax (like `**bold**` or `# headers`) is helpful, Obsidian features a Live Preview mode that formats text as you type, acting much like a standard word processor. You can navigate the interface and format text using standard keyboard shortcuts without writing raw Markdown.

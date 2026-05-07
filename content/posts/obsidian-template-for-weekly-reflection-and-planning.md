@@ -15,9 +15,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The ideal Obsidian template for weekly reflection and planning combines automated data aggregation (via Dataview), a structured review of past accomplishments, and dedicated sections for upcoming priorities. By separating reflection from planning, you ensure both emotional closure for the past week and clear, actionable focus for the next.
 
-A [weekly review](/posts/periodic-notes-plugin-weekly-reviews/) is the cornerstone of any sustainable [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system. Without it, tasks pile up, priorities blur, and you lose track of the broader trajectory of your goals. While analog journals and rigid task managers offer solutions, Obsidian provides an unparalleled environment for this practice. Its local, plain-text foundation combined with powerful community plugins allows you to build a system that reflects your exact mental model.
+A [weekly review](/posts/periodic-notes-plugin-weekly-reviews/) is the cornerstone of any sustainable [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system. Without it, tasks pile up, priorities blur, and you lose track of the broader trajectory of your goals. While analog journals and rigid task managers offer solutions, Obsidian provides an unparalleled environment for this practice. Its local, plain-text foundation combined with powerful [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugins allows you to build a system that reflects your exact mental model.
 
-However, starting from a blank page every Sunday is a recipe for friction. A well-designed Obsidian template for weekly reflection and planning removes that friction. It prompts you with the right questions, automatically pulls in data from your daily notes, and provides a clear structure to follow. 
+However, starting from a blank page every Sunday is a recipe for friction. A well-designed Obsidian template for weekly reflection and planning removes that friction. It prompts you with the right questions, automatically pulls in data from your [daily notes](/posts/automate-obsidian-daily-notes-using-python/), and provides a clear structure to follow. 
 
 This guide provides a comprehensive framework and a ready-to-use template that balances introspection with actionable planning, ensuring you spend less time formatting notes and more time executing your priorities.
 
@@ -46,7 +46,7 @@ This phase is crucial for behavioral correction. By identifying patterns of fric
 
 Planning is the forward-looking component. It shifts the focus from analysis to execution. A strong planning section forces prioritization. Rather than creating a massive to-do list, the template should limit you to identifying a small number of core objectives. 
 
-Using techniques like the "Top 3" method—where you commit to only three primary outcomes for the week—creates constraint and focus. The planning phase also involves scheduling these priorities into specific blocks of time, transitioning intentions into calendar events.
+Using techniques like the "Top 3" method—where you commit to only three primary outcomes for the week—creates constraint and focus. The planning phase also involves scheduling these priorities into specific blocks of time, transitioning intentions into [calendar](/posts/obsidian-full-calendar-plugin-review/) events.
 
 ## Setting Up the Obsidian Infrastructure
 

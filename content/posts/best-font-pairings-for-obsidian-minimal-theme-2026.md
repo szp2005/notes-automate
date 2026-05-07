@@ -19,7 +19,7 @@ Obsidian's Minimal theme, developed by Kepano, remains the gold standard for Per
 
 Finding the best font pairings for Obsidian Minimal theme 2026 is not merely an aesthetic choice; it is a functional requirement. The right typography reduces cognitive load, minimizes eye strain during long [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) sessions, and helps delineate between interface navigation, active reading, and code blocks. With the widespread adoption of high-DPI OLED displays and advanced subpixel rendering on modern operating systems, the nuances of typographic design have never been more prominent. 
 
-Whether you are an academic building a [Zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/), a developer documenting complex architectures, or a writer drafting your next novel, your typography dictates the friction of your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). In this guide, we review the top font pairings that seamlessly integrate with the Minimal theme, evaluating them on legibility, aesthetic cohesion, and practical application within a digital brain.
+Whether you are an academic building a [Zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/), a developer documenting complex architectures, or a writer drafting your next novel, your typography dictates the friction of your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). In this guide, we review the top font pairings that seamlessly integrate with the Minimal theme, evaluating them on legibility, aesthetic cohesion, and practical application within a digital brain.
 
 ## Why Typography Matters in Your Obsidian Vault
 
@@ -79,7 +79,7 @@ Lora features brushed curves and driving serifs that guide the eye effortlessly 
 **Price:** $75.00 - Free (System)
 **Rating:** 4.8/5
 
-For users who treat Obsidian as a technical command center, this premium pairing delivers an uncompromising, industrial aesthetic. Berkeley Mono is a commercial typeface designed for developers. It pays homage to mid-century control room typography while offering modern ligatures and impeccable clarity. Using Berkeley Mono for both your body text and code blocks, while relegating Helvetica Neue purely to the interface, turns your vault into a high-end engineering tool.
+For users who treat Obsidian as a technical command center, this premium pairing delivers an uncompromising, industrial aesthetic. Berkeley Mono is a commercial typeface designed for [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/). It pays homage to mid-century control room typography while offering modern ligatures and impeccable clarity. Using Berkeley Mono for both your body text and code blocks, while relegating Helvetica Neue purely to the interface, turns your vault into a high-end engineering tool.
 
 Helvetica Neue provides a clean, dense interface that stays entirely out of the way. Meanwhile, reading and writing entirely in Berkeley Mono forces a deliberate, structured pace. Every character occupies the exact same horizontal space, making technical [documentation](/posts/using-obsidian-to-manage-n8n-workflow-documentation/), tables, and lists align with satisfying precision. 
 
@@ -155,7 +155,7 @@ By injecting JetBrains Mono as the monospace and specific heading font, you add 
 **Price:** System default (macOS) / Commercial (Windows)
 **Rating:** 4.6/5
 
-Avenir Next is a geometric sans-serif that manages to feel both perfectly mathematical and warmly human. When applied to the Minimal theme's UI and Body, it provides an expansive, airy feel. The circular 'o's and clean terminals give your vault a distinct mid-century modern design flair. It is exceptionally well-suited for visual thinkers who embed a lot of canvas boards, images, and Excalidraw diagrams within their notes, as the font never competes with visual media.
+Avenir Next is a geometric sans-serif that manages to feel both perfectly mathematical and warmly human. When applied to the Minimal theme's UI and Body, it provides an expansive, airy feel. The circular 'o's and clean terminals give your vault a distinct mid-century modern design flair. It is exceptionally well-suited for visual thinkers who embed a lot of canvas boards, images, and [Excalidraw](/posts/excalidraw-plugin-for-obsidian-visual-thinking/) diagrams within their notes, as the font never competes with visual media.
 
 Menlo, a sturdy and reliable monospace font, serves as the perfect anchor for this airy setup. It grounds the code blocks and YAML frontmatter without feeling overly stylized. This pairing ensures that your text looks like a beautifully typeset magazine rather than a raw text file.
 

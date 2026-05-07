@@ -11,11 +11,11 @@ type: "informational"
 
 # QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide
 
-> **Quick Answer:** The QuickAdd plugin for rapid capture in Obsidian allows you to instantly create notes, log daily journal entries, and append information to existing files without interrupting your current [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). By combining [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), captures, macros, and multi-step choices, it eliminates friction and ensures ideas are recorded the moment they strike.
+> **Quick Answer:** The QuickAdd plugin for rapid capture in Obsidian allows you to instantly create notes, log daily journal entries, and append information to existing files without interrupting your current [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). By combining [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), captures, macros, and multi-step choices, it eliminates friction and ensures ideas are recorded the moment they strike.
 
 The friction between having an idea and getting it into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system is where most insights are lost. Obsidian is a powerful thinking environment, but out of the box, creating specific types of notes in designated folders with the correct formatting requires multiple clicks and deliberate navigation. This cognitive overhead interrupts deep work and often leads to fragmented, disorganized vaults. 
 
-Enter the QuickAdd plugin. Built specifically to eliminate the gap between thought and documentation, it acts as the central nervous system for your vault's input operations. Whether you are logging a fleeting thought, generating a structured meeting note, or extracting highlights from an article, QuickAdd allows you to perform these actions instantly, often without your fingers ever leaving the keyboard.
+Enter the QuickAdd plugin. Built specifically to eliminate the gap between thought and [documentation](/posts/using-obsidian-to-manage-n8n-workflow-documentation/), it acts as the central nervous system for your vault's input operations. Whether you are logging a fleeting thought, generating a structured meeting note, or extracting highlights from an article, QuickAdd allows you to perform these actions instantly, often without your fingers ever leaving the keyboard.
 
 This guide explores the architecture of the QuickAdd plugin for rapid capture in Obsidian, breaking down its core components, detailing practical workflows, and providing actionable advice to transform how you input information into your vault.
 
@@ -130,7 +130,7 @@ The QuickAdd plugin for rapid capture in Obsidian is not just a utility; it is a
 The core template plugin only allows you to insert predefined text into the active, open note. QuickAdd allows you to automatically create files in specific folders, apply dynamic naming conventions, and append text to files running in the background without needing to open them.
 
 ### Can I use QuickAdd to capture text directly from my mobile browser?
-Not natively out of the box. QuickAdd operates within the Obsidian app environment. To capture from a mobile browser, you must use your phone's native share sheet to send text to Obsidian, or rely on a third-party syncing service like Readwise that pipes data into your vault, which you can then process with QuickAdd.
+Not natively out of the box. QuickAdd operates within the Obsidian app environment. To capture from a mobile browser, you must use your phone's native share sheet to send text to Obsidian, or rely on a third-party syncing service like [Readwise](/posts/building-a-second-brain-using-obsidian-and-readwise/) that pipes data into your vault, which you can then process with QuickAdd.
 
 ### How do I trigger a QuickAdd macro from my smartphone?
 You can trigger QuickAdd macros on mobile by pulling down the command palette within the Obsidian mobile app and selecting your configured QuickAdd choice. Alternatively, you can use the Obsidian Mobile core plugin to add a specific QuickAdd command directly to your mobile toolbar for one-tap access.

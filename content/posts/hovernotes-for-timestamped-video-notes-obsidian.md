@@ -15,9 +15,9 @@ type: "informational"
 
 Extracting knowledge from video content has traditionally been a fragmented process. You watch a lecture or tutorial in a browser window, switch to a text editor to jot down a thought, and inevitably lose your place. Worse, when you review your notes weeks later, you have no efficient way to trace a specific insight back to the exact visual context that generated it.
 
-For [knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/), [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and students using Obsidian, bridging the gap between linear video consumption and interconnected text notes is critical. The visual medium contains dense, high-value information, but without a systematic way to anchor text to video timelines, that value remains locked inside the media file.
+For [knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/), [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and [students](/posts/organizing-complex-academic-projects-in-an-obsidian-vault/) using Obsidian, bridging the gap between linear video consumption and interconnected text notes is critical. The visual medium contains dense, high-value information, but without a systematic way to anchor text to video timelines, that value remains locked inside the media file.
 
-Using HoverNotes for timestamped video notes in Obsidian solves this structural problem. By bringing the media player directly into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) environment and binding playback controls to markdown elements, you transform passive viewing into an active, verifiable research [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). This guide details how to implement, configure, and optimize this system.
+Using HoverNotes for timestamped video notes in Obsidian solves this structural problem. By bringing the media player directly into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) environment and binding playback controls to markdown elements, you transform passive viewing into an active, verifiable research [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). This guide details how to implement, configure, and optimize this system.
 
 ## The Mechanics of Timestamped Video Notes
 
@@ -50,7 +50,7 @@ Proper configuration is necessary to ensure the timestamping mechanism works smo
 
 ### Installation Process
 
-1.  Open Obsidian and navigate to **Settings** > **Community plugins**.
+1.  Open Obsidian and navigate to **Settings** > **Community [plugins](/posts/periodic-notes-plugin-weekly-reviews/)**.
 2.  Ensure **Safe mode** is turned off to allow third-party plugin installation.
 3.  Click **Browse** and search for "HoverNotes".
 4.  Click **Install**, then **Enable** the plugin.

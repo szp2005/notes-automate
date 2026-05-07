@@ -116,7 +116,7 @@ Bear is an iOS and macOS exclusive that combines the power of markdown with a st
 **Price:** Free
 **Rating:** 4.6/5
 
-Markor is a standout open-source text editor designed exclusively for Android. It is incredibly lightweight, respects user privacy entirely, and operates offline using your local file system. Markor isn't just a basic editor; it supports standard markdown alongside task management formats like todo.txt. Because it works directly with standard local directories on your Android device, it pairs perfectly with third-party syncing utilities like Syncthing, making it the ultimate tool for tech-savvy users who demand total system control.
+Markor is a standout open-source text editor designed exclusively for Android. It is incredibly lightweight, respects user privacy entirely, and operates offline using your local file system. Markor isn't just a basic editor; it supports standard markdown alongside [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) formats like todo.txt. Because it works directly with standard local directories on your Android device, it pairs perfectly with third-party syncing utilities like Syncthing, making it the ultimate tool for tech-savvy users who demand total system control.
 
 **Pros:**
 - Completely free and open-source with zero tracking or advertisements
@@ -149,11 +149,11 @@ No, the vast majority of proper markdown editors—including Obsidian, Markor, a
 Markdown is traditionally a single-player format based on local files, making real-time collaboration akin to Google Docs difficult. However, some ecosystems are bridging this gap. Obsidian offers a paid "Publish" and "Sync" ecosystem that allows shared vaults, though true simultaneous multi-cursor editing on mobile remains rare in pure markdown environments.
 
 ### Are mobile markdown editors safe for sensitive journal entries?
-Because markdown files are plain text, they are not inherently encrypted at rest. If privacy is a major concern, you must either use an app that supports localized encryption natively, or ensure your device-level encryption and cloud storage providers use zero-knowledge, end-to-end encryption for the folder where your markdown files reside.
+Because markdown files are plain text, they are not inherently encrypted at rest. If privacy is a major concern, you must either use an app that supports localized [encryption](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/) natively, or ensure your device-level encryption and cloud storage providers use zero-knowledge, end-to-end encryption for the folder where your markdown files reside.
 
 ---
 
 ## Related Reading
 
-- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Advanced [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

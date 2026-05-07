@@ -19,11 +19,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 In the realm of personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/), the quest for an advanced personal wiki often leads to a crossroads between powerful, flexible tools. For individuals who move beyond simple [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/) and seek to build intricate knowledge bases, connect ideas, and manage complex projects, the choice of platform becomes critical. Two prominent contenders frequently emerge in this advanced space: Obsidian and TiddlyWiki. Both offer profound capabilities for organizing information, but they approach the task from fundamentally different philosophies.
 
-This article delves into a comprehensive comparison of Obsidian and TiddlyWiki, specifically tailored for users with advanced requirements. We will explore their core architectures, extensibility, user experience, and the implications for data ownership and long-term usability. Understanding these distinctions is crucial for selecting the tool that aligns best with your specific [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), technical comfort, and vision for your personal knowledge repository.
+This article delves into a comprehensive comparison of Obsidian and TiddlyWiki, specifically tailored for users with advanced requirements. We will explore their core architectures, extensibility, user experience, and the implications for data ownership and long-term usability. Understanding these distinctions is crucial for selecting the tool that aligns best with your specific [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/), technical comfort, and vision for your personal knowledge repository.
 
 ## Understanding Advanced Personal Wiki Needs
 
-Before diving into the specifics of each tool, it's important to define what constitutes an "advanced personal wiki." This isn't just about storing notes; it's about creating a dynamic, interconnected knowledge system. Advanced users typically require:
+Before diving into the specifics of each tool, it's important to define what constitutes an "advanced personal wiki." This isn't just about storing notes; it's about creating a dynamic, interconnected knowledge system. [Advanced users](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) typically require:
 
 *   **Robust Linking & Graphing:** The ability to easily link notes and visualize their relationships, often through a knowledge graph.
 *   **Extensibility & Customization:** The power to tailor the tool to specific workflows, integrate with other systems, and extend functionality through plugins or custom code.
@@ -251,7 +251,7 @@ The decision between Obsidian and TiddlyWiki for an advanced personal wiki is no
 
 **TiddlyWiki**, on the other hand, is the champion of ultimate portability, self-containment, and deep, granular customization. Its unique single-file architecture and tiddler concept offer unparalleled control for users willing to invest in its steeper learning curve. It's ideal for individuals who prioritize extreme data ownership, desire to build a truly bespoke knowledge system from the ground up, and are comfortable leveraging web technologies for advanced modifications.
 
-Consider your priorities: Do you prefer a powerful, extensible application built on open file formats, or a completely self-contained, infinitely customizable web-based wiki? Both Obsidian and TiddlyWiki represent the pinnacle of advanced personal knowledge management, each offering a distinct path to mastering your information.
+Consider your priorities: Do you prefer a powerful, extensible application built on open file formats, or a completely self-contained, infinitely customizable web-based wiki? Both Obsidian and TiddlyWiki represent the pinnacle of advanced [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/), each offering a distinct path to mastering your information.
 
 ## Frequently Asked Questions
 

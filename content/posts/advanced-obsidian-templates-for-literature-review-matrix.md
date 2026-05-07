@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026
 
-> **Quick Answer:** The most effective advanced Obsidian templates for literature review matrix workflows combine Dataview queries, metadata structuring, and Zettelkasten principles. The **Obsidian Academic Vault Pro** is the top overall choice for comprehensive research tracking, while the **Dataview Driven Literature Tracker** is best for researchers who need highly customizable synthesis tables.
+> **Quick Answer:** The most effective advanced Obsidian templates for literature review matrix workflows combine [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) queries, [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) structuring, and Zettelkasten principles. The **Obsidian Academic Vault Pro** is the top overall choice for comprehensive research tracking, while the **Dataview Driven Literature Tracker** is best for researchers who need highly customizable synthesis tables.
 
 Managing a massive volume of academic papers, citations, and scattered insights is the most common bottleneck in the research process. If you are still using static Excel spreadsheets or isolated word processor documents to synthesize your literature, you are likely losing hours to manual data entry and missing critical thematic connections across your sources. A literature review matrix is essential for tracking methodologies, findings, and gaps, but traditional formats scale poorly as your research grows.
 
@@ -42,7 +42,7 @@ The Obsidian Academic Vault Pro is a highly structured, comprehensive system des
 It utilizes advanced DataviewJS scripts to generate matrices that allow inline editing, meaning you can update metadata directly from the table view without opening individual notes. The template also includes heavily customized quick-add macros that standardizes how you ingest new papers, ensuring that required fields like methodology, sample size, and key findings are never left blank.
 
 **Pros:**
-- Complete end-to-end research [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) system out of the box
+- Complete end-to-end research [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) system out of the box
 - DataviewJS integration allows for inline editing of matrix cells
 - Flawless Zotero integration templates included
 

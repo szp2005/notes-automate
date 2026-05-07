@@ -23,7 +23,7 @@ This article provides a comprehensive comparison of Obsidian and Scrivener, eval
 
 ## Understanding Obsidian: A Networked Brain for Writers
 
-Obsidian has rapidly gained popularity as a powerful tool for personal knowledge management and networked thought. At its core, Obsidian is a markdown-based, local-first application that allows users to create and link notes, building a "second brain" of interconnected ideas. While not explicitly designed as a long-form writing application, its flexibility and robust plugin ecosystem make it a compelling option for writers who prioritize interconnectedness, deep research, and a highly customizable [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
+Obsidian has rapidly gained popularity as a powerful tool for [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) and networked thought. At its core, Obsidian is a markdown-based, local-first application that allows users to create and link notes, building a "second brain" of interconnected ideas. While not explicitly designed as a long-form writing application, its flexibility and robust plugin ecosystem make it a compelling option for writers who prioritize interconnectedness, deep research, and a highly customizable [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/).
 
 ### 1. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=notesautomate-20)
 
@@ -160,7 +160,7 @@ Obsidian's core application is free for personal use, with optional paid service
 
 ## Related Reading
 
-- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Advanced [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
 
 - [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
 

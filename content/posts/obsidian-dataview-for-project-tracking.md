@@ -190,7 +190,7 @@ Implementing Obsidian Dataview for project tracking requires discipline. The sof
 1. **Limit query scopes for performance:** Running `FROM ""` searches your entire vault. If you have 10,000 notes, this will cause noticeable lag every time you open your dashboard. Always restrict Dataview queries to specific directories (e.g., `FROM "Projects/Active"`) or specific tags (`FROM #project`).
 2. **Standardize date formats:** Dataview expects ISO 8601 formatting for dates (`YYYY-MM-DD`). If you write `May 1st, 2026` in your metadata, Dataview will treat it as a plain string, breaking your date-based filtering and sorting algorithms.
 3. **Keep metadata simple:** Do not create twenty YAML properties for a project. Track only what you actually need to query. Status, deadline, priority, and area/client are usually sufficient. Redundant metadata creates friction, making you less likely to maintain the system over time.
-4. **Remember that Dataview is read-only:** You cannot click a checkbox inside a Dataview `TABLE` to mark a project complete. You must navigate to the original file to change the YAML. For task lists, clicking a checkbox in a `TASK` query *will* alter the original file, which is a vital [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) efficiency.
+4. **Remember that Dataview is read-only:** You cannot click a checkbox inside a Dataview `TABLE` to mark a project complete. You must navigate to the original file to change the YAML. For task lists, clicking a checkbox in a `TASK` query *will* alter the original file, which is a vital [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) efficiency.
 
 ## Building Your Permanent Tracking System
 
@@ -205,10 +205,10 @@ Yes. Dataview queries execute locally on your device. Whether you are using iOS 
 It can, depending on the complexity of your queries and the size of your vault. Performance issues typically arise when users query their entire vault instead of narrowing the search using specific folders or tags. Keep your `FROM` statements targeted.
 
 ### Can I edit data directly inside a Dataview table?
-No, natively Dataview produces read-only views of your metadata. To alter a project's status, you must click into the source file. However, community plugins like Metadata Menu can be layered over Dataview to enable inline editing from tables.
+No, natively Dataview produces read-only views of your metadata. To alter a project's status, you must click into the source file. However, community [plugins](/posts/periodic-notes-plugin-weekly-reviews/) like Metadata Menu can be layered over Dataview to enable inline editing from tables.
 
 ### What is the difference between Dataview and Obsidian Projects?
-Dataview is a query engine that uses code blocks to display data in standard formats. The Obsidian Projects plugin is a visual interface layer (often built on top of Dataview data) that provides Kanban boards, calendar views, and gallery views without requiring you to write DQL code.
+Dataview is a query engine that uses code blocks to display data in standard formats. The Obsidian Projects plugin is a visual interface layer (often built on top of Dataview data) that provides [Kanban](/posts/kanban-plugin-for-obsidian-project-management/) boards, calendar views, and gallery views without requiring you to write DQL code.
 
 ### Are Dataview queries future-proof?
 The queries themselves are specific to the Dataview plugin. However, the data powering the queries (your markdown tasks and YAML frontmatter) is universal. If Dataview ever ceases to exist, your raw data remains perfectly intact and accessible by any other text parser.

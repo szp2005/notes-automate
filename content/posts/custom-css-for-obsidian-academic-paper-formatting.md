@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 For academics, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and students, Obsidian has become an indispensable tool for [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/), [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/), and even drafting research papers. Its powerful linking capabilities and local-first approach offer unparalleled flexibility. However, when it comes to the stringent formatting requirements of academic papers—think APA, MLA, Chicago, or specific journal styles—Obsidian's default appearance often falls short. While plugins can assist with citations, the visual presentation of your work within Obsidian, and critically, upon export, requires a more granular approach.
 
-This is where custom CSS becomes not just an option, but a necessity. By leveraging custom CSS, you can transform Obsidian from a generic markdown editor into a highly specialized academic writing environment. This guide will walk you through the process of applying custom styles to ensure your headings, paragraphs, blockquotes, and even integrated citations meet the exacting standards of academic publishing, streamlining your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) and enhancing the professional quality of your research output.
+This is where custom CSS becomes not just an option, but a necessity. By leveraging custom CSS, you can transform Obsidian from a generic markdown editor into a highly specialized academic writing environment. This guide will walk you through the process of applying custom styles to ensure your headings, paragraphs, blockquotes, and even integrated citations meet the exacting standards of academic publishing, streamlining your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) and enhancing the professional quality of your research output.
 
 ## Understanding Obsidian's Styling Architecture
 
@@ -25,7 +25,7 @@ Before diving into specific CSS rules, it's crucial to grasp how Obsidian applie
 
 Obsidian's styling hierarchy typically follows this order:
 1.  **Obsidian's Base Styles:** The foundational CSS that defines the core look and feel of the application.
-2.  **Active Theme:** The theme you've selected (e.g., default, Minimal, AnuPpuccin). Themes are essentially large CSS files that significantly alter Obsidian's appearance.
+2.  **Active Theme:** The theme you've selected (e.g., default, Minimal, AnuPpuccin). [Themes](/posts/things-theme-vs-minimal-theme-obsidian/) are essentially large CSS files that significantly alter Obsidian's appearance.
 3.  **CSS Snippets:** User-defined `.css` files located in your vault's `.obsidian/snippets` folder. These are designed to allow small, targeted modifications without altering the entire theme.
 4.  **Plugin-Specific Styles:** Some plugins inject their own CSS, which can sometimes be overridden by snippets if your snippet's rules are more specific.
 
@@ -235,7 +235,7 @@ If you're using a system where citations are simply rendered as plain text withi
 
 ### Formatting Bibliography Sections
 
-For bibliographies, many academics generate them using Zotero/Mendeley and then paste them into Obsidian, or use plugins like Dataview to dynamically pull references. A common requirement is a "hanging indent" where the first line of each entry is flush left, and subsequent lines are indented.
+For bibliographies, many academics generate them using Zotero/Mendeley and then paste them into Obsidian, or use plugins like [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) to dynamically pull references. A common requirement is a "hanging indent" where the first line of each entry is flush left, and subsequent lines are indented.
 
 Assuming your bibliography entries are within a `div` or `ul` with a specific class (e.g., `.bibliography` or `.references`), and each entry is a `p` or `li` element:
 

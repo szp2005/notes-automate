@@ -17,7 +17,7 @@ We consume more information online than ever before, yet most of what we read sl
 
 However, a major friction point in modern digital workflows is the ingestion phase. How do you take raw data captured from the internet and elevate it into a structured, useful format without overwhelming yourself? Successfully integrating web clips into your zettelkasten note system requires a deliberate shift from collecting to connecting. It is not about saving the whole webpage; it is about extracting the atomic ideas and anchoring them into your existing web of thought.
 
-Establishing a reliable, frictionless bridge between the internet and your personal knowledge base is essential. Without a defined process, you will either stop capturing valuable insights out of frustration, or you will capture so much raw text that your Zettelkasten becomes diluted with unrefined information. This guide breaks down the complete [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) for turning web highlights into permanent, interconnected knowledge.
+Establishing a reliable, frictionless bridge between the internet and your personal knowledge base is essential. Without a defined process, you will either stop capturing valuable insights out of frustration, or you will capture so much raw text that your Zettelkasten becomes diluted with unrefined information. This guide breaks down the complete [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) for turning web highlights into permanent, interconnected knowledge.
 
 ## The Difference Between Collecting and Connecting
 
@@ -33,7 +33,7 @@ The first step in your workflow is capturing the information efficiently. You ne
 
 Dedicated read-it-later applications like Omnivore, Matter, and Instapaper allow you to save articles, read them in a distraction-free environment, and highlight key passages. These tools often feature robust APIs or direct integrations with popular markdown-based note apps. 
 
-Middleware aggregators, such as Readwise, act as a central nervous system for your highlights. Readwise pulls annotations from Kindle, web clippers, and Twitter, formatting them consistently before pushing them automatically into your Zettelkasten software (like Obsidian, Logseq, or Roam Research). 
+Middleware aggregators, such as [Readwise](/posts/building-a-second-brain-using-obsidian-and-readwise/), act as a central nervous system for your highlights. Readwise pulls annotations from Kindle, web clippers, and Twitter, formatting them consistently before pushing them automatically into your Zettelkasten software (like Obsidian, Logseq, or Roam Research). 
 
 Browser extensions provided directly by your note-taking app (such as the Obsidian Web Clipper or Notion Web Clipper) offer direct-to-inbox capture. These are highly efficient because they bypass third-party services. When choosing your tool stack, prioritize low friction. If capturing a highlight takes more than two clicks, you will eventually stop doing it. Ensure your chosen tool automatically captures the source URL, as every Zettel must cite its original inspiration.
 
@@ -108,7 +108,7 @@ By utilizing robust capture tools, maintaining a strict Inbox triage protocol, r
 If you capture the specific text of the highlight and the core argument in your permanent note, the loss of the original URL is unfortunate but not catastrophic. Your note retains its value. For critical research, use the Internet Archive's Wayback Machine to save a permanent snapshot of the source page and include that link in your metadata.
 
 ### Should I tag my web clips or just use folders?
-Tags are generally more flexible than rigid folder structures. Tag the permanent note based on themes, concepts, or project names (e.g., `#productivity`, `#remote-work`) rather than the source type (`#article`, `#website`). Rely primarily on bidirectional linking to create structure, using tags simply as broad entry points to specific topics.
+Tags are generally more flexible than rigid folder structures. Tag the permanent note based on [themes](/posts/things-theme-vs-minimal-theme-obsidian/), concepts, or project names (e.g., `#productivity`, `#remote-work`) rather than the source type (`#article`, `#website`). Rely primarily on bidirectional linking to create structure, using tags simply as broad entry points to specific topics.
 
 ### How much time should I spend processing web clips each day?
 Aim for no more than 15 to 30 minutes of processing time. If you cannot process your daily captures within that timeframe, you are highlighting too much information. Constrain your reading or be more selective with your capture tool to ensure your Inbox remains manageable.

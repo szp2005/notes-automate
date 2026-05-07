@@ -21,7 +21,7 @@ By using Mermaid diagrams for visual note taking in Obsidian, you maintain the c
 
 ## The Shift to Plain-Text Visualization
 
-For years, the standard [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) for adding visuals to notes involved drawing in Visio, Excalidraw, or Lucidchart, exporting a PNG, and dropping it into a document. When a detail changed, the entire process had to be repeated. This friction often prevents note-takers from updating their visuals, leading to stale information.
+For years, the standard [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) for adding visuals to notes involved drawing in Visio, Excalidraw, or Lucidchart, exporting a PNG, and dropping it into a document. When a detail changed, the entire process had to be repeated. This friction often prevents note-takers from updating their visuals, leading to stale information.
 
 Mermaid shifts the paradigm by treating visual diagrams as code. Because the diagrams are defined by text strings stored right inside your Markdown files, they benefit from everything that makes plain text superior: they are searchable, version-controllable, instantly editable, and completely future-proof. If Obsidian were to disappear tomorrow, your Mermaid code would still be readable by any text editor and renderable by dozens of other applications (including GitHub, Notion, and standard web browsers).
 
@@ -139,7 +139,7 @@ Obsidian's native Canvas feature provides an infinite whiteboard where you can d
 The Excalidraw plugin is phenomenally popular, allowing for hand-drawn style diagrams.
 
 **Use Excalidraw when:** You need to sketch freehand, annotate images, create highly custom layouts, or present information with a distinct, informal aesthetic.
-**Use Mermaid when:** You want standardized, professional-looking diagrams, need version control (diffing Excalidraw JSON is difficult; diffing Mermaid text is easy), and want to ensure the diagram is readable outside of Obsidian without exporting.
+**Use Mermaid when:** You want standardized, professional-looking diagrams, need [version control](/posts/setting-up-obsidian-git-for-automated-version-control/) (diffing Excalidraw JSON is difficult; diffing Mermaid text is easy), and want to ensure the diagram is readable outside of Obsidian without exporting.
 
 ## Conclusion
 
@@ -166,5 +166,5 @@ Yes, Mermaid is natively supported on both iOS and Android versions of Obsidian.
 
 ## Related Reading
 
-- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Advanced [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

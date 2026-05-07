@@ -15,13 +15,13 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Top 5 Obsidian Plugins for Academic Research (And How They Work Together)
 
-*Build a complete [literature review](/posts/advanced-obsidian-templates-for-literature-review-matrix/), [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), and synthesis system — not just a plugin list.*
+*Build a complete [literature review](/posts/advanced-obsidian-templates-for-literature-review-matrix/), [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/), and synthesis system — not just a plugin list.*
 
 ---
 
 ## TL;DR
 
-- **Five plugins form one system:** Zotero Integration, [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/), Canvas, [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/), and Omnisearch each solve a specific research bottleneck, and they're more powerful when used together than individually.
+- **Five plugins form one system:** [Zotero](/posts/zotero-integration-for-obsidian-academic-research/) Integration, [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/), Canvas, [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/), and Omnisearch each solve a specific research bottleneck, and they're more powerful when used together than individually.
 - **The workflow is linear:** You import papers via Zotero Integration → structure notes with Templater → query your library with Dataview → map arguments on Canvas → retrieve anything with Omnisearch.
 - **This setup replaces four or five separate tools** (reference manager exports, Excel reading lists, mind-mapping apps, and folder-based searches) with a single, locally stored vault you control.
 
@@ -52,7 +52,7 @@ This isn't a discipline problem. It's a tooling problem. The standard academic s
 
 But Obsidian's core app is deliberately minimal. The real power lives in its plugin ecosystem, which is where most guides stop: they hand you a list and walk away. This article takes a different approach. Each plugin below solves a specific, named problem in academic research, and the final section shows how all five connect into a workflow you can start using the same day.
 
-One practical note before diving in: if you work across a laptop, office desktop, and tablet, Obsidian Sync is worth the subscription. It keeps your entire vault — notes, attachments, plugin settings — identical across devices with end-to-end encryption. For research data, that security detail matters.
+One practical note before diving in: if you work across a laptop, office desktop, and tablet, Obsidian Sync is worth the subscription. It keeps your entire vault — notes, attachments, plugin settings — identical across devices with end-to-end [encryption](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/). For research data, that security detail matters.
 
 ---
 

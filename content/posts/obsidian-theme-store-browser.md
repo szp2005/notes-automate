@@ -51,7 +51,7 @@ Obsidian gives you two distinct places to browse community themes. Neither is se
 | See download counts | ✓ | ✗ |
 | Check for updates | ✓ | ✗ |
 
-The practical [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/): use the web gallery to shortlist candidates, then search for them by name inside the app and install.
+The practical [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/): use the web gallery to shortlist candidates, then search for them by name inside the app and install.
 
 ---
 
@@ -113,7 +113,7 @@ These five themes cover different aesthetics and are all actively maintained as 
 
 **Things** replicates the refined UI of the Things 3 task manager. If you use Obsidian for project planning alongside [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), the visual consistency helps.
 
-> 💡 **Want to go deeper on Obsidian workflows?** This Udemy course on Obsidian for [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) covers vault architecture, [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/), and visual customization in practical detail.
+> 💡 **Want to go deeper on Obsidian [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/)?** This Udemy course on Obsidian for [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) covers vault architecture, [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/), and visual customization in practical detail.
 
 ---
 
@@ -160,7 +160,7 @@ The Obsidian theme store browser is a two-part system: the in-app browser for in
 
 If you want to take your Obsidian setup from functional to genuinely enjoyable to use every day, aesthetics matter more than most [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) writers admit. A vault that looks right is a vault you actually open. And that is the point of building a solid personal knowledge system in the first place.
 
-> 🛠️ **Ready to level up beyond themes?** Explore Obsidian courses on Udemy covering automation, [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), Dataview, and advanced customization — everything you need to turn Obsidian into a second brain that actually works for you.
+> 🛠️ **Ready to level up beyond themes?** Explore Obsidian courses on Udemy covering automation, [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/), and advanced customization — everything you need to turn Obsidian into a second brain that actually works for you.
 
 ---
 

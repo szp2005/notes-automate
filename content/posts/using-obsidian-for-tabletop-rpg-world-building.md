@@ -13,13 +13,13 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian for Tabletop RPG World Building: Best Setup Guide (2026)
 
-> **Quick Answer:** Using Obsidian for tabletop RPG world building transforms scattered campaign notes into an interconnected, searchable database. By leveraging local Markdown files, bidirectional linking, and TTRPG-specific plugins like Leaflet and [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/), Game Masters can build a responsive wiki that seamlessly connects lore, NPCs, maps, and session prep without monthly subscription fees.
+> **Quick Answer:** Using Obsidian for tabletop RPG world building transforms scattered campaign notes into an interconnected, searchable database. By leveraging local Markdown files, bidirectional linking, and TTRPG-specific [plugins](/posts/periodic-notes-plugin-weekly-reviews/) like Leaflet and [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/), Game Masters can build a responsive wiki that seamlessly connects lore, NPCs, maps, and session prep without monthly subscription fees.
 
 Managing a tabletop RPG campaign quickly becomes a sprawling logistical challenge. Between tracking the sociopolitical landscape of a homebrew continent, remembering the voice of a minor tavern keeper introduced twelve sessions ago, and balancing upcoming combat encounters, Game Masters (GMs) frequently outgrow standard word processors and physical binders. The cognitive load required to recall these interconnected details mid-session often leads to pacing issues and continuity errors.
 
 Obsidian has emerged as the premier [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) tool for GMs precisely because it mirrors how world building naturally occurs: non-linearly. Unlike rigid folder hierarchies, Obsidian’s bidirectional linking allows you to connect an NPC’s page directly to their hometown, the faction they represent, and the session note where the players first met them. 
 
-This guide breaks down exactly how to architect your Obsidian vault for campaign management, detailing the structural frameworks, practical [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/), and the specific ecosystem of plugins that turn a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) app into a comprehensive world-building engine.
+This guide breaks down exactly how to architect your Obsidian vault for campaign management, detailing the structural frameworks, practical [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/), and the specific ecosystem of plugins that turn a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) app into a comprehensive world-building engine.
 
 ## The Core Mechanics of Obsidian for Game Masters
 
@@ -152,7 +152,7 @@ While Obsidian excels at interconnected knowledge management, GMs should underst
 
 **Notion** is highly visual and relies on rigid, powerful databases. It is excellent for collaborative world building if you are co-DMing, as it is cloud-native. However, Notion requires an always-on internet connection, can be slow to load large pages during a fast-paced game, and its relational databases can become brittle if heavily modified mid-campaign.
 
-**World Anvil** is purpose-built for TTRPGs and authors. It features bespoke templates for every conceivable world-building element, from linguistics to family trees, and offers player-facing presentation modes. The drawback is cost—premium features require a subscription—and data lock-in. Navigating its heavy UI can also be slower than typing raw text.
+**World Anvil** is purpose-built for TTRPGs and [authors](/posts/obsidian-vs-scrivenir-for-long-form-writing/). It features bespoke templates for every conceivable world-building element, from linguistics to family trees, and offers player-facing presentation modes. The drawback is cost—premium features require a subscription—and data lock-in. Navigating its heavy UI can also be slower than typing raw text.
 
 Obsidian occupies the middle ground. It provides the speed and offline security of a local text editor, with the structural power of a database (via Dataview) and the visual capabilities of a dedicated GM tool (via Leaflet), all entirely free. The trade-off is the initial learning curve; the GM must build the system themselves rather than stepping into a pre-configured framework.
 

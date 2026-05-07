@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Comparing Obsidian Git vs iCloud for Vault Syncing in 2026
 
-> **Quick Answer:** If you work entirely within the Apple hardware ecosystem, iCloud is the easiest, zero-configuration method for syncing your Obsidian vault. However, if you use a mix of Windows, Linux, or Android devices, or if you require strict [version control](/posts/setting-up-obsidian-git-for-automated-version-control/) to protect against accidental deletions, Obsidian Git is the vastly superior and more reliable solution.
+> **Quick Answer:** If you work entirely within the Apple hardware ecosystem, iCloud is the [easiest](/posts/how-to-find-obsidian-plugin-documentation/), zero-configuration method for syncing your Obsidian vault. However, if you use a mix of Windows, Linux, or Android devices, or if you require strict [version control](/posts/setting-up-obsidian-git-for-automated-version-control/) to protect against accidental deletions, Obsidian Git is the vastly superior and more reliable solution.
 
 Because Obsidian stores your notes as standard local Markdown files rather than in a proprietary cloud [database](/posts/obsidian-bases-native-update-review-2026/), you have complete ownership of your data. The tradeoff is that you are responsible for syncing that data across your computer, phone, and tablet. 
 
@@ -83,7 +83,7 @@ When evaluating speed and reliability, the winner depends entirely on the operat
 
 If you are syncing between a MacBook and an iPhone, iCloud operates with near-instantaneous speed. Changes made on the desktop usually appear on the phone within three to five seconds. However, iCloud on Windows is heavily throttled. Users attempting to sync a vault between a Windows PC and an iPhone often report delays stretching from minutes to hours, with the iCloud Windows client failing to register small text file modifications consistently. 
 
-Obsidian Git provides consistent performance regardless of the operating system. A `git push` from a Windows machine reaches GitHub instantly, and a `git pull` from an Android device retrieves it just as fast. The primary performance bottleneck with Git is binary files. If your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) involves pasting dozens of screenshots or large PDFs into your [daily notes](/posts/automate-obsidian-daily-notes-using-python/), Git repositories become bloated. Cloning a massive Git repository onto a new mobile device can take significant time, whereas iCloud streams those attachments on-demand.
+Obsidian Git provides consistent performance regardless of the operating system. A `git push` from a Windows machine reaches GitHub instantly, and a `git pull` from an Android device retrieves it just as fast. The primary performance bottleneck with Git is binary files. If your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) involves pasting dozens of screenshots or large PDFs into your [daily notes](/posts/automate-obsidian-daily-notes-using-python/), Git repositories become bloated. Cloning a massive Git repository onto a new mobile device can take significant time, whereas iCloud streams those attachments on-demand.
 
 Reliability is where Git shines. Because Git is designed for distributed software development, it is exceptionally robust against data loss. If two devices edit the same note offline, Git will flag a merge conflict and force you to resolve it, ensuring zero data is overwritten. iCloud handles conflicts poorly; it simply duplicates the file, creating fractured, messy vaults that require manual cleanup.
 
@@ -131,7 +131,7 @@ For iOS users who want the cross-platform power of Git, be prepared to purchase 
 ## Frequently Asked Questions
 
 ### Does iCloud sync work between Mac and Android?
-No. Apple does not provide a native iCloud Drive application for the Android operating system. If your mobile device runs Android, you must use an alternative syncing method like Obsidian Git, Syncthing, or the official Obsidian Sync service to access your vault on the go.
+No. Apple does not provide a native iCloud Drive application for the Android operating system. If your mobile device runs Android, you must use an alternative syncing method like Obsidian Git, [Syncthing](/posts/obsidian-sync-vs-syncthing-for-free-sync/), or the official Obsidian Sync service to access your vault on the go.
 
 ### How do I handle merge conflicts in Obsidian Git?
 Merge conflicts occur when a file is edited simultaneously on two different offline devices. Obsidian Git will alert you to the conflict upon syncing. You must manually open the affected markdown file, locate the Git conflict markers (`<<<<<<< HEAD`), delete the incorrect text block, remove the markers, and save the file to resolve the issue.
@@ -145,6 +145,8 @@ Running two syncing engines simultaneously on the same vault is highly discourag
 ---
 
 ## Related Reading
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
 
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
 

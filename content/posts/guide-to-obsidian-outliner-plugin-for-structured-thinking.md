@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The Obsidian Outliner plugin transforms standard bullet lists into a powerful Roam-like outlining environment. It enables structured thinking by allowing you to seamlessly collapse, expand, zoom into, and rearrange hierarchical bullet points using intuitive keyboard shortcuts, keeping your focus on the logical flow of ideas rather than formatting constraints.
 
-When you transition from traditional [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) applications to a networked thought tool like Obsidian, the sheer freedom can be overwhelming. Standard markdown files offer a blank canvas, but for complex problem-solving and deep intellectual work, an unstructured page often leads to disorganized thoughts. Structured thinking requires a framework that mirrors how the human brain processes complex information: hierarchically, step-by-step, and contextually.
+When you transition from traditional [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) applications to a networked thought tool like Obsidian, the sheer freedom can be overwhelming. Standard markdown files offer a blank canvas, but for complex problem-solving and deep intellectual work, an unstructured page often leads to disorganized thoughts. Structured thinking requires a framework that mirrors how the human brain processes complex information: hierarchically, step-by-step, and contextually.
 
 Outlining is the oldest and most reliable method for imposing order on chaotic ideas. However, native markdown lists in Obsidian lack the fluidity required for high-speed, structural thought. They require manual highlighting, copying, pasting, and constant formatting adjustments when moving points around. This friction interrupts the flow state necessary for deep cognitive work.
 
@@ -27,7 +27,7 @@ Structured thinking is the practice of breaking down complex, amorphous concepts
 
 Standard [long-form writing](/posts/obsidian-vs-scrivenir-for-long-form-writing/) often buries key concepts within dense paragraphs, making it difficult to scan, reorder, or connect specific ideas later. Outlining forces a modular approach. Each bullet point becomes an atomic thought. When thoughts are atomic, they can be easily manipulated.
 
-By enforcing hierarchy—parent nodes representing core concepts, child nodes representing supporting evidence or sub-tasks—you visually map the logical relationship between ideas. This visual mapping reveals gaps in logic, highlights areas requiring further research, and creates a natural progression from abstract theory to concrete execution. Using the Outliner plugin within Obsidian allows you to maintain this rigorous structure without sacrificing the benefits of Obsidian's bi-directional linking and graph database.
+By enforcing hierarchy—parent nodes representing core concepts, child nodes representing supporting evidence or sub-tasks—you visually map the logical relationship between ideas. This visual mapping reveals gaps in logic, highlights areas requiring further research, and creates a natural progression from abstract theory to concrete execution. Using the Outliner plugin within Obsidian allows you to maintain this rigorous structure without sacrificing the benefits of Obsidian's bi-directional linking and graph [database](/posts/obsidian-bases-native-update-review-2026/).
 
 ## Core Features of the Obsidian Outliner Plugin
 
@@ -39,7 +39,7 @@ The defining feature of the plugin is its ability to treat a bullet point and al
 
 ### Roam-like Cursor Behavior
 
-For users migrating from tools like Roam Research, Logseq, or Workflowy, the default cursor behavior in markdown editors feels restrictive. The Outliner plugin introduces constraints that prevent the cursor from breaking the list structure. It restricts backspacing over bullet points in ways that would accidentally convert a list item into standard text, ensuring that once you enter outlining mode, the tool helps you stay there.
+For users migrating from tools like Roam Research, [Logseq](/posts/obsidian-vs-logseq-for-privacy-focused-knowledge-management/), or Workflowy, the default cursor behavior in markdown editors feels restrictive. The Outliner plugin introduces constraints that prevent the cursor from breaking the list structure. It restricts backspacing over bullet points in ways that would accidentally convert a list item into standard text, ensuring that once you enter outlining mode, the tool helps you stay there.
 
 ### Focus and Zoom Mechanics
 

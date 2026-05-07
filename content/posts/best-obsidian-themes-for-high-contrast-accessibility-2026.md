@@ -13,13 +13,13 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best Obsidian Themes for High Contrast Accessibility in 2026
 
-> **Quick Answer:** The best Obsidian themes for high contrast accessibility in 2026 are **Minimal** (best overall when paired with the Style Settings plugin for true black/white toggles) and **Primary** (best for warm, astigmatism-friendly high contrast). Both themes consistently hit WCAG AAA standards for text legibility while providing distinct visual hierarchies that reduce cognitive load.
+> **Quick Answer:** The best Obsidian themes for high contrast accessibility in 2026 are **Minimal** (best overall when paired with the Style Settings plugin for true black/white toggles) and **Primary** (best for warm, astigmatism-friendly high contrast). Both themes consistently hit WCAG AAA standards for text legibility while providing distinct [visual](/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/) hierarchies that reduce cognitive load.
 
 [Knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) requires extended screen time. For users dealing with visual impairments, astigmatism, or severe digital eye strain, the [default](/posts/things-theme-vs-minimal-theme-obsidian/) appearance of many modern applications simply falls short. Low-contrast grays on slightly lighter gray backgrounds might look sleek, but they create unnecessary friction when you are trying to parse complex notes or read for hours.
 
 Obsidian's flexibility is its greatest strength here. Because the application relies entirely on CSS for its styling, the [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) has developed interfaces that prioritize extreme readability without sacrificing aesthetic appeal. However, navigating the hundreds of available community themes to find those that genuinely adhere to accessibility standards can be overwhelming.
 
-This guide evaluates the standout themes engineered for visual clarity in 2026, focusing on Web Content Accessibility Guidelines (WCAG) compliance, typography scaling, and interface contrast ratios. 
+This guide evaluates the standout themes engineered for visual clarity in 2026, focusing on Web Content Accessibility Guidelines (WCAG) compliance, [typography](/posts/best-font-pairings-obsidian-minimal-theme-2026/) scaling, and interface contrast ratios. 
 
 ## What Makes an Obsidian Theme Truly Accessible?
 
@@ -73,7 +73,7 @@ Created by Cecilia May, Primary takes a scientifically grounded approach to colo
 
 ### 3. Dracula Official
 
-**Best for:** [Developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) and users migrating from standard coding environments
+**Best for:** [Developers](/posts/best-obsidian-plugins-for-developers-and-code-[snippets](/posts/how-to-customize-obsidian-appearance-with-css-snippets/)/) and users migrating from standard coding environments
 **Price:** Free
 **Rating:** 4.6/5
 

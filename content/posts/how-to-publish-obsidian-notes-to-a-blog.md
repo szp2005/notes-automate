@@ -11,9 +11,9 @@ type: "informational"
 
 # Publish Obsidian Notes to a Blog: 5-Step Guide
 
-> **Quick Answer:** The most efficient way to publish Obsidian notes to a blog is by using a static site generator like Quartz, Astro, or Hugo. By pushing your markdown files to a GitHub repository, you can automatically deploy your local notes to platforms like Vercel or Netlify without breaking your existing [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
+> **Quick Answer:** The most efficient way to publish Obsidian notes to a blog is by using a static site generator like Quartz, Astro, or Hugo. By pushing your markdown files to a GitHub repository, you can automatically deploy your local notes to platforms like Vercel or Netlify without breaking your existing [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/).
 
-For many [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), writers, and developers, Obsidian is the central hub for knowledge. All your thoughts, drafts, and connections live locally in plain text markdown files. However, sharing that knowledge with the world historically required a fragmented workflow: drafting locally, copying text, pasting into a Content Management System (CMS) like WordPress, and manually fixing the formatting, links, and images. 
+For many [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), writers, and [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/), Obsidian is the central hub for knowledge. All your thoughts, drafts, and connections live locally in plain text markdown files. However, sharing that knowledge with the world historically required a fragmented workflow: drafting locally, copying text, pasting into a Content Management System (CMS) like WordPress, and manually fixing the formatting, links, and images. 
 
 This friction often prevents valuable insights from ever leaving the local vault. If your notes are already written in markdown, you should be able to push them to the web with minimal effort. 
 
@@ -33,7 +33,7 @@ Obsidian Publish natively understands Obsidian-specific markdown syntax, includi
 
 ### Tradeoffs and Costs
 
-The main drawback is the subscription cost. At $8 per month (billed annually), it is more expensive than many static site hosting platforms, which are often free for personal use. Furthermore, while you can inject custom CSS and JavaScript, your structural customization options are limited compared to building your own site from scratch. You do not control the underlying HTML generation, making advanced technical SEO or complex site architectures difficult to implement.
+The main drawback is the subscription cost. At $8 per month (billed annually), it is more expensive than many static site hosting platforms, which are often free for personal use. Furthermore, while you can inject custom CSS and JavaScript, your structural [customization](/posts/minimal-theme-for-obsidian-customization-tips/) options are limited compared to building your own site from scratch. You do not control the underlying HTML generation, making advanced technical SEO or complex site architectures difficult to implement.
 
 ## The Developer Route: Static Site Generators (SSGs)
 

@@ -31,7 +31,7 @@ Unlike query-based tools that render data visually without altering the underlyi
 
 ## Essential Plugins for the Weekly Review System
 
-To execute this architecture flawlessly, you need a precise stack of Obsidian plugins. Here are the core tools evaluated specifically for their utility in a weekly review workflow.
+To execute this architecture flawlessly, you need a precise stack of Obsidian plugins. Here are the core tools evaluated specifically for their utility in a weekly review [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/).
 
 ### 1. [Templater Plugin](https://www.amazon.com/s?k=Templater%20Plugin&tag=notesautomate-20)
 
@@ -48,7 +48,7 @@ Templater replaces Obsidian's native, simplistic template functionality with a r
 
 **Cons:**
 - Steep learning curve for users unfamiliar with coding syntax
-- Requires strict folder structures to trigger folder templates properly
+- Requires strict folder structures to trigger folder [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) properly
 
 ### 2. [Periodic Notes Plugin](https://www.amazon.com/s?k=Periodic%20Notes%20Plugin&tag=notesautomate-20)
 

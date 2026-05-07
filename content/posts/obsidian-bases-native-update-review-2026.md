@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The 2026 native update to Obsidian Bases fundamentally changes how the plugin handles [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), moving from a slow markdown wrapper to a core-integrated SQLite backend. It offers seamless Notion-style tables, Kanban boards, and galleries with zero noticeable lag, making it the definitive database solution for Obsidian power users seeking structured data without vendor lock-in.
 
-For years, the personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) community has been torn between two distinct paradigms: the rigid, highly structured database capabilities of Notion and the fast, offline, local-first markdown editing of Obsidian. While plugins like Dataview bridged this gap temporarily, they often felt like read-only querying languages rather than interactive, writable workspaces. You could query your data, but editing it natively inside a table without jumping through YAML frontmatter hoops remained elusive.
+For years, the personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) community has been torn between two distinct paradigms: the rigid, highly structured database capabilities of Notion and the fast, offline, local-first markdown editing of Obsidian. While plugins like [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) bridged this gap temporarily, they often felt like read-only querying languages rather than interactive, writable workspaces. You could query your data, but editing it natively inside a table without jumping through YAML frontmatter hoops remained elusive.
 
 The highly anticipated 2026 native update to the Obsidian Bases plugin attempts to solve this exact problem. By overhauling its underlying architecture to interact directly with Obsidian's core API and leveraging an efficient background indexing system, Bases promises to deliver a true, native database experience. It aims to let you edit, filter, group, and relate notes precisely as you would in an enterprise database tool, all while keeping your data strictly in local markdown files. 
 
@@ -25,7 +25,7 @@ This comprehensive review will explore the new architecture, benchmark its perfo
 
 Before we dive into the specific upgrades of the 2026 release, it is essential to understand the bottleneck that plagued earlier iterations of Obsidian database tools. Historically, plugins attempting to create Notion-like tables had to parse thousands of markdown files, extract the YAML or inline Dataview fields, render a React or Svelte frontend component, and then reverse-engineer any cell edits back into text replacements within the raw markdown files. 
 
-This [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) caused significant latency. Editing a cell in a table containing 500+ notes would result in visible UI freezing, CPU spikes, and occasional data synchronization errors if a sync service (like Obsidian Sync or iCloud) attempted to read the file during a write operation. The UI felt detached from the app, struggling to respect custom themes, native typography settings, or core hotkeys.
+This [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) caused significant latency. Editing a cell in a table containing 500+ notes would result in visible UI freezing, CPU spikes, and occasional data synchronization errors if a sync service (like Obsidian Sync or iCloud) attempted to read the file during a write operation. The UI felt detached from the app, struggling to respect custom themes, native typography settings, or core hotkeys.
 
 ## What Changed in the 2026 Native Update?
 
@@ -98,7 +98,7 @@ Memory usage has also been drastically optimized. Instead of holding the entire 
 
 ## UI/UX Improvements in Bases
 
-The visual overhaul is perhaps the most immediate improvement users will notice. Bases no longer looks like an embedded web page. The column headers, context menus, and pop-up modals use the exact CSS variables provided by Obsidian. Whether you are using the Minimal theme, AnuPpuccin, or the default appearance, Bases natively adapts its borders, background opacities, and hover states to match.
+The visual overhaul is perhaps the most immediate improvement users will notice. Bases no longer looks like an embedded web page. The column headers, context menus, and pop-up modals use the exact CSS variables provided by Obsidian. Whether you are using the [Minimal theme](/posts/things-theme-vs-minimal-theme-obsidian/), AnuPpuccin, or the default appearance, Bases natively adapts its borders, background opacities, and hover states to match.
 
 The mobile experience has finally received proper attention. Swiping horizontally across large tables now feels native, and the developers have introduced a "card view" specifically for mobile screens, replacing cramped rows with easy-to-tap interactive cards. Editing a text property summons the native iOS or Android keyboard without the frustrating cursor jumps that plagued the 2024 and 2025 releases.
 

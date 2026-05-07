@@ -25,9 +25,9 @@ Achieving this requires specific tooling. By utilizing an Obsidian plugin for au
 
 Before evaluating specific solutions, it helps to understand how Obsidian interacts with YouTube's infrastructure. YouTube generates automated captions for most videos and allows creators to upload manual transcripts. This data is exposed through YouTube's API and backend endpoints.
 
-When a plugin fetches this data, it performs several operations simultaneously. It requests the transcript file, parses the XML or JSON structure returned by YouTube, and formats it into Markdown. The most critical component of this process is the retention of time [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/). A block of text without context is difficult to navigate; a block of text prefixed with a `[04:23]` link that directly controls an embedded video player represents a mature knowledge management [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
+When a plugin fetches this data, it performs several operations simultaneously. It requests the transcript file, parses the XML or JSON structure returned by YouTube, and formats it into Markdown. The most critical component of this process is the retention of time [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/). A block of text without context is difficult to navigate; a block of text prefixed with a `[04:23]` link that directly controls an embedded video player represents a mature knowledge management [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/).
 
-The formatting process also dictates how the text arrives in your vault. Some plugins dump the entire transcript as a single unformatted block, requiring manual line breaks. The best tools apply logical grouping, breaking the transcript into manageable paragraphs based on time intervals or natural pauses in speech, making the resulting document significantly easier to read and highlight.
+The formatting process also dictates how the text arrives in your vault. Some [plugins](/posts/periodic-notes-plugin-weekly-reviews/) dump the entire transcript as a single unformatted block, requiring manual line breaks. The best tools apply logical grouping, breaking the transcript into manageable paragraphs based on time intervals or natural pauses in speech, making the resulting document significantly easier to read and highlight.
 
 ## Top Plugins for the Job
 
@@ -123,7 +123,7 @@ Do not waste time meticulously copy-editing the entire transcript. Only correct 
 
 Full text transcripts consume very little disk space—a one-hour video might generate 30-50 kilobytes of text. However, importing hundreds of full transcripts can pollute your vault's global search results. If you search for the word "efficiency," you may have to sift through dozens of casual mentions in video transcripts before finding your actual synthesized notes on the topic.
 
-To mitigate this, structure your vault to separate raw inputs from synthesized knowledge. Place all raw video transcripts into a dedicated folder (e.g., `01 - Inputs/Videos`). You can then configure Obsidian's native search or the Omnisearch plugin to exclude this folder by default, only including it when you explicitly want to search raw source material.
+To mitigate this, structure your vault to separate raw inputs from synthesized knowledge. Place all raw video transcripts into a dedicated folder (e.g., `01 - Inputs/Videos`). You can then configure Obsidian's native search or the [Omnisearch](/posts/omnisearch-plugin-for-obsidian-fuzzy-search/) plugin to exclude this folder by default, only including it when you explicitly want to search raw source material.
 
 ## Conclusion
 

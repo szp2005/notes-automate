@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-use-obsidian-templater-user-scripts.webp"
 title: "How to Use Obsidian Templater User Scripts: Complete Guide"
 description: "Learn how to use Obsidian Templater user scripts to automate workflows, fetch API data, and execute custom JavaScript directly inside your daily notes."
 pubDate: "2026-05-07"
@@ -14,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** To use Obsidian Templater user scripts, enable the feature in Templater's settings and define a dedicated scripts folder. Create `.js` files exporting a function in that folder, and call them inside your Obsidian templates using the `<% tp.user.scriptName() %>` syntax. This allows you to run complex JavaScript, fetch external data, and deeply customize your vault automation.
 
-For many users, Obsidian starts as a simple Markdown editor and quickly evolves into a comprehensive personal knowledge management (PKM) system. While basic templates help standardize your note-taking, they often hit a ceiling when you need dynamic data, API integrations, or complex logic. This is where the Templater plugin's most powerful feature comes into play: User Scripts.
+For many users, Obsidian starts as a simple Markdown editor and quickly evolves into a comprehensive personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system. While basic templates help standardize your [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/), they often hit a ceiling when you need dynamic data, API integrations, or complex logic. This is where the Templater plugin's most powerful feature comes into play: User Scripts.
 
 User Scripts allow you to write external JavaScript files and execute them directly from within your Obsidian templates. Instead of crowding your templates with hard-to-read inline code, you can modularize your logic, maintain it cleanly, and trigger advanced automation with a single line of Templater syntax.
 
@@ -135,7 +136,7 @@ Be mindful of execution time. If you have a daily note template that queries fiv
 
 ## Conclusion
 
-Mastering how to use Obsidian Templater user scripts bridges the gap between static note-taking and dynamic workflow automation. By setting up a dedicated scripts folder, utilizing the CommonJS module format, and leveraging asynchronous API calls, you can transform your Obsidian vault into a centralized hub that interacts with the outside world. Start with simple text manipulation scripts, gradually move toward external data fetching, and eventually, you will be building highly customized workflows that precisely fit your cognitive style.
+Mastering how to use Obsidian Templater user scripts bridges the gap between static note-taking and dynamic [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) automation. By setting up a dedicated scripts folder, utilizing the CommonJS module format, and leveraging asynchronous API calls, you can transform your Obsidian vault into a centralized hub that interacts with the outside world. Start with simple text manipulation scripts, gradually move toward external data fetching, and eventually, you will be building highly customized workflows that precisely fit your cognitive style.
 
 ## Frequently Asked Questions
 
@@ -153,3 +154,11 @@ User scripts sync seamlessly if you use Obsidian Sync or a cloud drive. However,
 
 ### Is there a limit to how many user scripts I can have?
 There is no hard limit built into Templater. You can have dozens of scripts in your designated folder. Performance only becomes an issue based on what the scripts actually execute when a template is triggered, not how many scripts are stored.
+
+---
+
+## Related Reading
+
+- [Obsidian Canvas vs. Excalidraw: Which Visual Tool Wins?](/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/)
+
+- [Automating Obsidian Frontmatter with Templater Scripts: 5-Step Guide](/posts/automating-obsidian-frontmatter-with-templater-scripts/)

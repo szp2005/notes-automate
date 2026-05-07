@@ -23,7 +23,7 @@ This guide details exactly how the Janitor plugin for Obsidian vault cleanup fun
 
 ## The Problem: Digital Clutter in Local Knowledge Bases
 
-Obsidian operates on local markdown files. This architecture provides complete data ownership and offline access, but it lacks the automatic garbage collection found in centralized, cloud-based databases like Notion or Evernote.
+Obsidian operates on local markdown files. This architecture provides complete data ownership and offline access, but it lacks the automatic garbage collection found in centralized, cloud-based databases like [Notion](/posts/n8n-workflow-for-syncing-obsidian-with-notion/) or Evernote.
 
 When you delete a note in Obsidian, the application removes that specific `.md` file. However, if that note contained three pasted images (saved in your designated attachments folder), those images are not automatically deleted. They remain on your hard drive, taking up space. If you rename a file and update links, occasionally external assets can lose their reference points.
 
@@ -56,7 +56,7 @@ Instead of forcing you to navigate to each file individually in your operating s
 Implementing the Janitor plugin requires careful configuration. Because the plugin handles file deletion, setting proper exclusions is critical to prevent the loss of files you intentionally keep unlinked.
 
 ### Installation and Initial Configuration
-1. Open Obsidian **Settings** and navigate to **Community Plugins**.
+1. Open Obsidian **Settings** and navigate to **Community [Plugins](/posts/periodic-notes-plugin-weekly-reviews/)**.
 2. Turn off Safe Mode if you haven't already, and click **Browse**.
 3. Search for "Janitor" and click **Install**, then **Enable**.
 4. Open the Janitor settings pane.
@@ -78,7 +78,7 @@ You can also set file size thresholds. For example, you can instruct Janitor to 
 Automated deletion tools require a disciplined [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) to ensure data integrity. Do not blindly click "Delete All" after running a scan. 
 
 ### The Pre-Scan Backup
-Always ensure your vault is backed up before running a bulk cleanup operation. If you use Obsidian Sync, ensure your version history is active. If you use local backups, trigger a Git commit or run your backup utility before launching Janitor. This guarantees that if a necessary file is incorrectly identified as an orphan, you can restore the entire vault state.
+Always ensure your vault is backed up before running a bulk cleanup operation. If you use Obsidian Sync, ensure your version history is active. If you use local [backups](/posts/explanation-of-obsidian-vault-structure-for-backups/), trigger a Git commit or run your backup utility before launching Janitor. This guarantees that if a necessary file is incorrectly identified as an orphan, you can restore the entire vault state.
 
 ### The Weekly Audit
 Rather than waiting for your vault to become sluggish, integrate Janitor into a [weekly review](/posts/obsidian-template-for-weekly-reflection-and-planning/) process. 

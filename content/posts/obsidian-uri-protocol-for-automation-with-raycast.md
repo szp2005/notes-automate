@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian URI Protocol for Automation with Raycast: Complete Guide
 
-> **Quick Answer:** The Obsidian URI protocol allows external apps to interact with your vault using deep links like `obsidian://open`. By combining this protocol with Raycast script commands on macOS, you can build custom, keyboard-driven automations to instantly capture ideas, open specific daily notes, or append text to running logs without ever touching your mouse.
+> **Quick Answer:** The Obsidian URI protocol allows external apps to interact with your vault using deep links like `obsidian://open`. By combining this protocol with Raycast script commands on macOS, you can build custom, keyboard-driven automations to instantly capture ideas, open specific [daily notes](/posts/automate-obsidian-daily-notes-using-python/), or append text to running logs without ever touching your mouse.
 
 For [knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/), friction is the enemy of [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/). When a brilliant idea strikes or a critical piece of information needs to be saved, the time it takes to switch contexts, open an application, navigate to the correct folder, create a new file, and start typing is often enough to derail your train of thought completely. 
 
@@ -39,7 +39,7 @@ The critical rule when working with URIs is URL encoding. Because spaces and spe
 
 ## Setting Up Raycast for Obsidian Automation
 
-Raycast does offer a community-built Obsidian extension in its store, which provides excellent out-of-the-box functionality for searching notes or appending text. However, relying solely on the pre-built extension limits your ability to create highly specific, multi-step [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) tailored to your exact vault structure. To unlock true automation, we must turn to Raycast Script Commands.
+Raycast does offer a [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/)-built Obsidian extension in its store, which provides excellent out-of-the-box functionality for searching notes or appending text. However, relying solely on the pre-built extension limits your ability to create highly specific, multi-step [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) tailored to your exact vault structure. To unlock true automation, we must turn to Raycast Script Commands.
 
 Script Commands allow you to write custom scripts in Bash, [Python](/posts/connecting-obsidian-to-external-api-with-python/), AppleScript, or Node.js, and execute them natively through the Raycast interface. Because macOS handles URI schemes natively via the `open` command in the terminal, triggering an Obsidian URI from a bash script is incredibly straightforward.
 
@@ -83,7 +83,7 @@ Format: `obsidian://new?vault=VaultName&file=Meetings%2FClientSync&content=Agend
 You can utilize Raycast arguments to capture the title of the note directly in the launcher, executing the URI to create the note in your designated "Inbox" or "Meetings" folder with template text already inserted.
 
 ### 3. Contextual Retrieval
-If you manage projects in Obsidian, you likely have "hub" notes or Kanban boards. Creating a suite of Raycast commands that open specific files allows you to treat these notes as standalone applications. Instead of switching to Obsidian and finding your "Q3 Marketing Plan," you simply hit your Raycast hotkey, and the exact note appears on screen immediately.
+If you manage projects in Obsidian, you likely have "hub" notes or [Kanban](/posts/kanban-plugin-for-obsidian-project-management/) boards. Creating a suite of Raycast commands that open specific files allows you to treat these notes as standalone applications. Instead of switching to Obsidian and finding your "Q3 Marketing Plan," you simply hit your Raycast hotkey, and the exact note appears on screen immediately.
 
 ## Supercharging Workflows with Advanced URI Plugin
 

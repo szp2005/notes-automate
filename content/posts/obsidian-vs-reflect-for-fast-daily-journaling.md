@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Daily journaling has evolved far beyond physical notebooks and simple text editors. Today, power users rely on networked thought applications to capture ideas, track habits, and synthesize knowledge over time. When evaluating Obsidian vs Reflect for fast daily journaling, the decision often comes down to friction versus control. 
 
-Obsidian has long been the heavyweight champion of personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM). Its local-first approach guarantees longevity, while its massive plugin ecosystem allows you to build virtually any [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). However, that power comes with a learning curve and configuration overhead. 
+Obsidian has long been the heavyweight champion of personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM). Its local-first approach guarantees longevity, while its massive plugin ecosystem allows you to build virtually any [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/comparing-obsidian-metadata-menu-vs-database-folder/)/). However, that power comes with a learning curve and configuration overhead. 
 
 Reflect entered the market with a starkly different philosophy. It removes the configuration burden entirely, offering an opinionated, highly polished interface centered around the daily note. With deep calendar integrations and native AI capabilities baked directly into the editor, it aims to capture the speed of human thought with zero setup.
 
@@ -37,7 +37,7 @@ The daily note is the entry point for both applications, but the execution diffe
 
 In Obsidian, the daily note workflow requires initial setup. You must enable the core "Daily Notes" plugin or install the popular "[Periodic Notes](/posts/obsidian-periodic-notes-plugin-setup-for-annual-reviews/)" community plugin. From there, you dictate a template folder, a destination folder, and a naming convention (usually `YYYY-MM-DD`). To navigate between days efficiently, users typically install the "Calendar" community plugin to add a visual date picker to the sidebar. 
 
-Once configured, hitting a hotkey in Obsidian instantly generates your daily template. This template can be highly complex, pulling in weather data, overdue tasks via the Dataview plugin, or inspirational quotes. The friction lies entirely in the setup phase; the execution is instantaneous.
+Once configured, hitting a hotkey in Obsidian instantly generates your daily template. This template can be highly complex, pulling in weather data, overdue tasks via the [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) plugin, or inspirational quotes. The friction lies entirely in the setup phase; the execution is instantaneous.
 
 Reflect anchors its entire interface on the daily note. When you open the application, you are immediately dropped into today's entry. There are no folders to navigate or plugins to configure. A continuous, scrollable timeline allows you to seamlessly scroll up to view yesterday's notes or last week's entries without clicking through a calendar. 
 
@@ -47,7 +47,7 @@ Reflect's native integration with Google and Outlook calendars automatically pul
 
 The primary goal of fast daily journaling is removing the barrier between a thought and its capture.
 
-Obsidian's capture speed depends entirely on your setup and device. On a desktop, using quick capture plugins or global hotkeys, logging a thought is instantaneous. However, Obsidian's mobile app can sometimes feel sluggish to launch, particularly if you have hundreds of plugins or a massive vault to index upon startup. Users often rely on third-party apps like Drafts or Apple Shortcuts to append text to their daily notes without opening the full Obsidian application on mobile.
+Obsidian's capture speed depends entirely on your setup and device. On a desktop, using quick capture plugins or global hotkeys, logging a thought is instantaneous. However, Obsidian's mobile app can sometimes feel sluggish to launch, particularly if you have hundreds of plugins or a massive vault to index upon startup. Users often rely on third-party apps like Drafts or [Apple Shortcuts](/posts/setting-up-obsidian-with-apple-shortcuts-for-mobile/) to append text to their daily notes without opening the full Obsidian application on mobile.
 
 Reflect excels in frictionless capture, particularly on mobile. The iOS app is lightweight and highly optimized for speed. Furthermore, Reflect integrates native Whisper AI voice transcription. You can open the mobile app, tap the microphone, dictate a rambling two-minute voice memo, and Reflect will accurately transcribe it, format it, and append it to your daily note. For capturing thoughts while commuting or walking, this built-in capability significantly reduces friction compared to Obsidian's text-heavy focus.
 

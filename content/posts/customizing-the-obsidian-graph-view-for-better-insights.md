@@ -15,7 +15,7 @@ type: "informational"
 
 The Obsidian graph view is often the feature that draws users to the application. It visually represents the connections between your ideas, promising a tangible, interactive map of your second brain. However, as your vault grows beyond a few hundred notes, that beautiful map almost inevitably degenerates into an unreadable, tangled mess of gray dots and intersecting lines. Without deliberate intervention, it becomes a chaotic mass that offers zero analytical value. 
 
-Transforming this default state into a powerful analytical tool requires intentional configuration. Customizing the Obsidian graph view for better insights is not just about making it look aesthetically pleasing; it is about manipulating the visual data to answer specific questions about your knowledge base. Are there isolated clusters of [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) that need integration? Are your primary hub notes becoming too dense and unfocused? Which concepts are dominating your current thinking?
+Transforming this default state into a powerful analytical tool requires intentional configuration. Customizing the Obsidian graph view for better insights is not just about making it look aesthetically pleasing; it is about manipulating the [visual](/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/) data to answer specific questions about your knowledge base. Are there isolated clusters of [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) that need integration? Are your primary hub notes becoming too dense and unfocused? Which concepts are dominating your current thinking?
 
 By moving beyond the default settings and strategically applying search queries, color groupings, and physics adjustments, you can uncover hidden relationships and structural weaknesses within your vault. This guide provides a systematic approach to configuring your graph view, turning it from a passive picture into an active engine for discovery, synthesis, and meaningful knowledge generation.
 
@@ -39,7 +39,7 @@ The "Orphans" toggle is an excellent diagnostic tool. Turning this on (while tur
 
 ## Step 2: Implementing Strategic Grouping for Visual Clarity
 
-While filters hide information, Groups help you classify the information that remains visible. By assigning colors to nodes based on specific criteria, you can instantly identify patterns, concentrations of topics, and the [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) state of your notes.
+While filters hide information, Groups help you classify the information that remains visible. By assigning colors to nodes based on specific criteria, you can instantly identify patterns, concentrations of topics, and the [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) state of your notes.
 
 ### Color-Coding by Tag or Folder
 
@@ -108,7 +108,7 @@ The optimal configuration for your graph depends heavily on how you use Obsidian
 If your vault is a pure Zettelkasten focused on atomic notes and emergent ideas:
 - **Filters:** Exclude all folders. Focus purely on links. Turn on Orphans to find lost thoughts.
 - **Groups:** Color code by high-level discipline (e.g., `#psychology`, `#economics`, `#technology`). 
-- **Forces:** High Repel Force, High Link Distance. You want to see the long, winding chains of thought (the "Folgezettel") stretching across the canvas, rather than dense, centralized hubs.
+- **Forces:** High Repel Force, High Link Distance. You want to see the long, winding chains of thought (the "Folgezettel") stretching across the [canvas](/posts/what-is-the-obsidian-canvas-plugin/), rather than dense, centralized hubs.
 
 ### The Project Management Vault
 
@@ -141,6 +141,8 @@ By default, the size of a node in the Obsidian graph view is determined by the n
 ---
 
 ## Related Reading
+
+- [Understanding the Obsidian Internal Link Syntax Variations: Complete Guide](/posts/understanding-the-obsidian-internal-link-syntax-variations/)
 
 - [Raindrop IO Integration for Obsidian Bookmark Management Guide](/posts/raindrop-io-integration-for-obsidian-bookmark-management/)
 

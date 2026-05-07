@@ -11,7 +11,7 @@ type: "informational"
 
 # Explanation of Obsidian Vault Structure for Backups (Full Guide)
 
-> **Quick Answer:** A complete explanation of obsidian vault structure for backups starts with recognizing that your vault is simply a standard local folder on your computer. To fully back up your workspace, you must secure both your visible Markdown files (your notes) and the hidden `.obsidian` directory, which houses your plugins, themes, hotkeys, and core configurations, ensuring you can restore the exact environment without losing any customizations.
+> **Quick Answer:** A complete explanation of obsidian vault structure for backups starts with recognizing that your vault is simply a standard local folder on your computer. To fully back up your workspace, you must secure both your visible Markdown files (your notes) and the hidden `.obsidian` directory, which houses your [plugins](/posts/periodic-notes-plugin-weekly-reviews/), themes, hotkeys, and core configurations, ensuring you can restore the exact environment without losing any customizations.
 
 The greatest advantage of Obsidian is its local-first philosophy. Instead of locking your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system behind a proprietary cloud database, Obsidian stores everything as plain text files directly on your hard drive. This means you have ultimate control over your data, unparalleled privacy, and the ability to access your notes offline. However, this local-first approach also places the burden of responsibility squarely on your shoulders: if your hard drive fails and you have no backup, your entire knowledge base is gone. 
 
@@ -55,7 +55,7 @@ Directly inside the `.obsidian` folder, you will find several critical JSON file
 
 ### Community Plugins and Themes
 
-The Obsidian community has developed thousands of third-opacity plugins that radically expand the software's functionality—from adding [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) queries and Kanban boards to integrating artificial intelligence and advanced calendar tools.
+The Obsidian community has developed thousands of third-opacity plugins that radically expand the software's functionality—from adding [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) queries and [Kanban](/posts/kanban-plugin-for-obsidian-project-management/) boards to integrating artificial intelligence and advanced calendar tools.
 
 - **`plugins/` Directory:** This folder contains a subfolder for every community plugin you have installed. Inside each subfolder, there is typically a `main.js` (the plugin code), a `manifest.json` (plugin metadata), and a `data.json` file. The `data.json` file is incredibly important; it stores the specific settings and parameters you have configured for that individual plugin.
 - **`themes/` Directory:** Any community themes you have downloaded from the appearance menu are stored here as CSS files.
@@ -115,7 +115,7 @@ Using native operating system tools—Apple's Time Machine for macOS or File His
 
 ### Version Control Using Git
 
-For software developers, engineers, and technical users, Git is the gold standard for Obsidian backups. Using the community plugin *Obsidian Git*, you can automate the process of committing your vault changes and pushing them to a private repository on GitHub, GitLab, or Bitbucket.
+For software [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/), engineers, and technical users, Git is the gold standard for Obsidian backups. Using the community plugin *Obsidian Git*, you can automate the process of committing your vault changes and pushing them to a private repository on GitHub, GitLab, or Bitbucket.
 
 **Pros:** 
 - Creates a pristine, annotated historical record of exactly how your knowledge base has evolved.

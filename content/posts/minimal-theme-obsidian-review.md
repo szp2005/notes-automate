@@ -16,7 +16,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 # Obsidian Minimal Theme Review (2024): The Best Clean Interface for Your Second Brain?
 
 **TL;DR**
-- Minimal is a free, actively maintained Obsidian theme by Kepano that strips visual noise without gutting functionality — out of the box it already beats most themes for writer focus.
+- Minimal is a free, actively maintained Obsidian theme by Kepano that strips visual noise without gutting functionality — out of the box it already beats most [themes](/posts/best-obsidian-themes-for-high-contrast-accessibility-2026/) for writer focus.
 - Paired with the Style Settings and Minimal Theme Settings [plugins](/posts/periodic-notes-plugin-weekly-reviews/), you get granular control over typography, color, and layout without touching a single line of CSS.
 - It loads fast, stays fast, and suits writers, academics, and PKM power users — but if you want decorative flair or anime-style aesthetics, look elsewhere.
 
@@ -117,7 +117,7 @@ To genuinely master your setup, Skillshare hosts comprehensive Obsidian courses 
 | **Style Settings support** | ✅ Deep integration | ✅ Moderate | ✅ Very deep | ❌ None |
 | **Companion plugin** | ✅ Minimal Theme Settings | ❌ | ❌ | ❌ |
 | **Performance impact** | Negligible | Negligible | Slight (complex CSS) | Baseline |
-| **Best for** | Writers, academics, PKM | Journalists, long-form writers | Aesthetics-focused users, students | New users |
+| **Best for** | Writers, academics, PKM | Journalists, long-form writers | Aesthetics-focused users, [students](/posts/organizing-complex-academic-projects-in-an-obsidian-vault/) | New users |
 | **Learning curve** | Low-Medium | Low | Medium | None |
 | **Community snippet pool** | Very large | Small | Medium | N/A |
 | **Mobile optimization** | ✅ Excellent | ✅ Good | ✅ Good | ✅ Good |
@@ -134,7 +134,7 @@ To genuinely master your setup, Skillshare hosts comprehensive Obsidian courses 
 
 ### This Theme Is Built For You If:
 
-- **You write in Obsidian regularly** — daily notes, long-form drafts, [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) documents. Minimal's typography and line-length defaults are clearly tuned for reading prose.
+- **You write in Obsidian regularly** — [daily notes](/posts/automate-obsidian-daily-notes-using-python/), long-form drafts, [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) documents. Minimal's typography and line-length defaults are clearly tuned for reading prose.
 - **You use Obsidian as an academic or research tool** — the clean hierarchy makes literature notes and MOCs easy to navigate.
 - **You're a minimalist by preference**, not just aesthetics — you want fewer decisions in your environment, not more.
 - **You use Obsidian on multiple devices**, including mobile — Minimal's mobile rendering is among the best of any community theme.

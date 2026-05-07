@@ -11,7 +11,7 @@ type: "informational"
 
 # Applying the PARA Method to an Obsidian Vault: Complete Guide
 
-> **Quick Answer:** Applying the PARA method to an Obsidian vault involves structuring your root folder into four main directories: `1-Projects` (active tasks with deadlines), `2-Areas` (ongoing responsibilities), `3-Resources` (topics of interest), and `4-Archives` (inactive items). This framework categorizes notes by their immediate actionability rather than their subject matter, reducing mental friction when saving and retrieving information.
+> **Quick Answer:** Applying the PARA method to an Obsidian vault involves structuring your root folder into four main directories: `1-[Projects](/posts/using-obsidian-tasks-plugin-for-project-management/)` (active tasks with deadlines), `2-Areas` (ongoing responsibilities), `3-Resources` (topics of interest), and `4-Archives` (inactive items). This framework categorizes notes by their immediate actionability rather than their subject matter, reducing mental friction when saving and retrieving information.
 
 If your Obsidian vault feels like a chaotic web of disconnected thoughts, you are not alone. While the platform's bidirectional linking is powerful, an over-reliance on links and tags without a foundational structure often leads to digital clutter. When you need to find an actionable note quickly, traversing an unorganized graph view is incredibly inefficient.
 
@@ -31,7 +31,7 @@ Information moves through the system based on its current relevance to your acti
 - **Resources:** Used eventually, connected to interests or reference material.
 - **Archives:** Used rarely, kept only for historical record or future reference.
 
-When you open your Obsidian vault, the most urgent and actionable files should be the easiest to access. As notes lose their immediate relevance, they migrate down the chain, keeping your active workspace pristine.
+When you open your Obsidian vault, the most urgent and actionable files should be the [easiest](/posts/how-to-find-obsidian-plugin-documentation/) to access. As notes lose their immediate relevance, they migrate down the chain, keeping your active workspace pristine.
 
 ## Step 1: Setting Up the Foundational Folders
 
@@ -82,7 +82,7 @@ While PARA dictates the folder structure, Obsidian's unique features—tags, bid
 ### Using Folders vs. Links
 Folders dictate *where* a note lives based on actionability. Links dictate *how* notes relate to one another based on context. 
 
-For example, you might be researching a new [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) app. You place the `Note-Taking App Research` note in your `1-Projects` folder because you have a deadline to choose an app by Friday. Within that note, you might create bidirectional links to `[[Personal Knowledge Management]]` and `[[Productivity Systems]]`, which live in your `3-Resources` folder. 
+For example, you might be researching a new [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) app. You place the `Note-Taking App Research` note in your `1-Projects` folder because you have a deadline to choose an app by Friday. Within that note, you might create bidirectional links to `[[Personal Knowledge Management]]` and `[[Productivity Systems]]`, which live in your `3-Resources` folder. 
 
 The folder structure tells you what to work on today. The links provide the deep, lateral context when you are exploring ideas.
 

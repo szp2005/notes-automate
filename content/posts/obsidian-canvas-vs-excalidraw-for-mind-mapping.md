@@ -13,7 +13,7 @@ tags: ["obsidian", "canvas", "excalidraw", "visual"]
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# Obsidian Canvas vs. Excalidraw for Mind Mapping: Which Visual Tool Belongs in Your PKM [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)?
+# Obsidian Canvas vs. Excalidraw for Mind Mapping: Which Visual Tool Belongs in Your PKM [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/)?
 
 ---
 
@@ -72,7 +72,7 @@ Both tools produce visual diagrams. That's roughly where the similarity ends. Th
 
 ### It lives inside your vault without asking permission
 
-Canvas is a core plugin. Enable it once and it works. Every `.canvas` file sits in your vault alongside your Markdown notes, syncs through your chosen sync method, and is backed up automatically if you use version control. There is no separate account, no external API call, and no plugin update to break things on an Obsidian release day.
+Canvas is a core plugin. Enable it once and it works. Every `.canvas` file sits in your vault alongside your Markdown notes, syncs through your chosen sync method, and is backed up automatically if you use [version control](/posts/setting-up-obsidian-git-for-automated-version-control/). There is no separate account, no external API call, and no plugin update to break things on an Obsidian release day.
 
 ### Live note cards are the killer feature
 
@@ -180,7 +180,7 @@ If you had to pick one, the decision is straightforward: choose Canvas if the co
 
 Most PKM practitioners who have used both for more than a month end up running them in parallel. Canvas handles the knowledge graph layer; Excalidraw handles everything that needs to be drawn from scratch.
 
-To protect and access your visual maps across all your devices seamlessly, consider supporting the developers with Obsidian Sync—it handles both `.canvas` and `.excalidraw` files without any special configuration.
+To protect and access your visual maps across all your devices seamlessly, consider supporting the [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) with Obsidian Sync—it handles both `.canvas` and `.excalidraw` files without any special configuration.
 
 If you want to go deeper on building a structured second brain that integrates both tools intelligently, this highly-rated PKM course on Udemy covers visual workflow design, linking strategies, and Zettelkasten implementation in practical detail.
 

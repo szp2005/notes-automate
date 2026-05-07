@@ -20,8 +20,8 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 ## TL;DR
 
 - The Obsidian Tasks plugin lets you capture, filter, and query tasks stored anywhere in your vault — turning plain markdown checkboxes into a full project management system without leaving your notes.
-- Combining Tasks with Dataview gives you dynamic [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) that show overdue work, completion percentages, and priority views — all auto-updating and linked to your actual project notes.
-- This guide includes a copy-pasteable vault template structure, a "cookbook" of ready-to-use queries, and a PARA-based [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) you can implement today.
+- Combining Tasks with [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) gives you dynamic [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) that show overdue work, completion percentages, and priority views — all auto-updating and linked to your actual project notes.
+- This guide includes a copy-pasteable vault template structure, a "cookbook" of ready-to-use queries, and a PARA-based [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) you can implement today.
 
 ---
 
@@ -488,7 +488,7 @@ Using the Obsidian Tasks plugin for project management is not about replicating 
 
 The system described in this guide scales from a single project to a full PARA-structured vault. Start with the basic setup: install Tasks and Dataview, create one Project Home note, paste in the "Today's Focus" and "Overdue by Project" queries from the cookbook. Get comfortable with that for a week before adding the Master Dashboard or the recurring task setup. Build incrementally.
 
-The vault template structure — `Projects/`, `Areas/`, `Dashboard/`, `Daily Notes/` — is simple enough to set up in 20 minutes and robust enough to run a full consulting practice or research workflow without modification.
+The vault template structure — `Projects/`, `Areas/`, `Dashboard/`, `Daily Notes/` — is simple enough to set up in 20 minutes and robust enough to run a full consulting practice or [research workflow](/posts/automating-literature-reviews-using-obsidian-and-n8n/) without modification.
 
 For those who prefer to learn through video and want to go deeper into advanced DataviewJS dashboards, custom [themes](/posts/things-theme-vs-minimal-theme-obsidian/), and Obsidian [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) workflows, structured courses on platforms like Skillshare or Udemy offer step-by-step instruction with real vault walkthroughs. These courses compress months of trial-and-error into a few hours of focused learning.
 

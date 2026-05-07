@@ -11,7 +11,7 @@ type: "informational"
 
 # Minimal Theme for Obsidian Customization Tips: Complete Guide
 
-> **Quick Answer:** The most effective way to customize the Minimal theme in Obsidian is by installing the companion "Minimal Theme Settings" and "Style Settings" community [plugins](/posts/periodic-notes-plugin-weekly-reviews/). These allow you to adjust typography, toggle interface clutter, and switch color schemes (like Nord or Gruvbox) without writing code. For granular control, use Obsidian's [CSS snippets](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/) feature to override specific design elements like callouts and headers.
+> **Quick Answer:** The most effective way to customize the Minimal theme in Obsidian is by installing the companion "Minimal Theme Settings" and "Style Settings" [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) [plugins](/posts/periodic-notes-plugin-weekly-reviews/). These allow you to adjust typography, toggle interface clutter, and switch color schemes (like Nord or Gruvbox) without writing code. For granular control, use Obsidian's [CSS snippets](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/) feature to override specific design elements like callouts and headers.
 
 The default Obsidian interface is highly functional, but out of the box, it can feel visually dense. For users who rely on Obsidian as a daily driver for personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/), writing, or task tracking, visual clutter creates cognitive friction. Enter the Minimal theme. Developed by Kepano (the CEO of Obsidian), Minimal is the most downloaded theme in the Obsidian ecosystem. It is designed to strip away unnecessary UI elements, allowing your content to take center stage. 
 
@@ -30,7 +30,7 @@ To begin, ensure you have the Minimal theme active via **Settings > Appearance >
 1. **Minimal Theme Settings:** This is a purpose-built plugin designed specifically for the Minimal theme. It provides toggles for the most common layout adjustments, font selections, and color scheme presets. 
 2. **Style Settings:** This is a broader, theme-agnostic plugin that hooks into variables provided by theme [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/). Kepano has integrated hundreds of configurable variables into Minimal that only become visible once Style Settings is installed.
 
-Enable both plugins. Your customization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) will now operate on two tiers: Minimal Theme Settings for broad, vault-wide adjustments, and Style Settings for precise, granular control over individual elements.
+Enable both plugins. Your customization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) will now operate on two tiers: Minimal Theme Settings for broad, vault-wide adjustments, and Style Settings for precise, granular control over individual elements.
 
 ## Core Typography and Spacing Tweaks
 
@@ -177,7 +177,7 @@ The goal of these customization tips is not simply to make your vault look beaut
 ## Frequently Asked Questions
 
 ### How do I install the Minimal theme in Obsidian?
-Open Obsidian Settings, navigate to the Appearance tab, and click "Manage" under Themes. Search for "Minimal" in the community themes list, click install, and then click "Use" to apply it to your vault.
+Open Obsidian Settings, navigate to the Appearance tab, and click "[Manage](/posts/using-obsidian-tasks-plugin-for-project-management/)" under Themes. Search for "Minimal" in the community themes list, click install, and then click "Use" to apply it to your vault.
 
 ### Why aren't my Minimal Theme settings updating?
 If you adjust toggles in the Minimal Theme Settings plugin and see no change, you likely have conflicting CSS snippets active, or you have overridden the same setting within the Style Settings plugin. Style Settings generally takes precedence over Minimal Theme Settings.

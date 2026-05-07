@@ -11,7 +11,7 @@ type: "informational"
 
 # Automating Your Task Management With Obsidian Tasks Plugin: Guide
 
-> **Quick Answer:** Automating your task management with Obsidian Tasks plugin requires installing the community plugin, using the global task format (`- [ ] #task`), and deploying dynamic code block queries to automatically pull, filter, and sort your action items into centralized dashboards based on due dates, priority, and tags.
+> **Quick Answer:** Automating your task management with Obsidian Tasks plugin requires installing the [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugin, using the global task format (`- [ ] #task`), and deploying dynamic code block queries to automatically pull, filter, and sort your action items into centralized dashboards based on due dates, priority, and tags.
 
 Keeping track of action items scattered across [daily notes](/posts/automate-obsidian-daily-notes-using-python/), project files, and meeting minutes often leads to missed deadlines and fragmented workflows. Traditional task managers force you into rigid structures, while plain text notes lack the [database](/posts/obsidian-bases-native-update-review-2026/)-like features required to aggregate and sort tasks dynamically. Obsidian, primarily known as a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system, bridges this gap when paired with the right extensions. 
 
@@ -59,7 +59,7 @@ When managing a complex project, you need a localized view of all outstanding ac
 
 ```text
 not done
-path includes Projects/Website Redesign
+path includes [Projects](/posts/using-obsidian-tasks-plugin-for-project-management/)/Website Redesign
 sort by priority
 sort by due
 ```
@@ -87,7 +87,7 @@ This level of filtering is particularly useful for separating professional oblig
 
 ### Grouping Your Task Lists
 
-Instead of simply sorting tasks in a linear list, you can group them to create visual separation. Grouping by folder, by file, or by due date creates a highly readable structure.
+Instead of simply sorting tasks in a linear list, you can group them to create [visual](/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/) separation. Grouping by folder, by file, or by due date creates a highly readable structure.
 
 ```text
 not done

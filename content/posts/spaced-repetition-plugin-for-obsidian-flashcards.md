@@ -31,11 +31,11 @@ Many users start their PKM journey by writing extensive notes in Obsidian and th
 
 ### How the Plugin Solves Context Switching
 
-By using the Spaced Repetition plugin for Obsidian flashcards, the card and the context are one and the same. If you forget the answer to a prompt, you are already looking at the source document. You can immediately read the surrounding paragraphs, update the card's wording to make it clearer, and continue your review session without ever changing windows. This unified [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) drastically reduces the time spent managing cards and increases the time spent actually learning.
+By using the Spaced Repetition plugin for Obsidian flashcards, the card and the context are one and the same. If you forget the answer to a prompt, you are already looking at the source document. You can immediately read the surrounding paragraphs, update the card's wording to make it clearer, and continue your review session without ever changing windows. This unified [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) drastically reduces the time spent managing cards and increases the time spent actually learning.
 
 ## Installing and Configuring the Environment
 
-Setting up the system requires installing the community plugin and adjusting several default parameters to match your study habits.
+Setting up the system requires installing the [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugin and adjusting several default parameters to match your study habits.
 
 To install the tool, open your Obsidian settings, navigate to Community [Plugins](/posts/periodic-notes-plugin-weekly-reviews/), disable Safe Mode if you haven't already, and search for "Spaced Repetition" by st3v3nmw. Install and enable the plugin. Once activated, a new icon will appear in your left ribbon, and a new settings tab will become available.
 
@@ -145,7 +145,7 @@ The most common mistake [beginners](/posts/obsidian-vault-structure-digital-gard
 You can place Obsidian's internal links `[[Note Name]]` directly onto the front or back of a flashcard. If you forget a concept, the back of the card can contain the answer *and* a direct link to the central hub note for that topic. This turns your review sessions into a method for navigating and reinforcing your vault's structure.
 
 **Avoid context dependency.**
-When writing a card inline, it is easy to assume the context of the surrounding paragraphs. For example, if you are in a note titled "Python Dictionaries", writing `What is the syntax for adding a key? :: dict[key] = value` makes sense. However, three months later during a review, you will just see "What is the syntax for adding a key?" and you won't know if the card is asking about Python dictionaries, JavaScript objects, or C++ maps. Always explicitly state the context in the prompt: `In Python, what is the syntax for adding a key to a dictionary?`
+When writing a card inline, it is easy to assume the context of the surrounding paragraphs. For example, if you are in a note titled "Python Dictionaries", writing `What is the syntax for adding a key? :: dict[key] = value` makes sense. However, three months later during a review, you will just see "What is the syntax for adding a key?" and you won't know if the card is asking about Python dictionaries, [JavaScript](/posts/how-to-use-obsidian-templater-user-scripts/) objects, or C++ maps. Always explicitly state the context in the prompt: `In Python, what is the syntax for adding a key to a dictionary?`
 
 **Limit daily new cards.**
 It is tempting to create 200 flashcards after reading a dense book and attempt to learn them all the next day. The algorithm will eventually schedule all of these cards for review simultaneously, creating massive review spikes. Limit your new card intake to 15-30 per deck, per day. This ensures a manageable, sustainable daily review load of 50-100 total cards.

@@ -13,7 +13,7 @@ tags: ["power", "spaced", "repetition", "second"]
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# Obsidian Anki vs Spaced Repetition Plugin: Which One Actually Fits Your [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)?
+# Obsidian Anki vs Spaced Repetition Plugin: Which One Actually Fits Your [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/)?
 
 ---
 
@@ -226,7 +226,7 @@ If David's learning remains at a conceptual level, the SR plugin is all he needs
 
 1. Install Anki on your desktop (free).
 2. Inside Anki, go to **Tools → Add-ons → Get Add-ons** and install AnkiConnect (code: 2055492159). Restart Anki.
-3. In Obsidian, open **Settings → Community Plugins → Browse**, search for "Obsidian_to_Anki" and install it.
+3. In Obsidian, open **Settings → [Community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) [Plugins](/posts/periodic-notes-plugin-weekly-reviews/) → Browse**, search for "Obsidian_to_Anki" and install it.
 4. Enable the plugin and open its settings. Configure your deck name, note type defaults, and field mapping.
 5. Add your first card using the `START/END` syntax in any note.
 6. With Anki open, run the **Anki Sync** command from Obsidian's command palette (Ctrl/Cmd + P).

@@ -64,7 +64,7 @@ The verdict: they are not competitors, they are complements. Use Projects for yo
 
 ### Installation
 
-1. Open Obsidian and go to **Settings → Community Plugins**.
+1. Open Obsidian and go to **Settings → Community [Plugins](/posts/periodic-notes-plugin-weekly-reviews/)**.
 2. Disable Safe Mode if prompted.
 3. Click **Browse**, search for `Projects`, and install the plugin by Marcus Olsson.
 4. Enable it. A new compass-style icon appears in your left ribbon.
@@ -106,7 +106,7 @@ The Table view is your default database interface. Each row is a note. Each colu
 - Use the **Filter** button to narrow rows by field value (e.g., show only notes where `status = "draft"`).
 - Use the **+** button in the column header area to add new fields — this writes a new frontmatter key to every note in the project.
 
-For content creators and [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), Table view alone replaces a Notion database for most daily tracking needs.
+For content creators and [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), Table view alone replaces a [Notion](/posts/n8n-workflow-for-syncing-obsidian-with-notion/) database for most daily tracking needs.
 
 ### Board View (Kanban)
 
@@ -165,7 +165,7 @@ Point your Project at your `Content/` folder. Use Board view grouped by `status`
 ---
 title: "Paper or Book Title"
 author: "Alex Chen"
-authors: ""
+[authors](/posts/obsidian-vs-scrivenir-for-long-form-writing/): ""
 status: "to-read"
 added-date: 2024-01-01
 topic: ""

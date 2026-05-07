@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Obsidian is unparalleled as a local-first personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) tool, but its true potential is unlocked when it interacts with the rest of your digital ecosystem. While Obsidian excels at storing and linking markdown files, acting on that information often requires manual copy-pasting, app switching, or tedious manual formatting. This friction interrupts deep work and slows down knowledge processing.
 
-By connecting Obsidian to an automation platform, you transform a static vault into an active command center. n8n, a node-based, source-available [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) automation tool, is the ideal companion for this architecture. Because n8n can be self-hosted, it respects the local-first philosophy of Obsidian, allowing you to process sensitive notes without sending data through third-party proprietary cloud servers. 
+By connecting Obsidian to an automation platform, you transform a static vault into an active command center. n8n, a node-based, source-available [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) automation tool, is the ideal companion for this architecture. Because n8n can be self-hosted, it respects the local-first philosophy of Obsidian, allowing you to process sensitive notes without sending data through third-party proprietary cloud servers. 
 
 Triggering n8n workflows directly from Obsidian notes allows you to push tasks to your to-do list, publish articles to your blog, summarize meeting transcripts, or sync CRM databases with a single keystroke. This guide details the exact steps to bridge these two powerful tools, exploring multiple integration methods, payload structuring, and practical workflows you can implement into your daily system immediately.
 
@@ -55,7 +55,7 @@ Relying on out-of-the-box plugins limits your control over the exact data payloa
 
 ### Why Use Templater?
 
-Templater allows you to embed executable JavaScript directly within your markdown templates using execution blocks. This enables you to selectively extract specific blocks of text, pull specific frontmatter keys, or dynamically calculate variables before sending anything to n8n. It keeps the payload lean and strictly relevant to the task at hand.
+Templater allows you to embed executable JavaScript directly within your markdown [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) using execution blocks. This enables you to selectively extract specific blocks of text, pull specific frontmatter keys, or dynamically calculate variables before sending anything to n8n. It keeps the payload lean and strictly relevant to the task at hand.
 
 ### The JavaScript Fetch Request
 
@@ -103,7 +103,7 @@ Triggering n8n workflows directly from Obsidian notes is the ultimate frictionle
 
 ### Syncing Action Items to a Task Manager
 
-You can utilize a script that scans your daily tracking note for unfinished markdown tasks. The script compiles an array of these tasks and POSTs them directly to n8n. The n8n workflow iterates through the array and uses the native Todoist, ClickUp, or Linear node to create individual trackable tasks in your project management software, ensuring no action item remains buried inside your vault.
+You can utilize a script that scans your daily tracking note for unfinished markdown tasks. The script compiles an array of these tasks and POSTs them directly to n8n. The n8n workflow iterates through the array and uses the native Todoist, ClickUp, or Linear node to create individual trackable tasks in your [project management](/posts/obsidian-project-management-academic-research-teams/) software, ensuring no action item remains buried inside your vault.
 
 ### AI Summarization Pipeline
 

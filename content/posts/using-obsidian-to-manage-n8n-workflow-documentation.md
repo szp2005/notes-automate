@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Managing complex automation environments often becomes a logistical challenge. When building integrations in n8n, the visual canvas makes it simple to construct logic, but the canvas itself is a poor medium for storing historical context, API limitations, or specific credential requirements. As your automation footprint scales from dozens to hundreds of active [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/), institutional knowledge becomes trapped within individual nodes or the minds of the original architects. 
 
-When a critical pipeline fails at 3:00 AM because an undocumented API endpoint changed its pagination method, the engineer on call must waste valuable time inspecting raw node data to understand the original intent. The gap between executing logic and documenting the rationale behind that logic is where technical debt accumulates in automation systems.
+When a critical pipeline fails at 3:00 AM because an undocumented API endpoint changed its pagination [method](/posts/how-to-find-obsidian-plugin-documentation/), the engineer on call must waste valuable time inspecting raw node data to understand the original intent. The gap between executing logic and documenting the rationale behind that logic is where technical debt accumulates in automation systems.
 
 Obsidian, with its bidirectional linking, offline-first architecture, and markdown-based extensibility, serves as the ideal companion tool for n8n administrators. It allows teams to build a structured, queryable [database](/posts/obsidian-bases-native-update-review-2026/) of their operational logic. This guide covers the architectural patterns, template structures, and practical workflows required to integrate these two powerful systems.
 
@@ -96,7 +96,7 @@ Your Obsidian note titles must match your n8n workflow names exactly. If a workf
 
 ### Documenting Custom Code Nodes
 
-The Code node in n8n allows for complex JavaScript or [Python](/posts/connecting-obsidian-to-external-api-with-python/) execution. When an automation relies on heavy custom logic, the canvas becomes opaque. Never leave complex logic undocumented inside a Code node.
+The Code node in n8n allows for complex [JavaScript](/posts/how-to-use-obsidian-templater-user-scripts/) or [Python](/posts/connecting-obsidian-to-external-api-with-python/) execution. When an automation relies on heavy custom logic, the canvas becomes opaque. Never leave complex logic undocumented inside a Code node.
 
 1.  Extract the core logic explanation into your Obsidian workflow note under a `## Code Node: [Node Name]` heading.
 2.  Document the expected input JSON schema and the exact output schema.
@@ -104,7 +104,7 @@ The Code node in n8n allows for complex JavaScript or [Python](/posts/connecting
 
 ### Exporting and Backing Up JSON
 
-n8n workflows are ultimately JSON objects. While Obsidian captures the context, you should also store the literal workflow data. Create a designated folder in your Obsidian vault called `n8n-[backups](/posts/explanation-of-obsidian-vault-structure-for-backups/)`. When finalizing a workflow, export the JSON from n8n and save it as a `.json` file within this folder. You can then link to this backup directly from your Workflow note, providing a point-in-time snapshot of the configuration alongside the documentation.
+n8n workflows are ultimately JSON objects. While Obsidian captures the context, you should also store the literal workflow data. Create a designated folder in your Obsidian vault called `n8n-[backups](/posts/explanation-of-obsidian-vault-structure-for-backups/)`. When finalizing a workflow, export the JSON from n8n and save it as a `.json` file within this folder. You can then link to this [backup](/posts/what-is-the-obsidian-git-plugin-for/) directly from your Workflow note, providing a point-in-time snapshot of the configuration alongside the documentation.
 
 ## Advanced Techniques: Dataview Integration
 

@@ -38,7 +38,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Excalidraw started as a standalone, open-source whiteboard app — the kind of thing you'd pull up in a browser to sketch a system diagram on a call. The hand-drawn aesthetic is intentional: it keeps diagrams loose and collaborative rather than stiff and polished. That's useful because it signals "thinking in progress" rather than "finished document."
 
-Zsolt Viczi ported the entire thing into an Obsidian plugin and then kept going. Today the plugin is one of the most sophisticated in the entire community ecosystem. It is not a simple wrapper; it is a deeply integrated visual environment that reads and writes `.md` files, respects Obsidian's graph, and surfaces inside your backlinks pane like any other note.
+Zsolt Viczi ported the entire thing into an Obsidian plugin and then kept going. Today the plugin is one of the most sophisticated in the entire [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) ecosystem. It is not a simple wrapper; it is a deeply integrated visual environment that reads and writes `.md` files, respects Obsidian's graph, and surfaces inside your backlinks pane like any other note.
 
 The core value proposition is direct: you stop context-switching between your note app and a drawing app. A concept map sits in the same vault folder as the literature note it references. You can transclude a drawing inside a regular markdown note. You can click an element in a drawing and open the linked note. That tight integration is what separates this from just opening Miro in another tab.
 
@@ -86,11 +86,11 @@ Beyond simple links, the plugin supports **transclusion**: you can embed the ful
 
 You can also embed one Excalidraw drawing inside another, which enables modular diagram structures — a high-level architecture drawing that embeds detailed component drawings in expandable frames.
 
-> **💡 Tablet Tip:** If you use Excalidraw for freehand sketching, a drawing tablet transforms the experience. The freehand pen tool is significantly more precise with stylus input. Both the Wacom Intuus Small and Huion Inspiroy H640P are solid entry-level options available on Amazon that pair well with this [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
+> **💡 Tablet Tip:** If you use Excalidraw for freehand sketching, a drawing tablet transforms the experience. The freehand pen tool is significantly more precise with stylus input. Both the Wacom Intuus Small and Huion Inspiroy H640P are solid entry-level options available on Amazon that pair well with this [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/).
 
 ### Scripts and the Element Library
 
-The plugin ships with an **Excalidraw Script Engine** that lets community members (and you) write JavaScript scripts that manipulate drawings programmatically. Scripts are stored as `.md` files in a folder you designate, and they execute via command palette.
+The plugin ships with an **Excalidraw Script Engine** that lets community members (and you) write [JavaScript](/posts/how-to-use-obsidian-templater-user-scripts/) scripts that manipulate drawings programmatically. Scripts are stored as `.md` files in a folder you designate, and they execute via command palette.
 
 The Excalidraw Script Store — maintained by Zsolt — contains dozens of pre-built scripts: OCR for handwritten text, automatic connector routing, box-around-selected-elements, and more. Installing a script pack is a drag-and-drop operation.
 

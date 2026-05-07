@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The Obsidian Calendar plugin provides a visual monthly grid in your sidebar that connects directly to your daily, weekly, and monthly notes. By clicking on specific dates, you can seamlessly create, navigate, and manage time-based Markdown files, transforming your vault from a static knowledge base into a dynamic, time-aware management system.
 
-Managing knowledge without a temporal dimension often leads to a static archive. While linking ideas by concept is powerful, human memory and [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) are heavily tied to time. We remember *when* we had an idea, *when* a meeting occurred, or *when* a project is due. This is where time-based notes become essential. 
+Managing knowledge without a temporal dimension often leads to a static archive. While linking ideas by concept is powerful, human memory and [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) are heavily tied to time. We remember *when* we had an idea, *when* a meeting occurred, or *when* a project is due. This is where time-based notes become essential. 
 
 The Obsidian Calendar plugin bridges the gap between pure [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) and daily operation. It provides an intuitive, visual interface for the Daily Notes core plugin, allowing you to anchor your thoughts, tasks, and journals to specific days. Instead of searching through folders for a meeting note from last Tuesday, you simply click on the calendar.
 
@@ -23,7 +23,7 @@ This guide explores how to set up, configure, and optimize the Obsidian Calendar
 
 ## Understanding the Core Value of Time-Based Notes
 
-Before configuring the plugin, it is important to understand why time-based notes are a structural advantage in a personal knowledge management (PKM) system.
+Before configuring the plugin, it is important to understand why time-based notes are a structural advantage in a [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) (PKM) system.
 
 When you create a note for a specific date (e.g., `2026-05-01`), it acts as a chronological index. Any concept you learn, person you meet, or task you complete on that day can be linked back to that daily note. Over time, this creates a timeline of your intellectual and professional life.
 
@@ -54,7 +54,7 @@ Once enabled, the Calendar usually appears in the right sidebar. If you do not s
 
 ## Customizing the Visual Feedback
 
-The true power of the Calendar plugin lies in its visual feedback mechanisms. It doesn't just link to files; it reads their metadata and contents to give you a dashboard view of your timeline.
+The true power of the Calendar plugin lies in its visual feedback mechanisms. It doesn't just link to files; it reads their [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) and contents to give you a dashboard view of your timeline.
 
 ### Word Count and Note Length
 

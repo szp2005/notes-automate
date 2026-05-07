@@ -19,7 +19,7 @@ Setting up a robust personal [knowledge management](/posts/using-obsidian-for-lo
 
 For years, users have debated the best approach for tracking variables like project statuses, task priorities, and daily habits. The primary battleground lies between two distinct methodologies. On one side, we have standard YAML frontmatter, recently bolstered by Obsidian's native Properties interface. On the other side, we have inline Dataview fields, a flexible syntax introduced by the immensely popular Dataview community plugin.
 
-Choosing the right method dictates how you will interact with your notes daily, how fast your queries will render, and how future-proof your data remains. This guide explores the technical mechanisms, [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) implications, and long-term viability of both approaches to help you build a more resilient second brain.
+Choosing the right method dictates how you will interact with your notes daily, how fast your queries will render, and how future-proof your data remains. This guide explores the technical mechanisms, [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) implications, and long-term viability of both approaches to help you build a more resilient second brain.
 
 ## The Core Metadata Contenders
 
@@ -33,7 +33,7 @@ To understand which system aligns with your workflow, we need to evaluate them a
 
 Obsidian frontmatter relies on standard YAML formatting placed at the very top of your Markdown file, enclosed by `---` dashes. With the introduction of the Core Properties feature, Obsidian transformed this raw text block into a user-friendly, type-safe graphical interface. This UI allows you to define data types (text, list, date, checkbox) and ensures uniform data entry across your vault. 
 
-Because frontmatter sits outside the body text, it acts as a structured database header for the document. It is universally recognized by nearly all Obsidian plugins and external Markdown editors, making it the safest choice for long-term data preservation. 
+Because frontmatter sits outside the body text, it acts as a structured database header for the document. It is universally recognized by nearly all [Obsidian plugins](/posts/smart-connections-plugin-for-emergent-ideas/) and external Markdown editors, making it the safest choice for long-term data preservation. 
 
 **Pros:**
 - Natively supported by Obsidian with a dedicated UI for easy editing
@@ -131,7 +131,7 @@ Your Dataview dashboard for the Project Note can then query the file's own front
 
 The debate between Obsidian frontmatter and inline Dataview fields is not about finding a single winner, but about understanding data architecture. Frontmatter provides the rigorous, standardized, and universally compatible backbone your vault needs to survive for decades. It should be your default choice for almost all file-level metadata. 
 
-Inline Dataview fields provide the frictionless, contextual entry required for day-to-day logging without breaking your creative momentum. By restricting inline fields to localized data capture in daily notes, and relying on the Properties UI for global organization, you create a personal knowledge management system that is both incredibly powerful and effortless to maintain.
+Inline Dataview fields provide the frictionless, contextual entry required for day-to-day logging without breaking your creative momentum. By restricting inline fields to localized data capture in daily notes, and relying on the Properties UI for global organization, you create a [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) system that is both incredibly powerful and effortless to maintain.
 
 ## Frequently Asked Questions
 

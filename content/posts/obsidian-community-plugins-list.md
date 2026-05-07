@@ -13,7 +13,7 @@ tags: ["obsidian", "community", "plugins", "obsidian community plugins list"]
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# The Ultimate Obsidian Community Plugins List (2024): Categorized by User & [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)
+# The Ultimate Obsidian Community Plugins List (2024): Categorized by User & [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/)
 
 *Last updated: June 2024 · Reading time: ~12 minutes*
 
@@ -153,7 +153,7 @@ Adds a drag-and-drop kanban board backed by plain Markdown. Each card is a secti
 ### Projects
 A newer plugin (by Marcus Olsson) that builds structured views—tables, boards, calendars—from a specific folder. Think of it as Dataview with a polished GUI. Good for users who want database-style views without writing queries.
 
-> 📚 **Take Your Workflow to the Next Level:** These organizational plugins work even better when you have a solid methodology behind them. Tiago Forte's Building a Second Brain course teaches the PARA method that maps directly to how these tools structure your vault. Zettelkasten practitioners should look at the Linking Your Thinking workshop.
+> 📚 **Take Your Workflow to the Next Level:** These organizational plugins work even better when you have a solid methodology behind them. Tiago Forte's Building a Second Brain course teaches the PARA method that maps directly to how these tools structure your vault. [Zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/) practitioners should look at the Linking Your Thinking workshop.
 
 ---
 
@@ -182,7 +182,7 @@ A free, open-source read-later service with an Obsidian plugin that imports save
 ### Excalidraw
 Excalidraw inside Obsidian is a whiteboard tool that embeds directly in your vault. Draw diagrams, wireframes, and concept maps. Crucially, you can embed Obsidian notes *inside* Excalidraw drawings and embed drawings inside notes—the links are bidirectional.
 
-**Use-case:** Brainstorming a research paper. Open a new Excalidraw canvas. Drop your source notes as embedded cards. Draw arrows showing argument relationships. Save it. Now your graph view shows all those connections too.
+**Use-case:** Brainstorming a [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) paper. Open a new Excalidraw canvas. Drop your source notes as embedded cards. Draw arrows showing argument relationships. Save it. Now your graph view shows all those connections too.
 
 ### Mind Map
 Renders any bulleted note as a mind map in real time. Open a note with nested bullets and toggle the Mind Map view—instant visual hierarchy with no redrawing required.

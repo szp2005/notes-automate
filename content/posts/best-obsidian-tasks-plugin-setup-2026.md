@@ -23,11 +23,11 @@ This guide breaks down the definitive components of the optimal setup, how to co
 
 ## Core Components of the Ultimate Tasks System
 
-To build a resilient task management [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), you need the right combination of tools. While the core Obsidian Tasks plugin is the engine, these companion plugins form the chassis of a complete [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system.
+To build a resilient task management [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/), you need the right combination of tools. While the core Obsidian Tasks plugin is the engine, these companion plugins form the chassis of a complete [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system.
 
 ### 1. Obsidian Tasks Plugin
 
-**Best for:** Core task tracking, metadata assignment, and querying
+**Best for:** Core task tracking, [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) assignment, and querying
 **Price:** Free
 **Rating:** 5.0/5
 
@@ -65,7 +65,7 @@ While the Tasks plugin handles standard task queries beautifully, Dataview provi
 **Price:** Free
 **Rating:** 4.8/5
 
-Periodic Notes is the connective tissue between your tasks and your calendar. The most effective setups in 2026 use daily notes as the primary input vector for new tasks. Instead of opening a specific project file to add a to-do, you capture it in your daily note. The Tasks plugin then queries these items and funnels them to the appropriate project dashboard. Periodic Notes automates the creation of these daily, weekly, and monthly files using structured templates.
+Periodic Notes is the connective tissue between your tasks and your calendar. The most effective setups in 2026 use daily notes as the primary input vector for new tasks. Instead of opening a specific project file to add a to-do, you capture it in your daily note. The Tasks plugin then queries these items and funnels them to the appropriate project dashboard. Periodic Notes automates the creation of these daily, weekly, and monthly files using structured [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/).
 
 **Pros:**
 - Automates chronological folder structures and file naming

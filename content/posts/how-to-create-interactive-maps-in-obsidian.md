@@ -44,13 +44,13 @@ If you're a travel writer, every restaurant review and hotel note has a physical
 
 Spatial note-taking closes that gap. When you pin a note to a coordinate—real or fictional—you can immediately see clustering, proximity, and geography. A researcher mapping disease outbreaks spots a neighborhood pattern instantly. A D&D dungeon master sees that the dragon's lair sits three days' walk from the nearest city. A traveler reviews their Southeast Asia trip not as a list of notes but as a literal route.
 
-The Obsidian Leaflet plugin makes all of that possible without leaving Obsidian, without a separate GIS application, and without touching a database.
+The Obsidian Leaflet plugin makes all of that possible without leaving Obsidian, without a separate GIS application, and without touching a [database](/posts/obsidian-bases-native-update-review-2026/).
 
 ---
 
 ## Getting Started: Installing the Obsidian Leaflet Plugin {#getting-started-installing}
 
-**What is the Leaflet plugin?** It's a community plugin that embeds a Leaflet.js powered map directly inside any Obsidian note. You define the map using a fenced code block. The plugin handles rendering, zooming, panning, and marker interaction.
+**What is the Leaflet plugin?** It's a [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugin that embeds a Leaflet.js powered map directly inside any Obsidian note. You define the map using a fenced code block. The plugin handles rendering, zooming, panning, and marker interaction.
 
 **Installation steps:**
 
@@ -322,7 +322,7 @@ Add these snippets to your vault's [CSS snippets](/posts/top-obsidian-css-snippe
 https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png
 ```
 
-For planning complex projects before you map them, a mind-mapping session with a tool from Setapp—which bundles MindNode and dozens of other Mac [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) apps in one subscription—can help you figure out your node structure before committing it to coordinates.
+For [planning](/posts/obsidian-full-calendar-plugin-review/) complex projects before you map them, a mind-mapping session with a tool from Setapp—which bundles MindNode and dozens of other Mac [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) apps in one subscription—can help you figure out your node structure before committing it to coordinates.
 
 ---
 

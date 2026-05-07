@@ -11,13 +11,13 @@ type: "informational"
 
 # Zotero Integration for Obsidian: Complete Academic [Research](/posts/obsidian-vs-devonthink-for-large-research-archives/) Guide
 
-> **Quick Answer:** Zotero integration for Obsidian academic research bridges your reference manager and personal knowledge system. By combining Zotero, the Better BibTeX plugin, and Obsidian's Zotero Integration plugin, you can automatically extract PDF highlights, format citations, and generate interconnected literature notes, saving hundreds of hours during literature reviews.
+> **Quick Answer:** Zotero integration for Obsidian [academic research](/posts/obsidian-project-management-academic-research-teams/) bridges your reference manager and personal knowledge system. By combining Zotero, the Better BibTeX plugin, and Obsidian's Zotero Integration plugin, you can automatically extract PDF highlights, format citations, and generate interconnected literature notes, saving hundreds of hours during literature reviews.
 
 Academic research requires wrangling hundreds of PDFs, managing [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), extracting annotations, and synthesizing arguments. Historically, these tasks lived in separate silos: references in a citation manager and thoughts in a text editor. This fragmentation creates friction, leading to lost insights and redundant reading. When your highlights remain trapped inside a PDF viewer, they cannot interact with your original ideas or findings from other papers.
 
 Integrating Zotero with Obsidian eliminates this friction. By creating a direct pipeline between your reference manager and your knowledge base, you transform static PDFs into a dynamic network of interconnected thoughts. This approach moves you from passively collecting literature to actively building a web of knowledge, aligning perfectly with the [Zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/) methodology and modern Personal [Knowledge Management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) principles.
 
-This guide details the exact steps to establish a robust, automated [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) that extracts metadata and annotations from Zotero directly into beautifully formatted Obsidian literature notes.
+This guide details the exact steps to establish a robust, automated [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) that extracts metadata and annotations from Zotero directly into beautifully formatted Obsidian literature notes.
 
 ## The Core Components of the Integration
 
@@ -85,7 +85,7 @@ The true power of this integration relies on the Nunjucks templating engine buil
 
 ### Frontmatter and Metadata Variables
 
-Your template should begin with YAML frontmatter to support plugins like Dataview later in your workflow. Here is a standard configuration:
+Your template should begin with YAML frontmatter to support plugins like [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) later in your workflow. Here is a standard configuration:
 
 ```yaml
 ---

@@ -75,7 +75,7 @@ Creating new files for every thought can clutter your vault. Many users prefer a
 
 Advanced URI allows you to target the daily note dynamically without needing to calculate today's date format within Apple Shortcuts. 
 
-The [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) is similar to the Quick Capture shortcut, but the URI construction changes significantly:
+The [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) is similar to the Quick Capture shortcut, but the URI construction changes significantly:
 
 1. **Ask for Input:** Prompt for text.
 2. **URL Encode:** Encode the provided input.
@@ -142,7 +142,7 @@ iOS sometimes heavily suspends apps in the background. If Obsidian has been clos
 
 Once the technical foundation is secure, you can expand these workflows to handle complex [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) and metadata generation.
 
-Consider adding iOS-specific data to your captures. Apple Shortcuts can access your current geographic location, calendar events, and health data. You can build a shortcut that triggers when you arrive at the office, automatically generating a daily work-log note pre-filled with your meetings for the day, parsed directly from your Apple Calendar.
+Consider adding iOS-specific data to your captures. Apple Shortcuts can access your current geographic location, [calendar](/posts/obsidian-full-calendar-plugin-review/) events, and health data. You can build a shortcut that triggers when you arrive at the office, automatically generating a daily work-log note pre-filled with your meetings for the day, parsed directly from your Apple Calendar.
 
 Furthermore, utilize iOS Widgets. Place your most used Shortcuts directly on your home screen or lock screen. Instead of navigating folders to find your Quick Capture, a single tap from the lock screen immediately prompts the keyboard.
 
@@ -150,7 +150,7 @@ Remember to keep your mobile workflows distinctly separate from your desktop wor
 
 ## Conclusion
 
-Setting up Obsidian with Apple Shortcuts for mobile is the definitive way to bridge the gap between heavy, local-first knowledge management and the necessity of fast, on-the-go data capture. By mastering the Obsidian URI scheme and utilizing the Advanced URI plugin, you can build a personalized suite of capture tools—from dictation pipelines to Safari web clippers. This setup eliminates mobile load-time friction, ensuring that your vault remains the single, uncompromised source of truth for your ideas, tasks, and daily logs, no matter where you are.
+Setting up Obsidian with Apple Shortcuts for mobile is the definitive way to bridge the gap between heavy, local-first knowledge management and the necessity of fast, on-the-go data capture. By mastering the Obsidian URI scheme and utilizing the Advanced URI plugin, you can build a personalized suite of capture tools—from dictation pipelines to Safari [web clippers](/posts/review-of-the-best-obsidian-web-clipper-extensions/). This setup eliminates mobile load-time friction, ensuring that your vault remains the single, uncompromised source of truth for your ideas, tasks, and daily logs, no matter where you are.
 
 ## Frequently Asked Questions
 

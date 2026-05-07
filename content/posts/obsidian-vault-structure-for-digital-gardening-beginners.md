@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Starting a new Obsidian vault often feels like staring at a blank canvas. Because the software imposes zero structural constraints, it is incredibly easy to over-engineer a complex system of deeply nested folders. For most users, this top-down hierarchy collapses under its own weight within weeks, leading to friction, lost notes, and eventual abandonment of the tool. 
 
-Most people attempt to port over traditional filing cabinet systems from legacy tools like Evernote or Notion. However, digital gardening relies on organic growth and networked thought, not rigid categorization. A digital garden treats knowledge as living material that requires planting, tending, and harvesting. You need a system that captures raw thoughts instantly and provides a clear, frictionless pathway for them to mature over time.
+Most people attempt to port over traditional filing cabinet systems from legacy tools like Evernote or [Notion](/posts/n8n-workflow-for-syncing-obsidian-with-notion/). However, digital gardening relies on organic growth and networked thought, not rigid categorization. A digital garden treats knowledge as living material that requires planting, tending, and harvesting. You need a system that captures raw thoughts instantly and provides a clear, frictionless pathway for them to mature over time.
 
 Building an effective Obsidian vault structure for digital gardening beginners requires embracing flat hierarchies and status-based organization. Rather than asking "What topic does this belong to?", you should ask "How developed is this idea?". This guide details a robust, low-maintenance setup designed specifically to help your ideas compound and grow without requiring hours of administrative upkeep.
 
@@ -56,7 +56,7 @@ As your garden grows, you will need waypoints to navigate it. Maps of Content (M
 This folder is the backend of your vault. It keeps the clutter out of your main workspace. The Meta folder should contain three subfolders:
 *   `Assets`: Where all your pasted images, PDFs, and audio files are stored.
 *   `[Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/)`: Where you keep the markdown templates for your Daily Notes, Seedlings, and MOCs.
-*   `Scripts`: A repository for any Dataview queries or Javascript files if you choose to use advanced community plugins later.
+*   `Scripts`: A repository for any [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) queries or Javascript files if you choose to use advanced community plugins later.
 
 ## Connecting the Garden: Maps of Content (MOCs)
 
@@ -119,7 +119,7 @@ The Collector's Fallacy is the false belief that collecting information is the s
 A digital garden dies if it is choked with unprocessed clippings. Impose a strict rule: nothing leaves the Inbox and enters `02_The_Garden` unless it has been summarized in your own words. If you clip an article, you must write at least three sentences explaining why it matters to you before changing its status to a seedling.
 
 ### Plugin and Formatting Paralysis
-Obsidian's community plugin ecosystem is vast and powerful. It is tempting to spend your first week installing Dataview, [Templater](/posts/automating-obsidian-frontmatter-with-templater-scripts/), Excalidraw, and custom CSS snippets to make your vault look like a futuristic dashboard. 
+Obsidian's community plugin ecosystem is vast and powerful. It is tempting to spend your first week installing Dataview, [Templater](/posts/automating-obsidian-frontmatter-with-templater-scripts/), Excalidraw, and custom [CSS snippets](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/) to make your vault look like a futuristic dashboard. 
 
 Resist this urge. Complex [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) breaks easily and distracts from the core goal of writing and connecting ideas. Stick exclusively to the core plugins for your first thirty days. Build the habit of writing daily notes, drafting seedlings, and linking them together. Only install a community plugin when you encounter a specific, painful friction point that your current workflow cannot solve.
 

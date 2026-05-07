@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Review of Obsidian DB Folder for Database Views in 2026
 
-> **Quick Answer:** Obsidian DB Folder is the most effective plugin for bringing Notion-style database views to local Markdown files. It excels at visually editing YAML frontmatter and organizing notes in a tabular format, making it the practical choice for managing project trackers and content pipelines directly within your Obsidian vault.
+> **Quick Answer:** Obsidian DB Folder is the most effective plugin for bringing [Notion](/posts/n8n-workflow-for-syncing-obsidian-with-notion/)-style database views to local Markdown files. It excels at visually editing YAML frontmatter and organizing notes in a tabular format, making it the practical choice for managing project trackers and content pipelines directly within your Obsidian vault.
 
 Obsidian operates on a fundamental principle: your data belongs to you, stored locally as plain text Markdown files. While this text-first approach is highly resilient and excellent for interlinking disparate thoughts, managing highly structured data has traditionally been its primary limitation. [Knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/) who use their personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) systems for project tracking, content calendars, or customer relationship management frequently find themselves scanning plain-text YAML frontmatter across dozens of individual files. This manual process becomes inefficient and error-prone as vaults scale into the thousands of notes. The demand for visual, tabular data manipulation within the local file system led to a wave of community-developed plugins, with a select few standing out for direct [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) editing.
 
@@ -39,7 +39,7 @@ The primary function of Obsidian DB Folder is visual metadata editing. When you 
 
 Obsidian DB Folder supports an array of column types that align with standard database software conventions. Users can implement simple text strings, number fields, checkboxes (booleans), dates, and multi-select tags. 
 
-The select and multi-select columns are particularly useful for data validation. They allow you to pre-define specific options with custom background colors, enforcing consistency across your entire vault. If you use a specific set of tags for task management, configuring a select column in your database view prevents accidental typos that would otherwise orphan a note from your query results.
+The select and multi-select columns are particularly useful for data validation. They allow you to pre-define specific options with custom background colors, enforcing consistency across your entire vault. If you use a specific set of tags for [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/), configuring a select column in your database view prevents accidental typos that would otherwise orphan a note from your query results.
 
 ### Sorting, Filtering, and Hidden Metadata
 
@@ -59,7 +59,7 @@ Obsidian DB Folder brings a visual, spreadsheet-like interface directly to your 
 
 **Pros:**
 - Direct visual editing of YAML frontmatter without opening files
-- Completely local operation, ensuring data privacy and offline access
+- Completely local operation, ensuring data [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/) and offline access
 - Supports advanced column types including select, multi-select, and boolean checkboxes
 
 **Cons:**

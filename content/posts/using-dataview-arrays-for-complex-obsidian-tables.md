@@ -1,4 +1,5 @@
 ---
+image: "/og/using-dataview-arrays-for-complex-obsidian-tables.webp"
 title: "How to Use Dataview Arrays for Complex Obsidian Tables: Complete Guide"
 description: "Master Obsidian Dataview arrays to build complex, dynamic tables. Learn how to filter, flatten, and map data across your personal knowledge management vault."
 pubDate: "2026-05-07"
@@ -12,9 +13,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # How to Use Dataview Arrays for Complex Obsidian Tables: Complete Guide
 
-> **Quick Answer:** Using Dataview arrays for complex Obsidian tables allows you to group, manipulate, and display multiple values from a single metadata field. By leveraging Dataview Query Language (DQL) functions like `FLATTEN`, `filter()`, and `map()`, you can transform raw list data into structured, easy-to-read table rows without duplicating notes.
+> **Quick Answer:** Using Dataview arrays for complex Obsidian tables allows you to group, manipulate, and display multiple values from a single [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) field. By leveraging Dataview Query Language (DQL) functions like `FLATTEN`, `filter()`, and `map()`, you can transform raw list data into structured, easy-to-read table rows without duplicating notes.
 
-Managing a growing personal knowledge management (PKM) vault in Obsidian often requires extracting structured insights from unstructured notes. While basic Dataview queries handle simple key-value pairs easily, real-world data is rarely flat. You might have notes with multiple authors, several tags, or a list of tasks associated with a single project. When you try to render these lists in a standard table, the output often becomes a cluttered, unreadable block of text.
+Managing a growing personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) vault in Obsidian often requires extracting structured insights from unstructured notes. While basic Dataview queries handle simple key-value pairs easily, real-world data is rarely flat. You might have notes with multiple authors, several tags, or a list of tasks associated with a single project. When you try to render these lists in a standard table, the output often becomes a cluttered, unreadable block of text.
 
 This is where Dataview arrays come into play. Understanding how to manipulate arrays is the difference between a static list of files and a dynamic, relational database living inside your Obsidian vault. Arrays allow you to store multiple values under a single YAML property and process them individually within your queries. 
 
@@ -35,7 +36,7 @@ Property as a bulleted list:
 ```yaml
 topics:
   - PKM
-  - Productivity
+  - [Productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)
   - Query Languages
 ```
 
@@ -183,3 +184,13 @@ No, the standard Dataview Query Language (DQL) includes powerful functions like 
 ### Why do I get an error when applying array functions to some notes?
 
 Errors usually occur when Dataview expects an array but encounters a plain string or a null value. Ensure your YAML formatting is consistent across all files, and use `WHERE my_property` to filter out notes that are missing the property before applying array functions to them.
+
+---
+
+## Related Reading
+
+- [Obsidian Dataview for Beginners: Complete Guide](/posts/how-to-use-obsidian-dataview-for-beginners/)
+
+- [Best Note Taking Apps for Zettelkasten Methodology 2026](/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/)
+
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)

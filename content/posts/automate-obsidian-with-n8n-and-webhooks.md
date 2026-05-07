@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian with n8n and Webhooks Automation: 5-Step Guide
 
-> **Quick Answer:** You can automate Obsidian with n8n and webhooks by setting up an n8n [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) to receive HTTP POST requests from external apps, formatting the incoming data into Markdown, and pushing it directly to your local Obsidian vault using the Obsidian Local REST API plugin. This allows you to automatically save emails, tasks, and web clippings into your notes.
+> **Quick Answer:** You can automate Obsidian with n8n and webhooks by setting up an n8n [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) to receive HTTP POST requests from external apps, formatting the incoming data into Markdown, and pushing it directly to your local Obsidian vault using the Obsidian Local REST API plugin. This allows you to automatically save emails, tasks, and web clippings into your notes.
 
 Obsidian has established itself as a premier tool for personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/), largely due to its robust offline-first, plain-text architecture. However, this same architecture can make it challenging to integrate Obsidian with the myriad of cloud-based services we use daily. If you find yourself constantly copying and pasting information from your task manager, email client, or web browser into your vault, you are experiencing friction that disrupts deep work and risks data fragmentation.
 
@@ -140,7 +140,7 @@ No, the Local REST API plugin requires the Obsidian application to be open and a
 When configuring the HTTP Request node in n8n for the Obsidian API, ensure you use the `POST` HTTP method instead of `PUT`. Send the request to your target file path and include the header `Content-Type: text/markdown`. The `POST` method is designed by the plugin to append your payload to the bottom of the existing document.
 
 ### Is it safe to expose my Obsidian vault to n8n?
-Using the Local REST API plugin is highly secure provided it is restricted to your local network (`localhost` or `127.0.0.1`) and relies on the generated bearer token for authentication. You should never port-forward or expose the REST API port to the public internet without implementing robust enterprise-grade authentication and encryption proxies.
+Using the Local REST API plugin is highly secure provided it is restricted to your local network (`localhost` or `127.0.0.1`) and relies on the generated bearer token for authentication. You should never port-forward or expose the REST API port to the public internet without implementing robust enterprise-grade authentication and [encryption](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/) proxies.
 
 ---
 
@@ -148,7 +148,7 @@ Using the Local REST API plugin is highly secure provided it is restricted to yo
 
 - [Best n8n Workflows for Obsidian Automation in 2026](/posts/best-n8n-workflows-obsidian-automation-2026/)
 
-- [How to Create Automated Index Pages with Obsidian Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/)
+- [How to Create Automated Index Pages with Obsidian [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/)](/posts/creating-automated-index-pages-with-obsidian-dataview/)
 
 - [How to Create Automated Index Pages with Obsidian Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/)
 

@@ -13,11 +13,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # CRM in Obsidian Vault Setup: Complete 2026 Guide
 
-> **Quick Answer:** To build a CRM in an Obsidian vault, rely on the [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) and [Templater](/posts/automating-obsidian-frontmatter-with-templater-scripts/) plugins to organize people and companies as markdown notes. Create a unified `Person` template with YAML properties for status, contact info, and last contact date, then use Dataview tables to aggregate your pipeline and prompt follow-ups.
+> **Quick Answer:** To build a CRM in an Obsidian vault, rely on the [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) and [Templater](/posts/automating-obsidian-frontmatter-with-templater-scripts/) [plugins](/posts/periodic-notes-plugin-weekly-reviews/) to organize people and companies as markdown notes. Create a unified `Person` template with YAML properties for status, contact info, and last contact date, then use Dataview tables to aggregate your pipeline and prompt follow-ups.
 
 Managing professional relationships often defaults to complex, expensive SaaS platforms. While traditional Customer Relationship Management (CRM) software is powerful for large sales teams, it frequently introduces unnecessary friction for freelancers, consultants, and independent professionals. Monthly subscription costs add up, data gets locked behind proprietary systems, and the learning curve can stall actual networking efforts.
 
-Obsidian offers a compelling alternative. Because it operates on local markdown files and links notes bi-directionally, your CRM data can integrate seamlessly with your project files, meeting notes, and daily journals. This approach guarantees complete data ownership and offline access while allowing you to design a relationship management system that mirrors your actual [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
+Obsidian offers a compelling alternative. Because it operates on local markdown files and links notes bi-directionally, your CRM data can integrate seamlessly with your project files, meeting notes, and daily journals. This approach guarantees complete data ownership and offline access while allowing you to design a relationship management system that mirrors your actual [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/).
 
 This guide details exactly how to build a CRM in your Obsidian vault from the ground up, utilizing core structural concepts and a few essential community plugins to create a low-maintenance, high-efficiency system.
 
@@ -177,7 +177,7 @@ Transitioning your relationship management to local markdown files provides unma
 ## Frequently Asked Questions
 
 ### Can I sync my Obsidian CRM across multiple devices?
-Yes, you can sync your vault across devices using Obsidian Sync, which provides end-to-end encryption. Alternatively, you can use third-party cloud services like iCloud, Dropbox, or Syncthing to keep your CRM data updated on your phone, tablet, and desktop without paying a subscription.
+Yes, you can sync your vault across devices using Obsidian Sync, which provides end-to-end [encryption](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/). Alternatively, you can use third-party cloud services like iCloud, Dropbox, or Syncthing to keep your CRM data updated on your phone, tablet, and desktop without paying a subscription.
 
 ### How does this handle email integration compared to Salesforce or HubSpot?
 Obsidian does not natively integrate with email clients to auto-log correspondence. You must manually copy pertinent email summaries or links into your interaction notes. While this requires more manual effort, it ensures only high-value, signal-rich information enters your CRM, rather than a cluttered feed of automated out-of-office replies.

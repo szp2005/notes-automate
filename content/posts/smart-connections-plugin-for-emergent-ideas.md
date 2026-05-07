@@ -57,7 +57,7 @@ In the plugin settings, you can adjust the confidence threshold for what constit
 *   **Optimal Range:** Keep the threshold between 65% and 75%. This "Goldilocks zone" is where serendipity happens—it links concepts that share underlying principles but exist in different contexts.
 
 ### Excluding Administrative Folders
-Your vault likely contains administrative files: [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), daily log structures, kanban boards, or raw clipped articles. You must exclude these folders in the Smart Connections settings. If you do not, the plugin will constantly suggest your "Daily Note Template" because its blank structure technically overlaps with every new daily note you create. Exclude folders containing non-original thought to keep the connection algorithm focused purely on your synthesized knowledge.
+Your vault likely contains administrative files: [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), daily log structures, [kanban](/posts/kanban-plugin-for-obsidian-project-management/) boards, or raw clipped articles. You must exclude these folders in the Smart Connections settings. If you do not, the plugin will constantly suggest your "Daily Note Template" because its blank structure technically overlaps with every new daily note you create. Exclude folders containing non-original thought to keep the connection algorithm focused purely on your synthesized knowledge.
 
 ## Practical Workflows for Knowledge Generation
 
@@ -66,7 +66,7 @@ Installing the plugin is only the technical foundation. To actually use the Smar
 ### Workflow 1: The "Blind Spot" Audit
 When drafting an article or synthesizing a research topic, write your initial outline without looking at your existing notes. Once the outline is complete, open the Smart Connections pane. Review the top 10 suggested notes. 
 
-The goal here is not to find sources you already knew about, but to identify the "blind spots"—notes from disparate disciplines that the algorithm flags as relevant. If you are outlining a piece on software architecture and the plugin suggests a note you wrote two years ago on urban city planning, follow that link. That cross-disciplinary overlap is the exact definition of an emergent idea.
+The goal here is not to find sources you already knew about, but to identify the "blind spots"—notes from disparate disciplines that the algorithm flags as relevant. If you are outlining a piece on software architecture and the plugin suggests a note you wrote two years ago on urban city [planning](/posts/obsidian-full-calendar-plugin-review/), follow that link. That cross-disciplinary overlap is the exact definition of an emergent idea.
 
 ### Workflow 2: Automated Backlinking Sessions
 Dedicate 30 minutes a week to "connection grooming." Open notes that are central to your current interests but lack outgoing links (often called "orphaned notes"). Use the Smart Connections pane to find 3-5 highly relevant notes. Manually evaluate the connection. If the semantic link is strong, hardcode the connection by adding a standard Obsidian internal link (`[[Note Title]]`). 
@@ -90,7 +90,7 @@ The second consideration is data privacy and cost. If you use OpenAI or Anthropi
 
 ## Conclusion
 
-The Smart Connections plugin fundamentally alters the trajectory of a growing Obsidian vault. By shifting the burden of recall from the user to a semantic vector database, it frees you to focus entirely on synthesis. When configured with the right embedding models and used intentionally to audit blind spots and force conceptual collisions, the Smart Connections plugin for emergent ideas becomes the most valuable research assistant in your toolkit. It ensures that the time you spend taking notes compounds over time, guaranteeing that your past insights continuously inform your present work.
+The Smart Connections plugin fundamentally alters the trajectory of a growing Obsidian vault. By shifting the burden of recall from the user to a semantic vector [database](/posts/obsidian-bases-native-update-review-2026/), it frees you to focus entirely on synthesis. When configured with the right embedding models and used intentionally to audit blind spots and force conceptual collisions, the Smart Connections plugin for emergent ideas becomes the most valuable research assistant in your toolkit. It ensures that the time you spend taking notes compounds over time, guaranteeing that your past insights continuously inform your present work.
 
 ## Frequently Asked Questions
 

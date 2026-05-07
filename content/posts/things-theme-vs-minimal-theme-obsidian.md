@@ -21,7 +21,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 - **Things theme** is an opinionated, GTD-ready skin inspired by the Things 3 app — install it and your vault looks polished in five minutes, no tinkering required.
 - **Minimal theme** is a near-blank canvas with deep Style Settings integration — ideal if you want granular control over typography, color, and layout.
-- **Neither is universally better**: your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), not aesthetics, should drive the decision.
+- **Neither is universally better**: your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/), not aesthetics, should drive the decision.
 
 ---
 
@@ -43,7 +43,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Obsidian's default theme is functional. It is also, frankly, forgettable. For an app you open dozens of times a day, that matters. Themes aren't cosmetic extras — they affect reading speed, cognitive load, and how naturally your workflow maps onto the screen.
 
-Two themes dominate the conversation in every Obsidian community thread: **Things** and **Minimal**. They sit at opposite ends of a spectrum. Things arrives with a personality already baked in — warm tones, structured hierarchy, a clear nod to task management. Minimal arrives as a near-invisible framework that bends to whatever you want it to be.
+Two themes dominate the conversation in every Obsidian community thread: **Things** and **Minimal**. They sit at opposite ends of a spectrum. Things arrives with a personality already baked in — warm tones, structured hierarchy, a clear nod to [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/). Minimal arrives as a near-invisible framework that bends to whatever you want it to be.
 
 Choosing wrong wastes hours. You set up a system, tweak CSS, build [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) — then realize the theme fights your actual habits. This article gives you a concrete, side-by-side picture of both so you can decide in one read.
 
@@ -92,7 +92,7 @@ This alone is worth the install if you run any kind of action-list workflow in O
 
 That warm aesthetic is deliberate — and stubborn. Changing the accent color requires editing raw CSS variables. There is no GUI configuration panel comparable to what Minimal offers. For users who want a ready-made, good-looking system they never need to touch again, that's a feature. For anyone who wants to iterate on their setup seasonally or per project, it becomes a friction point.
 
-Plugin support is adequate but not curated. Dataview tables render correctly but without any custom styling. Kanban boards are usable but plain. Calendar and Tasks plugins work, but neither gets special visual treatment.
+Plugin support is adequate but not curated. Dataview tables render correctly but without any custom styling. Kanban boards are usable but plain. Calendar and Tasks [plugins](/posts/periodic-notes-plugin-weekly-reviews/) work, but neither gets special visual treatment.
 
 ---
 

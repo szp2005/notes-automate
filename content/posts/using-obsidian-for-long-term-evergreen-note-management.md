@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System
 
-> **Quick Answer:** Using Obsidian for long-term evergreen note management requires shifting from chronological capture to conceptual synthesis. By combining Obsidian's local, plain-text Markdown storage with a [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) built on atomic, densely linked concepts, you create a resilient knowledge graph that grows in compound value over decades without relying on proprietary databases.
+> **Quick Answer:** Using Obsidian for long-term evergreen note management requires shifting from chronological capture to conceptual synthesis. By combining Obsidian's local, plain-text Markdown storage with a [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) built on atomic, densely linked concepts, you create a resilient knowledge graph that grows in compound value over decades without relying on proprietary databases.
 
 Most digital [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) systems fail because they act as digital landfills. We clip articles, save bookmarks, and jot down fragmented thoughts into hierarchical folders, only to never revisit them. The friction of retrieval becomes higher than the value of the information stored. When the software company inevitably pivots, raises prices, or shuts down, those siloed databases become inaccessible. 
 
@@ -39,7 +39,7 @@ Evergreen notes do not live in isolation. Their value comes from their relations
 Many applications offer bidirectional linking, but Obsidian is uniquely suited for a multi-decade horizon due to its underlying architecture.
 
 ### Local Markdown and Absolute Data Ownership
-Obsidian is not a web app. It is a local Markdown editor that reads files sitting on your hard drive. Your notes are saved as `.md` files, which are fundamentally just text files. If Obsidian ceases to exist tomorrow, your notes can be opened by any text editor, code editor, or word processor. You are not reliant on a proprietary database schema or an active internet connection to access your thoughts. This plain-text foundation is the only format proven to survive decades of computing evolution.
+Obsidian is not a web app. It is a local Markdown editor that reads files sitting on your hard drive. Your notes are saved as `.md` files, which are fundamentally just text files. If Obsidian ceases to exist tomorrow, your notes can be opened by any text editor, code editor, or word processor. You are not reliant on a proprietary [database](/posts/obsidian-bases-native-update-review-2026/) schema or an active internet connection to access your thoughts. This plain-text foundation is the only format proven to survive decades of computing evolution.
 
 ### The Portability of Frontmatter and Links
 Obsidian utilizes standard YAML frontmatter for [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) and standard bracket syntax (`[[link]]`) for relationships. This adherence to broad developer standards means you can easily script, modify, or migrate your entire vault. If a better plain-text application emerges in 2035, migrating from Obsidian will require moving a folder of text files, not writing a complex API extraction script.
@@ -117,4 +117,4 @@ No. A complex folder hierarchy is actively detrimental to evergreen notes. Conce
 There is no mandated review schedule. Evergreen notes resurface organically through the act of creating new notes. By constantly searching your vault for connections when synthesizing new concepts, you naturally encounter and update older notes that are relevant to your current focus.
 
 ### What happens if a core plugin breaks in the future?
-Because Obsidian operates on standard Markdown files, the integrity of your data does not depend on plugins. If a plugin that formats tables or generates dynamic queries breaks, you lose that specific functional view, but the underlying text, links, and ideas remain entirely intact and readable in any standard text editor.
+Because Obsidian operates on standard Markdown files, the integrity of your data does not depend on [plugins](/posts/periodic-notes-plugin-weekly-reviews/). If a plugin that formats tables or generates dynamic queries breaks, you lose that specific functional view, but the underlying text, links, and ideas remain entirely intact and readable in any standard text editor.

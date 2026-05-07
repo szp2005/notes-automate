@@ -77,7 +77,7 @@ A highly underutilized feature of Tag Wrangler is the ability to create a "Tag P
 
 ## Practical Advice for Vault Organization
 
-Having the ability to bulk manage tags is only half the battle. To maintain a truly effective knowledge base, you must implement systematic organizational practices. 
+Having the ability to bulk [manage](/posts/using-obsidian-tasks-plugin-for-project-management/) tags is only half the battle. To maintain a truly effective knowledge base, you must implement systematic organizational practices. 
 
 ### Establishing a Tagging Taxonomy
 Before executing massive bulk renames, spend time defining what tags mean in your system. A common and effective approach is separating tags by *status* and *topic*.
@@ -101,13 +101,13 @@ Because Tag Wrangler makes tag management so easy, there is a temptation to over
 
 ## Advanced Tag Wrangler Features
 
-For power users, Tag Wrangler offers a few advanced capabilities that significantly speed up vault navigation and restructuring.
+For [power](/posts/obsidian-anki-vs-spaced-repetition-plugin/) users, Tag Wrangler offers a few advanced capabilities that significantly speed up vault navigation and restructuring.
 
 ### Integration with Nested Tags
 Obsidian supports nested tags (e.g., `#technology/software`, `#technology/hardware`). Tag Wrangler understands this hierarchy flawlessly. If you right-click the parent tag (`#technology`) and rename it to `#tech`, Tag Wrangler will automatically update all child tags across the vault (they will become `#tech/software` and `#tech/hardware`). This makes restructuring entire branches of your knowledge tree incredibly safe and fast.
 
 ### Utilizing Drag-and-Drop Functionality
-In addition to the context menu, Tag Wrangler enables drag-and-drop actions within the Tag Pane. If you want to merge `#finances` into `#money`, you can simply click and drag the `#finances` tag and drop it directly onto the `#money` tag. The plugin will prompt you to confirm the merge. Similarly, you can drag a top-level tag and drop it onto another tag to instantly convert it into a nested child tag. This visual, tactile approach makes restructuring complex hierarchies highly intuitive.
+In addition to the context menu, Tag Wrangler enables drag-and-drop actions within the Tag Pane. If you want to merge `#finances` into `#money`, you can simply click and drag the `#finances` tag and drop it directly onto the `#money` tag. The plugin will prompt you to confirm the merge. Similarly, you can drag a top-level tag and drop it onto another tag to instantly convert it into a nested child tag. This [visual](/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/), tactile approach makes restructuring complex hierarchies highly intuitive.
 
 ## Conclusion
 

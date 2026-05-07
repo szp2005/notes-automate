@@ -50,7 +50,7 @@ Before you open a browser, check what Obsidian already shows you. The built-in C
 
 - **The description panel.** The author writes this. It usually summarizes core functionality, lists key commands, and sometimes includes basic usage notes. For simple plugins this might be all you need.
 - **The GitHub icon / repository link.** This appears near the top of the panel, next to the author's name. It's a small icon that looks like the GitHub logo. Click it. That takes you straight to the source — more on that in the next section.
-- **The author link.** Some authors publish additional tutorials or a personal site. The author name is clickable and often leads to a profile page or blog with more context.
+- **The author link.** Some [authors](/posts/obsidian-vs-scrivenir-for-long-form-writing/) publish additional tutorials or a personal site. The author name is clickable and often leads to a profile page or blog with more context.
 
 If you already have the plugin installed, go to **Settings → Community plugins → Installed plugins**, find it in the list, and click the plugin name. You get the same detail page with the same GitHub link.
 
@@ -137,7 +137,7 @@ Sometimes docs are sparse, outdated, or don't address your exact situation. Here
 
 **Check when the plugin was last updated.** On the GitHub repository page, look at the "Latest commit" date next to each file, or check the Releases section on the right sidebar. If the last release was two or more years ago and the Issues tab is full of unanswered questions, the plugin may be abandoned. At that point, look for a fork or an alternative plugin that does the same job.
 
-**Watch YouTube tutorials.** Search `obsidian [plugin name] tutorial` on YouTube. Creators like Nicole van der Hoeven and Danny Hatcher produce detailed walkthroughs for popular plugins. Video tutorials are especially useful for visual, [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)-heavy plugins like [Excalidraw](/posts/excalidraw-plugin-for-obsidian-visual-thinking/) or Canvas.
+**Watch [YouTube](/posts/obsidian-plugin-automated-youtube-transcript-import/) tutorials.** Search `obsidian [plugin name] tutorial` on YouTube. Creators like Nicole van der Hoeven and Danny Hatcher produce detailed walkthroughs for popular plugins. Video tutorials are especially useful for visual, [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/)-heavy plugins like [Excalidraw](/posts/excalidraw-plugin-for-obsidian-visual-thinking/) or Canvas.
 
 ---
 

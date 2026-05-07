@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Periodic Notes Plugin Complete Guide: Mastering Weekly Reviews
 
-> **Quick Answer:** The Periodic Notes plugin for weekly reviews allows [Obsidian](/posts/using-obsidian-for-long-term-evergreen-note-management/) users to automatically generate and link time-based notes beyond the core daily notes feature. By configuring custom [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) and folder structures for weekly, monthly, and yearly intervals, you can create a frictionless system for reflecting on past accomplishments and planning future tasks.
+> **Quick Answer:** The Periodic Notes plugin for weekly reviews allows [Obsidian](/posts/using-obsidian-for-long-term-evergreen-note-management/) users to automatically generate and link time-based notes beyond the core [daily notes](/posts/automate-obsidian-daily-notes-using-python/) feature. By configuring custom [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) and folder structures for weekly, monthly, and yearly intervals, you can create a frictionless system for reflecting on past accomplishments and planning future tasks.
 
 Building a sustainable [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system in Obsidian requires more than just taking disconnected notes. While the core Daily Notes feature is excellent for capturing fleeting thoughts and logging daily tasks, it lacks the macro-level perspective required for effective personal management. Without a dedicated space to zoom out, review progress, and course-correct, daily logs quickly become a graveyard of forgotten intentions.
 
@@ -23,7 +23,7 @@ This is where the Obsidian plugin ecosystem shines. By integrating specific comm
 
 ## Essential Plugins for Your Review Workflow
 
-To build a robust weekly review system, you need a combination of plugins that handle file generation, calendar navigation, and task management. Here are the top tools that integrate to create a seamless workflow.
+To build a robust weekly review system, you need a combination of plugins that handle file generation, calendar navigation, and [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/). Here are the top tools that integrate to create a seamless workflow.
 
 ### 1. Periodic Notes Plugin
 
@@ -82,7 +82,7 @@ While Periodic Notes has native template support, Templater takes your weekly re
 **Price:** Free
 **Rating:** 4.7/5
 
-Obsidian Tasks turns your vault into a full-fledged task management system. During a weekly review, the most critical step is migrating undone tasks and scheduling new ones. Tasks allows you to use Dataview-like queries to pull all unfinished checkboxes from your daily notes directly into your weekly review file. You can query tasks completed in the last 7 days to review accomplishments, and view all tasks scheduled for the upcoming week to assess your workload.
+Obsidian Tasks turns your vault into a full-fledged task management system. During a weekly review, the most critical step is migrating undone tasks and scheduling new ones. Tasks allows you to use [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/)-like queries to pull all unfinished checkboxes from your daily notes directly into your weekly review file. You can query tasks completed in the last 7 days to review accomplishments, and view all tasks scheduled for the upcoming week to assess your workload.
 
 **Pros:**
 - Powerful querying language specifically designed for checkboxes

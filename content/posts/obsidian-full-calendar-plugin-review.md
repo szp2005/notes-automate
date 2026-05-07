@@ -37,11 +37,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ## What Is the Obsidian Full Calendar Plugin? {#what-is}
 
-Most [knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/) live in two separate worlds: a [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) app for thinking and a calendar app for scheduling. The result is constant context-switching—you reference your meeting notes in Obsidian, then flip to Google Calendar to check a time, then back again. Every switch costs you focus.
+Most [knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/) live in two separate worlds: a [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) app for thinking and a calendar app for scheduling. The result is constant context-switching—you reference your [meeting notes](/posts/how-to-manage-meeting-notes-in-obsidian-effectively/) in Obsidian, then flip to Google Calendar to check a time, then back again. Every switch costs you focus.
 
-The Obsidian Full Calendar plugin, built by developer Davis Haupt (`davish`), collapses those two worlds into one. It renders a full FullCalendar.js-powered interface—month, week, and day views—directly inside an Obsidian pane, treating markdown notes as calendar events. Events live as `.md` files in your vault or sync in from external sources like Google Calendar and any CalDAV-compatible service.
+The Obsidian Full Calendar plugin, built by developer Davis Haupt (`davish`), collapses those two worlds into one. It renders a full FullCalendar.js-powered interface—month, week, and day views—directly inside an Obsidian pane, treating [markdown](/posts/comparison-of-mobile-markdown-editors-for-ios-android/) notes as calendar events. Events live as `.md` files in your vault or sync in from external sources like Google Calendar and any CalDAV-compatible service.
 
-This is meaningfully different from the stock Obsidian Calendar plugin, which only lets you navigate daily notes chronologically. Full Calendar lets you *schedule* things, drag events across time, and pull live data from the calendars you already use.
+This is meaningfully different from the stock Obsidian Calendar plugin, which only lets you navigate [daily notes](/posts/automate-obsidian-daily-notes-using-python/) chronologically. Full Calendar lets you *schedule* things, drag events across time, and pull live data from the calendars you already use.
 
 **Who gets the most out of it:**
 - **[Students](/posts/organizing-complex-academic-projects-in-an-obsidian-vault/)** tracking assignment deadlines, exam blocks, and study sessions

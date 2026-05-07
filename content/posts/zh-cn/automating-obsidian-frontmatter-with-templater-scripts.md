@@ -227,6 +227,8 @@ mood:
 
 ## Related Reading
 
+- [How to Use Obsidian Templater User Scripts: Complete Guide](/posts/how-to-use-obsidian-templater-user-scripts/)
+
 - [Obsidian vs DEVONthink: Which Is Better for Large Research Archives?](/posts/obsidian-vs-devonthink-for-large-research-archives/)
 
 - [Best Downloadable Obsidian CSS Snippets for Dashboard Layouts](/posts/downloadable-obsidian-css-snippets-for-dashboard-layouts/)

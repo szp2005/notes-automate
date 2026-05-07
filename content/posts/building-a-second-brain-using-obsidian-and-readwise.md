@@ -15,9 +15,9 @@ type: "informational"
 
 The modern knowledge worker consumes a staggering amount of information daily—articles, books, podcasts, and newsletters. Yet, without a reliable system to capture and connect this information, most of those insights evaporate within hours. The concept of a "Second Brain," popularized by Tiago Forte, offers a framework for externalizing your memory. However, the software you choose dictates the friction of maintaining that framework. 
 
-Many [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) ecosystems trap your data in proprietary formats or require manual data entry that quickly becomes unsustainable. The combination of Obsidian and Readwise solves both the data sovereignty problem and the capture friction problem. Obsidian provides a future-proof, local-first markdown environment for thinking and linking, while Readwise acts as the universal aggregator, pulling highlights from almost any reading platform automatically.
+Many [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) ecosystems trap your data in proprietary formats or require manual data entry that quickly becomes unsustainable. The combination of Obsidian and Readwise solves both the data sovereignty problem and the capture friction problem. Obsidian provides a future-proof, local-first markdown environment for thinking and linking, while Readwise acts as the universal aggregator, pulling highlights from almost any reading platform automatically.
 
-This comprehensive guide breaks down exactly how to architect this system. We will cover the mechanics of connecting the two tools, the structural design of your Obsidian vault to handle incoming highlights, and the daily workflows required to turn passive consumption into active knowledge creation.
+This comprehensive guide breaks down exactly how to architect this system. We will cover the mechanics of connecting the two tools, the structural design of your Obsidian vault to handle incoming highlights, and the daily [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) required to turn passive consumption into active knowledge creation.
 
 ## The Architecture of a Frictionless Knowledge System
 
@@ -41,7 +41,7 @@ The bridge between these two tools is the Readwise Official plugin for Obsidian.
 
 ### Installation and Authentication
 
-First, ensure you have an active Readwise subscription (the full tier is required for the Obsidian export feature). Inside Obsidian, navigate to the Community Plugins settings, turn off Safe Mode if you haven't already, and search for "Readwise Official." Install and enable the plugin.
+First, ensure you have an active Readwise subscription (the full tier is required for the Obsidian export feature). Inside Obsidian, navigate to the Community [Plugins](/posts/periodic-notes-plugin-weekly-reviews/) settings, turn off Safe Mode if you haven't already, and search for "Readwise Official." Install and enable the plugin.
 
 Upon clicking "Connect," you will be prompted to authenticate your Readwise account in your browser. Once authorized, the plugin will establish a direct API connection to pull your highlights.
 

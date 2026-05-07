@@ -42,7 +42,7 @@ Obsidian stores your notes as plain Markdown files on your local device. That's 
 
 The problem isn't "syncing files." Syncing files is technically easy. The problem is syncing them *reliably*, *securely*, and *without babysitting the process*, across every combination of Windows, macOS, iOS, and Android that your life might involve.
 
-Obsidian Sync is the official answer. It runs on Obsidian's own infrastructure, it's maintained by the same team that builds the app, and it is designed specifically around how Obsidian works — particularly its use of hidden `.obsidian` folders for settings, plugins, and [themes](/posts/things-theme-vs-minimal-theme-obsidian/). That specificity matters a lot, as we'll see when we compare it to general-purpose tools.
+Obsidian Sync is the official answer. It runs on Obsidian's own infrastructure, it's maintained by the same team that builds the app, and it is designed specifically around how Obsidian works — particularly its use of hidden `.obsidian` folders for settings, [plugins](/posts/periodic-notes-plugin-weekly-reviews/), and [themes](/posts/things-theme-vs-minimal-theme-obsidian/). That specificity matters a lot, as we'll see when we compare it to general-purpose tools.
 
 ---
 
@@ -82,7 +82,7 @@ iCloud also has zero version history for individual files (Time Machine is deskt
 
 Git is the most powerful option for technically inclined users. You get full version history, complete portability, and no ongoing cost. The tradeoffs are real: Git has no concept of automatic commits. You need either a cron job, a Git plugin (like Obsidian Git), or manual discipline to actually commit changes. On mobile, the Obsidian Git plugin is functional but fragile — it breaks on some iOS updates, requires a personal access token setup that confuses non-[developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/), and does not handle merge conflicts gracefully when you forget to pull before editing.
 
-If you're comfortable with the command line and you only sync to a second device you control, Git is excellent. If you share your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) with a less technical partner, or if your mobile device is a primary writing tool, Git will cost you hours you don't want to spend.
+If you're comfortable with the command line and you only sync to a second device you control, Git is excellent. If you share your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) with a less technical partner, or if your mobile device is a primary writing tool, Git will cost you hours you don't want to spend.
 
 ### Obsidian Sync vs. Syncthing
 
@@ -120,7 +120,7 @@ To put $96/year in context: that's $1.85/week, roughly one coffee. It's 60% of a
 
 The more honest calculation is time. If troubleshooting iCloud sync issues costs you 20 minutes per month (a conservative estimate based on forum activity), that's 4 hours per year. If your time is worth $25/hour, you're "paying" $100/year in aggravation anyway — and getting none of the E2EE or version history. At $30/hour, the math is even clearer.
 
-Non-profit organizations and users in certain lower-income regions can apply for pricing adjustments directly through Obsidian's support. Students should check whether their institution has any arrangements, though there are none currently listed publicly.
+Non-profit organizations and users in certain lower-income regions can apply for pricing adjustments directly through Obsidian's support. [Students](/posts/organizing-complex-academic-projects-in-an-obsidian-vault/) should check whether their institution has any arrangements, though there are none currently listed publicly.
 
 If you want to support the Obsidian developers further, the Obsidian Catalyst license is a one-time purchase that funds development and grants access to insider builds — it's not a substitute for Sync, but it's worth knowing about.
 

@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** Setting up Obsidian Git for automated version control involves installing the Obsidian Git [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugin, initializing a local Git repository in your vault, linking it to a remote provider like GitHub, and configuring the plugin's auto-backup intervals. This ensures your knowledge base is continuously backed up and synchronized across multiple desktop and mobile devices without manual intervention.
 
-Personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) systems rely heavily on consistency and security. When your entire digital brain—from daily journals to complex project architectures—lives in a single directory of Markdown files, relying on manual backups is a significant risk. Hard drive failures, accidental file deletions, or syncing conflicts from standard cloud providers can permanently erase months of [structured thinking](/posts/guide-to-obsidian-outliner-plugin-for-structured-thinking/).
+Personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) systems rely heavily on consistency and security. When your entire digital brain—from daily journals to complex project architectures—lives in a single directory of [Markdown](/posts/comparison-of-mobile-markdown-editors-for-ios-android/) files, relying on manual backups is a significant risk. Hard drive failures, accidental file deletions, or syncing conflicts from standard cloud providers can permanently erase months of [structured thinking](/posts/guide-to-obsidian-outliner-plugin-for-structured-thinking/).
 
 Obsidian's local-first architecture is its greatest strength, but it places the burden of [data security](/posts/explanation-of-obsidian-vault-structure-for-backups/) squarely on your shoulders. While standard cloud storage like Dropbox or [Google](/posts/how-to-sync-obsidian-with-google-drive-using-a-plugin/) Drive can sync files, they lack the granular history, rollback capabilities, and conflict resolution mechanisms required for text-based knowledge bases. 
 
@@ -33,7 +33,7 @@ Before touching your Obsidian vault, you need the underlying infrastructure inst
 
 First, install the Git command-line tools. On Windows, download Git for Windows. On macOS, Git is often included with Xcode Command Line Tools, but installing it via Homebrew (`brew install git`) ensures you have the latest stable version. Linux users can use their standard package managers (`apt`, `pacman`, or `dnf`).
 
-Second, create an account with a remote Git provider. GitHub is the industry standard and offers free private repositories, which is essential for personal notes. GitLab and Bitbucket are viable alternatives. 
+[Second](/posts/obsidian-anki-vs-spaced-repetition-plugin/), create an account with a remote Git provider. GitHub is the industry standard and offers free private repositories, which is essential for personal notes. GitLab and Bitbucket are viable alternatives. 
 
 Finally, ensure you have an active Obsidian vault. If you are migrating an existing vault, make a standard zip backup of your files before proceeding. While Git is secure, initial setup errors can cause confusion.
 
@@ -133,5 +133,5 @@ Obsidian Git handles offline work gracefully. It will continue to take local sna
 
 - [Visualizing Data With Obsidian Tracker Plugin For Goals: Complete Setup Guide](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)
 
-- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Advanced [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

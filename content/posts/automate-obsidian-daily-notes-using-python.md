@@ -21,7 +21,7 @@ Imagine opening Obsidian each day to a perfectly structured note, pre-filled wit
 
 ## The Case for Automating Obsidian Daily Notes
 
-The decision to automate any part of a [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) typically stems from a desire for efficiency, consistency, and reduced cognitive load. For Obsidian daily notes, these benefits are particularly pronounced, offering significant advantages over manual creation.
+The decision to automate any part of a [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) typically stems from a desire for efficiency, consistency, and reduced cognitive load. For Obsidian daily notes, these benefits are particularly pronounced, offering significant advantages over manual creation.
 
 ### Eliminating Repetitive Setup
 
@@ -40,7 +40,7 @@ The initial moments of a workday or creative session are often critical for esta
 Beyond simply creating a templated file, Python's versatility opens the door to sophisticated integrations. An automated daily note script can be extended to pull dynamic data from various external sources and embed it directly into your note. Imagine your daily note automatically including:
 *   **Calendar events:** A summary of your meetings and appointments for the day.
 *   **Weather forecast:** Local weather conditions to help you plan your commute or activities.
-*   **Task manager items:** A list of high-priority tasks from tools like Todoist, TickTick, or a custom task management system.
+*   **Task manager items:** A list of high-priority tasks from tools like Todoist, TickTick, or a custom [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) system.
 *   **Journal prompts:** Random prompts to encourage deeper reflection.
 *   **Quotes of the day:** Inspirational or thought-provoking content.
 
@@ -444,7 +444,7 @@ Start by mapping the current manual process from trigger to final handoff. Once 
 
 ### Which tools are usually needed for automate obsidian daily notes using python?
 
-Most teams need an intake source, a workflow automation tool, a database or CRM, and a notification channel. The exact stack matters less than having clear field names, ownership, and error handling.
+Most teams need an intake source, a [workflow automation](/posts/n8n-workflow-for-syncing-obsidian-with-notion/) tool, a database or CRM, and a notification channel. The exact stack matters less than having clear field names, ownership, and error handling.
 
 ### How do you avoid automation mistakes?
 
