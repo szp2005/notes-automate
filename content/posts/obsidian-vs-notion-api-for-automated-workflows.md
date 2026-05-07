@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-vs-notion-api-for-automated-workflows.webp"
 title: "Obsidian vs Notion API for Automated Workflows: 2026 Comparison"
 description: "Compare Obsidian vs Notion API for automated workflows. We evaluate rate limits, local-first advantages, data structures, and integrations for developers."
 pubDate: "2026-05-07"
@@ -167,3 +168,9 @@ Obsidian is definitively better for offline automation. Because all files and th
 
 ### Can Obsidian act as a REST API server?
 Yes. By installing the community-developed "Local REST API" plugin, you can spin up a secure, local HTTP server that allows external applications to read, create, and modify your Obsidian notes via standard REST API requests over `localhost`.
+
+---
+
+## Related Reading
+
+- [Best Font Pairings for Obsidian Minimal Theme in 2026](/posts/best-font-pairings-obsidian-minimal-theme-2026/)

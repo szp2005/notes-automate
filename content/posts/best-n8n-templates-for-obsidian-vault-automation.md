@@ -1,4 +1,5 @@
 ---
+image: "/og/best-n8n-templates-for-obsidian-vault-automation.webp"
 title: "Best n8n Templates for Obsidian Vault Automation in 2026"
 description: "Discover the best n8n templates for Obsidian vault automation. Streamline your PKM workflow, sync data sources, and automate note creation effortlessly."
 pubDate: "2026-05-07"
@@ -184,3 +185,11 @@ Use the append function instead of overwrite. If using the Write File node, ensu
 
 ### Does n8n work with Obsidian Sync?
 Yes. n8n simply modifies the local `.md` files on your hard drive. Once the file is created or updated by n8n, Obsidian Sync (or any other sync method like iCloud or Git) will automatically detect the local file change and sync it across your other devices.
+
+---
+
+## Related Reading
+
+- [Top Obsidian Automation Plugins for Power Users in 2026](/posts/top-obsidian-automation-plugins-for-power-users/)
+
+- [Automating Obsidian Frontmatter with Templater Scripts: 5-Step Guide](/posts/automating-obsidian-frontmatter-with-templater-scripts/)

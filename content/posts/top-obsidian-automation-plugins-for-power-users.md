@@ -1,4 +1,5 @@
 ---
+image: "/og/top-obsidian-automation-plugins-for-power-users.webp"
 title: "Top Obsidian Automation Plugins for Power Users in 2026"
 description: "Discover the top Obsidian automation plugins for power users to streamline workflows, sync data, and turn your vault into an automated productivity engine."
 pubDate: "2026-05-07"
@@ -173,3 +174,13 @@ Because Obsidian operates on local, plain text markdown files, your data is neve
 
 ### How do I backup my automation scripts and settings?
 Obsidian plugins and their settings are stored in the `.obsidian` folder within your vault. Simply backing up your entire vault folder (using Git, Obsidian Sync, or a standard cloud drive) ensures all your Templater scripts, QuickAdd macros, and Linter configurations are safely preserved.
+
+---
+
+## Related Reading
+
+- [Best Note Taking Apps for Zettelkasten Methodology 2026](/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/)
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
+
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)

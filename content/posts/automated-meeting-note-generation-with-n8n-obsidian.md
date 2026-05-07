@@ -187,6 +187,8 @@ If Obsidian is closed, the Local REST API plugin is offline, and the HTTP Reques
 
 ## Related Reading
 
+- [Obsidian vs Notion API for Automated Workflows: 2026 Comparison](/posts/obsidian-vs-notion-api-for-automated-workflows/)
+
 - [Managing Recurring Tasks in Obsidian with DataviewJS: Complete Guide](/posts/managing-recurring-tasks-in-obsidian-with-dataviewjs/)
 
 - [Best Font Pairings for Obsidian Minimal Theme in 2026](/posts/best-font-pairings-obsidian-minimal-theme-2026/)

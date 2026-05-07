@@ -164,6 +164,8 @@ PARA 的真正力量在于其流动性。笔记并不打算永远停留在一个
 
 - [Obsidian Dataview for Beginners: Complete Guide](/posts/how-to-use-obsidian-dataview-for-beginners/)
 
+- [Obsidian Dataview for Beginners: Complete Guide](/posts/how-to-use-obsidian-dataview-for-beginners/)
+
 - [Best Note Taking Apps for Zettelkasten Methodology 2026](/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/)
 
 - [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
