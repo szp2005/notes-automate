@@ -192,6 +192,8 @@ For an automated literature review workflow, essential Obsidian plugins include 
 
 ## Related Reading
 
+- [Automated Meeting Note Generation With n8n Obsidian: 5-Step Guide](/posts/automated-meeting-note-generation-with-n8n-obsidian/)
+
 - [Using Obsidian for Systematic Literature Reviews: A Complete Guide](/posts/using-obsidian-for-systematic-literature-reviews/)
 
 - [n8n Workflow for Syncing Obsidian with Notion: A Complete Guide](/posts/n8n-workflow-for-syncing-obsidian-with-notion/)

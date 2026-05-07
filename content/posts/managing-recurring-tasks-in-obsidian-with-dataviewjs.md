@@ -1,4 +1,5 @@
 ---
+image: "/og/managing-recurring-tasks-in-obsidian-with-dataviewjs.webp"
 title: "Managing Recurring Tasks in Obsidian with DataviewJS: Complete Guide"
 description: "Learn how to automate and track repeating workflows by managing recurring tasks in Obsidian with DataviewJS. Step-by-step code snippets and logic explained."
 pubDate: "2026-05-07"

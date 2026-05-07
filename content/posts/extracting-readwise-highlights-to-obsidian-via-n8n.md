@@ -1,4 +1,5 @@
 ---
+image: "/og/extracting-readwise-highlights-to-obsidian-via-n8n.webp"
 title: "Extracting Readwise Highlights to Obsidian via n8n: Complete 5-Step Guide"
 description: "Master the technical workflow for extracting Readwise highlights to Obsidian via n8n. Learn to parse JSON payloads, format Markdown, and automate your PKM system."
 pubDate: "2026-05-07"
@@ -183,3 +184,11 @@ It works excellently with mobile if you use a cloud intermediary. Because mobile
 
 ### Can I filter which highlights get sent to Obsidian?
 Absolutely. This is the primary benefit of using an automation platform. Add an IF node or Filter node after your Item Lists node. You can configure rules such as "Only continue if `category` equals `books`" or "Only continue if the highlight contains a specific tag," ensuring your vault remains uncluttered by low-value web clippings.
+
+---
+
+## Related Reading
+
+- [Obsidian Canvas vs. Excalidraw: Which Visual Tool Wins?](/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/)
+
+- [Best Obsidian Themes for Writing Longform Content](/posts/best-obsidian-themes-for-writing-longform-content/)

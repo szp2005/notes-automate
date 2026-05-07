@@ -134,6 +134,8 @@ First, ensure you are testing against n8n's "Test Webhook" URL rather than the "
 
 ## Related Reading
 
+- [Extracting Readwise Highlights to Obsidian via n8n: Complete 5-Step Guide](/posts/extracting-readwise-highlights-to-obsidian-via-n8n/)
+
 - [How to Sync Obsidian with n8n Webhooks: 5-Step Guide](/posts/how-to-sync-obsidian-with-n8n-webhooks/)
 
 - [Best Obsidian Themes for Writing Longform Content](/posts/best-obsidian-themes-for-writing-longform-content/)

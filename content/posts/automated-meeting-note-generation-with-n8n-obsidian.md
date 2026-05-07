@@ -1,4 +1,5 @@
 ---
+image: "/og/automated-meeting-note-generation-with-n8n-obsidian.webp"
 title: "Automated Meeting Note Generation With n8n Obsidian: 5-Step Guide"
 description: "Learn how to build an automated meeting note generation workflow using n8n and Obsidian. Capture transcripts, summarize via LLM, and sync directly to your vault."
 pubDate: "2026-05-07"
@@ -181,3 +182,11 @@ If your webhook receives an audio file (like an MP3) instead of a text transcrip
 
 ### What happens if Obsidian is closed when the webhook fires?
 If Obsidian is closed, the Local REST API plugin is offline, and the HTTP Request node in n8n will fail. To prevent data loss, configure n8n to either retry the node automatically upon failure or use a cloud-sync workaround (saving the markdown file to an iCloud/Dropbox folder that Obsidian reads from when it opens).
+
+---
+
+## Related Reading
+
+- [Managing Recurring Tasks in Obsidian with DataviewJS: Complete Guide](/posts/managing-recurring-tasks-in-obsidian-with-dataviewjs/)
+
+- [Best Font Pairings for Obsidian Minimal Theme in 2026](/posts/best-font-pairings-obsidian-minimal-theme-2026/)
