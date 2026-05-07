@@ -85,6 +85,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://notes-automate.com/posts/automated-meeting-note-generation-with-n8n-obsidian/</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://notes-automate.com/posts/automating-literature-reviews-using-obsidian-and-n8n/</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -325,6 +331,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://notes-automate.com/posts/extracting-readwise-highlights-to-obsidian-via-n8n/</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://notes-automate.com/posts/guide-to-obsidian-outliner-plugin-for-structured-thinking/</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -536,6 +548,12 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/managing-large-pdf-libraries-within-an-obsidian-vault/</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/managing-recurring-tasks-in-obsidian-with-dataviewjs/</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
