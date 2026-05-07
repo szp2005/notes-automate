@@ -15,7 +15,7 @@ type: "informational"
 
 Managing meeting notes across disparate applications often leads to fragmented information, lost action items, and a severe lack of context. You remember discussing a specific project requirement, but you cannot recall whether it was logged in an email, a team chat, or a standalone document. Obsidian, with its local-first architecture and powerful bi-directional linking capabilities, offers a highly efficient environment for capturing and utilizing meeting information. 
 
-However, presenting yourself with a blank text file at the start of a fast-paced meeting is a recipe for disorganized documentation. Without a structured, repeatable system, your Obsidian vault can quickly devolve into an unnavigable repository of isolated notes. The key to unlocking Obsidian’s potential lies in creating a frictionless workflow that standardizes input while maximizing output retrieval. 
+However, presenting yourself with a blank text file at the start of a fast-paced meeting is a recipe for disorganized documentation. Without a structured, repeatable system, your Obsidian vault can quickly devolve into an unnavigable repository of isolated notes. The key to unlocking Obsidian’s potential lies in creating a frictionless [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) that standardizes input while maximizing output retrieval. 
 
 Learning how to manage meeting notes in Obsidian effectively transforms your [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) from a passive recording activity into an active system that drives projects forward. This guide outlines a comprehensive, five-step framework for architecting a resilient meeting management system within your Obsidian vault.
 
@@ -27,7 +27,7 @@ While Obsidian includes a built-in [templates](/posts/advanced-obsidian-template
 
 ### The Anatomy of a Perfect Meeting Template
 
-A highly functional meeting template contains three primary zones: YAML metadata, contextual links, and content blocks. Your frontmatter should establish the document type and creation date. This is crucial for future database queries. 
+A highly functional meeting template contains three primary zones: YAML [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), contextual links, and content blocks. Your frontmatter should establish the document type and creation date. This is crucial for future database queries. 
 
 Here is an example of a robust meeting template:
 

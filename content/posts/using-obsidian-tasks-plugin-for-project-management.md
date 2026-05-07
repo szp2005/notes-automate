@@ -43,9 +43,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ## Why Manage Projects in Obsidian? The Power of a Unified System {#why-manage-projects-in-obsidian}
 
-Here is the honest problem with running Todoist, Asana, or Trello alongside Obsidian: your context lives in your notes, but your commitments live somewhere else. You take meeting notes in Obsidian, write your project briefs there, paste research links there — and then you flip over to a separate app to log the action items. The connection between "why I'm doing this" and "what I need to do next" is severed the moment you context-switch.
+Here is the honest problem with running Todoist, Asana, or Trello alongside Obsidian: your context lives in your notes, but your commitments live somewhere else. You take meeting notes in Obsidian, write your project briefs there, paste [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) links there — and then you flip over to a separate app to log the action items. The connection between "why I'm doing this" and "what I need to do next" is severed the moment you context-switch.
 
-This friction compounds. You end up duplicating information, you forget to update one system when the other changes, and your task list becomes a detached list of orphaned action items with no supporting context. For knowledge workers — developers, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), consultants, writers — that context is the product.
+This friction compounds. You end up duplicating information, you forget to update one system when the other changes, and your task list becomes a detached list of orphaned action items with no supporting context. For [knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/) — developers, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), consultants, writers — that context is the product.
 
 Using Obsidian Tasks for project management solves this at the root. Tasks live inside your notes. A task next to meeting notes knows it came from that meeting. A task inside a project note inherits all the context on that page. When you query tasks, you pull them from wherever they live — you don't have to paste them anywhere.
 
@@ -490,7 +490,7 @@ The system described in this guide scales from a single project to a full PARA-s
 
 The vault template structure — `Projects/`, `Areas/`, `Dashboard/`, `Daily Notes/` — is simple enough to set up in 20 minutes and robust enough to run a full consulting practice or research workflow without modification.
 
-For those who prefer to learn through video and want to go deeper into advanced DataviewJS dashboards, custom themes, and Obsidian [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) workflows, structured courses on platforms like Skillshare or Udemy offer step-by-step instruction with real vault walkthroughs. These courses compress months of trial-and-error into a few hours of focused learning.
+For those who prefer to learn through video and want to go deeper into advanced DataviewJS dashboards, custom [themes](/posts/things-theme-vs-minimal-theme-obsidian/), and Obsidian [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) workflows, structured courses on platforms like Skillshare or Udemy offer step-by-step instruction with real vault walkthroughs. These courses compress months of trial-and-error into a few hours of focused learning.
 
 And if you are serious about the PARA method that underpins the workflow in this guide, *Building a Second Brain* by Tiago Forte is the book to read. It is not an Obsidian book, but it is the clearest explanation of why project management and [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) belong in the same system — which is exactly what this setup delivers.
 

@@ -19,7 +19,7 @@ Managing a tabletop RPG campaign quickly becomes a sprawling logistical challeng
 
 Obsidian has emerged as the premier [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) tool for GMs precisely because it mirrors how world building naturally occurs: non-linearly. Unlike rigid folder hierarchies, Obsidian’s bidirectional linking allows you to connect an NPC’s page directly to their hometown, the faction they represent, and the session note where the players first met them. 
 
-This guide breaks down exactly how to architect your Obsidian vault for campaign management, detailing the structural frameworks, practical workflows, and the specific ecosystem of plugins that turn a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) app into a comprehensive world-building engine.
+This guide breaks down exactly how to architect your Obsidian vault for campaign management, detailing the structural frameworks, practical [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/), and the specific ecosystem of plugins that turn a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) app into a comprehensive world-building engine.
 
 ## The Core Mechanics of Obsidian for Game Masters
 
@@ -47,7 +47,7 @@ Obsidian Leaflet is arguably the most critical plugin for visual world building.
 - Custom marker configurations for different point-of-interest types
 
 **Cons:**
-- Initial syntax configuration can be intimidating for beginners
+- Initial syntax configuration can be intimidating for [beginners](/posts/obsidian-vault-structure-digital-gardening-beginners/)
 - Performance can stutter if hundreds of markers are loaded simultaneously
 
 ### 2. Fantasy Calendar
@@ -165,7 +165,7 @@ The initial setup requires investment—learning Markdown, configuring templates
 ## Frequently Asked Questions
 
 ### Is Obsidian completely free for TTRPG use?
-Yes. The core Obsidian application is entirely free for personal use, which includes GMing campaigns. All community plugins mentioned, including Dataview and Leaflet, are also free and open-source. The only paid features offered by the developers are Obsidian Sync (an optional cloud syncing service) and Obsidian Publish (for hosting notes as a website).
+Yes. The core Obsidian application is entirely free for personal use, which includes GMing campaigns. All community plugins mentioned, including Dataview and Leaflet, are also free and open-source. The only paid features offered by the [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) are Obsidian Sync (an optional cloud syncing service) and Obsidian Publish (for hosting notes as a website).
 
 ### How do I share my Obsidian world lore with my players?
 Because Obsidian runs on local files, sharing requires workarounds. The simplest method is exporting specific, non-spoiler notes to PDF to hand out. Alternatively, you can use the free third-party Quartz tool or Obsidian's paid Publish tier to turn a specific folder of your vault into a public, searchable website that players can browse between sessions.

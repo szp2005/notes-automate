@@ -19,9 +19,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 **TL;DR**
 
-- **Minimal Theme** is the most configurable option and the best choice for writers who want total control over typography and layout — think iA Writer but inside Obsidian.
+- **[Minimal Theme](/posts/things-theme-vs-minimal-theme-obsidian/)** is the most configurable option and the best choice for writers who want total control over typography and layout — think iA Writer but inside Obsidian.
 - **Typomagical** delivers book-quality readability with zero configuration, making it the fastest path to a comfortable long-form writing environment.
-- **Things Theme** is the standout pick for academics and researchers who need strong heading hierarchy, footnote styling, and callout support.
+- **Things Theme** is the standout pick for academics and [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/) who need strong heading hierarchy, footnote styling, and callout support.
 
 ---
 
@@ -174,7 +174,7 @@ This shifts the dark background toward a warm off-black and the text toward a wa
 
 **Best for: Academics, researchers, and non-fiction writers — the Academic Researcher archetype.**
 
-Things Theme takes its name from the Cultured Code task manager it visually echoes, but for academic writing in Obsidian, it punches well above its reputation as a "productivity-adjacent" theme. Its real strengths for longform writers are structural: heading hierarchy is among the most visually distinct of any theme, footnote styling is actually readable, and its callout block design is the best implementation in any theme currently available.
+Things Theme takes its name from the Cultured Code task manager it visually echoes, but for [academic writing](/posts/top-obsidian-plugins-for-academic-writing-and-citations/) in Obsidian, it punches well above its reputation as a "productivity-adjacent" theme. Its real strengths for longform writers are structural: heading hierarchy is among the most visually distinct of any theme, footnote styling is actually readable, and its callout block design is the best implementation in any theme currently available.
 
 ### What Things Gets Right for Academics
 

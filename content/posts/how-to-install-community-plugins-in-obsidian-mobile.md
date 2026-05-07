@@ -37,7 +37,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ## Why Use Community Plugins on Obsidian Mobile? {#why-use}
 
-Community plugins are third-party extensions built by Obsidian users and developers. They live outside the core app and do things the official build won't: custom toolbars, quick-capture workflows, spaced repetition, task management integrations, and dozens of other functions.
+Community plugins are third-party extensions built by Obsidian users and developers. They live outside the core app and do things the official build won't: custom toolbars, quick-capture workflows, [spaced repetition](/posts/spaced-repetition-plugin-for-obsidian-flashcards/), task management integrations, and dozens of other functions.
 
 On desktop, installing them is a well-documented routine. On mobile, the same capability exists — but the path through the UI is slightly different, fewer people document it properly, and some plugins genuinely do not behave on a 6-inch screen.
 
@@ -89,7 +89,7 @@ The plugin is now active. Some plugins add a settings panel under **Settings > [
 
 ## Finding Plugins That Actually Work on Mobile {#finding-plugins}
 
-The plugin browser doesn't filter by mobile compatibility. You have to do that research yourself.
+The plugin browser doesn't filter by mobile compatibility. You have to do that [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) yourself.
 
 **Practical ways to vet a plugin for mobile:**
 
@@ -148,7 +148,7 @@ Some plugins inject custom HTML that assumes a wide viewport. If buttons are cut
 | Commander | Adds custom buttons to the mobile toolbar | Excellent — built with mobile in mind |
 | QuickAdd | Fast capture: append text, create notes from templates | Excellent — minimal UI, works great on small screens |
 | Advanced Mobile Toolbar | Expands the editing toolbar with more formatting options | Good — designed specifically for mobile |
-| Dataview | Query-based note views | Good — renders on mobile, editing queries is awkward |
+| [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) | Query-based note views | Good — renders on mobile, editing queries is awkward |
 | Templater | Runs template logic on note creation | Good — configure on desktop, use on mobile |
 
 **Commander** is the first plugin most mobile Obsidian users should install. The default mobile toolbar is limited. Commander lets you add, remove, and reorder buttons for any command in Obsidian — so your most-used actions are one tap away instead of buried in a menu.

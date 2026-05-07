@@ -29,9 +29,9 @@ By capturing everything chronologically first and categorizing second, you optim
 
 ## Step 1: Establish a Single Point of Capture
 
-The foundational rule of an effective daily note workflow is exclusivity. You must establish one application as your definitive inbox for the day. If you write your morning thoughts in Obsidian, log your meeting notes in Notion, and jot down quick phone numbers in Apple Notes, your system is already broken. 
+The foundational rule of an effective daily note workflow is exclusivity. You must establish one application as your definitive inbox for the day. If you write your morning thoughts in Obsidian, log your meeting notes in [Notion](/posts/n8n-workflow-for-syncing-obsidian-with-notion/), and jot down quick phone numbers in Apple Notes, your system is already broken. 
 
-Choose a tool that prioritizes fast loading times, offline access, and bidirectional linking. Applications like Obsidian, Logseq, and Roam Research are specifically engineered for this methodology because they treat daily notes as first-class citizens. When you open the application, it should default to today's note without requiring any clicks. 
+Choose a tool that prioritizes fast loading times, offline access, and bidirectional linking. Applications like Obsidian, Logseq, and Roam [Research](/posts/obsidian-vs-devonthink-for-large-research-archives/) are specifically engineered for this methodology because they treat daily notes as first-class citizens. When you open the application, it should default to today's note without requiring any clicks. 
 
 Your single point of capture must be accessible from your primary workstation and your mobile device. If you are away from your desk and have an insight, the friction to capture it in your daily note must be near zero. Configure global hotkeys on your desktop (e.g., Command+Shift+N) that instantly open today's note or a quick-capture modal that appends text to today's note. The technical infrastructure should be invisible; the only thing you should experience is the act of capturing the thought.
 
@@ -48,7 +48,7 @@ An optimal baseline structure includes:
 - **Meeting Notes:** Dedicated H3 headers for scheduled events, allowing you to capture context beneath them.
 - **Inbox / Processing:** A specific section for tasks or links that need to be categorized later.
 
-Keep metadata and YAML frontmatter to an absolute minimum. While it is tempting to track mood, sleep hours, water intake, and other metrics, these often create administrative overhead that causes users to abandon the system entirely within a month. Focus strictly on capturing actionable knowledge and workflow states.
+Keep [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) and YAML frontmatter to an absolute minimum. While it is tempting to track mood, sleep hours, water intake, and other metrics, these often create administrative overhead that causes users to abandon the system entirely within a month. Focus strictly on capturing actionable knowledge and workflow states.
 
 ## Step 3: Implement Time-Blocking and Task Integration
 

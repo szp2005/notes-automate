@@ -25,7 +25,7 @@ Achieving this requires specific tooling. By utilizing an Obsidian plugin for au
 
 Before evaluating specific solutions, it helps to understand how Obsidian interacts with YouTube's infrastructure. YouTube generates automated captions for most videos and allows creators to upload manual transcripts. This data is exposed through YouTube's API and backend endpoints.
 
-When a plugin fetches this data, it performs several operations simultaneously. It requests the transcript file, parses the XML or JSON structure returned by YouTube, and formats it into Markdown. The most critical component of this process is the retention of time metadata. A block of text without context is difficult to navigate; a block of text prefixed with a `[04:23]` link that directly controls an embedded video player represents a mature knowledge management [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/).
+When a plugin fetches this data, it performs several operations simultaneously. It requests the transcript file, parses the XML or JSON structure returned by YouTube, and formats it into Markdown. The most critical component of this process is the retention of time [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/). A block of text without context is difficult to navigate; a block of text prefixed with a `[04:23]` link that directly controls an embedded video player represents a mature knowledge management [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/).
 
 The formatting process also dictates how the text arrives in your vault. Some plugins dump the entire transcript as a single unformatted block, requiring manual line breaks. The best tools apply logical grouping, breaking the transcript into manageable paragraphs based on time intervals or natural pauses in speech, making the resulting document significantly easier to read and highlight.
 
@@ -59,7 +59,7 @@ Establishing a seamless workflow requires configuring your chosen plugins to out
 
 First, navigate to Obsidian's Community Plugins settings, disable Safe Mode if you have not already, and search for "YouTube Transcript". Install and enable the plugin.
 
-In the plugin's settings, you will find options for formatting. Enable "Include timestamps" as this is non-negotiable for video notes. Set the format of the timestamp to match your preferred aesthetic—typically `[HH:MM:SS]` or `(MM:SS)`. 
+In the plugin's settings, you will find options for formatting. Enable "Include timestamps" as this is non-negotiable for [video notes](/posts/hovernotes-for-timestamped-video-notes-obsidian/). Set the format of the timestamp to match your preferred aesthetic—typically `[HH:MM:SS]` or `(MM:SS)`. 
 
 Next, install "Media Extended" if you intend to watch the videos directly within Obsidian. Ensure the "Timestamp Link" setting in Media Extended is configured to recognize the exact format output by the YouTube Transcript plugin.
 
@@ -127,7 +127,7 @@ To mitigate this, structure your vault to separate raw inputs from synthesized k
 
 ## Conclusion
 
-Integrating an Obsidian plugin for automated YouTube transcript import fundamentally changes how you process video content. By moving the text out of the browser and into your local knowledge graph, you eliminate the friction of manual transcription and open up powerful new avenues for highlighting, linking, and referencing time-coded information. Whether you use a direct community plugin or a robust pipeline like Readwise, ensuring your video consumption feeds directly into your personal knowledge management system is a high-leverage upgrade for any digital worker or student.
+Integrating an Obsidian plugin for automated YouTube transcript import fundamentally changes how you process video content. By moving the text out of the browser and into your local knowledge graph, you eliminate the friction of manual transcription and open up powerful new avenues for highlighting, linking, and referencing time-coded information. Whether you use a direct community plugin or a robust pipeline like Readwise, ensuring your video consumption feeds directly into your [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) system is a high-leverage upgrade for any digital worker or student.
 
 ## Frequently Asked Questions
 

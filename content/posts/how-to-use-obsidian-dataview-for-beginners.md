@@ -13,11 +13,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian Dataview for Beginners: Complete Guide
 
-> **Quick Answer:** To use Obsidian Dataview, install the plugin from community plugins, add structured [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) (like YAML frontmatter) to your notes, and write queries using the Dataview Query Language (DQL). A basic query looks like ````dataview LIST FROM "folder"````, which automatically generates a list of all notes within that specific folder. 
+> **Quick Answer:** To use Obsidian Dataview, install the plugin from community [plugins](/posts/periodic-notes-plugin-weekly-reviews/), add structured [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) (like YAML frontmatter) to your notes, and write queries using the Dataview Query Language (DQL). A basic query looks like ````dataview LIST FROM "folder"````, which automatically generates a list of all notes within that specific folder. 
 
 When you first start using Obsidian, the freedom of plain-text markdown files is liberating. You create folders, drop links between notes, and watch your local graph grow. However, as your vault expands from a few dozen notes to hundreds or thousands, manually updating index pages and tracking down specific types of information becomes a tedious, error-prone chore. You find yourself spending more time managing your vault than actually writing or thinking.
 
-This is the exact pain point Obsidian Dataview solves. It bridges the gap between unstructured text and structured databases. By treating your vault as a database, Dataview allows you to query, filter, and display your notes dynamically without ever changing the underlying markdown files. 
+This is the exact pain point Obsidian Dataview solves. It bridges the gap between unstructured text and structured databases. By treating your vault as a [database](/posts/obsidian-bases-native-update-review-2026/), Dataview allows you to query, filter, and display your notes dynamically without ever changing the underlying markdown files. 
 
 Learning Dataview can feel intimidating if you do not have a programming background. The [documentation](/posts/how-to-use-obsidian-for-software-engineering-documentation/) is thorough but often assumes prior knowledge of database logic. This guide is designed specifically for non-programmers. We will break down exactly how to use Obsidian Dataview for beginners, starting with the core concepts of metadata and building up to constructing your own automated vault [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/).
 
@@ -202,7 +202,7 @@ This single block guarantees you never lose track of an active project. When you
 
 ### 2. The Daily Journal Review
 
-If you write daily notes and use inline fields to track your mood (e.g., `mood:: 8`), you can review your entire month at a glance.
+If you write [daily notes](/posts/automate-obsidian-daily-notes-using-python/) and use inline fields to track your mood (e.g., `mood:: 8`), you can review your entire month at a glance.
 
 ```text
 TABLE mood, sleep_hours AS "Sleep"

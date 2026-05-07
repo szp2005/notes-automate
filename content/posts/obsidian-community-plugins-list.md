@@ -46,7 +46,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Obsidian ships with a solid set of **core plugins**—things like backlinks, tags, and the graph view. These are built and maintained by the Obsidian team, baked into the app, and turned on or off from Settings > Core Plugins.
 
-**Community plugins** are a different animal. They are third-party extensions built by independent developers and distributed through Obsidian's plugin registry. At the time of writing, there are over 1,700 community plugins covering everything from spaced repetition flashcards to full calendar views, code execution, and database-style queries.
+**Community plugins** are a different animal. They are third-party extensions built by independent developers and distributed through Obsidian's plugin registry. At the time of writing, there are over 1,700 community plugins covering everything from [spaced repetition](/posts/spaced-repetition-plugin-for-obsidian-flashcards/) flashcards to full calendar views, code execution, and database-style queries.
 
 The key differences:
 
@@ -165,7 +165,7 @@ Designed for long-form writing projects. Creates a manuscript structure where ea
 **Use-case:** Create a new Longform project for your novel. Add scenes as individual notes. Reorder them by dragging in the Longform panel. Compile to a single document before sending to an editor—no copy-paste, no lost formatting.
 
 ### Readwise Official
-Readwise syncs all your Kindle highlights, web article annotations, podcast transcripts, and Twitter/X saves directly into your vault as structured notes. The plugin handles the sync automatically.
+Readwise syncs all your [Kindle highlights](/posts/obsidian-plugin-for-automated-kindle-highlights-sync/), web article annotations, podcast transcripts, and Twitter/X saves directly into your vault as structured notes. The plugin handles the sync automatically.
 
 **Use-case:** Highlight a passage in a Kindle book, open Obsidian ten minutes later, and find that highlight linked to the book's note with your tags and [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) already applied.
 
@@ -200,7 +200,7 @@ Turns your notes into a flashcard review system using the SM-2 algorithm (the sa
 
 - **Canvas Mindmap** – Extends Obsidian's built-in Canvas with mindmap-specific keyboard shortcuts.
 - **Bases** – Native-feeling property database views, still in early access.
-- **Smart Connections** – Uses local AI to surface semantically related notes without a cloud service.
+- **[Smart Connections](/posts/smart-connections-plugin-for-emergent-ideas/)** – Uses local AI to surface semantically related notes without a cloud service.
 - **Surfing** – Embeds a full web browser inside Obsidian. Niche, but genuinely useful for research workflows.
 
 ---

@@ -13,11 +13,11 @@ tags: ["obsidian", "students", "study tools", "academic workflow"]
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# What Are the Best Obsidian Plugins for Students? A [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)-Based Guide
+# What Are the Best Obsidian Plugins for Students? A [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/)-Based Guide
 
 > **TL;DR**
 > - The best Obsidian plugins for students aren't random additions — they map directly to specific academic tasks: researching, writing, and reviewing for exams.
-> - Core plugins like Dataview, Templater, and Zotero Integration do the heavy lifting most students actually need; flashy extras are optional.
+> - Core plugins like Dataview, [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/), and Zotero Integration do the heavy lifting most students actually need; flashy extras are optional.
 > - This guide walks you through a complete student vault setup, including a starter template, plugin-by-plugin breakdowns, and a real workflow example from first source to final flashcard.
 
 ---
@@ -197,7 +197,7 @@ The Tasks plugin is a vault-wide to-do list system. Add `- ` tasks with due date
 
 Here's a concrete example: writing a 3,000-word [literature review](/posts/advanced-obsidian-templates-for-literature-review-matrix/) for a graduate seminar.
 
-**Step 1 — Source collection (Zotero):** Save 12 papers to a Zotero collection called "Seminar Paper." Highlight key passages in each PDF as you read. Use Zotero Integration to import all 12 as individual notes in your Obsidian vault. Each note includes formatted citation metadata and your annotations.
+**Step 1 — Source collection (Zotero):** Save 12 papers to a Zotero collection called "Seminar Paper." Highlight key passages in each PDF as you read. Use Zotero Integration to import all 12 as individual notes in your Obsidian vault. Each note includes formatted citation [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) and your annotations.
 
 **Step 2 — Argument mapping (Excalidraw):** Open a new Excalidraw canvas. Draw boxes for each paper's main argument. Draw arrows showing how they agree, contradict, or build on each other. You now have a visual argument map that shows exactly where the gaps and tensions in the literature are — which is what your paper needs to address.
 

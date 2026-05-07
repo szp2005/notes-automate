@@ -19,7 +19,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 In the realm of personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/), the quest for an advanced personal wiki often leads to a crossroads between powerful, flexible tools. For individuals who move beyond simple [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/) and seek to build intricate knowledge bases, connect ideas, and manage complex projects, the choice of platform becomes critical. Two prominent contenders frequently emerge in this advanced space: Obsidian and TiddlyWiki. Both offer profound capabilities for organizing information, but they approach the task from fundamentally different philosophies.
 
-This article delves into a comprehensive comparison of Obsidian and TiddlyWiki, specifically tailored for users with advanced requirements. We will explore their core architectures, extensibility, user experience, and the implications for data ownership and long-term usability. Understanding these distinctions is crucial for selecting the tool that aligns best with your specific workflow, technical comfort, and vision for your personal knowledge repository.
+This article delves into a comprehensive comparison of Obsidian and TiddlyWiki, specifically tailored for users with advanced requirements. We will explore their core architectures, extensibility, user experience, and the implications for data ownership and long-term usability. Understanding these distinctions is crucial for selecting the tool that aligns best with your specific [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/), technical comfort, and vision for your personal knowledge repository.
 
 ## Understanding Advanced Personal Wiki Needs
 
@@ -107,7 +107,7 @@ Obsidian's design prioritizes a smooth, focused writing and linking experience w
 TiddlyWiki's interface is entirely browser-based, and its default presentation can be quite different from traditional applications.
 
 *   **Non-Linear Navigation:** Tiddlers open and close dynamically within the single HTML page, creating a unique, non-linear navigation experience. This can be disorienting initially but becomes powerful for focused work.
-*   **Highly Configurable Layout:** While the default UI might seem spartan to some, TiddlyWiki is incredibly flexible. Users can redesign the entire layout, create custom dashboards, and integrate various UI elements.
+*   **Highly Configurable Layout:** While the default UI might seem spartan to some, TiddlyWiki is incredibly flexible. Users can redesign the entire layout, create custom [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/), and integrate various UI elements.
 *   **Rich Text Editor:** TiddlyWiki includes a rich text editor (often based on TinyMCE or similar) alongside its own wikitext syntax, offering flexibility in content creation.
 *   **Browser Dependencies:** Its performance and saving mechanisms are tied to browser capabilities and configurations, which can sometimes require specific setup (e.g., using a browser extension for direct file saving).
 *   **Learning Curve:** The initial learning curve for TiddlyWiki's unique interaction model and syntax is generally steeper than Obsidian's, but mastering it unlocks profound customization.

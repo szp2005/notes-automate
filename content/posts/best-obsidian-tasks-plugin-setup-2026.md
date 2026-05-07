@@ -23,7 +23,7 @@ This guide breaks down the definitive components of the optimal setup, how to co
 
 ## Core Components of the Ultimate Tasks System
 
-To build a resilient task management workflow, you need the right combination of tools. While the core Obsidian Tasks plugin is the engine, these companion plugins form the chassis of a complete [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system.
+To build a resilient task management [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/), you need the right combination of tools. While the core Obsidian Tasks plugin is the engine, these companion plugins form the chassis of a complete [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system.
 
 ### 1. Obsidian Tasks Plugin
 
@@ -95,7 +95,7 @@ Day Planner takes the tasks you have scheduled for the current day and renders t
 
 ### 5. Obsidian Kanban
 
-**Best for:** Visual project management alongside standard tasks
+**Best for:** Visual [project management](/posts/obsidian-project-management-academic-research-teams/) alongside standard tasks
 **Price:** Free
 **Rating:** 4.8/5
 

@@ -16,7 +16,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Systematic Literature Reviews (SLRs) are a cornerstone of evidence-based research, demanding meticulous organization, rigorous analysis, and transparent reporting. The sheer volume of literature, coupled with the need for systematic data extraction and synthesis, often presents significant challenges for researchers. Traditional tools can sometimes feel rigid, limiting the organic growth of ideas and connections crucial for deep analytical work.
 
-Enter Obsidian, a powerful [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) tool that operates on local Markdown files. While not purpose-built for SLRs, its core strengths—bidirectional linking, graph view, and an extensible plugin architecture—make it an exceptionally versatile platform for managing the complex [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) of a systematic review. This guide will explore how researchers can harness Obsidian's capabilities to conduct more efficient, organized, and insightful systematic literature reviews.
+Enter Obsidian, a powerful [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) tool that operates on local Markdown files. While not purpose-built for SLRs, its core strengths—bidirectional linking, graph view, and an extensible plugin architecture—make it an exceptionally versatile platform for managing the complex [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) of a systematic review. This guide will explore how researchers can harness Obsidian's capabilities to conduct more efficient, organized, and insightful systematic literature reviews.
 
 ## Why Obsidian Excels for Systematic Literature Reviews
 
@@ -30,7 +30,7 @@ Finally, Obsidian's **extensible plugin ecosystem** allows researchers to tailor
 
 ## Setting Up Your Obsidian Vault for SLR
 
-A well-structured Obsidian vault is fundamental to a successful systematic literature review. Establishing a clear organizational system from the outset will save significant time and effort during the data extraction and synthesis phases.
+A well-structured Obsidian vault is fundamental to a successful systematic [literature review](/posts/advanced-obsidian-templates-for-literature-review-matrix/). Establishing a clear organizational system from the outset will save significant time and effort during the data extraction and synthesis phases.
 
 Begin by creating a dedicated vault for your SLR. Within this vault, establish a logical folder structure. A common approach includes:
 
@@ -195,7 +195,7 @@ Excalidraw brings a versatile digital whiteboard experience directly into Obsidi
 
 ## Conclusion
 
-Using Obsidian for systematic literature reviews offers a compelling alternative to traditional methods and specialized software. Its foundation on local Markdown files provides unparalleled control and future-proofing, while its core features like bidirectional linking and the Graph View foster a deeply interconnected and insightful analytical process. By leveraging a well-structured vault, integrating with reference managers, and harnessing the power of essential plugins like Dataview, Zotero Integration, and Excalidraw, researchers can transform their SLR workflow. Obsidian empowers you to move beyond simple data collection to truly synthesize, analyze, and visualize your literature, ultimately leading to more robust, transparent, and impactful systematic reviews. Embrace Obsidian, and unlock a new level of efficiency and insight in your academic research.
+Using Obsidian for systematic literature reviews offers a compelling alternative to traditional methods and specialized software. Its foundation on local Markdown files provides unparalleled control and future-proofing, while its core features like bidirectional linking and the Graph View foster a deeply interconnected and insightful analytical process. By leveraging a well-structured vault, integrating with reference managers, and harnessing the power of essential plugins like Dataview, Zotero Integration, and Excalidraw, researchers can transform their SLR workflow. Obsidian empowers you to move beyond simple data collection to truly synthesize, analyze, and visualize your literature, ultimately leading to more robust, transparent, and impactful systematic reviews. Embrace Obsidian, and unlock a new level of efficiency and insight in your [academic research](/posts/obsidian-project-management-academic-research-teams/).
 
 ## Frequently Asked Questions
 

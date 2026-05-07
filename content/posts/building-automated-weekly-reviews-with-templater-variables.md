@@ -1,4 +1,5 @@
 ---
+image: "/og/building-automated-weekly-reviews-with-templater-variables.webp"
 title: "Building Automated Weekly Reviews With Templater Variables"
 description: "Master building automated weekly reviews with templater variables in Obsidian. Compare essential plugins and implement a frictionless productivity system."
 pubDate: "2026-05-07"
@@ -12,9 +13,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Building Automated Weekly Reviews With Templater Variables
 
-> **Quick Answer:** Building automated weekly reviews with templater variables requires combining Obsidian's Templater plugin with dynamic date functions (like `<% tp.date.now() %>`) to auto-populate headers, fetch weekly metrics, and roll up daily notes. This eliminates manual data entry, reducing a typical 45-minute weekly review administrative setup to under 2 seconds.
+> **Quick Answer:** Building automated weekly reviews with templater variables requires combining [Obsidian](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)'s Templater plugin with dynamic date functions (like `<% tp.date.now() %>`) to auto-populate headers, fetch weekly metrics, and roll up daily notes. This eliminates manual data entry, reducing a typical 45-minute weekly review administrative setup to under 2 seconds.
 
-The weekly review is the cornerstone of any reliable personal knowledge management system. Yet, for many knowledge workers, the friction of setting up the review—gathering incomplete tasks, finding daily notes, formatting dates, and structuring headers—prevents the review from actually happening. When the administrative overhead of organizing your work takes as long as the reflection itself, the system inevitably breaks down under stress. 
+The weekly review is the cornerstone of any reliable personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system. Yet, for many knowledge workers, the friction of setting up the review—gathering incomplete tasks, finding daily notes, formatting dates, and structuring headers—prevents the review from actually happening. When the administrative overhead of organizing your work takes as long as the reflection itself, the system inevitably breaks down under stress. 
 
 By building automated weekly reviews with templater variables, you shift the burden of organization from your future self to a rigid, programmatic system. Obsidian, combined with the Templater plugin, allows you to execute JavaScript variables the moment a file is created. This means that pressing a single hotkey can generate a fully populated, context-rich review document tailored exactly to the current calendar week.
 
@@ -192,4 +193,4 @@ By default, `<% tp.date.weekday() %>` references the current week. If you genera
 Yes. Templater supports System Command execution and advanced user scripts. You can write a JavaScript module to ping an external API (like Todoist or a weather service) and print that data directly into your weekly review when the template executes.
 
 ### Does Dataview replace the need for Templater variables?
-No, they serve opposite functions. Dataview renders data dynamically on the screen without altering the text file; Templater burns data and text permanently into the file upon creation. A robust system uses Templater to build the permanent structure and Dataview to populate dynamic dashboards within that structure.
+No, they serve opposite functions. Dataview renders data dynamically on the screen without altering the text file; Templater burns data and text permanently into the file upon creation. A robust system uses Templater to build the permanent structure and Dataview to populate dynamic [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) within that structure.

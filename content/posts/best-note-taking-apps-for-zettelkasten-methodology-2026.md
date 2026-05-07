@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best Note Taking Apps for Zettelkasten Methodology 2026
 
-> **Quick Answer:** The best note taking apps for Zettelkasten methodology in 2026 prioritize bidirectional linking, frictionless note creation, and local storage. [Obsidian](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) remains the absolute top choice for power users due to its extensive plugin ecosystem and local-first architecture. For outliner-style thinkers, Logseq provides an open-source alternative with native block-level references, while Roam Research continues to serve users who prefer a premium, cloud-hosted outlining experience.
+> **Quick Answer:** The best note taking apps for Zettelkasten methodology in 2026 prioritize bidirectional linking, frictionless note creation, and local storage. [Obsidian](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) remains the absolute top choice for power users due to its extensive plugin ecosystem and local-first architecture. For outliner-style thinkers, Logseq provides an open-source alternative with native block-level references, while Roam [Research](/posts/obsidian-vs-devonthink-for-large-research-archives/) continues to serve users who prefer a premium, cloud-hosted outlining experience.
 
 The Zettelkasten methodology has shifted how academics, writers, and knowledge workers manage information. Instead of treating notes as isolated documents filed away in rigid folder hierarchies, a Zettelkasten system treats each note as an independent node in a highly connected network. By linking related concepts, you build a "second brain" that resurfaces ideas organically and facilitates complex problem-solving.
 
@@ -65,7 +65,7 @@ Operating primarily through a daily journal interface, Logseq encourages you to 
 
 ### 3. Roam Research
 
-**Best for:** Academics and researchers comfortable with cloud-based software
+**Best for:** Academics and [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/) comfortable with cloud-based software
 **Price:** $15/month or $165/year
 **Rating:** 4.5/5
 
@@ -112,7 +112,7 @@ The standout feature of Zettlr is its native integration with reference managers
 
 Tana represents the next evolution of networked thought by combining the fluid outlining of Roam Research with the rigorous database structuring of Notion. Rather than relying solely on bidirectional links, Tana uses a concept called "Supertags." When you tag a node as `#book`, Tana automatically prompts you to fill out specific fields (author, publication year, reading status) that you have defined for that tag.
 
-For a Zettelkasten workflow, this means your permanent notes can possess structural metadata while retaining the flexibility of a traditional text graph. You can view any tag as a kanban board, a list, or a table. This hybrid approach is exceptionally powerful for users who find purely associative linking too chaotic and prefer a layer of semantic structure over their knowledge base. Tana operates exclusively in the cloud, which ensures seamless syncing across devices but sacrifices local data control.
+For a Zettelkasten workflow, this means your permanent notes can possess structural [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) while retaining the flexibility of a traditional text graph. You can view any tag as a kanban board, a list, or a table. This hybrid approach is exceptionally powerful for users who find purely associative linking too chaotic and prefer a layer of semantic structure over their knowledge base. Tana operates exclusively in the cloud, which ensures seamless syncing across devices but sacrifices local data control.
 
 **Pros:**
 - Supertags provide incredible structural power without sacrificing fluidity

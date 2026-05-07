@@ -13,11 +13,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Periodic Notes Plugin Complete Guide: Mastering Weekly Reviews
 
-> **Quick Answer:** The Periodic Notes plugin for weekly reviews allows [Obsidian](/posts/using-obsidian-for-long-term-evergreen-note-management/) users to automatically generate and link time-based notes beyond the core daily notes feature. By configuring custom templates and folder structures for weekly, monthly, and yearly intervals, you can create a frictionless system for reflecting on past accomplishments and planning future tasks.
+> **Quick Answer:** The Periodic Notes plugin for weekly reviews allows [Obsidian](/posts/using-obsidian-for-long-term-evergreen-note-management/) users to automatically generate and link time-based notes beyond the core daily notes feature. By configuring custom [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) and folder structures for weekly, monthly, and yearly intervals, you can create a frictionless system for reflecting on past accomplishments and planning future tasks.
 
 Building a sustainable [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system in Obsidian requires more than just taking disconnected notes. While the core Daily Notes feature is excellent for capturing fleeting thoughts and logging daily tasks, it lacks the macro-level perspective required for effective personal management. Without a dedicated space to zoom out, review progress, and course-correct, daily logs quickly become a graveyard of forgotten intentions.
 
-The weekly review is the backbone of methodologies like Getting Things Done (GTD) and time-blocking. It is the designated time to process open loops, migrate unfinished tasks, and set priorities for the upcoming week. However, manually creating weekly review files, formatting dates, and linking them to corresponding daily notes adds unnecessary friction to a habit that already requires significant mental energy.
+The [weekly review](/posts/obsidian-template-for-weekly-reflection-and-planning/) is the backbone of methodologies like Getting Things Done (GTD) and time-blocking. It is the designated time to process open loops, migrate unfinished tasks, and set priorities for the upcoming week. However, manually creating weekly review files, formatting dates, and linking them to corresponding daily notes adds unnecessary friction to a habit that already requires significant mental energy.
 
 This is where the Obsidian plugin ecosystem shines. By integrating specific community plugins, you can automate the administrative overhead of the weekly review. In this guide, we evaluate the core tools necessary for this [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), focusing primarily on how the Periodic Notes plugin for weekly reviews can transform your vault into a cohesive, time-aware productivity engine.
 
@@ -27,7 +27,7 @@ To build a robust weekly review system, you need a combination of plugins that h
 
 ### 1. Periodic Notes Plugin
 
-**Best for:** Knowledge workers and planners needing structured time-based reflection
+**Best for:** [Knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/) and planners needing structured time-based reflection
 **Price:** Free
 **Rating:** 4.9/5
 

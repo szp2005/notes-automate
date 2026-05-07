@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **TL;DR**
 > - The Obsidian Projects plugin turns any folder of notes into a visual dashboard with Table, Board, Calendar, and Gallery views — no code required.
-> - It's faster to set up than Dataview for visual [project management](/posts/obsidian-project-management-academic-research-teams/), but less flexible for complex queries; the two tools complement each other well.
+> - It's faster to set up than [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) for visual [project management](/posts/obsidian-project-management-academic-research-teams/), but less flexible for complex queries; the two tools complement each other well.
 > - This guide includes three copy-paste project templates, a [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/) + QuickAdd integration walkthrough, and a troubleshooting section for the most common setup failures.
 
 ---
@@ -56,7 +56,7 @@ Think of it as a lightweight Airtable living inside your vault. Every note becom
 
 The verdict: they are not competitors, they are complements. Use Projects for your active workflow views. Use Dataview for cross-vault reporting and aggregation.
 
-**Ideal user:** You already understand YAML frontmatter. You manage recurring workflows — content pipelines, research queues, task lists — and you are tired of navigating folders blindly. You want to *see* your work without learning a query language.
+**Ideal user:** You already understand YAML frontmatter. You manage recurring [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) — content pipelines, research queues, task lists — and you are tired of navigating folders blindly. You want to *see* your work without learning a query language.
 
 ---
 
@@ -231,7 +231,7 @@ Setup steps:
 
 Now, from anywhere in your vault, press the hotkey, type the article title, and a new note lands in `Content/` with complete frontmatter, ready to appear in your Projects Board as an `idea`.
 
-If you are on a Mac and want to extend this capture workflow to system-wide clipboard management or text expansion across apps, Setapp is worth looking at — it includes tools like Raycast extensions, clipboard managers, and text expanders that pair directly with this kind of rapid-capture workflow, all under a single subscription.
+If you are on a Mac and want to extend this capture workflow to system-wide clipboard management or text expansion across apps, Setapp is worth looking at — it includes tools like [Raycast](/posts/obsidian-uri-protocol-for-automation-with-raycast/) extensions, clipboard managers, and text expanders that pair directly with this kind of rapid-capture workflow, all under a single subscription.
 
 ### Embedding Dataview Inside Project Notes
 

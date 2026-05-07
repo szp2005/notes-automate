@@ -13,11 +13,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian Dataview for Project Tracking: Complete Setup Guide
 
-> **Quick Answer:** Obsidian Dataview for project tracking transforms your plain-text markdown vault into a dynamic, queryable database. By adding structured metadata (YAML or inline fields) to your notes, you can write simple DQL (Dataview Query Language) scripts to automatically aggregate tasks, track project statuses, and generate real-time [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) across your entire workspace.
+> **Quick Answer:** Obsidian Dataview for project tracking transforms your plain-text markdown vault into a dynamic, queryable database. By adding structured [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) (YAML or inline fields) to your notes, you can write simple DQL (Dataview Query Language) scripts to automatically aggregate tasks, track project statuses, and generate real-time [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) across your entire workspace.
 
 Managing projects in a plain-text environment often leads to a common breaking point. When you only have ten notes, folder structures and basic wiki-links work perfectly. When you scale to hundreds of notes, meeting minutes, and scattered to-do lists, retrieving actionable information becomes a manual, time-consuming process. Tasks slip through the cracks, and gaining a high-level overview of active projects feels impossible without maintaining separate, redundant tracking documents.
 
-Obsidian Dataview bridges the gap between raw text files and structured project management systems. It allows you to maintain the friction-free writing experience of local markdown files while introducing the database capabilities you would typically expect from heavier tools like Notion or Jira. 
+Obsidian Dataview bridges the gap between raw text files and structured [project management](/posts/obsidian-project-management-academic-research-teams/) systems. It allows you to maintain the friction-free writing experience of local markdown files while introducing the database capabilities you would typically expect from heavier tools like [Notion](/posts/n8n-workflow-for-syncing-obsidian-with-notion/) or Jira. 
 
 By defining standard metadata across your project files, Dataview can pull disparate pieces of information into automated lists, tables, and task boards. This guide covers the architectural setup, specific query structures, and practical implementation strategies required to build a resilient project tracking system entirely within Obsidian.
 

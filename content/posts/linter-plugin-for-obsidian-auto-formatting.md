@@ -15,7 +15,7 @@ type: "informational"
 
 Managing a large database of text files inevitably leads to structural chaos. Over months and years of building a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system, your formatting habits will drift. You might use two spaces after a heading one week, and zero the next. You might format your tags as arrays in your frontmatter today, but leave them as inline text a year later. 
 
-This structural drift creates significant problems when you attempt to publish your notes, parse them with external scripts, or simply search through them using strict parameters. Inconsistent formatting breaks static site generators, clutters version control diffs, and makes your vault harder to navigate. 
+This structural drift creates significant problems when you attempt to publish your notes, parse them with external scripts, or simply search through them using strict parameters. Inconsistent formatting breaks static site generators, clutters [version control](/posts/setting-up-obsidian-git-for-automated-version-control/) diffs, and makes your vault harder to navigate. 
 
 The solution to this formatting entropy is automated linting. In software engineering, a "linter" is a tool that analyzes source code to flag programming errors, bugs, and stylistic errors. Brought into the context of Markdown and PKM, a linter enforces a unified style guide across your entire vault. 
 
@@ -69,7 +69,7 @@ Enable "Format YAML array". Set your tags and aliases to use multi-line arrays o
 Navigate to the "Blank Lines" section. The most common standard is to enforce one blank line before a heading, and zero blank lines after a heading. Ensure "Remove trailing spaces" is toggled on. If you write long-form content, enable "Consecutive blank lines" and set the limit to one. This prevents you from accidentally leaving large empty gaps in your text.
 
 **Formatting Rules:**
-Under "Heading format", enable "Space after heading hash" to prevent header parsing errors. If you use checkboxes for task management, enable "Space after task" to ensure `-[ ]Task` automatically becomes `- [ ] Task`. 
+Under "Heading format", enable "Space after heading hash" to prevent header parsing errors. If you use checkboxes for [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/), enable "Space after task" to ensure `-[ ]Task` automatically becomes `- [ ] Task`. 
 
 ### Step 3: Trigger Mechanisms
 The Linter must be triggered to act. You have three primary mechanisms:
@@ -102,7 +102,7 @@ One of the most powerful practical applications of the Linter is bulk tag migrat
 
 You can write a custom regex rule in the Linter:
 *   **Regex to find:** `#project\/([a-zA-Z0-9_-]+)`
-*   **Regex to replace:** (Leave blank to delete from the body, and use a script or Dataview to migrate the data to YAML beforehand, or use advanced regex groups to move strings if your workflow supports it).
+*   **Regex to replace:** (Leave blank to delete from the body, and use a script or [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) to migrate the data to YAML beforehand, or use advanced regex groups to move strings if your workflow supports it).
 
 Custom regex rules are executed sequentially. You can build a pipeline of five or six regex replacements that run every time you save, effectively building a custom text processing engine right inside your editor.
 

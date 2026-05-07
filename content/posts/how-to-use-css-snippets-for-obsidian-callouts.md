@@ -126,7 +126,7 @@ A color that looks excellent in dark mode might be completely illegible in light
 }
 ```
 
-Structuring your CSS this way ensures your custom callouts maintain high accessibility and contrast ratios regardless of which theme you are currently using.
+Structuring your CSS this way ensures your custom callouts maintain high [accessibility](/posts/best-obsidian-themes-for-high-contrast-accessibility-2026/) and contrast ratios regardless of which theme you are currently using.
 
 ## Changing Callout Icons Using Lucide
 
@@ -199,7 +199,7 @@ If you want to create a "Quote" callout with a massive, stylized title and itali
 
 ### Modifying Borders and Radii
 
-The default Obsidian callout features a solid, thin border on all four sides. You can modify this to create entirely different visual styles, such as the popular "left-border only" style often seen in technical documentation.
+The default Obsidian callout features a solid, thin border on all four sides. You can modify this to create entirely different visual styles, such as the popular "left-border only" style often seen in technical [documentation](/posts/using-obsidian-to-manage-n8n-workflow-documentation/).
 
 ```css
 .callout[data-callout="documentation"] {
@@ -237,7 +237,7 @@ Always leave CSS comments (`/* comment here */`) above your code blocks explaini
 Because Obsidian requires RGB values for `--callout-color`, trying to guess the RGB equivalent of a specific hex code from your vault's theme is tedious. Bookmark a web-based Hex-to-RGB converter, or use a color picker tool in your code editor that displays both formats simultaneously. Remember to omit the `rgb()` wrapper when defining the variable—just input the three numbers separated by commas (e.g., `255, 255, 255`).
 
 **Beware of Theme Overrides**
-Community themes like Minimal, Things, or Blue Topaz heavily modify Obsidian's core CSS. If your custom callout snippet is not working, your active community theme is likely utilizing higher-specificity CSS selectors that override your snippet. To fix this, you can append `!important` to your CSS rules as a last resort, though it is better practice to inspect the element using Obsidian's developer tools (Ctrl+Shift+I / Cmd+Option+I) to write a more specific selector.
+Community [themes](/posts/things-theme-vs-minimal-theme-obsidian/) like Minimal, Things, or Blue Topaz heavily modify Obsidian's core CSS. If your custom callout snippet is not working, your active community theme is likely utilizing higher-specificity CSS selectors that override your snippet. To fix this, you can append `!important` to your CSS rules as a last resort, though it is better practice to inspect the element using Obsidian's developer tools (Ctrl+Shift+I / Cmd+Option+I) to write a more specific selector.
 
 ## Synthesizing Your Callout Strategy
 

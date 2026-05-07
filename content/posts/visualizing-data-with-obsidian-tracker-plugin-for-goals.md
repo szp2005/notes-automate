@@ -26,7 +26,7 @@ Before generating charts, you must understand how the Tracker plugin finds your 
 There are three primary ways to format data so the plugin can read it:
 
 ### YAML Frontmatter
-Placing data in the properties or YAML frontmatter at the top of your note is the most robust method. It keeps the body of your note clean and is highly structured. 
+Placing data in the properties or YAML frontmatter at the top of your note is the most robust [method](/posts/how-to-find-obsidian-plugin-documentation/). It keeps the body of your note clean and is highly structured. 
 
 Example formatting:
 ```yaml
@@ -48,7 +48,7 @@ For simple [habit tracking](/posts/obsidian-plugins-for-habit-tracking-2026/) (y
 
 ## Installing and Configuring the Tracker Plugin
 
-Getting started requires installing the plugin from the Obsidian community directory and configuring its core settings to match your vault's structure.
+Getting started requires installing the plugin from the Obsidian [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) directory and configuring its core settings to match your vault's structure.
 
 ### Installation Steps
 1. Open Obsidian Settings and navigate to **Community plugins**.
@@ -151,7 +151,7 @@ This creates a clear visual threshold. Days where the bar surpasses the red line
 Implementing a goal-tracking system requires consistency and strategic vault organization. Follow these practical recommendations to maintain a sustainable setup.
 
 ### Standardize Your Daily Notes
-Use Obsidian's core [Templates](/posts/obsidian-template-for-weekly-reflection-and-planning/) plugin or community plugins like [Templater](/posts/automating-obsidian-frontmatter-with-templater-scripts/) to ensure every daily note generates with the exact same YAML frontmatter keys. If you manually type `weight` on Monday and `BodyWeight` on Tuesday, the Tracker plugin will not aggregate the data.
+Use Obsidian's core [Templates](/posts/obsidian-template-for-weekly-reflection-and-[planning](/posts/obsidian-full-calendar-plugin-review/)/) plugin or community plugins like [Templater](/posts/automating-obsidian-frontmatter-with-templater-scripts/) to ensure every daily note generates with the exact same YAML frontmatter keys. If you manually type `weight` on Monday and `BodyWeight` on Tuesday, the Tracker plugin will not aggregate the data.
 
 ### Keep Dashboards Separate
 Do not place heavy Tracker code blocks inside the daily notes themselves. Create a dedicated `Goal Dashboard` note. The Tracker plugin executes its queries every time a note is opened. Having multiple complex charts load simultaneously inside a daily note will cause unnecessary lag.

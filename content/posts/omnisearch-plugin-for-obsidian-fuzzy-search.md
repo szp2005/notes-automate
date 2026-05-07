@@ -27,7 +27,7 @@ First, exact-match systems are entirely unforgiving of human error. Typos happen
 
 Second, native search lacks an intuitive relevance ranking system out of the box. While you can sort by modified date or file name, you cannot inherently sort by "how well this note answers my query." If an exact string appears once in a 3,000-word essay and five times in a 200-word concept note, a basic exact-match search does not always effectively prioritize the concept note as the more relevant result without additional query syntax.
 
-Finally, the native search is blind to the content locked inside non-text files. If you drag and drop a screenshot of a presentation or a scanned PDF document into your vault, the text within those files is invisible to the core Obsidian search application. For [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), students, and professionals who rely heavily on reference documents, this creates isolated silos of unsearchable information within the very tool designed to synthesize knowledge.
+Finally, the native search is blind to the content locked inside non-text files. If you drag and drop a screenshot of a presentation or a scanned PDF document into your vault, the text within those files is invisible to the core Obsidian search application. For [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), [students](/posts/organizing-complex-academic-projects-in-an-obsidian-vault/), and professionals who rely heavily on reference documents, this creates isolated silos of unsearchable information within the very tool designed to synthesize knowledge.
 
 ## How the Omnisearch Plugin Transforms Obsidian Fuzzy Search
 
@@ -56,7 +56,7 @@ To perform complex scoring and fuzzy matching across thousands of files instantl
 
 Getting started with the Omnisearch plugin for Obsidian fuzzy search requires a few specific steps, especially if you want to unlock its full potential regarding PDFs and images.
 
-1. **Install Omnisearch:** Open Obsidian, navigate to **Settings > Community plugins**, and click **Browse**. Search for "Omnisearch" (developed by scambier) and click **Install**, followed by **Enable**.
+1. **Install Omnisearch:** Open Obsidian, navigate to **Settings > Community [plugins](/posts/periodic-notes-plugin-weekly-reviews/)**, and click **Browse**. Search for "Omnisearch" (developed by scambier) and click **Install**, followed by **Enable**.
 2. **Install Text Extractor (Crucial Dependency):** To enable searching inside PDFs and images, you must install a companion plugin. Go back to the Community plugins browser, search for "Text Extractor," install it, and enable it. Omnisearch relies on Text Extractor's engine to pull text from non-markdown files.
 3. **Configure Text Extractor:** Open the settings for Text Extractor. Depending on your operating system, it may prompt you to download the necessary OCR languages or verify background processes. Ensure English (and any other languages you use) are actively installed in the Text Extractor settings.
 4. **Trigger Initial Indexing:** Open the Omnisearch settings. You will see an option regarding the vault index. Click the button to force a full re-index of your vault. If you have a massive vault with hundreds of PDFs and images, this initial process may take several minutes. Leave Obsidian open and running until it completes.
@@ -87,7 +87,7 @@ Native search is best for programmatic, precise filtering. If you need to find "
 **Omnisearch vs. Vantage:**
 Vantage is an advanced search builder for Obsidian. It does not replace the native search engine; rather, it provides a graphical interface to build complex, nested Boolean queries that the native search engine executes. Vantage requires precision and planning. Omnisearch requires almost no planning, relying entirely on algorithmic scoring to surface the right note instantly.
 
-**Omnisearch vs. Dataview:**
+**Omnisearch vs. [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/):**
 Dataview is a database querying language, not a free-text search engine. Dataview excels at creating dynamic tables and lists based on structured metadata (YAML frontmatter). Omnisearch excels at tearing through unstructured text. They are complementary tools: use Dataview to organize your structured data, and use Omnisearch to find needles in your unstructured haystacks.
 
 ## Conclusion

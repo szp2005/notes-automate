@@ -13,9 +13,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best Obsidian Themes for Dark Mode in 2026: Top Picks
 
-> **Quick Answer:** The best Obsidian themes for dark mode in 2026 are Minimal for distraction-free writing, AnuPpuccin for deep customization and soft contrasts, and Things for structured task management. Your ideal choice depends heavily on whether your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) prioritizes long-form writing, visual flair, or dashboard management.
+> **Quick Answer:** The best Obsidian themes for dark mode in 2026 are Minimal for distraction-free writing, AnuPpuccin for deep customization and soft contrasts, and Things for structured [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/). Your ideal choice depends heavily on whether your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) prioritizes long-form writing, visual flair, or dashboard management.
 
-Spending hours inside a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system requires a UI that reduces eye strain while keeping critical information legible. The default Obsidian dark mode provides a solid foundation, but community developers have pushed the boundaries of what the application's CSS engine can handle. In 2026, themes have evolved beyond simple color swaps into comprehensive workspace overlays that integrate seamlessly with complex plugins.
+Spending hours inside a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system requires a UI that reduces eye strain while keeping critical information legible. The default Obsidian dark mode provides a solid foundation, but community [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) have pushed the boundaries of what the application's CSS engine can handle. In 2026, themes have evolved beyond simple color swaps into comprehensive workspace overlays that integrate seamlessly with complex plugins.
 
 Selecting the right dark theme is not just about aesthetics; it is about functional contrast. A poorly designed dark mode can cause astigmatism-related halation (where white text bleeds into black backgrounds) or bury important UI elements in crushed shadows. The themes evaluated here stand out for their adherence to accessibility standards, plugin compatibility, and active maintenance cycles.
 
@@ -31,7 +31,7 @@ Below is a detailed analysis of the most effective dark mode themes currently av
 
 Minimal remains the gold standard for Obsidian customization. Developed by Kepano (Obsidian's CEO), this theme aggressively strips away UI clutter to focus entirely on your content. In dark mode, Minimal utilizes a deep, neutral gray rather than a pure `#000000` black, significantly reducing the harsh contrast that often causes eye fatigue during extended writing sessions. The theme relies heavily on the companion [Minimal Theme](/posts/things-theme-vs-minimal-theme-obsidian/) Settings and Style Settings plugins, allowing users to toggle features like colorful active tabs, relationship lines, and custom font weights.
 
-Its true strength lies in its modularity. You can achieve a near-invisible interface where only your text and inline images command attention. It also boasts native-level support for complex block renders like Dataview tables and Kanban boards, ensuring they look native rather than bolted on.
+Its true strength lies in its modularity. You can achieve a near-invisible interface where only your text and inline images command attention. It also boasts native-level support for complex block renders like [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) tables and Kanban boards, ensuring they look native rather than bolted on.
 
 **Pros:**
 - Exceptional typography and reading comfort

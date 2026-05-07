@@ -23,7 +23,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 - **Obsidian Canvas is a free, built-in infinite whiteboard** that lets you spatially arrange notes, images, PDFs, and web content inside your existing vault — no subscription, no third-party app.
 - Unlike Miro or Heptabase, every card on your canvas is directly linked to your real notes, so your visual maps stay in sync with your actual knowledge base.
-- This guide walks through setup, five concrete workflows, advanced integrations with Dataview and backlinks, and honest troubleshooting tips for when things get slow or messy.
+- This guide walks through setup, five concrete [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/), advanced integrations with [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) and backlinks, and honest troubleshooting tips for when things get slow or messy.
 
 ---
 
@@ -125,7 +125,7 @@ Writers and content creators: put each scene or section as a note card, arranged
 
 ### Use Case 4: Visualizing a Research Topic
 
-Drop your source PDFs as media cards on the left. Your literature-review notes in the centre. Your emerging argument notes on the right. Draw edges from specific sources to the claims they support. This is a zettelkasten visualization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) — you can see at a glance which arguments have two sources behind them and which are hanging in the air unsupported.
+Drop your source PDFs as media cards on the left. Your literature-review notes in the centre. Your emerging argument notes on the right. Draw edges from specific sources to the claims they support. This is a [zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/) visualization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) — you can see at a glance which arguments have two sources behind them and which are hanging in the air unsupported.
 
 ### Use Case 5: Building a Vault Homepage
 

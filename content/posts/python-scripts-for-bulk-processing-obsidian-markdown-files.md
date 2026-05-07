@@ -239,11 +239,11 @@ Writing the script is only half the process; executing it safely is critical. A 
 
 Follow these strict protocols when running python scripts against your Obsidian data:
 
-1. **Mandatory Backups:** Never run a bulk processing script without taking a snapshot of your vault immediately prior. A simple zip file of the entire directory is sufficient.
+1. **Mandatory [Backups](/posts/explanation-of-obsidian-vault-structure-for-backups/):** Never run a bulk processing script without taking a snapshot of your vault immediately prior. A simple zip file of the entire directory is sufficient.
 2. **Dry Run Executions:** Implement a `--dry-run` flag in your scripts. When active, the script should print the proposed changes to the console (e.g., "Would replace X with Y in File Z") but bypass the `f.write()` commands.
 3. **Targeted Sub-folders:** Do not run a new script against your root directory first. Copy 10-20 notes into a temporary folder, point your script there, and manually verify the results in Obsidian before proceeding to production.
 4. **Encoding Standardization:** Always explicitly declare `encoding='utf-8'` in your `open()` functions. Windows, macOS, and Linux handle default encodings differently, and omitting this will inevitably cause `UnicodeDecodeError` crashes when your script encounters emojis or specific punctuation marks.
-5. **Version Control Integration:** If you keep your vault in Git, commit all current changes before running a script. This allows you to use `git diff` to review exactly what the script altered, and `git reset --hard` to undo the operation instantly if an error occurred.
+5. **[Version Control](/posts/setting-up-obsidian-git-for-automated-version-control/) Integration:** If you keep your vault in Git, commit all current changes before running a script. This allows you to use `git diff` to review exactly what the script altered, and `git reset --hard` to undo the operation instantly if an error occurred.
 
 ## Conclusion
 
@@ -254,7 +254,7 @@ Mastering Python scripts for bulk processing Obsidian markdown files transforms 
 ### Can I run Python scripts directly inside Obsidian?
 No, Python scripts run outside of Obsidian at the operating system level. You execute them via your terminal or command prompt. Obsidian will automatically detect the changes made to the text files and update its internal database instantly.
 
-### Will modifying files with Python break Obsidian plugins like Dataview?
+### Will modifying files with Python break Obsidian plugins like [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/)?
 As long as you preserve the correct YAML formatting and markdown syntax, your plugins will continue to function. If you accidentally corrupt the frontmatter structure (e.g., removing a required colon or messing up indentation), Dataview will fail to read those specific files until the YAML is corrected.
 
 ### How do I handle file names with spaces when using Python pathlib?

@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Setting Up Obsidian with Apple Shortcuts for Mobile: Complete Guide
 
-> **Quick Answer:** Setting up Obsidian with Apple Shortcuts for mobile requires using the official Obsidian URI scheme or a community plugin like Advanced URI. By creating an Apple Shortcut that formats your text and sends it via an Obsidian URI link, you can bypass slow load times and capture ideas, daily notes, or tasks directly into your vault from your iPhone or iPad home screen.
+> **Quick Answer:** Setting up Obsidian with Apple Shortcuts for mobile requires using the official Obsidian URI scheme or a [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugin like Advanced URI. By creating an Apple Shortcut that formats your text and sends it via an Obsidian URI link, you can bypass slow load times and capture ideas, [daily notes](/posts/automate-obsidian-daily-notes-using-python/), or tasks directly into your vault from your iPhone or iPad home screen.
 
 For many users, Obsidian is the ultimate tool for personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) on desktop. However, when transitioning to a mobile environment, a common friction point emerges: the mobile app can take several seconds to load, especially with large vaults or heavy plugin usage. This delay disrupts the flow of quick capture—the crucial ability to jot down an idea before it slips away.
 
@@ -23,7 +23,7 @@ This guide provides a comprehensive, step-by-step approach to setting up Obsidia
 
 ## Why Apple Shortcuts Transform Mobile Obsidian
 
-Understanding the mechanics of why this integration is necessary helps in designing better workflows. When you open the Obsidian mobile app, it must parse your entire vault, load community plugins, and apply custom CSS before it becomes interactive. While desktop processors handle this in milliseconds, mobile devices, constrained by battery and thermal limits, take noticeably longer.
+Understanding the mechanics of why this integration is necessary helps in designing better workflows. When you open the Obsidian mobile app, it must parse your entire vault, load community [plugins](/posts/periodic-notes-plugin-weekly-reviews/), and apply custom CSS before it becomes interactive. While desktop processors handle this in milliseconds, mobile devices, constrained by battery and thermal limits, take noticeably longer.
 
 Apple Shortcuts bypasses this boot sequence for the purpose of data entry. Using a protocol known as a URI (Uniform Resource Identifier), Shortcuts can send a heavily encoded string of text to the operating system, which then hands it directly to Obsidian's background processes. 
 

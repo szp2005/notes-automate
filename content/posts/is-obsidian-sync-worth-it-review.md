@@ -58,7 +58,7 @@ This is not the default behavior of Dropbox, iCloud, or Google Drive. Those serv
 
 The Standard plan gives you 1 month of version history; the Plus plan gives you 12 months. In practice, this means you can roll back any note to any previous state within that window.
 
-Concrete scenario: You spend 45 minutes reorganizing a complex research note, decide you've made it worse, and want the original back. Without version history, you're hoping your operating system has a shadow copy. With Obsidian Sync, you open the note, click "Sync," hit "View version history," and restore the paragraph you deleted an hour ago. Done in 30 seconds.
+Concrete scenario: You spend 45 minutes reorganizing a complex [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) note, decide you've made it worse, and want the original back. Without version history, you're hoping your operating system has a shadow copy. With Obsidian Sync, you open the note, click "Sync," hit "View version history," and restore the paragraph you deleted an hour ago. Done in 30 seconds.
 
 ### Selective Sync
 
@@ -80,7 +80,7 @@ iCloud also has zero version history for individual files (Time Machine is deskt
 
 ### Obsidian Sync vs. Git
 
-Git is the most powerful option for technically inclined users. You get full version history, complete portability, and no ongoing cost. The tradeoffs are real: Git has no concept of automatic commits. You need either a cron job, a Git plugin (like Obsidian Git), or manual discipline to actually commit changes. On mobile, the Obsidian Git plugin is functional but fragile — it breaks on some iOS updates, requires a personal access token setup that confuses non-developers, and does not handle merge conflicts gracefully when you forget to pull before editing.
+Git is the most powerful option for technically inclined users. You get full version history, complete portability, and no ongoing cost. The tradeoffs are real: Git has no concept of automatic commits. You need either a cron job, a Git plugin (like Obsidian Git), or manual discipline to actually commit changes. On mobile, the Obsidian Git plugin is functional but fragile — it breaks on some iOS updates, requires a personal access token setup that confuses non-[developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/), and does not handle merge conflicts gracefully when you forget to pull before editing.
 
 If you're comfortable with the command line and you only sync to a second device you control, Git is excellent. If you share your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/templater-plugin-tutorial-for-obsidian-power-users/)/) with a less technical partner, or if your mobile device is a primary writing tool, Git will cost you hours you don't want to spend.
 
@@ -142,7 +142,7 @@ If you want to support the Obsidian developers further, the Obsidian Catalyst li
 
 **The Budget-Conscious Student or Hobbyist.** If $96/year is genuinely a stretch, and you only use one or two Apple devices, iCloud is workable. Save your money, accept the occasional sync headache, and revisit when your situation changes.
 
-**The Single-Device User.** If you write on one machine and never need your notes elsewhere, you need no sync solution at all. Local backups to an external drive or Sync.com cover your data safety needs for less.
+**The Single-Device User.** If you write on one machine and never need your notes elsewhere, you need no sync solution at all. Local [backups](/posts/explanation-of-obsidian-vault-structure-for-backups/) to an external drive or Sync.com cover your data safety needs for less.
 
 **The Enthusiast Who Enjoys the Setup.** Git is genuinely powerful. If you want per-commit version history, full portability, and you like configuring tools, the Obsidian Git plugin plus a private GitHub repo is a legitimate, robust setup. You're not missing out — you're making a different tradeoff.
 

@@ -10,11 +10,11 @@ type: "informational"
 ---
 # Raindrop IO Integration for Obsidian Bookmark Management Guide
 
-> **Quick Answer:** The Raindrop IO integration for Obsidian bookmark management is best achieved using the community "Raindrop Highlights" plugin. It uses the Raindrop API to automatically pull saved bookmarks, tags, and text highlights into Obsidian as native Markdown files, allowing you to seamlessly connect web research with your local knowledge graph.
+> **Quick Answer:** The Raindrop IO integration for Obsidian bookmark management is best achieved using the community "Raindrop Highlights" plugin. It uses the Raindrop API to automatically pull saved bookmarks, tags, and text highlights into Obsidian as native Markdown files, allowing you to seamlessly connect web [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) with your local knowledge graph.
 
 Managing web research across different applications often creates friction. You find a valuable article, save it, perhaps highlight a few paragraphs, but that knowledge remains siloed in your browser or a read-it-later application. Obsidian excels at connecting ideas, but it requires raw text. Getting your saved links and highlights out of the cloud and into your local vault is the critical bridge for effective personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/).
 
-The Raindrop IO integration for Obsidian bookmark management solves this [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/templater-plugin-tutorial-for-obsidian-power-users/)/) disconnect. By linking Raindrop's robust capturing capabilities with Obsidian's linking and storage, you create an automated pipeline. When you highlight text on the web via the Raindrop extension, those exact highlights, along with the article's metadata, automatically populate in your Obsidian vault, formatted exactly how you want them.
+The Raindrop IO integration for Obsidian bookmark management solves this [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/templater-plugin-tutorial-for-obsidian-power-users/)/) disconnect. By linking Raindrop's robust capturing capabilities with Obsidian's linking and storage, you create an automated pipeline. When you highlight text on the web via the Raindrop extension, those exact highlights, along with the article's [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), automatically populate in your Obsidian vault, formatted exactly how you want them.
 
 This guide details the exact steps to configure this sync, the [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) required to structure your imported data, and the specific settings to prevent duplicate files or messy folder structures.
 
@@ -120,7 +120,7 @@ If you read an article, sync it to Obsidian, and then go back to Raindrop later 
 1. **Overwrite:** The plugin deletes the existing Markdown file and creates a new one with the latest data from Raindrop. This ensures perfect synchronization. However, if you wrote your own synthesis or added back-links inside the Markdown file in Obsidian, that manual work will be destroyed upon the next sync.
 2. **Append:** The plugin checks if the file exists. If it does, it looks for new highlights and appends them to the bottom of the file. This protects your manual edits in Obsidian but can sometimes result in messy formatting if the template alignment drifts over time.
 
-For most personal knowledge management workflows, the "Overwrite" method is safer for the initial import phase, but "Append" becomes necessary if you actively write within the generated source notes.
+For most [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) workflows, the "Overwrite" method is safer for the initial import phase, but "Append" becomes necessary if you actively write within the generated source notes.
 
 A hybrid approach is often best: treat the synced Raindrop note strictly as a read-only source file. If you want to write your own thoughts, create a separate note (e.g., a conceptual or permanent note) and link back to the Raindrop source file. This protects your writing from being overwritten by the sync while keeping the source highlights perfectly updated.
 

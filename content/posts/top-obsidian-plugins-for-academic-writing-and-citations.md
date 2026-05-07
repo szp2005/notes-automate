@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Transitioning from traditional word processors to plain text for academic writing can feel intimidating, but the right tools make the process substantially more robust. Obsidian's local-first, bidirectional linking architecture is inherently suited for literature reviews and research synthesis. However, vanilla Obsidian lacks the built-in reference management and formatting tools required by modern academia.
 
-This is where the community plugin ecosystem becomes essential. By integrating specific tools tailored for researchers, you can build a writing environment that handles everything from initial PDF annotation to final manuscript export with formatted bibliographies.
+This is where the community plugin ecosystem becomes essential. By integrating specific tools tailored for [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), you can build a writing environment that handles everything from initial PDF annotation to final manuscript export with formatted bibliographies.
 
 In this review, we break down the top Obsidian plugins for academic writing and citations, evaluating them on integration capabilities, stability, and utility for complex research workflows.
 
@@ -29,7 +29,7 @@ In this review, we break down the top Obsidian plugins for academic writing and 
 **Price:** $0 (Free)
 **Rating:** 4.9/5
 
-Zotero Integration is arguably the most powerful reference management tool available for Obsidian. It bridges the gap between your Zotero database and your markdown vault, allowing you to insert citations and import full bibliographical metadata seamlessly. Unlike simpler plugins, this tool allows for highly customized templates using Nunjucks, meaning you can format your imported literature notes exactly how you want them.
+Zotero Integration is arguably the most powerful reference management tool available for Obsidian. It bridges the gap between your Zotero database and your markdown vault, allowing you to insert citations and import full bibliographical [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) seamlessly. Unlike simpler plugins, this tool allows for highly customized templates using Nunjucks, meaning you can format your imported literature notes exactly how you want them.
 
 The strength of this plugin lies in its robust handling of PDF annotations. If you highlight and comment on papers inside Zotero 6 or 7, Zotero Integration can extract those annotations directly into an Obsidian note, preserving links back to the exact page in the PDF. This creates an unbroken chain of custody from your source material to your final written output.
 
@@ -74,7 +74,7 @@ The Annotator plugin brings high-quality PDF and EPUB reading capabilities direc
 For academics who want a unified workspace—where writing and reading happen in the same application—Annotator is indispensable. It eliminates the friction of switching between a separate PDF viewer and your text editor, keeping you in a state of deep focus while doing literature reviews.
 
 **Pros:**
-- Keeps the entire reading and annotating [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) within Obsidian
+- Keeps the entire reading and annotating [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) within Obsidian
 - Deep linking to specific PDF pages and text highlights
 - Supports both PDF and EPUB file formats natively
 

@@ -35,7 +35,7 @@ Reflect is a cloud-first, web-native application. While it offers desktop and mo
 
 The daily note is the entry point for both applications, but the execution differs significantly.
 
-In Obsidian, the daily note workflow requires initial setup. You must enable the core "Daily Notes" plugin or install the popular "Periodic Notes" community plugin. From there, you dictate a template folder, a destination folder, and a naming convention (usually `YYYY-MM-DD`). To navigate between days efficiently, users typically install the "Calendar" community plugin to add a visual date picker to the sidebar. 
+In Obsidian, the daily note workflow requires initial setup. You must enable the core "Daily Notes" plugin or install the popular "[Periodic Notes](/posts/obsidian-periodic-notes-plugin-setup-for-annual-reviews/)" community plugin. From there, you dictate a template folder, a destination folder, and a naming convention (usually `YYYY-MM-DD`). To navigate between days efficiently, users typically install the "Calendar" community plugin to add a visual date picker to the sidebar. 
 
 Once configured, hitting a hotkey in Obsidian instantly generates your daily template. This template can be highly complex, pulling in weather data, overdue tasks via the Dataview plugin, or inspirational quotes. The friction lies entirely in the setup phase; the execution is instantaneous.
 
@@ -57,7 +57,7 @@ The integration of Large Language Models (LLMs) has transformed how we review an
 
 Reflect treats AI as a core component of the user experience. By highlighting text within your daily note, you can invoke an AI assistant to summarize a meeting, generate action items, or rewrite a paragraph for clarity. Furthermore, Reflect allows you to run custom AI prompts against your entire graph. You can ask the AI to "summarize my main anxieties from last week's journals" or "list all the book recommendations I received this month." Because Reflect is cloud-based, this processing happens seamlessly without needing to manage API keys.
 
-Obsidian does not include native generative AI features. To achieve similar functionality, you must install community plugins like "Smart Connections" or "Text Generator." These plugins require you to supply your own OpenAI or Anthropic API keys. While this requires more technical setup, it offers superior flexibility. Power users can switch between different models (GPT-4, Claude 3, local LLaMA models) and precisely control the temperature and system prompts. If absolute privacy is paramount, Obsidian allows you to run local AI models entirely offline, ensuring your journal entries never reach a corporate server.
+Obsidian does not include native generative AI features. To achieve similar functionality, you must install community plugins like "[Smart Connections](/posts/smart-connections-plugin-for-emergent-ideas/)" or "Text Generator." These plugins require you to supply your own OpenAI or Anthropic API keys. While this requires more technical setup, it offers superior flexibility. Power users can switch between different models (GPT-4, Claude 3, local LLaMA models) and precisely control the temperature and system prompts. If absolute privacy is paramount, Obsidian allows you to run local AI models entirely offline, ensuring your journal entries never reach a corporate server.
 
 ## Ecosystem Product Reviews
 
@@ -105,7 +105,7 @@ Journaling is only half the equation; the ability to review and synthesize past 
 
 Reflect utilizes a built-in "Recall" feature, which acts as an automated spaced-repetition system. It quietly surfaces old notes, backlinked contacts, and past journal entries for you to review. This system requires zero setup and is designed to passively reinforce your memory and highlight forgotten connections over time.
 
-Obsidian requires intentional system design for review. You can build complex Dataview queries to pull up "journal entries from exactly one year ago today," or use community plugins dedicated to spaced repetition. Obsidian’s famous Graph View provides a stunning visual representation of how your daily notes link to specific projects or concepts, allowing you to visually explore clusters of thought. While Reflect also has a graph view, Obsidian's implementation is faster and more customizable.
+Obsidian requires intentional system design for review. You can build complex Dataview queries to pull up "journal entries from exactly one year ago today," or use community plugins dedicated to [spaced repetition](/posts/spaced-repetition-plugin-for-obsidian-flashcards/). Obsidian’s famous Graph View provides a stunning visual representation of how your daily notes link to specific projects or concepts, allowing you to visually explore clusters of thought. While Reflect also has a graph view, Obsidian's implementation is faster and more customizable.
 
 ## Final Verdict
 

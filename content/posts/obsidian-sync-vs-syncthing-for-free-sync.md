@@ -23,7 +23,7 @@ The debate over the optimal synchronization strategy generally narrows down to t
 
 ## Understanding the Obsidian Synchronization Landscape
 
-To understand why the choice between Obsidian Sync and Syncthing matters, it is necessary to examine how Obsidian handles files. Unlike cloud-native applications such as Notion or Evernote, which constantly ping a central server to update a database, Obsidian simply reads and writes plain text files stored in a standard folder on your hard drive. 
+To understand why the choice between Obsidian Sync and Syncthing matters, it is necessary to examine how Obsidian handles files. Unlike cloud-native applications such as [Notion](/posts/n8n-workflow-for-syncing-obsidian-with-notion/) or Evernote, which constantly ping a central server to update a database, Obsidian simply reads and writes plain text files stored in a standard folder on your hard drive. 
 
 Any software capable of monitoring a folder for changes and mirroring those changes to another device can technically act as a sync engine. Cloud storage providers like Google Drive, Dropbox, and iCloud are popular initial choices. However, mobile operating systems—particularly iOS and Android—heavily restrict how background applications interact with local storage. This creates friction: the Obsidian mobile app might not see the changes made by the Dropbox app until you manually force a refresh, leading to dreaded file conflicts.
 
@@ -47,9 +47,9 @@ The primary drawback of the peer-to-peer model is simultaneous uptime. For Devic
 **Price:** $4-$8/month
 **Rating:** 4.8/5
 
-Obsidian Sync is the official, first-party synchronization service provided by the developers of Obsidian. Because it is built directly into the application, it bypasses all the background-refresh restrictions that plague third-party cloud apps on mobile devices. Setup requires nothing more than logging into your account, creating a remote vault, and clicking connect. 
+Obsidian Sync is the official, first-party synchronization service provided by the [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) of Obsidian. Because it is built directly into the application, it bypasses all the background-refresh restrictions that plague third-party cloud apps on mobile devices. Setup requires nothing more than logging into your account, creating a remote vault, and clicking connect. 
 
-The service features end-to-end encryption by default, meaning not even the Obsidian developers can read your notes. It also provides a robust version history, allowing you to seamlessly roll back to previous iterations of a specific note if you accidentally delete a crucial paragraph. For users deeply embedded in the Apple ecosystem, this is universally recognized as the most reliable method for keeping an iPhone, iPad, and Mac perfectly aligned.
+The service features end-to-end [encryption](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/) by default, meaning not even the Obsidian developers can read your notes. It also provides a robust version history, allowing you to seamlessly roll back to previous iterations of a specific note if you accidentally delete a crucial paragraph. For users deeply embedded in the Apple ecosystem, this is universally recognized as the most reliable method for keeping an iPhone, iPad, and Mac perfectly aligned.
 
 **Pros:**
 - End-to-end encryption built-in for absolute security

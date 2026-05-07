@@ -16,7 +16,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 # How to Find Obsidian Plugin Documentation: Every Method, Step by Step
 
 **TL;DR**
-- The fastest starting point is inside Obsidian itself — the Community Plugins browser gives you the GitHub link for any plugin in two clicks.
+- The fastest starting point is inside Obsidian itself — the Community [Plugins](/posts/periodic-notes-plugin-weekly-reviews/) browser gives you the GitHub link for any plugin in two clicks.
 - GitHub is the primary source for most plugin documentation; look for the README, the Wiki tab, and any linked dedicated sites.
 - When docs fail you, the Obsidian Forum, Discord, and the plugin's GitHub Issues tab are your best fallbacks.
 
@@ -74,7 +74,7 @@ For 95% of Obsidian community plugins, GitHub is the official documentation home
 - **Code** — the default view, where the README lives.
 - **Issues** — user-reported bugs and feature requests (covered in section 6).
 - **Wiki** — if enabled, this tab appears between "Pull requests" and "Discussions." A plugin Wiki is a separate, multi-page documentation system. When it exists, it's almost always more detailed than the README.
-- **Discussions** — some developers use GitHub Discussions instead of (or alongside) the forum.
+- **Discussions** — some [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) use GitHub Discussions instead of (or alongside) the forum.
 
 ---
 
@@ -137,7 +137,7 @@ Sometimes docs are sparse, outdated, or don't address your exact situation. Here
 
 **Check when the plugin was last updated.** On the GitHub repository page, look at the "Latest commit" date next to each file, or check the Releases section on the right sidebar. If the last release was two or more years ago and the Issues tab is full of unanswered questions, the plugin may be abandoned. At that point, look for a fork or an alternative plugin that does the same job.
 
-**Watch YouTube tutorials.** Search `obsidian [plugin name] tutorial` on YouTube. Creators like Nicole van der Hoeven and Danny Hatcher produce detailed walkthroughs for popular plugins. Video tutorials are especially useful for visual, [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/)-heavy plugins like Excalidraw or Canvas.
+**Watch YouTube tutorials.** Search `obsidian [plugin name] tutorial` on YouTube. Creators like Nicole van der Hoeven and Danny Hatcher produce detailed walkthroughs for popular plugins. Video tutorials are especially useful for visual, [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/)-heavy plugins like [Excalidraw](/posts/excalidraw-plugin-for-obsidian-visual-thinking/) or Canvas.
 
 ---
 

@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The Obsidian Calendar plugin provides a visual monthly grid in your sidebar that connects directly to your daily, weekly, and monthly notes. By clicking on specific dates, you can seamlessly create, navigate, and manage time-based Markdown files, transforming your vault from a static knowledge base into a dynamic, time-aware management system.
 
-Managing knowledge without a temporal dimension often leads to a static archive. While linking ideas by concept is powerful, human memory and workflow are heavily tied to time. We remember *when* we had an idea, *when* a meeting occurred, or *when* a project is due. This is where time-based notes become essential. 
+Managing knowledge without a temporal dimension often leads to a static archive. While linking ideas by concept is powerful, human memory and [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) are heavily tied to time. We remember *when* we had an idea, *when* a meeting occurred, or *when* a project is due. This is where time-based notes become essential. 
 
 The Obsidian Calendar plugin bridges the gap between pure [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) and daily operation. It provides an intuitive, visual interface for the Daily Notes core plugin, allowing you to anchor your thoughts, tasks, and journals to specific days. Instead of searching through folders for a meeting note from last Tuesday, you simply click on the calendar.
 
@@ -89,7 +89,7 @@ Create a specific template for your weekly notes that includes sections for week
 
 If you find yourself relying heavily on weekly, monthly, and even quarterly notes, you should consider transitioning from the core Daily Notes plugin to the community **Periodic Notes** plugin.
 
-The Calendar plugin integrates flawlessly with Periodic Notes. Periodic Notes allows you to define separate folders, templates, and formats for every level of temporal granularity (Daily, Weekly, Monthly, Quarterly, Yearly). Once configured, clicking on the month header in the Calendar plugin will automatically generate or open your Monthly review note based on your Periodic Notes settings.
+The Calendar plugin integrates flawlessly with Periodic Notes. Periodic Notes allows you to define separate folders, [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), and formats for every level of temporal granularity (Daily, Weekly, Monthly, Quarterly, Yearly). Once configured, clicking on the month header in the Calendar plugin will automatically generate or open your Monthly review note based on your Periodic Notes settings.
 
 ## Best Practices for Task and Event Tracking
 

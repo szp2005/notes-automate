@@ -38,7 +38,7 @@ When you pass a structured URL to this protocol, macOS routes the request to Obs
 Before building the integrations, your local environment must meet specific baseline requirements. You will need:
 
 1.  **Obsidian (v1.4.0 or newer):** Ensure your vault is stored locally or synced via a reliable file system provider.
-2.  **Advanced URI Plugin:** Available in the Obsidian Community Plugins repository.
+2.  **Advanced URI Plugin:** Available in the Obsidian Community [Plugins](/posts/periodic-notes-plugin-weekly-reviews/) repository.
 3.  **Alfred 5 with Powerpack:** While basic web searches work on the free tier of Alfred, manipulating text dynamically and utilizing URL encoding requires the Alfred Powerpack to build custom Workflows.
 
 ### Configuring the Plugin
@@ -92,7 +92,7 @@ This workflow allows you to type a keyword in Alfred (like `log`), type a senten
 
 ### Workflow 2: Rapid Task Capture to a Global Inbox
 
-If you utilize a centralized task management note rather than daily notes, you can route all captures to a specific file. 
+If you utilize a centralized [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) note rather than daily notes, you can route all captures to a specific file. 
 
 1.  Set up the same Keyword (`task`) and URL Encode transformation nodes as above.
 2.  In the Open URL node, use the `filepath` parameter instead of `daily`:
@@ -117,7 +117,7 @@ Paste this exact string into a static Alfred Web Search or an Open URL action tr
 
 The most frequent point of failure when connecting Alfred to Obsidian is poor string sanitization. The standard URI protocol interprets specific characters as operational commands. If your `{query}` contains an unencoded ampersand (`&`), the URI protocol will assume everything following it is a new parameter, breaking the data payload.
 
-When building complex workflows utilizing bash or python scripts within Alfred to pass data, apply standard strict URL encoding to the payload before passing it to the `obsidian://` protocol.
+When building complex workflows utilizing bash or [python](/posts/connecting-obsidian-to-external-api-with-python/) scripts within Alfred to pass data, apply standard strict URL encoding to the payload before passing it to the `obsidian://` protocol.
 
 **Common Encoding Translations:**
 *   Space: `%20`

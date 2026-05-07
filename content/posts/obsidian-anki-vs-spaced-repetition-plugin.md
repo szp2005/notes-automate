@@ -45,7 +45,7 @@ Spaced repetition is not a [productivity](/posts/obsidian-vs-reflect-for-fast-da
 
 If you want a rigorous grounding in the science before you touch a single plugin, Make It Stick: The Science of Successful Learning by Brown, Roediger, and McDaniel is the most accessible, research-backed book on the subject.
 
-Now layer that onto Obsidian. Obsidian is a local-first, Markdown-based note editor built on the principle that your notes should form a connected knowledge graph, not siloed documents. It's the ideal home for a Zettelkasten or any other personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system precisely because notes link to each other, and ideas compound over time.
+Now layer that onto Obsidian. Obsidian is a local-first, Markdown-based note editor built on the principle that your notes should form a connected knowledge graph, not siloed documents. It's the ideal home for a [Zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/) or any other personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system precisely because notes link to each other, and ideas compound over time.
 
 The obvious next step: use that accumulated knowledge for deliberate practice, not just reference. That's where the flashcard question gets thorny. Obsidian has two dominant approaches, and they are genuinely different tools serving genuinely different users.
 
@@ -145,7 +145,7 @@ This plugin is ideal for users who want a **frictionless, single-app workflow**.
 | **Stays inside Obsidian** | No — review happens in Anki | Yes |
 | **Works without internet** | Yes (Anki is local) | Yes (Obsidian is local) |
 | **Learning curve** | Steep for Anki newcomers | Gentle |
-| **Overall score for beginners** | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Overall score for [beginners](/posts/obsidian-vault-structure-digital-gardening-beginners/)** | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 | **Overall score for power users** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 
 ---
@@ -232,7 +232,7 @@ If David's learning remains at a conceptual level, the SR plugin is all he needs
 6. With Anki open, run the **Anki Sync** command from Obsidian's command palette (Ctrl/Cmd + P).
 7. Verify the card appears in Anki.
 
-Full documentation lives on the plugin's GitHub repository.
+Full [documentation](/posts/using-obsidian-to-manage-n8n-workflow-documentation/) lives on the plugin's GitHub repository.
 
 ### Setting Up the Spaced Repetition Plugin
 

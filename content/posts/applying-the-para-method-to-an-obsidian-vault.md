@@ -43,7 +43,7 @@ A Project is a series of tasks linked to a specific goal, with a clear completio
 *Examples of Project folders in Obsidian:*
 - `2026 Q3 Website Redesign`
 - `Drafting Obsidian PARA Guide`
-- `Planning Trip to Tokyo`
+- `[Planning](/posts/obsidian-full-calendar-plugin-review/) Trip to Tokyo`
 
 Inside these folders, you place all notes, meeting transcripts, [research](/posts/obsidian-vs-devonthink-for-large-research-archives/), and drafts relevant only to that specific goal. 
 
@@ -59,7 +59,7 @@ An Area of Responsibility is a sphere of activity with a standard to be maintain
 If a note is actively guiding your daily or weekly routines but isn't tied to a deadline, it lives in an Area folder. 
 
 ### 3-Resources
-Resources represent topics or themes of ongoing interest. This is your personal library. The notes here are not currently tied to an active Project or a vital Area of Responsibility, but they contain valuable information you want to reference later.
+Resources represent topics or [themes](/posts/best-obsidian-themes-for-high-contrast-accessibility-2026/) of ongoing interest. This is your personal library. The notes here are not currently tied to an active Project or a vital Area of Responsibility, but they contain valuable information you want to reference later.
 
 *Examples of Resource folders in Obsidian:*
 - `Web Design Inspiration`
@@ -106,7 +106,7 @@ This prevents tag bloat and keeps your taxonomy strictly functional.
 The true power of PARA is its fluidity. Notes are not meant to stay in one folder forever. As your priorities shift, your Obsidian vault must shift with them. This requires deliberate maintenance.
 
 ### The Inbox Concept
-To keep your PARA structure clean, create an `0-Inbox` folder at the top of your vault. Every new note, web clipping, or random thought generated on the go goes into the Inbox first. 
+To keep your PARA structure clean, create an `0-Inbox` folder at the top of your vault. Every new note, [web clipping](/posts/integrating-web-clips-into-your-zettelkasten-note-system/), or random thought generated on the go goes into the Inbox first. 
 
 During your [weekly review](/posts/obsidian-template-for-weekly-reflection-and-planning/), process the Inbox. Ask yourself: "Is this actionable right now?" If yes, move it to a Project. If it relates to an ongoing standard, move it to an Area. If it is just interesting information, file it under Resources.
 

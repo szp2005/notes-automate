@@ -11,11 +11,11 @@ type: "informational"
 
 # Setting Up Obsidian Git for Automated Version Control: Full Guide
 
-> **Quick Answer:** Setting up Obsidian Git for automated version control involves installing the Obsidian Git community plugin, initializing a local Git repository in your vault, linking it to a remote provider like GitHub, and configuring the plugin's auto-backup intervals. This ensures your knowledge base is continuously backed up and synchronized across multiple desktop and mobile devices without manual intervention.
+> **Quick Answer:** Setting up Obsidian Git for automated version control involves installing the Obsidian Git [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugin, initializing a local Git repository in your vault, linking it to a remote provider like GitHub, and configuring the plugin's auto-backup intervals. This ensures your knowledge base is continuously backed up and synchronized across multiple desktop and mobile devices without manual intervention.
 
 Personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) systems rely heavily on consistency and security. When your entire digital brain—from daily journals to complex project architectures—lives in a single directory of Markdown files, relying on manual backups is a significant risk. Hard drive failures, accidental file deletions, or syncing conflicts from standard cloud providers can permanently erase months of [structured thinking](/posts/guide-to-obsidian-outliner-plugin-for-structured-thinking/).
 
-Obsidian's local-first architecture is its greatest strength, but it places the burden of [data security](/posts/explanation-of-obsidian-vault-structure-for-backups/) squarely on your shoulders. While standard cloud storage like Dropbox or Google Drive can sync files, they lack the granular history, rollback capabilities, and conflict resolution mechanisms required for text-based knowledge bases. 
+Obsidian's local-first architecture is its greatest strength, but it places the burden of [data security](/posts/explanation-of-obsidian-vault-structure-for-backups/) squarely on your shoulders. While standard cloud storage like Dropbox or [Google](/posts/how-to-sync-obsidian-with-google-drive-using-a-plugin/) Drive can sync files, they lack the granular history, rollback capabilities, and conflict resolution mechanisms required for text-based knowledge bases. 
 
 This is where Git comes in. By setting up Obsidian Git for automated version control, you transform a rigid folder of text files into a robust, trackable, and universally accessible [database](/posts/obsidian-bases-native-update-review-2026/). This guide details exactly how to implement this system, removing the friction of manual commits while maintaining enterprise-grade data security for your personal notes.
 
@@ -96,7 +96,7 @@ For iOS, the process requires third-party applications. Working Copy is a robust
 
 Merge conflicts occur when a file is edited on two different devices before a sync occurs. Git will halt the automated push to protect data integrity.
 
-Obsidian Git provides an interface for resolving these conflicts directly within the app. However, the best method for managing conflicts is prevention. 
+Obsidian Git provides an interface for resolving these conflicts directly within the app. However, the best [method](/posts/how-to-find-obsidian-plugin-documentation/) for managing conflicts is prevention. 
 
 If you frequently switch between devices, lower your automatic backup interval to 5 or 10 minutes. Always allow Obsidian to remain open for a full minute after finishing a session to ensure the final background push completes. When opening Obsidian on a new device, wait for the "Pulled X files" notification before typing. 
 

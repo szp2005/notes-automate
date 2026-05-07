@@ -23,7 +23,7 @@ This article delves into a direct comparison between Obsidian and Citavi, two di
 
 ## Understanding Obsidian: A Knowledge Graph Approach
 
-Obsidian is a powerful, local-first knowledge base that operates on plain Markdown files. At its core, it's designed to help users build a "second brain" by connecting ideas through bidirectional links, forming a personal knowledge graph. Its strength lies in its flexibility, extensibility via plugins, and the ability to create a highly personalized system for note-taking, idea generation, and project management. Researchers often gravitate towards Obsidian for its robust linking capabilities, which allow them to connect disparate concepts, theories, and research findings in a highly intuitive and visual manner.
+Obsidian is a powerful, local-first knowledge base that operates on plain Markdown files. At its core, it's designed to help users build a "second brain" by connecting ideas through bidirectional links, forming a personal knowledge graph. Its strength lies in its flexibility, extensibility via plugins, and the ability to create a highly personalized system for [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), idea generation, and [project management](/posts/obsidian-project-management-academic-research-teams/). Researchers often gravitate towards Obsidian for its robust linking capabilities, which allow them to connect disparate concepts, theories, and research findings in a highly intuitive and visual manner.
 
 While Obsidian excels at connecting *ideas*, its native capabilities for formal citation management are limited. It doesn't inherently understand what a "citation" is in the academic sense, nor does it generate bibliographies or manage reference styles out-of-the-box. Users looking to integrate citation management into Obsidian typically rely on community plugins (like `Citations` or `Dataview`) that interface with external reference managers (e.g., Zotero, Mendeley) or require manual input and organization of citation data within Markdown files. This approach offers immense customization but demands a significant setup effort and ongoing maintenance.
 
@@ -143,7 +143,7 @@ Obsidian, on the other hand, shines as a highly flexible personal knowledge mana
 ## Frequently Asked Questions
 
 ### ### Can Obsidian fully replace dedicated reference managers like Zotero or Citavi?
-No, Obsidian cannot fully replace dedicated reference managers like Zotero or Citavi for formal citation management. While Obsidian can link to external reference entries and be customized with plugins, it lacks native features for bibliography generation, robust metadata management, and direct integration with word processors for citation insertion.
+No, Obsidian cannot fully replace dedicated reference managers like Zotero or Citavi for formal citation management. While Obsidian can link to external reference entries and be customized with plugins, it lacks native features for bibliography generation, robust [metadata management](/posts/comparing-obsidian-metadata-menu-vs-database-folder/), and direct integration with word processors for citation insertion.
 
 ### ### Is Citavi available for macOS users?
 Citavi is primarily a Windows application. While there is no native macOS version, Mac users can run Citavi using virtualization software like Parallels Desktop or VMware Fusion, or by installing Windows via Boot Camp. There is also a web version with limited functionality.

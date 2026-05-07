@@ -16,7 +16,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 # What Is the Obsidian Git Plugin For? A Beginner's Complete Guide
 
 **TL;DR**
-- The Obsidian Git plugin connects your note vault to Git version control, giving you automatic backups, multi-[device sync](/posts/how-to-manage-obsidian-plugins-across-multiple-devices/), and full note history — all for free.
+- The Obsidian Git plugin connects your note vault to Git [version control](/posts/setting-up-obsidian-git-for-automated-version-control/), giving you automatic backups, multi-[device sync](/posts/how-to-manage-obsidian-plugins-across-multiple-devices/), and full note history — all for free.
 - It's the strongest free alternative to the paid Obsidian Sync service, trading a one-time setup cost for zero monthly fees and complete data ownership.
 - If you're willing to spend 30 minutes on initial configuration, this plugin delivers more capability than most paid note-backup tools on the market.
 
@@ -88,7 +88,7 @@ This is the question most Obsidian users eventually arrive at. Here's a straight
 
 **The Budget-Conscious User.** If you're paying for Obsidian Sync and don't absolutely need seamless mobile, you're leaving money on the table every month. The plugin is free, the GitHub private repository is free, and the setup is a one-afternoon investment that pays dividends for years.
 
-**The Power User.** Writers working on long-form projects, researchers managing hundreds of notes, and developers who already live in Git will find the obsidian version control capabilities genuinely useful. The ability to create a branch — a parallel copy of your vault — to experiment with restructuring a complex project without touching the stable version is something no other note tool offers at this price point.
+**The Power User.** Writers working on long-form projects, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/) managing hundreds of notes, and developers who already live in Git will find the obsidian version control capabilities genuinely useful. The ability to create a branch — a parallel copy of your vault — to experiment with restructuring a complex project without touching the stable version is something no other note tool offers at this price point.
 
 **The Data Sovereign.** If you're uncomfortable with your notes sitting on a third-party company's servers under their encryption scheme, a private GitHub repository (or a self-hosted Git server) puts you in complete control. The data is yours. You can move it, delete it, or audit it at any time without asking anyone's permission.
 
@@ -137,7 +137,7 @@ Here's an honest accounting.
 
 ## Conclusion
 
-The Obsidian Git plugin is, simply put, the best free infrastructure you can put under your [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/)(/posts/streamlining-your-daily-note-[workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)(/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) practice. It solves backup, sync, and version history simultaneously — problems that other tools charge monthly fees to address — and it does so while keeping you in complete control of your data.
+The Obsidian Git plugin is, simply put, the best free infrastructure you can put under your [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/)(/posts/streamlining-your-daily-note-[workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/)-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)(/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) practice. It solves backup, sync, and version history simultaneously — problems that other tools charge monthly fees to address — and it does so while keeping you in complete control of your data.
 
 The setup takes one afternoon. The payoff lasts as long as you use Obsidian.
 

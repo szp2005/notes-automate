@@ -19,7 +19,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 **TL;DR**
 - Obsidian callouts use a simple `> [!TYPE]` syntax to create visually distinct blocks that make notes scannable in seconds.
-- The 12 built-in types cover most needs, but five copy-paste CSS snippets in this guide give you [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/)-specific callouts like `[!action]` and `[!key]` immediately.
+- The 12 built-in types cover most needs, but five copy-paste [CSS snippets](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/) in this guide give you [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/)-specific callouts like `[!action]` and `[!key]` immediately.
 - Connecting callouts to PARA, [Zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/), and Evergreen Note [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) turns a formatting trick into a genuine thinking tool.
 
 ---
@@ -78,7 +78,7 @@ Every callout follows the same structure:
 
 ```markdown
 > [!warning] Back Up First
-> Never run the migration script on a live database without a verified backup.
+> Never run the migration script on a live [database](/posts/obsidian-bases-native-update-review-2026/) without a verified backup.
 ```
 
 That renders as a yellow/orange block with a triangle-warning icon and the title "Back Up First."
@@ -108,7 +108,7 @@ Foldable callouts are essential for long notes. They preserve detail without for
 | `danger` / `error` | Lightning bolt | Critical risks, irreversible actions |
 | `bug` | Bug icon | Software issues, errors to investigate |
 | `example` | List icon | Code samples, illustrative scenarios |
-| `quote` / `cite` | Quotation mark | Verbatim citations from sources |
+| `quote` / `cite` | Quotation mark | Verbatim [citations](/posts/top-obsidian-plugins-for-academic-writing-and-citations/) from sources |
 | `todo` | Checkbox | Inline task lists within a note |
 
 **Practical pairings:**

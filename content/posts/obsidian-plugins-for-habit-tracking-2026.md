@@ -15,9 +15,9 @@ type: "informational"
 
 Managing personal knowledge and personal habits in two separate systems often creates friction that leads to eventual abandonment. When your notes, tasks, and reflections live in one application while your habit streaks live in a specialized mobile app, you split your attention. This context switching reduces the likelihood of maintaining long-term routines.
 
-As personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) systems evolve, users are pulling more of their daily operational data into local, offline-first environments. The native Properties interface in Obsidian has made managing structured data incredibly accessible, transforming what used to require writing raw YAML syntax into a user-friendly, database-like experience. 
+As personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) systems evolve, users are pulling more of their daily operational data into local, offline-first environments. The native Properties interface in Obsidian has made managing structured data incredibly accessible, transforming what used to require writing raw YAML syntax into a user-friendly, [database](/posts/obsidian-bases-native-update-review-2026/)-like experience. 
 
-The challenge for users building their workspaces in 2026 isn't finding a standalone habit tracker; it is identifying the right combination of community plugins that respect local data privacy while seamlessly integrating with an existing journaling or daily note [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). Building a resilient tracking system requires tools that parse your daily inputs and output visual, actionable feedback without requiring manual data entry across multiple dashboards.
+The challenge for users building their workspaces in 2026 isn't finding a standalone habit tracker; it is identifying the right combination of community plugins that respect local data [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/) while seamlessly integrating with an existing journaling or daily note [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). Building a resilient tracking system requires tools that parse your daily inputs and output visual, actionable feedback without requiring manual data entry across multiple dashboards.
 
 ## 1. Dataview: The Core Data Engine
 
@@ -65,7 +65,7 @@ However, for a variable like `words_written`, you can map ranges to intensities:
 
 ### Multi-Habit Color Coding
 
-To manage multiple habits without cluttering your dashboard, the plugin supports custom color scaling. You can designate a blue heatmap for hydration, a red heatmap for fitness, and a purple heatmap for deep work. Stacking these compact heatmaps on a [weekly review](/posts/obsidian-template-for-weekly-reflection-and-planning/) page provides a comprehensive snapshot of your lifestyle balance at a single glance, taking up significantly less vertical screen space than traditional bar charts.
+To manage multiple habits without cluttering your dashboard, the plugin supports custom color scaling. You can designate a blue heatmap for hydration, a red heatmap for fitness, and a purple heatmap for [deep work](/posts/setting-up-obsidian-for-deep-work-session-tracking/). Stacking these compact heatmaps on a [weekly review](/posts/obsidian-template-for-weekly-reflection-and-planning/) page provides a comprehensive snapshot of your lifestyle balance at a single glance, taking up significantly less vertical screen space than traditional bar charts.
 
 ## 4. Templater and Periodic Notes: The Automation Layer
 

@@ -13,7 +13,7 @@ tags: ["excalidraw", "use", "obsidian", "excalidraw plugin for obsidian review"]
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# Excalidraw Plugin for Obsidian Review: The Definitive Visual Thinking Tool?
+# Excalidraw Plugin for Obsidian Review: The Definitive [Visual Thinking](/posts/excalidraw-plugin-for-obsidian-visual-thinking/) Tool?
 
 **TL;DR**
 - Excalidraw for Obsidian delivers a full-featured whiteboard experience inside your vault, with deep linking, transclusion, and a scripting engine that Canvas simply cannot match for complex diagrams.
@@ -42,7 +42,7 @@ Zsolt Viczi ported the entire thing into an Obsidian plugin and then kept going.
 
 The core value proposition is direct: you stop context-switching between your note app and a drawing app. A concept map sits in the same vault folder as the literature note it references. You can transclude a drawing inside a regular markdown note. You can click an element in a drawing and open the linked note. That tight integration is what separates this from just opening Miro in another tab.
 
-**Who is this review for?** Existing Obsidian users — developers drawing architecture diagrams, students building concept maps, project managers linking deliverables to a visual tracker, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/) mapping arguments. If you're on day one of Obsidian, come back after you've set up your first vault structure. This review goes deep.
+**Who is this review for?** Existing Obsidian users — [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) drawing architecture diagrams, [students](/posts/organizing-complex-academic-projects-in-an-obsidian-vault/) building concept maps, project managers linking deliverables to a visual tracker, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/) mapping arguments. If you're on day one of Obsidian, come back after you've set up your first vault structure. This review goes deep.
 
 ---
 

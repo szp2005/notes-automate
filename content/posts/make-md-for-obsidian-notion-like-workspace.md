@@ -11,7 +11,7 @@ type: "informational"
 
 # Make.md for Obsidian: Notion-Like Workspace Setup Guide
 
-> **Quick Answer:** Make.md is a comprehensive Obsidian plugin that transforms the application's native markdown interface into a Notion-like workspace. It replaces standard folders with dynamic "Spaces," introduces seamless inline block editing, and adds visual "Context" blocks for database-like functionality, all without sacrificing the security, privacy, and speed of local plain-text files.
+> **Quick Answer:** Make.md is a comprehensive Obsidian plugin that transforms the application's native markdown interface into a Notion-like workspace. It replaces standard folders with dynamic "Spaces," introduces seamless inline block editing, and adds visual "Context" blocks for database-like functionality, all without sacrificing the security, [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/), and speed of local plain-text files.
 
 Obsidian has long been the gold standard for personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/), prized for its local-first architecture and future-proof plain text files. However, its native interface is highly traditional. New users, particularly those migrating from modern workspace tools, often struggle with Obsidian's reliance on rigid folder structures, syntax-heavy file embedding, and the steep learning curve required to build [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) using code-centric plugins. 
 
@@ -47,7 +47,7 @@ The most immediate visual change when adopting Make.md is the sidebar navigation
 
 When setting up Spaces, start by creating a "Root Space" for your primary workflow—for example, "Active Projects." Instead of moving physical files into this Space, you can configure the Space to automatically pull in any note tagged with `#project/active` or any note containing the frontmatter property `status: active`. 
 
-This dynamic routing is particularly useful for task management and daily tracking. You can pin frequently used Spaces to the top of your sidebar, and customize each Space with unique icons and cover images. If you prefer manual organization, Make.md allows intuitive drag-and-drop ordering, bypassing the alphabetical sorting limitations of native Obsidian.
+This dynamic routing is particularly useful for [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) and daily tracking. You can pin frequently used Spaces to the top of your sidebar, and customize each Space with unique icons and cover images. If you prefer manual organization, Make.md allows intuitive drag-and-drop ordering, bypassing the alphabetical sorting limitations of native Obsidian.
 
 ## Replicating Notion Databases with Context Blocks
 
@@ -59,7 +59,7 @@ You can instantly switch this view from a standard Table to a Gallery (which pul
 
 ## Mastering the Flow Editor and Inline Blocks
 
-The Flow Editor dramatically reduces the friction of context switching. If you are drafting a comprehensive research report, you likely need to reference and combine multiple atomic notes. 
+The Flow Editor dramatically reduces the friction of context switching. If you are drafting a comprehensive [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) report, you likely need to reference and combine multiple atomic notes. 
 
 By typing `/flow` and selecting a file, Make.md inserts the entire document seamlessly into your current view. Unlike a standard embed, this block is fully interactive. You can delete paragraphs, rewrite sentences, and add new tags to the embedded note without leaving your master document. 
 

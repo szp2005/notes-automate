@@ -11,13 +11,13 @@ type: "informational"
 
 # Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide
 
-> **Quick Answer:** Building powerful Obsidian interfaces requires utilizing advanced dataview js scripts for custom obsidian dashboards. By writing JavaScript via the Dataview API, you bypass standard query limitations, allowing you to manipulate arrays, generate custom HTML/CSS elements like progress bars, and aggregate cross-vault metadata into a single, automatically updating command center.
+> **Quick Answer:** Building powerful Obsidian interfaces requires utilizing advanced dataview js scripts for custom obsidian dashboards. By writing JavaScript via the Dataview API, you bypass standard query limitations, allowing you to manipulate arrays, generate custom HTML/CSS elements like progress bars, and aggregate cross-vault [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) into a single, automatically updating command center.
 
 Obsidian’s default interface is a blank canvas, which is both its greatest strength and its most significant hurdle. When your vault grows from a few dozen notes to thousands of interlinked ideas, projects, and daily logs, finding actionable information becomes difficult. Standard Dataview queries (DQL) offer a solid starting point for surfacing data, but they lack the computational flexibility required for complex data manipulation, custom visual formatting, and complex logical operations.
 
 This is where the transition to DataviewJS becomes necessary. By tapping directly into the Dataview JavaScript API, you gain the ability to write full scripts that interact with your vault’s metadata in real-time. You can calculate dynamic project completion percentages, render habit tracking heatmaps, and build interactive CRM tables that adapt to your daily [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/).
 
-In this guide, we will break down the essential advanced dataview js scripts for custom obsidian dashboards. We will cover [project management](/posts/obsidian-project-management-academic-research-teams/), task aggregation, performance optimization, and daily tracking, providing you with exact code snippets and the architectural logic needed to implement them in your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system.
+In this guide, we will break down the essential advanced dataview js scripts for custom obsidian dashboards. We will cover [project management](/posts/obsidian-project-management-academic-research-teams/), task aggregation, performance optimization, and daily tracking, providing you with exact [code snippets](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) and the architectural logic needed to implement them in your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system.
 
 ## The Architectural Foundation of DataviewJS
 
@@ -148,7 +148,7 @@ If you have a dashboard with a dozen complex JavaScript blocks, Obsidian will st
 
 ### Integrating Custom CSS
 
-DataviewJS output inherits your vault's theme, but you can inject custom classes for tailored dashboard aesthetics. Use `dv.container.className += ' custom-dashboard';` at the top of your script. You can then write CSS snippets targeting `.custom-dashboard table` to alter column widths, hide borders, or change text alignment specifically for that one dashboard, leaving the rest of your vault untouched.
+DataviewJS output inherits your vault's theme, but you can inject custom classes for tailored dashboard aesthetics. Use `dv.container.className += ' custom-dashboard';` at the top of your script. You can then write [CSS snippets](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/) targeting `.custom-dashboard table` to alter column widths, hide borders, or change text alignment specifically for that one dashboard, leaving the rest of your vault untouched.
 
 ## Conclusion
 

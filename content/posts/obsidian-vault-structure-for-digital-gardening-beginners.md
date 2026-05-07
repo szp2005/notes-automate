@@ -47,7 +47,7 @@ This is your staging ground. Any time you create a new note, clip an article, or
 This is the active workspace where your notes live and evolve. Rather than using folders to separate Seedlings, Saplings, and Evergreens, keep them all in this single directory. You will use YAML frontmatter (metadata) or tags to track their maturity status. Keeping all active notes in one folder encourages accidental discovery and makes linking easier.
 
 ### 03_Daily_Logs
-Digital gardens benefit heavily from chronological entry points. This folder holds your Daily Notes. Think of Daily Logs as the soil of your garden. You can draft rough ideas here, link to new Seedlings, and track your daily research. Over time, these daily entries become a chronological record of how your thinking has evolved.
+Digital gardens benefit heavily from chronological entry points. This folder holds your Daily Notes. Think of Daily Logs as the soil of your garden. You can draft rough ideas here, link to new Seedlings, and track your daily [research](/posts/obsidian-vs-devonthink-for-large-research-archives/). Over time, these daily entries become a chronological record of how your thinking has evolved.
 
 ### 04_Indexes_and_MOCs
 As your garden grows, you will need waypoints to navigate it. Maps of Content (MOCs) live here. MOCs are index notes that serve as tables of contents for broad topics. If you have twenty notes related to "[Knowledge Management](/posts/using-obsidian-for-long-term-evergreen-note-management/)," you would create an MOC in this folder that links out to those individual notes in a structured, logical order.
@@ -119,7 +119,7 @@ The Collector's Fallacy is the false belief that collecting information is the s
 A digital garden dies if it is choked with unprocessed clippings. Impose a strict rule: nothing leaves the Inbox and enters `02_The_Garden` unless it has been summarized in your own words. If you clip an article, you must write at least three sentences explaining why it matters to you before changing its status to a seedling.
 
 ### Plugin and Formatting Paralysis
-Obsidian's community plugin ecosystem is vast and powerful. It is tempting to spend your first week installing Dataview, Templater, Excalidraw, and custom CSS snippets to make your vault look like a futuristic dashboard. 
+Obsidian's community plugin ecosystem is vast and powerful. It is tempting to spend your first week installing Dataview, [Templater](/posts/automating-obsidian-frontmatter-with-templater-scripts/), Excalidraw, and custom CSS snippets to make your vault look like a futuristic dashboard. 
 
 Resist this urge. Complex [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) breaks easily and distracts from the core goal of writing and connecting ideas. Stick exclusively to the core plugins for your first thirty days. Build the habit of writing daily notes, drafting seedlings, and linking them together. Only install a community plugin when you encounter a specific, painful friction point that your current workflow cannot solve.
 
@@ -127,7 +127,7 @@ Resist this urge. Complex [automation](/posts/templater-plugin-tutorial-for-obsi
 
 Building a digital garden in Obsidian is an ongoing process of cultivation, not a one-time architectural project. By adopting a flat, five-folder structure, routing new captures to an Inbox, and relying on Maps of Content rather than nested folders, you create an environment that scales effortlessly.
 
-Start small. Set up your Inbox, your Meta folders, and your Garden directory today. Capture three seedling ideas from your recent reading, link them to a central MOC, and allow your personal wiki to grow naturally. The structure outlined here provides the scaffolding; the value comes from the connections you build within it.
+Start small. Set up your Inbox, your Meta folders, and your Garden directory today. Capture three seedling ideas from your recent reading, link them to a central MOC, and allow your [personal wiki](/posts/obsidian-vs-tiddlywiki-for-advanced-personal-wikis/) to grow naturally. The structure outlined here provides the scaffolding; the value comes from the connections you build within it.
 
 ## Frequently Asked Questions
 

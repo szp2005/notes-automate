@@ -14,7 +14,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The best Obsidian themes for long-form writing focus prioritize readability, minimize interface clutter, and offer customizable typography to create a distraction-free environment, with themes like "Evergreen" and "Zenith" consistently ranking high for their clean design and ergonomic features.
 
-Obsidian has emerged as a powerful tool for [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) and [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/), but its true potential for writers shines when tailored for deep, uninterrupted work. For authors, researchers, and anyone tackling extensive projects, the default Obsidian interface, while functional, might not always provide the optimal environment for sustained concentration. This is where custom themes become indispensable, transforming your digital workspace into a sanctuary for thought and prose.
+Obsidian has emerged as a powerful tool for [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) and [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/), but its true potential for writers shines when tailored for deep, uninterrupted work. For authors, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and anyone tackling extensive projects, the default Obsidian interface, while functional, might not always provide the optimal environment for sustained concentration. This is where custom themes become indispensable, transforming your digital workspace into a sanctuary for thought and prose.
 
 Long-form writing demands a unique kind of focus, one that can be easily disrupted by visual noise or an uncomfortable reading experience. A well-chosen theme can significantly reduce eye strain, improve text legibility, and subtly guide your attention back to the words on the page. In this comprehensive review, we explore the top Obsidian themes specifically designed to enhance your long-form writing experience, helping you maintain flow and maximize [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) in 2026.
 
@@ -32,7 +32,7 @@ Firstly, **readability** is paramount. This encompasses thoughtful font choices 
 
 Secondly, **minimalism** is key. An ideal long-form writing theme strips away unnecessary UI elements, allowing your content to take center stage. This might involve subtle hiding of sidebars until hovered over, simplified icons, or a clean status bar. The goal is to reduce visual distractions that pull your attention away from your writing. Many themes offer a "focus mode" or "distraction-free mode" that further streamlines the interface.
 
-Thirdly, **customization options** are highly beneficial. While a theme provides a strong baseline, the ability to tweak font sizes, colors for specific elements (like links or highlights), and active line highlighting can personalize the experience to your exact preferences. Some themes integrate seamlessly with Obsidian's CSS snippets feature, allowing advanced users to make granular adjustments. Finally, robust **dark mode/light mode compatibility** ensures the theme looks and feels consistent regardless of your ambient lighting conditions or personal preference.
+Thirdly, **customization options** are highly beneficial. While a theme provides a strong baseline, the ability to tweak font sizes, colors for specific elements (like links or highlights), and active line highlighting can personalize the experience to your exact preferences. Some themes integrate seamlessly with Obsidian's CSS snippets feature, allowing [advanced users](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) to make granular adjustments. Finally, robust **dark mode/light mode compatibility** ensures the theme looks and feels consistent regardless of your ambient lighting conditions or personal preference.
 
 ## Top Obsidian Themes for Long-Form Writing Focus
 
@@ -50,7 +50,7 @@ Evergreen is celebrated for its serene aesthetic and exceptional readability, ma
 - Excellent readability with optimized typography and line spacing.
 - Calm and aesthetically pleasing color palette in both light and dark modes.
 - Minimalist design that effectively reduces visual clutter.
-- Good support for common Obsidian plugins and features.
+- Good support for common [Obsidian plugins](/posts/smart-connections-plugin-for-emergent-ideas/) and features.
 - Actively maintained with regular updates.
 
 **Cons:**

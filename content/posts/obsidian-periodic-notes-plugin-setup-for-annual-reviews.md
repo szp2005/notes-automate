@@ -13,9 +13,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian Periodic Notes Plugin Setup for Annual Reviews: Complete Guide
 
-> **Quick Answer:** The optimal Obsidian periodic notes plugin setup for annual reviews requires combining the Periodic Notes plugin with Templater and Dataview. Enable the "Yearly Notes" toggle, assign a dedicated template file containing your reflection prompts, and configure the folder destination to automatically aggregate your monthly and quarterly rollups into a single end-of-year dashboard.
+> **Quick Answer:** The optimal Obsidian periodic notes plugin setup for annual reviews requires combining the Periodic Notes plugin with [Templater](/posts/automating-obsidian-frontmatter-with-templater-scripts/) and [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/). Enable the "Yearly Notes" toggle, assign a dedicated template file containing your reflection prompts, and configure the folder destination to automatically aggregate your monthly and quarterly rollups into a single end-of-year dashboard.
 
-Conducting an annual review is one of the highest-leverage activities for personal growth, yet many knowledge workers struggle to synthesize twelve months of disconnected journal entries. When your thoughts are scattered across various notebooks, apps, and text files, identifying meaningful trends becomes nearly impossible. The result is often a superficial yearly reflection that fails to inform your strategy for the year ahead.
+Conducting an annual review is one of the highest-leverage activities for personal growth, yet many [knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/) struggle to synthesize twelve months of disconnected journal entries. When your thoughts are scattered across various notebooks, apps, and text files, identifying meaningful trends becomes nearly impossible. The result is often a superficial yearly reflection that fails to inform your strategy for the year ahead.
 
 Obsidian solves this fragmentation by treating your notes as an interconnected database. However, the base software only provides daily notes out of the box. To conduct a structured, data-informed yearly reflection, you need a system that hierarchically rolls up your daily entries into weeks, months, quarters, and finally, years. 
 

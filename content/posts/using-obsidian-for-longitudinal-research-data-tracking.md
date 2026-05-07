@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Using Obsidian for Longitudinal Research Data Tracking: A Comprehensive Guide
 
-> **Quick Answer:** Obsidian offers a highly flexible and robust solution for longitudinal research data tracking by leveraging its plain-text markdown files, powerful internal linking, and extensive plugin ecosystem, enabling researchers to systematically organize, connect, and analyze evolving data over extended periods.
+> **Quick Answer:** Obsidian offers a highly flexible and robust solution for longitudinal research data tracking by leveraging its plain-text markdown files, powerful internal linking, and extensive plugin ecosystem, enabling [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/) to systematically organize, connect, and analyze evolving data over extended periods.
 
 ## Introduction
 
@@ -104,7 +104,7 @@ By using templates, you establish a consistent structure for data entry, reducin
 
 ## Implementing Data Tracking: Notes, Properties, and Links
 
-The true power of using Obsidian for longitudinal data tracking emerges when you systematically implement data recording using its core features: individual notes, YAML properties (frontmatter), and internal links. This combination allows for both rich, unstructured qualitative data and structured, queryable metadata.
+The true power of using Obsidian for longitudinal data tracking emerges when you systematically implement data recording using its core features: individual notes, YAML properties (frontmatter), and internal links. This combination allows for both rich, unstructured qualitative data and structured, queryable [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/).
 
 ### Participant Profiles
 
@@ -286,7 +286,7 @@ Many longitudinal studies begin with existing datasets, often in structured form
 
 ### Reference Management
 
-Longitudinal research is often situated within extensive literature. Integrating Obsidian with reference managers like Zotero or Mendeley can significantly enhance your literature review process.
+Longitudinal research is often situated within extensive literature. Integrating Obsidian with reference managers like Zotero or Mendeley can significantly enhance your [literature review](/posts/advanced-obsidian-templates-for-literature-review-matrix/) process.
 *   **Zotero Integration Plugins**: Plugins like "Zotero Integration" or "Citations" allow you to search your Zotero library directly from Obsidian, insert formatted citations, and even create notes for specific references with pre-filled metadata. This ensures that your research notes are well-referenced and linked to your academic library.
 *   **Literature Notes**: Create dedicated notes for key articles or books, summarizing their content, extracting relevant quotes, and linking them to your research themes or specific participant data. This helps in connecting theoretical frameworks with empirical observations.
 

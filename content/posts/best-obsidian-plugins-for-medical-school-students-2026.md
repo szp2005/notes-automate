@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Medical school is an overwhelming deluge of information, often compared to drinking from a fire hose. Success in pre-clinical years (USMLE Step 1/COMLEX Level 1) and clinical rotations requires a [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system that scales infinitely without slowing down. Obsidian, a local-first markdown [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) app, has become a staple among medical students due to its speed, offline capability, and highly extensible nature.
 
-However, a vanilla Obsidian vault won't automatically synthesize thousands of pages of pathology and pharmacology. The real power lies in the community plugins. By selecting the right combination of tools, you can transform Obsidian from a passive text editor into an active study engine that directly interfaces with spaced repetition systems, manages dense PDFs, and tracks your clinical progress.
+However, a vanilla Obsidian vault won't automatically synthesize thousands of pages of pathology and pharmacology. The real power lies in the community plugins. By selecting the right combination of tools, you can transform Obsidian from a passive text editor into an active study engine that directly interfaces with [spaced repetition](/posts/spaced-repetition-plugin-for-obsidian-flashcards/) systems, manages dense PDFs, and tracks your clinical progress.
 
 Here are the best Obsidian plugins for medical school students navigating the 2026 curriculum landscape to maximize retention and minimize busywork.
 
@@ -67,7 +67,7 @@ You can import an image of the brachial plexus, draw over it to highlight nerve 
 **Price:** Free
 **Rating:** 5.0/5
 
-Dataview turns your Obsidian vault into a queryable database. For medical students, this is the ultimate organizational tool for the chaos of clinical years. By adding simple YAML metadata to your daily notes or patient encounter templates (e.g., `rotation: Internal Medicine`, `disease: CHF`), you can generate dynamic tables that aggregate your experiences.
+Dataview turns your Obsidian vault into a queryable database. For medical students, this is the ultimate organizational tool for the chaos of clinical years. By adding simple YAML [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) to your daily notes or patient encounter templates (e.g., `rotation: Internal Medicine`, `disease: CHF`), you can generate dynamic tables that aggregate your experiences.
 
 Instead of hunting for that one interesting cardiology case you saw three weeks ago, a Dataview query instantly pulls up a table of every patient note tagged with heart failure, sorted by date. It is equally powerful for tracking study progress, allowing you to list all pharmacology notes that haven't been reviewed in the last 30 days.
 
@@ -105,7 +105,7 @@ The standout feature is that your annotations are saved as markdown text with de
 **Price:** Free
 **Rating:** 4.9/5
 
-Consistency is critical when taking histories or writing SOAP notes. Templater goes far beyond Obsidian's core template feature by introducing powerful variables and automation. You can create a master SOAP note template that automatically prompts you to input the patient's age and chief complaint, instantly generating the correct headers and formatting.
+Consistency is critical when taking histories or writing SOAP notes. Templater goes far beyond Obsidian's core template feature by introducing powerful variables and [automation](/posts/triggering-n8n-workflows-directly-from-obsidian-notes/). You can create a master SOAP note template that automatically prompts you to input the patient's age and chief complaint, instantly generating the correct headers and formatting.
 
 For pre-clinical students, Templater can automatically generate daily study logs, pulling in the current date, linking to your weekly schedule, and creating a checklist for the day's Anki reviews. It removes the friction of formatting, allowing you to focus immediately on content.
 

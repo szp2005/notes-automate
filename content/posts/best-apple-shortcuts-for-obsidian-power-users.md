@@ -50,7 +50,7 @@ For power users, this tool drastically reduces the friction of building automati
 **Price:** $0.00-$0.00
 **Rating:** 4.7/5
 
-The Obsidian Advanced URI community plugin by Vinzent03 is the gold standard for free, extensive automation. While Obsidian has a basic native URL scheme (like `obsidian://open`), the Advanced URI plugin expands this exponentially. It allows you to construct deep links that can create files, append text to specific headers, open specific workspaces, and trigger any command palette action silently.
+The Obsidian Advanced URI community plugin by Vinzent03 is the gold standard for free, extensive [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/). While Obsidian has a basic native URL scheme (like `obsidian://open`), the Advanced URI plugin expands this exponentially. It allows you to construct deep links that can create files, append text to specific headers, open specific workspaces, and trigger any command palette action silently.
 
 To use this with Apple Shortcuts, you simply use the native "Open URL" action and pass in your specially formatted Advanced URI link. Because it relies entirely on URL schemes, it is completely free and works on any device where Obsidian is installed. However, power users will need to be comfortable with URL encoding (replacing spaces with `%20` or using the URL Encode shortcut action) and carefully structuring their shortcut text blocks to avoid execution errors.
 
@@ -118,7 +118,7 @@ You can build a shortcut that prompts for dictate text, grabs the current date t
 
 **Cons:**
 - Strictly limited to users utilizing iCloud Drive for vault synchronization
-- Cannot trigger Obsidian-specific features like templates, plugins, or commands
+- Cannot trigger Obsidian-specific features like [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), plugins, or commands
 
 ## Essential Shortcut Workflows to Build
 
@@ -128,7 +128,7 @@ Once you have chosen your preferred integration method from the list above, you 
 The most common pain point on mobile is capturing a fleeting thought before you forget it. By creating an Apple Shortcut that prompts for text input and appends it directly to today's daily note, you eliminate the friction of opening the app, waiting for the sync screen, and finding the right file. Power users often map this shortcut to the physical Action Button on newer iPhones, or trigger it via the Back Tap accessibility feature, allowing you to log thoughts, ideas, or expenses in less than two seconds.
 
 ### The Safari Web Clipper
-While Obsidian has several excellent community clipping plugins for desktop browsers, nothing beats a native Apple Shortcut residing in the iOS Share Sheet for mobile browsing. A well-built web clipper shortcut can extract the page title, URL, and article body (utilizing Safari's built-in Reader Mode extraction), convert the HTML to clean Markdown, and save it as a new note in your `Inbox` folder. This is an essential automation for researchers, writers, and students building a read-it-later queue directly inside their PKM system.
+While Obsidian has several excellent community clipping plugins for desktop browsers, nothing beats a native Apple Shortcut residing in the iOS Share Sheet for mobile browsing. A well-built web clipper shortcut can extract the page title, URL, and article body (utilizing Safari's built-in Reader Mode extraction), convert the HTML to clean Markdown, and save it as a new note in your `Inbox` folder. This is an essential automation for [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), writers, and students building a read-it-later queue directly inside their PKM system.
 
 ### Automated Meeting Note Generator
 For professionals managing heavy schedules, integrating Apple Calendar with Obsidian is a massive time-saver. You can build a shortcut that surveys your upcoming calendar events for the day, prompts you to select one from a list, and generates a pre-formatted meeting note in Obsidian. The shortcut can automatically pull in the attendee list, the meeting time, the location, and the Zoom link, applying your specific meeting YAML frontmatter before opening the new file, entirely ready for you to begin taking notes.

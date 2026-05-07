@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian Bases Native Update Review 2026: The Notion Killer?
 
-> **Quick Answer:** The 2026 native update to Obsidian Bases fundamentally changes how the plugin handles metadata, moving from a slow markdown wrapper to a core-integrated SQLite backend. It offers seamless Notion-style tables, Kanban boards, and galleries with zero noticeable lag, making it the definitive database solution for Obsidian power users seeking structured data without vendor lock-in.
+> **Quick Answer:** The 2026 native update to Obsidian Bases fundamentally changes how the plugin handles [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), moving from a slow markdown wrapper to a core-integrated SQLite backend. It offers seamless Notion-style tables, Kanban boards, and galleries with zero noticeable lag, making it the definitive database solution for Obsidian power users seeking structured data without vendor lock-in.
 
 For years, the personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) community has been torn between two distinct paradigms: the rigid, highly structured database capabilities of Notion and the fast, offline, local-first markdown editing of Obsidian. While plugins like Dataview bridged this gap temporarily, they often felt like read-only querying languages rather than interactive, writable workspaces. You could query your data, but editing it natively inside a table without jumping through YAML frontmatter hoops remained elusive.
 
@@ -110,7 +110,7 @@ Transitioning your vault to leverage the full power of the Obsidian Bases 2026 u
 
 **Use Database Folders Sparingly:** While Bases allows you to create databases that aggregate your entire vault via tags, it is often more performant and organized to restrict a database's source to a specific folder or a specific set of nested tags. For example, setting the data source to `Folder: Projects/Active` rather than querying the entire vault for the `#project` tag will result in cleaner, more focused views.
 
-**Leverage [Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) for New Entries:** When you click the "+" button in a Bases table to create a new row, it generates a new markdown file. Configure Bases to map this action to a specific template using the Core Templates plugin or Templater. This ensures that every new note generated from the database inherits your standard boilerplate text, headers, and any hidden metadata you require.
+**Leverage [Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) for New Entries:** When you click the "+" button in a Bases table to create a new row, it generates a new markdown file. Configure Bases to map this action to a specific template using the Core Templates plugin or [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/). This ensures that every new note generated from the database inherits your standard boilerplate text, headers, and any hidden metadata you require.
 
 **Mind Your Sync Solutions:** If you use a third-party sync solution like Nextcloud, Dropbox, or Google Drive (rather than Obsidian Sync), ensure you exclude the `.obsidian/bases-cache.db` file from your sync client. Syncing the constantly updating local cache file across devices will cause immediate conflict errors. Let each device build and maintain its own local cache.
 
@@ -118,7 +118,7 @@ Transitioning your vault to leverage the full power of the Obsidian Bases 2026 u
 
 The Obsidian Bases native update for 2026 is nothing short of a paradigm shift for local-first knowledge management. By bridging the gap between raw text files and a highly performant, visual database interface, it successfully captures the magic of Notion without sacrificing data ownership, speed, or offline capabilities. 
 
-For users who have been meticulously managing tables through raw text or struggling with read-only Dataview queries, Bases provides the writable, interactive canvas you have been waiting for. It scales beautifully, integrates flawlessly with native themes, and respects the core philosophy of the Obsidian ecosystem. It is, without a doubt, a mandatory installation for anyone looking to push their personal knowledge management system to the next level.
+For users who have been meticulously managing tables through raw text or struggling with read-only Dataview queries, Bases provides the writable, interactive canvas you have been waiting for. It scales beautifully, integrates flawlessly with native themes, and respects the core philosophy of the Obsidian ecosystem. It is, without a doubt, a mandatory installation for anyone looking to push their [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) system to the next level.
 
 ## Frequently Asked Questions
 

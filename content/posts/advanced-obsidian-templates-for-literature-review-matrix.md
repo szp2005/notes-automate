@@ -37,12 +37,12 @@ For researchers dealing with fifty or more sources, investing in a structured te
 **Price:** $49-$79
 **Rating:** 4.8/5
 
-The Obsidian Academic Vault Pro is a highly structured, comprehensive system designed specifically for long-term academic research. It provides a complete environment that goes beyond a simple matrix, integrating project management, citation tracking (via Zotero integration), and writing drafting phases. The core of its literature review capability is its dual-layered matrix system: one layer for broad source tracking and a second layer for granular thematic synthesis.
+The Obsidian Academic Vault Pro is a highly structured, comprehensive system designed specifically for long-term academic research. It provides a complete environment that goes beyond a simple matrix, integrating [project management](/posts/obsidian-project-management-academic-research-teams/), citation tracking (via Zotero integration), and writing drafting phases. The core of its literature review capability is its dual-layered matrix system: one layer for broad source tracking and a second layer for granular thematic synthesis.
 
 It utilizes advanced DataviewJS scripts to generate matrices that allow inline editing, meaning you can update metadata directly from the table view without opening individual notes. The template also includes heavily customized quick-add macros that standardizes how you ingest new papers, ensuring that required fields like methodology, sample size, and key findings are never left blank.
 
 **Pros:**
-- Complete end-to-end research workflow system out of the box
+- Complete end-to-end research [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) system out of the box
 - DataviewJS integration allows for inline editing of matrix cells
 - Flawless Zotero integration templates included
 

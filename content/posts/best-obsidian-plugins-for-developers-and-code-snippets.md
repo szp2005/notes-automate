@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # 7 Best Obsidian Plugins for Developers and Code Snippets in 2026
 
-> **Quick Answer:** The best Obsidian plugins for developers and code snippets are Code Styler for aesthetic and functional block formatting, Execute Code for running scripts directly within your notes, and Obsidian Git for seamless version control. Combined with Editor Syntax Highlight, these tools transform Obsidian from a standard markdown app into a powerful, offline-first snippet manager and development knowledge base.
+> **Quick Answer:** The best Obsidian plugins for developers and code snippets are Code Styler for aesthetic and functional block formatting, Execute Code for running scripts directly within your notes, and Obsidian Git for seamless [version control](/posts/setting-up-obsidian-git-for-automated-version-control/). Combined with Editor Syntax Highlight, these tools transform Obsidian from a standard markdown app into a powerful, offline-first snippet manager and development knowledge base.
 
 Obsidian has rapidly become the default [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) tool for software engineers, systems administrators, and data scientists. Because it uses local, plain-text markdown files, it inherently respects developer workflows. You maintain complete ownership of your data, and your notes can easily live alongside your codebase in version control.
 
@@ -50,7 +50,7 @@ Beyond aesthetics, Code Styler adds a dedicated copy button to every block, elim
 
 Execute Code bridges the gap between static notes and an active development environment. If you document API calls, data transformation scripts, or shell commands, this plugin allows you to run them directly from the markdown file. It supports a wide array of languages including Python, JavaScript, Bash, Go, and C++.
 
-When you execute a block, the plugin captures the standard output and standard error, appending it directly below the code block in your note. This is invaluable for creating interactive documentation, testing regex patterns, or maintaining a runbook for server deployments where you want to see the immediate result of a command without switching to a terminal.
+When you execute a block, the plugin captures the standard output and standard error, appending it directly below the code block in your note. This is invaluable for creating interactive [documentation](/posts/using-obsidian-to-manage-n8n-workflow-documentation/), testing regex patterns, or maintaining a runbook for server deployments where you want to see the immediate result of a command without switching to a terminal.
 
 **Pros:**
 - Supports a massive library of programming languages
@@ -111,7 +111,7 @@ You can set up a QuickAdd workflow that prompts you for the snippet's language, 
 
 **Pros:**
 - Drastically reduces friction for capturing new snippets
-- Enforces a consistent metadata structure across your library
+- Enforces a consistent [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) structure across your library
 - Integrates well with Obsidian's command palette and hotkeys
 
 **Cons:**

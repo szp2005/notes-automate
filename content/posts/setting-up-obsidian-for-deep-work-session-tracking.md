@@ -13,9 +13,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Set Up Obsidian for Deep Work Session Tracking: 5-Step Guide
 
-> **Quick Answer:** Setting up Obsidian for deep work session tracking requires enabling the core Daily Notes plugin, installing the Dataview and Pomodoro community plugins, and standardizing your frontmatter [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) to log session duration and task completion. This combination allows you to time your focus blocks natively and automatically generate weekly reports on your deep work habits.
+> **Quick Answer:** Setting up Obsidian for deep work session tracking requires enabling the core Daily Notes plugin, installing the [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) and Pomodoro community plugins, and standardizing your frontmatter [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) to log session duration and task completion. This combination allows you to time your focus blocks natively and automatically generate weekly reports on your deep work habits.
 
-The concept of deep work—the ability to focus without distraction on a cognitively demanding task—is crucial for producing high-value output. However, many knowledge workers struggle to quantify how much actual deep work they achieve in a given week. Traditional time-tracking apps often sit outside your primary [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/), creating friction that leads to inconsistent logging.
+The concept of deep work—the ability to focus without distraction on a cognitively demanding task—is crucial for producing high-value output. However, many [knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/) struggle to quantify how much actual deep work they achieve in a given week. Traditional time-tracking apps often sit outside your primary [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/), creating friction that leads to inconsistent logging.
 
 If you already use Obsidian as your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system, integrating your focus tracking directly into your vault solves this friction problem. By bringing the timer and the analytics into the environment where the actual thinking and writing happen, you create a seamless loop between intention and execution.
 
@@ -101,7 +101,7 @@ To calculate your total deep work hours for the current week, you can use [Datav
 `$= const pages = dv.pages('"Daily Notes"').where(p => p.file.day >= dv.date('sow')); const totalMins = pages.deep_work_actual_minutes.array().reduce((acc, val) => acc + (val || 0), 0); dv.paragraph("Total Deep Work This Week: **" + Math.round(totalMins / 60 * 10) / 10 + " hours**"); `
 ```
 
-Reviewing this dashboard during your weekly review provides hard data on your capacity. You will quickly learn if your estimate of working "four hours deep" a day matches reality (it rarely does initially).
+Reviewing this dashboard during your [weekly review](/posts/obsidian-template-for-weekly-reflection-and-planning/) provides hard data on your capacity. You will quickly learn if your estimate of working "four hours deep" a day matches reality (it rarely does initially).
 
 ## Step 5: Establish Your Pre-Session Ritual
 

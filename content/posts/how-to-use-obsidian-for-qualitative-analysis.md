@@ -12,9 +12,9 @@ type: "informational"
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 # Obsidian for Qualitative Analysis: A Complete Guide
 
-> **Quick Answer:** Obsidian can be leveraged for qualitative analysis by creating a structured vault for research notes, using internal links for thematic connections, and employing tags for coding. Its powerful graph view visualizes relationships, while community plugins enhance data management, memoing, and export, streamlining the analytical process for researchers.
+> **Quick Answer:** Obsidian can be leveraged for qualitative analysis by creating a structured vault for research notes, using internal links for thematic connections, and employing tags for coding. Its powerful graph view visualizes relationships, while community plugins enhance data management, memoing, and export, streamlining the analytical process for [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/).
 
-Qualitative analysis is a rigorous, iterative process of making sense of unstructured data, identifying patterns, themes, and insights. Researchers often grapple with vast amounts of text—interview transcripts, field notes, literature reviews, and more—seeking a systematic yet flexible way to organize, code, and interpret this information. Traditional methods can feel cumbersome, while dedicated Qualitative Data Analysis (QDA) software, though powerful, sometimes introduces a steep learning curve or restricts [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) flexibility.
+Qualitative analysis is a rigorous, iterative process of making sense of unstructured data, identifying patterns, themes, and insights. Researchers often grapple with vast amounts of text—interview transcripts, field notes, literature reviews, and more—seeking a systematic yet flexible way to organize, code, and interpret this information. Traditional methods can feel cumbersome, while dedicated Qualitative Data Analysis (QDA) software, though powerful, sometimes introduces a steep learning curve or restricts [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) flexibility.
 
 This is where Obsidian, a powerful knowledge base on local Markdown files, emerges as an increasingly popular and highly adaptable tool for qualitative researchers. Its core strengths—local-first data storage, robust linking capabilities, flexible tagging system, and a vibrant plugin ecosystem—make it an excellent candidate for managing the complexities of qualitative data. By transforming your research notes into an interconnected web of knowledge, Obsidian can significantly enhance your analytical depth and efficiency. This guide will walk you through setting up and utilizing Obsidian for a comprehensive qualitative analysis workflow, from initial data import to advanced thematic exploration.
 
@@ -97,7 +97,7 @@ Field notes can be handled similarly to transcripts, with each observation sessi
 
 ### Literature and Theoretical Frameworks
 
-Integrating your literature review and theoretical frameworks into Obsidian alongside your empirical data is vital for a coherent analysis.
+Integrating your [literature review](/posts/advanced-obsidian-templates-for-literature-review-matrix/) and theoretical frameworks into Obsidian alongside your empirical data is vital for a coherent analysis.
 
 1.  **Literature Notes:** For each key article, book chapter, or theoretical concept, create a dedicated Markdown note.
     *   **Naming:** `AuthorYear_ShortTitle.md` (e.g., `Smith2023_DigitalDivide.md`).

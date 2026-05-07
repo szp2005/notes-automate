@@ -42,7 +42,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ## What This Comparison Actually Covers
 
-Visual thinking has become a legitimate pillar of personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/)(/posts/using-obsidian-for-long-term-evergreen-note-management/). Whether you follow Zettelkasten, PARA, or a hybrid system, there comes a point where a list of notes is not enough—you need to *see* the relationships.
+Visual thinking has become a legitimate pillar of personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/)(/posts/using-obsidian-for-long-term-evergreen-note-management/). Whether you follow [Zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/), PARA, or a hybrid system, there comes a point where a list of notes is not enough—you need to *see* the relationships.
 
 Inside Obsidian, two tools fight for that job. **Obsidian Canvas** ships with the app as a core plugin. Open a new Canvas file, drop notes onto an infinite white surface, draw arrows between them, and you're done. No downloads, no configuration. **Excalidraw**, on the other hand, is a community plugin built by Zsolt Viczián that wraps the popular open-source Excalidraw whiteboard library inside your vault. It requires installation, has its own file format, and packs substantially more drawing power.
 
@@ -94,7 +94,7 @@ Because Canvas has no drawing primitives beyond rectangles and arrows, there are
 
 Excalidraw ships with freehand lines, geometric shapes, an arrow engine with multiple head styles, text boxes, image embedding, LaTeX rendering, and an extensive element library that the community keeps expanding. If you need to sketch a system architecture, draw a user journey, or illustrate a concept with custom visuals, Canvas cannot compete. Excalidraw handles these tasks natively.
 
-The hand-drawn aesthetic is also deliberate. Research from the Excalidraw community consistently reports that the slightly rough, sketch-style rendering reduces the psychological pressure to make things "perfect," which encourages faster ideation.
+The hand-drawn aesthetic is also deliberate. [Research](/posts/obsidian-vs-devonthink-for-large-research-archives/) from the Excalidraw community consistently reports that the slightly rough, sketch-style rendering reduces the psychological pressure to make things "perfect," which encourages faster ideation.
 
 ### Collaboration you can actually use
 
@@ -102,7 +102,7 @@ Canvas has no collaboration feature. Excalidraw files can be opened directly at 
 
 ### Portability outside the vault
 
-An `.excalidraw` file is valid JSON that Excalidraw.com reads natively. Your diagrams aren't stranded inside Obsidian. Export to SVG and the output is clean, scalable, and embeddable in any web context. This matters for people who publish notes, build documentation sites, or switch PKM tools over time.
+An `.excalidraw` file is valid JSON that Excalidraw.com reads natively. Your diagrams aren't stranded inside Obsidian. Export to SVG and the output is clean, scalable, and embeddable in any web context. This matters for people who publish notes, build [documentation](/posts/using-obsidian-to-manage-n8n-workflow-documentation/) sites, or switch PKM tools over time.
 
 **Excalidraw is best for:** Detailed process flows, system diagrams, collaborative brainstorming sessions, creative visual thinking, and any diagram you need to share with non-Obsidian users.
 

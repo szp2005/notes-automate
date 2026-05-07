@@ -21,7 +21,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ## TL;DR
 
-- **Five plugins form one system:** Zotero Integration, Dataview, Canvas, [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/), and Omnisearch each solve a specific research bottleneck, and they're more powerful when used together than individually.
+- **Five plugins form one system:** Zotero Integration, [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/), Canvas, [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/), and Omnisearch each solve a specific research bottleneck, and they're more powerful when used together than individually.
 - **The workflow is linear:** You import papers via Zotero Integration → structure notes with Templater → query your library with Dataview → map arguments on Canvas → retrieve anything with Omnisearch.
 - **This setup replaces four or five separate tools** (reference manager exports, Excel reading lists, mind-mapping apps, and folder-based searches) with a single, locally stored vault you control.
 
@@ -60,7 +60,7 @@ One practical note before diving in: if you work across a laptop, office desktop
 
 **The problem it solves:** You've spent two hours reading and annotating a PDF in Zotero. Now you want to write about it in Obsidian. Without a bridge, you're manually copying the author, title, year, journal, DOI, and your highlights into a new note. That's tedious, error-prone, and a reason people give up on structured note-taking.
 
-**What the plugin does:** Zotero Integration (developed by mgmeyers, available in the Obsidian Community Plugins directory) creates a direct pipeline between your Zotero library and your Obsidian vault. When you trigger it, it pulls the metadata and your annotations from a Zotero item and populates a new Obsidian note automatically.
+**What the plugin does:** Zotero Integration (developed by mgmeyers, available in the Obsidian Community Plugins directory) creates a direct pipeline between your Zotero library and your Obsidian vault. When you trigger it, it pulls the [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) and your annotations from a Zotero item and populates a new Obsidian note automatically.
 
 **Setup in three steps:**
 
@@ -72,7 +72,7 @@ Once set up, you press a hotkey, type an author name or title, select the paper 
 
 **Why this matters for literature review:** Your literature note becomes the canonical home for everything you know about a paper. Instead of flipping back to the PDF every time you need a detail, you read the note, follow the DOI link if you need the full text, and move on. Over a 200-source literature review, this time savings is substantial.
 
-**Zotero storage note:** The integration works best when your PDFs are stored and synced through Zotero itself. Zotero's free plan gives you 300 MB of cloud storage — fine for a modest library, but most active researchers exceed this quickly. Upgrading your Zotero storage to the 2 GB or unlimited plan keeps your PDF library accessible across machines without breaking the plugin's file path references.
+**Zotero storage note:** The integration works best when your PDFs are stored and synced through Zotero itself. Zotero's free plan gives you 300 MB of cloud storage — fine for a modest library, but most active [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/) exceed this quickly. Upgrading your Zotero storage to the 2 GB or unlimited plan keeps your PDF library accessible across machines without breaking the plugin's file path references.
 
 ---
 

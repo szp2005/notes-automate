@@ -27,7 +27,7 @@ To understand why this plugin is a cornerstone for visual thinkers, it is necess
 
 The most powerful aspect of the Excalidraw plugin is its native integration with Obsidian's linking system. You are not just drawing static shapes; you are creating interactive maps of your vault. You can drag and drop existing markdown notes directly onto the Excalidraw canvas. These notes render as functional frames that update in real-time if the source note is modified. 
 
-Conversely, you can embed portions of an Excalidraw drawing into a standard markdown note. If you create a massive architectural diagram but only want to reference a specific subsystem in a daily note, you can transclude just that specific area of the canvas. This two-way street ensures that your visual models and your written documentation are never out of sync.
+Conversely, you can embed portions of an Excalidraw drawing into a standard markdown note. If you create a massive architectural diagram but only want to reference a specific subsystem in a daily note, you can transclude just that specific area of the canvas. This two-way street ensures that your visual models and your written [documentation](/posts/using-obsidian-to-manage-n8n-workflow-documentation/) are never out of sync.
 
 ### Bi-Directional Linking from the Canvas
 
@@ -55,7 +55,7 @@ You can create a high-level canvas that acts as the homepage for your vault or a
 
 ### Annotating PDFs and Images
 
-Visual thinking extends beyond creating new diagrams; it also involves interacting with external media. The Excalidraw plugin allows you to import PDFs or images onto the canvas and draw directly over them. You can highlight text, circle key diagrams, and draw arrows connecting specific parts of an image to external Obsidian notes. This is particularly valuable for researchers analyzing charts, designers critiquing UI mockups, or students studying complex diagrams.
+Visual thinking extends beyond creating new diagrams; it also involves interacting with external media. The Excalidraw plugin allows you to import PDFs or images onto the canvas and draw directly over them. You can highlight text, circle key diagrams, and draw arrows connecting specific parts of an image to external Obsidian notes. This is particularly valuable for [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/) analyzing charts, designers critiquing UI mockups, or students studying complex diagrams.
 
 ## Practical Setup and Configuration
 
@@ -83,7 +83,7 @@ Additionally, very large canvases with hundreds of embedded markdown files can b
 
 ## Conclusion
 
-The Excalidraw plugin for Obsidian fundamentally expands what a personal knowledge management system can be. By breaking down the barrier between text and graphics, it accommodates cognitive styles that rely on spatial relationships, color, and free-form association. Whether you are mapping out a software architecture, brainstorming a novel, or simply trying to organize your thoughts on a digital whiteboard, integrating Excalidraw ensures that your visual thinking is permanently linked, searchable, and central to your second brain.
+The Excalidraw plugin for Obsidian fundamentally expands what a [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) system can be. By breaking down the barrier between text and graphics, it accommodates cognitive styles that rely on spatial relationships, color, and free-form association. Whether you are mapping out a software architecture, brainstorming a novel, or simply trying to organize your thoughts on a digital whiteboard, integrating Excalidraw ensures that your visual thinking is permanently linked, searchable, and central to your second brain.
 
 ## Frequently Asked Questions
 
@@ -102,6 +102,8 @@ You can use Excalidraw's "Group" or "Frame" features to define specific areas. O
 ---
 
 ## Related Reading
+
+- [Obsidian Canvas vs. Excalidraw: Which Visual Tool Wins?](/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/)
 
 - [Obsidian Canvas 与 Excalidraw：哪款可视化工具更胜一筹？](/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/)
 

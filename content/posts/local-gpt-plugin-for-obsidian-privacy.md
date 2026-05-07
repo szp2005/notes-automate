@@ -31,7 +31,7 @@ A local GPT setup fundamentally changes this architecture. Instead of routing re
 The request leaves the Obsidian application, travels to the local inference engine (like Ollama) running in the background on your OS, and returns the generated text. At no point does a single byte of your note leave your physical machine. You can disconnect your computer from the Wi-Fi, and the AI will continue to function perfectly.
 
 ### Compliance and Confidentiality
-For users bound by strict data handling regulations (HIPAA, GDPR, or NDAs), a local GPT plugin transforms AI from a compliance risk into a viable tool. Because the data perimeter never extends beyond the local drive, auditing and data governance requirements are intrinsically met. You retain complete ownership of both your inputs and the model's outputs.
+For users bound by strict data handling regulations (HIPAA, GDPR, or NDAs), a local GPT plugin transforms AI from a compliance risk into a viable tool. Because the data perimeter never extends beyond the local [drive](/posts/how-to-sync-obsidian-with-google-drive-using-a-plugin/), auditing and data governance requirements are intrinsically met. You retain complete ownership of both your inputs and the model's outputs.
 
 ## Choosing the Right Local Inference Engine
 
@@ -55,7 +55,7 @@ Once your inference engine is running, you need a plugin to connect it to your n
 BMO Chatbot is a highly configurable interface that sits in Obsidian's sidebar. It was built with local models in mind. It natively supports Ollama, meaning you do not have to mess with API key workarounds. You can select your locally downloaded models directly from a dropdown menu within the plugin settings. BMO excels at context injection—allowing you to reference current notes, folders, or specific files in your prompt while keeping everything strictly local.
 
 ### Text Generator Plugin
-The Text Generator plugin is one of the most robust AI tools for Obsidian. While initially built around OpenAI, its flexible custom endpoint settings make it perfect for local deployment. Instead of a chat interface, Text Generator focuses on inline generation and template execution. You can create complex prompt [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) (e.g., "Summarize the selected text and extract action items") and trigger them via hotkeys. Simply route the custom endpoint to your local LM Studio or Ollama server port.
+The Text Generator plugin is one of the most robust AI tools for Obsidian. While initially built around OpenAI, its flexible custom endpoint settings make it perfect for local deployment. Instead of a chat interface, Text Generator focuses on inline generation and template execution. You can create complex prompt [templates](/posts/advanced-obsidian-templates-for-literature-[review](/posts/is-obsidian-sync-worth-it-review/)-matrix/) (e.g., "Summarize the selected text and extract action items") and trigger them via hotkeys. Simply route the custom endpoint to your local LM Studio or Ollama server port.
 
 ### Smart Connections (Local Mode)
 Smart Connections is famous for creating semantic links between your notes using vector embeddings. Traditionally, this required sending your entire vault to OpenAI to generate embeddings, a massive privacy breach. Recent updates have integrated local embedding models via local servers. You can now generate embeddings and search your vault semantically using an entirely offline, privacy-first pipeline.

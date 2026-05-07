@@ -79,13 +79,13 @@ While the global graph provides macro-level insights, the Local Graph is often m
 
 ### Depth Setting and Link Types
 
-The true power of the Local Graph lies in the "Depth" setting. A depth of 1 shows only direct links. A depth of 2 shows notes connected to your connected notes. This is where serendipity happens. By setting the depth to 2 or 3, you can discover secondary connections that you wouldn't have thought of otherwise. 
+The true [power](/posts/using-obsidian-tasks-plugin-for-project-management/) of the Local Graph lies in the "Depth" setting. A depth of 1 shows only direct links. A depth of 2 shows notes connected to your connected notes. This is where serendipity happens. By setting the depth to 2 or 3, you can discover secondary connections that you wouldn't have thought of otherwise. 
 
 For instance, if you are writing about "Stoicism" (Depth 0), it might link to "Marcus Aurelius" (Depth 1), which in turn links to "Cognitive Behavioral Therapy" (Depth 2). Seeing CBT appear in the local graph while writing about Stoicism prompts an immediate insight and a potential new paragraph bridging the two concepts.
 
 Ensure you configure the Local Graph filters to exclude tags and attachments, just as you did with the global graph, to keep this side pane clean and relevant.
 
-## Step 5: Utilizing Community Plugins for Advanced Customization
+## Step 5: Utilizing Community Plugins for Advanced [Customization](/posts/minimal-theme-for-obsidian-customization-tips/)
 
 Once you have mastered the core settings, the Obsidian community offers powerful plugins to extend the analytical capabilities of your graph view.
 
@@ -112,7 +112,7 @@ If your vault is a pure Zettelkasten focused on atomic notes and emergent ideas:
 
 ### The Project Management Vault
 
-If you use Obsidian primarily for task management, meeting notes, and project tracking:
+If you use Obsidian primarily for [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/), meeting notes, and project tracking:
 - **Filters:** Use path filtering heavily to isolate active projects from archival data.
 - **Groups:** Color code by status (`#todo`, `#in-progress`, `#blocked`, `#completed`).
 - **Forces:** High Center Force, Low Link Distance. You want a tight, compact view of your current active ecosystem so you can quickly jump between related meetings, tasks, and reference materials.

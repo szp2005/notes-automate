@@ -15,13 +15,13 @@ type: "informational"
 
 [Personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) relies heavily on the relationships between ideas rather than the isolated storage of facts. When information is filed away in rigid folder hierarchies, it becomes static. The true power of a networked thought tool lies in its ability to facilitate serendipity and surface latent insights. Implementing a systematic approach to linking your notes for better knowledge discovery obsidian is the difference between a digital graveyard of clipped articles and a dynamic, generative thinking environment. 
 
-A well-linked vault acts as a compounding asset. Every new note you create becomes exponentially more valuable when it is tied to existing concepts. However, simply adding links arbitrarily leads to a cluttered graph view that offers little practical utility. Developing a disciplined linking protocol ensures that the connections you make today will serve your future self during the research, writing, or problem-solving process.
+A well-linked vault acts as a compounding asset. Every new note you create becomes exponentially more valuable when it is tied to existing concepts. However, simply adding links arbitrarily leads to a cluttered graph view that offers little practical utility. Developing a disciplined linking protocol ensures that the connections you make today will serve your future self during the [research](/posts/obsidian-vs-devonthink-for-large-research-archives/), writing, or problem-solving process.
 
 This guide details a comprehensive framework for establishing meaningful connections within your Obsidian vault, moving beyond basic backlinks to construct a highly resilient and discoverable knowledge graph.
 
 ## The Foundations of Obsidian Linking Mechanics
 
-Before developing advanced linking workflows, it is essential to understand the core mechanical features Obsidian provides for connecting files. Obsidian’s architecture is built on flat markdown files, but its linking capabilities allow these files to act as a relational database.
+Before developing advanced linking [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/), it is essential to understand the core mechanical features Obsidian provides for connecting files. Obsidian’s architecture is built on flat markdown files, but its linking capabilities allow these files to act as a relational database.
 
 ### Bidirectional Wikilinks
 
@@ -63,7 +63,7 @@ Inline linking forces you to articulate the relationship between the concepts in
 
 When inline linking is not feasible, use descriptive text to annotate your connections. If you maintain a "Related Notes" section, format it to include a brief explanation:
 
-*   [[Zero-Knowledge Proofs]] - *Explains the cryptographic mechanism underlying this privacy protocol.*
+*   [[Zero-Knowledge Proofs]] - *Explains the cryptographic mechanism underlying this [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/) protocol.*
 *   [[Ethereum Layer 2 Scaling]] - *Provides an example of where this technology is currently implemented.*
 
 This practice, known as contextual linking, turns a static list into a functional map, guiding your exploration and preventing the "wiki rabbit hole" effect where you lose track of your original research intent.

@@ -11,7 +11,7 @@ type: "review"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# Obsidian Metadata Menu vs. Database Folder: Which is Best for Your Workflow?
+# Obsidian Metadata Menu vs. Database Folder: Which is Best for Your [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)?
 
 > **Quick Answer:** The Obsidian Metadata Menu excels in creating highly structured, queryable data fields within individual notes, ideal for complex data management and automation, while the Database Folder plugin offers a visual, spreadsheet-like interface for managing collections of notes, best suited for project tracking and visual organization. Your choice depends on whether you prioritize deep programmatic control over individual note properties or a user-friendly, table-based view for groups of notes.
 
@@ -100,12 +100,12 @@ When choosing between Metadata Menu and Database Folder, it's essential to consi
 ### Use Cases
 
 *   **Metadata Menu:** Ideal for:
-    *   Academic research: Tracking publication details, authors, research status for individual papers.
+    *   [Academic research](/posts/advanced-obsidian-templates-for-literature-review-matrix/): Tracking publication details, authors, research status for individual papers.
     *   Content creation: Managing article status, topics, target audience, and publication dates for each piece.
     *   Personal CRM: Detailed properties for individual contacts.
     *   Any scenario requiring robust, validated properties for individual items.
 *   **Database Folder:** Ideal for:
-    *   Project management: Tracking tasks, deadlines, status, and assignees for a project.
+    *   [Project management](/posts/obsidian-project-management-academic-research-teams/): Tracking tasks, deadlines, status, and assignees for a project.
     *   Content calendars: Visualizing content ideas, their status, and publication schedule.
     *   Inventory management: Listing items, quantities, and locations.
     *   Any scenario benefiting from a visual, tabular overview of a collection of related notes.

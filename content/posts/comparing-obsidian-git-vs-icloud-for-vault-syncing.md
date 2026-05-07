@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** If you work entirely within the Apple hardware ecosystem, iCloud is the easiest, zero-configuration method for syncing your Obsidian vault. However, if you use a mix of Windows, Linux, or Android devices, or if you require strict [version control](/posts/setting-up-obsidian-git-for-automated-version-control/) to protect against accidental deletions, Obsidian Git is the vastly superior and more reliable solution.
 
-Because Obsidian stores your notes as standard local Markdown files rather than in a proprietary cloud database, you have complete ownership of your data. The tradeoff is that you are responsible for syncing that data across your computer, phone, and tablet. 
+Because Obsidian stores your notes as standard local Markdown files rather than in a proprietary cloud [database](/posts/obsidian-bases-native-update-review-2026/), you have complete ownership of your data. The tradeoff is that you are responsible for syncing that data across your computer, phone, and tablet. 
 
 While the official Obsidian Sync service is the most frictionless premium option, many users prefer to utilize their existing cloud infrastructure. When comparing Obsidian Git vs iCloud for vault syncing, you are evaluating two fundamentally different architectures: cloud storage mirroring versus distributed version control. Your choice will dictate not just how fast your notes load on your phone, but how resilient your entire knowledge base is against data corruption.
 
@@ -67,7 +67,7 @@ Git brings unparalleled control over your data history. Because markdown is plai
 **Pros:**
 - Complete, granular version history allows restoring specific file states indefinitely
 - Flawless cross-platform support across Windows, macOS, Linux, and Android environments
-- Highly customizable sync intervals, automated commit messages, and backup protocols
+- Highly customizable sync intervals, automated commit messages, and [backup](/posts/what-is-the-obsidian-git-plugin-for/) protocols
 - Free remote storage via GitHub or GitLab is more than sufficient for text-heavy vaults
 - Explicit `.gitignore` support allows you to keep certain files local (like workspace layouts)
 
@@ -83,7 +83,7 @@ When evaluating speed and reliability, the winner depends entirely on the operat
 
 If you are syncing between a MacBook and an iPhone, iCloud operates with near-instantaneous speed. Changes made on the desktop usually appear on the phone within three to five seconds. However, iCloud on Windows is heavily throttled. Users attempting to sync a vault between a Windows PC and an iPhone often report delays stretching from minutes to hours, with the iCloud Windows client failing to register small text file modifications consistently. 
 
-Obsidian Git provides consistent performance regardless of the operating system. A `git push` from a Windows machine reaches GitHub instantly, and a `git pull` from an Android device retrieves it just as fast. The primary performance bottleneck with Git is binary files. If your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) involves pasting dozens of screenshots or large PDFs into your daily notes, Git repositories become bloated. Cloning a massive Git repository onto a new mobile device can take significant time, whereas iCloud streams those attachments on-demand.
+Obsidian Git provides consistent performance regardless of the operating system. A `git push` from a Windows machine reaches GitHub instantly, and a `git pull` from an Android device retrieves it just as fast. The primary performance bottleneck with Git is binary files. If your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) involves pasting dozens of screenshots or large PDFs into your [daily notes](/posts/automate-obsidian-daily-notes-using-python/), Git repositories become bloated. Cloning a massive Git repository onto a new mobile device can take significant time, whereas iCloud streams those attachments on-demand.
 
 Reliability is where Git shines. Because Git is designed for distributed software development, it is exceptionally robust against data loss. If two devices edit the same note offline, Git will flag a merge conflict and force you to resolve it, ensuring zero data is overwritten. iCloud handles conflicts poorly; it simply duplicates the file, creating fractured, messy vaults that require manual cleanup.
 
@@ -145,6 +145,8 @@ Running two syncing engines simultaneously on the same vault is highly discourag
 ---
 
 ## Related Reading
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
 
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
 

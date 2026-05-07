@@ -17,7 +17,7 @@ The greatest advantage of Obsidian is its local-first philosophy. Instead of loc
 
 Understanding exactly what resides within your Obsidian vault is the crucial first step to ensuring your data is permanently safe. Many users mistakenly believe that backing up their visible text files is enough, only to suffer a catastrophic hard drive failure and realize they lost weeks of work spent configuring plugins, custom CSS, and complex folder architectures. 
 
-This comprehensive guide provides a deep-dive explanation of Obsidian vault structure for backups. By understanding the anatomy of your vault—from the standard Markdown files to the complex system files hidden beneath the surface—you can design a foolproof, automated backup strategy that protects both your knowledge and your carefully tailored workspace environment.
+This comprehensive guide provides a deep-dive explanation of Obsidian vault structure for backups. By understanding the anatomy of your vault—from the standard Markdown files to the complex system files hidden beneath the surface—you can design a foolproof, automated [backup strategy](/posts/configuring-obsidian-for-automated-daily-backup-to-dropbox/) that protects both your knowledge and your carefully tailored workspace environment.
 
 ## The Anatomy of an Obsidian Vault
 
@@ -55,7 +55,7 @@ Directly inside the `.obsidian` folder, you will find several critical JSON file
 
 ### Community Plugins and Themes
 
-The Obsidian community has developed thousands of third-opacity plugins that radically expand the software's functionality—from adding Dataview queries and Kanban boards to integrating artificial intelligence and advanced calendar tools.
+The Obsidian community has developed thousands of third-opacity plugins that radically expand the software's functionality—from adding [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) queries and Kanban boards to integrating artificial intelligence and advanced calendar tools.
 
 - **`plugins/` Directory:** This folder contains a subfolder for every community plugin you have installed. Inside each subfolder, there is typically a `main.js` (the plugin code), a `manifest.json` (plugin metadata), and a `data.json` file. The `data.json` file is incredibly important; it stores the specific settings and parameters you have configured for that individual plugin.
 - **`themes/` Directory:** Any community themes you have downloaded from the appearance menu are stored here as CSS files.
@@ -165,7 +165,7 @@ Yes, you can store your entire Obsidian vault (including the hidden structure) d
 If you primarily write text and use standard plugins, an Obsidian vault rarely exceeds 100-200 megabytes, making it incredibly fast and cheap to back up. However, if your vault structure heavily incorporates embedded PDFs, high-resolution images, or audio recordings, the folder size can quickly scale into the tens of gigabytes, which may require upgrading your cloud storage tier.
 
 ### Do I need Obsidian Sync if I already use an external hard drive?
-Obsidian Sync and external hard drives serve different purposes. Obsidian Sync is primarily a synchronization tool designed to seamlessly keep your workspace updated across your desktop, laptop, and mobile devices in real time with end-to-end encryption. An external hard drive provides historical, automated local backups; relying exclusively on Sync without a true backup puts you at risk if you accidentally delete files and the deletion synchronizes across all devices.
+Obsidian Sync and external hard drives serve different purposes. Obsidian Sync is primarily a synchronization tool designed to seamlessly keep your workspace updated across your desktop, laptop, and mobile devices in real time with end-to-end [encryption](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/). An external hard drive provides historical, automated local backups; relying exclusively on Sync without a true backup puts you at risk if you accidentally delete files and the deletion synchronizes across all devices.
 
 ---
 

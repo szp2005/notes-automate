@@ -40,7 +40,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Obsidian stores your notes as plain Markdown files on your local drive. That's a deliberate design choice — your data stays yours. The problem is "local-first" means syncing across your laptop, desktop, phone, and tablet becomes your problem, not the app's.
 
-Obsidian's official answer is Obsidian Sync, a polished paid add-on. The community's most popular free answer is Syncthing, an open-source peer-to-peer sync tool. Both work. Neither is objectively superior. The right choice depends entirely on your situation.
+Obsidian's official answer is Obsidian Sync, a polished paid add-on. The [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/)'s most popular free answer is Syncthing, an open-source peer-to-peer sync tool. Both work. Neither is objectively superior. The right choice depends entirely on your situation.
 
 Here is the quick summary before we dig in:
 
@@ -54,7 +54,7 @@ Here is the quick summary before we dig in:
 | **Android support** | Native | Direct Syncthing app |
 | **Maintenance** | Near-zero | Occasional troubleshooting |
 | **Data control** | Obsidian holds encrypted data | You hold all data |
-| **Winner** | Convenience | Privacy + Cost |
+| **Winner** | Convenience | [Privacy](/posts/obsidian-vs-logseq-for-privacy-focused-knowledge-management/) + Cost |
 
 ---
 
@@ -237,7 +237,7 @@ No. Apple's iOS restrictions prevent third-party apps from running persistent ba
 
 ### What happens to my notes if Obsidian the company shuts down?
 
-Your notes remain on your device as plain Markdown files — you never lose them. Obsidian Sync would stop working, but you could switch to Syncthing or any other sync method the same day. This is one of the concrete benefits of Obsidian's local-first architecture.
+Your notes remain on your device as plain Markdown files — you never lose them. Obsidian Sync would stop working, but you could switch to Syncthing or any other sync [method](/posts/how-to-find-obsidian-plugin-documentation/) the same day. This is one of the concrete benefits of Obsidian's local-first architecture.
 
 ### Do I need an always-on device for Syncthing to work?
 

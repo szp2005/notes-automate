@@ -11,11 +11,11 @@ type: "informational"
 
 # Understanding the Difference Between Folders and Tags [Obsidian](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) Guide
 
-> **Quick Answer:** Folders create a rigid, physical hierarchy on your hard drive where a note can only exist in one single location, making them ideal for broad categories or access control. Tags function as flexible, non-hierarchical metadata, allowing a single note to be associated with multiple contexts, statuses, or topics simultaneously without changing its physical location.
+> **Quick Answer:** Folders create a rigid, physical hierarchy on your hard drive where a note can only exist in one single location, making them ideal for broad categories or access control. Tags function as flexible, non-hierarchical [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), allowing a single note to be associated with multiple contexts, statuses, or topics simultaneously without changing its physical location.
 
 Setting up a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system in Obsidian often stalls at the very first decision: how to organize the initial vault. Because Obsidian offers a blank canvas, users must choose an architectural foundation before they begin capturing information. The core dilemma usually revolves around understanding the difference between folders and tags obsidian users face when structuring their notes.
 
-Unlike web-based note applications that hide their file structure behind a proprietary database, Obsidian operates directly on top of your local file system. This technical distinction fundamentally changes how organizational tools operate. A folder in Obsidian is not just a visual grouping; it is a literal directory on your hard drive. A tag is not just a colored label; it is a searchable string of text or a defined property in a YAML header.
+Unlike web-based note applications that hide their file structure behind a proprietary [database](/posts/obsidian-bases-native-update-review-2026/), Obsidian operates directly on top of your local file system. This technical distinction fundamentally changes how organizational tools operate. A folder in Obsidian is not just a visual grouping; it is a literal directory on your hard drive. A tag is not just a colored label; it is a searchable string of text or a defined property in a YAML header.
 
 Choosing the wrong organizational schema can lead to friction. If your system relies entirely on deep, nested folders, you will waste time clicking through directories to file a single thought. If your system relies entirely on hundreds of unstructured tags, your vault will quickly degrade into an unsearchable mess of duplicated and misspelled metadata. 
 
@@ -57,7 +57,7 @@ Tags are optimized for cross-cutting attributes that span multiple categories or
 
 **[Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) and Status Tracking:** Tags are the standard mechanism for tracking a note's lifecycle. Tags like `#status/draft`, `#status/in-progress`, or `#action-item` allow you to query your vault for actionable work regardless of where the file actually lives. When the work is done, you simply delete or update the tag—you do not have to drag the file into a new folder.
 
-**Thematic Grouping:** When researching complex topics, notes often touch on multiple subjects. A reading note on a psychology book might be relevant to behavioral economics, habit formation, and management theory. Tagging the note with `#psychology`, `#economics`, and `#management` ensures the note surfaces whenever you search any of those specific themes.
+**Thematic Grouping:** When researching complex topics, notes often touch on multiple subjects. A reading note on a psychology book might be relevant to behavioral economics, habit formation, and management theory. Tagging the note with `#psychology`, `#economics`, and `#management` ensures the note surfaces whenever you search any of those specific [themes](/posts/things-theme-vs-minimal-theme-obsidian/).
 
 **People and Entities:** Tagging people (`#person/alex`) or companies (`#company/acme`) allows you to quickly aggregate every interaction, meeting note, or project related to that entity without forcing you to create a dedicated folder for every person you meet.
 

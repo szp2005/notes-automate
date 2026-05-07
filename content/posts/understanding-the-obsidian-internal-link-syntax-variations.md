@@ -85,7 +85,7 @@ When Obsidian renders the current note, it will seamlessly fetch the content fro
 
 Transclusion fundamentally changes how you organize a vault. Instead of writing monolithic notes, you can adopt an atomic note philosophy—writing small, distinct concepts. You can then create "Map of Content" (MOC) notes or Dashboards that consist almost entirely of transcluded sections from other notes.
 
-For example, a "Weekly Review" dashboard might contain:
+For example, a "[Weekly Review](/posts/obsidian-template-for-weekly-reflection-and-planning/)" dashboard might contain:
 `![[2026-05-01 Daily Note#Gratitude]]`
 `![[Project Phoenix#Current Blockers]]`
 `![[Active Tasks Query]]`
@@ -120,7 +120,7 @@ Standard markdown links also support header targeting. The syntax translates to:
 Understanding the syntax is only half the battle; knowing when to use which variation dictates the efficiency of your system. Here are practical guidelines for applying these link variations in a production environment.
 
 ### 1. Default to Wikilinks Unless Publishing
-If your vault is strictly for personal use, stick to the `[[Wikilink]]` syntax. It is faster to type, visually cleaner in source mode, and better supported by the vast ecosystem of Obsidian community plugins. Only switch to standard relative markdown links if you have a strict requirement to use external editors heavily or are publishing directly to a strict markdown compiler.
+If your vault is strictly for personal use, stick to the `[[Wikilink]]` syntax. It is faster to type, visually cleaner in source mode, and better supported by the vast ecosystem of Obsidian community [plugins](/posts/periodic-notes-plugin-weekly-reviews/). Only switch to standard relative markdown links if you have a strict requirement to use external editors heavily or are publishing directly to a strict markdown compiler.
 
 ### 2. Use Aliases for Organic Integration
 Never force a sentence to accommodate a note title. Use aliases aggressively. A well-maintained vault should read naturally. If you find yourself repeatedly using the same alias (e.g., aliasing "Artificial Intelligence" to "AI" hundreds of times), add `aliases: [AI]` to the frontmatter of the target note. Obsidian will then suggest it automatically, saving you keystrokes.
@@ -132,7 +132,7 @@ When linking precisely, try to link to headers (`#`) rather than blocks (`^`) wh
 Identify text you rewrite frequently—such as an author bio, a standardized project checklist, or a specific piece of reference code. Isolate this text into its own note, and use the `![[Note Name]]` transclusion syntax to embed it wherever needed. If the checklist procedure changes, you only update the source note, and every project referencing it updates instantly.
 
 ### 5. Managing Unresolved Links
-Do not be afraid of unresolved (empty) links. They are excellent placeholders. If you are writing a research paper and reference a theory you haven't researched yet, just bracket it: `[[String Theory]]`. You can use Obsidian's graph view or core search to find all "unresolved links" later, turning them into a built-in to-do list for future research.
+Do not be afraid of unresolved (empty) links. They are excellent placeholders. If you are writing a [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) paper and reference a theory you haven't researched yet, just bracket it: `[[String Theory]]`. You can use Obsidian's graph view or core search to find all "unresolved links" later, turning them into a built-in to-do list for future research.
 
 ## Conclusion
 

@@ -19,7 +19,7 @@ Most digital [note-taking](/posts/streamlining-your-daily-note-workflow-for-bett
 
 The alternative is a system optimized for synthesis and longevity. Evergreen notes, a concept popularized by researcher Andy Matuschak, are fundamentally different from standard notes. They are written for yourself, to be read in the future, and are expected to evolve over time. They are concepts, not records of events or summaries of books. 
 
-Building this kind of system requires an environment that treats data durability as a first principle. This guide details the structural methodology and daily workflows for using Obsidian to build a knowledge base that will still be accessible, readable, and highly functional twenty, thirty, or fifty years from now.
+Building this kind of system requires an environment that treats data durability as a first principle. This guide details the structural methodology and daily [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) for using Obsidian to build a knowledge base that will still be accessible, readable, and highly functional twenty, thirty, or fifty years from now.
 
 ## The Architectural Foundation of Evergreen Notes
 
@@ -42,7 +42,7 @@ Many applications offer bidirectional linking, but Obsidian is uniquely suited f
 Obsidian is not a web app. It is a local Markdown editor that reads files sitting on your hard drive. Your notes are saved as `.md` files, which are fundamentally just text files. If Obsidian ceases to exist tomorrow, your notes can be opened by any text editor, code editor, or word processor. You are not reliant on a proprietary database schema or an active internet connection to access your thoughts. This plain-text foundation is the only format proven to survive decades of computing evolution.
 
 ### The Portability of Frontmatter and Links
-Obsidian utilizes standard YAML frontmatter for metadata and standard bracket syntax (`[[link]]`) for relationships. This adherence to broad developer standards means you can easily script, modify, or migrate your entire vault. If a better plain-text application emerges in 2035, migrating from Obsidian will require moving a folder of text files, not writing a complex API extraction script.
+Obsidian utilizes standard YAML frontmatter for [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) and standard bracket syntax (`[[link]]`) for relationships. This adherence to broad developer standards means you can easily script, modify, or migrate your entire vault. If a better plain-text application emerges in 2035, migrating from Obsidian will require moving a folder of text files, not writing a complex API extraction script.
 
 ### Agnostic File System Hierarchies
 Unlike restrictive database tools, Obsidian respects the underlying file system. You can nest folders 100 levels deep, or you can keep 10,000 files in a single root directory. The software does not force a specific structural paradigm, allowing your organizational system to evolve organically as your collection of evergreen notes scales.
@@ -97,7 +97,7 @@ As notes age and grow, they can become dense. Implement progressive summarizatio
 ### Avoiding Tag Bloat
 It is tempting to tag a note with every conceivable related keyword (`#psychology #behavior #mind #science`). Over time, tag bloat renders the tagging system useless. Tags should be used for status and taxonomy, not subject matter. 
 
-Use tags to indicate the state of a note (`#status/draft`, `#status/evergreen`) or the type of note (`#type/book`, `#type/concept`). Use links (`[[Psychology]]`) for subject matter and themes. This hard separation prevents your graph from becoming noisy and unnavigable.
+Use tags to indicate the state of a note (`#status/draft`, `#status/evergreen`) or the type of note (`#type/book`, `#type/concept`). Use links (`[[Psychology]]`) for subject matter and [themes](/posts/things-theme-vs-minimal-theme-obsidian/). This hard separation prevents your graph from becoming noisy and unnavigable.
 
 ## Refactoring and the Evolution of Thought
 

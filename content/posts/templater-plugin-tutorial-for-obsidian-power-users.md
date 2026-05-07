@@ -11,11 +11,11 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# Templater Plugin Tutorial for Obsidian Power Users: Advanced Automation
+# Templater Plugin Tutorial for Obsidian Power Users: Advanced [Automation](/posts/triggering-n8n-workflows-directly-from-obsidian-notes/)
 
-> **Quick Answer:** The Templater plugin transforms Obsidian from a static text editor into an automated knowledge system. By leveraging its execution commands (`<%* %>`), system modules (`tp.file`, `tp.date`), and Javascript capabilities, power users can automate file routing, generate dynamic metadata, prompt for user inputs, and pull data from external APIs directly into their notes.
+> **Quick Answer:** The Templater plugin transforms Obsidian from a static text editor into an automated knowledge system. By leveraging its execution commands (`<%* %>`), system modules (`tp.file`, `tp.date`), and Javascript capabilities, power users can automate file routing, generate dynamic [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), prompt for user inputs, and pull data from external APIs directly into their notes.
 
-For most Obsidian users, the core Templates plugin serves as a gentle introduction to avoiding repetitive typing. It handles static text insertion and basic date stamping. However, as your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system grows into thousands of notes, static templates become a bottleneck. You end up spending more time managing metadata, moving files to the correct folders, and formatting links than actually writing or thinking.
+For most Obsidian users, the core [Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) plugin serves as a gentle introduction to avoiding repetitive typing. It handles static text insertion and basic date stamping. However, as your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system grows into thousands of notes, static templates become a bottleneck. You end up spending more time managing metadata, moving files to the correct folders, and formatting links than actually writing or thinking.
 
 This is where the Templater plugin fundamentally changes how you interact with Obsidian. It is not just a text expander; it is a full-fledged automation engine operating within your vault.
 
@@ -258,6 +258,8 @@ If a script fails, press `Ctrl + Shift + I` (or `Cmd + Option + I` on Mac) to op
 ---
 
 ## Related Reading
+
+- [Building Automated Weekly Reviews With Templater Variables](/posts/building-automated-weekly-reviews-with-templater-variables/)
 
 - [Obsidian Plugins for Academic Research: 5 Best Tools](/posts/top-5-obsidian-plugins-for-academic-research/)
 

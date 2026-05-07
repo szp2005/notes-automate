@@ -30,7 +30,7 @@ All Templater commands are wrapped in opening `<%` and closing `%>` tags. When a
 There are three primary tag types:
 *   **Execution tags (`<% ... %>`):** Used for standard commands and outputting values.
 *   **Dynamic tags (`<%+ ... %>`):** Used for commands that should update dynamically every time the file is viewed in reading mode. This is useful for "last modified" timestamps, though heavily relying on dynamic tags can impact performance in large vaults.
-*   **Command tags (`<%- ... %>` or `<% ... -%>`):** Used to strip whitespace. A hyphen on the inside of the bracket removes the preceding or trailing newline, keeping your markdown formatting clean when using complex conditional logic.
+*   **Command tags (`<%- ... %>` or `<% ... -%>`):** Used to strip whitespace. A hyphen on the inside of the bracket removes the preceding or trailing newline, keeping your [markdown formatting](/posts/linter-plugin-for-obsidian-auto-formatting/) clean when using complex conditional logic.
 
 ### The tp Object
 
@@ -44,7 +44,7 @@ Key modules include:
 
 ## Setting Up Your First Dynamic Template
 
-Before writing complex JavaScript, start by replacing static text with dynamic Templater variables. The most immediate benefit comes from automating dates and titles.
+Before [writing](/posts/best-obsidian-themes-for-writing-longform-content/) complex JavaScript, start by replacing static text with dynamic Templater variables. The most immediate benefit comes from automating dates and titles.
 
 ### Automating Daily Notes
 
@@ -118,7 +118,7 @@ This block evaluates the hour, determines the correct string, and appends it to 
 
 ### System Prompts and Suggesters
 
-While `tp.system.prompt` is excellent for freeform text, `tp.system.suggester` provides a defined list of options. This prevents typos and maintains database consistency, which is critical if you rely on folders, tags, or Dataview.
+While `tp.system.prompt` is excellent for freeform text, `tp.system.suggester` provides a defined list of options. This prevents typos and maintains [database](/posts/obsidian-bases-native-update-review-2026/) consistency, which is critical if you rely on folders, tags, or Dataview.
 
 ```markdown
 <%*
@@ -242,6 +242,8 @@ No. You can access 90% of the plugin's value using built-in commands like `<% tp
 ---
 
 ## Related Reading
+
+- [Automating Obsidian Frontmatter with Templater Scripts: 5-Step Guide](/posts/automating-obsidian-frontmatter-with-templater-scripts/)
 
 - [Automating Obsidian Frontmatter with Templater Scripts: 5-Step Guide](/posts/automating-obsidian-frontmatter-with-templater-scripts/)
 

@@ -44,7 +44,7 @@ While this might seem restrictive initially, treating course folders as temporar
 
 ## Designing the Daily Study Workflow
 
-Your daily interaction with Obsidian needs to be frictionless. When a lecture begins, you should not spend cognitive energy deciding where a note belongs or formatting its headings. Automation through templates is critical.
+Your daily interaction with Obsidian needs to be frictionless. When a lecture begins, you should not spend cognitive energy deciding where a note belongs or formatting its headings. [Automation](/posts/triggering-n8n-workflows-directly-from-obsidian-notes/) through templates is critical.
 
 ### Standardizing Lecture Notes with Templates
 
@@ -76,13 +76,13 @@ The defining feature of Obsidian is its bidirectional linking capability. For st
 
 Instead of using folders to categorize specific concepts, utilize Maps of Content (MOCs). An MOC is simply a note that serves as an index or a table of contents for a specific topic. 
 
-For example, create an MOC named `[[Neuroscience MOC]]`. Inside this note, you list and categorize links to individual, atomic notes like `[[Action Potential]]`, `[[Synaptic Pruning]]`, and `[[Neuroplasticity]]`. As you progress through your degree, different classes might reference these same concepts. A psychology class, a biology class, and an ethics seminar might all link back to `[[Neuroplasticity]]`. The MOC helps you visualize these intersections and gather all related concepts in one place, which is invaluable when writing comprehensive research papers or studying for cumulative finals.
+For example, create an MOC named `[[Neuroscience MOC]]`. Inside this note, you list and categorize links to individual, atomic notes like `[[Action Potential]]`, `[[Synaptic Pruning]]`, and `[[Neuroplasticity]]`. As you progress through your degree, different classes might reference these same concepts. A psychology class, a biology class, and an ethics seminar might all link back to `[[Neuroplasticity]]`. The MOC helps you visualize these intersections and gather all related concepts in one place, which is invaluable when writing comprehensive [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) papers or studying for cumulative finals.
 
 ### Atomic Notes for Long-Term Retention
 
 When studying, break complex textbook chapters down into smaller, self-contained ideas known as atomic notes. Instead of writing a 3,000-word summary of Chapter 4, extract specific principles into individual notes. 
 
-If you are studying economics, create separate notes for `[[Supply and Demand]]`, `[[Opportunity Cost]]`, and `[[Inflation]]`. When you later write an essay, you can seamlessly embed or reference these atomic notes. This practice, deeply rooted in the Zettelkasten methodology, forces you to process and synthesize information in your own words, dramatically improving recall and understanding.
+If you are studying economics, create separate notes for `[[Supply and Demand]]`, `[[Opportunity Cost]]`, and `[[Inflation]]`. When you later write an essay, you can seamlessly embed or reference these atomic notes. This practice, deeply rooted in the [Zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/) methodology, forces you to process and synthesize information in your own words, dramatically improving recall and understanding.
 
 ## Essential Obsidian Plugins for Students
 

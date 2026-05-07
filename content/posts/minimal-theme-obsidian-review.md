@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 **TL;DR**
 - Minimal is a free, actively maintained Obsidian theme by Kepano that strips visual noise without gutting functionality — out of the box it already beats most themes for writer focus.
-- Paired with the Style Settings and Minimal Theme Settings plugins, you get granular control over typography, color, and layout without touching a single line of CSS.
+- Paired with the Style Settings and Minimal Theme Settings [plugins](/posts/periodic-notes-plugin-weekly-reviews/), you get granular control over typography, color, and layout without touching a single line of CSS.
 - It loads fast, stays fast, and suits writers, academics, and PKM power users — but if you want decorative flair or anime-style aesthetics, look elsewhere.
 
 ---
@@ -103,7 +103,7 @@ Here are five customizations worth making on day one:
 
 If you want to go further without writing CSS yourself, the Obsidian Hub forum has dozens of community snippet collections specifically built for Minimal.
 
-To genuinely master your setup, Skillshare hosts comprehensive Obsidian courses that cover advanced workflows, YAML frontmatter, and [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) integration — all of which pair naturally with a clean Minimal configuration.
+To genuinely master your setup, Skillshare hosts comprehensive Obsidian courses that cover advanced [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/), YAML frontmatter, and [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) integration — all of which pair naturally with a clean Minimal configuration.
 
 ---
 
@@ -166,7 +166,7 @@ Minimal's overhead compared to the default is effectively zero — a rounding er
 
 If you're running Obsidian on an older machine or a budget Android tablet, Minimal is almost certainly the best-performing non-default theme available.
 
-> **Complete your minimalist workspace**: If you're building a focused writing environment, the right keyboard makes a real difference. The Keychron K3 Pro and NuPhy Air75 are both low-profile, minimal-aesthetic boards that pair well with a clean Obsidian setup. And for the philosophical foundation behind digital minimalism, *Digital Minimalism* by Cal Newport is the book that contextualizes why any of this matters.
+> **Complete your minimalist workspace**: If you're building a focused writing environment, the right keyboard makes a real difference. The Keychron K3 Pro and NuPhy Air75 are both low-profile, minimal-aesthetic boards that pair well with a clean Obsidian setup. And for the philosophical foundation behind digital [minimalism](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/), *Digital Minimalism* by Cal Newport is the book that contextualizes why any of this matters.
 
 ---
 

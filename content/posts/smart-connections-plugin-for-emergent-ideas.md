@@ -11,13 +11,13 @@ type: "informational"
 
 # Smart Connections Plugin for Emergent Ideas: Complete 2026 Setup Guide
 
-> **Quick Answer:** The Smart Connections plugin for [Obsidian](/posts/obsidian-vs-tana-structured-knowledge-management/) uses local or API-based embeddings to analyze your entire vault and surface conceptually related notes, even when no direct links exist. By clustering semantically similar concepts, it acts as an automated research assistant that highlights emergent ideas, bridges separate domains of thought, and prevents knowledge silos within large personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) systems.
+> **Quick Answer:** The Smart Connections plugin for [Obsidian](/posts/obsidian-vs-tana-structured-knowledge-management/) uses local or API-based embeddings to analyze your entire vault and surface conceptually related notes, even when no direct links exist. By clustering semantically similar concepts, it acts as an automated [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) assistant that highlights emergent ideas, bridges separate domains of thought, and prevents knowledge silos within large personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) systems.
 
 The core challenge of maintaining a large [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) system is friction. As a vault grows beyond 1,000 notes, your ability to hold the entire architecture in your head diminishes. You begin writing duplicate notes, forgetting previous insights, and worst of all, missing the subtle intersections between different fields of study. Traditional linking requires manual effort—you have to know a connection exists before you can document it.
 
 This is where AI-assisted knowledge management shifts from a novelty to a necessity. The Smart Connections plugin addresses this exact failure point. Instead of relying on exact keyword matches or manual tagging, it reads the semantic meaning behind your text. If you have a note on "stoic philosophy" and another on "cognitive behavioral therapy," the plugin recognizes the conceptual overlap and suggests a relationship.
 
-Using the Smart Connections plugin for emergent ideas allows you to move from a passive archivist to an active synthesizer. This guide breaks down how the plugin works, the optimal configuration for large vaults, and workflows designed specifically to force serendipitous connections.
+Using the Smart Connections plugin for emergent ideas allows you to move from a passive archivist to an active synthesizer. This guide breaks down how the plugin works, the optimal configuration for large vaults, and [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) designed specifically to force serendipitous connections.
 
 ## How Semantic Search Replaces Manual Tagging
 
@@ -48,7 +48,7 @@ To get the most out of the Smart Connections plugin for emergent ideas, you need
 The quality of your connections depends entirely on the embedding model. 
 
 *   **OpenAI `text-embedding-3-small` or `text-embedding-3-large`:** These are the current industry standards for API-based embeddings. They offer excellent multi-lingual support and capture deep semantic nuance. The cost is negligible for most vaults (fractions of a cent per 1,000 tokens), but it requires sending your data to OpenAI.
-*   **Local Models (via Ollama or LM Studio):** If privacy is paramount, you can run embeddings locally. Models like `nomic-embed-text` or `bge-m3` perform exceptionally well. Local models require a machine with a dedicated GPU or Apple Silicon (M1/M2/M3) for reasonable processing times, especially during the initial vault indexing.
+*   **Local Models (via Ollama or LM Studio):** If [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/) is paramount, you can run embeddings locally. Models like `nomic-embed-text` or `bge-m3` perform exceptionally well. Local models require a machine with a dedicated GPU or Apple Silicon (M1/M2/M3) for reasonable processing times, especially during the initial vault indexing.
 
 ### Fine-Tuning Relevance Thresholds
 In the plugin settings, you can adjust the confidence threshold for what constitutes a "connection." 

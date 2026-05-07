@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 **TL;DR**
 - The Obsidian Leaflet plugin turns any note into a fully interactive map using a simple code block—no GIS experience required.
-- You can pull marker data directly from YAML frontmatter and automate map population using the Dataview plugin.
+- You can pull marker data directly from YAML frontmatter and automate map population using the [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) plugin.
 - This guide goes from installation to advanced use-cases with copy-paste [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) for travelers, world-builders, and [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/).
 
 ---
@@ -54,7 +54,7 @@ The Obsidian Leaflet plugin makes all of that possible without leaving Obsidian,
 
 **Installation steps:**
 
-1. Open Obsidian and go to **Settings → Community Plugins**.
+1. Open Obsidian and go to **Settings → Community [Plugins](/posts/periodic-notes-plugin-weekly-reviews/)**.
 2. Toggle off **Safe Mode** if it's on (required for any community plugin).
 3. Click **Browse**, then search for **Obsidian Leaflet**.
 4. Click **Install**, then **Enable**.
@@ -280,7 +280,7 @@ You now have the map above and a sortable table of every mapped location below. 
 
 ## CSS Styling Guide for Maps and Markers {#css-styling-guide}
 
-Add these snippets to your vault's CSS snippets folder (**Settings → Appearance → CSS Snippets**).
+Add these snippets to your vault's [CSS snippets](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/) folder (**Settings → Appearance → CSS Snippets**).
 
 **Make the map border rounded and add a subtle shadow:**
 

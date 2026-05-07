@@ -21,7 +21,7 @@ By using Mermaid diagrams for visual note taking in Obsidian, you maintain the c
 
 ## The Shift to Plain-Text Visualization
 
-For years, the standard workflow for adding visuals to notes involved drawing in Visio, Excalidraw, or Lucidchart, exporting a PNG, and dropping it into a document. When a detail changed, the entire process had to be repeated. This friction often prevents note-takers from updating their visuals, leading to stale information.
+For years, the standard [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) for adding visuals to notes involved drawing in Visio, Excalidraw, or Lucidchart, exporting a PNG, and dropping it into a document. When a detail changed, the entire process had to be repeated. This friction often prevents note-takers from updating their visuals, leading to stale information.
 
 Mermaid shifts the paradigm by treating visual diagrams as code. Because the diagrams are defined by text strings stored right inside your Markdown files, they benefit from everything that makes plain text superior: they are searchable, version-controllable, instantly editable, and completely future-proof. If Obsidian were to disappear tomorrow, your Mermaid code would still be readable by any text editor and renderable by dozens of other applications (including GitHub, Notion, and standard web browsers).
 
@@ -157,7 +157,7 @@ For most standard diagrams, the performance impact is negligible. Mermaid diagra
 Yes. When you use Obsidian's native "Export to PDF" function, the application waits for the Mermaid JavaScript to render the diagram visually and then captures the completed image perfectly in the resulting PDF document.
 
 ### How do I fix a Mermaid diagram that says "Syntax Error"?
-Syntax errors usually stem from typos in directions (e.g., `TL` instead of `TD`), unclosed brackets, or using reserved characters (like quotes or brackets) inside node text without properly escaping them. Review the line number provided in the error box and ensure your syntax matches official Mermaid documentation.
+Syntax errors usually stem from typos in directions (e.g., `TL` instead of `TD`), unclosed brackets, or using reserved characters (like quotes or brackets) inside node text without properly escaping them. Review the line number provided in the error box and ensure your syntax matches official Mermaid [documentation](/posts/using-obsidian-to-manage-n8n-workflow-documentation/).
 
 ### Does Mermaid work on the Obsidian mobile app?
 Yes, Mermaid is natively supported on both iOS and Android versions of Obsidian. Because it requires no external plugins or file types, you can type the diagram code on your phone, and it will render exactly as it does on your desktop.

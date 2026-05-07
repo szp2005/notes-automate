@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Is Obsidian Sync Worth It in 2026? Comprehensive Review
 
-> **Quick Answer:** Yes, Obsidian Sync is worth it if you prioritize end-to-end encryption, seamless cross-platform syncing (especially between iOS and Windows), and built-in version history. However, if you only use Apple devices or have strict budget constraints, free alternatives like iCloud or Syncthing may suffice.
+> **Quick Answer:** Yes, Obsidian Sync is worth it if you prioritize end-to-end [encryption](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/), seamless cross-platform syncing (especially between iOS and Windows), and built-in version history. However, if you only use Apple devices or have strict budget constraints, free alternatives like iCloud or Syncthing may suffice.
 
 Obsidian has cemented its place as the premier local-first markdown [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) application. Because your files live locally on your hard drive, you have complete ownership over your data. But that local-first approach introduces a significant hurdle: how do you access your vault on your smartphone, tablet, and work computer simultaneously?
 
@@ -37,7 +37,7 @@ To determine if the official service is worth your money, we must look at how it
 **Price:** $4-$8/month (depending on plan and billing cycle)
 **Rating:** 4.8/5
 
-Obsidian Sync is the first-party syncing solution built directly into the Obsidian application. It offers military-grade end-to-end encryption (AES-256), meaning even the Obsidian developers cannot read your notes. It operates seamlessly in the background on all platforms, including the notoriously difficult iOS-to-Windows pipeline. It also includes up to a year of granular version history for every file, allowing you to recover accidentally deleted notes or revert unwanted changes with a single click.
+Obsidian Sync is the first-party syncing solution built directly into the Obsidian application. It offers military-grade end-to-end encryption (AES-256), meaning even the Obsidian [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) cannot read your notes. It operates seamlessly in the background on all platforms, including the notoriously difficult iOS-to-Windows pipeline. It also includes up to a year of granular version history for every file, allowing you to recover accidentally deleted notes or revert unwanted changes with a single click.
 
 **Pros:**
 - Flawless syncing across Windows, Mac, Linux, iOS, and Android
@@ -96,7 +96,7 @@ Using the community Obsidian Git plugin allows you to backup and sync your vault
 **Pros:**
 - Industry-standard version control and file history
 - Free remote storage through GitHub or GitLab
-- Perfect for users already familiar with software development workflows
+- Perfect for users already familiar with software development [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/)
 
 **Cons:**
 - Very poor mobile experience, especially on iOS

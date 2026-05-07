@@ -48,7 +48,7 @@ The philosophy here is the same one Tiago Forte outlines in Building a Second Br
 |---|---|
 | All notes in one folder | Notes sorted into `/Daily`, `/Weekly`, `/Monthly` automatically |
 | No template consistency | Same template opens every morning via hotkey |
-| No weekly review habit | Friday hotkey opens pre-built review template |
+| No [weekly review](/posts/obsidian-template-for-weekly-reflection-and-planning/) habit | Friday hotkey opens pre-built review template |
 | Monthly planning done in random notes | Monthly note auto-created on the 1st, links to that month's dailies |
 | Quarterly goals lost somewhere | `Q1-2025.md` created automatically, Dataview pulls all monthly wins |
 
@@ -112,7 +112,7 @@ I ran this plugin as my primary workflow tool for 30 consecutive days, logging o
 
 *Initial template paralysis is real.* The plugin opens a blank note if you have no template configured. Most people spend their first two hours designing elaborate templates before taking a single note. Set a 20-minute timer, build a minimal template, and improve it weekly. I've seen Reddit threads where users spent three days on templates and never took a note.
 
-*The settings UI is not intuitive for new users.* Date format strings like `YYYY-[Q]Q` for quarterly notes aren't explained in-app; you need the Moment.js documentation open in a browser tab. This is a legitimate friction point.
+*The settings UI is not intuitive for new users.* Date format strings like `YYYY-[Q]Q` for quarterly notes aren't explained in-app; you need the Moment.js [documentation](/posts/using-obsidian-to-manage-n8n-workflow-documentation/) open in a browser tab. This is a legitimate friction point.
 
 *No built-in migration tool.* If you have 300 existing daily notes in your root folder, the plugin won't move them. You handle that manually or with a script.
 
@@ -229,7 +229,7 @@ Install the Calendar plugin alongside Periodic Notes. It renders a month-view ca
 
 | Feature | Core Daily Notes | Periodic Notes | Manual Folders |
 |---|---|---|---|
-| Daily note automation | ✅ | ✅ | ❌ |
+| Daily note [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) | ✅ | ✅ | ❌ |
 | Weekly notes | ❌ | ✅ | Manual only |
 | Monthly/Quarterly/Yearly | ❌ | ✅ | Manual only |
 | Separate folders per type | ❌ | ✅ | Manual only |

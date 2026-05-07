@@ -19,7 +19,7 @@ Managing complex automation environments often becomes a logistical challenge. W
 
 When a critical pipeline fails at 3:00 AM because an undocumented API endpoint changed its pagination method, the engineer on call must waste valuable time inspecting raw node data to understand the original intent. The gap between executing logic and documenting the rationale behind that logic is where technical debt accumulates in automation systems.
 
-Obsidian, with its bidirectional linking, offline-first architecture, and markdown-based extensibility, serves as the ideal companion tool for n8n administrators. It allows teams to build a structured, queryable database of their operational logic. This guide covers the architectural patterns, template structures, and practical workflows required to integrate these two powerful systems.
+Obsidian, with its bidirectional linking, offline-first architecture, and markdown-based extensibility, serves as the ideal companion tool for n8n administrators. It allows teams to build a structured, queryable [database](/posts/obsidian-bases-native-update-review-2026/) of their operational logic. This guide covers the architectural patterns, template structures, and practical workflows required to integrate these two powerful systems.
 
 ## The Architecture of Automation Documentation
 
@@ -41,7 +41,7 @@ The foundational unit of your documentation is the Workflow Note. This note must
 
 ### Required Metadata
 
-Utilize Obsidian's Properties (YAML frontmatter) to standardize workflow metadata. This allows you to use plugins like [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) to create dynamic [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) of your n8n environment. Essential properties include:
+Utilize Obsidian's Properties (YAML frontmatter) to standardize workflow metadata. This allows you to use [plugins](/posts/periodic-notes-plugin-weekly-reviews/) like [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) to create dynamic [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) of your n8n environment. Essential properties include:
 
 *   `n8n_id`: The internal numeric or UUID of the workflow.
 *   `status`: Active, Inactive, Draft, or Deprecated.
@@ -84,7 +84,7 @@ This visibility is critical during refactoring. If you need to add a new mandato
 
 ### Visualizing Dependencies with Graph View
 
-Obsidian's native Graph View can be configured to represent your n8n ecosystem visually. By filtering the graph to only show notes tagged with `#n8n/workflow`, and coloring them based on their `status` property, you can identify central hubs (sub-workflows called frequently) and isolated processes. This visualization helps architectural planning and identifying single points of failure in your automation logic.
+Obsidian's native Graph View can be configured to represent your n8n ecosystem visually. By filtering the graph to only show notes tagged with `#n8n/workflow`, and coloring them based on their `status` property, you can identify central hubs (sub-workflows called frequently) and isolated processes. This visualization helps architectural [planning](/posts/obsidian-full-calendar-plugin-review/) and identifying single points of failure in your automation logic.
 
 ## Practical Advice for Maintenance and Sync
 

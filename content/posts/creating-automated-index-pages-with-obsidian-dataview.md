@@ -23,7 +23,7 @@ This guide explores the mechanics of creating automated index pages with Obsidia
 
 ## Understanding the Dataview Paradigm
 
-Before writing queries, it is essential to understand how Dataview interprets your vault. Dataview treats your Obsidian notes as a database. Each Markdown file is a record, and the properties within that file (creation date, tags, links, and YAML frontmatter) are the fields.
+Before writing queries, it is essential to understand how Dataview interprets your vault. Dataview treats your Obsidian notes as a [database](/posts/obsidian-bases-native-update-review-2026/). Each Markdown file is a record, and the properties within that file (creation date, tags, links, and YAML frontmatter) are the fields.
 
 When you create an automated index page, you are not writing a static document. You are creating a view—a window into the current state of your vault based on specific criteria. Because these views render dynamically when you open the note, they are never out of date.
 
@@ -178,7 +178,7 @@ Instead of a single monolithic dashboard, create modular index pages. Have one i
 
 Dataview is entirely dependent on consistent spelling and formatting. If you use `status: In Progress` on one note and `Status: in progress` on another, your index page will miss data unless your query accounts for all variations.
 
-Establish a rigid schema for your primary workflows. If using the Obsidian Properties plugin, restrict certain fields to dropdown lists rather than free-text to enforce consistency and ensure your Dataview index pages remain accurate.
+Establish a rigid schema for your primary [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/). If using the Obsidian Properties plugin, restrict certain fields to dropdown lists rather than free-text to enforce consistency and ensure your Dataview index pages remain accurate.
 
 ## Conclusion
 
@@ -190,7 +190,7 @@ Transitioning from manual linking to creating automated index pages with Obsidia
 Yes, Dataview queries render perfectly on both the iOS and Android versions of Obsidian. However, very complex queries on vaults with tens of thousands of notes may take slightly longer to load on older mobile hardware compared to a desktop environment.
 
 ### Will my Dataview queries export if I publish my vault online?
-Standard Obsidian Publish does not execute or render Dataview queries; it will only display the raw code block. To publish automated index pages, you must use a static site generator pipeline (like Astro or Hugo) configured to parse Dataview, or use third-party publishing services that explicitly support Obsidian plugins.
+Standard Obsidian Publish does not execute or render Dataview queries; it will only display the raw code block. To publish automated index pages, you must use a static site generator pipeline (like Astro or Hugo) configured to parse Dataview, or use third-party publishing services that explicitly support [Obsidian plugins](/posts/smart-connections-plugin-for-emergent-ideas/).
 
 ### What is the difference between DQL and DataviewJS?
 DQL (Dataview Query Language) is the SQL-like syntax used in standard Dataview code blocks, which is sufficient for 95% of use cases like lists and tables. DataviewJS allows you to write arbitrary JavaScript against the Dataview API, enabling complex data manipulation, custom HTML rendering, and integrations with other plugins.

@@ -25,7 +25,7 @@ The Obsidian Outliner plugin eliminates this friction entirely. By implementing 
 
 Structured thinking is the practice of breaking down complex, amorphous concepts into discrete, manageable components and arranging them logically. It is the antithesis of stream-of-consciousness writing. In the context of Personal [Knowledge Management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM), applying structure early in the note-taking process prevents information overload and ensures that stored knowledge remains retrievable and actionable.
 
-Standard long-form writing often buries key concepts within dense paragraphs, making it difficult to scan, reorder, or connect specific ideas later. Outlining forces a modular approach. Each bullet point becomes an atomic thought. When thoughts are atomic, they can be easily manipulated.
+Standard [long-form writing](/posts/obsidian-vs-scrivenir-for-long-form-writing/) often buries key concepts within dense paragraphs, making it difficult to scan, reorder, or connect specific ideas later. Outlining forces a modular approach. Each bullet point becomes an atomic thought. When thoughts are atomic, they can be easily manipulated.
 
 By enforcing hierarchy—parent nodes representing core concepts, child nodes representing supporting evidence or sub-tasks—you visually map the logical relationship between ideas. This visual mapping reveals gaps in logic, highlights areas requiring further research, and creates a natural progression from abstract theory to concrete execution. Using the Outliner plugin within Obsidian allows you to maintain this rigorous structure without sacrificing the benefits of Obsidian's bi-directional linking and graph database.
 
@@ -43,7 +43,7 @@ For users migrating from tools like Roam Research, Logseq, or Workflowy, the def
 
 ### Focus and Zoom Mechanics
 
-One of the most powerful features for deep work is the ability to zoom into a specific bullet point. By focusing on a single parent node and its children, the plugin temporarily hides the rest of the document. This isolation is critical for structured thinking, allowing you to build out a highly detailed sub-section of a project without being distracted by the overarching document structure.
+One of the most powerful features for [deep work](/posts/setting-up-obsidian-for-deep-work-session-tracking/) is the ability to zoom into a specific bullet point. By focusing on a single parent node and its children, the plugin temporarily hides the rest of the document. This isolation is critical for structured thinking, allowing you to build out a highly detailed sub-section of a project without being distracted by the overarching document structure.
 
 ### Automatic List Continuation
 
@@ -56,7 +56,7 @@ Setting up the Outliner plugin correctly ensures a stable environment that enhan
 ### 1. Installation from the Community Directory
 
 1. Open your Obsidian settings by clicking the gear icon in the lower-left corner or using the `Cmd/Ctrl + ,` shortcut.
-2. Navigate to the **Community plugins** tab.
+2. Navigate to the **Community [plugins](/posts/periodic-notes-plugin-weekly-reviews/)** tab.
 3. If you haven't already, turn off Safe Mode to allow the installation of community-developed plugins.
 4. Click **Browse** and search for "Outliner" by vslinko.
 5. Click **Install**, and once completed, click **Enable**.

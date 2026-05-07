@@ -16,7 +16,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 # Obsidian Templater Plugin Tutorial for Daily Notes: The Complete Step-by-Step Guide
 
 **TL;DR**
-- The core [Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) plugin is static; Templater runs JavaScript at note creation time, letting you pull in live dates, weather, quotes, and Dataview task lists automatically.
+- The core [Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) plugin is static; Templater runs JavaScript at note creation time, letting you pull in live dates, weather, quotes, and [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) task lists automatically.
 - This guide walks you through installation, three levels of copy-pasteable daily note templates (beginner → intermediate → advanced), and writing your first User Function to hit an external API.
 - Every snippet here is production-ready and tested in Obsidian 1.5+; you can have a working daily note [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) in under 20 minutes.
 
@@ -90,7 +90,7 @@ Enable this toggle. Then, under **Folder Templates**, map specific folders to sp
 Now whenever you create a file inside `Daily Notes/`, Templater auto-injects your template. No manual invocation needed.
 
 **Enable System Commands**
-Turn this on only if you plan to run shell scripts. Leave it off for the daily note workflows covered here—it's a security surface you don't need yet.
+Turn this on only if you plan to run shell scripts. Leave it off for the daily note [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) covered here—it's a security surface you don't need yet.
 
 ### Connecting Templater with Periodic Notes
 
@@ -324,7 +324,7 @@ Restart Obsidian after adding new script files so Templater re-indexes them.
 
 ### Pushing External Data with Webhooks
 
-For more complex integrations—pulling today's Google Calendar events, importing action items from a [project management](/posts/obsidian-project-management-academic-research-teams/) tool—consider pairing Obsidian with Make.com or Zapier. These services can watch an external trigger, format data as Markdown, and push it into your vault using the Obsidian Local REST API plugin. The daily note template then reads from a staging file that Make.com has already populated. It's a more involved setup, but it eliminates all manual data entry for recurring information.
+For more complex integrations—pulling today's [Google Calendar](/posts/integrating-google-calendar-with-obsidian-for-daily-planning/) events, importing action items from a [project management](/posts/obsidian-project-management-academic-research-teams/) tool—consider pairing Obsidian with Make.com or Zapier. These services can watch an external trigger, format data as Markdown, and push it into your vault using the Obsidian Local REST API plugin. The daily note template then reads from a staging file that Make.com has already populated. It's a more involved setup, but it eliminates all manual data entry for recurring information.
 
 ---
 

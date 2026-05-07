@@ -208,7 +208,7 @@ Turns completed task checkboxes teal and grays out the completed task text. Subt
 }
 ```
 
-The default line width in many themes is around 700px. Bumping it to 850px gives more room for tables and long lines without forcing you to go full-width.
+The default line width in many [themes](/posts/best-obsidian-themes-for-high-contrast-accessibility-2026/) is around 700px. Bumping it to 850px gives more room for tables and long lines without forcing you to go full-width.
 
 ### Snippet 6: Unique Styling for External Links
 
@@ -318,7 +318,7 @@ Snippets are surgical. Themes are architectural. Here's when each makes sense:
 
 The best approach is often **both**: pick a well-maintained community theme like Minimal, AnuPpuccin, or Things as your foundation, then add snippets for the handful of things those themes don't handle exactly how you want.
 
-Browse community themes at **Settings → Appearance → Themes → Manage**. If you want a premium, professionally designed Obsidian theme that comes with advanced customization options built in, several are available through Gumroad from independent designers who specialize in PKM aesthetics.
+Browse community themes at **Settings → Appearance → Themes → Manage**. If you want a premium, professionally designed Obsidian theme that comes with advanced [customization](/posts/minimal-theme-for-obsidian-customization-tips/) options built in, several are available through Gumroad from independent designers who specialize in PKM aesthetics.
 
 **Comparison: Snippets vs. Community Themes**
 
@@ -341,7 +341,7 @@ The `.obsidian/snippets` folder is yours. Fill it.
 
 ---
 
-**Ready to go deeper?** If you want to move from copy-pasting to writing your own rules from scratch, this beginner CSS course on Udemy is the fastest structured path — most students are writing confident CSS within a few hours. And if you decide you'd rather start with a premium professionally designed Obsidian theme as your base, check out these Gumroad options built specifically for PKM [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/). Either way, your vault, your rules.
+**Ready to go deeper?** If you want to move from copy-pasting to writing your own rules from scratch, this beginner CSS course on Udemy is the fastest structured path — most [students](/posts/organizing-complex-academic-projects-in-an-obsidian-vault/) are writing confident CSS within a few hours. And if you decide you'd rather start with a premium professionally designed Obsidian theme as your base, check out these Gumroad options built specifically for PKM [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/). Either way, your vault, your rules.
 
 ---
 

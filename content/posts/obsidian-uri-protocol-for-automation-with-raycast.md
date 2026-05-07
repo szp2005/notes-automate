@@ -39,9 +39,9 @@ The critical rule when working with URIs is URL encoding. Because spaces and spe
 
 ## Setting Up Raycast for Obsidian Automation
 
-Raycast does offer a community-built Obsidian extension in its store, which provides excellent out-of-the-box functionality for searching notes or appending text. However, relying solely on the pre-built extension limits your ability to create highly specific, multi-step workflows tailored to your exact vault structure. To unlock true automation, we must turn to Raycast Script Commands.
+Raycast does offer a community-built Obsidian extension in its store, which provides excellent out-of-the-box functionality for searching notes or appending text. However, relying solely on the pre-built extension limits your ability to create highly specific, multi-step [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) tailored to your exact vault structure. To unlock true automation, we must turn to Raycast Script Commands.
 
-Script Commands allow you to write custom scripts in Bash, Python, AppleScript, or Node.js, and execute them natively through the Raycast interface. Because macOS handles URI schemes natively via the `open` command in the terminal, triggering an Obsidian URI from a bash script is incredibly straightforward.
+Script Commands allow you to write custom scripts in Bash, [Python](/posts/connecting-obsidian-to-external-api-with-python/), AppleScript, or Node.js, and execute them natively through the Raycast interface. Because macOS handles URI schemes natively via the `open` command in the terminal, triggering an Obsidian URI from a bash script is incredibly straightforward.
 
 To create your first Raycast Script Command for Obsidian:
 1. Open Raycast and type "Create Script Command".
@@ -87,7 +87,7 @@ If you manage projects in Obsidian, you likely have "hub" notes or Kanban boards
 
 ## Supercharging Workflows with Advanced URI Plugin
 
-While the native Obsidian URI protocol is robust, it has limitations. Specifically, it struggles with appending text to existing notes without overwriting them, and it cannot easily interact with specific block references or community plugins.
+While the native Obsidian URI protocol is robust, it has limitations. Specifically, it struggles with appending text to existing notes without overwriting them, and it cannot easily interact with specific block references or community [plugins](/posts/periodic-notes-plugin-weekly-reviews/).
 
 To resolve this, power users install the "Obsidian Advanced URI" community plugin. This plugin significantly expands the URI capabilities of your vault, acting as a crucial middleware for complex automations.
 

@@ -15,7 +15,7 @@ type: "informational"
 
 Managing projects inside a [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system often leads to friction. While Obsidian excels at linking concepts and storing information, its native text-based interface can sometimes fall short when you need a top-down, visual perspective on moving pieces. Traditional task managers force you to split your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/): you keep your notes in Obsidian but track your progress in external applications like Trello, Jira, or Asana. This context switching disrupts focus and fractures your data.
 
-Using the Kanban plugin for Obsidian project management bridges this gap entirely. By rendering simple, underlying markdown as dynamic boards, this community plugin allows you to maintain the data ownership and linking capabilities of Obsidian while gaining the visual clarity of a dedicated project management tool. Every card on your board remains a plain text file or a link to one, ensuring your project metadata stays local, portable, and fully integrated with your existing personal knowledge management system.
+Using the Kanban plugin for Obsidian project management bridges this gap entirely. By rendering simple, underlying markdown as dynamic boards, this community plugin allows you to maintain the data ownership and linking capabilities of Obsidian while gaining the visual clarity of a dedicated project management tool. Every card on your board remains a plain text file or a link to one, ensuring your project [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) stays local, portable, and fully integrated with your existing [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) system.
 
 This guide details exactly how to implement, configure, and optimize the Kanban plugin to handle everything from daily task tracking to complex, multi-stage project management inside Obsidian.
 
@@ -86,7 +86,7 @@ The most straightforward implementation is the standard three-column board. This
 
 ### The Content Creation Pipeline
 
-For writers, researchers, and content creators, the Kanban plugin provides an exceptional pipeline visualization tool.
+For writers, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and content creators, the Kanban plugin provides an exceptional pipeline visualization tool.
 
 1.  **Ideas:** Fleeting thoughts and potential topics.
 2.  **Researching:** Topics currently being outlined or where reference material is being gathered.

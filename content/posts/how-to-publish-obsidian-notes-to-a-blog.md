@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** The most efficient way to publish Obsidian notes to a blog is by using a static site generator like Quartz, Astro, or Hugo. By pushing your markdown files to a GitHub repository, you can automatically deploy your local notes to platforms like Vercel or Netlify without breaking your existing [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/).
 
-For many researchers, writers, and developers, Obsidian is the central hub for knowledge. All your thoughts, drafts, and connections live locally in plain text markdown files. However, sharing that knowledge with the world historically required a fragmented workflow: drafting locally, copying text, pasting into a Content Management System (CMS) like WordPress, and manually fixing the formatting, links, and images. 
+For many [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), writers, and developers, Obsidian is the central hub for knowledge. All your thoughts, drafts, and connections live locally in plain text markdown files. However, sharing that knowledge with the world historically required a fragmented workflow: drafting locally, copying text, pasting into a Content Management System (CMS) like WordPress, and manually fixing the formatting, links, and images. 
 
 This friction often prevents valuable insights from ever leaving the local vault. If your notes are already written in markdown, you should be able to push them to the web with minimal effort. 
 
@@ -29,7 +29,7 @@ Obsidian Publish allows you to select specific folders or files within your loca
 
 The primary benefit is absolute simplicity. There are no Git repositories to configure, no build errors to troubleshoot, and no CSS to write unless you want to customize the default theme. You click the paper airplane icon in your Obsidian sidebar, select the files you want to update, and hit publish. 
 
-Obsidian Publish natively understands Obsidian-specific markdown syntax, including block references, callouts, and Dataview queries (to a limited extent). It also provides a built-in search function and interactive graph view that mirrors your local experience.
+Obsidian Publish natively understands Obsidian-specific markdown syntax, including block references, callouts, and [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) queries (to a limited extent). It also provides a built-in search function and interactive graph view that mirrors your local experience.
 
 ### Tradeoffs and Costs
 
@@ -132,7 +132,7 @@ In the build settings, set the framework preset to "None" or "Custom". Set the b
 Yes. The most secure method is to isolate all public-facing notes into a specific root folder (e.g., `/Digital-Garden`). You then point your deployment tool or static site generator strictly at that folder, ensuring notes in your private directories are never compiled or pushed to the web.
 
 ### Do wikilinks work when publishing Obsidian to a blog?
-Standard static site generators like Jekyll or basic Astro do not understand `[[wikilinks]]` by default and require custom parsing plugins. However, specialized tools like Obsidian Publish, Quartz, and specific Gatsby themes are designed to parse and render wikilinks and backlinks exactly as they appear in your local vault.
+Standard static site generators like Jekyll or basic Astro do not understand `[[wikilinks]]` by default and require custom parsing plugins. However, specialized tools like Obsidian Publish, Quartz, and specific Gatsby [themes](/posts/things-theme-vs-minimal-theme-obsidian/) are designed to parse and render wikilinks and backlinks exactly as they appear in your local vault.
 
 ### How do I handle images when publishing from Obsidian?
 If using an SSG, you must ensure your image attachment folder is accessible to the build process. Best practice is to set an override in Obsidian's settings for your public folder, saving new attachments into a subfolder like `/Public/assets`. This ensures the SSG can bundle the images alongside the HTML during deployment.

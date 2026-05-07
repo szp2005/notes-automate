@@ -105,7 +105,7 @@ This is where **Obsidian** reigns supreme. Every note, canvas, and setting in Ob
 
 Visual thinkers often have highly specific preferences for how their environment should look and behave. 
 
-**Obsidian** is famously customizable. With thousands of community plugins and [themes](/posts/things-theme-vs-minimal-theme-obsidian/), you can mold the software to do almost anything. Want to run Python scripts inside your notes? Integrate with Zotero? Build Kanban boards on your canvas? There is a plugin for that. This flexibility is Obsidian's greatest strength, but it can also be a distraction, leading users to spend more time "building the system" than doing actual research.
+**Obsidian** is famously customizable. With thousands of community plugins and [themes](/posts/things-theme-vs-minimal-theme-obsidian/), you can mold the software to do almost anything. Want to run [Python](/posts/connecting-obsidian-to-external-api-with-python/) scripts inside your notes? Integrate with [Zotero](/posts/zotero-integration-for-obsidian-academic-research/)? Build Kanban boards on your canvas? There is a plugin for that. This flexibility is Obsidian's greatest strength, but it can also be a distraction, leading users to spend more time "building the system" than doing actual research.
 
 **Heptabase** takes an opinionated approach. The developers have designed a specific workflow, and the tool guides you toward using it. There are no community plugins and minimal aesthetic customization options. The interface is clean, modern, and highly focused. This lack of customization is intentional; it forces you to stop tinkering with settings and start synthesizing your research.
 
@@ -143,7 +143,7 @@ Heptabase does have an offline mode that allows you to continue working when dis
 Obsidian Canvas files are saved as `.canvas` files, which are simply open-format JSON text files. While you cannot natively export them as interactive web pages out of the box, you can easily export them as high-resolution images, and the open JSON format allows developers to build custom export tools.
 
 ### Are there Zotero integrations for both tools?
-Obsidian has deep, community-built Zotero integrations that allow you to import citations, annotations, and bibliographies seamlessly. Heptabase is actively developing its own robust academic integrations, but currently, Obsidian offers more extensive customization for strict academic reference management.
+Obsidian has deep, community-built Zotero integrations that allow you to import [citations](/posts/top-obsidian-plugins-for-academic-writing-and-citations/), annotations, and bibliographies seamlessly. Heptabase is actively developing its own robust academic integrations, but currently, Obsidian offers more extensive customization for strict academic reference management.
 
 ---
 

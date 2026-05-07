@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # CRM in Obsidian Vault Setup: Complete 2026 Guide
 
-> **Quick Answer:** To build a CRM in an Obsidian vault, rely on the Dataview and Templater plugins to organize people and companies as markdown notes. Create a unified `Person` template with YAML properties for status, contact info, and last contact date, then use Dataview tables to aggregate your pipeline and prompt follow-ups.
+> **Quick Answer:** To build a CRM in an Obsidian vault, rely on the [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) and [Templater](/posts/automating-obsidian-frontmatter-with-templater-scripts/) plugins to organize people and companies as markdown notes. Create a unified `Person` template with YAML properties for status, contact info, and last contact date, then use Dataview tables to aggregate your pipeline and prompt follow-ups.
 
 Managing professional relationships often defaults to complex, expensive SaaS platforms. While traditional Customer Relationship Management (CRM) software is powerful for large sales teams, it frequently introduces unnecessary friction for freelancers, consultants, and independent professionals. Monthly subscription costs add up, data gets locked behind proprietary systems, and the learning curve can stall actual networking efforts.
 
@@ -48,7 +48,7 @@ Ensure both plugins are installed, enabled, and updated to their latest versions
 
 ## Structuring Contact and Organization Data
 
-The strength of an Obsidian CRM lies in its metadata. By utilizing YAML frontmatter (Obsidian Properties), you can standardize the data attached to every person or company in your network.
+The strength of an Obsidian CRM lies in its [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/). By utilizing YAML frontmatter (Obsidian Properties), you can standardize the data attached to every person or company in your network.
 
 ### The Person Template
 

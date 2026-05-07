@@ -103,7 +103,7 @@ Because of bidirectional linking, your ADR for `[[Switching from REST to GraphQL
 
 ## Step 7: Version Control and Team Syncing
 
-If you are using Obsidian solely for personal developer notes, Obsidian Sync is a secure, encrypted option for syncing your vault across devices. However, if you want to integrate your documentation with your engineering workflow, Git is the superior choice.
+If you are using Obsidian solely for personal developer notes, Obsidian Sync is a secure, encrypted option for syncing your vault across devices. However, if you want to integrate your documentation with your engineering [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/), Git is the superior choice.
 
 Using the **Obsidian Git** community plugin, you can configure your vault to automatically back up to a private GitHub, GitLab, or Bitbucket repository every few minutes. 
 
@@ -122,7 +122,7 @@ Avoid writing massive, 50-page documents. In Obsidian, a file should cover exact
 **Standardize Naming Conventions**
 A clean knowledge base requires strict naming rules. Decide early on whether you will use `CamelCase`, `kebab-case`, or natural language for your note titles. For engineering docs, prefacing notes with their domain (e.g., `API - User Authentication` or `DB - Postgres Schema`) ensures alphabetical sorting makes logical sense.
 
-**Use the Dataview Plugin for [Dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)**
+**Use the [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) Plugin for [Dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)**
 The Dataview plugin turns your Obsidian vault into a database that you can query using a SQL-like syntax. You can write a query in your main Project Dashboard that automatically lists every file tagged with `#api-endpoint` that has a status of `Incomplete`. This dynamic querying prevents documentation from going stale.
 
 **Do Not Over-Engineer the Setup**

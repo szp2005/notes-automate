@@ -25,7 +25,7 @@ To understand why this specific software pairing works so effectively, it helps 
 
 ### Readwise as the Universal Capture Engine
 
-Readwise eliminates the most significant bottleneck in personal knowledge management: the manual extraction of highlights. Whether you are reading on a Kindle, highlighting articles in Instapaper or Matter, or saving Twitter threads, Readwise aggregates these annotations into a single database. This aggregation happens quietly in the background via API integrations. 
+Readwise eliminates the most significant bottleneck in [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/): the manual extraction of highlights. Whether you are reading on a Kindle, highlighting articles in Instapaper or Matter, or saving Twitter threads, Readwise aggregates these annotations into a single database. This aggregation happens quietly in the background via API integrations. 
 
 By removing the manual labor of copying and pasting text, you ensure that every resonant idea you encounter actually makes it into your system. Readwise also supports podcast snipping via tools like Snipd, and physical book scanning using its mobile app's OCR capabilities.
 
@@ -53,7 +53,7 @@ Keeping these raw highlights segregated from your processed, permanent notes (of
 
 ## Customizing the Markdown Formatting
 
-Readwise allows you to customize exactly how your highlights are formatted when they arrive in Obsidian using the Jinja2 templating language. Taking the time to configure this template transforms raw text into highly structured metadata.
+Readwise allows you to customize exactly how your highlights are formatted when they arrive in Obsidian using the Jinja2 templating language. Taking the time to configure this template transforms raw text into highly structured [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/).
 
 ### The Page Title and YAML Frontmatter
 
@@ -108,7 +108,7 @@ You can write a simple Dataview query that automatically lists all the books you
 
 Readwise originally launched as a spaced repetition tool, surfacing past highlights via a daily email. While you can continue to use the Readwise app for this, you can also bring this functionality directly into Obsidian.
 
-Using plugins like Obsidian Spaced Repetition, you can format specific highlights or the atomic notes you derive from them as flashcards. This is particularly useful if you are using your second brain for academic study or learning a new technical skill, ensuring active recall of the most critical information.
+Using plugins like Obsidian Spaced Repetition, you can format specific highlights or the atomic notes you derive from them as [flashcards](/posts/spaced-repetition-plugin-for-obsidian-flashcards/). This is particularly useful if you are using your second brain for academic study or learning a new technical skill, ensuring active recall of the most critical information.
 
 ## Practical Advice: Structuring and Tradeoffs
 

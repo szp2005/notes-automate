@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** The Janitor plugin for Obsidian vault cleanup automates the removal of orphaned files, empty notes, and unlinked attachments that accumulate over time. By scanning your local directory and identifying assets not referenced by any active markdown file, it allows you to bulk-delete digital clutter, significantly improving vault loading times and search performance.
 
-Digital decay is an inevitable byproduct of active [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/). When you use Obsidian daily for drafting articles, clipping web content, or organizing research, your vault slowly accumulates residue. Images from deleted notes remain in your attachments folder. Placeholders you created but never filled sit empty. Files become disconnected from your graph, floating as orphans in your database. 
+Digital decay is an inevitable byproduct of active [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/). When you use Obsidian daily for drafting articles, clipping web content, or organizing [research](/posts/obsidian-vs-devonthink-for-large-research-archives/), your vault slowly accumulates residue. Images from deleted notes remain in your attachments folder. Placeholders you created but never filled sit empty. Files become disconnected from your graph, floating as orphans in your database. 
 
 Over months or years, this accumulation degrades performance. Obsidian has to index these unnecessary files every time it opens, slowing down load times and cluttering search results. Mobile synchronization across devices takes longer, consuming unnecessary bandwidth and storage space on your smartphone or tablet.
 
@@ -46,7 +46,7 @@ The primary function of Janitor is identifying unlinked attachments. When you tr
 Janitor scans for markdown files that have a file size of exactly 0 bytes, or files that contain only empty whitespace. This feature is particularly useful for users who rely on daily notes [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) but occasionally generate a day's note without adding any text, or users who create internal links to non-existent pages and then click them, generating a blank file.
 
 ### Expired File Management
-For users who utilize frontmatter dates, Janitor can be configured to flag notes that have "expired." If you use Obsidian for task management or transient project notes, you can set a metadata field like `expires: 2026-04-15`. Janitor can aggregate these expired notes, allowing you to archive or delete them in bulk, keeping your active folder clean.
+For users who utilize frontmatter dates, Janitor can be configured to flag notes that have "expired." If you use Obsidian for [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) or transient project notes, you can set a metadata field like `expires: 2026-04-15`. Janitor can aggregate these expired notes, allowing you to archive or delete them in bulk, keeping your active folder clean.
 
 ### Batch Processing Interface
 Instead of forcing you to navigate to each file individually in your operating system's file explorer, Janitor provides a modal window inside Obsidian. This window lists all flagged items by category. You can select individual files to inspect, select all, and execute bulk deletions directly from the interface. Files are moved to your system trash (or Obsidian's `.trash` folder, depending on your settings), providing a safety net in case of accidental deletion.
@@ -65,7 +65,7 @@ Implementing the Janitor plugin requires careful configuration. Because the plug
 Before running your first scan, you must define which folders Janitor should ignore. 
 
 * **Templates Folder:** If you have a folder containing template markdown files, these often do not have incoming links. Add your templates directory (e.g., `Meta/Templates`) to the exclusion list.
-* **Scripts and CSS:** Exclude any folders containing `.js`, `.css`, or Dataview scripts that operate in the background.
+* **Scripts and CSS:** Exclude any folders containing `.js`, `.css`, or [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) scripts that operate in the background.
 * **Canvas Files:** If you use Obsidian Canvas heavily, ensure your canvas folder is excluded or that the plugin is updated to the latest version that properly reads links embedded within `.canvas` JSON structures.
 
 ### Configuring the Scanning Scope

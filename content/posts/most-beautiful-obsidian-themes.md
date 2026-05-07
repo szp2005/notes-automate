@@ -82,7 +82,7 @@ What makes Things stand out is its treatment of headers. H1 through H3 scale pro
 **Best Paired With:**
 - **Style Settings**: Switch between sepia, true white, and cool gray base colors
 - **Banners**: Adds full-width header images that sit beautifully in Things' clean layout
-- **Minimal Theme Settings** equivalent customization via Style Settings toggles
+- **[Minimal Theme](/posts/things-theme-vs-minimal-theme-obsidian/) Settings** equivalent customization via Style Settings toggles
 
 **Ideal for:** macOS users, writers, people coming from Apple Notes or Bear
 
@@ -98,7 +98,7 @@ The graph view in Minimal also stands out: node colors adapt to your accent colo
 
 **Best Paired With:**
 - **Minimal Theme Settings plugin** (mandatory companion — install it immediately)
-- **Dataview**: Minimal's card and table styles make Dataview outputs genuinely attractive
+- **[Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/)**: Minimal's card and table styles make Dataview outputs genuinely attractive
 - **Kanban**: Kanban boards render crisply under Minimal's card layout mode
 
 **Ideal for:** Power users, developers, anyone who wants long-term flexibility
@@ -153,7 +153,7 @@ If you write a personal [knowledge management](/posts/using-obsidian-for-long-te
 - **Calendar plugin**: Sanctum's sidebar treatment makes the Calendar widget look genuinely refined
 - **Sliding Panes**: Multiple panes feel intentional rather than cluttered under Sanctum's spacing
 
-**Ideal for:** Academics, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), Zettelkasten practitioners, writers building long-term knowledge bases
+**Ideal for:** Academics, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), [Zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/) practitioners, writers building long-term knowledge bases
 
 ---
 

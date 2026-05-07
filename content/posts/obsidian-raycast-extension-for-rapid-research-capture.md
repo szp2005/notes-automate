@@ -53,7 +53,7 @@ Raycast's strength lies in its ability to minimize mouse usage and context switc
 
 ## Setting Up the Obsidian Raycast Extension
 
-Integrating the Obsidian Raycast extension into your workflow is a straightforward process, designed to get you capturing information rapidly with minimal friction. This section details the necessary steps for installation and initial configuration.
+Integrating the Obsidian Raycast extension into your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) is a straightforward process, designed to get you capturing information rapidly with minimal friction. This section details the necessary steps for installation and initial configuration.
 
 ### Installation Steps
 
@@ -153,7 +153,7 @@ Raycast's strength lies in its extensibility, and this extends to creating custo
 
 *   **Aliasing Commands:** You can create shorter, more memorable aliases for existing Obsidian commands. Instead of typing "Obsidian Create Note," you might set an alias like "nc" (new capture) or "qn" (quick note).
 *   **Dedicated Hotkeys:** Assign specific global hotkeys to frequently used Obsidian commands. For instance, `Ctrl + Alt + N` could directly open the "Create Note" command, bypassing the main Raycast search bar entirely. This reduces the cognitive load and physical effort for repetitive actions.
-*   **Scripting Custom Actions:** For advanced users, Raycast allows the creation of custom scripts (e.g., in JavaScript or Shell) that can interact with Obsidian. This opens up possibilities like:
+*   **Scripting Custom Actions:** For [advanced users](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), Raycast allows the creation of custom scripts (e.g., in JavaScript or Shell) that can interact with Obsidian. This opens up possibilities like:
     *   **Capture with Specific Tags:** A script that always adds `#daily-log` and `#reflection` to a new note.
     *   **Capture to Specific Folder:** A command that always creates a note in your `/Inbox` or `/Daily Notes` folder.
     *   **Automated Note Naming:** A script that generates a note title based on the current date, time, and a user-provided keyword.
@@ -170,7 +170,7 @@ Raycast's built-in Snippets feature can be combined with the Obsidian extension 
     *   A list of common tags (`#topic1 #topic2 #status`)
     *   A template for a specific type of data entry.
 *   **Triggering Snippets during Capture:** When you're in the Raycast input field for creating an Obsidian note, you can type your snippet's keyword (e.g., `;;cite`) and Raycast will automatically expand it into the full text block.
-*   **Combining with Templates:** This is particularly powerful when used in conjunction with Obsidian templates. You might have a template for "Literature Review" that includes a section for "Key Arguments." During capture, you can quickly insert a snippet for a standard argument structure, saving significant typing time.
+*   **Combining with Templates:** This is particularly powerful when used in conjunction with Obsidian templates. You might have a template for "[Literature Review](/posts/advanced-obsidian-templates-for-literature-review-matrix/)" that includes a section for "Key Arguments." During capture, you can quickly insert a snippet for a standard argument structure, saving significant typing time.
 
 By leveraging Raycast snippets, researchers can ensure consistency in their note-taking, reduce repetitive typing, and accelerate the process of populating structured notes, even during rapid capture sessions. This combination of tools creates a highly efficient and adaptable system for managing research information.
 

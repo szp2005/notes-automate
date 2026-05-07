@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** Automating your task management with Obsidian Tasks plugin requires installing the community plugin, using the global task format (`- [ ] #task`), and deploying dynamic code block queries to automatically pull, filter, and sort your action items into centralized dashboards based on due dates, priority, and tags.
 
-Keeping track of action items scattered across daily notes, project files, and meeting minutes often leads to missed deadlines and fragmented workflows. Traditional task managers force you into rigid structures, while plain text notes lack the database-like features required to aggregate and sort tasks dynamically. Obsidian, primarily known as a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system, bridges this gap when paired with the right extensions. 
+Keeping track of action items scattered across [daily notes](/posts/automate-obsidian-daily-notes-using-python/), project files, and meeting minutes often leads to missed deadlines and fragmented workflows. Traditional task managers force you into rigid structures, while plain text notes lack the [database](/posts/obsidian-bases-native-update-review-2026/)-like features required to aggregate and sort tasks dynamically. Obsidian, primarily known as a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system, bridges this gap when paired with the right extensions. 
 
 Automating your task management with Obsidian Tasks plugin transforms your interconnected vault into a powerful, automated [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system. Instead of manually copying action items into a separate to-do list application, you can write tasks directly in your project notes where they naturally occur. The plugin then automatically queries these scattered items and builds customized dashboards that update in real-time.
 
@@ -158,7 +158,7 @@ You can create a 'Backlog' or 'Someday' dashboard using a specific query. By wri
 Performance issues generally only arise when rendering complex dashboards that contain thousands of unresolved items simultaneously. The background parsing is highly optimized. To maintain speed, keep your active task count reasonable, use folder-specific queries to limit search scope, and use pagination limits in your query blocks if necessary.
 
 ### Can I change the default checkboxes to use different symbols or colors?
-The Tasks plugin supports custom task statuses. You can configure the settings to recognize different characters inside the brackets (e.g., `[>]` for forwarded, `[-]` for canceled). When combined with custom CSS snippets or themes designed for task management, these alternative statuses will automatically render with distinct colors and strikethrough styles in your dashboards.
+The Tasks plugin supports custom task statuses. You can configure the settings to recognize different characters inside the brackets (e.g., `[>]` for forwarded, `[-]` for canceled). When combined with custom CSS snippets or [themes](/posts/things-theme-vs-minimal-theme-obsidian/) designed for task management, these alternative statuses will automatically render with distinct colors and strikethrough styles in your dashboards.
 
 ---
 

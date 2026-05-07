@@ -16,7 +16,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 # Obsidian Full Calendar Plugin Review: Complete Setup Guide & [Workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) (2024)
 
 **TL;DR**
-- Full Calendar transforms Obsidian into a genuine [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) hub by rendering interactive calendar views from local notes, Google Calendar, and CalDAV sources inside your vault.
+- Full Calendar transforms Obsidian into a genuine [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) hub by rendering interactive calendar views from local notes, [Google Calendar](/posts/integrating-google-calendar-with-obsidian-for-daily-planning/), and CalDAV sources inside your vault.
 - Setup takes under 10 minutes for basic use; Google Calendar and CalDAV sync require a bit more work but the payoff is a single pane of glass for all your scheduling.
 - It beats every alternative for users who want external calendar sync—but it has real-world quirks you need to know before committing to it.
 
@@ -44,7 +44,7 @@ The Obsidian Full Calendar plugin, built by developer Davis Haupt (`davish`), co
 This is meaningfully different from the stock Obsidian Calendar plugin, which only lets you navigate daily notes chronologically. Full Calendar lets you *schedule* things, drag events across time, and pull live data from the calendars you already use.
 
 **Who gets the most out of it:**
-- **Students** tracking assignment deadlines, exam blocks, and study sessions
+- **[Students](/posts/organizing-complex-academic-projects-in-an-obsidian-vault/)** tracking assignment deadlines, exam blocks, and study sessions
 - **Content creators** running an editorial calendar with draft → publish pipelines
 - **Professionals** who live in meetings and want context-rich notes linked directly to each event
 
@@ -177,7 +177,7 @@ For users who want to build this kind of system more formally, this productivity
 
 ### Workflow 2: The Content Creator's Editorial Calendar
 
-**Setup**: One local source folder per content type—`Blog Posts`, `YouTube Scripts`, `Social Media`. Each gets a distinct color.
+**Setup**: One local source folder per content type—`Blog Posts`, `[YouTube](/posts/obsidian-plugin-automated-youtube-transcript-import/) Scripts`, `Social Media`. Each gets a distinct color.
 
 **How it works**: When you start a new piece, create it as an event with the target publish date. Add a `status` field to frontmatter (`draft`, `review`, `scheduled`, `published`). Use the month view for editorial planning—you can see at a glance whether you're clustering too many posts in one week. Drag events to redistribute. Because each event *is* a note, your full draft lives inside the calendar entry.
 

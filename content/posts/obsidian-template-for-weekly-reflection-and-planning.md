@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The ideal Obsidian template for weekly reflection and planning combines automated data aggregation (via Dataview), a structured review of past accomplishments, and dedicated sections for upcoming priorities. By separating reflection from planning, you ensure both emotional closure for the past week and clear, actionable focus for the next.
 
-A weekly review is the cornerstone of any sustainable [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system. Without it, tasks pile up, priorities blur, and you lose track of the broader trajectory of your goals. While analog journals and rigid task managers offer solutions, Obsidian provides an unparalleled environment for this practice. Its local, plain-text foundation combined with powerful community plugins allows you to build a system that reflects your exact mental model.
+A [weekly review](/posts/periodic-notes-plugin-weekly-reviews/) is the cornerstone of any sustainable [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system. Without it, tasks pile up, priorities blur, and you lose track of the broader trajectory of your goals. While analog journals and rigid task managers offer solutions, Obsidian provides an unparalleled environment for this practice. Its local, plain-text foundation combined with powerful community plugins allows you to build a system that reflects your exact mental model.
 
 However, starting from a blank page every Sunday is a recipe for friction. A well-designed Obsidian template for weekly reflection and planning removes that friction. It prompts you with the right questions, automatically pulls in data from your daily notes, and provides a clear structure to follow. 
 
@@ -29,7 +29,7 @@ Before implementing the template code, it is critical to understand the architec
 
 The gathering phase is about consolidation. Throughout the week, open loops accumulate. These include hastily written notes, unread articles, untriaged tasks, and scattered ideas. The template must provide a dedicated space to process these items. 
 
-In Obsidian, this often involves checking your daily notes for incomplete tasks. Instead of manually copying and pasting, modern Obsidian workflows use queries to automatically aggregate uncompleted tasks from the past seven days. This ensures nothing falls through the cracks and saves significant manual effort.
+In Obsidian, this often involves checking your daily notes for incomplete tasks. Instead of manually copying and pasting, modern Obsidian [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) use queries to automatically aggregate uncompleted tasks from the past seven days. This ensures nothing falls through the cracks and saves significant manual effort.
 
 ### The Reflection Phase
 
@@ -58,7 +58,7 @@ For this template to function automatically, install and enable the following pl
 
 1. **[Periodic Notes](/posts/obsidian-periodic-notes-plugin-setup-for-annual-reviews/):** This is the engine for time-based notes. It replaces the core Daily Notes plugin and adds native support for Weekly, Monthly, and Yearly notes. You will configure it to point to your designated `Templates` folder and set the output destination to a `Periodic/Weekly` folder.
 2. **[Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/):** The core Templates plugin is insufficient for advanced workflows. Templater allows you to use dynamic variables (like automatically calculating the dates of the current week) and execute internal scripts when the note is created.
-3. **Dataview:** This plugin turns your Obsidian vault into a database. It allows the template to automatically query and display tasks, habits, and notes linked to the current week.
+3. **Dataview:** This plugin turns your Obsidian vault into a [database](/posts/obsidian-bases-native-update-review-2026/). It allows the template to automatically query and display tasks, habits, and notes linked to the current week.
 4. **Calendar:** While optional, the Calendar plugin provides a visual interface in your sidebar to easily create and navigate between weekly notes by clicking on the week number.
 
 ### Configuring Templater Variables

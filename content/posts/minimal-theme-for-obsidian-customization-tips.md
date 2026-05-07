@@ -11,7 +11,7 @@ type: "informational"
 
 # Minimal Theme for Obsidian Customization Tips: Complete Guide
 
-> **Quick Answer:** The most effective way to customize the Minimal theme in Obsidian is by installing the companion "Minimal Theme Settings" and "Style Settings" community plugins. These allow you to adjust typography, toggle interface clutter, and switch color schemes (like Nord or Gruvbox) without writing code. For granular control, use Obsidian's CSS snippets feature to override specific design elements like callouts and headers.
+> **Quick Answer:** The most effective way to customize the Minimal theme in Obsidian is by installing the companion "Minimal Theme Settings" and "Style Settings" community [plugins](/posts/periodic-notes-plugin-weekly-reviews/). These allow you to adjust typography, toggle interface clutter, and switch color schemes (like Nord or Gruvbox) without writing code. For granular control, use Obsidian's [CSS snippets](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/) feature to override specific design elements like callouts and headers.
 
 The default Obsidian interface is highly functional, but out of the box, it can feel visually dense. For users who rely on Obsidian as a daily driver for personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/), writing, or task tracking, visual clutter creates cognitive friction. Enter the Minimal theme. Developed by Kepano (the CEO of Obsidian), Minimal is the most downloaded theme in the Obsidian ecosystem. It is designed to strip away unnecessary UI elements, allowing your content to take center stage. 
 
@@ -172,7 +172,7 @@ Always test your customizations on your phone. Minimal includes specific toggles
 
 The Minimal theme is not just a coat of paint for Obsidian; it is a framework for building a personalized cognitive workspace. By installing the Minimal Theme Settings and Style Settings plugins, you gain immediate control over the visual hierarchy and color theory of your vault. Moving further into CSS snippets allows you to surgically alter the interface to meet exact specifications. 
 
-The goal of these customization tips is not simply to make your vault look beautiful, but to remove friction. By optimizing line widths, selecting legible typography, and hiding redundant interface elements, you create an environment that encourages deep work and focused thought. Start with the broad strokes—a comfortable font and a cohesive color scheme—and only add advanced customizations when you identify a specific visual bottleneck in your workflow.
+The goal of these customization tips is not simply to make your vault look beautiful, but to remove friction. By optimizing line widths, selecting legible typography, and hiding redundant interface elements, you create an environment that encourages [deep work](/posts/setting-up-obsidian-for-deep-work-session-tracking/) and focused thought. Start with the broad strokes—a comfortable font and a cohesive color scheme—and only add advanced customizations when you identify a specific visual bottleneck in your workflow.
 
 ## Frequently Asked Questions
 

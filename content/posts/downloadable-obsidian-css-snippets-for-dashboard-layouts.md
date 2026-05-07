@@ -101,7 +101,7 @@ Next, structure the body of the note using standard Markdown callouts. In the co
 > - [[Server Migration]]
 
 > [!note] 📚 Current Reading
-> - "Deep Work" by Cal Newport
+> - "[Deep Work](/posts/setting-up-obsidian-for-deep-work-session-tracking/)" by Cal Newport
 > - "Atomic Habits" by James Clear
 ```
 
@@ -109,7 +109,7 @@ Because the `cssclasses: dashboard` trigger is active, the CSS snippet intercept
 
 ## Integrating Dataview with Dashboard Snippets
 
-A static dashboard that requires manual updates quickly becomes a burden. The true power of downloadable Obsidian CSS snippets for dashboard layouts is unlocked when you combine them with dynamic querying plugins, specifically Dataview.
+A static dashboard that requires manual updates quickly becomes a burden. The true power of downloadable Obsidian CSS snippets for dashboard layouts is unlocked when you combine them with dynamic querying [plugins](/posts/periodic-notes-plugin-weekly-reviews/), specifically Dataview.
 
 Dataview allows you to query your vault like a database. By placing Dataview queries directly inside your dashboard snippet containers, your start page automatically populates with new notes, overdue tasks, or recently modified files without any manual intervention.
 
@@ -144,7 +144,7 @@ A common mistake when utilizing grid CSS is filling every available pixel with i
 
 ## Conclusion
 
-Creating a functional, aesthetically pleasing start page in Obsidian does not require advanced web development skills or a degree in software engineering. By leveraging downloadable Obsidian CSS snippets for dashboard layouts, you can bypass the rigid constraints of standard Markdown and build a responsive, multi-column control center tailored exactly to your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/). 
+Creating a functional, aesthetically pleasing start page in Obsidian does not require advanced web development skills or a degree in [software engineering](/posts/how-to-use-obsidian-for-software-engineering-documentation/). By leveraging downloadable Obsidian CSS snippets for dashboard layouts, you can bypass the rigid constraints of standard Markdown and build a responsive, multi-column control center tailored exactly to your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/). 
 
 Whether you choose the modular precision of MCL, the clean simplicity of Dashboard++, or the visual focus of the Cards snippet, the underlying process remains the same: download the CSS file, apply the appropriate property classes, and construct your grids using native callouts. Paired with dynamic plugins like Dataview, your Obsidian vault transforms from a static repository of text files into a proactive, highly organized operating system for your work.
 

@@ -17,9 +17,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Obsidian's Minimal theme, developed by Kepano, remains the gold standard for Personal [Knowledge Management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) users in 2026. Its defining characteristic is its ability to fade into the background, stripping away unnecessary UI elements to leave you alone with your thoughts. However, a minimalist environment places an enormous burden on the few elements that remain—most notably, typography.
 
-Finding the best font pairings for Obsidian Minimal theme 2026 is not merely an aesthetic choice; it is a functional requirement. The right typography reduces cognitive load, minimizes eye strain during long research sessions, and helps delineate between interface navigation, active reading, and code blocks. With the widespread adoption of high-DPI OLED displays and advanced subpixel rendering on modern operating systems, the nuances of typographic design have never been more prominent. 
+Finding the best font pairings for Obsidian Minimal theme 2026 is not merely an aesthetic choice; it is a functional requirement. The right typography reduces cognitive load, minimizes eye strain during long [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) sessions, and helps delineate between interface navigation, active reading, and code blocks. With the widespread adoption of high-DPI OLED displays and advanced subpixel rendering on modern operating systems, the nuances of typographic design have never been more prominent. 
 
-Whether you are an academic building a Zettelkasten, a developer documenting complex architectures, or a writer drafting your next novel, your typography dictates the friction of your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). In this guide, we review the top font pairings that seamlessly integrate with the Minimal theme, evaluating them on legibility, aesthetic cohesion, and practical application within a digital brain.
+Whether you are an academic building a [Zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/), a developer documenting complex architectures, or a writer drafting your next novel, your typography dictates the friction of your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). In this guide, we review the top font pairings that seamlessly integrate with the Minimal theme, evaluating them on legibility, aesthetic cohesion, and practical application within a digital brain.
 
 ## Why Typography Matters in Your Obsidian Vault
 
@@ -81,7 +81,7 @@ Lora features brushed curves and driving serifs that guide the eye effortlessly 
 
 For users who treat Obsidian as a technical command center, this premium pairing delivers an uncompromising, industrial aesthetic. Berkeley Mono is a commercial typeface designed for developers. It pays homage to mid-century control room typography while offering modern ligatures and impeccable clarity. Using Berkeley Mono for both your body text and code blocks, while relegating Helvetica Neue purely to the interface, turns your vault into a high-end engineering tool.
 
-Helvetica Neue provides a clean, dense interface that stays entirely out of the way. Meanwhile, reading and writing entirely in Berkeley Mono forces a deliberate, structured pace. Every character occupies the exact same horizontal space, making technical documentation, tables, and lists align with satisfying precision. 
+Helvetica Neue provides a clean, dense interface that stays entirely out of the way. Meanwhile, reading and writing entirely in Berkeley Mono forces a deliberate, structured pace. Every character occupies the exact same horizontal space, making technical [documentation](/posts/using-obsidian-to-manage-n8n-workflow-documentation/), tables, and lists align with satisfying precision. 
 
 **Pros:**
 - Phenomenal alignment for tables, code, and structured technical notes

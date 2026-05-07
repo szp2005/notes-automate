@@ -27,7 +27,7 @@ Relying on external storage—such as a portable SSD or a high-performance USB-C
 iCloud Drive is tightly integrated into iPadOS, but it is optimized for consumer file sharing, not high-frequency text file edits. Obsidian vaults consist of hundreds or thousands of tiny Markdown files. iCloud often struggles to index these rapidly changing files, leading to duplicated files (e.g., `Note (1).md`), sync conflicts, and frustrating delays where a note appears blank until it downloads from the server. Using an external drive eliminates the network layer entirely. Your files are read and written instantly to the disk.
 
 ### Complete Data Privacy
-For legal professionals, medical [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), or anyone working under strict Non-Disclosure Agreements (NDAs), uploading notes to a third-party server is a non-starter. Even with end-to-end encryption, some enterprise environments prohibit cloud storage. An external SSD ensures that your vault physically exists only where the drive is located. When you unplug the drive, the data is completely inaccessible.
+For legal professionals, medical [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), or anyone working under strict Non-Disclosure Agreements (NDAs), uploading notes to a third-party server is a non-starter. Even with end-to-end [encryption](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/), some enterprise environments prohibit cloud storage. An external SSD ensures that your vault physically exists only where the drive is located. When you unplug the drive, the data is completely inaccessible.
 
 ### Preserving Internal iPad Storage
 Base model iPads often ship with 64GB or 128GB of internal storage. If your Obsidian vault is heavy on media—containing embedded tutorial videos, thousands of scanned PDFs, or large asset folders—it will quickly consume your device's storage. Offloading the vault to a 1TB or 2TB external SSD allows you to maintain a limitless knowledge base without constantly managing your iPad's internal capacity.
@@ -102,7 +102,7 @@ When you open Obsidian on the iPad, it reads the `.obsidian` folder from the dri
 
 ## Step 4: Backup Strategies for External Vaults
 
-Moving away from cloud sync means you are also moving away from automated cloud backups. If you lose your SSD, or if the drive suffers a mechanical failure, your data is permanently gone. You must implement a rigid local [backup strategy](/posts/configuring-obsidian-for-automated-daily-backup-to-dropbox/).
+Moving away from cloud sync means you are also moving away from automated cloud [backups](/posts/explanation-of-obsidian-vault-structure-for-backups/). If you lose your SSD, or if the drive suffers a mechanical failure, your data is permanently gone. You must implement a rigid local [backup strategy](/posts/configuring-obsidian-for-automated-daily-backup-to-dropbox/).
 
 ### The 3-2-1 Backup Rule
 Since your primary data lives on the external drive, you need secondary copies. 
@@ -120,7 +120,7 @@ If you exclusively use the iPad, you can manually backup the vault using the Fil
 4. Move this `.zip` file into your iPad's "On My iPad" storage, or upload the encrypted zip file to a cloud service like Google Drive or Dropbox for off-site safekeeping.
 
 ### Using Obsidian Git
-If you want automated version control without relying on proprietary sync, the **Obsidian Git** community plugin works exceptionally well on external drives. It can automatically commit your changes every X minutes and push them to a private GitHub repository. However, be aware that iOS heavily restricts background tasks; Obsidian Git on the iPad will only sync when the Obsidian app is actively open and running on the screen.
+If you want automated [version control](/posts/setting-up-obsidian-git-for-automated-version-control/) without relying on proprietary sync, the **Obsidian Git** community plugin works exceptionally well on external drives. It can automatically commit your changes every X minutes and push them to a private GitHub repository. However, be aware that iOS heavily restricts background tasks; Obsidian Git on the iPad will only sync when the Obsidian app is actively open and running on the screen.
 
 ## Common Pitfalls and Troubleshooting
 

@@ -13,9 +13,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Copilot for Obsidian Complete Guide: Chat With Your Notes
 
-> **Quick Answer:** Copilot for Obsidian is a community plugin that integrates large language models (LLMs) directly into your Obsidian vault. It allows you to chat with your existing markdown notes, summarize long documents, and generate text using either cloud-based APIs like OpenAI and Anthropic, or privacy-focused local models via Ollama and LM Studio.
+> **Quick Answer:** Copilot for Obsidian is a community plugin that integrates large language models (LLMs) directly into your Obsidian vault. It allows you to chat with your existing markdown notes, summarize long documents, and generate text using either cloud-based APIs like OpenAI and Anthropic, or [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/)-focused local models via Ollama and LM Studio.
 
-Managing a growing Obsidian vault eventually presents a scaling problem. As your collection of daily notes, [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) clips, and meeting minutes expands from hundreds to thousands of markdown files, standard search functions become insufficient. You remember writing down a specific insight about a project three months ago, but keyword searches only bring up fragmented context.
+Managing a growing Obsidian vault eventually presents a scaling problem. As your collection of [daily notes](/posts/automate-obsidian-daily-notes-using-python/), [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) clips, and meeting minutes expands from hundreds to thousands of markdown files, standard search functions become insufficient. You remember writing down a specific insight about a project three months ago, but keyword searches only bring up fragmented context.
 
 This is the exact problem space where bringing an AI layer directly into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system creates measurable value. Instead of copy-pasting your notes into a separate browser window running ChatGPT or Claude, you can interact with an AI that already has context on your active workspace.
 
@@ -59,7 +59,7 @@ Setting up Copilot for Obsidian is straightforward, but correctly configuring th
 
 ### 1. Install the Community Plugin
 1. Open Obsidian Settings.
-2. Navigate to **Community plugins** and ensure **Safe mode** is turned off.
+2. Navigate to **Community [plugins](/posts/periodic-notes-plugin-weekly-reviews/)** and ensure **Safe mode** is turned off.
 3. Click **Browse** and search for "Copilot".
 4. Look for the plugin created by *logancyang*. Click **Install** and then **Enable**.
 

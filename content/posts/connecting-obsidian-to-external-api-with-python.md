@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Connecting Obsidian to external APIs with Python involves writing a script that accesses your local Markdown vault using the `pathlib` module, parses file [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) using `python-frontmatter`, sends payload data to external endpoints via the `requests` library, and safely writes the structured response back into your vault.
 
-Obsidian’s primary advantage is its local, plain-text foundation. Because every note is just a Markdown file sitting in a standard directory, you are not locked into a proprietary database. While the community plugin ecosystem is robust, building custom workflows often requires learning TypeScript and navigating the Obsidian API documentation. For data scientists, backend developers, and [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) enthusiasts, there is a much faster route: leveraging Python.
+Obsidian’s primary advantage is its local, plain-text foundation. Because every note is just a Markdown file sitting in a standard directory, you are not locked into a proprietary database. While the community plugin ecosystem is robust, building custom workflows often requires learning TypeScript and navigating the Obsidian API [documentation](/posts/using-obsidian-to-manage-n8n-workflow-documentation/). For data scientists, backend developers, and [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) enthusiasts, there is a much faster route: leveraging Python.
 
 By using Python as an intermediary layer, you can bridge your local knowledge base with the entire internet. Whether you want to enrich your daily notes with weather data, automatically summarize meeting transcripts via a large language model API, or sync tasks to external [project management](/posts/obsidian-project-management-academic-research-teams/) tools like Jira or Todoist, Python provides a secure and scalable methodology. 
 
@@ -27,7 +27,7 @@ Building a native Obsidian plugin is the standard approach for adding functional
 
 First, Python's ecosystem is unparalleled for data processing and external integrations. Libraries like `requests`, `pandas`, `beautifulsoup4`, and official SDKs for major APIs (like AWS or OpenAI) allow you to implement complex logic in dozens of lines rather than hundreds. 
 
-Second, running external scripts provides superior credential management. Obsidian plugins require storing API keys within the app's settings or directly in your notes. A Python script can securely load secrets from a local `.env` file, ensuring your credentials never accidentally sync to a public repository or third-party sync service.
+Second, running external scripts provides superior credential management. [Obsidian plugins](/posts/smart-connections-plugin-for-emergent-ideas/) require storing API keys within the app's settings or directly in your notes. A Python script can securely load secrets from a local `.env` file, ensuring your credentials never accidentally sync to a public repository or third-party sync service.
 
 Finally, you gain execution independence. A Python script can run as a background daemon, a cron job on a remote server (if your vault is synced via Git or cloud storage), or be triggered via local webhooks without requiring the Obsidian application to be open.
 
@@ -73,7 +73,7 @@ Furthermore, always validate the response payload before attempting to write it 
 
 ## Updating Obsidian Notes with API Data
 
-Writing data back to Obsidian is the most critical phase. Markdown files are fragile; a missing delimiter or malformed YAML block will break Obsidian's ability to read the frontmatter, rendering features like Dataview completely broken for that file.
+Writing data back to Obsidian is the most critical phase. Markdown files are fragile; a missing delimiter or malformed YAML block will break Obsidian's ability to read the frontmatter, rendering features like [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) completely broken for that file.
 
 When appending data to the body of the note, you can simply open the file in append mode (`a`) and write the new text. However, updating frontmatter requires rewriting the entire file.
 

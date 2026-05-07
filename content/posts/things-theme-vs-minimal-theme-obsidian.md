@@ -57,7 +57,7 @@ Choosing wrong wastes hours. You set up a system, tweak CSS, build [templates](/
 | **Customization Level** | Low-to-moderate (focused CSS variables) | Very high (100+ Style Settings options) |
 | **Ideal User** | GTD practitioners, task-heavy workflows | Writers, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), power tinkerers |
 | **Style Settings Integration** | Basic support | Deep, first-class integration |
-| **Dataview Support** | Adequate, unstyled tables | Styled tables, cards, lists out of the box |
+| **[Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) Support** | Adequate, unstyled tables | Styled tables, cards, lists out of the box |
 | **Kanban Plugin Styling** | Minimal, no special treatment | Optional card styles via helper classes |
 | **Mobile Experience** | Clean, readable, limited adjustments | Responsive with mobile-specific settings |
 | **Color Schemes Built-in** | 1 (light + dark variant) | 15+ presets (Atom, Solarized, Dracula, etc.) |
@@ -102,7 +102,7 @@ Minimal is maintained by Stephan Ango (@kepano), who is also a co-founder of Obs
 
 ### Design Philosophy: Get Out of the Way
 
-The design intention is explicit in the documentation: remove everything that doesn't directly serve reading or writing. Borders are thinner. Sidebar contrast is reduced. The editor surface feels like a sheet of paper. This isn't lazy design — it's deliberate reduction that drops cognitive load for sustained writing sessions.
+The design intention is explicit in the [documentation](/posts/using-obsidian-to-manage-n8n-workflow-documentation/): remove everything that doesn't directly serve reading or writing. Borders are thinner. Sidebar contrast is reduced. The editor surface feels like a sheet of paper. This isn't lazy design — it's deliberate reduction that drops cognitive load for sustained writing sessions.
 
 ### Style Settings Integration: 100+ Knobs
 
@@ -177,7 +177,7 @@ The warm header hierarchy makes the note scannable at a glance. The deferred and
 
 ### The GTD Power-User
 
-**Profile:** Obsidian is a full task and [project management](/posts/obsidian-project-management-academic-research-teams/) system. Uses custom checkboxes, project templates, weekly review notes, and area/project/resource/archive folder structure. Loves the Things 3 aesthetic.
+**Profile:** Obsidian is a full task and [project management](/posts/obsidian-project-management-academic-research-teams/) system. Uses custom checkboxes, project templates, [weekly review](/posts/obsidian-template-for-weekly-reflection-and-planning/) notes, and area/project/resource/archive folder structure. Loves the Things 3 aesthetic.
 
 **Recommendation: Things.** The custom checkbox types alone justify the choice. The warm, structured design reinforces the GTD mental model every time the vault opens.
 
@@ -244,6 +244,8 @@ Minimal has explicit mobile-specific settings in Style Settings, including touch
 Yes. AnuPpuccin offers customizable color schemes with built-in alternate checkbox styling — it sits somewhere between the two in terms of flexibility vs. out-of-the-box completeness. Ebullient and Border themes also draw from both design languages and are worth exploring if neither Things nor Minimal clicks.
 
 ## Related Reading
+
+- [Best Font Pairings for Obsidian Minimal Theme in 2026](/posts/best-font-pairings-obsidian-minimal-theme-2026/)
 
 - [What is Excalidraw and Why Use It in Obsidian?](/posts/excalidraw-plugin-for-obsidian-review/)
 - [Why Build a Zettelkasten in Obsidian?](/posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/)

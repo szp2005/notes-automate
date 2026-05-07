@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 [Knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) requires extended screen time. For users dealing with visual impairments, astigmatism, or severe digital eye strain, the [default](/posts/things-theme-vs-minimal-theme-obsidian/) appearance of many modern applications simply falls short. Low-contrast grays on slightly lighter gray backgrounds might look sleek, but they create unnecessary friction when you are trying to parse complex notes or read for hours.
 
-Obsidian's flexibility is its greatest strength here. Because the application relies entirely on CSS for its styling, the community has developed interfaces that prioritize extreme readability without sacrificing aesthetic appeal. However, navigating the hundreds of available community themes to find those that genuinely adhere to accessibility standards can be overwhelming.
+Obsidian's flexibility is its greatest strength here. Because the application relies entirely on CSS for its styling, the [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) has developed interfaces that prioritize extreme readability without sacrificing aesthetic appeal. However, navigating the hundreds of available community themes to find those that genuinely adhere to accessibility standards can be overwhelming.
 
 This guide evaluates the standout themes engineered for visual clarity in 2026, focusing on Web Content Accessibility Guidelines (WCAG) compliance, typography scaling, and interface contrast ratios. 
 
@@ -33,11 +33,11 @@ Before evaluating specific themes, it is necessary to establish the baseline cri
 
 ## Top High Contrast Obsidian Themes for 2026
 
-The following themes have been rigorously tested for their contrast performance, customization capabilities, and overall visual ergonomics.
+The following themes have been rigorously tested for their contrast performance, [customization](/posts/minimal-theme-for-obsidian-customization-tips/) capabilities, and overall visual ergonomics.
 
 ### 1. Minimal Theme
 
-**Best for:** Power users requiring deep customization and true black/white modes
+**Best for:** [Power](/posts/using-obsidian-tasks-plugin-for-project-management/) users requiring deep customization and true black/white modes
 **Price:** Free
 **Rating:** 4.9/5
 

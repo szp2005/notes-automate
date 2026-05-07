@@ -17,7 +17,7 @@ We consume more information online than ever before, yet most of what we read sl
 
 However, a major friction point in modern digital workflows is the ingestion phase. How do you take raw data captured from the internet and elevate it into a structured, useful format without overwhelming yourself? Successfully integrating web clips into your zettelkasten note system requires a deliberate shift from collecting to connecting. It is not about saving the whole webpage; it is about extracting the atomic ideas and anchoring them into your existing web of thought.
 
-Establishing a reliable, frictionless bridge between the internet and your personal knowledge base is essential. Without a defined process, you will either stop capturing valuable insights out of frustration, or you will capture so much raw text that your Zettelkasten becomes diluted with unrefined information. This guide breaks down the complete workflow for turning web highlights into permanent, interconnected knowledge.
+Establishing a reliable, frictionless bridge between the internet and your personal knowledge base is essential. Without a defined process, you will either stop capturing valuable insights out of frustration, or you will capture so much raw text that your Zettelkasten becomes diluted with unrefined information. This guide breaks down the complete [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) for turning web highlights into permanent, interconnected knowledge.
 
 ## The Difference Between Collecting and Connecting
 
@@ -114,7 +114,7 @@ Tags are generally more flexible than rigid folder structures. Tag the permanent
 Aim for no more than 15 to 30 minutes of processing time. If you cannot process your daily captures within that timeframe, you are highlighting too much information. Constrain your reading or be more selective with your capture tool to ensure your Inbox remains manageable.
 
 ### Can I automate the creation of permanent notes using AI?
-While AI tools can automatically summarize web clips, relying on them defeats the core purpose of a Zettelkasten. The primary value of the system is the cognitive effort required to synthesize the information yourself. Outsourcing the thinking to an AI deprives you of the deep understanding and memory retention that manual processing provides. Use [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) for capturing and formatting, but reserve the synthesis for your own brain.
+While [AI tools](/posts/smart-connections-plugin-for-emergent-ideas/) can automatically summarize web clips, relying on them defeats the core purpose of a Zettelkasten. The primary value of the system is the cognitive effort required to synthesize the information yourself. Outsourcing the thinking to an AI deprives you of the deep understanding and memory retention that manual processing provides. Use [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) for capturing and formatting, but reserve the synthesis for your own brain.
 
 ---
 

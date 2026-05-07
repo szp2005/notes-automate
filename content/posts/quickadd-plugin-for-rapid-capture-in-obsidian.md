@@ -37,7 +37,7 @@ Imagine you are reading a dense academic paper and suddenly remember a task you 
 
 ### Macros: Chaining Complex Actions
 
-Macros are the powerhouse of QuickAdd, allowing you to string together multiple actions, execute JavaScript, and interact with the system clipboard. A single Macro can prompt you for input, run a script to fetch metadata from an API, format that data into a specific layout, and append it to a specific heading within a note.
+Macros are the powerhouse of QuickAdd, allowing you to string together multiple actions, execute JavaScript, and interact with the system clipboard. A single Macro can prompt you for input, run a script to fetch [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) from an API, format that data into a specific layout, and append it to a specific heading within a note.
 
 For power users, Macros bridge the gap between simple text expansion and full-scale [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/). If you frequently find yourself performing the same five-step process to process a book highlight, a Macro can reduce that process to a single keystroke.
 
@@ -96,7 +96,7 @@ When your boss calls, you trigger the command, type "Marketing Q3 Review", and i
 
 If you use Obsidian as a task manager (perhaps alongside the Tasks plugin), QuickAdd is essential. You can create a Capture action pointed specifically at an `Inbox.md` file. 
 
-Configure the capture format as `- [ ] {{VALUE}} #inbox`. By binding this to a hotkey, any time a to-do crosses your mind, you can capture it in the standard Obsidian task format without disrupting your writing or reading flow. Later, during your weekly review, you can process the `Inbox.md` file and distribute the tasks to their respective projects.
+Configure the capture format as `- [ ] {{VALUE}} #inbox`. By binding this to a hotkey, any time a to-do crosses your mind, you can capture it in the standard Obsidian task format without disrupting your writing or reading flow. Later, during your [weekly review](/posts/obsidian-template-for-weekly-reflection-and-planning/), you can process the `Inbox.md` file and distribute the tasks to their respective projects.
 
 ### Extracting Web Highlights
 
@@ -122,7 +122,7 @@ Implementing a system is only half the battle; maintaining its efficiency over t
 
 ## Conclusion
 
-The QuickAdd plugin for rapid capture in Obsidian is not just a utility; it is a fundamental shift in how you interact with your personal knowledge management system. By reducing the friction between having a thought and recording it to zero, you ensure that your vault remains a comprehensive, accurate reflection of your mind. Start small with a simple daily log capture, habituate the hotkey, and slowly expand your workflows to encompass task management, template generation, and complex macros. When configured thoughtfully, QuickAdd transforms Obsidian from a static filing cabinet into an active, frictionless extension of your cognition.
+The QuickAdd plugin for rapid capture in Obsidian is not just a utility; it is a fundamental shift in how you interact with your [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) system. By reducing the friction between having a thought and recording it to zero, you ensure that your vault remains a comprehensive, accurate reflection of your mind. Start small with a simple daily log capture, habituate the hotkey, and slowly expand your workflows to encompass task management, template generation, and complex macros. When configured thoughtfully, QuickAdd transforms Obsidian from a static filing cabinet into an active, frictionless extension of your cognition.
 
 ## Frequently Asked Questions
 

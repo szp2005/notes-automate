@@ -11,13 +11,13 @@ type: "informational"
 
 # Canvas for Obsidian: Infinite Whiteboard Ideas for 2026
 
-> **Quick Answer:** The Canvas core plugin for Obsidian turns your text-based vault into an infinite whiteboard. The best ideas for using it include creating spatial Maps of Content (MOCs), mapping out complex article structures, building visual project [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/), and clustering research PDFs into thematic zones to discover hidden connections.
+> **Quick Answer:** The Canvas core plugin for Obsidian turns your text-based vault into an infinite whiteboard. The best ideas for using it include creating spatial Maps of Content (MOCs), mapping out complex article structures, building visual project [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/), and clustering [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) PDFs into thematic zones to discover hidden connections.
 
 Visual thinkers often hit a cognitive wall when using strictly text-based personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) tools. While bidirectional linking is powerful for establishing relationships between ideas, seeing the actual spatial relationships between concepts can trigger insights that linear, top-down notes simply cannot. The introduction of the Canvas plugin bridged this gap, allowing users to arrange notes, images, PDFs, and live web pages on an infinite 2D plane. 
 
 Despite having access to this feature natively, many users stare at a blank Canvas file and struggle to figure out how to incorporate it into their existing text-heavy workflows. The shift from writing linear documents to placing cards in a spatial environment requires an entirely different mental model. It demands that you think about grouping, proximity, and visual hierarchy rather than just headings and bullet points.
 
-This comprehensive guide explores practical, high-impact Canvas for Obsidian infinite whiteboard ideas. Whether you are mapping out a long fantasy novel, preparing an [academic research](/posts/advanced-obsidian-templates-for-literature-review-matrix/) paper, or organizing your daily task management system, these setups will help you maximize the spatial reasoning capabilities of your Obsidian vault.
+This comprehensive guide explores practical, high-impact Canvas for Obsidian infinite whiteboard ideas. Whether you are mapping out a long fantasy novel, preparing an [academic research](/posts/advanced-obsidian-templates-for-literature-review-matrix/) paper, or organizing your daily [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) system, these setups will help you maximize the spatial reasoning capabilities of your Obsidian vault.
 
 ## Visualizing Research and Literature Reviews
 
@@ -81,7 +81,7 @@ When starting a new project, double-click anywhere on the Canvas to create a new
 Once you have a scattered, chaotic mess of ideas across the screen, begin the sorting phase. Drag related cards closer together. Draw connections between concepts that unexpectedly share a common thread. The physical act of moving the cards around on the screen often triggers the realization of exactly how the project should be structured.
 
 ### Process Flowcharts and Systems Design
-If you are designing a software system, a customer user journey, or a technical architecture, use the Canvas to build comprehensive flowcharts. Create cards for each step in the process and link them with directional arrows. Because these cards are fully functional Obsidian notes rather than static shapes, you can click into any step of the flowchart to read detailed documentation, write executable code snippets, or check off tasks related to that specific component.
+If you are designing a software system, a customer user journey, or a technical architecture, use the Canvas to build comprehensive flowcharts. Create cards for each step in the process and link them with directional arrows. Because these cards are fully functional Obsidian notes rather than static shapes, you can click into any step of the flowchart to read detailed [documentation](/posts/using-obsidian-to-manage-n8n-workflow-documentation/), write executable code snippets, or check off tasks related to that specific component.
 
 ## Practical Advice for Canvas Management
 

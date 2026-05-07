@@ -19,7 +19,7 @@ Knowledge workers, [academic researchers](/posts/using-obsidian-for-longitudinal
 
 The debate between Obsidian and DEVONthink represents a fundamental divergence in how we approach information architecture. One system relies on decentralized, networked thought built atop universally readable text files. The other acts as a monolithic, highly intelligent database designed to index and retrieve every document type across a specific operating system environment. 
 
-Choosing between Obsidian and DEVONthink for large research archives requires evaluating how you capture information, how you retrieve it, and the file formats that dominate your day-to-day workflow. This comparison examines how both platforms scale when pushed to the limits of personal research environments.
+Choosing between Obsidian and DEVONthink for large research archives requires evaluating how you capture information, how you retrieve it, and the file formats that dominate your day-to-day [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/). This comparison examines how both platforms scale when pushed to the limits of personal research environments.
 
 ## The Architecture of Scale
 
@@ -37,7 +37,7 @@ Obsidian, conversely, operates purely on a local folder of files—predominantly
 
 DEVONthink operates as a robust, Mac-centric document repository capable of digesting almost any file type you throw at it. It uses an integrated OCR (Optical Character Recognition) engine to make scanned PDFs and images fully searchable, and it provides a unique "See Also" AI feature that surfaces contextually related documents across a massive database without relying on manual tags or links. 
 
-For users dealing with gigabytes of legal briefs, academic papers, downloaded web archives, and email exports, DEVONthink acts as an unparalleled search engine. Its smart rules and AppleScript integration allow for deep automation, such as auto-sorting incoming PDFs into specific databases based on their content, moving items based on date metadata, or extracting specific annotations into a clean text file. 
+For users dealing with gigabytes of legal briefs, academic papers, downloaded web archives, and email exports, DEVONthink acts as an unparalleled search engine. Its smart rules and AppleScript integration allow for deep [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/), such as auto-sorting incoming PDFs into specific databases based on their content, moving items based on date metadata, or extracting specific annotations into a clean text file. 
 
 **Pros:**
 - Exceptional AI-driven search and document classification capabilities

@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** The Spaced Repetition plugin for Obsidian flashcards integrates active recall directly into your markdown notes. By using specific syntax (like `::` or `==`) to create flashcards inline, you can review concepts at algorithmically determined intervals without leaving your vault, ensuring long-term knowledge retention.
 
-When managing a growing library of notes, capturing information is only half the battle. Remembering and retaining that knowledge over time requires active engagement. For students, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and lifelong learners using Obsidian, relying on passive reading often leads to the natural decay of memory—the forgetting curve—wiping out valuable insights within weeks of writing them down.
+When managing a growing library of notes, capturing information is only half the battle. Remembering and retaining that knowledge over time requires active engagement. For [students](/posts/organizing-complex-academic-projects-in-an-obsidian-vault/), [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and lifelong learners using Obsidian, relying on passive reading often leads to the natural decay of memory—the forgetting curve—wiping out valuable insights within weeks of writing them down.
 
 Integrating active recall into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system is critical for preventing this knowledge loss. While dedicated applications like Anki or SuperMemo have dominated the flashcard space for decades, they force you to export your notes and sever the connection between your raw thoughts and your study materials. 
 
@@ -21,7 +21,7 @@ The Spaced Repetition plugin for Obsidian transforms any standard markdown note 
 
 ## The Mechanics of Spaced Repetition in Markdown
 
-Before configuring the software, it helps to understand how Obsidian handles spaced repetition structurally. Unlike Anki, which stores cards in a proprietary database, the Obsidian Spaced Repetition plugin uses plain text parsing. It reads your markdown files, looks for specific character triggers, and treats the surrounding text as the front and back of a card.
+Before configuring the software, it helps to understand how Obsidian handles spaced repetition structurally. Unlike Anki, which stores cards in a proprietary [database](/posts/obsidian-bases-native-update-review-2026/), the Obsidian Spaced Repetition plugin uses plain text parsing. It reads your markdown files, looks for specific character triggers, and treats the surrounding text as the front and back of a card.
 
 When you review a card and grade your performance (Hard, Good, or Easy), the plugin appends an invisible HTML comment containing scheduling data directly beneath the flashcard text in your markdown file. This means your review history is stored as plain text [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) inside your notes, keeping your vault entirely future-proof and portable.
 
@@ -37,7 +37,7 @@ By using the Spaced Repetition plugin for Obsidian flashcards, the card and the 
 
 Setting up the system requires installing the community plugin and adjusting several default parameters to match your study habits.
 
-To install the tool, open your Obsidian settings, navigate to Community Plugins, disable Safe Mode if you haven't already, and search for "Spaced Repetition" by st3v3nmw. Install and enable the plugin. Once activated, a new icon will appear in your left ribbon, and a new settings tab will become available.
+To install the tool, open your Obsidian settings, navigate to Community [Plugins](/posts/periodic-notes-plugin-weekly-reviews/), disable Safe Mode if you haven't already, and search for "Spaced Repetition" by st3v3nmw. Install and enable the plugin. Once activated, a new icon will appear in your left ribbon, and a new settings tab will become available.
 
 ### Core Settings to Tweak First
 

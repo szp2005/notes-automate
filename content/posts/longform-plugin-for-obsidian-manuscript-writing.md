@@ -13,11 +13,11 @@ type: "informational"
 
 > **Quick Answer:** The Longform plugin transforms Obsidian from a standard [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) environment into a structured manuscript editor resembling Scrivener. It allows writers to organize individual markdown files into ordered scenes and chapters, arrange them via a drag-and-drop sidebar, and compile them into a single, cohesive manuscript file without altering the core vault hierarchy.
 
-Writing a book, dissertation, or lengthy essay in standard markdown applications often devolves into a disorganized folder of disjointed text files. While dedicated writing software like Scrivener or Ulysses handles complex document structures beautifully, many writers prefer the privacy, speed, and cross-linking capabilities of Obsidian. The friction occurs when attempting to sequence 80 different scene files into a linear narrative. 
+Writing a book, dissertation, or lengthy essay in standard markdown applications often devolves into a disorganized folder of disjointed text files. While dedicated writing software like Scrivener or Ulysses handles complex document structures beautifully, many writers prefer the [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/), speed, and cross-linking capabilities of Obsidian. The friction occurs when attempting to sequence 80 different scene files into a linear narrative. 
 
 The Longform plugin bridges this gap. It provides a non-destructive structural layer over your existing markdown files, allowing you to sequence, draft, and compile large-scale writing projects directly within your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system. 
 
-By treating individual notes as modular scenes, Longform gives you the flexibility to move pieces of your narrative around without tedious copy-pasting. This guide breaks down how to configure the plugin, structure your vault, and utilize advanced workflows to manage complex manuscript writing in Obsidian.
+By treating individual notes as modular scenes, Longform gives you the flexibility to move pieces of your narrative around without tedious copy-pasting. This guide breaks down how to configure the plugin, structure your vault, and utilize advanced [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) to manage complex manuscript writing in Obsidian.
 
 ## Core Concepts of the Longform Plugin
 
@@ -112,7 +112,7 @@ wordcount: 1250
 ---
 ```
 
-While Longform manages the sequence, you can use the Dataview plugin to query this metadata. You can create a dashboard note outside of your manuscript folder that uses Dataview to list all scenes where `status: first-draft`, giving you a clear roadmap of what needs editing next.
+While Longform manages the sequence, you can use the [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) plugin to query this metadata. You can create a dashboard note outside of your manuscript folder that uses Dataview to list all scenes where `status: first-draft`, giving you a clear roadmap of what needs editing next.
 
 ## Compiling and Exporting Your Work
 

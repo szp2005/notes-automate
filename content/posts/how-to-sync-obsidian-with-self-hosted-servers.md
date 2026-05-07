@@ -26,7 +26,7 @@ Self-hosting your Obsidian vault synchronization means your valuable notes remai
 The decision to self-host Obsidian synchronization is often driven by a confluence of factors centered around data sovereignty, cost-efficiency, and customization. Understanding these motivations is crucial for selecting the most appropriate self-hosting strategy.
 
 ### Enhanced Data Privacy and Security
-One of the primary drivers for self-hosting is the desire for complete control over data privacy. When using third-party cloud services, even encrypted ones, there's an inherent trust placed in the service provider. Self-hosting eliminates this dependency, ensuring that your sensitive notes and intellectual property never leave your controlled environment. This is particularly critical for professionals handling confidential information, researchers managing proprietary data, or anyone with a strong personal stance on digital privacy. By keeping data on your own servers, you dictate the security protocols, access controls, and backup strategies, providing a level of assurance unmatched by external services.
+One of the primary drivers for self-hosting is the desire for complete control over data privacy. When using third-party cloud services, even encrypted ones, there's an inherent trust placed in the service provider. Self-hosting eliminates this dependency, ensuring that your sensitive notes and intellectual property never leave your controlled environment. This is particularly critical for professionals handling confidential information, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/) managing proprietary data, or anyone with a strong personal stance on digital privacy. By keeping data on your own servers, you dictate the security protocols, access controls, and backup strategies, providing a level of assurance unmatched by external services.
 
 ### Cost-Effectiveness Over Time
 While initial setup for self-hosting might involve some time investment, it can prove more cost-effective in the long run compared to recurring subscription fees for cloud synchronization services. For users with existing server infrastructure—be it a home NAS, a dedicated server, or a virtual private server (VPS)—the marginal cost of adding Obsidian sync capabilities is often minimal. This is especially true for power users with multiple vaults or those who anticipate long-term usage, where subscription costs can accumulate significantly over years. Open-source solutions, which form the backbone of many self-hosting strategies, typically incur no software licensing fees, further enhancing their economic appeal.
@@ -42,7 +42,7 @@ The simplicity of Markdown files means that conflicts (when the same file is mod
 
 ## Method 1: Git-Based Synchronization
 
-Git is a distributed version control system renowned for tracking changes in source code, but its capabilities extend perfectly to managing Obsidian vaults. By treating your vault as a Git repository, you gain robust version history, conflict resolution tools, and the ability to revert to previous states, making it an exceptionally powerful method for self-hosted synchronization.
+Git is a distributed [version control](/posts/setting-up-obsidian-git-for-automated-version-control/) system renowned for tracking changes in source code, but its capabilities extend perfectly to managing Obsidian vaults. By treating your vault as a Git repository, you gain robust version history, conflict resolution tools, and the ability to revert to previous states, making it an exceptionally powerful method for self-hosted synchronization.
 
 ### How Git Works for Obsidian
 Each Obsidian vault becomes a Git repository. When you make changes on one device, you "commit" those changes to the local Git repository and then "push" them to a remote Git server (your self-hosted server). On another device, you "pull" these changes from the remote server to update your local vault. This process ensures that all changes are tracked, and potential conflicts are highlighted for manual resolution.
@@ -106,7 +106,7 @@ Syncthing is an open-source, peer-to-peer file synchronization application. It a
 4.  **Conflict Resolution:** Syncthing handles conflicts by creating `.sync-conflict` files, preserving both versions for manual review.
 
 #### Advantages and Disadvantages of Syncthing
-*   **Advantages:** Decentralized (no single point of failure), end-to-end encryption, real-time sync, cross-platform, excellent for local network sync, highly configurable.
+*   **Advantages:** Decentralized (no single point of failure), end-to-end [encryption](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/), real-time sync, cross-platform, excellent for local network sync, highly configurable.
 *   **Disadvantages:** Can be resource-intensive on mobile, initial setup can be confusing for beginners, requires all devices to be online for direct peer-to-peer sync (unless a relay server is used).
 
 ### Nextcloud

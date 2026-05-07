@@ -63,10 +63,10 @@ Before touching any plugin settings, confirm you have the following in place:
 
 - **A Google Account** with Drive access. Your free 15 GB is enough for most vaults; heavy attachment users may want to expand.
 - **Obsidian installed on your primary computer** (Windows, macOS, or Linux). Download it from obsidian.md if needed.
-- **Obsidian installed on every secondary device** — Android phone, iPhone, iPad, second laptop, etc.
+- **Obsidian installed on every secondary device** — Android phone, iPhone, iPad, [second](/posts/obsidian-anki-vs-spaced-repetition-plugin/) laptop, etc.
 - **Community [plugins](/posts/periodic-notes-plugin-weekly-reviews/) enabled.** By default, Obsidian ships in "Restricted mode," which blocks all third-party plugins. Go to **Settings → Community plugins** and click **Turn on community plugins**. You'll see a one-time warning about third-party code — click **I understand** to proceed.
 
-> 💼 **Power-user note:** If you manage notes for a team or small business and need more than 15 GB, Google Workspace starts at around $6/user/month and gives each account a minimum of 30 GB pooled storage, along with shared drives and admin controls. Worth the upgrade if your vault contains project [documentation](/posts/how-to-use-obsidian-for-software-engineering-documentation/), client files, or large media attachments.
+> 💼 **Power-user note:** If you [manage](/posts/using-obsidian-tasks-plugin-for-project-management/) notes for a team or small business and need more than 15 GB, Google Workspace starts at around $6/user/month and gives each account a minimum of 30 GB pooled storage, along with shared drives and admin controls. Worth the upgrade if your vault contains project [documentation](/posts/how-to-use-obsidian-for-software-engineering-documentation/), client files, or large media attachments.
 
 ---
 
@@ -89,7 +89,7 @@ You'll now see **Remotely Save** listed under your installed plugins. A small cl
 
 ## Step 2: Configure Remotely Save with Your Google Drive Account {#step-2}
 
-This is the most important step. Take it slowly.
+This is the most [important](/posts/best-obsidian-themes-for-writing-longform-content/) step. Take it slowly.
 
 1. In **Settings**, scroll down the left sidebar until you see **Remotely Save** under the "Plugin Options" section. Click it.
 2. At the top of the plugin settings, find the **Remote Service** dropdown. It defaults to **Dropbox**. Click the dropdown and select **Google Drive (GDrive)**.

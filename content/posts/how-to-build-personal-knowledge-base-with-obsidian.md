@@ -11,7 +11,7 @@ type: "informational"
 
 # Personal Knowledge Base with Obsidian Setup: 5-Step Guide
 
-> **Quick Answer:** To build a personal knowledge base with Obsidian, start by creating a central vault and establishing a basic folder structure for your daily notes, source materials, and permanent ideas. Use Obsidian's bidirectional linking (`[[link]]`) to connect related concepts naturally as you write, rather than relying strictly on rigid folders. Adopt a progressive summarization workflow to turn raw information into your own interconnected insights over time.
+> **Quick Answer:** To build a personal knowledge base with Obsidian, start by creating a central vault and establishing a basic folder structure for your daily notes, source materials, and permanent ideas. Use Obsidian's bidirectional linking (`[[link]]`) to connect related concepts naturally as you write, rather than relying strictly on rigid folders. Adopt a progressive summarization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) to turn raw information into your own interconnected insights over time.
 
 Information overload is the defining challenge of modern knowledge work. You read articles, listen to podcasts, and take meeting notes, but when it comes time to synthesize that information into a cohesive project or insight, those isolated fragments are impossible to find. Relying on your memory or a chaotic downloads folder inevitably leads to lost ideas and duplicated effort.
 
@@ -91,7 +91,7 @@ Start with Obsidian's built-in plugins before installing third-party community t
 **Community Plugins (Use Sparingly):**
 While the Obsidian community offers thousands of plugins, adding too many will slow down your application and create dependencies that threaten the longevity of your plain text files. Limit yourself to high-leverage tools:
 - **Dataview:** Turns your vault into a database, allowing you to query notes by tags, folders, or metadata.
-- **Templater:** An advanced version of the core template plugin, allowing for automated date insertion and cursor placement.
+- **[Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/):** An advanced version of the core template plugin, allowing for automated date insertion and cursor placement.
 - **Omnisearch:** Significantly improves Obsidian's native search algorithm, including OCR for text within images.
 
 **Metadata and Frontmatter:**

@@ -19,7 +19,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 **TL;DR**
 
-- The best Obsidian habit tracking setup depends on your skill level: the **Habits plugin** wins for speed, **Tracker plugin** wins for visualization, and **Dataview + Templater** wins for full control.
+- The best Obsidian habit tracking setup depends on your skill level: the **Habits plugin** wins for speed, **Tracker plugin** wins for visualization, and **[Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) + [Templater](/posts/automating-obsidian-frontmatter-with-templater-scripts/)** wins for full control.
 - A comparison table below rates all four methods on setup difficulty, mobile support, visualization, and maintenance load so you can make an informed choice in 60 seconds.
 - This article includes a working starter template you can drop into your vault today—no configuration required.
 
@@ -49,7 +49,7 @@ Obsidian solves this by keeping habit data in the same place where you think. Th
 
 - **Integration with your PKM.** Habit data lives next to your daily notes, weekly reviews, project pages, and goals. You can build queries that cross-reference all of them.
 - **Complete customization.** No app developer decides what "habits" look like for you. Track anything: medication, mood, word count, sleep quality, whether you left your phone in another room.
-- **Data privacy and ownership.** Every check, every score, every streak is a plain `.md` file on your local drive. No subscription cancels your history. No server breach exposes your sleep data. If Obsidian dies tomorrow, your data is still readable in any text editor.
+- **Data [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/) and ownership.** Every check, every score, every streak is a plain `.md` file on your local drive. No subscription cancels your history. No server breach exposes your sleep data. If Obsidian dies tomorrow, your data is still readable in any text editor.
 - **No recurring cost per feature.** Dedicated apps like Streaks, HabitBull, or Notion charge for the features you'll actually want. Obsidian is free; most plugins are free; Obsidian Sync is the only optional paid component worth considering seriously.
 
 **Honest challenges you should know about upfront:**
