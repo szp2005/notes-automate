@@ -167,3 +167,5 @@ Yes, if you value your time. While you can find free snippets on GitHub or the O
 ## Related Reading
 
 - [Automating Obsidian Frontmatter with Templater Scripts: 5-Step Guide](/posts/automating-obsidian-frontmatter-with-templater-scripts/)
+
+- [Automating Obsidian Frontmatter with Templater Scripts: 5-Step Guide](/posts/automating-obsidian-frontmatter-with-templater-scripts/)

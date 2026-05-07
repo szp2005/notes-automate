@@ -118,3 +118,9 @@ In large vaults (over 5,000 notes) with extensive metadata, Dataview can increas
 
 ### Is Obsidian's built-in Properties feature a replacement for Dataview?
 No. Obsidian Properties provides a native, standardized UI for inputting and managing YAML metadata. However, it does not include a mechanism for querying or displaying that metadata dynamically on a dashboard; you still need Dataview to aggregate and display those Properties.
+
+---
+
+## Related Reading
+
+- [Best Font Pairings for Obsidian Minimal Theme in 2026](/posts/best-font-pairings-obsidian-minimal-theme-2026/)

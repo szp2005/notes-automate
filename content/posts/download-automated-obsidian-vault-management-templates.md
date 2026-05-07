@@ -111,3 +111,5 @@ Yes, most automated templates work on the mobile app, provided all the necessary
 ## Related Reading
 
 - [Best Obsidian Themes for Writing Longform Content](/posts/best-obsidian-themes-for-writing-longform-content/)
+
+- [Best Obsidian Themes for Writing Longform Content](/posts/best-obsidian-themes-for-writing-longform-content/)
