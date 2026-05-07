@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** The Spaced Repetition plugin for Obsidian flashcards integrates active recall directly into your markdown notes. By using specific syntax (like `::` or `==`) to create flashcards inline, you can review concepts at algorithmically determined intervals without leaving your vault, ensuring long-term knowledge retention.
 
-When managing a growing library of notes, capturing information is only half the battle. Remembering and retaining that knowledge over time requires active engagement. For students, researchers, and lifelong learners using Obsidian, relying on passive reading often leads to the natural decay of memory—the forgetting curve—wiping out valuable insights within weeks of writing them down.
+When managing a growing library of notes, capturing information is only half the battle. Remembering and retaining that knowledge over time requires active engagement. For students, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and lifelong learners using Obsidian, relying on passive reading often leads to the natural decay of memory—the forgetting curve—wiping out valuable insights within weeks of writing them down.
 
 Integrating active recall into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system is critical for preventing this knowledge loss. While dedicated applications like Anki or SuperMemo have dominated the flashcard space for decades, they force you to export your notes and sever the connection between your raw thoughts and your study materials. 
 
@@ -23,7 +23,7 @@ The Spaced Repetition plugin for Obsidian transforms any standard markdown note 
 
 Before configuring the software, it helps to understand how Obsidian handles spaced repetition structurally. Unlike Anki, which stores cards in a proprietary database, the Obsidian Spaced Repetition plugin uses plain text parsing. It reads your markdown files, looks for specific character triggers, and treats the surrounding text as the front and back of a card.
 
-When you review a card and grade your performance (Hard, Good, or Easy), the plugin appends an invisible HTML comment containing scheduling data directly beneath the flashcard text in your markdown file. This means your review history is stored as plain text metadata inside your notes, keeping your vault entirely future-proof and portable.
+When you review a card and grade your performance (Hard, Good, or Easy), the plugin appends an invisible HTML comment containing scheduling data directly beneath the flashcard text in your markdown file. This means your review history is stored as plain text [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) inside your notes, keeping your vault entirely future-proof and portable.
 
 ### The Problem with Disconnected Tools
 
@@ -139,7 +139,7 @@ When you identify a leech in Obsidian, you have a distinct advantage. Because th
 The software will only schedule the cards; the quality of your learning depends entirely on the quality of your prompts. Follow these principles to ensure your Obsidian flashcards actually improve your retention.
 
 **Keep it completely atomic.** 
-The most common mistake beginners make is putting entire paragraphs on the back of a card. If a card asks for the four causes of a historical event, and you only remember three, how do you grade it? Hard? Good? Atomic design dictates that one card should test exactly one fact. Instead of "What are the four principles of object-oriented programming?", create four separate cards, or use a cloze deletion for each principle. 
+The most common mistake [beginners](/posts/obsidian-vault-structure-digital-gardening-beginners/) make is putting entire paragraphs on the back of a card. If a card asks for the four causes of a historical event, and you only remember three, how do you grade it? Hard? Good? Atomic design dictates that one card should test exactly one fact. Instead of "What are the four principles of object-oriented programming?", create four separate cards, or use a cloze deletion for each principle. 
 
 **Utilize block references and links.**
 You can place Obsidian's internal links `[[Note Name]]` directly onto the front or back of a flashcard. If you forget a concept, the back of the card can contain the answer *and* a direct link to the central hub note for that topic. This turns your review sessions into a method for navigating and reinforcing your vault's structure.

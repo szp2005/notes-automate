@@ -13,13 +13,13 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Comparing Obsidian Frontmatter vs Inline Dataview Fields (2026)
 
-> **Quick Answer:** When comparing Obsidian frontmatter vs inline Dataview fields, frontmatter (managed via Core Properties) is best for global, structured document metadata like creation dates, document types, and universal tags. Inline Dataview fields (`Key:: Value`) excel at contextual, paragraph-level data tracking directly within your writing. The most efficient Obsidian vaults utilize a hybrid approach: frontmatter for file-level architecture and inline fields for specific data extraction from daily notes or meeting logs.
+> **Quick Answer:** When comparing Obsidian frontmatter vs inline Dataview fields, frontmatter (managed via Core Properties) is best for global, structured document metadata like creation dates, document types, and universal tags. Inline Dataview fields (`Key:: Value`) excel at contextual, paragraph-level [data tracking](/posts/using-obsidian-for-longitudinal-research-data-tracking/) directly within your writing. The most efficient Obsidian vaults utilize a hybrid approach: frontmatter for file-level architecture and inline fields for specific data extraction from daily notes or meeting logs.
 
 Setting up a robust personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system in Obsidian eventually forces a critical architectural decision: how should you store and structure your metadata? Metadata is the invisible scaffolding that allows plugins to query, link, and organize your vault. Without a consistent metadata strategy, as your vault scales past a few hundred notes, retrieving specific information becomes increasingly difficult.
 
 For years, users have debated the best approach for tracking variables like project statuses, task priorities, and daily habits. The primary battleground lies between two distinct methodologies. On one side, we have standard YAML frontmatter, recently bolstered by Obsidian's native Properties interface. On the other side, we have inline Dataview fields, a flexible syntax introduced by the immensely popular Dataview community plugin.
 
-Choosing the right method dictates how you will interact with your notes daily, how fast your queries will render, and how future-proof your data remains. This guide explores the technical mechanisms, workflow implications, and long-term viability of both approaches to help you build a more resilient second brain.
+Choosing the right method dictates how you will interact with your notes daily, how fast your queries will render, and how future-proof your data remains. This guide explores the technical mechanisms, [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) implications, and long-term viability of both approaches to help you build a more resilient second brain.
 
 ## The Core Metadata Contenders
 
@@ -86,7 +86,7 @@ Inline fields represent absolute flexibility. You can place them anywhere, forma
 
 ### Ecosystem and Plugin Compatibility
 
-Frontmatter represents the universal language of Markdown metadata. If you ever decide to migrate your notes away from Obsidian to another application, your YAML frontmatter will seamlessly transfer. Furthermore, ecosystem tools like the Linter plugin, Templates, QuickAdd, and Templater all prioritize interacting with the frontmatter block.
+Frontmatter represents the universal language of Markdown metadata. If you ever decide to migrate your notes away from Obsidian to another application, your YAML frontmatter will seamlessly transfer. Furthermore, ecosystem tools like the Linter plugin, [Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), QuickAdd, and Templater all prioritize interacting with the frontmatter block.
 
 Inline fields lock your data organization strategy to the Dataview plugin. While the data remains in plain text, its utility as structured data disappears without Dataview active. Furthermore, mobile workflows can complicate inline fields; without the structural guidance of the Properties UI, typing custom syntaxes on a mobile keyboard is often tedious.
 

@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** You can customize the Obsidian sidebar by installing the community plugin **Commander**. Once activated, navigate to Commander's settings, select the **Ribbon** or **Page Header** tab, click "Add Command," search for your desired action (like opening a specific note or triggering a template), and assign a specific Lucide or Remix icon to visually anchor it in your UI. 
 
-Managing a growing vault in Obsidian often leads to friction when navigating between frequently used tools, templates, and core plugins. By default, Obsidian provides a basic left-hand ribbon, but as your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) matures, scrolling through the command palette (`Ctrl/Cmd + P`) for routine actions becomes tedious. You need immediate, single-click access to the functions that drive your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system.
+Managing a growing vault in Obsidian often leads to friction when navigating between frequently used tools, [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), and core plugins. By default, Obsidian provides a basic left-hand ribbon, but as your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) matures, scrolling through the command palette (`Ctrl/Cmd + P`) for routine actions becomes tedious. You need immediate, single-click access to the functions that drive your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system.
 
 Customizing your Obsidian sidebar with Commander plugin icons solves this structural bottleneck. Commander allows you to strip away default buttons you never use and replace them with high-utility commands, macros, and specific workspace layouts—all represented by clean, recognizable vector icons.
 
@@ -95,7 +95,7 @@ Now, a complex structural operation is reduced to a single click on your sidebar
 
 Another high-utility application for Commander icons is managing Obsidian Workspaces. The core Workspaces plugin allows you to save the exact arrangement of your panes, tabs, and sidebars.
 
-If you have a "Writing" workspace (distraction-free, single pane, right sidebar closed) and a "Research" workspace (graph view open, local graph pinned, multiple reference panes), you can use Commander to toggle between them effortlessly.
+If you have a "Writing" workspace (distraction-free, single pane, right sidebar closed) and a "[Research](/posts/obsidian-vs-devonthink-for-large-research-archives/)" workspace (graph view open, local graph pinned, multiple reference panes), you can use Commander to toggle between them effortlessly.
 
 1. Save your desired layouts using the core Workspaces plugin.
 2. Go to Commander's **Ribbon** tab and click **Add Command**.
@@ -127,7 +127,7 @@ While Commander is robust, users occasionally run into UI quirks when modifying 
 
 **Too many icons causing a scrollbar:** If you add more than 15 icons to the Ribbon on a smaller laptop screen, a vertical scrollbar will appear. This defeats the purpose of "quick access." Be ruthless. If you haven't clicked an icon in a week, remove it from the sidebar and use the Command Palette instead.
 
-**Theme conflicts:** Some highly customized community themes dictate exactly how the Ribbon should look, which can override Commander's injected icons. If your icons are rendering incorrectly (wrong color, misaligned), switch to the default Obsidian theme temporarily to isolate the issue. If it works on default, you may need to add custom CSS snippets to force your theme to respect Commander's icon formatting.
+**Theme conflicts:** Some highly customized community [themes](/posts/things-theme-vs-minimal-theme-obsidian/) dictate exactly how the Ribbon should look, which can override Commander's injected icons. If your icons are rendering incorrectly (wrong color, misaligned), switch to the default Obsidian theme temporarily to isolate the issue. If it works on default, you may need to add custom CSS snippets to force your theme to respect Commander's icon formatting.
 
 ## Conclusion
 

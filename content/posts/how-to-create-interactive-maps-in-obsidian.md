@@ -18,7 +18,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 **TL;DR**
 - The Obsidian Leaflet plugin turns any note into a fully interactive map using a simple code block—no GIS experience required.
 - You can pull marker data directly from YAML frontmatter and automate map population using the Dataview plugin.
-- This guide goes from installation to advanced use-cases with copy-paste templates for travelers, world-builders, and researchers.
+- This guide goes from installation to advanced use-cases with copy-paste [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) for travelers, world-builders, and [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/).
 
 ---
 
@@ -343,7 +343,7 @@ Yes. Drop a PNG or JPG anywhere in your vault, then reference it with `image: [[
 Confirm the referenced note has a `location:` field formatted exactly as `location: [lat, long]`—it must be an array, not a string. The brackets are required.
 
 **Q5: Is the Leaflet plugin still maintained?**
-The original repository by valentine195 has been forked and is actively maintained by the Obsidian community under obsidian-leaflet. Check the community plugins browser for the current version. As of 2024, it remains one of the most downloaded Obsidian plugins with regular updates.
+The original repository by valentine195 has been forked and is actively maintained by the Obsidian community under obsidian-leaflet. Check the community plugins browser for the current version. As of 2024, it remains one of the most downloaded [Obsidian plugins](/posts/smart-connections-plugin-for-emergent-ideas/) with regular updates.
 
 ---
 

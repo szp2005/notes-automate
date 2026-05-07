@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Both applications offer outstanding local-first, offline-by-default architecture where your data remains purely on your hard drive. Choose Obsidian for long-form writing, extreme plugin customization, and traditional markdown file management. Choose Logseq for daily journaling, block-level referencing, and an integrated outliner [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/).
 
-When building a personal knowledge management (PKM) system, the software you choose acts as the brain trust for your most sensitive thoughts, research, and professional intellectual property. Moving this data into cloud-based software introduces vulnerabilities, platform lock-in, and terms of service changes that can compromise your digital sovereignty. This brings us to the forefront of the local-first movement.
+When building a [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) (PKM) system, the software you choose acts as the brain trust for your most sensitive thoughts, research, and professional intellectual property. Moving this data into cloud-based software introduces vulnerabilities, platform lock-in, and terms of service changes that can compromise your digital sovereignty. This brings us to the forefront of the local-first movement.
 
 Comparing Obsidian vs Logseq for privacy focused knowledge management reveals two highly capable tools that solve the exact same problem through entirely different paradigms. Both applications reject the cloud-by-default model. Instead, they read and write standard markdown files directly to a local directory on your device. You are not reliant on their servers to access your notes, and if either company were to shut down tomorrow, your files would remain perfectly intact and readable by any text editor.
 
@@ -39,7 +39,7 @@ The privacy model is absolute: Obsidian functions entirely offline without ever 
 - Unmatched plugin ecosystem (over 1,500 community plugins)
 - Phenomenal performance even with vaults containing tens of thousands of notes
 - End-to-end encryption available for official sync, plus total freedom to use DIY syncing
-- Highly customizable interface via CSS snippets and community themes
+- Highly customizable interface via CSS snippets and community [themes](/posts/things-theme-vs-minimal-theme-obsidian/)
 
 **Cons:**
 - The sheer number of plugins and configuration options can be overwhelming
@@ -82,7 +82,7 @@ For users managing highly sensitive project data, this architectural difference 
 When evaluating Obsidian vs Logseq for privacy focused knowledge management, both pass the highest threshold: local ownership. However, there are nuances in how they handle data transit and software licensing.
 
 ### Telemetry and Open Source vs Proprietary
-Logseq is open source. Anyone can inspect the code to verify that no hidden telemetry is sending your keystrokes or metadata to a remote server. This is often a hard requirement for users working in strict compliance environments (like healthcare, finance, or legal sectors) who need software that can be thoroughly vetted by IT security teams.
+Logseq is open source. Anyone can inspect the code to verify that no hidden telemetry is sending your keystrokes or [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) to a remote server. This is often a hard requirement for users working in strict compliance environments (like healthcare, finance, or legal sectors) who need software that can be thoroughly vetted by IT security teams.
 
 Obsidian is closed-source (proprietary). While the application operates locally and network traffic analysis confirms it does not phone home with your vault data, you must inherently trust the developers. Obsidian does collect very basic, anonymized telemetry by default (which can be toggled off) for application updates and crash reporting. 
 

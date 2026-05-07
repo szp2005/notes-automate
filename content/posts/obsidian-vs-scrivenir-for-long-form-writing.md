@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian vs Scrivener for Long-Form Writing: Which Is Better?
 
-> **Quick Answer:** For long-form writing, Scrivener excels with its structured project management, compilation features, and dedicated writing environment, making it ideal for novelists and academics. Obsidian, while highly flexible and powerful for knowledge management, requires more setup for traditional long-form projects but offers unparalleled linking and extensibility for researchers and non-linear thinkers.
+> **Quick Answer:** For long-form writing, Scrivener excels with its structured project management, compilation features, and dedicated writing environment, making it ideal for novelists and academics. Obsidian, while highly flexible and powerful for [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/), requires more setup for traditional long-form projects but offers unparalleled linking and extensibility for researchers and non-linear thinkers.
 
 Embarking on a long-form writing project—be it a novel, a doctoral thesis, a comprehensive research paper, or an extensive non-fiction book—presents a unique set of challenges. Beyond the sheer volume of words, writers must contend with intricate plotlines, complex arguments, vast research materials, and the daunting task of organizing disparate ideas into a coherent, publishable manuscript. The right software can transform this arduous journey into a streamlined, productive process.
 
@@ -23,7 +23,7 @@ This article provides a comprehensive comparison of Obsidian and Scrivener, eval
 
 ## Understanding Obsidian: A Networked Brain for Writers
 
-Obsidian has rapidly gained popularity as a powerful tool for personal knowledge management and networked thought. At its core, Obsidian is a markdown-based, local-first application that allows users to create and link notes, building a "second brain" of interconnected ideas. While not explicitly designed as a long-form writing application, its flexibility and robust plugin ecosystem make it a compelling option for writers who prioritize interconnectedness, deep research, and a highly customizable workflow.
+Obsidian has rapidly gained popularity as a powerful tool for personal knowledge management and networked thought. At its core, Obsidian is a markdown-based, local-first application that allows users to create and link notes, building a "second brain" of interconnected ideas. While not explicitly designed as a long-form writing application, its flexibility and robust plugin ecosystem make it a compelling option for writers who prioritize interconnectedness, deep research, and a highly customizable [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/).
 
 ### 1. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=notesautomate-20)
 

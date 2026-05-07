@@ -11,7 +11,7 @@ type: "informational"
 
 # QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide
 
-> **Quick Answer:** The QuickAdd plugin for rapid capture in Obsidian allows you to instantly create notes, log daily journal entries, and append information to existing files without interrupting your current [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). By combining templates, captures, macros, and multi-step choices, it eliminates friction and ensures ideas are recorded the moment they strike.
+> **Quick Answer:** The QuickAdd plugin for rapid capture in Obsidian allows you to instantly create notes, log daily journal entries, and append information to existing files without interrupting your current [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). By combining [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), captures, macros, and multi-step choices, it eliminates friction and ensures ideas are recorded the moment they strike.
 
 The friction between having an idea and getting it into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system is where most insights are lost. Obsidian is a powerful thinking environment, but out of the box, creating specific types of notes in designated folders with the correct formatting requires multiple clicks and deliberate navigation. This cognitive overhead interrupts deep work and often leads to fragmented, disorganized vaults. 
 
@@ -39,7 +39,7 @@ Imagine you are reading a dense academic paper and suddenly remember a task you 
 
 Macros are the powerhouse of QuickAdd, allowing you to string together multiple actions, execute JavaScript, and interact with the system clipboard. A single Macro can prompt you for input, run a script to fetch metadata from an API, format that data into a specific layout, and append it to a specific heading within a note.
 
-For power users, Macros bridge the gap between simple text expansion and full-scale automation. If you frequently find yourself performing the same five-step process to process a book highlight, a Macro can reduce that process to a single keystroke.
+For power users, Macros bridge the gap between simple text expansion and full-scale [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/). If you frequently find yourself performing the same five-step process to process a book highlight, a Macro can reduce that process to a single keystroke.
 
 ### Choices: Building Custom Menus
 

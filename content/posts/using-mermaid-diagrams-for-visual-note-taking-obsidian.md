@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** Using Mermaid diagrams for visual note taking in Obsidian allows you to build flowcharts, sequence diagrams, and mind maps directly from plain text using code blocks. By typing ````mermaid` followed by standard syntax, Obsidian automatically renders dynamic, scalable visuals that live natively within your Markdown notes, ensuring future-proof, fast, and connected [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/).
 
-Visualizing information is one of the most effective ways to process complex concepts, map out project architectures, and synthesize disparate ideas. However, integrating visual elements into text-heavy personal knowledge management (PKM) systems has traditionally involved friction. You either use external drawing tools and embed static images—which are difficult to update—or you rely on proprietary plugins that trap your data.
+Visualizing information is one of the most effective ways to process complex concepts, map out project architectures, and synthesize disparate ideas. However, integrating visual elements into text-heavy [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) (PKM) systems has traditionally involved friction. You either use external drawing tools and embed static images—which are difficult to update—or you rely on proprietary plugins that trap your data.
 
 Obsidian’s native support for Mermaid.js bridges this gap entirely. Mermaid is a JavaScript-based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically. 
 
@@ -71,7 +71,7 @@ This native mind-mapping capability often replaces the need for dedicated mind-m
 
 ## Practical Workflows for Visual Note Taking
 
-Knowing the syntax is only half the battle; integrating it into a fluid [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) methodology is what unlocks its value. Here is how to apply Mermaid within your daily Obsidian use.
+Knowing the syntax is only half the battle; integrating it into a fluid [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) methodology is what unlocks its value. Here is how to apply Mermaid within your daily Obsidian use.
 
 ### The Concept Mapper Workflow
 
@@ -112,7 +112,7 @@ For more granular control, you can define custom classes within your Mermaid cod
 
 Define a class using `classDef className fill:#f9f,stroke:#333,stroke-width:4px;`. Then, apply it to a node by appending `:::className` to the node definition. 
 
-For example, in a project management diagram, you could create a red class for "Blocked" tasks and a green class for "Completed" tasks, instantly making the diagram scannable.
+For example, in a [project management](/posts/obsidian-project-management-academic-research-teams/) diagram, you could create a red class for "Blocked" tasks and a green class for "Completed" tasks, instantly making the diagram scannable.
 
 ### Handling Large Diagrams
 

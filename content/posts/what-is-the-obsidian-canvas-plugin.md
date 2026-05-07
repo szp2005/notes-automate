@@ -51,7 +51,7 @@ The file itself is saved as a `.canvas` file (JSON under the hood) directly in y
 
 **Why does this matter against standard linear notes?** A note list forces you to choose a single hierarchy. A canvas doesn't. You can put a half-baked idea in the top-left corner, a finished argument in the centre, and a pile of raw sources on the right — and draw arrows between all of them without touching any of the original files.
 
-This is closer to how people actually think during complex projects: spatially, relationally, non-linearly. Tools like Roam Research and Logseq gave us backlinks to simulate that. Canvas gives you the literal visual layer on top.
+This is closer to how people actually think during complex projects: spatially, relationally, non-linearly. Tools like Roam [Research](/posts/obsidian-vs-devonthink-for-large-research-archives/) and Logseq gave us backlinks to simulate that. Canvas gives you the literal visual layer on top.
 
 ---
 
@@ -155,7 +155,7 @@ See the full comparison table in the next section. The short version:
 
 **Canvas beats Miro and Heptabase** on one dimension specifically: your notes don't live in the canvas tool. They live in your vault. When you embed a note card, you're looking at the actual file. Change it anywhere and the canvas reflects it. No export, no sync, no version mismatch.
 
-**Miro wins** when you need real-time multi-user collaboration, pre-built templates for team workshops, or integration with Jira and Confluence. Miro is a team communication tool. Canvas is a personal thinking tool.
+**Miro wins** when you need real-time multi-user collaboration, pre-built [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) for team workshops, or integration with Jira and Confluence. Miro is a team communication tool. Canvas is a personal thinking tool.
 
 **Heptabase** is the closest competitor philosophically — it's also built around linking visual cards to notes — but it's a subscription SaaS app. Your data lives on their servers under their pricing model. Canvas is local-first and free.
 
@@ -199,7 +199,7 @@ Obsidian Canvas is one of the most practical additions to Obsidian in years prec
 
 Start small: build a single project dashboard or a homepage canvas this week. Once you've seen a task note update live inside a canvas card, or watched Dataview results render inline on a whiteboard, the use cases multiply on their own.
 
-For structured guidance on building a complete PKM system around Canvas and Obsidian, this Udemy course on Obsidian for Personal Knowledge Management is one of the most comprehensive paid resources available — it covers daily notes, Canvas dashboards, and plugin integrations in a single learning path. And if you want the conceptual foundations of visual thinking that make Canvas genuinely useful, The Back of the Napkin by Dan Roam remains the clearest book on the subject.
+For structured guidance on building a complete PKM system around Canvas and Obsidian, this Udemy course on Obsidian for Personal [Knowledge Management](/posts/using-obsidian-for-long-term-evergreen-note-management/) is one of the most comprehensive paid resources available — it covers daily notes, Canvas dashboards, and plugin integrations in a single learning path. And if you want the conceptual foundations of visual thinking that make Canvas genuinely useful, The Back of the Napkin by Dan Roam remains the clearest book on the subject.
 
 Your vault already has the raw material. Canvas gives you the workspace to see what it all means.
 

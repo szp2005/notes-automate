@@ -17,7 +17,7 @@ Personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-no
 
 Obsidian's local-first architecture is its greatest strength, but it places the burden of [data security](/posts/explanation-of-obsidian-vault-structure-for-backups/) squarely on your shoulders. While standard cloud storage like Dropbox or Google Drive can sync files, they lack the granular history, rollback capabilities, and conflict resolution mechanisms required for text-based knowledge bases. 
 
-This is where Git comes in. By setting up Obsidian Git for automated version control, you transform a rigid folder of text files into a robust, trackable, and universally accessible database. This guide details exactly how to implement this system, removing the friction of manual commits while maintaining enterprise-grade data security for your personal notes.
+This is where Git comes in. By setting up Obsidian Git for automated version control, you transform a rigid folder of text files into a robust, trackable, and universally accessible [database](/posts/obsidian-bases-native-update-review-2026/). This guide details exactly how to implement this system, removing the friction of manual commits while maintaining enterprise-grade data security for your personal notes.
 
 ## Why Choose Git for Obsidian Syncing?
 
@@ -68,7 +68,7 @@ Finally, push your local files to the remote server with `git push -u origin mai
 
 With the Git foundation established, you can automate the process within Obsidian. 
 
-Open Obsidian, navigate to Settings > Community Plugins, disable Safe Mode if prompted, and search for "Obsidian Git." Install and enable the plugin.
+Open Obsidian, navigate to Settings > Community [Plugins](/posts/periodic-notes-plugin-weekly-reviews/), disable Safe Mode if prompted, and search for "Obsidian Git." Install and enable the plugin.
 
 Once enabled, open the Obsidian Git settings panel. The most critical setting is the "Vault backup interval (minutes)". For active users, setting this to 15 or 30 minutes ensures rapid saving of current thoughts. The plugin will automatically run a `git commit` and `git push` on this schedule.
 
@@ -133,5 +133,5 @@ Obsidian Git handles offline work gracefully. It will continue to take local sna
 
 - [Visualizing Data With Obsidian Tracker Plugin For Goals: Complete Setup Guide](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)
 
-- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Advanced [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

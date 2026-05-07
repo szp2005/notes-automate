@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ## Introduction
 
-In the realm of personal knowledge management, the quest for an advanced personal wiki often leads to a crossroads between powerful, flexible tools. For individuals who move beyond simple note-taking and seek to build intricate knowledge bases, connect ideas, and manage complex projects, the choice of platform becomes critical. Two prominent contenders frequently emerge in this advanced space: Obsidian and TiddlyWiki. Both offer profound capabilities for organizing information, but they approach the task from fundamentally different philosophies.
+In the realm of personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/), the quest for an advanced personal wiki often leads to a crossroads between powerful, flexible tools. For individuals who move beyond simple [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/) and seek to build intricate knowledge bases, connect ideas, and manage complex projects, the choice of platform becomes critical. Two prominent contenders frequently emerge in this advanced space: Obsidian and TiddlyWiki. Both offer profound capabilities for organizing information, but they approach the task from fundamentally different philosophies.
 
 This article delves into a comprehensive comparison of Obsidian and TiddlyWiki, specifically tailored for users with advanced requirements. We will explore their core architectures, extensibility, user experience, and the implications for data ownership and long-term usability. Understanding these distinctions is crucial for selecting the tool that aligns best with your specific workflow, technical comfort, and vision for your personal knowledge repository.
 
@@ -92,7 +92,7 @@ The daily interaction with a personal wiki is heavily influenced by its user int
 
 ### Obsidian's Modern Desktop Experience
 
-Obsidian, being an Electron-based desktop application, offers a modern, multi-pane interface that is familiar to users of contemporary productivity software.
+Obsidian, being an Electron-based desktop application, offers a modern, multi-pane interface that is familiar to users of contemporary [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) software.
 
 *   **Familiar UI:** Its layout, with sidebars, multiple editor panes, and tabbed views, is intuitive for anyone accustomed to IDEs or modern text editors.
 *   **Markdown Editor:** It provides a comfortable editing experience for Markdown, with live preview and WYSIWYG capabilities.

@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** The Smart Connections plugin for [Obsidian](/posts/obsidian-vs-tana-structured-knowledge-management/) uses local or API-based embeddings to analyze your entire vault and surface conceptually related notes, even when no direct links exist. By clustering semantically similar concepts, it acts as an automated research assistant that highlights emergent ideas, bridges separate domains of thought, and prevents knowledge silos within large personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) systems.
 
-The core challenge of maintaining a large personal knowledge management system is friction. As a vault grows beyond 1,000 notes, your ability to hold the entire architecture in your head diminishes. You begin writing duplicate notes, forgetting previous insights, and worst of all, missing the subtle intersections between different fields of study. Traditional linking requires manual effort—you have to know a connection exists before you can document it.
+The core challenge of maintaining a large [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) system is friction. As a vault grows beyond 1,000 notes, your ability to hold the entire architecture in your head diminishes. You begin writing duplicate notes, forgetting previous insights, and worst of all, missing the subtle intersections between different fields of study. Traditional linking requires manual effort—you have to know a connection exists before you can document it.
 
 This is where AI-assisted knowledge management shifts from a novelty to a necessity. The Smart Connections plugin addresses this exact failure point. Instead of relying on exact keyword matches or manual tagging, it reads the semantic meaning behind your text. If you have a note on "stoic philosophy" and another on "cognitive behavioral therapy," the plugin recognizes the conceptual overlap and suggests a relationship.
 
@@ -53,11 +53,11 @@ The quality of your connections depends entirely on the embedding model.
 ### Fine-Tuning Relevance Thresholds
 In the plugin settings, you can adjust the confidence threshold for what constitutes a "connection." 
 *   Setting the threshold too high (e.g., 90%+) will only surface nearly identical notes, defeating the purpose of discovering emergent ideas.
-*   Setting the threshold too low (e.g., 40%) introduces too much noise, presenting irrelevant notes that distract from your workflow.
+*   Setting the threshold too low (e.g., 40%) introduces too much noise, presenting irrelevant notes that distract from your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
 *   **Optimal Range:** Keep the threshold between 65% and 75%. This "Goldilocks zone" is where serendipity happens—it links concepts that share underlying principles but exist in different contexts.
 
 ### Excluding Administrative Folders
-Your vault likely contains administrative files: templates, daily log structures, kanban boards, or raw clipped articles. You must exclude these folders in the Smart Connections settings. If you do not, the plugin will constantly suggest your "Daily Note Template" because its blank structure technically overlaps with every new daily note you create. Exclude folders containing non-original thought to keep the connection algorithm focused purely on your synthesized knowledge.
+Your vault likely contains administrative files: [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), daily log structures, kanban boards, or raw clipped articles. You must exclude these folders in the Smart Connections settings. If you do not, the plugin will constantly suggest your "Daily Note Template" because its blank structure technically overlaps with every new daily note you create. Exclude folders containing non-original thought to keep the connection algorithm focused purely on your synthesized knowledge.
 
 ## Practical Workflows for Knowledge Generation
 

@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** The most effective method for linking your notes for better knowledge discovery obsidian involves combining bidirectional wikilinks, contextual block references, and strategic Maps of Content (MOCs). This structure prevents isolated silos of information, allowing your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system to organically reveal unexpected connections and surface relevant insights exactly when you need them.
 
-Personal knowledge management relies heavily on the relationships between ideas rather than the isolated storage of facts. When information is filed away in rigid folder hierarchies, it becomes static. The true power of a networked thought tool lies in its ability to facilitate serendipity and surface latent insights. Implementing a systematic approach to linking your notes for better knowledge discovery obsidian is the difference between a digital graveyard of clipped articles and a dynamic, generative thinking environment. 
+[Personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) relies heavily on the relationships between ideas rather than the isolated storage of facts. When information is filed away in rigid folder hierarchies, it becomes static. The true power of a networked thought tool lies in its ability to facilitate serendipity and surface latent insights. Implementing a systematic approach to linking your notes for better knowledge discovery obsidian is the difference between a digital graveyard of clipped articles and a dynamic, generative thinking environment. 
 
 A well-linked vault acts as a compounding asset. Every new note you create becomes exponentially more valuable when it is tied to existing concepts. However, simply adding links arbitrarily leads to a cluttered graph view that offers little practical utility. Developing a disciplined linking protocol ensures that the connections you make today will serve your future self during the research, writing, or problem-solving process.
 
@@ -25,7 +25,7 @@ Before developing advanced linking workflows, it is essential to understand the 
 
 ### Bidirectional Wikilinks
 
-The cornerstone of Obsidian is the wikilink syntax (`[[Note Name]]`). When you wrap a phrase in double brackets, Obsidian automatically generates a link to that file. More importantly, it creates a backlink on the target page, establishing a bidirectional relationship. This means if Note A links to Note B, Note B automatically maintains a record of Note A referencing it. This mechanism fundamentally shifts note-taking from a top-down categorizational approach to a bottom-up, associative network.
+The cornerstone of Obsidian is the wikilink syntax (`[[Note Name]]`). When you wrap a phrase in double brackets, Obsidian automatically generates a link to that file. More importantly, it creates a backlink on the target page, establishing a bidirectional relationship. This means if Note A links to Note B, Note B automatically maintains a record of Note A referencing it. This mechanism fundamentally shifts [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/) from a top-down categorizational approach to a bottom-up, associative network.
 
 ### Unlinked Mentions and The Backlinks Pane
 
@@ -131,7 +131,7 @@ Do not confuse tags with links. Tags (`#concept`) are best used for broad catego
 
 ### Leveraging the Dataview Plugin
 
-For advanced users, the community plugin 'Dataview' acts as a query language for your vault. By combining Dataview queries with robust linking and frontmatter metadata, you can create dynamic [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) that automatically aggregate notes based on their links, tags, and creation dates. This elevates your MOCs from static lists to automatically updating indexes.
+For [advanced users](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), the community plugin 'Dataview' acts as a query language for your vault. By combining Dataview queries with robust linking and frontmatter metadata, you can create dynamic [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) that automatically aggregate notes based on their links, tags, and creation dates. This elevates your MOCs from static lists to automatically updating indexes.
 
 ## Conclusion
 

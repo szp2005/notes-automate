@@ -25,10 +25,10 @@ Before diving into typography or color theory, you must establish the right conf
 
 ### Installing the Core Companion Plugins
 
-To begin, ensure you have the Minimal theme active via **Settings > Appearance > Themes**. Once active, navigate to **Settings > Community Plugins > Browse** and install these two critical plugins:
+To begin, ensure you have the Minimal theme active via **Settings > Appearance > [Themes](/posts/things-theme-vs-minimal-theme-obsidian/)**. Once active, navigate to **Settings > Community Plugins > Browse** and install these two critical plugins:
 
 1. **Minimal Theme Settings:** This is a purpose-built plugin designed specifically for the Minimal theme. It provides toggles for the most common layout adjustments, font selections, and color scheme presets. 
-2. **Style Settings:** This is a broader, theme-agnostic plugin that hooks into variables provided by theme developers. Kepano has integrated hundreds of configurable variables into Minimal that only become visible once Style Settings is installed.
+2. **Style Settings:** This is a broader, theme-agnostic plugin that hooks into variables provided by theme [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/). Kepano has integrated hundreds of configurable variables into Minimal that only become visible once Style Settings is installed.
 
 Enable both plugins. Your customization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) will now operate on two tiers: Minimal Theme Settings for broad, vault-wide adjustments, and Style Settings for precise, granular control over individual elements.
 
@@ -64,7 +64,7 @@ You do not need to build a color palette from scratch. In the Minimal Theme Sett
 
 - **Nord:** A cool, blue-grey palette that is exceptionally easy on the eyes in low-light environments.
 - **Gruvbox:** A retro, warm-toned palette that reduces blue light exposure and offers excellent contrast.
-- **Things:** Inspired by the popular task management app, offering a stark, high-contrast black-and-white aesthetic.
+- **Things:** Inspired by the popular [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) app, offering a stark, high-contrast black-and-white aesthetic.
 - **Everforest:** A green-tinted, organic palette that feels natural and calming.
 
 These presets dynamically alter background colors, text colors, and accent colors across the entire application interface. 

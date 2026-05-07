@@ -41,7 +41,7 @@ The foundational unit of your documentation is the Workflow Note. This note must
 
 ### Required Metadata
 
-Utilize Obsidian's Properties (YAML frontmatter) to standardize workflow metadata. This allows you to use plugins like Dataview to create dynamic [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) of your n8n environment. Essential properties include:
+Utilize Obsidian's Properties (YAML frontmatter) to standardize workflow metadata. This allows you to use plugins like [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) to create dynamic [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) of your n8n environment. Essential properties include:
 
 *   `n8n_id`: The internal numeric or UUID of the workflow.
 *   `status`: Active, Inactive, Draft, or Deprecated.
@@ -96,7 +96,7 @@ Your Obsidian note titles must match your n8n workflow names exactly. If a workf
 
 ### Documenting Custom Code Nodes
 
-The Code node in n8n allows for complex JavaScript or Python execution. When an automation relies on heavy custom logic, the canvas becomes opaque. Never leave complex logic undocumented inside a Code node.
+The Code node in n8n allows for complex JavaScript or [Python](/posts/connecting-obsidian-to-external-api-with-python/) execution. When an automation relies on heavy custom logic, the canvas becomes opaque. Never leave complex logic undocumented inside a Code node.
 
 1.  Extract the core logic explanation into your Obsidian workflow note under a `## Code Node: [Node Name]` heading.
 2.  Document the expected input JSON schema and the exact output schema.
@@ -104,7 +104,7 @@ The Code node in n8n allows for complex JavaScript or Python execution. When an 
 
 ### Exporting and Backing Up JSON
 
-n8n workflows are ultimately JSON objects. While Obsidian captures the context, you should also store the literal workflow data. Create a designated folder in your Obsidian vault called `n8n-backups`. When finalizing a workflow, export the JSON from n8n and save it as a `.json` file within this folder. You can then link to this backup directly from your Workflow note, providing a point-in-time snapshot of the configuration alongside the documentation.
+n8n workflows are ultimately JSON objects. While Obsidian captures the context, you should also store the literal workflow data. Create a designated folder in your Obsidian vault called `n8n-[backups](/posts/explanation-of-obsidian-vault-structure-for-backups/)`. When finalizing a workflow, export the JSON from n8n and save it as a `.json` file within this folder. You can then link to this backup directly from your Workflow note, providing a point-in-time snapshot of the configuration alongside the documentation.
 
 ## Advanced Techniques: Dataview Integration
 

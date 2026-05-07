@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best Obsidian Plugins for Medical School Students in 2026
 
-> **Quick Answer:** The best Obsidian plugins for medical school students in 2026 focus on memorization and workflow efficiency. **Obsidian to Anki** is essential for seamless flashcard integration, **Excalidraw** excels at mapping complex biochemical pathways, and **Dataview** is unmatched for tracking clinical rotation logs and study schedules.
+> **Quick Answer:** The best Obsidian plugins for medical school students in 2026 focus on memorization and [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/templater-plugin-tutorial-for-obsidian-power-users/)/) efficiency. **Obsidian to Anki** is essential for seamless flashcard integration, **Excalidraw** excels at mapping complex biochemical pathways, and **Dataview** is unmatched for tracking clinical rotation logs and study schedules.
 
 Medical school is an overwhelming deluge of information, often compared to drinking from a fire hose. Success in pre-clinical years (USMLE Step 1/COMLEX Level 1) and clinical rotations requires a [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system that scales infinitely without slowing down. Obsidian, a local-first markdown [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) app, has become a staple among medical students due to its speed, offline capability, and highly extensible nature.
 
@@ -88,7 +88,7 @@ Instead of hunting for that one interesting cardiology case you saw three weeks 
 
 Evidence-based medicine requires reading countless PDF guidelines, research papers, and textbook chapters. Annotator allows you to open PDFs and EPUBs directly within Obsidian and highlight or annotate them without leaving your workspace. 
 
-The standout feature is that your annotations are saved as markdown text with deep links back to the exact location in the source document. When you are writing a case presentation and need to cite the latest AHA guidelines, you can click your highlight in Obsidian, and it will snap the PDF directly to the relevant paragraph. This keeps your literature review tightly integrated with your personal notes.
+The standout feature is that your annotations are saved as markdown text with deep links back to the exact location in the source document. When you are writing a case presentation and need to cite the latest AHA guidelines, you can click your highlight in Obsidian, and it will snap the PDF directly to the relevant paragraph. This keeps your [literature review](/posts/advanced-obsidian-templates-for-literature-review-matrix/) tightly integrated with your personal notes.
 
 **Pros:**
 - Keeps source documents and personal notes in a unified environment

@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Obsidian DB Folder is the most effective plugin for bringing Notion-style database views to local Markdown files. It excels at visually editing YAML frontmatter and organizing notes in a tabular format, making it the practical choice for managing project trackers and content pipelines directly within your Obsidian vault.
 
-Obsidian operates on a fundamental principle: your data belongs to you, stored locally as plain text Markdown files. While this text-first approach is highly resilient and excellent for interlinking disparate thoughts, managing highly structured data has traditionally been its primary limitation. Knowledge workers who use their personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) systems for project tracking, content calendars, or customer relationship management frequently find themselves scanning plain-text YAML frontmatter across dozens of individual files. This manual process becomes inefficient and error-prone as vaults scale into the thousands of notes. The demand for visual, tabular data manipulation within the local file system led to a wave of community-developed plugins, with a select few standing out for direct metadata editing.
+Obsidian operates on a fundamental principle: your data belongs to you, stored locally as plain text Markdown files. While this text-first approach is highly resilient and excellent for interlinking disparate thoughts, managing highly structured data has traditionally been its primary limitation. Knowledge workers who use their personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) systems for project tracking, content calendars, or customer relationship management frequently find themselves scanning plain-text YAML frontmatter across dozens of individual files. This manual process becomes inefficient and error-prone as vaults scale into the thousands of notes. The demand for visual, tabular data manipulation within the local file system led to a wave of community-developed plugins, with a select few standing out for direct [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) editing.
 
 Our thorough review of Obsidian DB Folder for database views examines how this specific tool bridges the gap between local, plain-text environments and the highly visual, spreadsheet-like interfaces popularized by cloud applications. By converting standard local directories into interactive tables, it fundamentally alters how structured data is handled inside an Obsidian vault. This guide breaks down its core functionalities, evaluates its performance under varying workloads, and compares it to other popular solutions to help you optimize your digital workspace architecture.
 
@@ -98,7 +98,7 @@ Make.md overhauls the standard Obsidian user interface, adding workspaces, inlin
 
 **Cons:**
 - Heavily modifies the core Obsidian user interface, which can be jarring
-- High potential for conflicts with other UI-altering themes and plugins
+- High potential for conflicts with other UI-altering [themes](/posts/things-theme-vs-minimal-theme-obsidian/) and plugins
 
 ## Practical Advice: Structuring Your Obsidian Database
 
@@ -135,7 +135,7 @@ Yes. Because Obsidian DB Folder writes data directly to standard plain-text YAML
 Yes, Obsidian DB Folder functions on the mobile application. However, navigating wide tables with many columns on a smartphone screen can be cumbersome. It is best optimized for tablet or desktop environments.
 
 ### Does Obsidian DB Folder lock me into using the plugin permanently?
-No. All data inputted through the plugin is saved strictly as standard Markdown YAML in your local files. If you uninstall the plugin, your data remains fully intact, readable, and accessible via standard text editors or other Obsidian plugins.
+No. All data inputted through the plugin is saved strictly as standard Markdown YAML in your local files. If you uninstall the plugin, your data remains fully intact, readable, and accessible via standard text editors or other [Obsidian plugins](/posts/smart-connections-plugin-for-emergent-ideas/).
 
 ### Can I use formulas in Obsidian DB Folder like I can in Notion?
 Currently, Obsidian DB Folder focuses primarily on metadata editing rather than complex mathematical formulas. For advanced calculations and derived values based on your metadata, utilizing Dataview inline queries remains the standard approach.

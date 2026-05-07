@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Local GPT Plugin for Obsidian Privacy: Complete Guide
 
-> **Quick Answer:** Using a local GPT plugin for Obsidian ensures absolute privacy because all AI processing happens on your own hardware, never sending your sensitive personal knowledge base (PKM) data to external servers like OpenAI or Anthropic. You achieve this by running local LLMs via tools like LM Studio or Ollama and connecting them to Obsidian using plugins like BMO Chatbot or Text Generator.
+> **Quick Answer:** Using a local GPT plugin for Obsidian ensures absolute privacy because all AI processing happens on your own hardware, never sending your sensitive personal knowledge base (PKM) data to external servers like OpenAI or Anthropic. You achieve this by running local LLMs via tools like LM Studio or Ollama and connecting them to Obsidian using [plugins](/posts/periodic-notes-plugin-weekly-reviews/) like BMO Chatbot or Text Generator.
 
 Connecting your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system to artificial intelligence offers incredible leverage for thinking, organizing, and synthesizing information. However, integrating cloud-based AI models like ChatGPT directly into your Obsidian vault introduces a significant vulnerability: your private, unfiltered thoughts, journals, and proprietary data are sent to external servers. For professionals handling confidential client data, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/) working on unreleased papers, or individuals who value digital sovereignty, this trade-off is unacceptable. 
 
@@ -55,7 +55,7 @@ Once your inference engine is running, you need a plugin to connect it to your n
 BMO Chatbot is a highly configurable interface that sits in Obsidian's sidebar. It was built with local models in mind. It natively supports Ollama, meaning you do not have to mess with API key workarounds. You can select your locally downloaded models directly from a dropdown menu within the plugin settings. BMO excels at context injection—allowing you to reference current notes, folders, or specific files in your prompt while keeping everything strictly local.
 
 ### Text Generator Plugin
-The Text Generator plugin is one of the most robust AI tools for Obsidian. While initially built around OpenAI, its flexible custom endpoint settings make it perfect for local deployment. Instead of a chat interface, Text Generator focuses on inline generation and template execution. You can create complex prompt templates (e.g., "Summarize the selected text and extract action items") and trigger them via hotkeys. Simply route the custom endpoint to your local LM Studio or Ollama server port.
+The Text Generator plugin is one of the most robust AI tools for Obsidian. While initially built around OpenAI, its flexible custom endpoint settings make it perfect for local deployment. Instead of a chat interface, Text Generator focuses on inline generation and template execution. You can create complex prompt [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) (e.g., "Summarize the selected text and extract action items") and trigger them via hotkeys. Simply route the custom endpoint to your local LM Studio or Ollama server port.
 
 ### Smart Connections (Local Mode)
 Smart Connections is famous for creating semantic links between your notes using vector embeddings. Traditionally, this required sending your entire vault to OpenAI to generate embeddings, a massive privacy breach. Recent updates have integrated local embedding models via local servers. You can now generate embeddings and search your vault semantically using an entirely offline, privacy-first pipeline.
@@ -82,7 +82,7 @@ To establish a secure, local GPT workflow in Obsidian, follow these structured s
 Download and install Ollama. Open your terminal and run `ollama serve` to start the background process. Then, in a new terminal window, pull your chosen model, for example: `ollama run llama3`. Wait for the download to finish. Verify the local server is running by navigating to `http://localhost:11434` in your web browser; you should see an "Ollama is running" message.
 
 ### 2. Configure the Obsidian Plugin
-Install the **BMO Chatbot** plugin from the Obsidian community plugins repository. Navigate to the plugin settings:
+Install the **BMO Chatbot** plugin from the Obsidian [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugins repository. Navigate to the plugin settings:
 - Go to the **Models** section.
 - Under **Connection Type**, select **Ollama**.
 - The Ollama REST API URL should default to `http://localhost:11434`.

@@ -105,7 +105,7 @@ Let's build confidence before moving to complex stuff. Here are two snippets tha
 
 **What this does:** Sets H1 headings to a specific hex color and adds a bottom border underline. Change `#2e86ab` to any hex color you want. You can find color pickers at coolors.co or just type "hex color picker" into Google.
 
-Save both files, toggle them on, and you'll see the change instantly. That's it — you've written your first custom Obsidian CSS.
+Save both files, toggle them on, and you'll see the change instantly. That's it — you've written your first custom [Obsidian CSS](/posts/custom-css-for-obsidian-academic-paper-formatting/).
 
 ---
 
@@ -113,7 +113,7 @@ Save both files, toggle them on, and you'll see the change instantly. That's it 
 
 Copy-pasting snippets is useful. Knowing how to write your own puts you in complete control. The Developer Console is the tool that makes this possible, and it takes about five minutes to learn the basics.
 
-**Open the console:** Press `Ctrl+Shift+I` (Windows/Linux) or `Cmd+Opt+I` (Mac). A panel opens — this is the same Chrome DevTools that web developers use every day.
+**Open the console:** Press `Ctrl+Shift+I` (Windows/Linux) or `Cmd+Opt+I` (Mac). A panel opens — this is the same Chrome DevTools that web [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) use every day.
 
 **Use the element selector:** In the top-left corner of the console panel, there's a cursor-inside-a-box icon. Click it. Now move your mouse over any part of the Obsidian UI — the sidebar, a note title, a tag, the toolbar. When you click on an element, the console jumps to that element's HTML.
 
@@ -341,7 +341,7 @@ The `.obsidian/snippets` folder is yours. Fill it.
 
 ---
 
-**Ready to go deeper?** If you want to move from copy-pasting to writing your own rules from scratch, this beginner CSS course on Udemy is the fastest structured path — most students are writing confident CSS within a few hours. And if you decide you'd rather start with a premium professionally designed Obsidian theme as your base, check out these Gumroad options built specifically for PKM workflows. Either way, your vault, your rules.
+**Ready to go deeper?** If you want to move from copy-pasting to writing your own rules from scratch, this beginner CSS course on Udemy is the fastest structured path — most students are writing confident CSS within a few hours. And if you decide you'd rather start with a premium professionally designed Obsidian theme as your base, check out these Gumroad options built specifically for PKM [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/). Either way, your vault, your rules.
 
 ---
 

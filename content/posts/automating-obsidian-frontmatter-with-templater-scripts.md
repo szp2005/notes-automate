@@ -17,9 +17,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Managing a large body of knowledge requires structure. In Obsidian, that structure relies heavily on frontmatter—the YAML block at the top of your markdown files containing metadata like creation dates, tags, aliases, and project statuses. However, typing this information out every time you create a new note introduces friction. It breaks your train of thought before you even begin writing. 
 
-When your [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) system requires you to act as a data entry clerk, the system is failing you. Inconsistent tags, formatting errors, and missing creation dates inevitably creep into your vault over time. These small discrepancies compound, eventually breaking your Dataview queries and making it difficult to surface relevant information when you need it most.
+When your [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) system requires you to act as a data entry clerk, the system is failing you. Inconsistent tags, formatting errors, and missing creation dates inevitably creep into your vault over time. These small discrepancies compound, eventually breaking your Dataview queries and making it difficult to surface relevant information when you need it most.
 
-By automating Obsidian frontmatter with Templater scripts, you transfer the burden of metadata management from yourself to the application. Templater is a powerful community plugin that replaces static text with dynamic variables and JavaScript execution upon file creation. This guide details how to leverage Templater to generate perfectly formatted, context-aware frontmatter for every note in your vault automatically.
+By automating Obsidian frontmatter with Templater scripts, you transfer the burden of [metadata management](/posts/comparing-obsidian-metadata-menu-vs-database-folder/) from yourself to the application. Templater is a powerful community plugin that replaces static text with dynamic variables and JavaScript execution upon file creation. This guide details how to leverage Templater to generate perfectly formatted, context-aware frontmatter for every note in your vault automatically.
 
 ## Why Manual Metadata Fails at Scale
 
@@ -35,7 +35,7 @@ Before writing any scripts, the Templater plugin must be correctly configured to
 
 ### Core Settings and Syntax
 
-After installing and enabling Templater from the Obsidian community plugins directory, navigate to its settings. The first crucial step is defining your "Template folder location." This isolates your templates from your main knowledge base and prevents them from cluttering search results.
+After installing and enabling Templater from the Obsidian community plugins directory, navigate to its settings. The first crucial step is defining your "Template folder location." This isolates your [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) from your main knowledge base and prevents them from cluttering search results.
 
 Next, enable "Trigger Templater on new file creation." This is the engine of the automation process. Without this toggled on, your templates will insert raw `<% ... %>` syntax instead of executing the underlying code when you create a note.
 

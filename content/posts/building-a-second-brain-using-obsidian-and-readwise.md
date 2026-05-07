@@ -15,7 +15,7 @@ type: "informational"
 
 The modern knowledge worker consumes a staggering amount of information daily—articles, books, podcasts, and newsletters. Yet, without a reliable system to capture and connect this information, most of those insights evaporate within hours. The concept of a "Second Brain," popularized by Tiago Forte, offers a framework for externalizing your memory. However, the software you choose dictates the friction of maintaining that framework. 
 
-Many [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) ecosystems trap your data in proprietary formats or require manual data entry that quickly becomes unsustainable. The combination of Obsidian and Readwise solves both the data sovereignty problem and the capture friction problem. Obsidian provides a future-proof, local-first markdown environment for thinking and linking, while Readwise acts as the universal aggregator, pulling highlights from almost any reading platform automatically.
+Many [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) ecosystems trap your data in proprietary formats or require manual data entry that quickly becomes unsustainable. The combination of Obsidian and Readwise solves both the data sovereignty problem and the capture friction problem. Obsidian provides a future-proof, local-first markdown environment for thinking and linking, while Readwise acts as the universal aggregator, pulling highlights from almost any reading platform automatically.
 
 This comprehensive guide breaks down exactly how to architect this system. We will cover the mechanics of connecting the two tools, the structural design of your Obsidian vault to handle incoming highlights, and the daily workflows required to turn passive consumption into active knowledge creation.
 
@@ -121,7 +121,7 @@ Keep your folder hierarchy extremely shallow. A complex nested folder structure 
 - `03_Notes` (Your permanent, atomic notes)
 - `04_Sources` (Other non-Readwise reference materials)
 
-**The Tradeoff of Automation:**
+**The Tradeoff of [Automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/):**
 The primary tradeoff of the Readwise to Obsidian pipeline is the illusion of [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/). Because the capture is entirely automated, it feels like you are doing work just by reading. You are not. Automated capture is a prerequisite for a second brain, not the entirety of it. You must enforce strict discipline regarding the "Distill" and "Express" phases of the CODE framework. If you find yourself with 500 unprocessed source files, pause your reading and focus on distillation.
 
 **Handling Updates:**
@@ -129,7 +129,7 @@ When you add new highlights to a book you are currently reading, Readwise will u
 
 ## Conclusion
 
-Building a second brain using Obsidian and Readwise provides an optimal balance between low-friction capture and high-agency organization. By offloading the mechanical task of gathering highlights to Readwise, you reserve your cognitive energy for what actually matters: connecting ideas, recognizing patterns, and generating original output. While the initial setup requires attention to detail—particularly in configuring your templates and frontmatter—the resulting system is a resilient, locally-owned knowledge base that compounds in value over your entire lifetime.
+Building a second brain using Obsidian and Readwise provides an optimal balance between low-friction capture and high-agency organization. By offloading the mechanical task of gathering highlights to Readwise, you reserve your cognitive energy for what actually matters: connecting ideas, recognizing patterns, and generating original output. While the initial setup requires attention to detail—particularly in configuring your [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) and frontmatter—the resulting system is a resilient, locally-owned knowledge base that compounds in value over your entire lifetime.
 
 ## Frequently Asked Questions
 

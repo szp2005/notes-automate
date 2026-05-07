@@ -14,9 +14,9 @@ type: "informational"
 
 Managing web research across different applications often creates friction. You find a valuable article, save it, perhaps highlight a few paragraphs, but that knowledge remains siloed in your browser or a read-it-later application. Obsidian excels at connecting ideas, but it requires raw text. Getting your saved links and highlights out of the cloud and into your local vault is the critical bridge for effective personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/).
 
-The Raindrop IO integration for Obsidian bookmark management solves this workflow disconnect. By linking Raindrop's robust capturing capabilities with Obsidian's linking and storage, you create an automated pipeline. When you highlight text on the web via the Raindrop extension, those exact highlights, along with the article's metadata, automatically populate in your Obsidian vault, formatted exactly how you want them.
+The Raindrop IO integration for Obsidian bookmark management solves this [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/templater-plugin-tutorial-for-obsidian-power-users/)/) disconnect. By linking Raindrop's robust capturing capabilities with Obsidian's linking and storage, you create an automated pipeline. When you highlight text on the web via the Raindrop extension, those exact highlights, along with the article's metadata, automatically populate in your Obsidian vault, formatted exactly how you want them.
 
-This guide details the exact steps to configure this sync, the templates required to structure your imported data, and the specific settings to prevent duplicate files or messy folder structures.
+This guide details the exact steps to configure this sync, the [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) required to structure your imported data, and the specific settings to prevent duplicate files or messy folder structures.
 
 ## Understanding the Raindrop to Obsidian Pipeline
 

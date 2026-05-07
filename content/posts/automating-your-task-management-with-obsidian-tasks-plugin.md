@@ -17,7 +17,7 @@ Keeping track of action items scattered across daily notes, project files, and m
 
 Automating your task management with Obsidian Tasks plugin transforms your interconnected vault into a powerful, automated [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system. Instead of manually copying action items into a separate to-do list application, you can write tasks directly in your project notes where they naturally occur. The plugin then automatically queries these scattered items and builds customized dashboards that update in real-time.
 
-By standardizing task metadata—such as due dates, scheduled dates, priorities, and custom tags—you create a self-organizing system. This approach ensures that your knowledge base and your action items live in the exact same environment, eliminating context switching and providing total control over how your workload is displayed.
+By standardizing task [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/)—such as due dates, scheduled dates, priorities, and custom tags—you create a self-organizing system. This approach ensures that your knowledge base and your action items live in the exact same environment, eliminating context switching and providing total control over how your workload is displayed.
 
 ## The Foundation of Obsidian Tasks
 
@@ -111,7 +111,7 @@ When you check off a recurring task, the plugin leaves the completed task in pla
 
 ### Deferring and Rescheduling
 
-Automation isn't just about scheduling; it's also about adapting when schedules change. If you need to push a task back, utilizing the `scheduled` date (⌛) alongside the `due` date (📅) allows you to hide tasks until you actually need to see them. By setting your dashboard queries to ignore tasks where the scheduled date is in the future, you keep your daily view uncluttered. When the scheduled date arrives, the task automatically appears on your radar.
+[Automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) isn't just about scheduling; it's also about adapting when schedules change. If you need to push a task back, utilizing the `scheduled` date (⌛) alongside the `due` date (📅) allows you to hide tasks until you actually need to see them. By setting your dashboard queries to ignore tasks where the scheduled date is in the future, you keep your daily view uncluttered. When the scheduled date arrives, the task automatically appears on your radar.
 
 ## Integrating With Dataview and Other Plugins
 
@@ -119,7 +119,7 @@ While the Tasks plugin is powerful on its own, it exists within the broader Obsi
 
 ### Dataview Synergy
 
-Dataview is another querying engine for Obsidian that excels at creating tables and lists from file metadata. While Dataview can query tasks, the Tasks plugin is generally superior for rendering interactive, checkable task lists. However, Dataview is perfect for high-level project management.
+Dataview is another querying engine for Obsidian that excels at creating tables and lists from file metadata. While Dataview can query tasks, the Tasks plugin is generally superior for rendering interactive, checkable task lists. However, Dataview is perfect for high-level [project management](/posts/obsidian-project-management-academic-research-teams/).
 
 You can use Dataview to generate a table of all active projects, showing their status and deadlines, while using the Tasks plugin within those individual project notes to manage the granular action items. The two plugins operate smoothly side-by-side without conflicting.
 

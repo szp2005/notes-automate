@@ -71,7 +71,7 @@ Tana abstracts the complexity of database architecture behind an intuitive, visu
 
 The core difference in how these tools handle structured knowledge lies in their data modeling primitives. 
 
-In Obsidian, structured data lives in the file's frontmatter. With the introduction of the native Properties feature, Obsidian formalized how metadata is handled. You define keys (like `status`, `due_date`, `priority`) and assign them values. These properties apply to the entire markdown file. If you want a note to represent a "Book," you must manually add the properties relevant to a book, or rely on a templater plugin to insert the correct YAML structure when the note is created. The relationship between different types of notes is entirely manual and relies on your discipline to maintain a consistent schema across your vault.
+In Obsidian, structured data lives in the file's frontmatter. With the introduction of the native Properties feature, Obsidian formalized how metadata is handled. You define keys (like `status`, `due_date`, `priority`) and assign them values. These properties apply to the entire markdown file. If you want a note to represent a "Book," you must manually add the properties relevant to a book, or rely on a [templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/) plugin to insert the correct YAML structure when the note is created. The relationship between different types of notes is entirely manual and relies on your discipline to maintain a consistent schema across your vault.
 
 Tana approaches data modeling through Supertags. A Supertag acts as a class definition in object-oriented programming. If you create a `#book` supertag, you define its fields: `author`, `rating`, `genre`, and `status`. When you tag any node anywhere in your workspace with `#book`, those fields instantly appear. Furthermore, Supertags can inherit from one another. A `#textbook` tag can inherit all fields from `#book` while adding a `course_code` field. This inheritance model allows for rapid schema iteration. If you decide to add a `publication_year` to your `#book` tag, every node tagged with `#book` across your entire database instantly updates to include that field.
 
@@ -127,7 +127,7 @@ If you are migrating from a simpler tool like Apple Notes or Evernote, be prepar
 
 ## The Final Verdict
 
-For pure structured knowledge management—where the goal is classifying, relating, querying, and manipulating complex datasets seamlessly—Tana is objectively the superior architectural choice. Its Supertags and native graph database reduce the friction of metadata management to near zero. It behaves like an operating system for your thoughts.
+For pure structured knowledge management—where the goal is classifying, relating, querying, and manipulating complex datasets seamlessly—Tana is objectively the superior architectural choice. Its Supertags and native graph database reduce the friction of [metadata management](/posts/comparing-obsidian-metadata-menu-vs-database-folder/) to near zero. It behaves like an operating system for your thoughts.
 
 However, Tana sacrifices the permanence and privacy of plain text to achieve this power. If the idea of a cloud-dependent, proprietary database gives you pause, Obsidian remains the ultimate safe harbor. With sufficient time, Dataview, and a disciplined approach to frontmatter, Obsidian can be molded into a highly structured environment that you definitively own forever.
 
@@ -140,7 +140,7 @@ Yes, Tana supports importing Markdown files, but the transition is not 1-to-1. B
 Currently, Tana's offline capabilities are highly limited. While it caches some recent data, it requires an active internet connection to execute complex queries, load new workspaces, and save substantive changes reliably. It is a cloud-first application.
 
 ### Is Obsidian's Dataview plugin hard to learn?
-If you have basic programming or SQL experience, Dataview is very straightforward. If you have no coding background, there is a moderate learning curve. However, the Obsidian community is massive, and you can usually find copy-and-paste templates for almost any query you need to build.
+If you have basic programming or SQL experience, Dataview is very straightforward. If you have no coding background, there is a moderate learning curve. However, the Obsidian community is massive, and you can usually find copy-and-paste [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) for almost any query you need to build.
 
 ### Which tool is better for team collaboration?
 Tana is built with collaboration in mind, allowing multiple users to interact with the same graph database, share specific nodes, and manage team-wide supertags. Obsidian is designed as a single-player tool; while you can share a vault via Obsidian Sync or Git, it lacks granular permissions and concurrent database editing features for large teams.

@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** To set up Obsidian on an iPad using external storage, you must use the iPadOS Files app to create or open a vault directly on a connected USB-C SSD or flash drive. Because Apple's sandboxing restricts third-party background sync, running your vault directly from a physical drive allows you to bypass iCloud, keep your data completely private, and save internal storage space.
 
-For many knowledge workers and students, the iPad has become the primary computing device. Combined with a Magic Keyboard, it offers a portable, focused writing environment. However, when it comes to [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) tools like Obsidian, iPadOS presents a unique set of challenges. Apple's aggressive sandboxing means that apps cannot easily share folders, and background syncing is notoriously restricted. 
+For many [knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/) and students, the iPad has become the primary computing device. Combined with a Magic Keyboard, it offers a portable, focused writing environment. However, when it comes to [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) tools like Obsidian, iPadOS presents a unique set of challenges. Apple's aggressive sandboxing means that apps cannot easily share folders, and background syncing is notoriously restricted. 
 
 By default, Obsidian on the iPad pushes users toward two primary syncing options: their paid Obsidian Sync service or iCloud Drive. But what if you have a massive vault filled with PDFs and high-resolution images? What if you are dealing with sensitive client data that cannot legally be stored on a cloud server? Or what if you simply want to avoid the recurring subscription fees and the notoriously finicky iCloud sync engine?
 
@@ -27,7 +27,7 @@ Relying on external storage—such as a portable SSD or a high-performance USB-C
 iCloud Drive is tightly integrated into iPadOS, but it is optimized for consumer file sharing, not high-frequency text file edits. Obsidian vaults consist of hundreds or thousands of tiny Markdown files. iCloud often struggles to index these rapidly changing files, leading to duplicated files (e.g., `Note (1).md`), sync conflicts, and frustrating delays where a note appears blank until it downloads from the server. Using an external drive eliminates the network layer entirely. Your files are read and written instantly to the disk.
 
 ### Complete Data Privacy
-For legal professionals, medical researchers, or anyone working under strict Non-Disclosure Agreements (NDAs), uploading notes to a third-party server is a non-starter. Even with end-to-end encryption, some enterprise environments prohibit cloud storage. An external SSD ensures that your vault physically exists only where the drive is located. When you unplug the drive, the data is completely inaccessible.
+For legal professionals, medical [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), or anyone working under strict Non-Disclosure Agreements (NDAs), uploading notes to a third-party server is a non-starter. Even with end-to-end encryption, some enterprise environments prohibit cloud storage. An external SSD ensures that your vault physically exists only where the drive is located. When you unplug the drive, the data is completely inaccessible.
 
 ### Preserving Internal iPad Storage
 Base model iPads often ship with 64GB or 128GB of internal storage. If your Obsidian vault is heavy on media—containing embedded tutorial videos, thousands of scanned PDFs, or large asset folders—it will quickly consume your device's storage. Offloading the vault to a 1TB or 2TB external SSD allows you to maintain a limitless knowledge base without constantly managing your iPad's internal capacity.
@@ -102,7 +102,7 @@ When you open Obsidian on the iPad, it reads the `.obsidian` folder from the dri
 
 ## Step 4: Backup Strategies for External Vaults
 
-Moving away from cloud sync means you are also moving away from automated cloud backups. If you lose your SSD, or if the drive suffers a mechanical failure, your data is permanently gone. You must implement a rigid local backup strategy.
+Moving away from cloud sync means you are also moving away from automated cloud backups. If you lose your SSD, or if the drive suffers a mechanical failure, your data is permanently gone. You must implement a rigid local [backup strategy](/posts/configuring-obsidian-for-automated-daily-backup-to-dropbox/).
 
 ### The 3-2-1 Backup Rule
 Since your primary data lives on the external drive, you need secondary copies. 

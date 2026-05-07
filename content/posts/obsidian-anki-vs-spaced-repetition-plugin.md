@@ -13,7 +13,7 @@ tags: ["power", "spaced", "repetition", "second"]
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# Obsidian Anki vs Spaced Repetition Plugin: Which One Actually Fits Your [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)?
+# Obsidian Anki vs Spaced Repetition Plugin: Which One Actually Fits Your [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/)?
 
 ---
 
@@ -41,7 +41,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ## 1. The Power of Spaced Repetition in Your Second Brain {#the-power-of-spaced-repetition}
 
-Spaced repetition is not a [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) hack. It is a well-documented cognitive technique rooted in Hermann Ebbinghaus's forgetting curve research from the 1880s, refined over a century, and validated repeatedly in modern cognitive science. The core mechanic: review material at increasing intervals just before you're likely to forget it. Combine that with active recall — forcing yourself to retrieve information rather than re-read it — and you have the most efficient long-term memory system available to a human learner.
+Spaced repetition is not a [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) hack. It is a well-documented cognitive technique rooted in Hermann Ebbinghaus's forgetting curve [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) from the 1880s, refined over a century, and validated repeatedly in modern cognitive science. The core mechanic: review material at increasing intervals just before you're likely to forget it. Combine that with active recall — forcing yourself to retrieve information rather than re-read it — and you have the most efficient long-term memory system available to a human learner.
 
 If you want a rigorous grounding in the science before you touch a single plugin, Make It Stick: The Science of Successful Learning by Brown, Roediger, and McDaniel is the most accessible, research-backed book on the subject.
 
@@ -100,7 +100,7 @@ The Spaced Repetition (SR) plugin for Obsidian is a fully self-contained system.
 
 The plugin scans your vault for two types of content:
 
-- **Inline flashcards**: `Question :: Answer` on a single line.
+- **Inline [flashcards](/posts/spaced-repetition-plugin-for-obsidian-flashcards/)**: `Question :: Answer` on a single line.
 - **Multi-line cards**: `Question` on one line, `?` on the next, then the answer.
 - **Cloze deletions**: `==highlighted text==` becomes a cloze.
 

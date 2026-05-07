@@ -15,11 +15,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The top Obsidian CSS snippets for a clean minimalist look include Clean Embeds, Faded Markdown Formatting, and Hide Scrollbars. These specific visual tweaks systematically remove UI clutter, seamlessly blending transcluded notes and dimming syntax markers to create a distraction-free writing environment that prioritizes your thoughts above the interface.
 
-Achieving a state of deep focus requires an environment free from unnecessary friction. For knowledge workers, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and writers using Obsidian, the interface itself can sometimes become a source of subtle distraction. While Obsidian's default appearance is functional, its utilitarian design often surfaces elements—like scrollbars, heavy borders, and bold markdown syntax—that draw the eye away from the actual content.
+Achieving a state of deep focus requires an environment free from unnecessary friction. For [knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/), [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and writers using Obsidian, the interface itself can sometimes become a source of subtle distraction. While Obsidian's default appearance is functional, its utilitarian design often surfaces elements—like scrollbars, heavy borders, and bold markdown syntax—that draw the eye away from the actual content.
 
 This is where custom styling comes into play. By implementing the top Obsidian CSS snippets for a clean minimalist look, you can strip away the visual noise that accumulates in complex [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) systems. A minimalist workspace is not just about aesthetics; it is an ergonomic choice. When your interface is quiet, cognitive load decreases, allowing you to sustain attention on the relationships between your ideas rather than the mechanics of the software. 
 
-While full themes like Kepano's Minimal or Things provide an excellent foundation, they often require granular adjustments to match individual workflows. CSS snippets serve as surgical adjustments, allowing you to selectively mute, hide, or refine specific UI components without discarding the underlying theme's structural benefits. 
+While full [themes](/posts/things-theme-vs-minimal-theme-obsidian/) like Kepano's Minimal or Things provide an excellent foundation, they often require granular adjustments to match individual workflows. CSS snippets serve as surgical adjustments, allowing you to selectively mute, hide, or refine specific UI components without discarding the underlying theme's structural benefits. 
 
 In this guide, we evaluate the most effective CSS snippets designed to cultivate a serene, minimalist note-taking experience. Each recommendation focuses on reducing visual clutter, improving text legibility, and maintaining a high degree of functional utility.
 
@@ -162,7 +162,7 @@ Second, familiarize yourself with the Obsidian developer console. You can access
 
 Third, consider the hierarchy of your modifications. When building a minimalist setup, start by selecting a base theme that is inherently quiet, such as Minimal, Primary, or Typomagical. Use CSS snippets strictly for the final 10% of customization. Relying entirely on snippets to overhaul a heavily stylized default theme will result in bloated CSS files and a higher likelihood of visual bugs during updates. 
 
-Finally, implement a "Focus Mode" hotkey. If you want true minimalism only during writing sessions, you don't need snippets active all the time. Using community plugins like "Snippet Commands," you can map specific CSS snippets to keyboard shortcuts. This allows you to toggle your extreme minimalist styling on when drafting, and off when you need the full UI for organizing and linking notes.
+Finally, implement a "Focus Mode" hotkey. If you want true minimalism only during writing sessions, you don't need snippets active all the time. Using community [plugins](/posts/periodic-notes-plugin-weekly-reviews/) like "Snippet Commands," you can map specific CSS snippets to keyboard shortcuts. This allows you to toggle your extreme minimalist styling on when drafting, and off when you need the full UI for organizing and linking notes.
 
 ## Conclusion
 

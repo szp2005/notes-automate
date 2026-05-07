@@ -19,7 +19,7 @@ When you transition from traditional [note-taking](/posts/streamlining-your-dail
 
 Outlining is the oldest and most reliable method for imposing order on chaotic ideas. However, native markdown lists in Obsidian lack the fluidity required for high-speed, structural thought. They require manual highlighting, copying, pasting, and constant formatting adjustments when moving points around. This friction interrupts the flow state necessary for deep cognitive work.
 
-The Obsidian Outliner plugin eliminates this friction entirely. By implementing industry-standard outlining behaviors within Obsidian's local markdown environment, it provides the structured scaffolding needed to dissect complex topics, plan massive projects, and synthesize disparate pieces of research. This guide details exactly how to implement and leverage this plugin to build a frictionless environment for structured thinking.
+The Obsidian Outliner plugin eliminates this friction entirely. By implementing industry-standard outlining behaviors within Obsidian's local markdown environment, it provides the structured scaffolding needed to dissect complex topics, plan massive projects, and synthesize disparate pieces of [research](/posts/obsidian-vs-devonthink-for-large-research-archives/). This guide details exactly how to implement and leverage this plugin to build a frictionless environment for structured thinking.
 
 ## Why Structured Thinking Matters in Obsidian
 
@@ -116,7 +116,7 @@ Structured thinking is critical for execution. When a project seems insurmountab
 
 Start with the project title as the root node. Break it down into major phases (Phase 1, Phase 2). Under each phase, outline the specific deliverables. Under deliverables, outline the concrete actions required. Because the Outliner plugin makes moving these nodes effortless, you can freely draft the plan, realize a dependency is out of order, and shift an entire branch of tasks up or down the timeline in a fraction of a second.
 
-Combined with Obsidian's native task management features (using `- [ ]` within the bullets), the outline transforms from a static plan into an actionable, trackable system.
+Combined with Obsidian's native [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) features (using `- [ ]` within the bullets), the outline transforms from a static plan into an actionable, trackable system.
 
 ### Meeting Notes and Live Synthesis
 
@@ -148,7 +148,7 @@ When zooming into a specific bullet point, it is easy to lose track of where you
 
 ## Conclusion
 
-The Obsidian Outliner plugin bridges the gap between the open-ended nature of standard markdown and the rigorous structure required for high-level cognitive work. By enforcing hierarchy, enabling frictionless manipulation of complex ideas, and providing focus through zooming and collapsing, it transforms Obsidian from a simple text editor into an environment built specifically for structured thinking. Mastering its keyboard-centric workflow is an investment that yields immediate returns in clarity, speed, and the overall quality of your personal knowledge management system.
+The Obsidian Outliner plugin bridges the gap between the open-ended nature of standard markdown and the rigorous structure required for high-level cognitive work. By enforcing hierarchy, enabling frictionless manipulation of complex ideas, and providing focus through zooming and collapsing, it transforms Obsidian from a simple text editor into an environment built specifically for structured thinking. Mastering its keyboard-centric workflow is an investment that yields immediate returns in clarity, speed, and the overall quality of your [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) system.
 
 ## Frequently Asked Questions
 

@@ -23,7 +23,7 @@ As we look at the landscape of personal [knowledge management](/posts/using-obsi
 
 ## Why Syncing Obsidian Can Be Difficult
 
-Unlike cloud-native apps like Notion or Roam Research, Obsidian doesn't store your data on a central server by default. Your vault is just a folder of markdown files on your local file system. 
+Unlike cloud-native apps like Notion or Roam [Research](/posts/obsidian-vs-devonthink-for-large-research-archives/), Obsidian doesn't store your data on a central server by default. Your vault is just a folder of markdown files on your local file system. 
 
 While this is fantastic for privacy and longevity, moving those files between a Windows PC and an iPhone, or a Mac and an Android device, requires bridging different operating systems with strict file access limitations. Mobile operating systems, particularly iOS, heavily restrict how applications can interact with background file syncing protocols. This often leads to duplicated files, conflicted copies, or complete syncing failures when using generic cloud storage providers.
 
@@ -87,7 +87,7 @@ Syncthing is an open-source, peer-to-peer file synchronization program. It does 
 
 ### 4. Git (via Obsidian Git Plugin)
 
-**Best for:** Developers and version control enthusiasts
+**Best for:** Developers and [version control](/posts/setting-up-obsidian-git-for-automated-version-control/) enthusiasts
 **Price:** Free (via GitHub/GitLab)
 **Rating:** 4.0/5
 
@@ -128,7 +128,7 @@ If you are on a strict budget but have strong technical skills, Syncthing combin
 
 ## Conclusion
 
-Is Obsidian Sync worth it in 2026? For most professionals, students, and dedicated knowledge workers, the answer is a definitive yes. The $4 to $8 monthly cost buys you peace of mind, uncompromising privacy, and the elimination of sync-related friction. While technically proficient users can build free alternatives using open-source tools, the sheer convenience and reliability of the official service make it a justified business or educational expense for anyone heavily invested in the Obsidian ecosystem.
+Is Obsidian Sync worth it in 2026? For most professionals, students, and dedicated [knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/), the answer is a definitive yes. The $4 to $8 monthly cost buys you peace of mind, uncompromising privacy, and the elimination of sync-related friction. While technically proficient users can build free alternatives using open-source tools, the sheer convenience and reliability of the official service make it a justified business or educational expense for anyone heavily invested in the Obsidian ecosystem.
 
 ## Frequently Asked Questions
 

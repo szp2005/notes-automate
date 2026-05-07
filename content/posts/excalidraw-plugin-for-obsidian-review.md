@@ -42,7 +42,7 @@ Zsolt Viczi ported the entire thing into an Obsidian plugin and then kept going.
 
 The core value proposition is direct: you stop context-switching between your note app and a drawing app. A concept map sits in the same vault folder as the literature note it references. You can transclude a drawing inside a regular markdown note. You can click an element in a drawing and open the linked note. That tight integration is what separates this from just opening Miro in another tab.
 
-**Who is this review for?** Existing Obsidian users — developers drawing architecture diagrams, students building concept maps, project managers linking deliverables to a visual tracker, researchers mapping arguments. If you're on day one of Obsidian, come back after you've set up your first vault structure. This review goes deep.
+**Who is this review for?** Existing Obsidian users — developers drawing architecture diagrams, students building concept maps, project managers linking deliverables to a visual tracker, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/) mapping arguments. If you're on day one of Obsidian, come back after you've set up your first vault structure. This review goes deep.
 
 ---
 
@@ -102,7 +102,7 @@ The **Element Library** is a reusable shape repository. You can build your own o
 - **PNG:** Raster export with configurable DPI. Fine for quick sharing.
 - **Embed in Obsidian note:** The `![[drawing.excalidraw]]` embed syntax renders a live, click-to-open preview inside any markdown note.
 
-SVG export preserves wikilink metadata in a way that lets you reconstruct link relationships if you ever migrate away from Obsidian.
+SVG export preserves wikilink [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) in a way that lets you reconstruct link relationships if you ever migrate away from Obsidian.
 
 ---
 
@@ -116,7 +116,7 @@ Canvas shipped with Obsidian 1.1 as a core feature. It is excellent at one speci
 | **Custom shapes & diagrams** | ✅ Extensive | ❌ Cards and embeds only |
 | **Link to Obsidian notes** | ✅ Per-element wikilinks | ✅ Card-level links |
 | **Transclusion / live embed** | ✅ Notes, drawings, Dataview | ✅ Notes and web pages |
-| **Scripting / automation** | ✅ JavaScript engine | ❌ None |
+| **Scripting / [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/)** | ✅ JavaScript engine | ❌ None |
 | **Element library** | ✅ Community libraries | ❌ None |
 | **Mobile experience** | ⚠️ Functional but limited | ✅ Smooth |
 | **Learning curve** | High (advanced features) | Low |

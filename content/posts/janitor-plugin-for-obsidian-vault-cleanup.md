@@ -37,13 +37,13 @@ When a vault crosses the 5,000 or 10,000 file threshold, these artifacts cause n
 
 ## Core Capabilities of the Janitor Plugin
 
-The Janitor plugin is built around a scanning engine that reads your vault's metadata cache. It does not blindly delete files; instead, it generates a report of anomalies for you to review.
+The Janitor plugin is built around a scanning engine that reads your vault's [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) cache. It does not blindly delete files; instead, it generates a report of anomalies for you to review.
 
 ### Orphaned File Detection
 The primary function of Janitor is identifying unlinked attachments. When you trigger a scan, Janitor reads the internal link graph maintained by Obsidian. It then iterates through your file system, checking every file in your defined attachment directories against this graph. If an image or PDF exists on the disk but is not referenced by `[[filename]]` or `[alt text](filename)` syntax anywhere in your active notes, Janitor flags it as an orphan.
 
 ### Empty Note Identification
-Janitor scans for markdown files that have a file size of exactly 0 bytes, or files that contain only empty whitespace. This feature is particularly useful for users who rely on daily notes templates but occasionally generate a day's note without adding any text, or users who create internal links to non-existent pages and then click them, generating a blank file.
+Janitor scans for markdown files that have a file size of exactly 0 bytes, or files that contain only empty whitespace. This feature is particularly useful for users who rely on daily notes [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) but occasionally generate a day's note without adding any text, or users who create internal links to non-existent pages and then click them, generating a blank file.
 
 ### Expired File Management
 For users who utilize frontmatter dates, Janitor can be configured to flag notes that have "expired." If you use Obsidian for task management or transient project notes, you can set a metadata field like `expires: 2026-04-15`. Janitor can aggregate these expired notes, allowing you to archive or delete them in bulk, keeping your active folder clean.
@@ -81,7 +81,7 @@ Automated deletion tools require a disciplined [workflow](/posts/streamlining-yo
 Always ensure your vault is backed up before running a bulk cleanup operation. If you use Obsidian Sync, ensure your version history is active. If you use local backups, trigger a Git commit or run your backup utility before launching Janitor. This guarantees that if a necessary file is incorrectly identified as an orphan, you can restore the entire vault state.
 
 ### The Weekly Audit
-Rather than waiting for your vault to become sluggish, integrate Janitor into a weekly review process. 
+Rather than waiting for your vault to become sluggish, integrate Janitor into a [weekly review](/posts/obsidian-template-for-weekly-reflection-and-planning/) process. 
 1. Open the command palette (`Ctrl/Cmd + P`) and execute `Janitor: Run Scan`.
 2. Review the list of orphaned attachments. Because you are doing this weekly, there will likely only be a dozen items, making it easy to verify that these are indeed images from notes you deleted earlier in the week.
 3. Review empty files. Determine if they are accidental clicks or placeholders you still intend to use.

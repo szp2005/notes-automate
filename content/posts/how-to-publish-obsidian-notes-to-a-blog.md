@@ -92,7 +92,7 @@ To mitigate this, adopt a strict linking policy for public notes. Before publish
 
 Static site generators rely heavily on YAML frontmatter to understand how to render a page. Establish a standardized frontmatter template for all notes destined for publication. 
 
-Your minimum required frontmatter should include `title`, `date`, and `tags`. Use Obsidian's built-in Templates core plugin or the community Templater plugin to automatically inject this YAML block when creating a new note in the public folder. This prevents build failures caused by missing metadata during the deployment phase.
+Your minimum required frontmatter should include `title`, `date`, and `tags`. Use Obsidian's built-in [Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) core plugin or the community [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/) plugin to automatically inject this YAML block when creating a new note in the public folder. This prevents build failures caused by missing [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) during the deployment phase.
 
 ## Setting Up Your Automated Publishing Pipeline
 

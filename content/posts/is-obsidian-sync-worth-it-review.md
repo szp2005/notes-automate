@@ -42,7 +42,7 @@ Obsidian stores your notes as plain Markdown files on your local device. That's 
 
 The problem isn't "syncing files." Syncing files is technically easy. The problem is syncing them *reliably*, *securely*, and *without babysitting the process*, across every combination of Windows, macOS, iOS, and Android that your life might involve.
 
-Obsidian Sync is the official answer. It runs on Obsidian's own infrastructure, it's maintained by the same team that builds the app, and it is designed specifically around how Obsidian works — particularly its use of hidden `.obsidian` folders for settings, plugins, and themes. That specificity matters a lot, as we'll see when we compare it to general-purpose tools.
+Obsidian Sync is the official answer. It runs on Obsidian's own infrastructure, it's maintained by the same team that builds the app, and it is designed specifically around how Obsidian works — particularly its use of hidden `.obsidian` folders for settings, plugins, and [themes](/posts/things-theme-vs-minimal-theme-obsidian/). That specificity matters a lot, as we'll see when we compare it to general-purpose tools.
 
 ---
 
@@ -82,7 +82,7 @@ iCloud also has zero version history for individual files (Time Machine is deskt
 
 Git is the most powerful option for technically inclined users. You get full version history, complete portability, and no ongoing cost. The tradeoffs are real: Git has no concept of automatic commits. You need either a cron job, a Git plugin (like Obsidian Git), or manual discipline to actually commit changes. On mobile, the Obsidian Git plugin is functional but fragile — it breaks on some iOS updates, requires a personal access token setup that confuses non-developers, and does not handle merge conflicts gracefully when you forget to pull before editing.
 
-If you're comfortable with the command line and you only sync to a second device you control, Git is excellent. If you share your workflow with a less technical partner, or if your mobile device is a primary writing tool, Git will cost you hours you don't want to spend.
+If you're comfortable with the command line and you only sync to a second device you control, Git is excellent. If you share your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/templater-plugin-tutorial-for-obsidian-power-users/)/) with a less technical partner, or if your mobile device is a primary writing tool, Git will cost you hours you don't want to spend.
 
 ### Obsidian Sync vs. Syncthing
 

@@ -58,7 +58,7 @@ Obsidian is a powerful, local-first markdown knowledge base that introduced its 
 
 ### 2. Heptabase
 
-**Best for:** Academic researchers and visual sense-makers
+**Best for:** [Academic researchers](/posts/using-obsidian-for-longitudinal-research-data-tracking/) and visual sense-makers
 **Price:** $8.99-$11.99/month
 **Rating:** 4.8/5
 
@@ -81,7 +81,7 @@ To determine which platform best supports a visual research workflow, we must lo
 
 When you are deep in a research project, your whiteboard might contain hundreds of text cards, image clippings, and connection lines. Performance is not a luxury; it is a necessity.
 
-**Heptabase** excels in this arena. Because its architecture was purpose-built for spatial rendering, zooming in and out of massive boards is buttery smooth. You can zoom all the way out to see the overarching structure of a literature review, then instantly zoom into a specific card to edit the text, all without dropped frames or lag. Furthermore, Heptabase allows you to nest whiteboards within whiteboards, creating a clean hierarchy that prevents a single canvas from becoming overwhelmingly cluttered.
+**Heptabase** excels in this arena. Because its architecture was purpose-built for spatial rendering, zooming in and out of massive boards is buttery smooth. You can zoom all the way out to see the overarching structure of a [literature review](/posts/advanced-obsidian-templates-for-literature-review-matrix/), then instantly zoom into a specific card to edit the text, all without dropped frames or lag. Furthermore, Heptabase allows you to nest whiteboards within whiteboards, creating a clean hierarchy that prevents a single canvas from becoming overwhelmingly cluttered.
 
 **Obsidian Canvas**, while highly capable, operates as a layer on top of a markdown file system. For small to medium-sized boards, the performance is excellent. However, when a single Canvas file becomes heavily populated with high-resolution images, rich media embeds, and complex node connections, users often report noticeable lag. Zooming can feel less precise, and moving large clusters of notes can stutter. Obsidian does not natively support nesting canvases inside other canvases in the same visual way Heptabase does, requiring you to link to separate canvas files instead.
 
@@ -105,7 +105,7 @@ This is where **Obsidian** reigns supreme. Every note, canvas, and setting in Ob
 
 Visual thinkers often have highly specific preferences for how their environment should look and behave. 
 
-**Obsidian** is famously customizable. With thousands of community plugins and themes, you can mold the software to do almost anything. Want to run Python scripts inside your notes? Integrate with Zotero? Build Kanban boards on your canvas? There is a plugin for that. This flexibility is Obsidian's greatest strength, but it can also be a distraction, leading users to spend more time "building the system" than doing actual research.
+**Obsidian** is famously customizable. With thousands of community plugins and [themes](/posts/things-theme-vs-minimal-theme-obsidian/), you can mold the software to do almost anything. Want to run Python scripts inside your notes? Integrate with Zotero? Build Kanban boards on your canvas? There is a plugin for that. This flexibility is Obsidian's greatest strength, but it can also be a distraction, leading users to spend more time "building the system" than doing actual research.
 
 **Heptabase** takes an opinionated approach. The developers have designed a specific workflow, and the tool guides you toward using it. There are no community plugins and minimal aesthetic customization options. The interface is clean, modern, and highly focused. This lack of customization is intentional; it forces you to stop tinkering with settings and start synthesizing your research.
 

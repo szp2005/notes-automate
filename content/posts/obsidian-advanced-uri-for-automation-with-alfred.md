@@ -46,7 +46,7 @@ Install the Advanced URI plugin from the community repository and enable it. Nav
 
 *   **Include file path in URI:** Enable this to ensure distinct routing if you have files with identical names in different folders.
 *   **Open file on write:** Disable this setting. Leaving it enabled forces Obsidian to open the target file every time you append text, which defeats the purpose of background capture.
-*   **Use daily notes plugin:** If you use the core Daily Notes or the Periodic Notes community plugin, ensure Advanced URI is set to recognize your date formats.
+*   **Use daily notes plugin:** If you use the core Daily Notes or the [Periodic Notes](/posts/obsidian-periodic-notes-plugin-setup-for-annual-reviews/) community plugin, ensure Advanced URI is set to recognize your date formats.
 
 ## Building Basic Navigational Web Searches
 
@@ -102,7 +102,7 @@ This formulation automatically wraps your input into standard markdown task synt
 
 ### Workflow 3: Triggering System Commands
 
-Advanced URI can trigger internal Obsidian commands. This is highly effective for toggling themes, switching workspaces, or running complex community plugin scripts (like Templater inserts) globally.
+Advanced URI can trigger internal Obsidian commands. This is highly effective for toggling [themes](/posts/things-theme-vs-minimal-theme-obsidian/), switching workspaces, or running complex community plugin scripts (like Templater inserts) globally.
 
 To execute a command, you must first locate its internal Command ID. 
 1. Open Obsidian and open the command palette (`Cmd + P`).
@@ -137,7 +137,7 @@ Furthermore, Obsidian must be running for the URI protocol to operate. If Obsidi
 
 ## Conclusion
 
-Combining Alfred's quick-entry capabilities with Obsidian Advanced URI removes the navigational tax of traditional [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). By offloading the mechanical steps of finding files, formatting bullet points, and locating specific headings to macOS background processes, you preserve your mental bandwidth for actual thinking. Start by implementing a simple daily logging workflow, test the encoding behavior, and systematically expand your automated routing to match your vault's architecture.
+Combining Alfred's quick-entry capabilities with Obsidian Advanced URI removes the navigational tax of traditional [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). By offloading the mechanical steps of finding files, formatting bullet points, and locating specific headings to macOS background processes, you preserve your mental bandwidth for actual thinking. Start by implementing a simple daily logging workflow, test the encoding behavior, and systematically expand your automated routing to match your vault's architecture.
 
 ## Frequently Asked Questions
 

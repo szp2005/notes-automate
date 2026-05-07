@@ -13,7 +13,7 @@ tags: ["obsidian", "calendar", "planning", "plugin review"]
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# Obsidian Full Calendar Plugin Review: Complete Setup Guide & Workflows (2024)
+# Obsidian Full Calendar Plugin Review: Complete Setup Guide & [Workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) (2024)
 
 **TL;DR**
 - Full Calendar transforms Obsidian into a genuine [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) hub by rendering interactive calendar views from local notes, Google Calendar, and CalDAV sources inside your vault.
@@ -146,7 +146,7 @@ Your Google Calendar events now appear in Obsidian. They refresh when you reopen
 
 ### CalDAV Sync (Two-Way, Full Read/Write)
 
-For genuine two-way sync—where you can create and edit events from inside Obsidian and have them appear in your external calendar—you need a **CalDAV source**. Fastmail is our recommended provider: it's privacy-focused, reliable, and its CalDAV implementation is clean and well-documented.
+For genuine two-way sync—where you can create and edit events from inside Obsidian and have them appear in your external calendar—you need a **CalDAV source**. Fastmail is our recommended provider: it's [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/)-focused, reliable, and its CalDAV implementation is clean and well-documented.
 
 **Setup steps:**
 
@@ -244,7 +244,7 @@ For users who want to build this kind of system more formally, this productivity
 **Cons:**
 - Google Calendar sync is read-only; you can't push events back to Google from Obsidian
 - CalDAV setup requires careful attention to credentials and server URLs
-- Color customization is limited to the source level, not individual events
+- Color [customization](/posts/minimal-theme-for-obsidian-customization-tips/) is limited to the source level, not individual events
 - Performance degrades with very large source folders
 
 **Bottom line**: If your workflow involves any external calendar—work, school, or personal—Full Calendar is the only Obsidian plugin worth using. The iCal sync gets you 80% of the way there in five minutes. CalDAV with Fastmail gets you the full two-way integration that makes Obsidian genuinely replace your standalone calendar app for day-to-day use.

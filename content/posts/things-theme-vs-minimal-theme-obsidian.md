@@ -45,7 +45,7 @@ Obsidian's default theme is functional. It is also, frankly, forgettable. For an
 
 Two themes dominate the conversation in every Obsidian community thread: **Things** and **Minimal**. They sit at opposite ends of a spectrum. Things arrives with a personality already baked in — warm tones, structured hierarchy, a clear nod to task management. Minimal arrives as a near-invisible framework that bends to whatever you want it to be.
 
-Choosing wrong wastes hours. You set up a system, tweak CSS, build templates — then realize the theme fights your actual habits. This article gives you a concrete, side-by-side picture of both so you can decide in one read.
+Choosing wrong wastes hours. You set up a system, tweak CSS, build [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) — then realize the theme fights your actual habits. This article gives you a concrete, side-by-side picture of both so you can decide in one read.
 
 ---
 
@@ -55,7 +55,7 @@ Choosing wrong wastes hours. You set up a system, tweak CSS, build templates —
 |---|---|---|
 | **Design Philosophy** | Opinionated, productivity-first, GTD-aligned | Neutral canvas, low-contrast, typography-forward |
 | **Customization Level** | Low-to-moderate (focused CSS variables) | Very high (100+ Style Settings options) |
-| **Ideal User** | GTD practitioners, task-heavy workflows | Writers, researchers, power tinkerers |
+| **Ideal User** | GTD practitioners, task-heavy workflows | Writers, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), power tinkerers |
 | **Style Settings Integration** | Basic support | Deep, first-class integration |
 | **Dataview Support** | Adequate, unstyled tables | Styled tables, cards, lists out of the box |
 | **Kanban Plugin Styling** | Minimal, no special treatment | Optional card styles via helper classes |
@@ -177,7 +177,7 @@ The warm header hierarchy makes the note scannable at a glance. The deferred and
 
 ### The GTD Power-User
 
-**Profile:** Obsidian is a full task and project management system. Uses custom checkboxes, project templates, weekly review notes, and area/project/resource/archive folder structure. Loves the Things 3 aesthetic.
+**Profile:** Obsidian is a full task and [project management](/posts/obsidian-project-management-academic-research-teams/) system. Uses custom checkboxes, project templates, weekly review notes, and area/project/resource/archive folder structure. Loves the Things 3 aesthetic.
 
 **Recommendation: Things.** The custom checkbox types alone justify the choice. The warm, structured design reinforces the GTD mental model every time the vault opens.
 

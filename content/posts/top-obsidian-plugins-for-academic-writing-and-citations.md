@@ -74,7 +74,7 @@ The Annotator plugin brings high-quality PDF and EPUB reading capabilities direc
 For academics who want a unified workspace—where writing and reading happen in the same application—Annotator is indispensable. It eliminates the friction of switching between a separate PDF viewer and your text editor, keeping you in a state of deep focus while doing literature reviews.
 
 **Pros:**
-- Keeps the entire reading and annotating workflow within Obsidian
+- Keeps the entire reading and annotating [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) within Obsidian
 - Deep linking to specific PDF pages and text highlights
 - Supports both PDF and EPUB file formats natively
 
@@ -114,7 +114,7 @@ Standard Obsidian is designed around individual, discrete notes. The Longform pl
 For academics writing dissertations or books, Longform is essential. It prevents the overwhelm of dealing with a 100,000-word single file by letting you write in modular chunks. You can keep your research notes side-by-side with the specific chapter you are drafting, knowing that the final compilation will stitch everything together flawlessly.
 
 **Pros:**
-- Excellent project management for multi-chapter manuscripts
+- Excellent [project management](/posts/obsidian-project-management-academic-research-teams/) for multi-chapter manuscripts
 - Drag-and-drop scene and chapter reordering capabilities
 - Keeps writing modular without losing sight of the big picture
 
@@ -130,7 +130,7 @@ For academics writing dissertations or books, Longform is essential. It prevents
 
 Academic writing requires rigorous logical structuring. The Outliner plugin brings Roam Research or Workflowy-style outlining capabilities to Obsidian. It upgrades standard bulleted lists with keyboard shortcuts for moving items up, down, in, and out, alongside vertical indentation lines that make complex hierarchies visually clear.
 
-When mapping out the flow of an argument or structuring a literature review, the ability to rapidly collapse, expand, and move bullet points is invaluable. It transforms Obsidian from a static text editor into an active thinking environment for architectural drafting.
+When mapping out the flow of an argument or structuring a [literature review](/posts/advanced-obsidian-templates-for-literature-review-matrix/), the ability to rapidly collapse, expand, and move bullet points is invaluable. It transforms Obsidian from a static text editor into an active thinking environment for architectural drafting.
 
 **Pros:**
 - Rapid keyboard-driven manipulation of list structures

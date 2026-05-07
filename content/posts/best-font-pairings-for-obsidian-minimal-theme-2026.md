@@ -19,7 +19,7 @@ Obsidian's Minimal theme, developed by Kepano, remains the gold standard for Per
 
 Finding the best font pairings for Obsidian Minimal theme 2026 is not merely an aesthetic choice; it is a functional requirement. The right typography reduces cognitive load, minimizes eye strain during long research sessions, and helps delineate between interface navigation, active reading, and code blocks. With the widespread adoption of high-DPI OLED displays and advanced subpixel rendering on modern operating systems, the nuances of typographic design have never been more prominent. 
 
-Whether you are an academic building a Zettelkasten, a developer documenting complex architectures, or a writer drafting your next novel, your typography dictates the friction of your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). In this guide, we review the top font pairings that seamlessly integrate with the Minimal theme, evaluating them on legibility, aesthetic cohesion, and practical application within a digital brain.
+Whether you are an academic building a Zettelkasten, a developer documenting complex architectures, or a writer drafting your next novel, your typography dictates the friction of your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). In this guide, we review the top font pairings that seamlessly integrate with the Minimal theme, evaluating them on legibility, aesthetic cohesion, and practical application within a digital brain.
 
 ## Why Typography Matters in Your Obsidian Vault
 
@@ -56,7 +56,7 @@ This pairing respects the ethos of the Minimal theme perfectly. The UI disappear
 
 ### 2. San Francisco Pro & Lora
 
-**Best for:** Academics, researchers, and long-form writers on macOS
+**Best for:** Academics, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and long-form writers on macOS
 **Price:** Free (macOS System / Google Fonts)
 **Rating:** 4.7/5
 
@@ -100,7 +100,7 @@ Helvetica Neue provides a clean, dense interface that stays entirely out of the 
 
 The IBM Plex superfamily was designed to represent the intersection of mankind and machine, making it a philosophically perfect fit for a digital brain. Using Plex Sans for the UI and Plex Serif for the body text creates a highly cohesive, professional environment. Because both fonts share the same foundational geometry and proportions, the transition between your file explorer and your notes is entirely seamless.
 
-Plex Serif has slightly squared-off curves and open counters, giving it a technical yet approachable feel. It lacks the old-world stuffiness of traditional serifs, making it appropriate for business notes, meeting minutes, and project management [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/). The Plex Sans UI is crisp, objective, and scales beautifully across different zoom levels.
+Plex Serif has slightly squared-off curves and open counters, giving it a technical yet approachable feel. It lacks the old-world stuffiness of traditional serifs, making it appropriate for business notes, meeting minutes, and [project management](/posts/obsidian-project-management-academic-research-teams/) [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/). The Plex Sans UI is crisp, objective, and scales beautifully across different zoom levels.
 
 **Pros:**
 - Perfect typographic harmony since both fonts belong to the same family

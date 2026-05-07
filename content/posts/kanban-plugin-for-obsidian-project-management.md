@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** The Kanban plugin for Obsidian transforms standard markdown lists into interactive, drag-and-drop project boards. It allows you to visualize workflows, link tasks directly to specific notes within your vault, and manage complex projects without ever leaving your local, text-based environment. 
 
-Managing projects inside a [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system often leads to friction. While Obsidian excels at linking concepts and storing information, its native text-based interface can sometimes fall short when you need a top-down, visual perspective on moving pieces. Traditional task managers force you to split your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/): you keep your notes in Obsidian but track your progress in external applications like Trello, Jira, or Asana. This context switching disrupts focus and fractures your data.
+Managing projects inside a [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system often leads to friction. While Obsidian excels at linking concepts and storing information, its native text-based interface can sometimes fall short when you need a top-down, visual perspective on moving pieces. Traditional task managers force you to split your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/): you keep your notes in Obsidian but track your progress in external applications like Trello, Jira, or Asana. This context switching disrupts focus and fractures your data.
 
 Using the Kanban plugin for Obsidian project management bridges this gap entirely. By rendering simple, underlying markdown as dynamic boards, this community plugin allows you to maintain the data ownership and linking capabilities of Obsidian while gaining the visual clarity of a dedicated project management tool. Every card on your board remains a plain text file or a link to one, ensuring your project metadata stays local, portable, and fully integrated with your existing personal knowledge management system.
 
@@ -43,7 +43,7 @@ Once enabled, an icon will appear in your left ribbon to create a new Kanban boa
 The default configuration is functional, but altering a few parameters significantly improves the project management experience:
 
 *   **Note folder:** By default, new notes created from Kanban cards are placed in your vault's root directory. Change this to a specific `Projects` or `Tasks` folder to prevent vault clutter.
-*   **Template for new notes:** If you use the Templater or core Templates plugin, assign a default template for notes generated from Kanban cards. This ensures every new project task automatically contains the correct frontmatter, tags, or structure.
+*   **Template for new notes:** If you use the Templater or core [Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) plugin, assign a default template for notes generated from Kanban cards. This ensures every new project task automatically contains the correct frontmatter, tags, or structure.
 *   **Link format:** Choose whether you want cards to use wikilinks (`[[Note Name]]`) or standard markdown links (`[Note Name](note.md)`). Wikilinks are generally preferred within the Obsidian ecosystem for better bidirectional linking.
 *   **Append sub-tasks:** Enable the option to show checkbox sub-tasks on the front of the card. This provides immediate visibility into the progress of complex tasks without needing to open the underlying file.
 *   **Date formats:** Configure the date picker to match your preferred format (e.g., `YYYY-MM-DD`). This is crucial if you plan to query your Kanban deadlines using plugins like Dataview.
@@ -151,7 +151,7 @@ While powerful, managing projects via the Obsidian Kanban plugin has distinct li
 
 First, collaboration is inherently difficult. Because Obsidian is a local-first application, sharing a Kanban board requires syncing the underlying markdown file via Obsidian Sync, Git, or a shared cloud drive. Even then, real-time simultaneous editing (like you expect in Trello) is not supported and will result in file conflict errors. The Kanban plugin is definitively a single-player tool.
 
-Second, the plugin lacks native automation rules. You cannot natively instruct the board to "automatically move a card to Column B if the due date is within 24 hours." All movement and state changes require manual drag-and-drop interaction, though some users hack workarounds using community scripts and the QuickAdd plugin.
+Second, the plugin lacks native [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) rules. You cannot natively instruct the board to "automatically move a card to Column B if the due date is within 24 hours." All movement and state changes require manual drag-and-drop interaction, though some users hack workarounds using community scripts and the QuickAdd plugin.
 
 Finally, very large boards with hundreds of linked notes and embedded images can impact rendering performance, especially on mobile devices. It is always best practice to keep boards lean and archive completed cards regularly.
 

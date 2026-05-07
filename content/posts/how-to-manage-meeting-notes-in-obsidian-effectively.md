@@ -11,19 +11,19 @@ type: "informational"
 
 # Meeting Notes in Obsidian Effectively: 5-Step Guide
 
-> **Quick Answer:** To manage meeting notes in Obsidian effectively, use a standardized template via the Templater plugin, link every meeting document to your Daily Notes, and aggregate all resulting action items using the Dataview plugin. This ensures structural consistency, provides automatic cross-referencing, and prevents critical tasks from falling through the cracks.
+> **Quick Answer:** To manage meeting notes in Obsidian effectively, use a standardized template via the [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/) plugin, link every meeting document to your Daily Notes, and aggregate all resulting action items using the Dataview plugin. This ensures structural consistency, provides automatic cross-referencing, and prevents critical tasks from falling through the cracks.
 
 Managing meeting notes across disparate applications often leads to fragmented information, lost action items, and a severe lack of context. You remember discussing a specific project requirement, but you cannot recall whether it was logged in an email, a team chat, or a standalone document. Obsidian, with its local-first architecture and powerful bi-directional linking capabilities, offers a highly efficient environment for capturing and utilizing meeting information. 
 
 However, presenting yourself with a blank text file at the start of a fast-paced meeting is a recipe for disorganized documentation. Without a structured, repeatable system, your Obsidian vault can quickly devolve into an unnavigable repository of isolated notes. The key to unlocking Obsidian’s potential lies in creating a frictionless workflow that standardizes input while maximizing output retrieval. 
 
-Learning how to manage meeting notes in Obsidian effectively transforms your [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) from a passive recording activity into an active system that drives projects forward. This guide outlines a comprehensive, five-step framework for architecting a resilient meeting management system within your Obsidian vault.
+Learning how to manage meeting notes in Obsidian effectively transforms your [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) from a passive recording activity into an active system that drives projects forward. This guide outlines a comprehensive, five-step framework for architecting a resilient meeting management system within your Obsidian vault.
 
 ## Step 1: Establish a Standard Meeting Template
 
 The foundation of effective meeting management relies entirely on standardization. When you jump into a conference call, you should not expend cognitive energy structuring a document. You need a pre-configured layout that actively prompts you to capture the right information instantly.
 
-While Obsidian includes a built-in templates feature, you should install the community plugin **Templater**. Templater executes JavaScript variables, allowing you to automatically inject the current date, automatically rename the file based on the date and subject, and automatically place your cursor in the correct starting position.
+While Obsidian includes a built-in [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) feature, you should install the community plugin **Templater**. Templater executes JavaScript variables, allowing you to automatically inject the current date, automatically rename the file based on the date and subject, and automatically place your cursor in the correct starting position.
 
 ### The Anatomy of a Perfect Meeting Template
 

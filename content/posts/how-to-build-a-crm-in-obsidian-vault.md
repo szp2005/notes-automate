@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Managing professional relationships often defaults to complex, expensive SaaS platforms. While traditional Customer Relationship Management (CRM) software is powerful for large sales teams, it frequently introduces unnecessary friction for freelancers, consultants, and independent professionals. Monthly subscription costs add up, data gets locked behind proprietary systems, and the learning curve can stall actual networking efforts.
 
-Obsidian offers a compelling alternative. Because it operates on local markdown files and links notes bi-directionally, your CRM data can integrate seamlessly with your project files, meeting notes, and daily journals. This approach guarantees complete data ownership and offline access while allowing you to design a relationship management system that mirrors your actual workflow.
+Obsidian offers a compelling alternative. Because it operates on local markdown files and links notes bi-directionally, your CRM data can integrate seamlessly with your project files, meeting notes, and daily journals. This approach guarantees complete data ownership and offline access while allowing you to design a relationship management system that mirrors your actual [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/templater-plugin-tutorial-for-obsidian-power-users/)/).
 
 This guide details exactly how to build a CRM in your Obsidian vault from the ground up, utilizing core structural concepts and a few essential community plugins to create a low-maintenance, high-efficiency system.
 
@@ -33,7 +33,7 @@ Create a primary `CRM` directory, subdivided into logical categories:
 - `CRM/People/`
 - `CRM/Organizations/`
 - `CRM/Interactions/`
-- `CRM/Templates/`
+- `CRM/[Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/)/`
 
 This structure ensures that when you run queries or filters later, you can easily scope them to specific directories, significantly improving load times and query accuracy as your database grows.
 

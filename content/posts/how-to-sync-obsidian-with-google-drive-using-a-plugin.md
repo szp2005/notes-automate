@@ -16,7 +16,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 # How to Sync Obsidian with Google Drive Using a Plugin (Free, Step-by-Step Guide)
 
 > **TL;DR**
-> - The **Remotely Save** community plugin connects your Obsidian vault to Google Drive for free, replacing the need for a paid Obsidian Sync subscription.
+> - The **Remotely Save** [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugin connects your Obsidian vault to Google Drive for free, replacing the need for a paid Obsidian Sync subscription.
 > - Setup takes under 10 minutes: install the plugin, authenticate with Google, run your first sync, then repeat on every device.
 > - Most common errors (401 auth failures, sync conflicts, missing mobile files) have simple one-step fixes covered in full below.
 
@@ -64,7 +64,7 @@ Before touching any plugin settings, confirm you have the following in place:
 - **A Google Account** with Drive access. Your free 15 GB is enough for most vaults; heavy attachment users may want to expand.
 - **Obsidian installed on your primary computer** (Windows, macOS, or Linux). Download it from obsidian.md if needed.
 - **Obsidian installed on every secondary device** — Android phone, iPhone, iPad, second laptop, etc.
-- **Community plugins enabled.** By default, Obsidian ships in "Restricted mode," which blocks all third-party plugins. Go to **Settings → Community plugins** and click **Turn on community plugins**. You'll see a one-time warning about third-party code — click **I understand** to proceed.
+- **Community [plugins](/posts/periodic-notes-plugin-weekly-reviews/) enabled.** By default, Obsidian ships in "Restricted mode," which blocks all third-party plugins. Go to **Settings → Community plugins** and click **Turn on community plugins**. You'll see a one-time warning about third-party code — click **I understand** to proceed.
 
 > 💼 **Power-user note:** If you manage notes for a team or small business and need more than 15 GB, Google Workspace starts at around $6/user/month and gives each account a minimum of 30 GB pooled storage, along with shared drives and admin controls. Worth the upgrade if your vault contains project [documentation](/posts/how-to-use-obsidian-for-software-engineering-documentation/), client files, or large media attachments.
 
@@ -199,7 +199,7 @@ By default, it syncs the entire vault including the `.obsidian` folder, which co
 
 ### What happens if I run out of Google Drive storage?
 
-Sync will fail with a storage quota error. Remotely Save will log the error rather than silently skip files. Free up Drive space, or upgrade your Google storage. If you prefer not to use Google's ecosystem at all, pCloud is a strong privacy-focused alternative — it offers end-to-end encrypted storage out of the box with a lifetime plan option, and Remotely Save supports it as a WebDAV backend.
+Sync will fail with a storage quota error. Remotely Save will log the error rather than silently skip files. Free up Drive space, or upgrade your Google storage. If you prefer not to use Google's ecosystem at all, pCloud is a strong [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/)-focused alternative — it offers end-to-end encrypted storage out of the box with a lifetime plan option, and Remotely Save supports it as a WebDAV backend.
 
 ### Can I sync multiple vaults to the same Google Drive account?
 

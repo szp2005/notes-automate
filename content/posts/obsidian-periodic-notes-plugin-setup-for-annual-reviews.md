@@ -35,7 +35,7 @@ The Periodic Notes plugin by Liam Cain is the structural foundation of this [wor
 
 **Pros:**
 - Creates a seamless hierarchy from days to years
-- Allows distinct templates for different time scales
+- Allows distinct [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) for different time scales
 - Predictable date-math logic for folder structures
 
 **Cons:**
@@ -51,7 +51,7 @@ The Periodic Notes plugin by Liam Cain is the structural foundation of this [wor
 While Periodic Notes handles the creation of your yearly review file, Templater dictates what goes inside it. Templater uses powerful JavaScript variables to automatically insert exact dates, calculate the previous year, and dynamically generate links to your 12 monthly notes. This eliminates the friction of manually building your review document from scratch every December.
 
 **Pros:**
-- Unmatched automation for date calculations
+- Unmatched [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) for date calculations
 - Supports complex JavaScript functions
 - Replaces standard Obsidian templates entirely
 
@@ -74,7 +74,7 @@ An effective annual review requires evidence, not just memory. Dataview acts as 
 
 **Cons:**
 - Queries only render in reading or live preview mode
-- Requires consistent metadata tagging throughout the year
+- Requires consistent [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) tagging throughout the year
 
 ## Step-by-Step Configuration Guide
 

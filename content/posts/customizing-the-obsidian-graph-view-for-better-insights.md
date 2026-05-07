@@ -11,11 +11,11 @@ type: "informational"
 
 # Customizing the Obsidian Graph View for Better Insights: 7-Step Guide
 
-> **Quick Answer:** Customizing the Obsidian graph view for better insights requires a strategic combination of color-coded Groups, precise node Filters, and adjusted Display Forces. By assigning distinct colors to specific tags or folders and tightening the link distance, you can transform a chaotic hairball into a readable map that highlights knowledge gaps and structural themes.
+> **Quick Answer:** Customizing the Obsidian graph view for better insights requires a strategic combination of color-coded Groups, precise node Filters, and adjusted Display Forces. By assigning distinct colors to specific tags or folders and tightening the link distance, you can transform a chaotic hairball into a readable map that highlights knowledge gaps and structural [themes](/posts/things-theme-vs-minimal-theme-obsidian/).
 
 The Obsidian graph view is often the feature that draws users to the application. It visually represents the connections between your ideas, promising a tangible, interactive map of your second brain. However, as your vault grows beyond a few hundred notes, that beautiful map almost inevitably degenerates into an unreadable, tangled mess of gray dots and intersecting lines. Without deliberate intervention, it becomes a chaotic mass that offers zero analytical value. 
 
-Transforming this default state into a powerful analytical tool requires intentional configuration. Customizing the Obsidian graph view for better insights is not just about making it look aesthetically pleasing; it is about manipulating the visual data to answer specific questions about your knowledge base. Are there isolated clusters of research that need integration? Are your primary hub notes becoming too dense and unfocused? Which concepts are dominating your current thinking?
+Transforming this default state into a powerful analytical tool requires intentional configuration. Customizing the Obsidian graph view for better insights is not just about making it look aesthetically pleasing; it is about manipulating the visual data to answer specific questions about your knowledge base. Are there isolated clusters of [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) that need integration? Are your primary hub notes becoming too dense and unfocused? Which concepts are dominating your current thinking?
 
 By moving beyond the default settings and strategically applying search queries, color groupings, and physics adjustments, you can uncover hidden relationships and structural weaknesses within your vault. This guide provides a systematic approach to configuring your graph view, turning it from a passive picture into an active engine for discovery, synthesis, and meaningful knowledge generation.
 
@@ -49,7 +49,7 @@ For example, set `path:"Projects"` to vibrant red, `path:"Resources"` to blue, a
 
 ### Using Complex Search Queries for Groups
 
-Groups also accept complex search operators. This allows for workflow-based color coding. If you use metadata to track note status (e.g., `status: draft`, `status: polished`), you can create a group for `["status": "draft"]` and color it orange, while `["status": "polished"]` is green. 
+Groups also accept complex search operators. This allows for workflow-based color coding. If you use [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) to track note status (e.g., `status: draft`, `status: polished`), you can create a group for `["status": "draft"]` and color it orange, while `["status": "polished"]` is green. 
 
 When you open your graph, you instantly see where the incomplete work lies. If an important hub note is surrounded by orange draft nodes, you know exactly where to focus your writing efforts for the week. This transforms the graph from a passive visualization into an actionable task manager.
 

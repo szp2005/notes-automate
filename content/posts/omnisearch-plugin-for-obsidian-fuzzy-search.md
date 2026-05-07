@@ -27,7 +27,7 @@ First, exact-match systems are entirely unforgiving of human error. Typos happen
 
 Second, native search lacks an intuitive relevance ranking system out of the box. While you can sort by modified date or file name, you cannot inherently sort by "how well this note answers my query." If an exact string appears once in a 3,000-word essay and five times in a 200-word concept note, a basic exact-match search does not always effectively prioritize the concept note as the more relevant result without additional query syntax.
 
-Finally, the native search is blind to the content locked inside non-text files. If you drag and drop a screenshot of a presentation or a scanned PDF document into your vault, the text within those files is invisible to the core Obsidian search application. For researchers, students, and professionals who rely heavily on reference documents, this creates isolated silos of unsearchable information within the very tool designed to synthesize knowledge.
+Finally, the native search is blind to the content locked inside non-text files. If you drag and drop a screenshot of a presentation or a scanned PDF document into your vault, the text within those files is invisible to the core Obsidian search application. For [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), students, and professionals who rely heavily on reference documents, this creates isolated silos of unsearchable information within the very tool designed to synthesize knowledge.
 
 ## How the Omnisearch Plugin Transforms Obsidian Fuzzy Search
 
@@ -69,7 +69,7 @@ Once configured, simply press your designated hotkey to summon the Omnisearch ov
 While Omnisearch is highly optimized, vaults exceeding 10,000 files—especially those heavy on large PDF attachments—can occasionally cause performance stutters during the indexing phase or consume excess memory. Here are concrete dimensions and tradeoffs to consider for optimal performance.
 
 **Manage Indexed Folders**
-You do not need to index everything. If you have a folder containing thousands of automated daily logs, script outputs, or purely archival templates that you never actively search for, exclude them. In the Omnisearch settings, use the "Ignored folders" option to blacklist specific directories. This significantly reduces the size of the index file (often dropping it from 50MB down to 10MB) and speeds up both search times and the background indexing process.
+You do not need to index everything. If you have a folder containing thousands of automated daily logs, script outputs, or purely archival [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) that you never actively search for, exclude them. In the Omnisearch settings, use the "Ignored folders" option to blacklist specific directories. This significantly reduces the size of the index file (often dropping it from 50MB down to 10MB) and speeds up both search times and the background indexing process.
 
 **Consider the Mobile Tradeoff**
 Omnisearch works on Obsidian Mobile (iOS and Android), but mobile devices have significantly less RAM and weaker processors than desktop computers. Running full OCR and fuzzy search indexes on a massive vault via a smartphone can lead to battery drain and application crashes. If you use Obsidian heavily on mobile, it is highly recommended to disable the "Index PDF/Images" toggle in the mobile Omnisearch settings. Keep the fuzzy search for markdown text, but offload the heavy lifting of OCR to your desktop environment.
@@ -82,7 +82,7 @@ Text Extractor's OCR is excellent but not flawless. It struggles with heavily st
 The Obsidian community offers several tools for retrieval, and it is important to understand where the Omnisearch plugin for Obsidian fuzzy search fits into the broader ecosystem.
 
 **Omnisearch vs. Native Search:** 
-Native search is best for programmatic, precise filtering. If you need to find "all files tagged #book that have the property 'status: reading' and mention the exact phrase 'chapter 3'," native search is superior. Omnisearch is best for human-centric retrieval—when you know a concept exists but cannot recall the exact metadata or phrasing.
+Native search is best for programmatic, precise filtering. If you need to find "all files tagged #book that have the property 'status: reading' and mention the exact phrase 'chapter 3'," native search is superior. Omnisearch is best for human-centric retrieval—when you know a concept exists but cannot recall the exact [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) or phrasing.
 
 **Omnisearch vs. Vantage:**
 Vantage is an advanced search builder for Obsidian. It does not replace the native search engine; rather, it provides a graphical interface to build complex, nested Boolean queries that the native search engine executes. Vantage requires precision and planning. Omnisearch requires almost no planning, relying entirely on algorithmic scoring to surface the right note instantly.

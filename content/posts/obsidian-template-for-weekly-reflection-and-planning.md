@@ -35,7 +35,7 @@ In Obsidian, this often involves checking your daily notes for incomplete tasks.
 
 Reflection requires looking backward with objectivity. This section of the template focuses on qualitative assessment. It asks targeted questions about what went well, what failed, and what friction points occurred. 
 
-Effective reflection templates avoid generic questions like "How was my week?" Instead, they use specific prompts:
+Effective reflection [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) avoid generic questions like "How was my week?" Instead, they use specific prompts:
 * What gave me energy this week?
 * What drained my energy?
 * Which goal did I neglect, and why?
@@ -57,7 +57,7 @@ To maximize the effectiveness of the weekly template, specific core and communit
 For this template to function automatically, install and enable the following plugins:
 
 1. **[Periodic Notes](/posts/obsidian-periodic-notes-plugin-setup-for-annual-reviews/):** This is the engine for time-based notes. It replaces the core Daily Notes plugin and adds native support for Weekly, Monthly, and Yearly notes. You will configure it to point to your designated `Templates` folder and set the output destination to a `Periodic/Weekly` folder.
-2. **Templater:** The core Templates plugin is insufficient for advanced workflows. Templater allows you to use dynamic variables (like automatically calculating the dates of the current week) and execute internal scripts when the note is created.
+2. **[Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/):** The core Templates plugin is insufficient for advanced workflows. Templater allows you to use dynamic variables (like automatically calculating the dates of the current week) and execute internal scripts when the note is created.
 3. **Dataview:** This plugin turns your Obsidian vault into a database. It allows the template to automatically query and display tasks, habits, and notes linked to the current week.
 4. **Calendar:** While optional, the Calendar plugin provides a visual interface in your sidebar to easily create and navigate between weekly notes by clicking on the week number.
 
@@ -148,7 +148,7 @@ The template provided above uses several advanced features to minimize friction.
 
 ### YAML Frontmatter and Templater Logic
 
-The top section enclosed in `---` is the frontmatter. It stores metadata about the note. The Templater syntax (`<% ... %>`) calculates the exact start and end dates based on the week number. 
+The top section enclosed in `---` is the frontmatter. It stores [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) about the note. The Templater syntax (`<% ... %>`) calculates the exact start and end dates based on the week number. 
 
 For example, `start_date: <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "gggg-[W]ww") %>` determines the Monday of the current week. This metadata is critical because Dataview uses these exact dates to pull in the correct daily notes.
 

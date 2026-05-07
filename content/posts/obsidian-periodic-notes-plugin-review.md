@@ -16,7 +16,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 # Obsidian Periodic Notes Plugin Review: Hands-On Setup, Advanced Workflows, and Honest Verdict
 
 **TL;DR**
-- The Periodic Notes plugin replaces Obsidian's basic Daily Notes core plugin and adds weekly, monthly, quarterly, and yearly notes with separate folders and templates — all automated.
+- The Periodic Notes plugin replaces Obsidian's basic Daily Notes core plugin and adds weekly, monthly, quarterly, and yearly notes with separate folders and [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) — all automated.
 - Setup takes under 15 minutes but requires a clear folder structure decision upfront; skip that step and you'll spend weeks reorganizing.
 - Best for intermediate-to-advanced PKM users who want a structured, reviewable timeline of their work and life — not for casual note-takers who open Obsidian once a week.
 
@@ -38,7 +38,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Here's a vault most Obsidian users recognize: 847 daily notes dumped in the root folder, named `2024-01-15.md` through `2025-03-04.md`, no templates, no linking between days, and zero weekly reviews. You *remember* writing something important about a project in February but searching "project" returns 200 results. Congratulations — you have built a digital junk drawer.
 
-The Periodic Notes plugin, developed by Liam Cain, solves a structural problem, not a [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) problem. It enforces a time-based hierarchy: daily notes feed into weekly notes, weekly notes feed into monthly notes, and so on up to yearly retrospectives. Each level lives in its own folder, opens from a hotkey, and auto-populates from a template you define once.
+The Periodic Notes plugin, developed by Liam Cain, solves a structural problem, not a [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) problem. It enforces a time-based hierarchy: daily notes feed into weekly notes, weekly notes feed into monthly notes, and so on up to yearly retrospectives. Each level lives in its own folder, opens from a hotkey, and auto-populates from a template you define once.
 
 The philosophy here is the same one Tiago Forte outlines in Building a Second Brain — capture consistently, organize by action, and review regularly. Periodic Notes automates the "organize" and "review" steps so you stop deciding and start doing.
 
@@ -205,7 +205,7 @@ where file.name contains "2025"
 
 Every monthly note has a `monthly-focus` frontmatter property you set on the 1st. By December, you have a full-year timeline of what mattered each month.
 
-**Sprint Retrospectives for Project Management**
+**Sprint Retrospectives for [Project Management](/posts/obsidian-project-management-academic-research-teams/)**
 
 Weekly notes make natural sprint containers. Tag each weekly note with `sprint: true` in frontmatter. Then your project dashboard queries:
 

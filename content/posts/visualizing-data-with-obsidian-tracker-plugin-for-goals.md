@@ -11,7 +11,7 @@ type: "informational"
 
 # Visualizing Data With Obsidian Tracker Plugin For Goals: Complete Setup Guide
 
-> **Quick Answer:** Visualizing data with Obsidian Tracker plugin for goals requires structuring your daily notes with YAML frontmatter or inline Dataview fields (e.g., `water: 8`), then using the `tracker` code block to query that data. You can generate line charts, bar graphs, and habit calendars by defining the search target, specifying the folder scope, and customizing the visual output type.
+> **Quick Answer:** Visualizing data with Obsidian Tracker plugin for goals requires structuring your [daily notes](/posts/automate-obsidian-daily-notes-using-python/) with YAML frontmatter or inline [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) fields (e.g., `water: 8`), then using the `tracker` code block to query that data. You can generate line charts, bar graphs, and habit calendars by defining the search target, specifying the folder scope, and customizing the visual output type.
 
 Tracking goals in a fragmented system often leads to abandoned habits and forgotten resolutions. If you are already using Obsidian as your primary knowledge base or daily journal, moving your goal tracking into the same environment reduces friction. The Obsidian Tracker plugin transforms your vault from a static repository of markdown files into a dynamic, quantitative dashboard.
 
@@ -44,7 +44,7 @@ Example formatting:
 `Today I drank water:: 8 glasses and felt great.`
 
 ### Simple Text Tags
-For simple habit tracking (yes/no binary outcomes), you can simply drop a tag like `#meditated` or `#worked_out` anywhere in the note. The Tracker plugin can count the occurrences of these tags over time.
+For simple [habit tracking](/posts/obsidian-plugins-for-habit-tracking-2026/) (yes/no binary outcomes), you can simply drop a tag like `#meditated` or `#worked_out` anywhere in the note. The Tracker plugin can count the occurrences of these tags over time.
 
 ## Installing and Configuring the Tracker Plugin
 

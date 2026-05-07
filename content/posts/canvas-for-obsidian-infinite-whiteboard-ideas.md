@@ -17,7 +17,7 @@ Visual thinkers often hit a cognitive wall when using strictly text-based person
 
 Despite having access to this feature natively, many users stare at a blank Canvas file and struggle to figure out how to incorporate it into their existing text-heavy workflows. The shift from writing linear documents to placing cards in a spatial environment requires an entirely different mental model. It demands that you think about grouping, proximity, and visual hierarchy rather than just headings and bullet points.
 
-This comprehensive guide explores practical, high-impact Canvas for Obsidian infinite whiteboard ideas. Whether you are mapping out a long fantasy novel, preparing an academic research paper, or organizing your daily task management system, these setups will help you maximize the spatial reasoning capabilities of your Obsidian vault.
+This comprehensive guide explores practical, high-impact Canvas for Obsidian infinite whiteboard ideas. Whether you are mapping out a long fantasy novel, preparing an [academic research](/posts/advanced-obsidian-templates-for-literature-review-matrix/) paper, or organizing your daily task management system, these setups will help you maximize the spatial reasoning capabilities of your Obsidian vault.
 
 ## Visualizing Research and Literature Reviews
 
@@ -49,7 +49,7 @@ This modular approach allows you to see instantly if a chapter is overloaded wit
 
 ## Building Dynamic Dashboards and Home Pages
 
-Your vault's entry point sets the tone for your entire [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). A visual dashboard built on a Canvas can be far more engaging and functionally dense than a standard markdown index note.
+Your vault's entry point sets the tone for your entire [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). A visual dashboard built on a Canvas can be far more engaging and functionally dense than a standard markdown index note.
 
 ### The Daily Operations Center
 Design a central home Canvas that you open first thing in the morning. Include a card that embeds your daily note or your primary task list. Right next to it, place a card linking to your current highest-priority project. 
@@ -63,7 +63,7 @@ This creates a literal, interactive map of your knowledge. Navigation becomes va
 
 ## Managing Daily Tasks and Complex Projects
 
-Task management in Obsidian is often handled by plugins like Tasks or Dataview, but for those who prefer Kanban boards or visual project management, the Canvas offers flexibility.
+Task management in Obsidian is often handled by plugins like Tasks or Dataview, but for those who prefer Kanban boards or visual [project management](/posts/obsidian-project-management-academic-research-teams/), the Canvas offers flexibility.
 
 ### The Freeform Kanban Board
 Create a Canvas to act as your project pipeline. Draw three large group boxes: "To Do," "Doing," and "Done." Instead of simple text tasks, drop entire project notes, reference images, or bug reports into the "To Do" box. As you work through your week, physically drag these notes from one column to the next. This tactile interaction provides a sense of accomplishment and allows you to attach extensive context to a task that a simple checkbox cannot accommodate.

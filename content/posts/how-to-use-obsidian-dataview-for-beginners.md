@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian Dataview for Beginners: Complete Guide
 
-> **Quick Answer:** To use Obsidian Dataview, install the plugin from community plugins, add structured metadata (like YAML frontmatter) to your notes, and write queries using the Dataview Query Language (DQL). A basic query looks like ````dataview LIST FROM "folder"````, which automatically generates a list of all notes within that specific folder. 
+> **Quick Answer:** To use Obsidian Dataview, install the plugin from community plugins, add structured [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) (like YAML frontmatter) to your notes, and write queries using the Dataview Query Language (DQL). A basic query looks like ````dataview LIST FROM "folder"````, which automatically generates a list of all notes within that specific folder. 
 
 When you first start using Obsidian, the freedom of plain-text markdown files is liberating. You create folders, drop links between notes, and watch your local graph grow. However, as your vault expands from a few dozen notes to hundreds or thousands, manually updating index pages and tracking down specific types of information becomes a tedious, error-prone chore. You find yourself spending more time managing your vault than actually writing or thinking.
 
@@ -185,7 +185,7 @@ SORT rating DESC, author ASC
 
 ## Practical Dashboard Examples for Beginners
 
-Understanding the syntax is one thing, but applying it is where the value lies. Here are three common ways beginners can use Dataview to automate their workflows today.
+Understanding the syntax is one thing, but applying it is where the value lies. Here are three common ways beginners can use Dataview to automate their [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) today.
 
 ### 1. The Active Projects Dashboard
 
@@ -240,7 +240,7 @@ As you implement Dataview, keep these concrete recommendations and tradeoffs in 
 
 ## Conclusion
 
-Learning how to use Obsidian Dataview for beginners transforms your note-taking system from a passive filing cabinet into an active, automated assistant. By establishing clean metadata with YAML frontmatter and mastering the basic `LIST`, `TABLE`, `WHERE`, and `SORT` commands, you can build dashboards that surface exactly the information you need, exactly when you need it. Start small, standardize your property names, and focus on automating the tracking processes that currently consume your manual time.
+Learning how to use Obsidian Dataview for beginners transforms your [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/) system from a passive filing cabinet into an active, automated assistant. By establishing clean metadata with YAML frontmatter and mastering the basic `LIST`, `TABLE`, `WHERE`, and `SORT` commands, you can build dashboards that surface exactly the information you need, exactly when you need it. Start small, standardize your property names, and focus on automating the tracking processes that currently consume your manual time.
 
 ## Frequently Asked Questions
 

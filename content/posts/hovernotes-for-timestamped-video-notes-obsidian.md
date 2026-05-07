@@ -15,7 +15,7 @@ type: "informational"
 
 Extracting knowledge from video content has traditionally been a fragmented process. You watch a lecture or tutorial in a browser window, switch to a text editor to jot down a thought, and inevitably lose your place. Worse, when you review your notes weeks later, you have no efficient way to trace a specific insight back to the exact visual context that generated it.
 
-For knowledge workers, researchers, and students using Obsidian, bridging the gap between linear video consumption and interconnected text notes is critical. The visual medium contains dense, high-value information, but without a systematic way to anchor text to video timelines, that value remains locked inside the media file.
+For knowledge workers, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and students using Obsidian, bridging the gap between linear video consumption and interconnected text notes is critical. The visual medium contains dense, high-value information, but without a systematic way to anchor text to video timelines, that value remains locked inside the media file.
 
 Using HoverNotes for timestamped video notes in Obsidian solves this structural problem. By bringing the media player directly into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) environment and binding playback controls to markdown elements, you transform passive viewing into an active, verifiable research workflow. This guide details how to implement, configure, and optimize this system.
 
@@ -37,7 +37,7 @@ While the floating interface is the plugin's namesake, its core utility lies in 
 
 ### Supported Media Formats
 
-The utility of a video [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) system relies heavily on its compatibility with various sources. HoverNotes generally supports:
+The utility of a video [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) system relies heavily on its compatibility with various sources. HoverNotes generally supports:
 
 *   **YouTube:** Full support, including the ability to bypass some standard YouTube embed restrictions by utilizing specific API calls for time-seeking.
 *   **Vimeo:** Supported via standard embedding protocols, allowing for accurate timecode capture.
@@ -108,7 +108,7 @@ If you encounter an ambiguous note like "[05:30] Diagram showing the gradient de
 
 ## Advanced Strategies for Knowledge Workers
 
-Basic timestamping is effective, but integrating this practice into a broader personal knowledge management system yields higher returns.
+Basic timestamping is effective, but integrating this practice into a broader [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) system yields higher returns.
 
 ### Integrating with Zettelkasten
 

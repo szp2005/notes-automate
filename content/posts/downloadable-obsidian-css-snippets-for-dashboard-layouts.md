@@ -13,11 +13,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best Downloadable Obsidian CSS Snippets for Dashboard Layouts
 
-> **Quick Answer:** The most reliable way to build an aesthetic start page without coding is to use downloadable Obsidian CSS snippets for dashboard layouts, specifically the Modular CSS Layout (MCL), Dashboard++, and Minimal Theme's helper classes. Save these `.css` files into your `.obsidian/snippets` directory, enable them in Appearance settings, and use standard Markdown callouts to render sophisticated, multi-column grid layouts.
+> **Quick Answer:** The most reliable way to build an aesthetic start page without coding is to use downloadable Obsidian CSS snippets for dashboard layouts, specifically the Modular CSS Layout (MCL), Dashboard++, and [Minimal Theme](/posts/things-theme-vs-minimal-theme-obsidian/)'s helper classes. Save these `.css` files into your `.obsidian/snippets` directory, enable them in Appearance settings, and use standard Markdown callouts to render sophisticated, multi-column grid layouts.
 
 Opening Obsidian to a blank, unformatted page can cause unnecessary friction when you sit down to work. While Obsidian excels at text rendering and graph visualization, out-of-the-box it lacks native multi-column dashboard capabilities. A functional workspace requires an entry point—a home base that aggregates your daily notes, current projects, pinned resources, and high-level tasks into a structured interface.
 
-Instead of wrestling with complex HTML or building a proprietary theme from scratch, intermediate and advanced users rely on custom snippets. Snippets are isolated, modular CSS files that inject specific layout logic without overwriting your primary theme. They provide a native-feeling framework for organizing Markdown elements horizontally rather than strictly vertically.
+Instead of wrestling with complex HTML or building a proprietary theme from scratch, intermediate and [advanced users](/posts/explaining-obsidian-properties-for-advanced-[metadata](/posts/explaining-obsidian-metadata-menu-for-structured-data/)-schemas/) rely on custom snippets. Snippets are isolated, modular CSS files that inject specific layout logic without overwriting your primary theme. They provide a native-feeling framework for organizing Markdown elements horizontally rather than strictly vertically.
 
 Implementing downloadable Obsidian CSS snippets for dashboard layouts transforms a standard markdown file into a robust control center. By applying targeted metadata classes and callout structures, you can build responsive grids, interactive card galleries, and multi-column navigation menus that automatically adjust to your window width.
 

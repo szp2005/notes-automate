@@ -29,7 +29,7 @@ Raw web clips are not Zettels (permanent notes). They are source material. If yo
 
 ## Choosing the Right Web Clipping Tools
 
-The first step in your workflow is capturing the information efficiently. You need tools that allow you to highlight text, save the source URL, and ideally capture metadata (author, publication date, title) without interrupting your reading flow. The market offers several robust options depending on your central [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) application.
+The first step in your workflow is capturing the information efficiently. You need tools that allow you to highlight text, save the source URL, and ideally capture [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) (author, publication date, title) without interrupting your reading flow. The market offers several robust options depending on your central [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) application.
 
 Dedicated read-it-later applications like Omnivore, Matter, and Instapaper allow you to save articles, read them in a distraction-free environment, and highlight key passages. These tools often feature robust APIs or direct integrations with popular markdown-based note apps. 
 
@@ -114,7 +114,7 @@ Tags are generally more flexible than rigid folder structures. Tag the permanent
 Aim for no more than 15 to 30 minutes of processing time. If you cannot process your daily captures within that timeframe, you are highlighting too much information. Constrain your reading or be more selective with your capture tool to ensure your Inbox remains manageable.
 
 ### Can I automate the creation of permanent notes using AI?
-While AI tools can automatically summarize web clips, relying on them defeats the core purpose of a Zettelkasten. The primary value of the system is the cognitive effort required to synthesize the information yourself. Outsourcing the thinking to an AI deprives you of the deep understanding and memory retention that manual processing provides. Use automation for capturing and formatting, but reserve the synthesis for your own brain.
+While AI tools can automatically summarize web clips, relying on them defeats the core purpose of a Zettelkasten. The primary value of the system is the cognitive effort required to synthesize the information yourself. Outsourcing the thinking to an AI deprives you of the deep understanding and memory retention that manual processing provides. Use [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) for capturing and formatting, but reserve the synthesis for your own brain.
 
 ---
 

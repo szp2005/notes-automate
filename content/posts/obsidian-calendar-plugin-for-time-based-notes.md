@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Managing knowledge without a temporal dimension often leads to a static archive. While linking ideas by concept is powerful, human memory and workflow are heavily tied to time. We remember *when* we had an idea, *when* a meeting occurred, or *when* a project is due. This is where time-based notes become essential. 
 
-The Obsidian Calendar plugin bridges the gap between pure knowledge management and daily operation. It provides an intuitive, visual interface for the Daily Notes core plugin, allowing you to anchor your thoughts, tasks, and journals to specific days. Instead of searching through folders for a meeting note from last Tuesday, you simply click on the calendar.
+The Obsidian Calendar plugin bridges the gap between pure [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) and daily operation. It provides an intuitive, visual interface for the Daily Notes core plugin, allowing you to anchor your thoughts, tasks, and journals to specific days. Instead of searching through folders for a meeting note from last Tuesday, you simply click on the calendar.
 
 This guide explores how to set up, configure, and optimize the Obsidian Calendar plugin for time-based notes, turning your vault into a cohesive chronological record.
 
@@ -62,7 +62,7 @@ In the plugin settings, you can enable "Show words" to visualize the length of y
 * A small dot indicates a brief note.
 * Larger or multiple dots indicate extensive writing. 
 
-This feature provides immediate visual feedback on your journaling habit or productivity. A glance at the month reveals periods of high output and days where you barely interacted with your vault.
+This feature provides immediate visual feedback on your journaling habit or [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/). A glance at the month reveals periods of high output and days where you barely interacted with your vault.
 
 ### Task Management Integration
 
@@ -120,7 +120,7 @@ Do not mix your evergreen notes, project files, and conceptual writing with your
 
 ## Advanced Workflows with Dataview
 
-The Calendar plugin provides the interface, but the **Dataview** community plugin provides the analytical power. Combining these two elevates Obsidian from a note-taking app to a database.
+The Calendar plugin provides the interface, but the **Dataview** community plugin provides the analytical power. Combining these two elevates Obsidian from a [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/) app to a database.
 
 Because all your daily notes have a predictable title format (like `YYYY-MM-DD`), Dataview can easily query them. You can create a dashboard note that automatically pulls in incomplete tasks from all daily notes in the current week.
 

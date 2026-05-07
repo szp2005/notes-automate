@@ -25,7 +25,7 @@ Achieving this requires specific tooling. By utilizing an Obsidian plugin for au
 
 Before evaluating specific solutions, it helps to understand how Obsidian interacts with YouTube's infrastructure. YouTube generates automated captions for most videos and allows creators to upload manual transcripts. This data is exposed through YouTube's API and backend endpoints.
 
-When a plugin fetches this data, it performs several operations simultaneously. It requests the transcript file, parses the XML or JSON structure returned by YouTube, and formats it into Markdown. The most critical component of this process is the retention of time metadata. A block of text without context is difficult to navigate; a block of text prefixed with a `[04:23]` link that directly controls an embedded video player represents a mature knowledge management [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
+When a plugin fetches this data, it performs several operations simultaneously. It requests the transcript file, parses the XML or JSON structure returned by YouTube, and formats it into Markdown. The most critical component of this process is the retention of time metadata. A block of text without context is difficult to navigate; a block of text prefixed with a `[04:23]` link that directly controls an embedded video player represents a mature knowledge management [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/).
 
 The formatting process also dictates how the text arrives in your vault. Some plugins dump the entire transcript as a single unformatted block, requiring manual line breaks. The best tools apply logical grouping, breaking the transcript into manageable paragraphs based on time intervals or natural pauses in speech, making the resulting document significantly easier to read and highlight.
 
@@ -65,7 +65,7 @@ Next, install "Media Extended" if you intend to watch the videos directly within
 
 ### Crafting a Video Note Template
 
-To maximize efficiency, integrate the transcript import into a standardized template using the core Templates plugin or community alternatives like Templater. A strong video note template provides structure before the transcript arrives.
+To maximize efficiency, integrate the transcript import into a standardized template using the core [Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) plugin or community alternatives like [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/). A strong video note template provides structure before the transcript arrives.
 
 Create a new note called `Template - YouTube Video` and include the following structure:
 

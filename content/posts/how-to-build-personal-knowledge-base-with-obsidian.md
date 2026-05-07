@@ -36,7 +36,7 @@ By separating other people's ideas from your own generated thoughts, you prevent
 
 The defining feature of Obsidian is the bidirectional link. By wrapping any word or phrase in double brackets `[[like this]]`, Obsidian creates a link to a note with that title. If the note doesn't exist yet, clicking the link creates it.
 
-This mechanic flips traditional [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) on its head. Instead of asking "which folder does this belong in?", you ask "what concepts does this relate to?".
+This mechanic flips traditional [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) on its head. Instead of asking "which folder does this belong in?", you ask "what concepts does this relate to?".
 
 When taking a note about the psychology of habit formation, you might write: "Triggering a new behavior requires low friction, tying into the broader concept of [[Choice Architecture]]." Even if you haven't written the Choice Architecture note yet, you have created a placeholder. Over time, as you link to [[Choice Architecture]] from notes on product design, behavioral economics, and personal [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/), Obsidian builds a dense graph of connections.
 
@@ -86,7 +86,7 @@ You don't need to open the Project Apollo note to record this. Because it is lin
 Building a system is only half the battle; maintaining it requires discipline and the right tooling. Keep these practical constraints in mind as you refine your vault:
 
 **Core Plugins to Enable:**
-Start with Obsidian's built-in plugins before installing third-party community tools. Ensure "Daily Notes", "Templates", and "Backlinks" are turned on. These three features form the backbone of a functional system.
+Start with Obsidian's built-in plugins before installing third-party community tools. Ensure "Daily Notes", "[Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/)", and "Backlinks" are turned on. These three features form the backbone of a functional system.
 
 **Community Plugins (Use Sparingly):**
 While the Obsidian community offers thousands of plugins, adding too many will slow down your application and create dependencies that threaten the longevity of your plain text files. Limit yourself to high-leverage tools:
@@ -118,7 +118,7 @@ In almost all cases, you should use a single vault. Ideas cross-pollinate unexpe
 Obsidian handles attachments well. Create a dedicated "Attachments" folder and configure Obsidian's settings to default all new media uploads to that specific folder. This keeps your root directory clean while allowing you to embed images `![[image.png]]` and PDFs directly into your markdown notes.
 
 ### What is the difference between Obsidian and Notion?
-Notion is a cloud-based, block-level database application excellent for team collaboration and highly structured project management. Obsidian is a local-first, plain-text markdown editor designed for rapid, associative thought linking and long-term personal knowledge management.
+Notion is a cloud-based, block-level database application excellent for team collaboration and highly structured [project management](/posts/obsidian-project-management-academic-research-teams/). Obsidian is a local-first, plain-text markdown editor designed for rapid, associative thought linking and long-term personal knowledge management.
 
 ### Do I need to learn Markdown to use Obsidian?
 While knowing basic Markdown syntax (like `**bold**` or `# headers`) is helpful, Obsidian features a Live Preview mode that formats text as you type, acting much like a standard word processor. You can navigate the interface and format text using standard keyboard shortcuts without writing raw Markdown.

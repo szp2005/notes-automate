@@ -11,7 +11,7 @@ type: "informational"
 
 # Longform Plugin for Obsidian: Complete Guide to Manuscript Writing
 
-> **Quick Answer:** The Longform plugin transforms Obsidian from a standard [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) environment into a structured manuscript editor resembling Scrivener. It allows writers to organize individual markdown files into ordered scenes and chapters, arrange them via a drag-and-drop sidebar, and compile them into a single, cohesive manuscript file without altering the core vault hierarchy.
+> **Quick Answer:** The Longform plugin transforms Obsidian from a standard [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) environment into a structured manuscript editor resembling Scrivener. It allows writers to organize individual markdown files into ordered scenes and chapters, arrange them via a drag-and-drop sidebar, and compile them into a single, cohesive manuscript file without altering the core vault hierarchy.
 
 Writing a book, dissertation, or lengthy essay in standard markdown applications often devolves into a disorganized folder of disjointed text files. While dedicated writing software like Scrivener or Ulysses handles complex document structures beautifully, many writers prefer the privacy, speed, and cross-linking capabilities of Obsidian. The friction occurs when attempting to sequence 80 different scene files into a linear narrative. 
 
@@ -35,14 +35,14 @@ Initializing a project requires a deliberate folder structure. Creating a dedica
 
 You can install Longform directly from the Obsidian Community Plugins directory. Search for "Longform" (developed by Kevin Kelly) and enable it. 
 
-Once enabled, a new icon will appear in your left sidebar, resembling a stack of papers. Clicking this opens the Longform pane, which is the control center for your manuscript. For optimal writing, drag the Longform pane to the left sidebar alongside your standard File Explorer, and keep your right sidebar open for outline views or linked research notes.
+Once enabled, a new icon will appear in your left sidebar, resembling a stack of papers. Clicking this opens the Longform pane, which is the control center for your manuscript. For optimal writing, drag the Longform pane to the left sidebar alongside your standard File Explorer, and keep your right sidebar open for outline views or linked [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) notes.
 
 ### Creating a New Project
 
 1. Create an empty folder in your Obsidian vault. Name it something distinct, such as `Manuscript - The Silent Orbit`.
 2. Open the Longform sidebar pane.
 3. Click **Create Project** and select the folder you just created.
-4. Longform will prompt you to set an index file. This is an optional file where you can store project metadata, an outline, or a synopsis.
+4. Longform will prompt you to set an index file. This is an optional file where you can store project [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), an outline, or a synopsis.
 
 Once the project is active, any note you create via the Longform sidebar will automatically populate within that designated folder.
 

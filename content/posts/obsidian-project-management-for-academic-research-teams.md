@@ -18,7 +18,7 @@ Academic research, by its very nature, is a complex endeavor. It involves intric
 
 The challenge for academic research teams is not merely to track tasks, but to manage a dynamic web of information, ideas, and collaborations. They require a system that can not only organize project timelines and responsibilities but also facilitate deep knowledge synthesis, foster serendipitous connections between ideas, and support the iterative process of discovery. This is where Obsidian, a powerful knowledge base that works on local Markdown files, presents a compelling solution.
 
-Obsidian's unique approach to knowledge management, centered around its graph view and bidirectional linking, offers a paradigm shift for academic project management. It transforms a collection of disparate notes into an interconnected web of knowledge, mirroring the very structure of research itself. For teams, this means a shared, living repository where every piece of information—from raw data observations to literature summaries and draft manuscript sections—can be linked, contextualized, and collaboratively built upon, ultimately streamlining workflows and enhancing the collective intelligence of the team.
+Obsidian's unique approach to [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/), centered around its graph view and bidirectional linking, offers a paradigm shift for academic project management. It transforms a collection of disparate notes into an interconnected web of knowledge, mirroring the very structure of research itself. For teams, this means a shared, living repository where every piece of information—from raw data observations to literature summaries and draft manuscript sections—can be linked, contextualized, and collaboratively built upon, ultimately streamlining workflows and enhancing the collective intelligence of the team.
 
 ## Understanding Obsidian's Core Strengths for Research Teams
 
@@ -43,7 +43,7 @@ The visual graph view further enhances this by providing an interactive map of y
 Obsidian is not a monolithic application; it's a highly extensible platform. Its core functionality is robust, but its true versatility comes from its extensive plugin ecosystem. Both official and community-developed plugins allow teams to tailor Obsidian precisely to their specific research workflows. For academic project management, this includes:
 
 *   **Task Management:** Plugins like "Tasks" or "Kanban" transform Obsidian into a powerful task tracker, allowing researchers to embed to-do lists directly within their research notes and aggregate them into project dashboards.
-*   **Data Visualization:** Plugins like "Dataview" enable dynamic querying and display of information from across the vault, creating custom tables, lists, and even charts based on metadata in notes. This is crucial for tracking project progress, literature review status, or experimental parameters.
+*   **[Data Visualization](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/):** Plugins like "Dataview" enable dynamic querying and display of information from across the vault, creating custom tables, lists, and even charts based on metadata in notes. This is crucial for tracking project progress, literature review status, or experimental parameters.
 *   **Citation Management:** Integration with reference managers (e.g., Zotero via plugins like "Citations") streamlines the process of inserting citations and generating bibliographies directly from research notes.
 *   **Collaboration Tools:** While Obsidian itself is local-first, plugins and external services can facilitate shared vaults and collaborative editing, which will be discussed in more detail later.
 
@@ -278,7 +278,7 @@ Obsidian's strength lies in its flexibility, but for teams, too much flexibility
 *   **Allow for individual customization:** While core conventions are important, allow team members some freedom in how they organize their personal notes or daily logs within their own sections of the vault.
 *   **Regular Review:** Periodically review the vault's organization and conventions as a team. Are they still serving the team's needs? Do new workflows require adjustments? Be prepared to adapt and refine the system over time.
 
-By following these practical steps, academic research teams can successfully implement Obsidian as a powerful, collaborative project management and knowledge synthesis tool, enhancing their productivity and the quality of their research output.
+By following these practical steps, academic research teams can successfully implement Obsidian as a powerful, collaborative project management and knowledge synthesis tool, enhancing their [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) and the quality of their research output.
 
 ## Conclusion
 

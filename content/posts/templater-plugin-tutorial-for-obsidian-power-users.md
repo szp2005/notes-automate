@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The Templater plugin transforms Obsidian from a static text editor into an automated knowledge system. By leveraging its execution commands (`<%* %>`), system modules (`tp.file`, `tp.date`), and Javascript capabilities, power users can automate file routing, generate dynamic metadata, prompt for user inputs, and pull data from external APIs directly into their notes.
 
-For most Obsidian users, the core Templates plugin serves as a gentle introduction to avoiding repetitive typing. It handles static text insertion and basic date stamping. However, as your personal knowledge management (PKM) system grows into thousands of notes, static templates become a bottleneck. You end up spending more time managing metadata, moving files to the correct folders, and formatting links than actually writing or thinking.
+For most Obsidian users, the core Templates plugin serves as a gentle introduction to avoiding repetitive typing. It handles static text insertion and basic date stamping. However, as your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system grows into thousands of notes, static templates become a bottleneck. You end up spending more time managing metadata, moving files to the correct folders, and formatting links than actually writing or thinking.
 
 This is where the Templater plugin fundamentally changes how you interact with Obsidian. It is not just a text expander; it is a full-fledged automation engine operating within your vault.
 
@@ -25,7 +25,7 @@ This Templater plugin tutorial for Obsidian power users will skip the basic "how
 
 The native Obsidian Templates plugin is limited to simple string replacement (`{{title}}`, `{{date}}`, `{{time}}`). It cannot evaluate logic, interact with the file system, or ask you questions during note creation.
 
-As a power user, your workflow likely requires:
+As a power user, your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) likely requires:
 - Automatically moving a newly created "Meeting Note" into the `Meetings/2026/05` directory.
 - Prompting you to select a "Project Status" from a dropdown menu when creating a project dashboard.
 - Conditionally inserting text based on the day of the week or the folder the note resides in.

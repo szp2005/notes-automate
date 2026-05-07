@@ -11,7 +11,7 @@ type: "informational"
 
 # Managing Large PDF Libraries Within an Obsidian Vault: Complete Setup Guide
 
-> **Quick Answer:** Managing large PDF libraries within an Obsidian vault requires balancing storage performance with accessibility. The most effective approach is keeping the physical PDF files in an external reference manager like Zotero while using Obsidian plugins (like Zotero Integration and Omnisearch) to pull metadata, index text, and extract annotations directly into your markdown notes.
+> **Quick Answer:** Managing large PDF libraries within an Obsidian vault requires balancing storage performance with accessibility. The most effective approach is keeping the physical PDF files in an external reference manager like Zotero while using Obsidian plugins (like Zotero Integration and Omnisearch) to pull [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), index text, and extract annotations directly into your markdown notes.
 
 For academics, researchers, and serious knowledge workers, the Portable Document Format (PDF) remains the inescapable standard for sharing information. Whether you are dealing with academic papers, financial reports, technical manuals, or scanned archives, your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system eventually collides with the reality of PDF storage. 
 
@@ -25,7 +25,7 @@ When you place a PDF directly into your Obsidian vault, it behaves like an image
 
 1.  **Sync Quotas and Speeds:** If you use Obsidian Sync, the service imposes limits on individual file sizes (currently 100MB per file) and total vault storage (up to 100GB depending on your plan). Even if you use alternative syncing methods like iCloud or Syncthing, synchronizing gigabytes of binary files alongside lightweight text files significantly degrades sync performance.
 2.  **Search Blindness:** By default, Obsidian's core search plugin only indexes markdown and plain text files. It does not perform Optical Character Recognition (OCR) or extract text layers from PDFs. A 300-page manual sitting in your vault is essentially a black box to your search queries.
-3.  **Annotation Extraction:** While Obsidian's built-in PDF viewer allows for basic highlighting, extracting those highlights into your own markdown notes for synthesis requires manual copying and pasting, which disrupts the research workflow.
+3.  **Annotation Extraction:** While Obsidian's built-in PDF viewer allows for basic highlighting, extracting those highlights into your own markdown notes for synthesis requires manual copying and pasting, which disrupts the research [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/templater-plugin-tutorial-for-obsidian-power-users/)/).
 
 To solve these problems, you must decide whether to store the files internally (within the vault structure) or externally (indexed but stored elsewhere).
 

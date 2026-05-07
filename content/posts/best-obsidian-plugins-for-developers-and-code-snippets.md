@@ -93,7 +93,7 @@ This serves dual purposes: it acts as a reliable, free backup solution, and it a
 **Pros:**
 - Completely free synchronization and backup solution
 - Leverages industry-standard version control paradigms
-- Allows for branching and collaborative [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)
+- Allows for branching and collaborative [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/)
 
 **Cons:**
 - Requires familiarity with Git fundamentals
@@ -105,7 +105,7 @@ This serves dual purposes: it acts as a reliable, free backup solution, and it a
 **Price:** Free
 **Rating:** 4.8/5
 
-When you solve a difficult bug or write a useful utility function, the friction of saving it often dictates whether you actually document it. QuickAdd reduces this friction to zero. It allows you to create macros and capture templates that instantly format your clipboard contents into a proper code snippet note.
+When you solve a difficult bug or write a useful utility function, the friction of saving it often dictates whether you actually document it. QuickAdd reduces this friction to zero. It allows you to create macros and capture [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) that instantly format your clipboard contents into a proper code snippet note.
 
 You can set up a QuickAdd workflow that prompts you for the snippet's language, title, and tags, then automatically creates a new file in your designated `Snippets` folder, wrapping the clipboard text in the correct markdown code fences. This structured capture ensures your library remains organized without manual formatting overhead.
 
@@ -143,7 +143,7 @@ You can set code blocks to be folded by default, only expanding them when you ex
 **Price:** Free
 **Rating:** 4.5/5
 
-CustomJS is a power-user tool that allows you to write JavaScript functions in standard `.js` files within your vault, and then execute them anywhere using [DataviewJS](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) or Templater. This is essentially creating a standard library of utility functions for your notes.
+CustomJS is a power-user tool that allows you to write JavaScript functions in standard `.js` files within your vault, and then execute them anywhere using [DataviewJS](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) or [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/). This is essentially creating a standard library of utility functions for your notes.
 
 If you have complex logic for formatting dates, querying specific tags, or transforming API data that you use repeatedly across different notes, CustomJS lets you centralize that logic. Instead of copying and pasting the same JavaScript into multiple Dataview blocks, you call the function from your CustomJS file.
 

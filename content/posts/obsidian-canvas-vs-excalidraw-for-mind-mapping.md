@@ -13,7 +13,7 @@ tags: ["obsidian", "canvas", "excalidraw", "visual"]
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# Obsidian Canvas vs. Excalidraw for Mind Mapping: Which Visual Tool Belongs in Your PKM [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)?
+# Obsidian Canvas vs. Excalidraw for Mind Mapping: Which Visual Tool Belongs in Your PKM [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/)?
 
 ---
 
@@ -42,7 +42,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ## What This Comparison Actually Covers
 
-Visual thinking has become a legitimate pillar of personal knowledge management(/posts/using-obsidian-for-long-term-evergreen-note-management/). Whether you follow Zettelkasten, PARA, or a hybrid system, there comes a point where a list of notes is not enough—you need to *see* the relationships.
+Visual thinking has become a legitimate pillar of personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/)(/posts/using-obsidian-for-long-term-evergreen-note-management/). Whether you follow Zettelkasten, PARA, or a hybrid system, there comes a point where a list of notes is not enough—you need to *see* the relationships.
 
 Inside Obsidian, two tools fight for that job. **Obsidian Canvas** ships with the app as a core plugin. Open a new Canvas file, drop notes onto an infinite white surface, draw arrows between them, and you're done. No downloads, no configuration. **Excalidraw**, on the other hand, is a community plugin built by Zsolt Viczián that wraps the popular open-source Excalidraw whiteboard library inside your vault. It requires installation, has its own file format, and packs substantially more drawing power.
 
@@ -140,7 +140,7 @@ Canvas wins. Drop your source notes as live cards, arrange them by argument sect
 **The Project Manager documenting a process:**
 Excalidraw wins. Build a swimlane diagram or flowchart with proper connectors, shape styles, and labeled decision points. Export to SVG, paste into a shared doc, or share via Excalidraw+ with your team—none of which requires your collaborators to touch Obsidian.
 
-**The Researcher mapping a literature review:**
+**The Researcher mapping a [literature review](/posts/advanced-obsidian-templates-for-literature-review-matrix/):**
 Canvas wins. Create a node per paper (each its own note), group by theme using colored backgrounds, and connect methodological relationships with labeled arrows. The live-card feature means you never lose context while navigating the map.
 
 **The Creative Thinker doing open-ended brainstorming:**

@@ -15,9 +15,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** To securely manage Obsidian plugins across multiple devices, synchronize your `.obsidian` hidden folder using Obsidian Sync, Git, or a cloud provider. For best results across mixed environments (desktop and mobile), exclude device-specific files like `workspace.json` from your sync protocol, maintain a lean plugin list, and utilize separate configuration folders if mobile incompatibility arises.
 
-As your Obsidian vault grows from a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) repository into a comprehensive personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system, you inevitably rely more on community plugins. Tools like Dataview, Templater, and Tasks transform flat text files into dynamic databases and automated workflows. However, this power introduces a significant logistical hurdle: keeping those tools, and their exact settings, consistent across your desktop, laptop, tablet, and smartphone.
+As your Obsidian vault grows from a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) repository into a comprehensive personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system, you inevitably rely more on community plugins. Tools like Dataview, [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/), and Tasks transform flat text files into dynamic databases and automated workflows. However, this power introduces a significant logistical hurdle: keeping those tools, and their exact settings, consistent across your desktop, laptop, tablet, and smartphone.
 
-The frustration of configuring a complex Dataview query on your Mac, only to open your iPhone and find the plugin missing or misconfigured, is a common pain point for intermediate and advanced users. Because Obsidian stores all application settings, theme data, and plugin configurations locally alongside your plain text files, managing these assets requires a deliberate synchronization strategy. 
+The frustration of configuring a complex Dataview query on your Mac, only to open your iPhone and find the plugin missing or misconfigured, is a common pain point for intermediate and [advanced users](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/). Because Obsidian stores all application settings, theme data, and plugin configurations locally alongside your plain text files, managing these assets requires a deliberate synchronization strategy. 
 
 This guide breaks down the architecture of Obsidian's plugin system, compares the most effective synchronization methods available in 2026, and provides concrete technical solutions for handling edge cases like mobile-incompatible plugins and conflicting workspace layouts.
 
@@ -135,7 +135,7 @@ Some plugins generate massive amounts of local data. For example, plugins that i
 ### 5. Be Wary of Absolute Paths
 When configuring plugins that interact with your file system (like attachment managers, template engines, or script runners), always use relative paths instead of absolute paths. 
 
-*   **Wrong:** `C:\Users\Alex\Documents\Vault\Templates`
+*   **Wrong:** `C:\Users\Alex\Documents\Vault\[Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/)`
 *   **Right:** `Templates/`
 
 An absolute path hardcoded into a plugin's settings will instantly break when synced to a device with a different operating system or folder structure.

@@ -67,7 +67,7 @@ Each Obsidian vault becomes a Git repository. When you make changes on one devic
     *   On your local machine, add the remote:
         `git remote add origin ssh://user@your_server_ip:/path/to/your/repos/obsidian-vault.git` (adjust for Gitea/GitLab if applicable)
     *   Push your initial commit: `git push -u origin master` (or `main` if that's your default branch).
-5.  **Synchronization Workflow:**
+5.  **Synchronization [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/):**
     *   **Before editing:** `git pull origin master`
     *   **After editing:**
         ```bash
@@ -110,7 +110,7 @@ Syncthing is an open-source, peer-to-peer file synchronization application. It a
 *   **Disadvantages:** Can be resource-intensive on mobile, initial setup can be confusing for beginners, requires all devices to be online for direct peer-to-peer sync (unless a relay server is used).
 
 ### Nextcloud
-Nextcloud is a self-hosted suite of productivity tools, including a robust file synchronization and sharing platform. It acts as your personal cloud, providing a centralized server for your files, which are then synchronized to your devices via Nextcloud desktop and mobile clients.
+Nextcloud is a self-hosted suite of [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) tools, including a robust file synchronization and sharing platform. It acts as your personal cloud, providing a centralized server for your files, which are then synchronized to your devices via Nextcloud desktop and mobile clients.
 
 #### Setting Up Nextcloud
 1.  **Install Nextcloud Server:** Install Nextcloud on your self-hosted server (e.g., a VPS, Raspberry Pi, or home server). This typically involves a web server (Apache/Nginx), PHP, and a database (MySQL/PostgreSQL).

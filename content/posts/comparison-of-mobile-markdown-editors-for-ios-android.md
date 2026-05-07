@@ -44,7 +44,7 @@ For users who operate in a mixed OS environment—perhaps using an Android phone
 **Price:** Free - $48/year (Sync)
 **Rating:** 4.9/5
 
-Obsidian has rapidly evolved from a desktop powerhouse into a highly capable mobile application for both iOS and Android. It operates on local Markdown files, ensuring you maintain complete ownership of your data. The mobile app mirrors the desktop functionality impressively well, offering access to the vast ecosystem of community plugins and themes. For users building a Zettelkasten or personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system, Obsidian provides unparalleled linking, graphing, and organizational tools directly on your phone.
+Obsidian has rapidly evolved from a desktop powerhouse into a highly capable mobile application for both iOS and Android. It operates on local Markdown files, ensuring you maintain complete ownership of your data. The mobile app mirrors the desktop functionality impressively well, offering access to the vast ecosystem of community plugins and [themes](/posts/things-theme-vs-minimal-theme-obsidian/). For users building a Zettelkasten or personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system, Obsidian provides unparalleled linking, graphing, and organizational tools directly on your phone.
 
 **Pros:**
 - Exceptional bidirectional linking and graph view capabilities
@@ -78,7 +78,7 @@ iA Writer remains the gold standard for minimalist text editing on mobile device
 **Price:** Free - $29.99/year (Pro)
 **Rating:** 4.4/5
 
-JotterPad caters specifically to creative writers, offering specialized templates for screenplays, articles, and novels. Available on both major mobile platforms, it bridges the gap between a standard markdown editor and a full-fledged word processor. It features an intuitive WYSIWYG markdown interface, meaning the formatting renders as you type without needing a separate preview pane. This makes it highly accessible for writers who prefer visual feedback over looking at raw code syntax.
+JotterPad caters specifically to creative writers, offering specialized [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) for screenplays, articles, and novels. Available on both major mobile platforms, it bridges the gap between a standard markdown editor and a full-fledged word processor. It features an intuitive WYSIWYG markdown interface, meaning the formatting renders as you type without needing a separate preview pane. This makes it highly accessible for writers who prefer visual feedback over looking at raw code syntax.
 
 **Pros:**
 - Excellent built-in templates for various writing formats, including Fountain for scripts
@@ -95,7 +95,7 @@ Sometimes the best tools are built specifically for the constraints and design l
 
 ### 4. Bear
 
-**Best for:** iOS users wanting aesthetic note-taking
+**Best for:** iOS users wanting aesthetic [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/)
 **Price:** Free - $29.99/year (Bear Pro)
 **Rating:** 4.8/5
 

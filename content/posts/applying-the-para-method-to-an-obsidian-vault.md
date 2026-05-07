@@ -45,7 +45,7 @@ A Project is a series of tasks linked to a specific goal, with a clear completio
 - `Drafting Obsidian PARA Guide`
 - `Planning Trip to Tokyo`
 
-Inside these folders, you place all notes, meeting transcripts, research, and drafts relevant only to that specific goal. 
+Inside these folders, you place all notes, meeting transcripts, [research](/posts/obsidian-vs-devonthink-for-large-research-archives/), and drafts relevant only to that specific goal. 
 
 ### 2-Areas
 An Area of Responsibility is a sphere of activity with a standard to be maintained over time. Unlike Projects, Areas never truly finish.
@@ -89,7 +89,7 @@ The folder structure tells you what to work on today. The links provide the deep
 ### The Role of MOCs (Maps of Content)
 When applying the PARA method to an Obsidian vault, you will likely accumulate dozens of projects and hundreds of resources. Maps of Content (MOCs) serve as indexes for these areas.
 
-You can create an `Area MOC` note inside your `2-Areas` folder that simply lists and links to the core pillars of your life. Similarly, a `Projects Dashboard` note placed at the root of `1-Projects` can use the Dataview plugin to automatically query and display all active project notes.
+You can create an `Area MOC` note inside your `2-Areas` folder that simply lists and links to the core pillars of your life. Similarly, a `Projects Dashboard` note placed at the root of `1-Projects` can use the [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) plugin to automatically query and display all active project notes.
 
 ### Tagging for State, Not Subject
 Because PARA handles the "actionability" and your folder names describe the broad context, tagging by subject becomes redundant. Instead, use tags to indicate the *state* or *type* of a note.
@@ -108,7 +108,7 @@ The true power of PARA is its fluidity. Notes are not meant to stay in one folde
 ### The Inbox Concept
 To keep your PARA structure clean, create an `0-Inbox` folder at the top of your vault. Every new note, web clipping, or random thought generated on the go goes into the Inbox first. 
 
-During your weekly review, process the Inbox. Ask yourself: "Is this actionable right now?" If yes, move it to a Project. If it relates to an ongoing standard, move it to an Area. If it is just interesting information, file it under Resources.
+During your [weekly review](/posts/obsidian-template-for-weekly-reflection-and-planning/), process the Inbox. Ask yourself: "Is this actionable right now?" If yes, move it to a Project. If it relates to an ongoing standard, move it to an Area. If it is just interesting information, file it under Resources.
 
 ### Project Completion and Archiving
 When a project finishes, resist the urge to meticulously sort its contents into Resources or Areas. Move the entire Project folder directly into `4-Archives`. 

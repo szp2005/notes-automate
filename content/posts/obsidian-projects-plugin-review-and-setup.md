@@ -13,12 +13,12 @@ tags: ["obsidian", "project management", "projects plugin", "workflow"]
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# Obsidian Projects Plugin: The Ultimate Review, Setup Guide & Power-User Templates (2024)
+# Obsidian Projects Plugin: The Ultimate Review, Setup Guide & Power-User [Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) (2024)
 
 > **TL;DR**
 > - The Obsidian Projects plugin turns any folder of notes into a visual dashboard with Table, Board, Calendar, and Gallery views — no code required.
-> - It's faster to set up than Dataview for visual project management, but less flexible for complex queries; the two tools complement each other well.
-> - This guide includes three copy-paste project templates, a Templater + QuickAdd integration walkthrough, and a troubleshooting section for the most common setup failures.
+> - It's faster to set up than Dataview for visual [project management](/posts/obsidian-project-management-academic-research-teams/), but less flexible for complex queries; the two tools complement each other well.
+> - This guide includes three copy-paste project templates, a [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/) + QuickAdd integration walkthrough, and a troubleshooting section for the most common setup failures.
 
 ---
 

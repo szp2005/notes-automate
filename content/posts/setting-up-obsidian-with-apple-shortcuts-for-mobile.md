@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 For many users, Obsidian is the ultimate tool for personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) on desktop. However, when transitioning to a mobile environment, a common friction point emerges: the mobile app can take several seconds to load, especially with large vaults or heavy plugin usage. This delay disrupts the flow of quick capture—the crucial ability to jot down an idea before it slips away.
 
-The solution for iOS and iPadOS users lies in Apple Shortcuts. By integrating Obsidian's deep linking capabilities (URI schemes) with Apple's native automation tool, you can create a frictionless, instant-capture pipeline. You can send text, URLs, and dictation straight into your vault without ever waiting for the Obsidian app to fully initialize.
+The solution for iOS and iPadOS users lies in Apple Shortcuts. By integrating Obsidian's deep linking capabilities (URI schemes) with Apple's native [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) tool, you can create a frictionless, instant-capture pipeline. You can send text, URLs, and dictation straight into your vault without ever waiting for the Obsidian app to fully initialize.
 
 This guide provides a comprehensive, step-by-step approach to setting up Obsidian with Apple Shortcuts for mobile. Whether you want to quickly append thoughts to your daily note, save web clippings from Safari, or create dedicated task entries, these automated workflows will fundamentally change how you interact with your notes on the go.
 
@@ -29,7 +29,7 @@ Apple Shortcuts bypasses this boot sequence for the purpose of data entry. Using
 
 The benefits are concrete:
 - **Zero load time capture:** Trigger a shortcut from a home screen widget, lock screen, or the Action Button, type your thought, and hit done.
-- **Consistent formatting:** Shortcuts can automatically append metadata, timestamps, and tags to your input before sending it to Obsidian.
+- **Consistent formatting:** Shortcuts can automatically append [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), timestamps, and tags to your input before sending it to Obsidian.
 - **Contextual awareness:** Shortcuts can pull your current location, the current Safari webpage, or your clipboard contents and format them into Markdown automatically.
 
 ## Essential Prerequisites for Your Automation Setup
@@ -140,7 +140,7 @@ iOS sometimes heavily suspends apps in the background. If Obsidian has been clos
 
 ## Maximizing Your Mobile Productivity Workflow
 
-Once the technical foundation is secure, you can expand these workflows to handle complex task management and metadata generation.
+Once the technical foundation is secure, you can expand these workflows to handle complex [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) and metadata generation.
 
 Consider adding iOS-specific data to your captures. Apple Shortcuts can access your current geographic location, calendar events, and health data. You can build a shortcut that triggers when you arrive at the office, automatically generating a daily work-log note pre-filled with your meetings for the day, parsed directly from your Apple Calendar.
 

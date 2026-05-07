@@ -54,7 +54,7 @@ Its collaborative features are built-in from the ground up. Real-time co-editing
 
 ### 2. Obsidian
 
-**Best for:** Solo project managers, researchers, and developers requiring absolute data ownership and speed.
+**Best for:** Solo project managers, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and developers requiring absolute data ownership and speed.
 **Price:** Free (Sync is $8/month, Commercial use $50/year)
 **Rating:** 4.8/5
 
@@ -107,7 +107,7 @@ If you decide to migrate your complex workflows to either tool, the setup phase 
 Do not create isolated databases for every new project. Instead, create a master "Projects" database and a master "Tasks" database. Use relations to tie tasks to their parent projects. From there, create linked database views on customized dashboard pages for specific teams or individuals. This centralized architecture prevents data silos and allows you to build comprehensive timeline views across the entire company portfolio.
 
 **If configuring Obsidian:**
-Embrace the Dataview and Tasks plugins immediately. Establish a strict metadata standard (YAML frontmatter) at the top of your project notes, including keys like `status`, `due_date`, and `client`. Use Dataview to pull this metadata into dynamically updating dashboards. For task execution, standardize a tagging format (e.g., `#task/urgent`) so the Tasks plugin can aggregate to-dos across your entire vault into a single daily review page.
+Embrace the Dataview and Tasks plugins immediately. Establish a strict [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) standard (YAML frontmatter) at the top of your project notes, including keys like `status`, `due_date`, and `client`. Use Dataview to pull this metadata into dynamically updating dashboards. For task execution, standardize a tagging format (e.g., `#task/urgent`) so the Tasks plugin can aggregate to-dos across your entire vault into a single daily review page.
 
 ## Final Verdict: Which Should You Choose?
 
@@ -129,7 +129,7 @@ Generally, no. While tools like Obsidian Sync exist, the local-first, plain-text
 Obsidian is fundamentally more private because data is stored entirely on your local hard drive. Unless you use a syncing service, your data never touches the cloud. Notion stores all data on its servers, meaning you are trusting their security infrastructure and privacy policies.
 
 ### Can I migrate my complex project management setup from Notion to Obsidian?
-Yes, but it is challenging. You can export Notion workspaces as Markdown files, but complex relational databases do not translate perfectly to plain text. You will need to rebuild your database logic using Obsidian plugins like Dataview and frontmatter properties.
+Yes, but it is challenging. You can export Notion workspaces as Markdown files, but complex relational databases do not translate perfectly to plain text. You will need to rebuild your database logic using [Obsidian plugins](/posts/smart-connections-plugin-for-emergent-ideas/) like Dataview and frontmatter properties.
 
 ### Does Notion scale well when managing hundreds of concurrent projects?
 Notion can technically hold the data, but users frequently report significant performance degradation, slower search results, and laggy database views when a workspace becomes massive. Proper database architecture and aggressive filtering are required to maintain speed.

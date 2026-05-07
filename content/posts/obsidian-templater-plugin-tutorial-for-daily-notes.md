@@ -16,9 +16,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 # Obsidian Templater Plugin Tutorial for Daily Notes: The Complete Step-by-Step Guide
 
 **TL;DR**
-- The core Templates plugin is static; Templater runs JavaScript at note creation time, letting you pull in live dates, weather, quotes, and Dataview task lists automatically.
+- The core [Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) plugin is static; Templater runs JavaScript at note creation time, letting you pull in live dates, weather, quotes, and Dataview task lists automatically.
 - This guide walks you through installation, three levels of copy-pasteable daily note templates (beginner → intermediate → advanced), and writing your first User Function to hit an external API.
-- Every snippet here is production-ready and tested in Obsidian 1.5+; you can have a working daily note automation in under 20 minutes.
+- Every snippet here is production-ready and tested in Obsidian 1.5+; you can have a working daily note [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) in under 20 minutes.
 
 ---
 
@@ -324,7 +324,7 @@ Restart Obsidian after adding new script files so Templater re-indexes them.
 
 ### Pushing External Data with Webhooks
 
-For more complex integrations—pulling today's Google Calendar events, importing action items from a project management tool—consider pairing Obsidian with Make.com or Zapier. These services can watch an external trigger, format data as Markdown, and push it into your vault using the Obsidian Local REST API plugin. The daily note template then reads from a staging file that Make.com has already populated. It's a more involved setup, but it eliminates all manual data entry for recurring information.
+For more complex integrations—pulling today's Google Calendar events, importing action items from a [project management](/posts/obsidian-project-management-academic-research-teams/) tool—consider pairing Obsidian with Make.com or Zapier. These services can watch an external trigger, format data as Markdown, and push it into your vault using the Obsidian Local REST API plugin. The daily note template then reads from a staging file that Make.com has already populated. It's a more involved setup, but it eliminates all manual data entry for recurring information.
 
 ---
 

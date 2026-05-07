@@ -69,11 +69,11 @@ Created by Cecilia May, Primary takes a scientifically grounded approach to colo
 
 **Cons:**
 - The heavily opinionated warm color scheme cannot be easily changed
-- Some third-party plugins may clash with the distinct earthy palette
+- Some third-party [plugins](/posts/periodic-notes-plugin-weekly-reviews/) may clash with the distinct earthy palette
 
 ### 3. Dracula Official
 
-**Best for:** Developers and users migrating from standard coding environments
+**Best for:** [Developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) and users migrating from standard coding environments
 **Price:** Free
 **Rating:** 4.6/5
 
@@ -101,7 +101,7 @@ Inspired by the popular [task management](/posts/automating-your-task-management
 - Exceptionally clean interface compartmentalization
 - Familiar, Apple-like design language reduces the learning curve
 - High contrast active-state markers for keyboard navigation
-- Very clean styling for tables and dataview queries
+- Very clean styling for tables and [dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) queries
 
 **Cons:**
 - Dark mode contrast is slightly weaker than its light mode counterpart

@@ -37,7 +37,7 @@ It connects via the Google Calendar API, which requires a slightly more involved
 
 ### Custom Scripts and Automation Tools
 
-For advanced users, bypassing plugins entirely and using workflow automation tools like Make (formerly Integromat) or n8n to push Google Calendar events into Obsidian is another viable path. You can configure a webhook that triggers every morning at 6:00 AM, fetches your Google Calendar agenda for the day, and appends it directly to that day's specific daily note file via the Obsidian Local REST API. While complex to set up, this provides the ultimate control over how your data is formatted and stored, ensuring absolute minimal plugin bloat in your local workspace.
+For [advanced users](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), bypassing plugins entirely and using workflow automation tools like Make (formerly Integromat) or n8n to push Google Calendar events into Obsidian is another viable path. You can configure a webhook that triggers every morning at 6:00 AM, fetches your Google Calendar agenda for the day, and appends it directly to that day's specific daily note file via the Obsidian Local REST API. While complex to set up, this provides the ultimate control over how your data is formatted and stored, ensuring absolute minimal plugin bloat in your local workspace.
 
 ## Setting Up the Google Calendar API
 
@@ -65,7 +65,7 @@ The technical integration is only the first half of the process. Once your sched
 
 ### Architecting the Daily Note Template
 
-The foundation of effective daily planning in Obsidian is the Daily Note. Whether you use the core *Daily Notes* plugin or the community-favorite *Periodic Notes* plugin, you must create a standardized markdown template. Your template should include a designated, predictable section for your daily schedule.
+The foundation of effective daily planning in Obsidian is the Daily Note. Whether you use the core *Daily Notes* plugin or the community-favorite *[Periodic Notes](/posts/obsidian-periodic-notes-plugin-setup-for-annual-reviews/)* plugin, you must create a standardized markdown template. Your template should include a designated, predictable section for your daily schedule.
 
 If you are using an agenda-style plugin, insert the necessary query block at the very top of your template. This automatically renders your Google Calendar events for the current day immediately upon creating the note. 
 
@@ -100,7 +100,7 @@ Furthermore, if you utilize Obsidian Sync, GitHub, or a third-party cloud servic
 
 ## Conclusion
 
-Integrating Google Calendar with Obsidian for daily planning eliminates the immense friction of constantly moving between your schedule and your thought process. By selecting the right visualization plugin, securely connecting your Google account via the API, and structuring your daily note templates to naturally accommodate your agenda, you create a remarkably powerful, unified digital workspace. This setup not only streamlines your morning planning routine but also ensures that every critical meeting, appointment, and time-blocked work session is firmly rooted in your broader knowledge management system. You transition from merely tracking your time to actively integrating your time with your work output.
+Integrating Google Calendar with Obsidian for daily planning eliminates the immense friction of constantly moving between your schedule and your thought process. By selecting the right visualization plugin, securely connecting your Google account via the API, and structuring your daily note [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) to naturally accommodate your agenda, you create a remarkably powerful, unified digital workspace. This setup not only streamlines your morning planning routine but also ensures that every critical meeting, appointment, and time-blocked work session is firmly rooted in your broader knowledge management system. You transition from merely tracking your time to actively integrating your time with your work output.
 
 ## Frequently Asked Questions
 

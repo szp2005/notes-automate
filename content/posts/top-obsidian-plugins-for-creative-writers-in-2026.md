@@ -42,7 +42,7 @@ Beyond simple organization, Longform's compilation feature is its killer app. Wh
 
 **Cons:**
 - Learning curve for setting up projects and compilation rules
-- Can occasionally conflict with custom themes regarding pane styling
+- Can occasionally conflict with custom [themes](/posts/things-theme-vs-minimal-theme-obsidian/) regarding pane styling
 
 ### 2. Dangerzone Writing App
 
@@ -96,7 +96,7 @@ Managing the continuity of a complex fictional universe is one of the hardest pa
 **Price:** Free
 **Rating:** 5.0/5
 
-Dataview is a live index and query engine for your personal knowledge base. While widely used by students and researchers, it is a superpower for creative writers. By using YAML frontmatter in your character, location, and item notes (e.g., `Type: Character`, `Allegiance: House Stark`, `Status: Alive`), you can use Dataview to generate dynamic tables and lists.
+Dataview is a live index and query engine for your personal knowledge base. While widely used by students and [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), it is a superpower for creative writers. By using YAML frontmatter in your character, location, and item notes (e.g., `Type: Character`, `Allegiance: House Stark`, `Status: Alive`), you can use Dataview to generate dynamic tables and lists.
 
 Want a table of all living characters who reside in a specific city, sorted by age? Dataview does that instantly. As your story evolves and you update a character's status to `Dead`, every Dataview table in your vault updates automatically. It turns a static folder of notes into a dynamic, relational database of your fictional world.
 
@@ -117,7 +117,7 @@ Want a table of all living characters who reside in a specific city, sorted by a
 
 The Kanban plugin allows you to create Trello-style boards directly inside Obsidian. For writers, this is an exceptional tool for outlining and managing the stages of editing. 
 
-You can create lists for "Act I," "Act II," and "Act III," and use cards to represent individual scenes or plot beats. Dragging cards between lists makes restructuring your narrative visual and intuitive. Alternatively, you can use it for project management: tracking which chapters are in "First Draft," "Revision," "Beta Reading," or "Final Polish." Because each card can link to an actual Markdown file in your vault, your outline connects directly to your manuscript files.
+You can create lists for "Act I," "Act II," and "Act III," and use cards to represent individual scenes or plot beats. Dragging cards between lists makes restructuring your narrative visual and intuitive. Alternatively, you can use it for [project management](/posts/obsidian-project-management-academic-research-teams/): tracking which chapters are in "First Draft," "Revision," "Beta Reading," or "Final Polish." Because each card can link to an actual Markdown file in your vault, your outline connects directly to your manuscript files.
 
 **Pros:**
 - Excellent visual representation of plot structures and timelines

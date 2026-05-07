@@ -20,7 +20,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 **TL;DR**
 - Obsidian callouts use a simple `> [!TYPE]` syntax to create visually distinct blocks that make notes scannable in seconds.
 - The 12 built-in types cover most needs, but five copy-paste CSS snippets in this guide give you [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/)-specific callouts like `[!action]` and `[!key]` immediately.
-- Connecting callouts to PARA, Zettelkasten, and Evergreen Note workflows turns a formatting trick into a genuine thinking tool.
+- Connecting callouts to PARA, [Zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/), and Evergreen Note [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) turns a formatting trick into a genuine thinking tool.
 
 ---
 
@@ -102,7 +102,7 @@ Foldable callouts are essential for long notes. They preserve detail without for
 | `info` | Info circle | Background context, definitions |
 | `tip` / `hint` | Flame | Shortcuts, workflow improvements |
 | `success` / `check` | Checkmark | Completed milestones, confirmed facts |
-| `question` / `faq` | Question mark | Journaling prompts, open research questions |
+| `question` / `faq` | Question mark | Journaling prompts, open [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) questions |
 | `warning` / `caution` | Triangle | Risks, caveats, things not to skip |
 | `failure` / `missing` | X mark | Blocked tasks, failed experiments |
 | `danger` / `error` | Lightning bolt | Critical risks, irreversible actions |

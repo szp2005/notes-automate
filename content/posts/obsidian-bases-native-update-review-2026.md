@@ -81,7 +81,7 @@ Data Loom takes a different approach by treating tables as their own distinct fi
 
 **Pros:**
 - Extremely easy to set up without touching markdown frontmatter
-- Great for standalone project management and isolated data tracking
+- Great for standalone [project management](/posts/obsidian-project-management-academic-research-teams/) and isolated [data tracking](/posts/using-obsidian-for-longitudinal-research-data-tracking/)
 - Clean, intuitive interface that feels familiar to Excel users
 
 **Cons:**
@@ -110,7 +110,7 @@ Transitioning your vault to leverage the full power of the Obsidian Bases 2026 u
 
 **Use Database Folders Sparingly:** While Bases allows you to create databases that aggregate your entire vault via tags, it is often more performant and organized to restrict a database's source to a specific folder or a specific set of nested tags. For example, setting the data source to `Folder: Projects/Active` rather than querying the entire vault for the `#project` tag will result in cleaner, more focused views.
 
-**Leverage Templates for New Entries:** When you click the "+" button in a Bases table to create a new row, it generates a new markdown file. Configure Bases to map this action to a specific template using the Core Templates plugin or Templater. This ensures that every new note generated from the database inherits your standard boilerplate text, headers, and any hidden metadata you require.
+**Leverage [Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) for New Entries:** When you click the "+" button in a Bases table to create a new row, it generates a new markdown file. Configure Bases to map this action to a specific template using the Core Templates plugin or Templater. This ensures that every new note generated from the database inherits your standard boilerplate text, headers, and any hidden metadata you require.
 
 **Mind Your Sync Solutions:** If you use a third-party sync solution like Nextcloud, Dropbox, or Google Drive (rather than Obsidian Sync), ensure you exclude the `.obsidian/bases-cache.db` file from your sync client. Syncing the constantly updating local cache file across devices will cause immediate conflict errors. Let each device build and maintain its own local cache.
 

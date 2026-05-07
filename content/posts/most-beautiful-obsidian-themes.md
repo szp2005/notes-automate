@@ -43,7 +43,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 There is a well-documented relationship between your visual environment and the quality of sustained cognitive work. Don Norman explored this at length in *The Design of Everyday Things* — the central argument being that objects designed well make you want to use them, while poorly designed tools create friction that compounds over time. The same logic applies to software.
 
-If you open Obsidian every day and the default interface makes you feel nothing — no anticipation, no comfort, no small jolt of pleasure — you are leaving motivational energy on the table. That matters specifically for [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) because it is a habit, not a task. Habits live and die by how easy they are to start, and visual appeal is a legitimate on-ramp.
+If you open Obsidian every day and the default interface makes you feel nothing — no anticipation, no comfort, no small jolt of pleasure — you are leaving motivational energy on the table. That matters specifically for [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) because it is a habit, not a task. Habits live and die by how easy they are to start, and visual appeal is a legitimate on-ramp.
 
 There is a practical dimension too. A theme with poor contrast ratios will fatigue your eyes after 45 minutes. One with bad heading hierarchy makes skimming your own notes tedious. Typography choices affect reading speed. These are not aesthetic preferences; they are usability variables, and they accumulate across every session.
 
@@ -153,7 +153,7 @@ If you write a personal [knowledge management](/posts/using-obsidian-for-long-te
 - **Calendar plugin**: Sanctum's sidebar treatment makes the Calendar widget look genuinely refined
 - **Sliding Panes**: Multiple panes feel intentional rather than cluttered under Sanctum's spacing
 
-**Ideal for:** Academics, researchers, Zettelkasten practitioners, writers building long-term knowledge bases
+**Ideal for:** Academics, [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), Zettelkasten practitioners, writers building long-term knowledge bases
 
 ---
 
@@ -272,7 +272,7 @@ The Banners plugin adds a full-width image at the top of any note. Add a single 
 Iconize lets you assign icons to individual files, folders, or file types in your sidebar. The practical effect is dramatic: a vault with carefully chosen folder icons is navigable at a glance without reading text. Under AnuPpuccin or Primary, icons rendered in the accent color palette make the sidebar feel purpose-designed rather than generic.
 
 ### Supercharged Links
-Supercharged Links adds visual metadata to internal links throughout your vault. You can configure it to display colored dots, emoji, or prefix text on links based on their properties — so a link to a note tagged `#book` shows a book emoji, a link to a `#person` note shows a name-style prefix. Under any vibrant theme, this creates a genuinely visual linking system.
+Supercharged Links adds visual [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) to internal links throughout your vault. You can configure it to display colored dots, emoji, or prefix text on links based on their properties — so a link to a note tagged `#book` shows a book emoji, a link to a `#person` note shows a name-style prefix. Under any vibrant theme, this creates a genuinely visual linking system.
 
 ### Custom Fonts via Envato Elements
 If you want to take your vault's typography to a level no free theme bundle provides, Envato Elements is a subscription that includes thousands of premium fonts and icon sets. Load a downloaded font via Obsidian's `Settings → Appearance → Text Font` field (specify the font family name after installing it system-wide). Pairing Minimal or Sanctum with a premium serif body font changes the reading experience noticeably.

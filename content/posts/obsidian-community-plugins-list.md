@@ -92,12 +92,12 @@ Go to **Settings → Community Plugins** and click **Check for Updates**. Update
 These are the plugins that consistently show up in power users' vaults and deliver immediate, tangible value for most workflows.
 
 ### 1. Templater
-**What it does:** Lets you create reusable note templates with dynamic values—current date, prompt input, JavaScript functions. It replaces the basic core Templates plugin.
+**What it does:** Lets you create reusable note [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) with dynamic values—current date, prompt input, JavaScript functions. It replaces the basic core Templates plugin.
 **Quick-start tip:** Create a `Daily Note` template that auto-fills the date and links to the previous day's note. Your morning setup drops from two minutes to three seconds.
 
 ### 2. Calendar
 **What it does:** Adds a calendar panel in the sidebar. Click any day to open or create a daily note.
-**Quick-start tip:** Pair it with Periodic Notes (also free) to manage weekly and monthly reviews from the same panel.
+**Quick-start tip:** Pair it with [Periodic Notes](/posts/obsidian-periodic-notes-plugin-setup-for-annual-reviews/) (also free) to manage weekly and monthly reviews from the same panel.
 
 ### 3. Tasks
 **What it does:** Turns Obsidian into a capable task manager. Adds due dates, recurrence, priorities, and a global task query view across your entire vault.
@@ -167,7 +167,7 @@ Designed for long-form writing projects. Creates a manuscript structure where ea
 ### Readwise Official
 Readwise syncs all your Kindle highlights, web article annotations, podcast transcripts, and Twitter/X saves directly into your vault as structured notes. The plugin handles the sync automatically.
 
-**Use-case:** Highlight a passage in a Kindle book, open Obsidian ten minutes later, and find that highlight linked to the book's note with your tags and metadata already applied.
+**Use-case:** Highlight a passage in a Kindle book, open Obsidian ten minutes later, and find that highlight linked to the book's note with your tags and [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) already applied.
 
 ### Paste URL Into Selection
 Micro-plugin, massive quality-of-life improvement. Select text, paste a URL, and the selection becomes a Markdown link automatically. Eliminates manual `[text](url)` formatting.

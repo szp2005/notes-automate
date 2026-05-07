@@ -69,7 +69,7 @@ Obsidian Sync is the first-party, cloud-based synchronization service built dire
 - **Selective sync** so you can exclude folders (like a large attachments folder) to stay within your storage quota.
 - **Official support** if something breaks.
 
-**The pricing reality:** The standard Obsidian Sync plan is $4/month (billed annually) with 10 GB of storage and 1 year of version history. The Plus plan is $8/month (billed annually) with 100 GB and 12 months of history. These prices are reasonable for a professional tool, but $48–$96/year adds up, especially if you are already paying for Notion, Roam, or other [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) software.
+**The pricing reality:** The standard Obsidian Sync plan is $4/month (billed annually) with 10 GB of storage and 1 year of version history. The Plus plan is $8/month (billed annually) with 100 GB and 12 months of history. These prices are reasonable for a professional tool, but $48–$96/year adds up, especially if you are already paying for [Notion](/posts/n8n-workflow-for-syncing-obsidian-with-notion/), Roam, or other [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) software.
 
 **Who it is for:** Anyone who opens their vault on multiple devices daily and needs that experience to be invisible. If you sit down to write a meeting note and do not want to think about whether your phone synced last night, Obsidian Sync earns its fee.
 
@@ -88,7 +88,7 @@ Syncthing is an open-source file synchronization program maintained by a nonprof
 
 **The catch:** Syncthing is peer-to-peer. For two devices to sync, at least one of them must be online. If your phone and laptop are both off, nothing syncs. The practical solution is an always-on device — a home server, a Raspberry Pi, a Synology NAS, or a cheap cloud VPS — that acts as a relay node. This is not strictly required, but without it, syncing only happens when both devices are running simultaneously.
 
-**Who it is for:** Privacy advocates who are uncomfortable with any third party holding their notes (even encrypted), developers comfortable with terminal commands and configuration files, and anyone who needs to eliminate a recurring subscription.
+**Who it is for:** Privacy advocates who are uncomfortable with any third party holding their notes (even encrypted), [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) comfortable with terminal commands and configuration files, and anyone who needs to eliminate a recurring subscription.
 
 ---
 
@@ -104,7 +104,7 @@ Obsidian Sync requires creating an account, subscribing, and enabling the plugin
 Both use strong encryption. The philosophical difference is significant: Obsidian Sync encrypts your data before it touches their server, so Obsidian theoretically cannot read it. Syncthing never touches a third-party server at all — data goes directly device-to-device. If you work with sensitive material (legal, medical, financial) and want the smallest possible attack surface, Syncthing wins on architecture alone.
 
 ### Version History
-Obsidian Sync: built-in, browsable in the sidebar, easy to restore. Syncthing: you need to enable file versioning in folder settings. The "Staggered File Versioning" option keeps hourly backups for 24 hours, daily for 30 days, and weekly indefinitely. It works, but there is no GUI to browse and restore — you manually find the file in `.stversions`.
+Obsidian Sync: built-in, browsable in the sidebar, easy to restore. Syncthing: you need to enable file versioning in folder settings. The "Staggered File Versioning" option keeps hourly [backups](/posts/explanation-of-obsidian-vault-structure-for-backups/) for 24 hours, daily for 30 days, and weekly indefinitely. It works, but there is no GUI to browse and restore — you manually find the file in `.stversions`.
 
 ### Conflict Resolution
 Obsidian Sync creates a new file with "conflicted copy" appended to the name when two devices edit the same note before syncing. You merge manually, but nothing is lost. Syncthing does the same — it renames the conflicting version as `filename.sync-conflict-YYYYMMDD-HHMMSS-DEVICEID.md`. You will see this in your vault root occasionally. It is not elegant, but it is safe.

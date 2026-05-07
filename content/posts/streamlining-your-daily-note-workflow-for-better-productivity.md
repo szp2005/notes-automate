@@ -52,7 +52,7 @@ Keep metadata and YAML frontmatter to an absolute minimum. While it is tempting 
 
 ## Step 3: Implement Time-Blocking and Task Integration
 
-A common failure point in daily note systems is confusing project management with knowledge management. Your daily note should not replace your task manager (like Todoist, Linear, or OmniFocus), but it should interface with it seamlessly. 
+A common failure point in daily note systems is confusing [project management](/posts/obsidian-project-management-academic-research-teams/) with knowledge management. Your daily note should not replace your task manager (like Todoist, Linear, or OmniFocus), but it should interface with it seamlessly. 
 
 The daily note is the staging ground for task execution. During your morning routine, pull your most critical tasks from your task manager and write them into the top of your daily note. This practice, often called "time-blocking" or "daily staging," forces you to confront the reality of your limited time. By writing the tasks down in today's workspace, you commit to them within the context of your current timeline.
 
@@ -86,7 +86,7 @@ Implementing these steps requires concrete, practical decisions regarding your s
 
 While the principles of the daily note apply universally, the software dictates the execution speed.
 
-- **Obsidian:** Ideal for power users who want complete control over their data structure. Use the core "Daily Notes" plugin combined with "Templates" or the community plugin "Templater" to generate your daily scaffolding. Its offline-first approach ensures zero latency when capturing text.
+- **Obsidian:** Ideal for power users who want complete control over their data structure. Use the core "Daily Notes" plugin combined with "[Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/)" or the community plugin "[Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/)" to generate your daily scaffolding. Its offline-first approach ensures zero latency when capturing text.
 - **Logseq:** Designed specifically around the outliner and daily note paradigm. Every time you open Logseq, you are greeted by the current day's journal. It naturally encourages the chronological bullet-point logging discussed in Step 2.
 - **Apple Notes / Google Keep:** While excellent for rapid capture, they fundamentally lack the bidirectional linking required to tie daily chronological logs to permanent knowledge structures. Use them only as temporary capture endpoints that feed into your primary system during your daily review.
 

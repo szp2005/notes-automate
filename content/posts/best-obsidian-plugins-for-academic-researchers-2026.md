@@ -13,11 +13,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best Obsidian Plugins for Academic Researchers in 2026
 
-> **Quick Answer:** The best Obsidian plugins for academic researchers in 2026 are Zotero Integration for seamless citation management, Dataview for dynamic literature databases, and Annotator for in-app PDF reading. Together, these tools transform a standard note-taking app into a powerhouse for academic synthesis and thesis writing.
+> **Quick Answer:** The best Obsidian plugins for academic researchers in 2026 are Zotero Integration for seamless citation management, Dataview for dynamic literature databases, and Annotator for in-app PDF reading. Together, these tools transform a standard [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/) app into a powerhouse for academic synthesis and thesis writing.
 
 Academic research demands managing an overwhelming volume of information. Between tracking hundreds of PDFs, synthesizing literature, extracting annotations, and maintaining precise citations, traditional word processors and simple note apps quickly fall apart. You need a system that grows alongside your research, surfacing connections across years of reading and writing.
 
-Obsidian has emerged as the premier personal knowledge management (PKM) tool for academics because its local-first, plain-text foundation ensures your research remains accessible decades from now. However, out of the box, Obsidian is essentially a blank canvas. Its true power for academia lies in its vibrant plugin ecosystem.
+Obsidian has emerged as the premier personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) tool for academics because its local-first, plain-text foundation ensures your research remains accessible decades from now. However, out of the box, Obsidian is essentially a blank canvas. Its true power for academia lies in its vibrant plugin ecosystem.
 
 By integrating the right community plugins, you can connect your reference manager directly to your notes, query your literature database dynamically, and even export your markdown files into perfectly formatted academic papers. This review breaks down the best Obsidian plugins for academic researchers in 2026, evaluating them on reliability, workflow integration, and setup complexity.
 
@@ -80,7 +80,7 @@ You can use Dataview to track your reading list status, aggregate open questions
 **Pros:**
 - Generates dynamic, always-up-to-date literature matrices
 - Replaces complex folder structures with flexible metadata
-- Supports complex queries via DataviewJS for advanced users
+- Supports complex queries via [DataviewJS](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) for advanced users
 
 **Cons:**
 - Requires consistent application of frontmatter metadata

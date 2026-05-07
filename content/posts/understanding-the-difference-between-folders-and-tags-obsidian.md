@@ -35,7 +35,7 @@ This strict physical location forces a top-down hierarchy. You must make a defin
 
 Because of their physical nature, folders are best reserved for broad, mutually exclusive domains or system-level demarcations.
 
-**File Type Segregation:** Folders excel at separating different types of files. A standard practice is maintaining an `Attachments` folder for PDFs, images, and audio files, keeping them from cluttering the file explorer where you write text. Similarly, a `Templates` folder is necessary so Obsidian knows exactly where to pull your standardized note formats from.
+**File Type Segregation:** Folders excel at separating different types of files. A standard practice is maintaining an `Attachments` folder for PDFs, images, and audio files, keeping them from cluttering the file explorer where you write text. Similarly, a `[Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/)` folder is necessary so Obsidian knows exactly where to pull your standardized note formats from.
 
 **Broad Life Domains:** Structuring folders by high-level domains minimizes filing friction. Frameworks like PARA (Projects, Areas, Resources, Archives) utilize folders purely for macro-level separation. A note clearly belongs in `Projects` if it is active, or `Archives` if it is finished.
 
@@ -55,7 +55,7 @@ Tags create a bottom-up, associative network. They allow you to pull together di
 
 Tags are optimized for cross-cutting attributes that span multiple categories or change frequently over time.
 
-**Workflow and Status Tracking:** Tags are the standard mechanism for tracking a note's lifecycle. Tags like `#status/draft`, `#status/in-progress`, or `#action-item` allow you to query your vault for actionable work regardless of where the file actually lives. When the work is done, you simply delete or update the tag—you do not have to drag the file into a new folder.
+**[Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) and Status Tracking:** Tags are the standard mechanism for tracking a note's lifecycle. Tags like `#status/draft`, `#status/in-progress`, or `#action-item` allow you to query your vault for actionable work regardless of where the file actually lives. When the work is done, you simply delete or update the tag—you do not have to drag the file into a new folder.
 
 **Thematic Grouping:** When researching complex topics, notes often touch on multiple subjects. A reading note on a psychology book might be relevant to behavioral economics, habit formation, and management theory. Tagging the note with `#psychology`, `#economics`, and `#management` ensures the note surfaces whenever you search any of those specific themes.
 

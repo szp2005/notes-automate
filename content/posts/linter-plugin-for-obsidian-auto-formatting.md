@@ -50,7 +50,7 @@ Whitespace rules are the foundation of a clean document. The plugin removes trai
 Headings define the skeleton of your text. The plugin can enforce capitalization rules (e.g., Title Case or Sentence Case) across all H1 through H6 elements. It can convert ATX headings lacking a space (like `#Heading`) into proper format (`# Heading`). For typography, it can handle nuanced conversions, such as changing standard quotation marks into smart quotes, or converting multiple hyphens into proper en-dashes or em-dashes.
 
 ### Custom Regular Expressions (Regex)
-For advanced users, the plugin supports custom regex rules. This allows you to define proprietary formatting actions that are unique to your vault. If you have legacy notes that use an old proprietary tag format, you can write a regex sequence to find those tags and convert them into standard Markdown links during the linting process.
+For [advanced users](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), the plugin supports custom regex rules. This allows you to define proprietary formatting actions that are unique to your vault. If you have legacy notes that use an old proprietary tag format, you can write a regex sequence to find those tags and convert them into standard Markdown links during the linting process.
 
 ## How to Configure Linter for Maximum Efficiency
 
@@ -85,7 +85,7 @@ Integrating an automated formatting tool requires an understanding of how it int
 ### Managing Conflict with Templater
 If you use the Templater plugin to generate dynamic notes, you may encounter race conditions. If you create a note and immediately save it, the Linter might attempt to format the YAML frontmatter before Templater has finished injecting its variables. 
 
-To resolve this, rely on Templater's built-in formatting capabilities for the initial note creation, and allow Linter to handle subsequent saves. Ensure that your Templater templates perfectly match your Linter rules. If your Linter requires two spaces before a heading, build your Templater templates with two spaces before the heading. This prevents the Linter from dramatically reshaping a note immediately after creation.
+To resolve this, rely on Templater's built-in formatting capabilities for the initial note creation, and allow Linter to handle subsequent saves. Ensure that your Templater [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) perfectly match your Linter rules. If your Linter requires two spaces before a heading, build your Templater templates with two spaces before the heading. This prevents the Linter from dramatically reshaping a note immediately after creation.
 
 ### Working with Static Site Generators (SSGs)
 If you publish your vault using Astro, Next.js, or Hugo, the Linter is your safety net. SSGs are notoriously strict about YAML parsing. 
@@ -112,7 +112,7 @@ A linter configuration is not set-and-forget. As your workflow evolves, your for
 
 Review your Linter settings quarterly. You may find that a rule you enabled months ago—like converting all headings to Title Case—is no longer appropriate for your current writing style. Conversely, you may discover a recurring formatting error in your recent notes that could be solved by enabling a new rule.
 
-Keep an external backup of your Linter settings. Obsidian plugins store their configurations in a `data.json` file located in the plugin's folder inside the `.obsidian/plugins` directory. Backing up this specific JSON file allows you to instantly deploy your exact formatting rules to a new vault or a different machine.
+Keep an external backup of your Linter settings. [Obsidian plugins](/posts/smart-connections-plugin-for-emergent-ideas/) store their configurations in a `data.json` file located in the plugin's folder inside the `.obsidian/plugins` directory. Backing up this specific JSON file allows you to instantly deploy your exact formatting rules to a new vault or a different machine.
 
 By offloading the manual labor of whitespace management, metadata structuring, and typography correction to an automated tool, you protect the structural integrity of your database. The Linter plugin transforms Obsidian from a simple markdown viewer into a rigorous text-processing environment, ensuring your digital library remains pristine, searchable, and highly portable for decades to come.
 

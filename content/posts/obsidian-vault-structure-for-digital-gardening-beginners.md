@@ -55,7 +55,7 @@ As your garden grows, you will need waypoints to navigate it. Maps of Content (M
 ### 05_Meta
 This folder is the backend of your vault. It keeps the clutter out of your main workspace. The Meta folder should contain three subfolders:
 *   `Assets`: Where all your pasted images, PDFs, and audio files are stored.
-*   `Templates`: Where you keep the markdown templates for your Daily Notes, Seedlings, and MOCs.
+*   `[Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/)`: Where you keep the markdown templates for your Daily Notes, Seedlings, and MOCs.
 *   `Scripts`: A repository for any Dataview queries or Javascript files if you choose to use advanced community plugins later.
 
 ## Connecting the Garden: Maps of Content (MOCs)
@@ -121,7 +121,7 @@ A digital garden dies if it is choked with unprocessed clippings. Impose a stric
 ### Plugin and Formatting Paralysis
 Obsidian's community plugin ecosystem is vast and powerful. It is tempting to spend your first week installing Dataview, Templater, Excalidraw, and custom CSS snippets to make your vault look like a futuristic dashboard. 
 
-Resist this urge. Complex automation breaks easily and distracts from the core goal of writing and connecting ideas. Stick exclusively to the core plugins for your first thirty days. Build the habit of writing daily notes, drafting seedlings, and linking them together. Only install a community plugin when you encounter a specific, painful friction point that your current workflow cannot solve.
+Resist this urge. Complex [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) breaks easily and distracts from the core goal of writing and connecting ideas. Stick exclusively to the core plugins for your first thirty days. Build the habit of writing daily notes, drafting seedlings, and linking them together. Only install a community plugin when you encounter a specific, painful friction point that your current workflow cannot solve.
 
 ## Synthesizing Your System
 
@@ -144,4 +144,4 @@ No. While plugins like Dataview and Templater are incredibly popular, they intro
 Keep your tag taxonomy extremely lean. Limit tags to defining the format of the note (e.g., `#book-summary`, `#podcast-notes`) or actionable states (e.g., `#to-process`, `#needs-review`). Rely on bidirectional links and Maps of Content for organizing subjects and topics.
 
 ### What is the difference between a Zettelkasten and a Digital Garden?
-A Zettelkasten is a highly structured, rigid methodology designed specifically for academic research and publishing original arguments. It relies heavily on strict alphanumeric sequencing and atomic notes. A Digital Garden is a more relaxed, visual, and exploratory concept. It accommodates varying lengths of notes, embraces incomplete thoughts, and is often designed with the intent of eventually publishing the notes online for public viewing.
+A Zettelkasten is a highly structured, rigid methodology designed specifically for [academic research](/posts/obsidian-project-management-academic-research-teams/) and publishing original arguments. It relies heavily on strict alphanumeric sequencing and atomic notes. A Digital Garden is a more relaxed, visual, and exploratory concept. It accommodates varying lengths of notes, embraces incomplete thoughts, and is often designed with the intent of eventually publishing the notes online for public viewing.

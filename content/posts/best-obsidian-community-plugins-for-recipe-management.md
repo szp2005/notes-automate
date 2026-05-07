@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best Obsidian Community Plugins for Recipe Management (2026)
 
-> **Quick Answer:** The best Obsidian community plugins for recipe management are **Recipe Grabber** for seamlessly importing web recipes, **Obsidian Cooklang** for rendering dynamic ingredient lists, and **Dataview** for organizing your recipe database. Combining these three transforms Obsidian from a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) application into a highly queryable, offline personal cookbook.
+> **Quick Answer:** The best Obsidian community plugins for recipe management are **Recipe Grabber** for seamlessly importing web recipes, **Obsidian Cooklang** for rendering dynamic ingredient lists, and **Dataview** for organizing your recipe database. Combining these three transforms Obsidian from a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) application into a highly queryable, offline personal cookbook.
 
 Obsidian is widely known for [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/), personal wikis, and academic note-taking, but its flexible structure makes it an incredibly capable platform for recipe management and meal planning. Unlike dedicated recipe applications that lock your data into proprietary formats, serve you intrusive advertisements, or require recurring monthly subscriptions just to scale ingredients, storing your recipes in local markdown files ensures you own your culinary database forever. You hold the keys to your data, free from the whims of app developers or sunsetting cloud services.
 
@@ -35,7 +35,7 @@ It uses an open-source parsing library to identify recipe schema markup on websi
 
 **Pros:**
 - Bypasses lengthy blog post text and extracts only the culinary data
-- Integrates seamlessly with custom Obsidian templates and YAML frontmatter
+- Integrates seamlessly with custom Obsidian [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) and YAML frontmatter
 - Works natively on both mobile and desktop versions of Obsidian
 
 **Cons:**
@@ -88,7 +88,7 @@ For a dedicated home cook, this means you can build a customized, automated "Kit
 
 Obsidian Kanban allows you to create Trello-style boards directly inside your Obsidian vault. For recipe management, this is the ultimate tool for weekly meal planning. You can set up columns for each day of the week, plus a "Backlog" column for recipes you want to try, and simply drag and drop your recipe notes into the corresponding days as you plan your week.
 
-Because the Kanban cards are just internal links to your underlying markdown files, clicking a card on the board instantly opens the full recipe note. You can also use these Kanban boards to manage your broader grocery list workflow, visually moving items from a "Need to Buy" column to a "Purchased" column. Advanced users even utilize Kanban boards for tracking the status of long-term culinary projects, such as managing fermentation schedules for sourdough starters or monitoring homemade kombucha batches.
+Because the Kanban cards are just internal links to your underlying markdown files, clicking a card on the board instantly opens the full recipe note. You can also use these Kanban boards to manage your broader grocery list workflow, visually moving items from a "Need to Buy" column to a "Purchased" column. [Advanced users](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) even utilize Kanban boards for tracking the status of long-term culinary projects, such as managing fermentation schedules for sourdough starters or monitoring homemade kombucha batches.
 
 **Pros:**
 - Highly visual, intuitive interface for dragging and dropping daily meals

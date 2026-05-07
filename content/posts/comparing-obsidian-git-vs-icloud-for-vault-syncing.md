@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Comparing Obsidian Git vs iCloud for Vault Syncing in 2026
 
-> **Quick Answer:** If you work entirely within the Apple hardware ecosystem, iCloud is the easiest, zero-configuration method for syncing your Obsidian vault. However, if you use a mix of Windows, Linux, or Android devices, or if you require strict version control to protect against accidental deletions, Obsidian Git is the vastly superior and more reliable solution.
+> **Quick Answer:** If you work entirely within the Apple hardware ecosystem, iCloud is the easiest, zero-configuration method for syncing your Obsidian vault. However, if you use a mix of Windows, Linux, or Android devices, or if you require strict [version control](/posts/setting-up-obsidian-git-for-automated-version-control/) to protect against accidental deletions, Obsidian Git is the vastly superior and more reliable solution.
 
 Because Obsidian stores your notes as standard local Markdown files rather than in a proprietary cloud database, you have complete ownership of your data. The tradeoff is that you are responsible for syncing that data across your computer, phone, and tablet. 
 
@@ -56,7 +56,7 @@ Because iCloud manages file syncing directly through the operating system, Obsid
 
 ### 2. Obsidian Git (Community Plugin)
 
-**Best for:** Developers, power users, and cross-platform workers (Windows, Mac, Android, Linux).
+**Best for:** [Developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/), power users, and cross-platform workers (Windows, Mac, Android, Linux).
 **Price:** Free
 **Rating:** 4.6/5
 
@@ -106,7 +106,7 @@ Maintaining a Git vault requires occasional manual intervention. If you reorgani
 
 Both iCloud and Git offer robust security, but the nature of that security differs.
 
-If you use iCloud, your notes are stored on Apple's servers. By default, Apple holds the encryption keys, meaning they could technically access the data if compelled by law enforcement. However, Apple now offers Advanced Data Protection, which enables end-to-end encryption for iCloud Drive. If you turn this on, your Obsidian vault becomes completely unreadable to Apple, matching the security profile of premium zero-knowledge services.
+If you use iCloud, your notes are stored on Apple's servers. By default, Apple holds the [encryption](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/) keys, meaning they could technically access the data if compelled by law enforcement. However, Apple now offers Advanced Data Protection, which enables end-to-end encryption for iCloud Drive. If you turn this on, your Obsidian vault becomes completely unreadable to Apple, matching the security profile of premium zero-knowledge services.
 
 When using Obsidian Git with a provider like GitHub, your data is encrypted in transit and at rest on Microsoft's servers, but it is not end-to-end encrypted. GitHub holds the keys. For the vast majority of users, keeping the repository marked as "Private" is sufficient security. If you store highly sensitive material (passwords, proprietary corporate data, client therapy notes), pushing raw markdown to GitHub is a security risk. In those cases, you would need to self-host your own Git server on a local Raspberry Pi or VPS to guarantee total data privacy.
 

@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian Dataview for Project Tracking: Complete Setup Guide
 
-> **Quick Answer:** Obsidian Dataview for project tracking transforms your plain-text markdown vault into a dynamic, queryable database. By adding structured metadata (YAML or inline fields) to your notes, you can write simple DQL (Dataview Query Language) scripts to automatically aggregate tasks, track project statuses, and generate real-time dashboards across your entire workspace.
+> **Quick Answer:** Obsidian Dataview for project tracking transforms your plain-text markdown vault into a dynamic, queryable database. By adding structured metadata (YAML or inline fields) to your notes, you can write simple DQL (Dataview Query Language) scripts to automatically aggregate tasks, track project statuses, and generate real-time [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) across your entire workspace.
 
 Managing projects in a plain-text environment often leads to a common breaking point. When you only have ten notes, folder structures and basic wiki-links work perfectly. When you scale to hundreds of notes, meeting minutes, and scattered to-do lists, retrieving actionable information becomes a manual, time-consuming process. Tasks slip through the cracks, and gaining a high-level overview of active projects feels impossible without maintaining separate, redundant tracking documents.
 
@@ -190,7 +190,7 @@ Implementing Obsidian Dataview for project tracking requires discipline. The sof
 1. **Limit query scopes for performance:** Running `FROM ""` searches your entire vault. If you have 10,000 notes, this will cause noticeable lag every time you open your dashboard. Always restrict Dataview queries to specific directories (e.g., `FROM "Projects/Active"`) or specific tags (`FROM #project`).
 2. **Standardize date formats:** Dataview expects ISO 8601 formatting for dates (`YYYY-MM-DD`). If you write `May 1st, 2026` in your metadata, Dataview will treat it as a plain string, breaking your date-based filtering and sorting algorithms.
 3. **Keep metadata simple:** Do not create twenty YAML properties for a project. Track only what you actually need to query. Status, deadline, priority, and area/client are usually sufficient. Redundant metadata creates friction, making you less likely to maintain the system over time.
-4. **Remember that Dataview is read-only:** You cannot click a checkbox inside a Dataview `TABLE` to mark a project complete. You must navigate to the original file to change the YAML. For task lists, clicking a checkbox in a `TASK` query *will* alter the original file, which is a vital workflow efficiency.
+4. **Remember that Dataview is read-only:** You cannot click a checkbox inside a Dataview `TABLE` to mark a project complete. You must navigate to the original file to change the YAML. For task lists, clicking a checkbox in a `TASK` query *will* alter the original file, which is a vital [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) efficiency.
 
 ## Building Your Permanent Tracking System
 

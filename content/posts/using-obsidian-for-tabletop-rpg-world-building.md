@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian for Tabletop RPG World Building: Best Setup Guide (2026)
 
-> **Quick Answer:** Using Obsidian for tabletop RPG world building transforms scattered campaign notes into an interconnected, searchable database. By leveraging local Markdown files, bidirectional linking, and TTRPG-specific plugins like Leaflet and Dataview, Game Masters can build a responsive wiki that seamlessly connects lore, NPCs, maps, and session prep without monthly subscription fees.
+> **Quick Answer:** Using Obsidian for tabletop RPG world building transforms scattered campaign notes into an interconnected, searchable database. By leveraging local Markdown files, bidirectional linking, and TTRPG-specific plugins like Leaflet and [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/), Game Masters can build a responsive wiki that seamlessly connects lore, NPCs, maps, and session prep without monthly subscription fees.
 
 Managing a tabletop RPG campaign quickly becomes a sprawling logistical challenge. Between tracking the sociopolitical landscape of a homebrew continent, remembering the voice of a minor tavern keeper introduced twelve sessions ago, and balancing upcoming combat encounters, Game Masters (GMs) frequently outgrow standard word processors and physical binders. The cognitive load required to recall these interconnected details mid-session often leads to pacing issues and continuity errors.
 
@@ -27,7 +27,7 @@ Before diving into complex community modifications, it is crucial to understand 
 
 The defining feature is the bidirectional link, created simply by wrapping a word in double brackets `[[like this]]`. When you mention `[[King Aldric]]` in a session summary, Obsidian automatically creates a backlink on King Aldric's dedicated note. Over months of play, this generates a dense web of associations. The local graph view provides a visual representation of these connections, allowing a GM to instantly see which factions are interacting with which locations, or which NPCs are tied to a specific questline.
 
-Furthermore, the use of tags and frontmatter (YAML) allows for robust metadata organization. You can tag notes as `#npc`, `#location`, or `#session-prep`, and include hidden data like an NPC’s alignment, hit points, or current location, which can later be queried and aggregated dynamically across the vault.
+Furthermore, the use of tags and frontmatter (YAML) allows for robust [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) organization. You can tag notes as `#npc`, `#location`, or `#session-prep`, and include hidden data like an NPC’s alignment, hit points, or current location, which can later be queried and aggregated dynamically across the vault.
 
 ## Top Obsidian Plugins for Campaign Management
 
@@ -114,7 +114,7 @@ Implement a high-level folder structure that separates mechanics from narrative:
 3. **Dramatis Personae:** All NPCs and Factions. Do not sort NPCs by location in folders; instead, use tags or frontmatter to note their location. An NPC might move, and updating metadata is easier than moving files.
 4. **Lore & Cosmos:** Deities, historical events, magic systems, and custom items.
 5. **Mechanics (Rules):** Quick reference guides for status conditions, homebrew mechanics, or pricing tables.
-6. **Templates:** A crucial folder holding standardized markdown files for new NPCs, towns, or quests to ensure consistent formatting.
+6. **[Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/):** A crucial folder holding standardized markdown files for new NPCs, towns, or quests to ensure consistent formatting.
 
 ### Utilizing Templates for Consistency
 

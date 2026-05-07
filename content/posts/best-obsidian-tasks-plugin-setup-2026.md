@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The best Obsidian Tasks plugin setup for 2026 combines the core **Tasks** plugin with **Dataview** for advanced dashboarding, **Day Planner** for time-blocking, and **Periodic Notes** for automated routines. This specific stack transforms standard markdown checklists into a fully queryable, dynamic task management system that rivals dedicated applications like Todoist or TickTick, all while keeping your data local.
 
-Managing tasks within a Personal Knowledge Management (PKM) system provides a distinct advantage: your action items live right next to your project notes, meeting minutes, and research. However, relying on standard markdown checkboxes quickly becomes unmanageable as your vault grows. You lose track of overdue items, struggle to surface priorities, and spend more time searching for tasks than doing them.
+Managing tasks within a Personal [Knowledge Management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system provides a distinct advantage: your action items live right next to your project notes, meeting minutes, and research. However, relying on standard markdown checkboxes quickly becomes unmanageable as your vault grows. You lose track of overdue items, struggle to surface priorities, and spend more time searching for tasks than doing them.
 
 The solution requires a structured approach. By implementing a specific configuration of community plugins, you can create a centralized task database that pulls action items from anywhere in your vault into a single, unified dashboard. 
 
@@ -23,7 +23,7 @@ This guide breaks down the definitive components of the optimal setup, how to co
 
 ## Core Components of the Ultimate Tasks System
 
-To build a resilient task management workflow, you need the right combination of tools. While the core Obsidian Tasks plugin is the engine, these companion plugins form the chassis of a complete productivity system.
+To build a resilient task management workflow, you need the right combination of tools. While the core Obsidian Tasks plugin is the engine, these companion plugins form the chassis of a complete [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system.
 
 ### 1. Obsidian Tasks Plugin
 
@@ -44,7 +44,7 @@ The official Obsidian Tasks plugin remains the undisputed foundation for local t
 
 ### 2. Dataview Plugin
 
-**Best for:** Custom dashboards and advanced metadata extraction
+**Best for:** Custom [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) and advanced metadata extraction
 **Price:** Free
 **Rating:** 4.9/5
 

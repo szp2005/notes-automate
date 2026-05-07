@@ -31,13 +31,13 @@ The most obvious part of your vault consists of the files you create and interac
 - **Attachments and Media:** When you drag an image, PDF, audio clip, or video into an Obsidian note, the software copies that file into your vault. Depending on your settings, these might be stored in the root directory, alongside the note, or routed to a dedicated "Attachments" folder. Unlike Markdown files, media files can grow your vault size exponentially. A vault heavy on high-resolution PDFs and images can easily reach several gigabytes.
 - **Canvas Files (.canvas):** If you use Obsidian's infinite canvas feature for visual brainstorming, these files are saved in the open JSON format with a `.canvas` extension. 
 
-From a backup perspective, these visible files represent your actual data. Losing them means losing your thoughts, research, and records. 
+From a backup perspective, these visible files represent your actual data. Losing them means losing your thoughts, [research](/posts/obsidian-vs-devonthink-for-large-research-archives/), and records. 
 
 ### The Hidden Engine: The `.obsidian` Folder
 
 While the visible files contain your knowledge, the hidden `.obsidian` folder dictates how you interact with that knowledge. By [default](/posts/things-theme-vs-minimal-theme-obsidian/), operating systems like macOS and Linux hide folders that begin with a period (`.`). Windows may also hide it depending on your view settings. 
 
-The `.obsidian` folder is the brain of your specific vault. It turns a static directory of text files into a dynamic, interlinked, and customized personal knowledge management environment. A full explanation of Obsidian vault structure for backups must heavily emphasize this hidden directory. If you only back up your Markdown files, restoring your vault on a new computer will result in a completely vanilla Obsidian setup: default theme, no plugins, no custom hotkeys, and no saved workspaces.
+The `.obsidian` folder is the brain of your specific vault. It turns a static directory of text files into a dynamic, interlinked, and customized [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) environment. A full explanation of Obsidian vault structure for backups must heavily emphasize this hidden directory. If you only back up your Markdown files, restoring your vault on a new computer will result in a completely vanilla Obsidian setup: default theme, no plugins, no custom hotkeys, and no saved workspaces.
 
 ## Why the `.obsidian` Folder Matters for Backups
 
@@ -147,7 +147,7 @@ A practical implementation of this rule for Obsidian looks like this:
 
 If you are using Obsidian across macOS, Windows, and an Android or iOS device, the hidden `.obsidian` folder can sometimes cause friction. Because operating systems render fonts and handle file paths differently, a configuration that works perfectly on Windows might look slightly off on a Mac.
 
-To solve this, advanced users often utilize Obsidian's ability to specify different configuration folders. In the Obsidian settings (under About -> Override config folder), you can change the default `.obsidian` folder name. You could create `.obsidian-mac`, `.obsidian-windows`, and `.obsidian-mobile`. Your backup system will back up all three, but each device will read from its specific folder, preventing theme or hotkey sync conflicts while ensuring the core Markdown files remain unified and continuously backed up.
+To solve this, [advanced users](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) often utilize Obsidian's ability to specify different configuration folders. In the Obsidian settings (under About -> Override config folder), you can change the default `.obsidian` folder name. You could create `.obsidian-mac`, `.obsidian-windows`, and `.obsidian-mobile`. Your backup system will back up all three, but each device will read from its specific folder, preventing theme or hotkey sync conflicts while ensuring the core Markdown files remain unified and continuously backed up.
 
 ## Conclusion
 

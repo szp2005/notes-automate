@@ -17,7 +17,7 @@ Obsidian’s default interface is a blank canvas, which is both its greatest str
 
 This is where the transition to DataviewJS becomes necessary. By tapping directly into the Dataview JavaScript API, you gain the ability to write full scripts that interact with your vault’s metadata in real-time. You can calculate dynamic project completion percentages, render habit tracking heatmaps, and build interactive CRM tables that adapt to your daily [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/).
 
-In this guide, we will break down the essential advanced dataview js scripts for custom obsidian dashboards. We will cover project management, task aggregation, performance optimization, and daily tracking, providing you with exact code snippets and the architectural logic needed to implement them in your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system.
+In this guide, we will break down the essential advanced dataview js scripts for custom obsidian dashboards. We will cover [project management](/posts/obsidian-project-management-academic-research-teams/), task aggregation, performance optimization, and daily tracking, providing you with exact code snippets and the architectural logic needed to implement them in your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system.
 
 ## The Architectural Foundation of DataviewJS
 
@@ -31,7 +31,7 @@ Understanding that `dv.pages()` returns a DataArray—a specialized array type p
 
 ### Metadata Standardization
 
-Advanced scripts rely entirely on consistent frontmatter (YAML) or inline metadata. If your project notes do not consistently use `status: active` or `dueDate: 2026-05-15`, your JavaScript will fail or return empty arrays. Before implementing complex dashboards, ensure that your vault employs strict metadata templates for core note types (Projects, Daily Notes, Contacts).
+Advanced scripts rely entirely on consistent frontmatter (YAML) or inline metadata. If your project notes do not consistently use `status: active` or `dueDate: 2026-05-15`, your JavaScript will fail or return empty arrays. Before implementing complex dashboards, ensure that your vault employs strict metadata [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) for core note types (Projects, Daily Notes, Contacts).
 
 ## Project Management Dashboard Scripts
 
@@ -157,7 +157,7 @@ Creating a highly functional workspace in Obsidian goes beyond simple linking. B
 ## Frequently Asked Questions
 
 ### Can DataviewJS scripts edit or modify my markdown files?
-No. Dataview and DataviewJS are strictly read-only tools. They query and render data from your vault but cannot write changes back to your files. If you need scripts that modify file content or metadata automatically, you must use plugins like MetaEdit, QuickAdd, or write Templater scripts.
+No. Dataview and DataviewJS are strictly read-only tools. They query and render data from your vault but cannot write changes back to your files. If you need scripts that modify file content or metadata automatically, you must use plugins like MetaEdit, QuickAdd, or write [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/) scripts.
 
 ### Why does my DataviewJS table show 'undefined' for certain properties?
 This occurs when the script attempts to read a metadata field that does not exist on a specific note. You must handle missing data in your JavaScript using fallback values (e.g., `p.dueDate || "No Date"`) or use the optional chaining operator (`?.`) to prevent the script from breaking when encountering inconsistent frontmatter.

@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Daily journaling has evolved far beyond physical notebooks and simple text editors. Today, power users rely on networked thought applications to capture ideas, track habits, and synthesize knowledge over time. When evaluating Obsidian vs Reflect for fast daily journaling, the decision often comes down to friction versus control. 
 
-Obsidian has long been the heavyweight champion of personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM). Its local-first approach guarantees longevity, while its massive plugin ecosystem allows you to build virtually any workflow. However, that power comes with a learning curve and configuration overhead. 
+Obsidian has long been the heavyweight champion of personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM). Its local-first approach guarantees longevity, while its massive plugin ecosystem allows you to build virtually any [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/). However, that power comes with a learning curve and configuration overhead. 
 
 Reflect entered the market with a starkly different philosophy. It removes the configuration burden entirely, offering an opinionated, highly polished interface centered around the daily note. With deep calendar integrations and native AI capabilities baked directly into the editor, it aims to capture the speed of human thought with zero setup.
 
@@ -69,7 +69,7 @@ To help you make a concrete decision, here is a detailed breakdown of each tool 
 **Price:** Free (Optional $8/month for Obsidian Sync)
 **Rating:** 4.8/5
 
-Obsidian remains the gold standard for users who view their daily journal as part of a lifelong, privacy-first knowledge base. By utilizing local markdown files, you retain absolute ownership over your data. The daily journaling experience is heavily dependent on the plugins you choose to install. With tools like Dataview and Templater, you can build a daily dashboard that aggregates tasks, tracks habits, and surfaces old journal entries automatically. While the initial learning curve is steep, the ceiling for what you can achieve is virtually unlimited.
+Obsidian remains the gold standard for users who view their daily journal as part of a lifelong, privacy-first knowledge base. By utilizing local markdown files, you retain absolute ownership over your data. The daily journaling experience is heavily dependent on the plugins you choose to install. With tools like Dataview and [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/), you can build a daily dashboard that aggregates tasks, tracks habits, and surfaces old journal entries automatically. While the initial learning curve is steep, the ceiling for what you can achieve is virtually unlimited.
 
 **Pros:**
 - Total data ownership via local plain text files

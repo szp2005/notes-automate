@@ -85,7 +85,7 @@ None of this requires CSS knowledge. It's point-and-click configuration.
 
 ### Focus Mode
 
-Triggering focus mode via the command palette removes every sidebar and centers your content at a comfortable reading width. Combined with Obsidian's full-screen mode, this is as close to a distraction-free writing environment as you'll get inside a tool that is also a full knowledge management(/posts/using-obsidian-for-long-term-evergreen-note-management/) system.
+Triggering focus mode via the command palette removes every sidebar and centers your content at a comfortable reading width. Combined with Obsidian's full-screen mode, this is as close to a distraction-free writing environment as you'll get inside a tool that is also a full [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/)(/posts/using-obsidian-for-long-term-evergreen-note-management/) system.
 
 ---
 
@@ -103,7 +103,7 @@ Here are five customizations worth making on day one:
 
 If you want to go further without writing CSS yourself, the Obsidian Hub forum has dozens of community snippet collections specifically built for Minimal.
 
-To genuinely master your setup, Skillshare hosts comprehensive Obsidian courses that cover advanced workflows, YAML frontmatter, and Dataview integration — all of which pair naturally with a clean Minimal configuration.
+To genuinely master your setup, Skillshare hosts comprehensive Obsidian courses that cover advanced workflows, YAML frontmatter, and [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) integration — all of which pair naturally with a clean Minimal configuration.
 
 ---
 
@@ -134,7 +134,7 @@ To genuinely master your setup, Skillshare hosts comprehensive Obsidian courses 
 
 ### This Theme Is Built For You If:
 
-- **You write in Obsidian regularly** — daily notes, long-form drafts, research documents. Minimal's typography and line-length defaults are clearly tuned for reading prose.
+- **You write in Obsidian regularly** — daily notes, long-form drafts, [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) documents. Minimal's typography and line-length defaults are clearly tuned for reading prose.
 - **You use Obsidian as an academic or research tool** — the clean hierarchy makes literature notes and MOCs easy to navigate.
 - **You're a minimalist by preference**, not just aesthetics — you want fewer decisions in your environment, not more.
 - **You use Obsidian on multiple devices**, including mobile — Minimal's mobile rendering is among the best of any community theme.

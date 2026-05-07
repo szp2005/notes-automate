@@ -232,7 +232,7 @@ This DataviewJS snippet counts your current unbroken workout streak from today b
 
 **Cons:** YAML typos produce silent failures (the query returns nothing, with no error). Dataview syntax updates occasionally break existing queries. Mobile performance degrades with complex DataviewJS on large vaults. This is genuinely the highest-maintenance option.
 
-**Best for:** Power users already using Dataview for project management who want their habit data inside the same system rather than in a separate app.
+**Best for:** Power users already using Dataview for [project management](/posts/obsidian-project-management-academic-research-teams/) who want their habit data inside the same system rather than in a separate app.
 
 ---
 
@@ -316,9 +316,9 @@ To go deeper on building systems in Obsidian beyond habit tracking, this Obsidia
 
 The best obsidian habit tracker is the one you'll actually use consistently. Start simple, get data in the vault, then build toward the complexity you earn by showing up.
 
-The four methods in this article cover every skill level and use case—from five-minute checkbox setups to full Dataview [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) that make dedicated apps look limited. The comparison table gives you an honest benchmark. The starter templates give you a running start.
+The four methods in this article cover every skill level and use case—from five-minute checkbox setups to full Dataview [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) that make dedicated apps look limited. The comparison table gives you an honest benchmark. The starter [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) give you a running start.
 
-If you want to go further with Obsidian beyond habit tracking—building a full PKM system, mastering Templater automation, or creating dashboards for goals and projects—this Obsidian Mastery course is the most structured path available without spending hours stitching together YouTube tutorials.
+If you want to go further with Obsidian beyond habit tracking—building a full PKM system, mastering Templater [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/), or creating dashboards for goals and projects—this Obsidian Mastery course is the most structured path available without spending hours stitching together YouTube tutorials.
 
 And if you want the philosophy to match the system, Atomic Habits by James Clear remains the clearest framework for understanding *why* the mechanics of tracking work—and how to design your environment so showing up becomes the default.
 

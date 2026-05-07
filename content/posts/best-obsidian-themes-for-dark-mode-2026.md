@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best Obsidian Themes for Dark Mode in 2026: Top Picks
 
-> **Quick Answer:** The best Obsidian themes for dark mode in 2026 are Minimal for distraction-free writing, AnuPpuccin for deep customization and soft contrasts, and Things for structured task management. Your ideal choice depends heavily on whether your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) prioritizes long-form writing, visual flair, or dashboard management.
+> **Quick Answer:** The best Obsidian themes for dark mode in 2026 are Minimal for distraction-free writing, AnuPpuccin for deep customization and soft contrasts, and Things for structured task management. Your ideal choice depends heavily on whether your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) prioritizes long-form writing, visual flair, or dashboard management.
 
 Spending hours inside a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system requires a UI that reduces eye strain while keeping critical information legible. The default Obsidian dark mode provides a solid foundation, but community developers have pushed the boundaries of what the application's CSS engine can handle. In 2026, themes have evolved beyond simple color swaps into comprehensive workspace overlays that integrate seamlessly with complex plugins.
 
@@ -29,7 +29,7 @@ Below is a detailed analysis of the most effective dark mode themes currently av
 **Price:** Free (Sponsorship available)
 **Rating:** 4.9/5
 
-Minimal remains the gold standard for Obsidian customization. Developed by Kepano (Obsidian's CEO), this theme aggressively strips away UI clutter to focus entirely on your content. In dark mode, Minimal utilizes a deep, neutral gray rather than a pure `#000000` black, significantly reducing the harsh contrast that often causes eye fatigue during extended writing sessions. The theme relies heavily on the companion Minimal Theme Settings and Style Settings plugins, allowing users to toggle features like colorful active tabs, relationship lines, and custom font weights.
+Minimal remains the gold standard for Obsidian customization. Developed by Kepano (Obsidian's CEO), this theme aggressively strips away UI clutter to focus entirely on your content. In dark mode, Minimal utilizes a deep, neutral gray rather than a pure `#000000` black, significantly reducing the harsh contrast that often causes eye fatigue during extended writing sessions. The theme relies heavily on the companion [Minimal Theme](/posts/things-theme-vs-minimal-theme-obsidian/) Settings and Style Settings plugins, allowing users to toggle features like colorful active tabs, relationship lines, and custom font weights.
 
 Its true strength lies in its modularity. You can achieve a near-invisible interface where only your text and inline images command attention. It also boasts native-level support for complex block renders like Dataview tables and Kanban boards, ensuring they look native rather than bolted on.
 
@@ -69,7 +69,7 @@ The theme's implementation of the Style Settings plugin is arguably the most com
 
 Inspired by the acclaimed macOS and iOS task manager, the Things theme brings a structured, card-based design language to Obsidian. In dark mode, it utilizes a deeply satisfying slate-gray palette with highly distinct layering. Backgrounds, sidebars, and active notes are separated by clear structural borders and subtle drop shadows, giving the interface a tactile, application-like feel.
 
-Things is particularly effective for users who treat Obsidian as an operating system for their life. Checkboxes are perfectly rounded, progress bars in Dataview render with beautiful gradients, and metadata frontmatter is neatly tucked into pill-shaped containers. If you use plugins like Tasks, Calendar, and Kanban to run your daily operations, this theme makes your vault feel like a premium, purpose-built [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) app.
+Things is particularly effective for users who treat Obsidian as an operating system for their life. Checkboxes are perfectly rounded, progress bars in Dataview render with beautiful gradients, and [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) frontmatter is neatly tucked into pill-shaped containers. If you use plugins like Tasks, Calendar, and Kanban to run your daily operations, this theme makes your vault feel like a premium, purpose-built [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) app.
 
 **Pros:**
 - Incredible UI separation and structural clarity

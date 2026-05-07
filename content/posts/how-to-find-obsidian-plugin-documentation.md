@@ -58,7 +58,7 @@ If you already have the plugin installed, go to **Settings → Community plugins
 
 ## 2. The Definitive Source: Using the Plugin's GitHub Repository {#github}
 
-For 95% of Obsidian community plugins, GitHub is the official documentation home. The developer chose it because it integrates version control with documentation — every update to the plugin can come with an update to the docs in the same commit.
+For 95% of Obsidian community plugins, GitHub is the official documentation home. The developer chose it because it integrates [version control](/posts/setting-up-obsidian-git-for-automated-version-control/) with documentation — every update to the plugin can come with an update to the docs in the same commit.
 
 **Finding the GitHub link:**
 - From within Obsidian: use the method above. One click on the repository icon lands you on the GitHub page.
@@ -89,9 +89,9 @@ Some plugins grow complex enough that a single README file can't contain everyth
 
 **Real-world examples:**
 
-Dataview is the most downloaded query plugin for Obsidian. Its README is brief by design — it points you to a standalone documentation site at `blacksmithgu.github.io/obsidian-dataview`. That site has a full reference for every function, type, and query syntax. If you're trying to learn Dataview from the README alone, you're missing 80% of what it can do.
+[Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) is the most downloaded query plugin for Obsidian. Its README is brief by design — it points you to a standalone documentation site at `blacksmithgu.github.io/obsidian-dataview`. That site has a full reference for every function, type, and query syntax. If you're trying to learn Dataview from the README alone, you're missing 80% of what it can do.
 
-Templater follows the same pattern. The README links to a dedicated site that documents every internal function, with usage examples for each one.
+[Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/) follows the same pattern. The README links to a dedicated site that documents every internal function, with usage examples for each one.
 
 For complex plugins, bookmark the dedicated site immediately. Treat the README as the entry point, not the destination.
 

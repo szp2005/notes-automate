@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** For managing large research archives spanning gigabytes of PDFs, emails, and web captures, DEVONthink is superior due to its robust database architecture, OCR capabilities, and AI-driven document classification. Obsidian excels when your archive is predominantly plain-text markdown, requiring deep contextual linking, graph visualization, and cross-platform flexibility.
 
-Knowledge workers, academic researchers, and legal professionals eventually hit a wall with traditional folder systems. When your repository grows from a few hundred notes to tens of thousands of PDFs, web clippings, email archives, and annotations, the underlying architecture of your personal knowledge management (PKM) tool dictates whether you control your data or your data controls you. 
+Knowledge workers, [academic researchers](/posts/using-obsidian-for-longitudinal-research-data-tracking/), and legal professionals eventually hit a wall with traditional folder systems. When your repository grows from a few hundred notes to tens of thousands of PDFs, web clippings, email archives, and annotations, the underlying architecture of your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) tool dictates whether you control your data or your data controls you. 
 
 The debate between Obsidian and DEVONthink represents a fundamental divergence in how we approach information architecture. One system relies on decentralized, networked thought built atop universally readable text files. The other acts as a monolithic, highly intelligent database designed to index and retrieve every document type across a specific operating system environment. 
 
@@ -23,7 +23,7 @@ Choosing between Obsidian and DEVONthink for large research archives requires ev
 
 ## The Architecture of Scale
 
-When an archive surpasses the 10,000-document threshold, search speed, metadata handling, and file integrity become critical. Standard note-taking applications often suffer from latency, indexing failures, or interface freezing under this weight.
+When an archive surpasses the 10,000-document threshold, search speed, metadata handling, and file integrity become critical. Standard [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/) applications often suffer from latency, indexing failures, or interface freezing under this weight.
 
 DEVONthink approaches scale through an internal database structure. While it can index external folders, its native behavior involves importing files into its proprietary database bundles. This allows it to generate complex concordances, run rapid Boolean searches across millions of words, and apply machine learning algorithms to categorize files locally. It is a digital filing cabinet engineered for bulk processing.
 

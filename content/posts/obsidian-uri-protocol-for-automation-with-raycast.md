@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The Obsidian URI protocol allows external apps to interact with your vault using deep links like `obsidian://open`. By combining this protocol with Raycast script commands on macOS, you can build custom, keyboard-driven automations to instantly capture ideas, open specific daily notes, or append text to running logs without ever touching your mouse.
 
-For knowledge workers, friction is the enemy of [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/). When a brilliant idea strikes or a critical piece of information needs to be saved, the time it takes to switch contexts, open an application, navigate to the correct folder, create a new file, and start typing is often enough to derail your train of thought completely. 
+For [knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/), friction is the enemy of [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/). When a brilliant idea strikes or a critical piece of information needs to be saved, the time it takes to switch contexts, open an application, navigate to the correct folder, create a new file, and start typing is often enough to derail your train of thought completely. 
 
 Obsidian is widely regarded as one of the most powerful and flexible personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) tools available today, primarily because of its local-first architecture and extensible nature. However, as your vault grows, navigating its interface can become a bottleneck. Enter Raycast, the modern, exceptionally fast launcher for macOS. While both tools are incredibly powerful on their own, linking them together transforms your computer into a frictionless productivity engine.
 
@@ -133,7 +133,7 @@ file="Daily/Logs/Log-Current"
 open "obsidian://advanced-uri?vault=$vault&filepath=$file&data=$encoded_input&mode=append"
 ```
 
-When you trigger this command in Raycast, type "Review the marketing copy," and press Enter, the script seamlessly encodes the text as `- [14:30] Review the marketing copy` and appends it to your specified log file. The `silent` mode in the Raycast metadata ensures the launcher simply closes, allowing you to return to your work immediately.
+When you trigger this command in Raycast, type "Review the marketing copy," and press Enter, the script seamlessly encodes the text as `- [14:30] Review the marketing copy` and appends it to your specified log file. The `silent` mode in the Raycast [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) ensures the launcher simply closes, allowing you to return to your work immediately.
 
 ## Practical Advice: Designing Your Productivity System
 
@@ -161,7 +161,7 @@ The combination of the Obsidian URI protocol and Raycast transforms knowledge ma
 This almost always indicates a URL encoding error or an incorrect file path. Ensure that any spaces in your vault name or file name are encoded as `%20` and that you are using the correct file extension if required by the specific action.
 
 ### Do I need to buy Raycast Pro to use these automations?
-No, Raycast Script Commands are entirely free and available in the core application. You only need the Pro version for cloud synchronization of settings, AI features, and custom themes.
+No, Raycast Script Commands are entirely free and available in the core application. You only need the Pro version for cloud synchronization of settings, AI features, and custom [themes](/posts/things-theme-vs-minimal-theme-obsidian/).
 
 ### How do I handle spaces and special characters in my Obsidian vault name?
 Your vault name must be strictly URL-encoded in the URI string. A vault named "My Second Brain!" must be written in the URI as `vault=My%20Second%20Brain%21`. It is highly recommended to keep vault names simple and free of spaces to minimize scripting headaches.

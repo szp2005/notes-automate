@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Automated Index Pages with Obsidian Dataview Setup: Complete Guide
 
-> **Quick Answer:** Creating automated index pages with Obsidian Dataview requires installing the Dataview community plugin and using its query language (DQL) to filter notes based on tags, folders, or metadata. By inserting a simple code block like ````dataview list from #projects```` into a note, Dataview dynamically generates an up-to-date list of all matching files, eliminating the need for manual link maintenance.
+> **Quick Answer:** Creating automated index pages with Obsidian Dataview requires installing the Dataview community plugin and using its query language (DQL) to filter notes based on tags, folders, or [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/). By inserting a simple code block like ````dataview list from #projects```` into a note, Dataview dynamically generates an up-to-date list of all matching files, eliminating the need for manual link maintenance.
 
 Managing a growing vault in Obsidian often feels like fighting a losing battle against entropy. As your collection expands from dozens of notes to thousands, finding what you need becomes increasingly difficult. Traditional folders offer rigid categorization, while manual links demand constant upkeep. If you forget to update your "Project Dashboard" or "Book Log" when creating a new file, that note becomes an orphan, lost in the digital void.
 
@@ -182,7 +182,7 @@ Establish a rigid schema for your primary workflows. If using the Obsidian Prope
 
 ## Conclusion
 
-Transitioning from manual linking to creating automated index pages with Obsidian Dataview represents a fundamental shift in personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/). It moves you away from the friction of maintenance and toward the flow of creation. By defining rules rather than hardcoding relationships, your vault transforms into an organic system that organizes itself in real-time. Start with simple list queries, standardize your metadata, and gradually build the tables and task views that match your specific cognitive [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
+Transitioning from manual linking to creating automated index pages with Obsidian Dataview represents a fundamental shift in personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/). It moves you away from the friction of maintenance and toward the flow of creation. By defining rules rather than hardcoding relationships, your vault transforms into an organic system that organizes itself in real-time. Start with simple list queries, standardize your metadata, and gradually build the tables and task views that match your specific cognitive [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/).
 
 ## Frequently Asked Questions
 
@@ -196,7 +196,7 @@ Standard Obsidian Publish does not execute or render Dataview queries; it will o
 DQL (Dataview Query Language) is the SQL-like syntax used in standard Dataview code blocks, which is sufficient for 95% of use cases like lists and tables. DataviewJS allows you to write arbitrary JavaScript against the Dataview API, enabling complex data manipulation, custom HTML rendering, and integrations with other plugins.
 
 ### Can Dataview edit or update my notes automatically?
-No, standard Dataview is strictly read-only. It queries and displays data but cannot modify the underlying Markdown files. For automated metadata updates or file modifications, you would need complementary plugins like MetaEdit, QuickAdd, or user scripts via Templater.
+No, standard Dataview is strictly read-only. It queries and displays data but cannot modify the underlying Markdown files. For automated metadata updates or file modifications, you would need complementary plugins like MetaEdit, QuickAdd, or user scripts via [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/).
 
 ### Why is my Dataview table showing "0 results" when I know the notes exist?
 The most common cause is a metadata syntax error or a typo in the `WHERE` clause. Ensure your YAML frontmatter is formatted correctly (e.g., strings in quotes if they contain special characters) and verify that the spelling and capitalization in your query exactly match the data in your notes.

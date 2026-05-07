@@ -41,7 +41,7 @@ Instead of nesting folders five levels deep, rely on a minimal set of root direc
 - **20_Reference:** Permanent knowledge. This includes API specifications, language syntax, framework documentation, and design patterns.
 - **30_Architecture:** System design documents, infrastructure diagrams, and Architecture Decision Records (ADRs).
 - **40_Daily:** Daily standup notes, work logs, and time tracking.
-- **99_Meta:** Obsidian templates, scripts, and configuration files.
+- **99_Meta:** Obsidian [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), scripts, and configuration files.
 
 This structure allows you to separate actionable work (Projects and Daily notes) from permanent engineering knowledge (Reference and Architecture) without over-complicating file navigation.
 
@@ -114,7 +114,7 @@ This provides several massive advantages for software engineers:
 
 ## Best Practices for Developer Documentation in Obsidian
 
-Transitioning to Obsidian requires a shift in how you think about [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). To keep your developer vault fast and useful, adhere to these technical constraints:
+Transitioning to Obsidian requires a shift in how you think about [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). To keep your developer vault fast and useful, adhere to these technical constraints:
 
 **Keep Files Atomic**
 Avoid writing massive, 50-page documents. In Obsidian, a file should cover exactly one concept, one service, or one API endpoint. If a document grows too large, extract the subsections into new notes and link them together. Smaller files are easier to read, easier to search, and produce a more useful graph view.
@@ -126,7 +126,7 @@ A clean knowledge base requires strict naming rules. Decide early on whether you
 The Dataview plugin turns your Obsidian vault into a database that you can query using a SQL-like syntax. You can write a query in your main Project Dashboard that automatically lists every file tagged with `#api-endpoint` that has a status of `Incomplete`. This dynamic querying prevents documentation from going stale.
 
 **Do Not Over-Engineer the Setup**
-Engineers love to tinker, and it is easy to spend 40 hours customizing Obsidian CSS snippets and downloading 80 different plugins. Resist this urge. Start with plain Markdown, Daily Notes, and minimal folders. Only install a plugin when you encounter a specific friction point that plain text cannot solve.
+Engineers love to tinker, and it is easy to spend 40 hours customizing [Obsidian CSS](/posts/custom-css-for-obsidian-academic-paper-formatting/) snippets and downloading 80 different plugins. Resist this urge. Start with plain Markdown, Daily Notes, and minimal folders. Only install a plugin when you encounter a specific friction point that plain text cannot solve.
 
 ## Treat Documentation Like Code
 

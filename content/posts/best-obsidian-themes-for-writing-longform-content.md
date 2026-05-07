@@ -33,7 +33,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 4. [Best for Readability Out-of-the-Box: Typomagical Theme](#typomagical-theme)
 5. [The Academic's Choice: Things Theme](#things-theme)
 6. [Honorable Mentions for Specific Tastes](#honorable-mentions)
-7. [Beyond Themes: Essential Plugins for Your Writing Workflow](#essential-plugins)
+7. [Beyond Themes: Essential Plugins for Your Writing [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/templater-plugin-tutorial-for-obsidian-power-users/)/)](#essential-plugins)
 8. [Quick Comparison Table: All Themes Side by Side](#comparison-table)
 9. [FAQ](#faq)
 10. [Conclusion](#conclusion)
@@ -180,7 +180,7 @@ Things Theme takes its name from the Cultured Code task manager it visually echo
 
 Academic and non-fiction writing involves moving between modes that most fiction-focused themes do not account for: dense prose, block quotations, footnotes, bibliographic references, and nested callouts (for definitions, asides, warnings, and source annotations). Things handles all of these.
 
-Callout blocks — Obsidian's `> [!note]` syntax — render in Things as cleanly separated, color-coded panels with distinct icons. For a researcher building a literature review or a non-fiction author annotating source material, this is not a cosmetic feature. It is workflow infrastructure.
+Callout blocks — Obsidian's `> [!note]` syntax — render in Things as cleanly separated, color-coded panels with distinct icons. For a researcher building a [literature review](/posts/advanced-obsidian-templates-for-literature-review-matrix/) or a non-fiction author annotating source material, this is not a cosmetic feature. It is workflow infrastructure.
 
 Heading levels in Things are separated by both size and weight, with a subtle left border on H2 and H3 elements that makes it effortless to scan a 5,000-word document and identify sections instantly. This mirrors the visual language of academic papers and books, which is precisely where your readers' eyes are trained to navigate.
 

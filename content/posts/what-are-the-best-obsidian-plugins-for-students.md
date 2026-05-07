@@ -13,7 +13,7 @@ tags: ["obsidian", "students", "study tools", "academic workflow"]
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# What Are the Best Obsidian Plugins for Students? A Workflow-Based Guide
+# What Are the Best Obsidian Plugins for Students? A [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)-Based Guide
 
 > **TL;DR**
 > - The best Obsidian plugins for students aren't random additions — they map directly to specific academic tasks: researching, writing, and reviewing for exams.
@@ -142,7 +142,7 @@ Standard Obsidian is built around short, interlinked notes. Long-form writing ne
 
 Longform is a plugin specifically built for managing multi-chapter writing projects inside Obsidian. You define a project (your thesis, dissertation, or extended essay), add scenes or chapters as individual notes, reorder them in a sidebar, and Longform compiles them into a single document.
 
-**Why students need it:** Thesis and dissertation writing is fundamentally a project management problem as much as a writing problem. Longform lets you write a 20,000-word document in small, manageable chunks — individual notes per argument or section — while keeping the big picture visible in one panel.
+**Why students need it:** Thesis and dissertation writing is fundamentally a [project management](/posts/obsidian-project-management-academic-research-teams/) problem as much as a writing problem. Longform lets you write a 20,000-word document in small, manageable chunks — individual notes per argument or section — while keeping the big picture visible in one panel.
 
 **Workflow tip:** Write each body paragraph or argument as its own note. Tag them with the chapter they belong to. Use Longform's compile feature to preview the full draft. This approach also means you can reuse paragraphs or sections in different essays without copy-pasting from a monolithic Word document.
 
@@ -195,7 +195,7 @@ The Tasks plugin is a vault-wide to-do list system. Add `- ` tasks with due date
 
 ## Putting It All Together: A Sample Student Workflow {#sample-workflow}
 
-Here's a concrete example: writing a 3,000-word literature review for a graduate seminar.
+Here's a concrete example: writing a 3,000-word [literature review](/posts/advanced-obsidian-templates-for-literature-review-matrix/) for a graduate seminar.
 
 **Step 1 — Source collection (Zotero):** Save 12 papers to a Zotero collection called "Seminar Paper." Highlight key passages in each PDF as you read. Use Zotero Integration to import all 12 as individual notes in your Obsidian vault. Each note includes formatted citation metadata and your annotations.
 

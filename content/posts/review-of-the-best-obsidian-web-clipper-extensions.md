@@ -17,9 +17,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Building a personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system requires low-friction ways to capture information. If saving an article takes more than two clicks, it breaks your flow. Obsidian is a powerhouse for connecting thoughts, but the browser is where most research actually happens. Bridging that gap efficiently is the job of a web clipper.
 
-A good clipper doesn't just copy text; it translates HTML into clean Markdown, grabs metadata (like author, URL, and date), and formats it according to your vault's specific frontmatter rules. A bad clipper leaves you with broken links, missing images, and a formatting mess that takes longer to clean up than the article took to read.
+A good clipper doesn't just copy text; it translates HTML into clean Markdown, grabs [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) (like author, URL, and date), and formats it according to your vault's specific frontmatter rules. A bad clipper leaves you with broken links, missing images, and a formatting mess that takes longer to clean up than the article took to read.
 
-In this review of the best Obsidian web clipper extensions, we will break down the top options available in 2026. Whether you are building a casual reading list or conducting rigorous academic research, finding the right tool will drastically reduce the friction between discovering a great idea and saving it in your vault.
+In this review of the best Obsidian web clipper extensions, we will break down the top options available in 2026. Whether you are building a casual reading list or conducting rigorous [academic research](/posts/obsidian-project-management-academic-research-teams/), finding the right tool will drastically reduce the friction between discovering a great idea and saving it in your vault.
 
 ## Top Web Clippers for Obsidian
 
@@ -36,7 +36,7 @@ You can configure it to capture the entire page, a specific highlight, or just a
 **Pros:**
 - First-party support guarantees long-term compatibility
 - Excellent Markdown parsing that ignores site clutter
-- Highly customizable property and frontmatter templates
+- Highly customizable property and frontmatter [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/)
 
 **Cons:**
 - Requires Obsidian to be open and running to save clips
