@@ -19,7 +19,7 @@ Knowledge workers, [academic researchers](/posts/using-obsidian-for-longitudinal
 
 The debate between Obsidian and DEVONthink represents a fundamental divergence in how we approach information architecture. One system relies on decentralized, networked thought built atop universally readable text files. The other acts as a monolithic, highly intelligent database designed to index and retrieve every document type across a specific operating system environment. 
 
-Choosing between Obsidian and DEVONthink for large research archives requires evaluating how you capture information, how you retrieve it, and the file formats that dominate your day-to-day [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/). This comparison examines how both platforms scale when pushed to the limits of personal research environments.
+Choosing between Obsidian and DEVONthink for large research archives requires evaluating how you capture information, how you retrieve it, and the file formats that dominate your day-to-day [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). This comparison examines how both platforms scale when pushed to the limits of personal research environments.
 
 ## The Architecture of Scale
 

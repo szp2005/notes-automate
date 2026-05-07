@@ -86,7 +86,7 @@ Beyond simple links, the plugin supports **transclusion**: you can embed the ful
 
 You can also embed one Excalidraw drawing inside another, which enables modular diagram structures — a high-level architecture drawing that embeds detailed component drawings in expandable frames.
 
-> **💡 Tablet Tip:** If you use Excalidraw for freehand sketching, a drawing tablet transforms the experience. The freehand pen tool is significantly more precise with stylus input. Both the Wacom Intuus Small and Huion Inspiroy H640P are solid entry-level options available on Amazon that pair well with this [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/).
+> **💡 Tablet Tip:** If you use Excalidraw for freehand sketching, a drawing tablet transforms the experience. The freehand pen tool is significantly more precise with stylus input. Both the Wacom Intuus Small and Huion Inspiroy H640P are solid entry-level options available on Amazon that pair well with this [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
 
 ### Scripts and the Element Library
 

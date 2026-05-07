@@ -19,7 +19,7 @@ Academic research demands managing an overwhelming volume of information. Betwee
 
 Obsidian has emerged as the premier personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) tool for academics because its local-first, plain-text foundation ensures your research remains accessible decades from now. However, out of the box, Obsidian is essentially a blank canvas. Its true power for academia lies in its vibrant plugin ecosystem.
 
-By integrating the right community plugins, you can connect your reference manager directly to your notes, query your literature database dynamically, and even export your markdown files into perfectly formatted academic papers. This review breaks down the best Obsidian plugins for academic researchers in 2026, evaluating them on reliability, [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) integration, and setup complexity.
+By integrating the right community plugins, you can connect your reference manager directly to your notes, query your literature database dynamically, and even export your markdown files into perfectly formatted academic papers. This review breaks down the best Obsidian plugins for academic researchers in 2026, evaluating them on reliability, [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) integration, and setup complexity.
 
 ## Essential Citation and Literature Management
 

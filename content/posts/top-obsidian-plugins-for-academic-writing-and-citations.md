@@ -74,7 +74,7 @@ The Annotator plugin brings high-quality PDF and EPUB reading capabilities direc
 For academics who want a unified workspace—where writing and reading happen in the same application—Annotator is indispensable. It eliminates the friction of switching between a separate PDF viewer and your text editor, keeping you in a state of deep focus while doing literature reviews.
 
 **Pros:**
-- Keeps the entire reading and annotating [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) within Obsidian
+- Keeps the entire reading and annotating [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) within Obsidian
 - Deep linking to specific PDF pages and text highlights
 - Supports both PDF and EPUB file formats natively
 
@@ -151,7 +151,7 @@ When mapping out the flow of an argument or structuring a [literature review](/p
 
 Dataview is the most powerful plugin in the Obsidian ecosystem, effectively turning your markdown vault into a queryable database. For academics, this means you can add YAML frontmatter to your literature notes (e.g., author, year, topic, methodology, read status) and then use SQL-like queries to generate dynamic tables.
 
-You could create a dashboard that automatically lists all unread papers tagged with "machine learning" published after 2024. Or you could generate a comprehensive table comparing the methodologies of 20 different papers. Dataview moves Obsidian beyond a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) app and into a full-fledged research management system.
+You could create a dashboard that automatically lists all unread papers tagged with "machine learning" published after 2024. Or you could generate a comprehensive table comparing the methodologies of 20 different papers. Dataview moves Obsidian beyond a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) app and into a full-fledged research management system.
 
 **Pros:**
 - Transforms static notes into dynamic, queryable databases

@@ -19,7 +19,7 @@ Managing a tabletop RPG campaign quickly becomes a sprawling logistical challeng
 
 Obsidian has emerged as the premier [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) tool for GMs precisely because it mirrors how world building naturally occurs: non-linearly. Unlike rigid folder hierarchies, Obsidian’s bidirectional linking allows you to connect an NPC’s page directly to their hometown, the faction they represent, and the session note where the players first met them. 
 
-This guide breaks down exactly how to architect your Obsidian vault for campaign management, detailing the structural frameworks, practical [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/), and the specific ecosystem of plugins that turn a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) app into a comprehensive world-building engine.
+This guide breaks down exactly how to architect your Obsidian vault for campaign management, detailing the structural frameworks, practical [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/), and the specific ecosystem of plugins that turn a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) app into a comprehensive world-building engine.
 
 ## The Core Mechanics of Obsidian for Game Masters
 

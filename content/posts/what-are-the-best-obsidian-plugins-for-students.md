@@ -13,7 +13,7 @@ tags: ["obsidian", "students", "study tools", "academic workflow"]
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# What Are the Best Obsidian Plugins for Students? A [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/)-Based Guide
+# What Are the Best Obsidian Plugins for Students? A [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)-Based Guide
 
 > **TL;DR**
 > - The best Obsidian plugins for students aren't random additions — they map directly to specific academic tasks: researching, writing, and reviewing for exams.
@@ -39,7 +39,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ## Why Obsidian Is a Student's Secret Weapon {#why-obsidian}
 
-Most [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) apps treat your notes like documents inside a cloud service you don't control. Notion is excellent, but your data lives on their servers, the free tier has limitations, and the day they change pricing or shut down, your five years of lecture notes go with them. Evernote peaked around 2014. Apple Notes is fine until you need to do anything serious with structure or search.
+Most [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) apps treat your notes like documents inside a cloud service you don't control. Notion is excellent, but your data lives on their servers, the free tier has limitations, and the day they change pricing or shut down, your five years of lecture notes go with them. Evernote peaked around 2014. Apple Notes is fine until you need to do anything serious with structure or search.
 
 Obsidian works differently. Every note is a plain `.md` (Markdown) file that lives on your hard drive. You own it. You can open it in any text editor in 2045 if you want to. That matters for students because academic work compounds — your notes from a first-year biology class might be directly relevant to a graduate thesis seven years later.
 

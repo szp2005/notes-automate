@@ -92,7 +92,7 @@ Dataview is a database querying language, not a free-text search engine. Datavie
 
 ## Conclusion
 
-The transition from a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) app to a lifelong knowledge management system requires tools that scale with your accumulation of data. The Omnisearch plugin for Obsidian fuzzy search is a foundational piece of that scalable infrastructure. By replacing rigid, exact-match queries with a forgiving, intelligent scoring algorithm—and by forcefully unlocking the text trapped inside PDFs and images—Omnisearch eliminates the friction of retrieval. It allows you to trust your vault fully, knowing that no matter how poorly you typed a thought three years ago, or what format you saved a document in, your system has the capability to surface it the exact moment you need it.
+The transition from a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) app to a lifelong knowledge management system requires tools that scale with your accumulation of data. The Omnisearch plugin for Obsidian fuzzy search is a foundational piece of that scalable infrastructure. By replacing rigid, exact-match queries with a forgiving, intelligent scoring algorithm—and by forcefully unlocking the text trapped inside PDFs and images—Omnisearch eliminates the friction of retrieval. It allows you to trust your vault fully, knowing that no matter how poorly you typed a thought three years ago, or what format you saved a document in, your system has the capability to surface it the exact moment you need it.
 
 ## Frequently Asked Questions
 

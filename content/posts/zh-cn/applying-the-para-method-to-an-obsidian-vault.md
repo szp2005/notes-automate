@@ -86,7 +86,7 @@ PARA 不会问“这是关于什么的？”，而是问“我什么时候需要
 ### 使用文件夹与链接
 文件夹根据可操作性决定了笔记存放的*位置*。链接则根据上下文决定了笔记彼此之间*如何*关联。
 
-例如，你可能正在研究一款新的[笔记](/zh-cn/posts/streamlining-your-daily-note-workflow-for-better-[生产力](/zh-cn/posts/understanding-the-obsidian-internal-link-syntax-variations/)/)应用。你将 `Note-Taking App Research` 笔记放在 `1-Projects` 文件夹中，因为你有一个在周五前选择一款应用的截止日期。在该笔记中，你可能会创建指向 `[[Personal Knowledge Management]]` 和 `[[Productivity Systems]]` 的双向链接，这些链接位于你的 `3-Resources` 文件夹中。
+例如，你可能正在研究一款新的[笔记](/zh-cn/posts/streamlining-your-daily-note-workflow-for-better-productivity/)应用。你将 `Note-Taking App Research` 笔记放在 `1-Projects` 文件夹中，因为你有一个在周五前选择一款应用的截止日期。在该笔记中，你可能会创建指向 `[[Personal Knowledge Management]]` 和 `[[Productivity Systems]]` 的双向链接，这些链接位于你的 `3-Resources` 文件夹中。
 
 ### MOCs （内容地图） 的作用
 在 Obsidian 库中应用 PARA 方法时，你可能会积累数十个项目和数百个资源。内容地图（MOCs）可作为这些区域的索引。

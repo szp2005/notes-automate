@@ -17,7 +17,7 @@ Managing a personal [knowledge management](/posts/using-obsidian-for-long-term-e
 
 This is where the Templater plugin becomes necessary. Instead of just pasting text, Templater acts as a scripting engine that evaluates code when a template is inserted. It reads the context of your vault, prompts you for missing information, and constructs the note exactly how you need it. 
 
-Transitioning from static text to dynamic generation reduces friction in your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/). When your system automatically handles the [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), you spend less time managing the structure of your notes and more time focusing on their content. This guide details how to implement dynamic templates, configure advanced scripts, and optimize your Obsidian vault for seamless [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/).
+Transitioning from static text to dynamic generation reduces friction in your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). When your system automatically handles the [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), you spend less time managing the structure of your notes and more time focusing on their content. This guide details how to implement dynamic templates, configure advanced scripts, and optimize your Obsidian vault for seamless [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/).
 
 ## Core Concepts of Dynamic Generation
 

@@ -217,7 +217,7 @@ Obsidian Sync 并不适合所有人，它也没有试图迎合所有人。它是
 
 ### Obsidian Sync 值得买吗 这篇文章的主要好处是什么？
 
-本指南解释了 Obsidian 用户和[笔记](/zh-cn/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/zh-cn/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) 高级用户如何更好地决定 Obsidian Sync 是否值得购买。真正的好处在于，它将一个模糊的问题转化为一个更清晰的决策、工作流或设置方案，让 Obsidian 用户和笔记高级用户可以立即采取行动。
+本指南解释了 Obsidian 用户和[笔记](/zh-cn/posts/streamlining-your-daily-note-workflow-for-better-productivity/) 高级用户如何更好地决定 Obsidian Sync 是否值得购买。真正的好处在于，它将一个模糊的问题转化为一个更清晰的决策、工作流或设置方案，让 Obsidian 用户和笔记高级用户可以立即采取行动。
 
 ### 谁最适合阅读 Obsidian Sync 值得买吗？
 

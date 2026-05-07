@@ -17,7 +17,7 @@ Academic research requires wrangling hundreds of PDFs, managing [metadata](/post
 
 Integrating Zotero with Obsidian eliminates this friction. By creating a direct pipeline between your reference manager and your knowledge base, you transform static PDFs into a dynamic network of interconnected thoughts. This approach moves you from passively collecting literature to actively building a web of knowledge, aligning perfectly with the [Zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/) methodology and modern Personal [Knowledge Management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) principles.
 
-This guide details the exact steps to establish a robust, automated [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) that extracts metadata and annotations from Zotero directly into beautifully formatted Obsidian literature notes.
+This guide details the exact steps to establish a robust, automated [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) that extracts metadata and annotations from Zotero directly into beautifully formatted Obsidian literature notes.
 
 ## The Core Components of the Integration
 

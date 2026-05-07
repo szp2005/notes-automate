@@ -182,7 +182,7 @@ Establish a rigid schema for your primary [workflows](/posts/automating-your-tas
 
 ## Conclusion
 
-Transitioning from manual linking to creating automated index pages with Obsidian Dataview represents a fundamental shift in personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/). It moves you away from the friction of maintenance and toward the flow of creation. By defining rules rather than hardcoding relationships, your vault transforms into an organic system that organizes itself in real-time. Start with simple list queries, standardize your metadata, and gradually build the tables and task views that match your specific cognitive [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/).
+Transitioning from manual linking to creating automated index pages with Obsidian Dataview represents a fundamental shift in personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/). It moves you away from the friction of maintenance and toward the flow of creation. By defining rules rather than hardcoding relationships, your vault transforms into an organic system that organizes itself in real-time. Start with simple list queries, standardize your metadata, and gradually build the tables and task views that match your specific cognitive [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
 
 ## Frequently Asked Questions
 

@@ -67,7 +67,7 @@ Where MarkDownload shines is its granular control over the output. You can injec
 **Price:** $8.99-$12.99/month
 **Rating:** 4.7/5
 
-Readwise Reader is not just a clipper; it is a comprehensive read-it-later application with a robust browser extension. While it costs money, it provides an unparalleled [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) for people who highlight extensively before moving notes into Obsidian. The extension allows you to highlight text, add margin notes, and tag articles directly on the live webpage.
+Readwise Reader is not just a clipper; it is a comprehensive read-it-later application with a robust browser extension. While it costs money, it provides an unparalleled [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) for people who highlight extensively before moving notes into Obsidian. The extension allows you to highlight text, add margin notes, and tag articles directly on the live webpage.
 
 These highlights and notes are then automatically synced to your Obsidian vault via the official Readwise plugin. This prevents your vault from being cluttered with full articles you haven't read yet. Instead, only the distilled knowledge—your highlights and annotations—makes its way into your permanent notes.
 

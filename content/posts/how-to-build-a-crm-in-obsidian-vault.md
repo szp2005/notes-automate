@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Managing professional relationships often defaults to complex, expensive SaaS platforms. While traditional Customer Relationship Management (CRM) software is powerful for large sales teams, it frequently introduces unnecessary friction for freelancers, consultants, and independent professionals. Monthly subscription costs add up, data gets locked behind proprietary systems, and the learning curve can stall actual networking efforts.
 
-Obsidian offers a compelling alternative. Because it operates on local markdown files and links notes bi-directionally, your CRM data can integrate seamlessly with your project files, meeting notes, and daily journals. This approach guarantees complete data ownership and offline access while allowing you to design a relationship management system that mirrors your actual [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/templater-plugin-tutorial-for-obsidian-power-users/)/).
+Obsidian offers a compelling alternative. Because it operates on local markdown files and links notes bi-directionally, your CRM data can integrate seamlessly with your project files, meeting notes, and daily journals. This approach guarantees complete data ownership and offline access while allowing you to design a relationship management system that mirrors your actual [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
 
 This guide details exactly how to build a CRM in your Obsidian vault from the ground up, utilizing core structural concepts and a few essential community plugins to create a low-maintenance, high-efficiency system.
 
@@ -172,7 +172,7 @@ Set a recurring task in your task manager (or a reminder in Obsidian) to conduct
 
 ## Conclusion
 
-Transitioning your relationship management to local markdown files provides unmatched privacy, speed, and customization. By structuring your data with YAML properties, linking interactions naturally, and surfacing actionable insights through Dataview, learning how to build a CRM in an Obsidian vault transforms your [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) app into a powerful professional networking tool. The lack of subscription fees is a bonus; the real value is having your network completely integrated into your existing knowledge ecosystem.
+Transitioning your relationship management to local markdown files provides unmatched privacy, speed, and customization. By structuring your data with YAML properties, linking interactions naturally, and surfacing actionable insights through Dataview, learning how to build a CRM in an Obsidian vault transforms your [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) app into a powerful professional networking tool. The lack of subscription fees is a bonus; the real value is having your network completely integrated into your existing knowledge ecosystem.
 
 ## Frequently Asked Questions
 

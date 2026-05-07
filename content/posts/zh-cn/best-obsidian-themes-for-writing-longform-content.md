@@ -46,7 +46,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 这绝非为了美观而追求美观，这是应用人体工程学。
 
-**排版和行距对阅读疲劳有直接、可测量的影响。** 当行长（或“栏宽”）超过 75–80 个字符时，你的视线在跳转到下一行开头前需要移动过长的距离。正文行高低于 1.5 会压缩垂直韵律，让人很难在密集的段落中追踪行文。即使是经过打磨的默认 Obsidian，也不是为撰写 2,000 字的草稿而优化的。它是为通用的[笔记记录](/zh-cn/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/zh-cn/posts/understanding-the-obsidian-internal-link-syntax-variations/)/)而优化的，这完全是另一种认知任务。
+**排版和行距对阅读疲劳有直接、可测量的影响。** 当行长（或“栏宽”）超过 75–80 个字符时，你的视线在跳转到下一行开头前需要移动过长的距离。正文行高低于 1.5 会压缩垂直韵律，让人很难在密集的段落中追踪行文。即使是经过打磨的默认 Obsidian，也不是为撰写 2,000 字的草稿而优化的。它是为通用的[笔记记录](/zh-cn/posts/streamlining-your-daily-note-workflow-for-better-productivity/)而优化的，这完全是另一种认知任务。
 
 **干净界面的心理效应常常被低估。** 列出你的 vault 的侧边栏、带有图标的工具区、底部的状态栏——这些元素中的每一个都是一种低强度的干扰。关于注意力的研究一致表明，工作区中可见但无关的视觉元素会消耗认知资源，即使你并没有在使用它们。一个在写作时隐藏或淡化这些元素的主题，是在为你做真正的减负工作。
 

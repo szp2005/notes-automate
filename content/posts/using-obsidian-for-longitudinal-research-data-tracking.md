@@ -275,7 +275,7 @@ By combining these practices, researchers can leverage Obsidian's flexibility wh
 
 ## Integrating External Tools and Data Sources
 
-While Obsidian excels as a central hub for qualitative and mixed-methods data, longitudinal research often involves data from various external sources and requires specialized tools for certain analytical tasks. Integrating these effectively can streamline your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/).
+While Obsidian excels as a central hub for qualitative and mixed-methods data, longitudinal research often involves data from various external sources and requires specialized tools for certain analytical tasks. Integrating these effectively can streamline your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
 
 ### Importing Existing Data
 

@@ -103,7 +103,7 @@ Because of bidirectional linking, your ADR for `[[Switching from REST to GraphQL
 
 ## Step 7: Version Control and Team Syncing
 
-If you are using Obsidian solely for personal developer notes, Obsidian Sync is a secure, encrypted option for syncing your vault across devices. However, if you want to integrate your documentation with your engineering [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/), Git is the superior choice.
+If you are using Obsidian solely for personal developer notes, Obsidian Sync is a secure, encrypted option for syncing your vault across devices. However, if you want to integrate your documentation with your engineering [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), Git is the superior choice.
 
 Using the **Obsidian Git** community plugin, you can configure your vault to automatically back up to a private GitHub, GitLab, or Bitbucket repository every few minutes. 
 
@@ -114,7 +114,7 @@ This provides several massive advantages for software engineers:
 
 ## Best Practices for Developer Documentation in Obsidian
 
-Transitioning to Obsidian requires a shift in how you think about [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). To keep your developer vault fast and useful, adhere to these technical constraints:
+Transitioning to Obsidian requires a shift in how you think about [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). To keep your developer vault fast and useful, adhere to these technical constraints:
 
 **Keep Files Atomic**
 Avoid writing massive, 50-page documents. In Obsidian, a file should cover exactly one concept, one service, or one API endpoint. If a document grows too large, extract the subsections into new notes and link them together. Smaller files are easier to read, easier to search, and produce a more useful graph view.

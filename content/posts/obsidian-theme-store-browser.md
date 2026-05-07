@@ -51,7 +51,7 @@ Obsidian gives you two distinct places to browse community themes. Neither is se
 | See download counts | ✓ | ✗ |
 | Check for updates | ✓ | ✗ |
 
-The practical [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/): use the web gallery to shortlist candidates, then search for them by name inside the app and install.
+The practical [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/): use the web gallery to shortlist candidates, then search for them by name inside the app and install.
 
 ---
 
@@ -111,7 +111,7 @@ These five themes cover different aesthetics and are all actively maintained as 
 
 **AnuPpuccin** is the go-to choice if you want your vault to feel warm and cohesive. It ships with multiple color palettes selectable via Style Settings.
 
-**Things** replicates the refined UI of the Things 3 task manager. If you use Obsidian for project planning alongside [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/), the visual consistency helps.
+**Things** replicates the refined UI of the Things 3 task manager. If you use Obsidian for project planning alongside [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), the visual consistency helps.
 
 > 💡 **Want to go deeper on Obsidian workflows?** This Udemy course on Obsidian for [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) covers vault architecture, [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/), and visual customization in practical detail.
 

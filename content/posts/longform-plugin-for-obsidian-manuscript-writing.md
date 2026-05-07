@@ -11,7 +11,7 @@ type: "informational"
 
 # Longform Plugin for Obsidian: Complete Guide to Manuscript Writing
 
-> **Quick Answer:** The Longform plugin transforms Obsidian from a standard [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) environment into a structured manuscript editor resembling Scrivener. It allows writers to organize individual markdown files into ordered scenes and chapters, arrange them via a drag-and-drop sidebar, and compile them into a single, cohesive manuscript file without altering the core vault hierarchy.
+> **Quick Answer:** The Longform plugin transforms Obsidian from a standard [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) environment into a structured manuscript editor resembling Scrivener. It allows writers to organize individual markdown files into ordered scenes and chapters, arrange them via a drag-and-drop sidebar, and compile them into a single, cohesive manuscript file without altering the core vault hierarchy.
 
 Writing a book, dissertation, or lengthy essay in standard markdown applications often devolves into a disorganized folder of disjointed text files. While dedicated writing software like Scrivener or Ulysses handles complex document structures beautifully, many writers prefer the [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/), speed, and cross-linking capabilities of Obsidian. The friction occurs when attempting to sequence 80 different scene files into a linear narrative. 
 

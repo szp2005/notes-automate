@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Top Obsidian Plugins for Creative Writers in 2026
 
-> **Quick Answer:** The top Obsidian plugins for creative writers in 2026 include Longform for compiling manuscript drafts, Novel Word Count for tracking daily progress, and [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) for dynamic world-building and character wikis. Together, these tools transform Obsidian from a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) app into a powerful, distraction-free writing environment capable of handling complex novel structures.
+> **Quick Answer:** The top Obsidian plugins for creative writers in 2026 include Longform for compiling manuscript drafts, Novel Word Count for tracking daily progress, and [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) for dynamic world-building and character wikis. Together, these tools transform Obsidian from a simple [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) app into a powerful, distraction-free writing environment capable of handling complex novel structures.
 
 Creative writing requires a delicate balance between unhindered imagination and rigorous organization. Standard word processors often force you into linear drafting, while dedicated [writing software](/posts/obsidian-vs-scrivenir-for-long-form-writing/) like Scrivener can feel bloated or restrictive. Obsidian has emerged as a favorite among novelists, screenwriters, and world-builders because it offers a blank canvas built on local, future-proof Markdown files. 
 

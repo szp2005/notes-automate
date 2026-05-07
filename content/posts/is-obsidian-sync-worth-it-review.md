@@ -82,7 +82,7 @@ iCloud also has zero version history for individual files (Time Machine is deskt
 
 Git is the most powerful option for technically inclined users. You get full version history, complete portability, and no ongoing cost. The tradeoffs are real: Git has no concept of automatic commits. You need either a cron job, a Git plugin (like Obsidian Git), or manual discipline to actually commit changes. On mobile, the Obsidian Git plugin is functional but fragile — it breaks on some iOS updates, requires a personal access token setup that confuses non-[developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/), and does not handle merge conflicts gracefully when you forget to pull before editing.
 
-If you're comfortable with the command line and you only sync to a second device you control, Git is excellent. If you share your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/templater-plugin-tutorial-for-obsidian-power-users/)/) with a less technical partner, or if your mobile device is a primary writing tool, Git will cost you hours you don't want to spend.
+If you're comfortable with the command line and you only sync to a second device you control, Git is excellent. If you share your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) with a less technical partner, or if your mobile device is a primary writing tool, Git will cost you hours you don't want to spend.
 
 ### Obsidian Sync vs. Syncthing
 
@@ -217,7 +217,7 @@ For anyone whose Obsidian vault represents real, irreplaceable thinking, that's 
 
 ### What is the main benefit of Is Obsidian Sync Worth It?
 
-This guide explains how Obsidian users and [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) power users can make a better decision about Is Obsidian Sync Worth It. The real benefit is that it turns a vague problem into a clearer decision, workflow, or setup that Obsidian users and note-taking power users can act on immediately.
+This guide explains how Obsidian users and [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) power users can make a better decision about Is Obsidian Sync Worth It. The real benefit is that it turns a vague problem into a clearer decision, workflow, or setup that Obsidian users and note-taking power users can act on immediately.
 
 ### Who is Is Obsidian Sync Worth It best for?
 

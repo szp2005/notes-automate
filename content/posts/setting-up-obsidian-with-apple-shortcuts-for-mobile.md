@@ -75,7 +75,7 @@ Creating new files for every thought can clutter your vault. Many users prefer a
 
 Advanced URI allows you to target the daily note dynamically without needing to calculate today's date format within Apple Shortcuts. 
 
-The [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) is similar to the Quick Capture shortcut, but the URI construction changes significantly:
+The [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) is similar to the Quick Capture shortcut, but the URI construction changes significantly:
 
 1. **Ask for Input:** Prompt for text.
 2. **URL Encode:** Encode the provided input.

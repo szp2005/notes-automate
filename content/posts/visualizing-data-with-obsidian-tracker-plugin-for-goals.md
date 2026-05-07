@@ -151,7 +151,7 @@ This creates a clear visual threshold. Days where the bar surpasses the red line
 Implementing a goal-tracking system requires consistency and strategic vault organization. Follow these practical recommendations to maintain a sustainable setup.
 
 ### Standardize Your Daily Notes
-Use Obsidian's core [Templates](/posts/obsidian-template-for-weekly-reflection-and-[planning](/posts/obsidian-full-calendar-plugin-review/)/) plugin or community plugins like [Templater](/posts/automating-obsidian-frontmatter-with-templater-scripts/) to ensure every daily note generates with the exact same YAML frontmatter keys. If you manually type `weight` on Monday and `BodyWeight` on Tuesday, the Tracker plugin will not aggregate the data.
+Use Obsidian's core [Templates](/posts/obsidian-template-for-weekly-reflection-and-planning/) plugin or community plugins like [Templater](/posts/automating-obsidian-frontmatter-with-templater-scripts/) to ensure every daily note generates with the exact same YAML frontmatter keys. If you manually type `weight` on Monday and `BodyWeight` on Tuesday, the Tracker plugin will not aggregate the data.
 
 ### Keep Dashboards Separate
 Do not place heavy Tracker code blocks inside the daily notes themselves. Create a dedicated `Goal Dashboard` note. The Tracker plugin executes its queries every time a note is opened. Having multiple complex charts load simultaneously inside a daily note will cause unnecessary lag.

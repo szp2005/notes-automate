@@ -70,7 +70,7 @@ You don't need to touch a terminal or install anything.
 
 **Step 5:** Paste your CSS rules into the file and save it. Back in Obsidian's Appearance settings, click the **refresh icon** next to the CSS snippets heading. Your new file will appear in the list with a toggle switch. Flip it on.
 
-That's the entire [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/). Every time you edit a snippet file and save it, Obsidian hot-reloads it automatically — you can see changes in real time.
+That's the entire [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). Every time you edit a snippet file and save it, Obsidian hot-reloads it automatically — you can see changes in real time.
 
 ---
 

@@ -21,7 +21,7 @@ By using Mermaid diagrams for visual note taking in Obsidian, you maintain the c
 
 ## The Shift to Plain-Text Visualization
 
-For years, the standard [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) for adding visuals to notes involved drawing in Visio, Excalidraw, or Lucidchart, exporting a PNG, and dropping it into a document. When a detail changed, the entire process had to be repeated. This friction often prevents note-takers from updating their visuals, leading to stale information.
+For years, the standard [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) for adding visuals to notes involved drawing in Visio, Excalidraw, or Lucidchart, exporting a PNG, and dropping it into a document. When a detail changed, the entire process had to be repeated. This friction often prevents note-takers from updating their visuals, leading to stale information.
 
 Mermaid shifts the paradigm by treating visual diagrams as code. Because the diagrams are defined by text strings stored right inside your Markdown files, they benefit from everything that makes plain text superior: they are searchable, version-controllable, instantly editable, and completely future-proof. If Obsidian were to disappear tomorrow, your Mermaid code would still be readable by any text editor and renderable by dozens of other applications (including GitHub, Notion, and standard web browsers).
 
@@ -71,7 +71,7 @@ This native mind-mapping capability often replaces the need for dedicated mind-m
 
 ## Practical Workflows for Visual Note Taking
 
-Knowing the syntax is only half the battle; integrating it into a fluid [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) methodology is what unlocks its value. Here is how to apply Mermaid within your daily Obsidian use.
+Knowing the syntax is only half the battle; integrating it into a fluid [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) methodology is what unlocks its value. Here is how to apply Mermaid within your daily Obsidian use.
 
 ### The Concept Mapper Workflow
 

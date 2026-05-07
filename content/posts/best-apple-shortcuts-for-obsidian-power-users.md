@@ -19,7 +19,7 @@ Obsidian is unparalleled as a personal [knowledge management](/posts/using-obsid
 
 However, building these automations isn't always straightforward. Because Obsidian is an Electron app on the desktop and uses a unique local file structure sandbox on mobile, native Apple Shortcuts support out of the box is somewhat limited. To get the absolute best Apple Shortcuts for Obsidian power users, you need the right third-party tools, community plugins, and pre-built workflows to make the magic happen safely and reliably. 
 
-In this comprehensive guide, we review the top tools and shortcut integrations available in 2026 to supercharge your Obsidian vault. Whether you are looking for a premium, plug-and-play application or a completely free, highly customizable URL scheme setup, these are the best solutions for automating your PKM [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) across iOS, iPadOS, and macOS.
+In this comprehensive guide, we review the top tools and shortcut integrations available in 2026 to supercharge your Obsidian vault. Whether you are looking for a premium, plug-and-play application or a completely free, highly customizable URL scheme setup, these are the best solutions for automating your PKM [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) across iOS, iPadOS, and macOS.
 
 ## Top Integrations for Obsidian Apple Shortcuts
 

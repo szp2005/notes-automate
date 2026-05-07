@@ -125,7 +125,7 @@ Writers and content creators: put each scene or section as a note card, arranged
 
 ### Use Case 4: Visualizing a Research Topic
 
-Drop your source PDFs as media cards on the left. Your literature-review notes in the centre. Your emerging argument notes on the right. Draw edges from specific sources to the claims they support. This is a [zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/) visualization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) — you can see at a glance which arguments have two sources behind them and which are hanging in the air unsupported.
+Drop your source PDFs as media cards on the left. Your literature-review notes in the centre. Your emerging argument notes on the right. Draw edges from specific sources to the claims they support. This is a [zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/) visualization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) — you can see at a glance which arguments have two sources behind them and which are hanging in the air unsupported.
 
 ### Use Case 5: Building a Vault Homepage
 

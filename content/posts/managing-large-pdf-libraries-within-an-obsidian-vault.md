@@ -25,7 +25,7 @@ When you place a PDF directly into your Obsidian vault, it behaves like an image
 
 1.  **Sync Quotas and Speeds:** If you use Obsidian Sync, the service imposes limits on individual file sizes (currently 100MB per file) and total vault storage (up to 100GB depending on your plan). Even if you use alternative syncing methods like iCloud or Syncthing, synchronizing gigabytes of binary files alongside lightweight text files significantly degrades sync performance.
 2.  **Search Blindness:** By default, Obsidian's core search plugin only indexes markdown and plain text files. It does not perform Optical Character Recognition (OCR) or extract text layers from PDFs. A 300-page manual sitting in your vault is essentially a black box to your search queries.
-3.  **Annotation Extraction:** While Obsidian's built-in PDF viewer allows for basic highlighting, extracting those highlights into your own markdown notes for synthesis requires manual copying and pasting, which disrupts the research [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/templater-plugin-tutorial-for-obsidian-power-users/)/).
+3.  **Annotation Extraction:** While Obsidian's built-in PDF viewer allows for basic highlighting, extracting those highlights into your own markdown notes for synthesis requires manual copying and pasting, which disrupts the research [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
 
 To solve these problems, you must decide whether to store the files internally (within the vault structure) or externally (indexed but stored elsewhere).
 
@@ -99,7 +99,7 @@ Create a rigid folder hierarchy based on status rather than topic. Topics overla
 ### Linking and Tagging Strategies
 Never rely solely on folders. For every significant PDF in your vault, create a corresponding markdown note—often called a Literature Note. 
 
-If you have a file named `2026-Chen-PDFManagement.pdf`, create a note named `Chen2026 - PDF Management`. In this note, embed a link to the actual file: `[[2026-Chen-PDFManagement.pdf]]`. Do all your tagging, linking, and [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) inside the markdown note, not the PDF metadata. This ensures your tagging taxonomy remains consistent across your entire vault, as Obsidian's graph view and tag pane are optimized for markdown files, not binary attachments.
+If you have a file named `2026-Chen-PDFManagement.pdf`, create a note named `Chen2026 - PDF Management`. In this note, embed a link to the actual file: `[[2026-Chen-PDFManagement.pdf]]`. Do all your tagging, linking, and [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) inside the markdown note, not the PDF metadata. This ensures your tagging taxonomy remains consistent across your entire vault, as Obsidian's graph view and tag pane are optimized for markdown files, not binary attachments.
 
 ## Practical Advice for Performance and Scaling
 

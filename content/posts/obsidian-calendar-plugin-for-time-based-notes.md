@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The Obsidian Calendar plugin provides a visual monthly grid in your sidebar that connects directly to your daily, weekly, and monthly notes. By clicking on specific dates, you can seamlessly create, navigate, and manage time-based Markdown files, transforming your vault from a static knowledge base into a dynamic, time-aware management system.
 
-Managing knowledge without a temporal dimension often leads to a static archive. While linking ideas by concept is powerful, human memory and [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) are heavily tied to time. We remember *when* we had an idea, *when* a meeting occurred, or *when* a project is due. This is where time-based notes become essential. 
+Managing knowledge without a temporal dimension often leads to a static archive. While linking ideas by concept is powerful, human memory and [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) are heavily tied to time. We remember *when* we had an idea, *when* a meeting occurred, or *when* a project is due. This is where time-based notes become essential. 
 
 The Obsidian Calendar plugin bridges the gap between pure [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) and daily operation. It provides an intuitive, visual interface for the Daily Notes core plugin, allowing you to anchor your thoughts, tasks, and journals to specific days. Instead of searching through folders for a meeting note from last Tuesday, you simply click on the calendar.
 

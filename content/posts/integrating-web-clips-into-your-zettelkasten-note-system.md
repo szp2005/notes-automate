@@ -17,7 +17,7 @@ We consume more information online than ever before, yet most of what we read sl
 
 However, a major friction point in modern digital workflows is the ingestion phase. How do you take raw data captured from the internet and elevate it into a structured, useful format without overwhelming yourself? Successfully integrating web clips into your zettelkasten note system requires a deliberate shift from collecting to connecting. It is not about saving the whole webpage; it is about extracting the atomic ideas and anchoring them into your existing web of thought.
 
-Establishing a reliable, frictionless bridge between the internet and your personal knowledge base is essential. Without a defined process, you will either stop capturing valuable insights out of frustration, or you will capture so much raw text that your Zettelkasten becomes diluted with unrefined information. This guide breaks down the complete [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) for turning web highlights into permanent, interconnected knowledge.
+Establishing a reliable, frictionless bridge between the internet and your personal knowledge base is essential. Without a defined process, you will either stop capturing valuable insights out of frustration, or you will capture so much raw text that your Zettelkasten becomes diluted with unrefined information. This guide breaks down the complete [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) for turning web highlights into permanent, interconnected knowledge.
 
 ## The Difference Between Collecting and Connecting
 
@@ -29,7 +29,7 @@ Raw web clips are not Zettels (permanent notes). They are source material. If yo
 
 ## Choosing the Right Web Clipping Tools
 
-The first step in your workflow is capturing the information efficiently. You need tools that allow you to highlight text, save the source URL, and ideally capture [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) (author, publication date, title) without interrupting your reading flow. The market offers several robust options depending on your central [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) application.
+The first step in your workflow is capturing the information efficiently. You need tools that allow you to highlight text, save the source URL, and ideally capture [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) (author, publication date, title) without interrupting your reading flow. The market offers several robust options depending on your central [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) application.
 
 Dedicated read-it-later applications like Omnivore, Matter, and Instapaper allow you to save articles, read them in a distraction-free environment, and highlight key passages. These tools often feature robust APIs or direct integrations with popular markdown-based note apps. 
 

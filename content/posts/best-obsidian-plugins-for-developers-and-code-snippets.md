@@ -93,7 +93,7 @@ This serves dual purposes: it acts as a reliable, free backup solution, and it a
 **Pros:**
 - Completely free synchronization and backup solution
 - Leverages industry-standard version control paradigms
-- Allows for branching and collaborative [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/)
+- Allows for branching and collaborative [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)
 
 **Cons:**
 - Requires familiarity with Git fundamentals

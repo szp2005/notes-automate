@@ -33,7 +33,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 4. [Best for Readability Out-of-the-Box: Typomagical Theme](#typomagical-theme)
 5. [The Academic's Choice: Things Theme](#things-theme)
 6. [Honorable Mentions for Specific Tastes](#honorable-mentions)
-7. [Beyond Themes: Essential Plugins for Your Writing [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/templater-plugin-tutorial-for-obsidian-power-users/)/)](#essential-plugins)
+7. [Beyond Themes: Essential Plugins for Your Writing Workflow/)](#essential-plugins)
 8. [Quick Comparison Table: All Themes Side by Side](#comparison-table)
 9. [FAQ](#faq)
 10. [Conclusion](#conclusion)
@@ -46,7 +46,7 @@ Most writers spend hours thinking about their outlining method, their folder str
 
 This is not aesthetics for aesthetics' sake. It is applied ergonomics.
 
-**Typography and line spacing have direct, measurable effects on reading fatigue.** A line length (or "measure") beyond 75–80 characters forces your eye to travel too far before snapping back to the start of the next line. A line-height below 1.5 on body text compresses the vertical rhythm and makes it harder to track lines in a dense passage. Default Obsidian — even in its current polished form — is not optimized for 2,000-word drafting sessions. It is optimized for general [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/), which is a different cognitive task entirely.
+**Typography and line spacing have direct, measurable effects on reading fatigue.** A line length (or "measure") beyond 75–80 characters forces your eye to travel too far before snapping back to the start of the next line. A line-height below 1.5 on body text compresses the vertical rhythm and makes it harder to track lines in a dense passage. Default Obsidian — even in its current polished form — is not optimized for 2,000-word drafting sessions. It is optimized for general [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), which is a different cognitive task entirely.
 
 **The psychological effect of a clean interface is underestimated.** The sidebar listing your vault, the ribbon with its icons, the status bar at the bottom — every one of those elements is a low-grade interruption. Research on attention consistently shows that visible, unrelated affordances in a workspace pull cognitive resources even when you are not actively using them. A theme that hides or mutes these elements during writing is doing real work for you.
 

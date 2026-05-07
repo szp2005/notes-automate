@@ -133,5 +133,5 @@ Obsidian Git handles offline work gracefully. It will continue to take local sna
 
 - [Visualizing Data With Obsidian Tracker Plugin For Goals: Complete Setup Guide](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)
 
-- [Advanced [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

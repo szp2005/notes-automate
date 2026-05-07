@@ -11,7 +11,7 @@ type: "informational"
 
 # Personal Knowledge Base with Obsidian Setup: 5-Step Guide
 
-> **Quick Answer:** To build a personal knowledge base with Obsidian, start by creating a central vault and establishing a basic folder structure for your daily notes, source materials, and permanent ideas. Use Obsidian's bidirectional linking (`[[link]]`) to connect related concepts naturally as you write, rather than relying strictly on rigid folders. Adopt a progressive summarization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) to turn raw information into your own interconnected insights over time.
+> **Quick Answer:** To build a personal knowledge base with Obsidian, start by creating a central vault and establishing a basic folder structure for your daily notes, source materials, and permanent ideas. Use Obsidian's bidirectional linking (`[[link]]`) to connect related concepts naturally as you write, rather than relying strictly on rigid folders. Adopt a progressive summarization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) to turn raw information into your own interconnected insights over time.
 
 Information overload is the defining challenge of modern knowledge work. You read articles, listen to podcasts, and take meeting notes, but when it comes time to synthesize that information into a cohesive project or insight, those isolated fragments are impossible to find. Relying on your memory or a chaotic downloads folder inevitably leads to lost ideas and duplicated effort.
 
@@ -36,7 +36,7 @@ By separating other people's ideas from your own generated thoughts, you prevent
 
 The defining feature of Obsidian is the bidirectional link. By wrapping any word or phrase in double brackets `[[like this]]`, Obsidian creates a link to a note with that title. If the note doesn't exist yet, clicking the link creates it.
 
-This mechanic flips traditional [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) on its head. Instead of asking "which folder does this belong in?", you ask "what concepts does this relate to?".
+This mechanic flips traditional [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) on its head. Instead of asking "which folder does this belong in?", you ask "what concepts does this relate to?".
 
 When taking a note about the psychology of habit formation, you might write: "Triggering a new behavior requires low friction, tying into the broader concept of [[Choice Architecture]]." Even if you haven't written the Choice Architecture note yet, you have created a placeholder. Over time, as you link to [[Choice Architecture]] from notes on product design, behavioral economics, and personal [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/), Obsidian builds a dense graph of connections.
 

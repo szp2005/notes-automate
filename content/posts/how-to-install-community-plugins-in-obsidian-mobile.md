@@ -45,7 +45,7 @@ Here's why it's still worth doing:
 
 - **Custom toolbars.** Mobile keyboards hide your formatting shortcuts. Plugins like Commander let you put the commands you actually use front and center.
 - **Quick capture.** You're on your phone because something just happened. Plugins like QuickAdd let you log a thought in two taps without derailing your whole vault.
-- **[Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) continuity.** If you're already running plugins on desktop, getting the same ones running on mobile means your notes, [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), and [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) behave consistently.
+- **[Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) continuity.** If you're already running plugins on desktop, getting the same ones running on mobile means your notes, [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), and [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) behave consistently.
 
 The caveat: a plugin marked "mobile-compatible" by its developer may still have UI elements that are too small to tap, break the reading pane, or quietly fail on iOS but work fine on Android. You will need to test.
 

@@ -25,7 +25,7 @@ This comprehensive review will explore the new architecture, benchmark its perfo
 
 Before we dive into the specific upgrades of the 2026 release, it is essential to understand the bottleneck that plagued earlier iterations of Obsidian database tools. Historically, plugins attempting to create Notion-like tables had to parse thousands of markdown files, extract the YAML or inline Dataview fields, render a React or Svelte frontend component, and then reverse-engineer any cell edits back into text replacements within the raw markdown files. 
 
-This [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) caused significant latency. Editing a cell in a table containing 500+ notes would result in visible UI freezing, CPU spikes, and occasional data synchronization errors if a sync service (like Obsidian Sync or iCloud) attempted to read the file during a write operation. The UI felt detached from the app, struggling to respect custom themes, native typography settings, or core hotkeys.
+This [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) caused significant latency. Editing a cell in a table containing 500+ notes would result in visible UI freezing, CPU spikes, and occasional data synchronization errors if a sync service (like Obsidian Sync or iCloud) attempted to read the file during a write operation. The UI felt detached from the app, struggling to respect custom themes, native typography settings, or core hotkeys.
 
 ## What Changed in the 2026 Native Update?
 
