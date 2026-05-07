@@ -1,4 +1,5 @@
 ---
+image: "/og/review-of-obsidian-local-rest-api-integrations.webp"
 title: "Obsidian Local REST API Integrations Review: Best Automation Setups"
 description: "Comprehensive review of Obsidian Local REST API integrations. Discover the best tools, scripts, and workflows to automate your PKM system securely."
 pubDate: "2026-05-07"
@@ -155,3 +156,11 @@ The API processes HTTP requests sequentially. However, if two separate scripts r
 
 ### Does the API support triggering Obsidian commands?
 Yes, the Local REST API plugin includes an endpoint (`/commands`) that allows you to execute native Obsidian commands or commands registered by other community plugins. This allows external scripts to trigger internal actions like opening a specific workspace layout or forcing a sync operation.
+
+---
+
+## Related Reading
+
+- [Obsidian Local REST API Configuration Script Tool: Complete Setup Guide](/posts/obsidian-local-rest-api-configuration-script-tool/)
+
+- [Download Automated Obsidian Vault Management Templates (2026)](/posts/download-automated-obsidian-vault-management-templates/)

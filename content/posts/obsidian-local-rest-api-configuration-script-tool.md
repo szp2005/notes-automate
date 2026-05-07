@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-local-rest-api-configuration-script-tool.webp"
 title: "Obsidian Local REST API Configuration Script Tool: Complete Setup Guide"
 description: "Master the Obsidian Local REST API configuration script tool to automate your vault. Learn how to set up, secure, and script your note-taking workflow."
 pubDate: "2026-05-07"
@@ -229,3 +230,9 @@ It is highly discouraged. Exposing your local API means anyone with your IP and 
 
 ### Does the API support executing Obsidian commands?
 Yes. The `/commands` endpoint allows you to trigger internal Obsidian commands programmatically. You can send a GET request to `/commands` to list available commands, and a POST request to execute them, which is useful for triggering plugin behaviors from external scripts.
+
+---
+
+## Related Reading
+
+- [Obsidian Local REST API Integrations Review: Best Automation Setups](/posts/review-of-obsidian-local-rest-api-integrations/)

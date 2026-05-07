@@ -194,3 +194,9 @@ Yes. Templater supports System Command execution and advanced user scripts. You 
 
 ### Does Dataview replace the need for Templater variables?
 No, they serve opposite functions. Dataview renders data dynamically on the screen without altering the text file; Templater burns data and text permanently into the file upon creation. A robust system uses Templater to build the permanent structure and Dataview to populate dynamic [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) within that structure.
+
+---
+
+## Related Reading
+
+- [Custom Templater Scripts for Obsidian Free Download (2026)](/posts/custom-templater-scripts-for-obsidian-free-download/)

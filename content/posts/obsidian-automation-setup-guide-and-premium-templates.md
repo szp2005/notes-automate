@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-automation-setup-guide-and-premium-templates.webp"
 title: "The Ultimate Obsidian Automation Setup Guide & Premium Templates"
 description: "Master personal knowledge management with our Obsidian automation setup guide and premium templates. Discover workflows that save hours of manual data entry."
 pubDate: "2026-05-07"
@@ -107,3 +108,11 @@ Obsidian Sync is the most seamless, official method and handles plugin settings 
 
 ### Will these automation plugins slow down my Obsidian vault?
 If configured efficiently, the impact is negligible. However, running hundreds of complex Dataview queries across tens of thousands of notes on a single dashboard can cause performance drops. Optimize your queries to only search necessary folders and limit the data displayed on your primary homepage.
+
+---
+
+## Related Reading
+
+- [Best Note Taking Apps for Zettelkasten Methodology 2026](/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/)
+
+- [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

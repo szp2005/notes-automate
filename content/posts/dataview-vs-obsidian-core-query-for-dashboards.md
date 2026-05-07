@@ -1,4 +1,5 @@
 ---
+image: "/og/dataview-vs-obsidian-core-query-for-dashboards.webp"
 title: "Dataview vs Obsidian Core Query for Dashboards: Which Is Better?"
 description: "Compare Dataview vs Obsidian Core Query for building dashboards. Discover which tool offers the best performance, flexibility, and setup for your PKM system."
 pubDate: "2026-05-07"

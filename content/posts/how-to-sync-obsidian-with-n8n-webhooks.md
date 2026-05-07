@@ -164,6 +164,8 @@ Basic JavaScript knowledge is helpful if you use the QuickAdd approach, as you n
 
 ## Related Reading
 
+- [Complete Guide: n8n Workflow for Obsidian Daily Notes Setup](/posts/n8n-workflow-for-obsidian-daily-notes-setup/)
+
 - [Triggering n8n Workflows Directly From Obsidian Notes: Complete Guide](/posts/triggering-n8n-workflows-directly-from-obsidian-notes/)
 
 - [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)

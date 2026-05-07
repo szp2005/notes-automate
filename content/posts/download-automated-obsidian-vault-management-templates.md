@@ -1,4 +1,5 @@
 ---
+image: "/og/download-automated-obsidian-vault-management-templates.webp"
 title: "Download Automated Obsidian Vault Management Templates (2026)"
 description: "Ready to optimize your PKM? Find out where to download automated obsidian vault management templates and integrate them into your daily workflow."
 pubDate: "2026-05-07"
@@ -104,3 +105,9 @@ Obsidian is highly optimized and can handle thousands of text files with ease. H
 
 ### Can I use automated templates on the Obsidian mobile app?
 Yes, most automated templates work on the mobile app, provided all the necessary community plugins are installed and supported on iOS or Android. However, complex QuickAdd macros or Templater scripts that rely on specific desktop keyboard shortcuts may require alternative triggers on mobile.
+
+---
+
+## Related Reading
+
+- [Best Obsidian Themes for Writing Longform Content](/posts/best-obsidian-themes-for-writing-longform-content/)

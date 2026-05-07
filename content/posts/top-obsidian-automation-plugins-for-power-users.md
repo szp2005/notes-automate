@@ -179,6 +179,8 @@ Obsidian plugins and their settings are stored in the `.obsidian` folder within 
 
 ## Related Reading
 
+- [The Ultimate Obsidian Automation Setup Guide & Premium Templates](/posts/obsidian-automation-setup-guide-and-premium-templates/)
+
 - [Best Note Taking Apps for Zettelkasten Methodology 2026](/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/)
 
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

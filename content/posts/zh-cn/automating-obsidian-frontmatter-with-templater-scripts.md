@@ -227,6 +227,8 @@ mood:
 
 ## Related Reading
 
+- [Best Templater Snippet Collections for Obsidian in 2026](/posts/best-templater-snippet-collections-for-obsidian-2026/)
+
 - [How to Use Obsidian Templater User Scripts: Complete Guide](/posts/how-to-use-obsidian-templater-user-scripts/)
 
 - [Obsidian vs DEVONthink: Which Is Better for Large Research Archives?](/posts/obsidian-vs-devonthink-for-large-research-archives/)

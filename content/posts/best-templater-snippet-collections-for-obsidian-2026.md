@@ -1,4 +1,5 @@
 ---
+image: "/og/best-templater-snippet-collections-for-obsidian-2026.webp"
 title: "Best Templater Snippet Collections for Obsidian in 2026"
 description: "Discover the best Templater snippet collections for Obsidian in 2026. Automate your PKM workflow with pre-built scripts for journaling, tasks, and notes."
 pubDate: "2026-05-07"
@@ -160,3 +161,9 @@ Always back up your current scripts folder before pasting in updated code. If yo
 
 ### Are paid Templater snippet collections worth the money?
 Yes, if you value your time. While you can find free snippets on GitHub or the Obsidian forums, paid collections offer guaranteed compatibility, comprehensive documentation, and scripts that are engineered to handle edge cases without throwing errors.
+
+---
+
+## Related Reading
+
+- [Automating Obsidian Frontmatter with Templater Scripts: 5-Step Guide](/posts/automating-obsidian-frontmatter-with-templater-scripts/)

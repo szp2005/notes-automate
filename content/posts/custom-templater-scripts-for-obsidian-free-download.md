@@ -1,4 +1,5 @@
 ---
+image: "/og/custom-templater-scripts-for-obsidian-free-download.webp"
 title: "Custom Templater Scripts for Obsidian Free Download (2026)"
 description: "Looking for a custom templater scripts for obsidian free download? Get our curated collection of workflow automation scripts to save hours of manual entry."
 pubDate: "2026-05-07"
@@ -284,3 +285,9 @@ Obsidian Core Templates insert static, predetermined text and basic date formats
 
 ### Can I share these custom scripts with my team?
 Absolutely. Because these scripts are saved as standard `.md` markdown files within your templates folder, you can share them via GitHub, sync them using Obsidian Sync, or distribute them via cloud storage to keep your entire team's formatting standardized.
+
+---
+
+## Related Reading
+
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)

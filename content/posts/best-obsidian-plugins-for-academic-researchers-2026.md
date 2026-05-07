@@ -204,6 +204,8 @@ Because Obsidian operates locally on your machine, your data is as secure as you
 
 ## Related Reading
 
+- [Dataview vs Obsidian Core Query for Dashboards: Which Is Better?](/posts/dataview-vs-obsidian-core-query-for-dashboards/)
+
 - [Best Note Taking Apps for Zettelkasten Methodology 2026](/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/)
 
 - [Best Note Taking Apps for Zettelkasten Methodology 2026](/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/)

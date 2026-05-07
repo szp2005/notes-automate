@@ -1,4 +1,5 @@
 ---
+image: "/og/download-obsidian-n8n-integration-workflow-templates.webp"
 title: "Download Obsidian n8n Integration Workflow Templates"
 description: "Download Obsidian n8n integration workflow templates to automate your PKM system. Streamline note syncing, daily digests, and task management effortlessly."
 pubDate: "2026-05-07"
@@ -92,3 +93,9 @@ Yes, but it requires specific configuration. You can configure the Local REST AP
 
 ### Are these workflow templates free to use?
 Yes, n8n is source-available and free to self-host, and community workflow templates (JSON files) are shared freely. However, if you rely on premium external APIs (like OpenAI for summarization) within those workflows, you may incur costs from those specific service providers.
+
+---
+
+## Related Reading
+
+- [Obsidian Canvas vs. Excalidraw: Which Visual Tool Wins?](/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/)

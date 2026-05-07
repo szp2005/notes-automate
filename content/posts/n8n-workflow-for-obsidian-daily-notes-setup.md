@@ -1,4 +1,5 @@
 ---
+image: "/og/n8n-workflow-for-obsidian-daily-notes-setup.webp"
 title: "Complete Guide: n8n Workflow for Obsidian Daily Notes Setup"
 description: "Learn how to build an automated n8n workflow for Obsidian daily notes setup. Step-by-step guide to generating templates, syncing tasks, and saving time."
 pubDate: "2026-05-07"
@@ -140,3 +141,11 @@ If you are pulling tasks from Todoist, n8n only reads the data; it does not chec
 
 ### Why is my daily note generating with yesterday's date?
 This is almost always a timezone mismatch. Ensure that the `GENERIC_TIMEZONE` environment variable in your n8n instance matches your actual location, and verify that the Date & Time node is specifically configured to output the date in your local timezone, rather than defaulting to UTC server time.
+
+---
+
+## Related Reading
+
+- [Download Obsidian n8n Integration Workflow Templates](/posts/download-obsidian-n8n-integration-workflow-templates/)
+
+- [Best Font Pairings for Obsidian Minimal Theme in 2026](/posts/best-font-pairings-obsidian-minimal-theme-2026/)
