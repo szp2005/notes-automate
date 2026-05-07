@@ -31,7 +31,7 @@ Unlike query-based tools that render data visually without altering the underlyi
 
 ## Essential Plugins for the Weekly Review System
 
-To execute this architecture flawlessly, you need a precise stack of Obsidian plugins. Here are the core tools evaluated specifically for their utility in a weekly review [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/understanding-the-obsidian-internal-link-syntax-variations/)/).
+To execute this architecture flawlessly, you need a precise stack of Obsidian plugins. Here are the core tools evaluated specifically for their utility in a weekly review [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
 
 ### 1. [Templater Plugin](https://www.amazon.com/s?k=Templater%20Plugin&tag=notesautomate-20)
 

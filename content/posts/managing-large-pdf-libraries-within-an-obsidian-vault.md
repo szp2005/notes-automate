@@ -25,7 +25,7 @@ When you place a PDF directly into your Obsidian vault, it behaves like an image
 
 1.  **Sync Quotas and Speeds:** If you use Obsidian Sync, the service imposes limits on individual file sizes (currently 100MB per file) and total vault storage (up to 100GB depending on your plan). Even if you use alternative syncing methods like iCloud or Syncthing, synchronizing gigabytes of binary files alongside lightweight text files significantly degrades sync performance.
 2.  **Search Blindness:** By default, Obsidian's core search plugin only indexes markdown and plain text files. It does not perform Optical Character Recognition (OCR) or extract text layers from PDFs. A 300-page manual sitting in your vault is essentially a black box to your search queries.
-3.  **Annotation Extraction:** While Obsidian's built-in PDF viewer allows for basic highlighting, extracting those highlights into your own markdown notes for synthesis requires manual copying and pasting, which disrupts the research [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/).
+3.  **Annotation Extraction:** While Obsidian's built-in PDF viewer allows for basic highlighting, extracting those highlights into your own markdown notes for synthesis requires manual copying and pasting, which disrupts the research [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
 
 To solve these problems, you must decide whether to store the files internally (within the vault structure) or externally (indexed but stored elsewhere).
 
@@ -149,7 +149,7 @@ Deleting a link to a PDF in a markdown note does not delete the file. You must l
 
 ## Related Reading
 
-- [[Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/) Plugin for Obsidian Dynamic [Templates](/posts/obsidian-template-for-weekly-reflection-and-planning/) Guide: Automate PKM](/posts/templater-plugin-for-obsidian-dynamic-templates-guide/)
+- [Templater Plugin for Obsidian Dynamic Templates Guide: Automate PKM](/posts/templater-plugin-for-obsidian-dynamic-templates-guide/)
 
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)
 - [Canvas for Obsidian: Infinite Whiteboard Ideas for 2026](/posts/canvas-for-obsidian-infinite-whiteboard-ideas/)

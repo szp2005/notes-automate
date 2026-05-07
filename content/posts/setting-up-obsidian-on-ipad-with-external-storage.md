@@ -17,7 +17,7 @@ For many [knowledge workers](/posts/understanding-the-difference-between-folders
 
 By default, Obsidian on the iPad pushes users toward two primary syncing options: their paid Obsidian Sync service or iCloud Drive. But what if you have a massive vault filled with PDFs and high-resolution images? What if you are dealing with sensitive client data that cannot legally be stored on a cloud server? Or what if you simply want to avoid the recurring subscription fees and the notoriously finicky iCloud sync engine?
 
-Setting up Obsidian on iPad with external storage is the definitive solution for users who demand absolute data sovereignty, high-speed access to massive vaults, and zero reliance on cloud infrastructure. This guide provides a complete technical walkthrough on how to configure your external drives, format them correctly for iPadOS, and seamlessly integrate them into your Obsidian [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/).
+Setting up Obsidian on iPad with external storage is the definitive solution for users who demand absolute data sovereignty, high-speed access to massive vaults, and zero reliance on cloud infrastructure. This guide provides a complete technical walkthrough on how to configure your external drives, format them correctly for iPadOS, and seamlessly integrate them into your Obsidian [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
 
 ## Why Use External Storage for Obsidian on iPad?
 

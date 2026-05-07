@@ -11,7 +11,7 @@ type: "informational"
 
 # Integrating Google Calendar With Obsidian For Daily Planning
 
-> **Quick Answer:** Integrating Google Calendar with Obsidian for daily planning is best achieved using community plugins like *Full Calendar* or *Google Calendar*. These plugins allow you to sync your Google events directly into your daily notes, enabling seamless time-blocking and [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) alongside your daily schedule without switching context.
+> **Quick Answer:** Integrating Google Calendar with Obsidian for daily planning is best achieved using community plugins like *Full Calendar* or *Google Calendar*. These plugins allow you to sync your Google events directly into your daily notes, enabling seamless time-blocking and [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) alongside your daily schedule without switching context.
 
 Managing a complex schedule while maintaining detailed notes often forces professionals to switch constantly between their calendar app and their personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system. This context switching disrupts focus, fragments your attention, and fractures critical information. If your meetings live in Google Calendar but your meeting notes, actionable tasks, and daily reflections live in Obsidian, you are losing valuable time bridging the gap manually. Every time you toggle between windows to check your next appointment or copy-paste meeting details, you interrupt your state of flow.
 
@@ -37,7 +37,7 @@ It connects via the Google Calendar API, which requires a slightly more involved
 
 ### Custom Scripts and Automation Tools
 
-For [advanced users](/posts/explaining-obsidian-properties-for-advanced-[metadata](/posts/explaining-obsidian-metadata-menu-for-structured-data/)-schemas/), bypassing plugins entirely and using workflow automation tools like Make (formerly Integromat) or n8n to push Google Calendar events into Obsidian is another viable path. You can configure a webhook that triggers every morning at 6:00 AM, fetches your Google Calendar agenda for the day, and appends it directly to that day's specific daily note file via the Obsidian Local REST API. While complex to set up, this provides the ultimate control over how your data is formatted and stored, ensuring absolute minimal plugin bloat in your local workspace.
+For [advanced users](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), bypassing plugins entirely and using workflow automation tools like Make (formerly Integromat) or n8n to push Google Calendar events into Obsidian is another viable path. You can configure a webhook that triggers every morning at 6:00 AM, fetches your Google Calendar agenda for the day, and appends it directly to that day's specific daily note file via the Obsidian Local REST API. While complex to set up, this provides the ultimate control over how your data is formatted and stored, ensuring absolute minimal plugin bloat in your local workspace.
 
 ## Setting Up the Google Calendar API
 
@@ -125,5 +125,5 @@ Any calendar data dynamically rendered (such as a sidebar agenda view or a speci
 
 - [Setting Up Obsidian Git for Automated Version Control: Full Guide](/posts/setting-up-obsidian-git-for-automated-version-control/)
 
-- [Advanced [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

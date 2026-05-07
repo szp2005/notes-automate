@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Top 5 Obsidian Plugins for Academic Research (And How They Work Together)
 
-*Build a complete [literature review](/posts/advanced-obsidian-templates-for-literature-review-matrix/), [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/), and synthesis system — not just a plugin list.*
+*Build a complete [literature review](/posts/advanced-obsidian-templates-for-literature-review-matrix/), [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), and synthesis system — not just a plugin list.*
 
 ---
 

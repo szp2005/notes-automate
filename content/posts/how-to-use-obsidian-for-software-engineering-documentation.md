@@ -103,7 +103,7 @@ Because of bidirectional linking, your ADR for `[[Switching from REST to GraphQL
 
 ## Step 7: Version Control and Team Syncing
 
-If you are using Obsidian solely for personal developer notes, Obsidian Sync is a secure, encrypted option for syncing your vault across devices. However, if you want to integrate your documentation with your engineering [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/), Git is the superior choice.
+If you are using Obsidian solely for personal developer notes, Obsidian Sync is a secure, encrypted option for syncing your vault across devices. However, if you want to integrate your documentation with your engineering [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), Git is the superior choice.
 
 Using the **Obsidian Git** community plugin, you can configure your vault to automatically back up to a private GitHub, GitLab, or Bitbucket repository every few minutes. 
 

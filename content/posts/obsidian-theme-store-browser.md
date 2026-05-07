@@ -51,7 +51,7 @@ Obsidian gives you two distinct places to browse community themes. Neither is se
 | See download counts | ✓ | ✗ |
 | Check for updates | ✓ | ✗ |
 
-The practical [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/): use the web gallery to shortlist candidates, then search for them by name inside the app and install.
+The practical [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/): use the web gallery to shortlist candidates, then search for them by name inside the app and install.
 
 ---
 

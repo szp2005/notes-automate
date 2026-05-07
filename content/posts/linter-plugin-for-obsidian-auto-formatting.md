@@ -38,7 +38,7 @@ Writing requires focus. When you are constantly stopping to delete extra spaces,
 
 ## Core Capabilities of the Obsidian Linter Plugin
 
-The Linter plugin operates through a robust set of toggleable rules. Rather than applying a single rigid format, it allows you to construct a custom style guide tailored to your specific [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/).
+The Linter plugin operates through a robust set of toggleable rules. Rather than applying a single rigid format, it allows you to construct a custom style guide tailored to your specific [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
 
 ### YAML Frontmatter Standardization
 Frontmatter is the [metadata](/posts/explaining-obsidian-metadata-menu-for-structured-data/) brain of an Obsidian note. The plugin can automatically insert missing frontmatter, sort existing keys alphabetically, and format specific values. It can ensure that your `tags` and `aliases` keys are always formatted as proper YAML arrays (e.g., `["productivity", "pkm"]`) rather than comma-separated strings. It can also manage your timestamps, automatically inserting the creation date and updating a `last_modified` date every time the file is saved.

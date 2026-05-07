@@ -13,7 +13,7 @@ tags: ["obsidian", "students", "study tools", "academic workflow"]
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# What Are the Best Obsidian Plugins for Students? A [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/)-Based Guide
+# What Are the Best Obsidian Plugins for Students? A [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)-Based Guide
 
 > **TL;DR**
 > - The best Obsidian plugins for students aren't random additions — they map directly to specific academic tasks: researching, writing, and reviewing for exams.

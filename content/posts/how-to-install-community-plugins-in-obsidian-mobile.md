@@ -45,7 +45,7 @@ Here's why it's still worth doing:
 
 - **Custom toolbars.** Mobile keyboards hide your formatting shortcuts. Plugins like Commander let you put the commands you actually use front and center.
 - **Quick capture.** You're on your phone because something just happened. Plugins like QuickAdd let you log a thought in two taps without derailing your whole vault.
-- **[Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) continuity.** If you're already running plugins on desktop, getting the same ones running on mobile means your notes, [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), and [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) behave consistently.
+- **[Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) continuity.** If you're already running plugins on desktop, getting the same ones running on mobile means your notes, [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), and [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) behave consistently.
 
 The caveat: a plugin marked "mobile-compatible" by its developer may still have UI elements that are too small to tap, break the reading pane, or quietly fail on iOS but work fine on Android. You will need to test.
 
@@ -98,7 +98,7 @@ The plugin browser doesn't filter by mobile compatibility. You have to do that [
 - Check the GitHub Issues tab for open bugs tagged "mobile" or "iOS/Android."
 - In the plugin browser search, try terms like "mobile," "toolbar," or "capture" — developers who build for mobile tend to use those words in their descriptions.
 
-**For [advanced users](/posts/explaining-obsidian-properties-for-advanced-[metadata](/posts/explaining-obsidian-metadata-menu-for-structured-data/)-schemas/): BRAT**
+**For [advanced users](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/): BRAT**
 
 BRAT (Beta Reviewers Auto-update Tool) is a plugin that lets you install plugins directly from a GitHub repository URL — including beta versions not yet in the official directory. On mobile, you install BRAT itself through the normal browser, then use it to add unlisted plugins by pasting a GitHub link.
 

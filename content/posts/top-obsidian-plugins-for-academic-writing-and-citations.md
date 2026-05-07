@@ -74,7 +74,7 @@ The Annotator plugin brings high-quality PDF and EPUB reading capabilities direc
 For academics who want a unified workspace—where writing and reading happen in the same application—Annotator is indispensable. It eliminates the friction of switching between a separate PDF viewer and your text editor, keeping you in a state of deep focus while doing literature reviews.
 
 **Pros:**
-- Keeps the entire reading and annotating [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) within Obsidian
+- Keeps the entire reading and annotating [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) within Obsidian
 - Deep linking to specific PDF pages and text highlights
 - Supports both PDF and EPUB file formats natively
 

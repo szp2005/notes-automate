@@ -39,7 +39,7 @@ The "Orphans" toggle is an excellent diagnostic tool. Turning this on (while tur
 
 ## Step 2: Implementing Strategic Grouping for Visual Clarity
 
-While filters hide information, Groups help you classify the information that remains visible. By assigning colors to nodes based on specific criteria, you can instantly identify patterns, concentrations of topics, and the [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) state of your notes.
+While filters hide information, Groups help you classify the information that remains visible. By assigning colors to nodes based on specific criteria, you can instantly identify patterns, concentrations of topics, and the [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) state of your notes.
 
 ### Color-Coding by Tag or Folder
 

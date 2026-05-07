@@ -137,7 +137,7 @@ Sometimes docs are sparse, outdated, or don't address your exact situation. Here
 
 **Check when the plugin was last updated.** On the GitHub repository page, look at the "Latest commit" date next to each file, or check the Releases section on the right sidebar. If the last release was two or more years ago and the Issues tab is full of unanswered questions, the plugin may be abandoned. At that point, look for a fork or an alternative plugin that does the same job.
 
-**Watch [YouTube](/posts/obsidian-plugin-automated-youtube-transcript-import/) tutorials.** Search `obsidian [plugin name] tutorial` on YouTube. Creators like Nicole van der Hoeven and Danny Hatcher produce detailed walkthroughs for popular plugins. Video tutorials are especially useful for visual, [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/)-heavy plugins like [Excalidraw](/posts/excalidraw-plugin-for-obsidian-visual-thinking/) or Canvas.
+**Watch [YouTube](/posts/obsidian-plugin-automated-youtube-transcript-import/) tutorials.** Search `obsidian [plugin name] tutorial` on YouTube. Creators like Nicole van der Hoeven and Danny Hatcher produce detailed walkthroughs for popular plugins. Video tutorials are especially useful for visual, [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)-heavy plugins like [Excalidraw](/posts/excalidraw-plugin-for-obsidian-visual-thinking/) or Canvas.
 
 ---
 

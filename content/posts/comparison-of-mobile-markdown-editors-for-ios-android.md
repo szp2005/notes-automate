@@ -155,5 +155,5 @@ Because markdown files are plain text, they are not inherently encrypted at rest
 
 ## Related Reading
 
-- [Advanced [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
 - [Applying the PARA Method to an Obsidian Vault: Complete Guide](/posts/applying-the-para-method-to-an-obsidian-vault/)

@@ -19,7 +19,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 **TL;DR**
 - Obsidian callouts use a simple `> [!TYPE]` syntax to create visually distinct blocks that make notes scannable in seconds.
-- The 12 built-in types cover most needs, but five copy-paste [CSS snippets](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/) in this guide give you [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/)-specific callouts like `[!action]` and `[!key]` immediately.
+- The 12 built-in types cover most needs, but five copy-paste [CSS snippets](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/) in this guide give you [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)-specific callouts like `[!action]` and `[!key]` immediately.
 - Connecting callouts to PARA, [Zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/), and Evergreen Note [workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) turns a formatting trick into a genuine thinking tool.
 
 ---

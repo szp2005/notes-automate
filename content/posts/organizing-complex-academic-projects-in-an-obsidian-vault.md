@@ -65,7 +65,7 @@ Integrating Zotero (or Mendeley) with Obsidian streamlines the process of bringi
 2.  **Extract Annotations:** If you've highlighted or added notes to PDFs within Zotero, the plugin can extract these annotations and embed them directly into your Obsidian note. This is a powerful feature, as it brings your active reading insights into your knowledge graph, ready for linking and synthesis. Each annotation can be a separate block, allowing for granular linking.
 3.  **Create Literature Notes:** Once the raw data and annotations are imported, you can transform this into a "literature note" or "summary note." This is where you process the information in your own words, connect it to existing concepts in your vault, and progressively summarize its key arguments. This active engagement with the source material is crucial for deep learning and retention.
 
-The [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) typically involves:
+The [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) typically involves:
 *   **Saving to Zotero:** When you find a relevant article, save it to Zotero.
 *   **Annotating in Zotero:** Read the PDF in Zotero, highlighting key passages and adding comments.
 *   **Importing to Obsidian:** Use the Zotero Integration plugin to create a new note in your `20_Sources` folder, pulling in metadata and annotations.

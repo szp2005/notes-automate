@@ -17,7 +17,7 @@ We consume more information online than ever before, yet most of what we read sl
 
 However, a major friction point in modern digital workflows is the ingestion phase. How do you take raw data captured from the internet and elevate it into a structured, useful format without overwhelming yourself? Successfully integrating web clips into your zettelkasten note system requires a deliberate shift from collecting to connecting. It is not about saving the whole webpage; it is about extracting the atomic ideas and anchoring them into your existing web of thought.
 
-Establishing a reliable, frictionless bridge between the internet and your personal knowledge base is essential. Without a defined process, you will either stop capturing valuable insights out of frustration, or you will capture so much raw text that your Zettelkasten becomes diluted with unrefined information. This guide breaks down the complete [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) for turning web highlights into permanent, interconnected knowledge.
+Establishing a reliable, frictionless bridge between the internet and your personal knowledge base is essential. Without a defined process, you will either stop capturing valuable insights out of frustration, or you will capture so much raw text that your Zettelkasten becomes diluted with unrefined information. This guide breaks down the complete [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) for turning web highlights into permanent, interconnected knowledge.
 
 ## The Difference Between Collecting and Connecting
 

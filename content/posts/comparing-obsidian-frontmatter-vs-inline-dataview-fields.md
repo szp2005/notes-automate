@@ -19,7 +19,7 @@ Setting up a robust personal [knowledge management](/posts/using-obsidian-for-lo
 
 For years, users have debated the best approach for tracking variables like project statuses, task priorities, and daily habits. The primary battleground lies between two distinct methodologies. On one side, we have standard YAML frontmatter, recently bolstered by Obsidian's native Properties interface. On the other side, we have inline Dataview fields, a flexible syntax introduced by the immensely popular Dataview community plugin.
 
-Choosing the right method dictates how you will interact with your notes daily, how fast your queries will render, and how future-proof your data remains. This guide explores the technical mechanisms, [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) implications, and long-term viability of both approaches to help you build a more resilient second brain.
+Choosing the right method dictates how you will interact with your notes daily, how fast your queries will render, and how future-proof your data remains. This guide explores the technical mechanisms, [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) implications, and long-term viability of both approaches to help you build a more resilient second brain.
 
 ## The Core Metadata Contenders
 

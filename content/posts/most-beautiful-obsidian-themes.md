@@ -43,7 +43,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 There is a well-documented relationship between your visual environment and the quality of sustained cognitive work. Don Norman explored this at length in *The Design of Everyday Things* — the central argument being that objects designed well make you want to use them, while poorly designed tools create friction that compounds over time. The same logic applies to software.
 
-If you open Obsidian every day and the default interface makes you feel nothing — no anticipation, no comfort, no small jolt of pleasure — you are leaving motivational energy on the table. That matters specifically for [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) because it is a habit, not a task. Habits live and die by how easy they are to start, and visual appeal is a legitimate on-ramp.
+If you open Obsidian every day and the default interface makes you feel nothing — no anticipation, no comfort, no small jolt of pleasure — you are leaving motivational energy on the table. That matters specifically for [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) because it is a habit, not a task. Habits live and die by how easy they are to start, and visual appeal is a legitimate on-ramp.
 
 There is a practical dimension too. A theme with poor contrast ratios will fatigue your eyes after 45 minutes. One with bad heading hierarchy makes skimming your own notes tedious. Typography choices affect reading speed. These are not aesthetic preferences; they are usability variables, and they accumulate across every session.
 

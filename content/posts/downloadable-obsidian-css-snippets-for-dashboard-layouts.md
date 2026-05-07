@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Opening Obsidian to a blank, unformatted page can cause unnecessary friction when you sit down to work. While Obsidian excels at text rendering and graph visualization, out-of-the-box it lacks native multi-column dashboard capabilities. A functional workspace requires an entry point—a home base that aggregates your daily notes, current projects, pinned resources, and high-level tasks into a structured interface.
 
-Instead of wrestling with complex HTML or building a proprietary theme from scratch, intermediate and [advanced users](/posts/explaining-obsidian-properties-for-advanced-[metadata](/posts/explaining-obsidian-metadata-menu-for-structured-data/)-schemas/) rely on custom snippets. Snippets are isolated, modular CSS files that inject specific layout logic without overwriting your primary theme. They provide a native-feeling framework for organizing Markdown elements horizontally rather than strictly vertically.
+Instead of wrestling with complex HTML or building a proprietary theme from scratch, intermediate and [advanced users](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) rely on custom snippets. Snippets are isolated, modular CSS files that inject specific layout logic without overwriting your primary theme. They provide a native-feeling framework for organizing Markdown elements horizontally rather than strictly vertically.
 
 Implementing downloadable Obsidian CSS snippets for dashboard layouts transforms a standard markdown file into a robust control center. By applying targeted metadata classes and callout structures, you can build responsive grids, interactive card galleries, and multi-column navigation menus that automatically adjust to your window width.
 
@@ -144,7 +144,7 @@ A common mistake when utilizing grid CSS is filling every available pixel with i
 
 ## Conclusion
 
-Creating a functional, aesthetically pleasing start page in Obsidian does not require advanced web development skills or a degree in [software engineering](/posts/how-to-use-obsidian-for-software-engineering-[documentation](/posts/using-obsidian-to-manage-n8n-workflow-documentation/)/). By leveraging downloadable Obsidian CSS snippets for dashboard layouts, you can bypass the rigid constraints of standard Markdown and build a responsive, multi-column control center tailored exactly to your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). 
+Creating a functional, aesthetically pleasing start page in Obsidian does not require advanced web development skills or a degree in [software engineering](/posts/how-to-use-obsidian-for-software-engineering-documentation/). By leveraging downloadable Obsidian CSS snippets for dashboard layouts, you can bypass the rigid constraints of standard Markdown and build a responsive, multi-column control center tailored exactly to your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). 
 
 Whether you choose the modular precision of MCL, the clean simplicity of Dashboard++, or the visual focus of the Cards snippet, the underlying process remains the same: download the CSS file, apply the appropriate property classes, and construct your grids using native callouts. Paired with dynamic plugins like Dataview, your Obsidian vault transforms from a static repository of text files into a proactive, highly organized operating system for your work.
 

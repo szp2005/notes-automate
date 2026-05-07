@@ -33,7 +33,7 @@ Before examining specific workflows, it is crucial to understand the architectur
 
 Obsidian is fundamentally a markdown editor that operates on a local folder of files. Its approach to structured data relies on YAML frontmatter (now natively supported via Properties) and a massive ecosystem of community plugins. Because it operates on local files, it guarantees absolute data permanence and offline capability. For structured knowledge, it functions as a modular operating system where you must bolt on database features using tools like Dataview, Tracker, and Metadata Menu. 
 
-The strength of Obsidian lies in its longevity and flexibility. Because you own the plain-text files, you are insulated from vendor lock-in. However, building a highly structured, database-like [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) requires significant initial configuration, regular maintenance, and a willingness to write basic code or queries.
+The strength of Obsidian lies in its longevity and flexibility. Because you own the plain-text files, you are insulated from vendor lock-in. However, building a highly structured, database-like [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) requires significant initial configuration, regular maintenance, and a willingness to write basic code or queries.
 
 **Pros:**
 - Complete data ownership via local plain-text markdown files

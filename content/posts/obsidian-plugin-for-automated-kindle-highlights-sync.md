@@ -32,7 +32,7 @@ Beyond time-saving, [automation](/posts/templater-plugin-tutorial-for-obsidian-p
 
 ## Key Features of an Effective Obsidian Kindle Sync Plugin
 
-When evaluating an Obsidian plugin for automated Kindle highlights sync, several key features differentiate a basic tool from a truly effective knowledge management solution. Understanding these features will help you select a plugin that aligns with your specific [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) and long-term goals.
+When evaluating an Obsidian plugin for automated Kindle highlights sync, several key features differentiate a basic tool from a truly effective knowledge management solution. Understanding these features will help you select a plugin that aligns with your specific [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) and long-term goals.
 
 Firstly, **automation and reliability** are paramount. The plugin should ideally offer scheduled or trigger-based syncing, ensuring that new highlights are pulled into Obsidian without manual intervention. A reliable connection to Amazon's highlight database or a service like Readwise is crucial to prevent data loss or inconsistencies. The sync process should be robust, handling network interruptions and API changes gracefully.
 

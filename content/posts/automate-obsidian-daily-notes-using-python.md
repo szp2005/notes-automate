@@ -21,7 +21,7 @@ Imagine opening Obsidian each day to a perfectly structured note, pre-filled wit
 
 ## The Case for Automating Obsidian Daily Notes
 
-The decision to automate any part of a [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) typically stems from a desire for efficiency, consistency, and reduced cognitive load. For Obsidian daily notes, these benefits are particularly pronounced, offering significant advantages over manual creation.
+The decision to automate any part of a [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) typically stems from a desire for efficiency, consistency, and reduced cognitive load. For Obsidian daily notes, these benefits are particularly pronounced, offering significant advantages over manual creation.
 
 ### Eliminating Repetitive Setup
 

@@ -21,7 +21,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 - **Things theme** is an opinionated, GTD-ready skin inspired by the Things 3 app — install it and your vault looks polished in five minutes, no tinkering required.
 - **Minimal theme** is a near-blank canvas with deep Style Settings integration — ideal if you want granular control over typography, color, and layout.
-- **Neither is universally better**: your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/), not aesthetics, should drive the decision.
+- **Neither is universally better**: your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), not aesthetics, should drive the decision.
 
 ---
 

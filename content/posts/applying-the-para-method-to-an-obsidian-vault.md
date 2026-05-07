@@ -82,7 +82,7 @@ While PARA dictates the folder structure, Obsidian's unique features—tags, bid
 ### Using Folders vs. Links
 Folders dictate *where* a note lives based on actionability. Links dictate *how* notes relate to one another based on context. 
 
-For example, you might be researching a new [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) app. You place the `Note-Taking App Research` note in your `1-Projects` folder because you have a deadline to choose an app by Friday. Within that note, you might create bidirectional links to `[[Personal Knowledge Management]]` and `[[Productivity Systems]]`, which live in your `3-Resources` folder. 
+For example, you might be researching a new [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) app. You place the `Note-Taking App Research` note in your `1-Projects` folder because you have a deadline to choose an app by Friday. Within that note, you might create bidirectional links to `[[Personal Knowledge Management]]` and `[[Productivity Systems]]`, which live in your `3-Resources` folder. 
 
 The folder structure tells you what to work on today. The links provide the deep, lateral context when you are exploring ideas.
 

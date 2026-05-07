@@ -137,7 +137,7 @@ Here's an honest accounting.
 
 ## Conclusion
 
-The Obsidian Git plugin is, simply put, the best free infrastructure you can put under your [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/)(/posts/streamlining-your-daily-note-[workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/)-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)(/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) practice. It solves backup, sync, and version history simultaneously — problems that other tools charge monthly fees to address — and it does so while keeping you in complete control of your data.
+The Obsidian Git plugin is, simply put, the best free infrastructure you can put under your [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/)(/posts/streamlining-your-daily-note-[workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)(/posts/understanding-the-obsidian-internal-link-syntax-variations/)/) practice. It solves backup, sync, and version history simultaneously — problems that other tools charge monthly fees to address — and it does so while keeping you in complete control of your data.
 
 The setup takes one afternoon. The payoff lasts as long as you use Obsidian.
 

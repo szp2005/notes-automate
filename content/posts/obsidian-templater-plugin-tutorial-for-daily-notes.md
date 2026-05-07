@@ -16,7 +16,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 # Obsidian Templater Plugin Tutorial for Daily Notes: The Complete Step-by-Step Guide
 
 **TL;DR**
-- The core [Templates](/posts/advanced-obsidian-templates-for-literature-[review](/posts/is-obsidian-sync-worth-it-review/)-matrix/) plugin is static; Templater runs [JavaScript](/posts/how-to-use-obsidian-templater-user-scripts/) at note creation time, letting you pull in live dates, weather, quotes, and [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) task lists automatically.
+- The core [Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) plugin is static; Templater runs [JavaScript](/posts/how-to-use-obsidian-templater-user-scripts/) at note creation time, letting you pull in live dates, weather, quotes, and [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) task lists automatically.
 - This guide walks you through installation, three levels of copy-pasteable daily note templates (beginner → intermediate → advanced), and writing your first User Function to hit an external API.
 - Every snippet here is production-ready and tested in Obsidian 1.5+; you can have a working daily note [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) in under 20 minutes.
 

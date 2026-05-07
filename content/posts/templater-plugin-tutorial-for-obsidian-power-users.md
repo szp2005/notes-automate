@@ -25,7 +25,7 @@ This Templater plugin tutorial for Obsidian power users will skip the basic "how
 
 The native Obsidian Templates plugin is limited to simple string replacement (`{{title}}`, `{{date}}`, `{{time}}`). It cannot evaluate logic, interact with the file system, or ask you questions during note creation.
 
-As a power user, your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) likely requires:
+As a power user, your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) likely requires:
 - Automatically moving a newly created "Meeting Note" into the `Meetings/2026/05` directory.
 - Prompting you to select a "Project Status" from a dropdown menu when creating a project dashboard.
 - Conditionally inserting text based on the day of the week or the folder the note resides in.

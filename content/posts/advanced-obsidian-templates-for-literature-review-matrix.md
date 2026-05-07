@@ -42,7 +42,7 @@ The Obsidian Academic Vault Pro is a highly structured, comprehensive system des
 It utilizes advanced DataviewJS scripts to generate matrices that allow inline editing, meaning you can update metadata directly from the table view without opening individual notes. The template also includes heavily customized quick-add macros that standardizes how you ingest new papers, ensuring that required fields like methodology, sample size, and key findings are never left blank.
 
 **Pros:**
-- Complete end-to-end research [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) system out of the box
+- Complete end-to-end research [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) system out of the box
 - DataviewJS integration allows for inline editing of matrix cells
 - Flawless Zotero integration templates included
 

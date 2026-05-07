@@ -31,7 +31,7 @@ Many users start their PKM journey by writing extensive notes in Obsidian and th
 
 ### How the Plugin Solves Context Switching
 
-By using the Spaced Repetition plugin for Obsidian flashcards, the card and the context are one and the same. If you forget the answer to a prompt, you are already looking at the source document. You can immediately read the surrounding paragraphs, update the card's wording to make it clearer, and continue your review session without ever changing windows. This unified [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) drastically reduces the time spent managing cards and increases the time spent actually learning.
+By using the Spaced Repetition plugin for Obsidian flashcards, the card and the context are one and the same. If you forget the answer to a prompt, you are already looking at the source document. You can immediately read the surrounding paragraphs, update the card's wording to make it clearer, and continue your review session without ever changing windows. This unified [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) drastically reduces the time spent managing cards and increases the time spent actually learning.
 
 ## Installing and Configuring the Environment
 

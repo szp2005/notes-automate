@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Yes, Obsidian Sync is worth it if you prioritize end-to-end [encryption](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/), seamless cross-platform syncing (especially between iOS and Windows), and built-in version history. However, if you only use Apple devices or have strict budget constraints, free alternatives like iCloud or Syncthing may suffice.
 
-Obsidian has cemented its place as the premier local-first markdown [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) application. Because your files live locally on your hard drive, you have complete ownership over your data. But that local-first approach introduces a significant hurdle: how do you access your vault on your smartphone, tablet, and work computer simultaneously?
+Obsidian has cemented its place as the premier local-first markdown [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) application. Because your files live locally on your hard drive, you have complete ownership over your data. But that local-first approach introduces a significant hurdle: how do you access your vault on your smartphone, tablet, and work computer simultaneously?
 
 For years, users have wrestled with third-party cloud integrations and complex workarounds to keep their vaults updated across devices. Obsidian Sync was introduced as the official, frictionless solution to this exact problem. 
 

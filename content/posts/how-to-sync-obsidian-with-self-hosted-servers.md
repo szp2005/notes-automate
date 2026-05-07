@@ -67,7 +67,7 @@ Each Obsidian vault becomes a Git repository. When you make changes on one devic
     *   On your local machine, add the remote:
         `git remote add origin ssh://user@your_server_ip:/path/to/your/repos/obsidian-vault.git` (adjust for Gitea/GitLab if applicable)
     *   Push your initial commit: `git push -u origin master` (or `main` if that's your default branch).
-5.  **Synchronization [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/):**
+5.  **Synchronization [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/):**
     *   **Before editing:** `git pull origin master`
     *   **After editing:**
         ```bash

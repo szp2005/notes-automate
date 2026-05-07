@@ -29,7 +29,7 @@ The server stores this encrypted blob. When your smartphone connects to the serv
 
 ## Step 1: Preparing Your Local Vault for Synchronization
 
-Before you introduce remote synchronization to your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/), you must prepare your local environment. Syncing is not a replacement for a traditional [backup strategy](/posts/configuring-obsidian-for-automated-daily-backup-to-dropbox/). If you accidentally delete a file and that deletion syncs to all devices, you will need a local backup to restore it.
+Before you introduce remote synchronization to your [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), you must prepare your local environment. Syncing is not a replacement for a traditional [backup strategy](/posts/configuring-obsidian-for-automated-daily-backup-to-dropbox/). If you accidentally delete a file and that deletion syncs to all devices, you will need a local backup to restore it.
 
 Start by creating a complete, compressed backup of your entire Obsidian vault folder. Include the hidden `.obsidian` directory, which contains your [themes](/posts/things-theme-vs-minimal-theme-obsidian/), [plugins](/posts/periodic-notes-plugin-weekly-reviews/), and workspace layouts. Store this backup on a separate physical drive or a secure local NAS. 
 

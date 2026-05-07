@@ -17,7 +17,7 @@ Extracting knowledge from video content has traditionally been a fragmented proc
 
 For [knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/), [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/), and [students](/posts/organizing-complex-academic-projects-in-an-obsidian-vault/) using Obsidian, bridging the gap between linear video consumption and interconnected text notes is critical. The visual medium contains dense, high-value information, but without a systematic way to anchor text to video timelines, that value remains locked inside the media file.
 
-Using HoverNotes for timestamped video notes in Obsidian solves this structural problem. By bringing the media player directly into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) environment and binding playback controls to markdown elements, you transform passive viewing into an active, verifiable research [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). This guide details how to implement, configure, and optimize this system.
+Using HoverNotes for timestamped video notes in Obsidian solves this structural problem. By bringing the media player directly into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) environment and binding playback controls to markdown elements, you transform passive viewing into an active, verifiable research [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). This guide details how to implement, configure, and optimize this system.
 
 ## The Mechanics of Timestamped Video Notes
 

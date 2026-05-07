@@ -88,7 +88,7 @@ Syncthing is an open-source file synchronization program maintained by a nonprof
 
 **The catch:** Syncthing is peer-to-peer. For two devices to sync, at least one of them must be online. If your phone and laptop are both off, nothing syncs. The practical solution is an always-on device — a home server, a Raspberry Pi, a Synology NAS, or a cheap cloud VPS — that acts as a relay node. This is not strictly required, but without it, syncing only happens when both devices are running simultaneously.
 
-**Who it is for:** Privacy advocates who are uncomfortable with any third party holding their notes (even encrypted), [developers](/posts/best-obsidian-plugins-for-developers-and-code-[snippets](/posts/how-to-customize-obsidian-appearance-with-css-snippets/)/) comfortable with terminal commands and configuration files, and anyone who needs to eliminate a recurring subscription.
+**Who it is for:** Privacy advocates who are uncomfortable with any third party holding their notes (even encrypted), [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) comfortable with terminal commands and configuration files, and anyone who needs to eliminate a recurring subscription.
 
 ---
 

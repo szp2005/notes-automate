@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Daily journaling has evolved far beyond physical notebooks and simple text editors. Today, power users rely on networked thought applications to capture ideas, track habits, and synthesize knowledge over time. When evaluating Obsidian vs Reflect for fast daily journaling, the decision often comes down to friction versus control. 
 
-Obsidian has long been the heavyweight champion of personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM). Its local-first approach guarantees longevity, while its massive plugin ecosystem allows you to build virtually any [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/comparing-obsidian-metadata-menu-vs-database-folder/)/). However, that power comes with a learning curve and configuration overhead. 
+Obsidian has long been the heavyweight champion of personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM). Its local-first approach guarantees longevity, while its massive plugin ecosystem allows you to build virtually any [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). However, that power comes with a learning curve and configuration overhead. 
 
 Reflect entered the market with a starkly different philosophy. It removes the configuration burden entirely, offering an opinionated, highly polished interface centered around the daily note. With deep calendar integrations and native AI capabilities baked directly into the editor, it aims to capture the speed of human thought with zero setup.
 

@@ -55,7 +55,7 @@ Tags create a bottom-up, associative network. They allow you to pull together di
 
 Tags are optimized for cross-cutting attributes that span multiple categories or change frequently over time.
 
-**[Workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/) and Status Tracking:** Tags are the standard mechanism for tracking a note's lifecycle. Tags like `#status/draft`, `#status/in-progress`, or `#action-item` allow you to query your vault for actionable work regardless of where the file actually lives. When the work is done, you simply delete or update the tag—you do not have to drag the file into a new folder.
+**[Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) and Status Tracking:** Tags are the standard mechanism for tracking a note's lifecycle. Tags like `#status/draft`, `#status/in-progress`, or `#action-item` allow you to query your vault for actionable work regardless of where the file actually lives. When the work is done, you simply delete or update the tag—you do not have to drag the file into a new folder.
 
 **Thematic Grouping:** When researching complex topics, notes often touch on multiple subjects. A reading note on a psychology book might be relevant to behavioral economics, habit formation, and management theory. Tagging the note with `#psychology`, `#economics`, and `#management` ensures the note surfaces whenever you search any of those specific [themes](/posts/things-theme-vs-minimal-theme-obsidian/).
 

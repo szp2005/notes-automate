@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian vs Logseq for Privacy Focused Knowledge Management
 
-> **Quick Answer:** Both applications offer outstanding local-first, offline-by-default architecture where your data remains purely on your hard drive. Choose Obsidian for long-form writing, extreme plugin customization, and traditional markdown file management. Choose Logseq for daily journaling, block-level referencing, and an integrated outliner [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/).
+> **Quick Answer:** Both applications offer outstanding local-first, offline-by-default architecture where your data remains purely on your hard drive. Choose Obsidian for long-form writing, extreme plugin customization, and traditional markdown file management. Choose Logseq for daily journaling, block-level referencing, and an integrated outliner [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
 
 When building a [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) (PKM) system, the software you choose acts as the brain trust for your most sensitive thoughts, [research](/posts/obsidian-vs-devonthink-for-large-research-archives/), and professional intellectual property. Moving this data into cloud-based software introduces vulnerabilities, platform lock-in, and terms of service changes that can compromise your digital sovereignty. This brings us to the forefront of the local-first movement.
 

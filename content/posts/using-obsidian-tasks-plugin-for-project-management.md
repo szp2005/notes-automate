@@ -21,7 +21,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 - The Obsidian Tasks plugin lets you capture, filter, and query tasks stored anywhere in your vault — turning plain markdown checkboxes into a full project management system without leaving your notes.
 - Combining Tasks with [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) gives you dynamic [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) that show overdue work, completion percentages, and priority views — all auto-updating and linked to your actual project notes.
-- This guide includes a copy-pasteable vault template structure, a "cookbook" of ready-to-use queries, and a PARA-based [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) you can implement today.
+- This guide includes a copy-pasteable vault template structure, a "cookbook" of ready-to-use queries, and a PARA-based [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) you can implement today.
 
 ---
 

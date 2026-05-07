@@ -11,7 +11,7 @@ type: "informational"
 
 # QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide
 
-> **Quick Answer:** The QuickAdd plugin for rapid capture in Obsidian allows you to instantly create notes, log daily journal entries, and append information to existing files without interrupting your current [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). By combining [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), captures, macros, and multi-step choices, it eliminates friction and ensures ideas are recorded the moment they strike.
+> **Quick Answer:** The QuickAdd plugin for rapid capture in Obsidian allows you to instantly create notes, log daily journal entries, and append information to existing files without interrupting your current [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). By combining [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), captures, macros, and multi-step choices, it eliminates friction and ensures ideas are recorded the moment they strike.
 
 The friction between having an idea and getting it into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system is where most insights are lost. Obsidian is a powerful thinking environment, but out of the box, creating specific types of notes in designated folders with the correct formatting requires multiple clicks and deliberate navigation. This cognitive overhead interrupts deep work and often leads to fragmented, disorganized vaults. 
 

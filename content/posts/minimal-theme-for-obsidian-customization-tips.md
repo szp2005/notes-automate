@@ -30,7 +30,7 @@ To begin, ensure you have the Minimal theme active via **Settings > Appearance >
 1. **Minimal Theme Settings:** This is a purpose-built plugin designed specifically for the Minimal theme. It provides toggles for the most common layout adjustments, font selections, and color scheme presets. 
 2. **Style Settings:** This is a broader, theme-agnostic plugin that hooks into variables provided by theme [developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/). Kepano has integrated hundreds of configurable variables into Minimal that only become visible once Style Settings is installed.
 
-Enable both plugins. Your customization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/) will now operate on two tiers: Minimal Theme Settings for broad, vault-wide adjustments, and Style Settings for precise, granular control over individual elements.
+Enable both plugins. Your customization [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) will now operate on two tiers: Minimal Theme Settings for broad, vault-wide adjustments, and Style Settings for precise, granular control over individual elements.
 
 ## Core Typography and Spacing Tweaks
 

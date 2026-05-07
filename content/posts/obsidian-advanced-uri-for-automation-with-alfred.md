@@ -137,7 +137,7 @@ Furthermore, Obsidian must be running for the URI protocol to operate. If Obsidi
 
 ## Conclusion
 
-Combining Alfred's quick-entry capabilities with Obsidian Advanced URI removes the navigational tax of traditional [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). By offloading the mechanical steps of finding files, formatting bullet points, and locating specific headings to macOS background processes, you preserve your mental bandwidth for actual thinking. Start by implementing a simple daily logging workflow, test the encoding behavior, and systematically expand your automated routing to match your vault's architecture.
+Combining Alfred's quick-entry capabilities with Obsidian Advanced URI removes the navigational tax of traditional [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). By offloading the mechanical steps of finding files, formatting bullet points, and locating specific headings to macOS background processes, you preserve your mental bandwidth for actual thinking. Start by implementing a simple daily logging workflow, test the encoding behavior, and systematically expand your automated routing to match your vault's architecture.
 
 ## Frequently Asked Questions
 

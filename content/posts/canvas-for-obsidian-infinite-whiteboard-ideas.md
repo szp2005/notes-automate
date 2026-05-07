@@ -49,7 +49,7 @@ This modular approach allows you to see instantly if a chapter is overloaded wit
 
 ## Building Dynamic Dashboards and Home Pages
 
-Your vault's entry point sets the tone for your entire [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)/). A visual dashboard built on a Canvas can be far more engaging and functionally dense than a standard markdown index note.
+Your vault's entry point sets the tone for your entire [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/). A visual dashboard built on a Canvas can be far more engaging and functionally dense than a standard markdown index note.
 
 ### The Daily Operations Center
 Design a central home Canvas that you open first thing in the morning. Include a card that embeds your daily note or your primary task list. Right next to it, place a card linking to your current highest-priority project. 

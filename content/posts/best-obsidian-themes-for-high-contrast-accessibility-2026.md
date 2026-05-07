@@ -73,7 +73,7 @@ Created by Cecilia May, Primary takes a scientifically grounded approach to colo
 
 ### 3. Dracula Official
 
-**Best for:** [Developers](/posts/best-obsidian-plugins-for-developers-and-code-[snippets](/posts/how-to-customize-obsidian-appearance-with-css-snippets/)/) and users migrating from standard coding environments
+**Best for:** [Developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) and users migrating from standard coding environments
 **Price:** Free
 **Rating:** 4.6/5
 

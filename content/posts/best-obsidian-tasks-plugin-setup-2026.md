@@ -23,7 +23,7 @@ This guide breaks down the definitive components of the optimal setup, how to co
 
 ## Core Components of the Ultimate Tasks System
 
-To build a resilient task management [workflow](/posts/streamlining-your-daily-note-workflow-for-better-[productivity](/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/)/), you need the right combination of tools. While the core Obsidian Tasks plugin is the engine, these companion plugins form the chassis of a complete [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system.
+To build a resilient task management [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), you need the right combination of tools. While the core Obsidian Tasks plugin is the engine, these companion plugins form the chassis of a complete [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system.
 
 ### 1. Obsidian Tasks Plugin
 
