@@ -9,8 +9,6 @@ slug: "longform-plugin-obsidian-manuscript-writing"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Longform Plugin for Obsidian: Complete Guide to Manuscript Writing
 
 > **Quick Answer:** The Longform plugin transforms Obsidian from a standard [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) environment into a structured manuscript editor resembling Scrivener. It allows writers to organize individual markdown files into ordered scenes and chapters, arrange them via a drag-and-drop sidebar, and compile them into a single, cohesive manuscript file without altering the core vault hierarchy.

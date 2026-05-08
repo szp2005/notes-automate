@@ -9,8 +9,6 @@ slug: "how-to-build-a-crm-in-obsidian-vault"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # CRM in Obsidian Vault Setup: Complete 2026 Guide
 
 > **Quick Answer:** To build a CRM in an Obsidian vault, rely on the [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) and [Templater](/posts/automating-obsidian-frontmatter-with-templater-scripts/) [plugins](/posts/periodic-notes-plugin-weekly-reviews/) to organize people and companies as markdown notes. Create a unified `Person` template with YAML properties for status, contact info, and last contact date, then use Dataview tables to aggregate your pipeline and prompt follow-ups.

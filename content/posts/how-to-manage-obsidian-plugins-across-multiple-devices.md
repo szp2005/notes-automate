@@ -9,8 +9,6 @@ slug: "how-to-manage-obsidian-plugins-across-multiple-devices"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Plugins Across Multiple Devices: Complete 2026 Guide
 
 > **Quick Answer:** To securely manage Obsidian plugins across multiple devices, synchronize your `.obsidian` hidden folder using Obsidian Sync, Git, or a cloud provider. For best results across mixed environments (desktop and mobile), exclude device-specific files like `workspace.json` from your sync protocol, maintain a lean plugin list, and utilize separate configuration folders if mobile incompatibility arises.

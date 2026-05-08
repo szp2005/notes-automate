@@ -9,8 +9,6 @@ slug: "using-obsidian-to-manage-n8n-workflow-documentation"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Using Obsidian to Manage n8n Workflow Documentation: Complete Guide
 
 > **Quick Answer:** Using Obsidian to manage n8n workflow documentation provides a local, markdown-based knowledge graph that perfectly maps to the visual, node-based structure of n8n. By linking workflow overviews to specific node configurations and API schemas via bidirectional links, [automation](/posts/automating-obsidian-frontmatter-with-templater-scripts/) engineers can rapidly troubleshoot broken pipelines and onboard new team members without reverse-engineering complex JSON data.

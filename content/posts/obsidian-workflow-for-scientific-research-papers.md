@@ -9,8 +9,6 @@ slug: "obsidian-workflow-for-scientific-research-papers"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Workflow for Scientific Research Papers: Complete Guide
 
 > **Quick Answer:** The optimal Obsidian workflow for scientific research papers relies on integrating a reference manager (like Zotero) with Obsidian to automate literature note creation, followed by applying the Zettelkasten method. This involves capturing source [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), extracting annotations, breaking them down into atomic notes, and heavily linking concepts to map out a comprehensive [literature review](/posts/advanced-obsidian-templates-for-literature-review-matrix/) before drafting your manuscript.

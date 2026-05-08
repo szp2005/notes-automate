@@ -9,8 +9,6 @@ slug: "obsidian-vs-tiddlywiki-for-advanced-personal-wikis"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian vs TiddlyWiki: Which Is Better for Advanced Personal Wikis?
 
 > **Quick Answer:** For advanced personal wikis, Obsidian excels with its modern interface, robust graph view, and extensive plugin ecosystem built on local Markdown files, ideal for structured knowledge graphs. TiddlyWiki, conversely, offers unparalleled portability and deep customization within a single HTML file, best suited for users who prioritize extreme data ownership and a highly personalized, self-contained environment.
@@ -168,7 +166,7 @@ For users willing to invest the time, TiddlyWiki offers a deep dive into persona
 
 ---
 
-### 1. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=notesautomate-20)
+### 1. Obsidian
 
 **Best for:** Users prioritizing local Markdown files, a modern UI, a robust graph view, and an extensive plugin ecosystem for structured knowledge graphs and Zettelkasten.
 **Price:** Free (core app), $10/month (Obsidian Sync), $25/month (Obsidian Publish)
@@ -188,7 +186,7 @@ Obsidian is a powerful knowledge base on top of a local folder of plain text Mar
 - Electron-based app can be more resource-intensive than native applications.
 - Not natively web-based, requiring a desktop or mobile app to access.
 
-### 2. [TiddlyWiki](https://www.amazon.com/s?k=TiddlyWiki&tag=notesautomate-20)
+### 2. TiddlyWiki
 
 **Best for:** Users seeking ultimate data portability, extreme customizability, and a self-contained personal wiki experience within a single HTML file, ideal for bespoke knowledge systems.
 **Price:** Free (open source)

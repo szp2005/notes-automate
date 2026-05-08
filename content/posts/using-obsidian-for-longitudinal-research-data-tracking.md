@@ -9,8 +9,6 @@ slug: "using-obsidian-for-longitudinal-research-data-tracking"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Using Obsidian for Longitudinal Research Data Tracking: A Comprehensive Guide
 
 > **Quick Answer:** Obsidian offers a highly flexible and robust solution for longitudinal research data tracking by leveraging its plain-text markdown files, powerful internal linking, and extensive plugin ecosystem, enabling [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/) to systematically organize, connect, and analyze evolving data over extended periods.

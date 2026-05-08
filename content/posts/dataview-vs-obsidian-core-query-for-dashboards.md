@@ -9,8 +9,6 @@ slug: "dataview-vs-obsidian-core-query-for-dashboards"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Dataview vs Obsidian Core Query for Dashboards: Which Is Better?
 
 > **Quick Answer:** For simple, lightning-fast dashboards that rely purely on text matching and tags, Obsidian Core Query is the superior choice due to its native integration and zero overhead. However, if your dashboard requires dynamic sorting, metadata extraction, table generation, or complex conditional logic, Dataview is the essential standard, offering database-like capabilities that the core query system cannot match.
@@ -25,7 +23,7 @@ This guide breaks down the technical differences, performance trade-offs, and pr
 
 To understand which tool suits your workflow, we must evaluate them as standalone engines for driving dashboard widgets. 
 
-### 1. [Obsidian Core Query](https://www.amazon.com/s?k=Obsidian%20Core%20Query&tag=notesautomate-20)
+### 1. Obsidian Core Query
 
 **Best for:** Minimalists, mobile users, and text-based searchers
 **Price:** $0 (Native)
@@ -46,7 +44,7 @@ Because it is integrated at the core level, this query engine is remarkably resi
 - Cannot sort results by custom metadata parameters (e.g., due dates)
 - Zero ability to perform math operations or aggregate data
 
-### 2. [Dataview Plugin](https://www.amazon.com/s?k=Dataview%20Plugin&tag=notesautomate-20)
+### 2. Dataview Plugin
 
 **Best for:** Power users, database builders, and metadata enthusiasts
 **Price:** $0 (Free Plugin)

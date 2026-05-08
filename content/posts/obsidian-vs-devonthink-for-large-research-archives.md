@@ -9,8 +9,6 @@ slug: "obsidian-vs-devonthink-for-large-research-archives"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian vs DEVONthink: Which Is Better for Large Research Archives?
 
 > **Quick Answer:** For managing large research archives spanning gigabytes of PDFs, emails, and web captures, DEVONthink is superior due to its robust database architecture, OCR capabilities, and AI-driven document classification. Obsidian excels when your archive is predominantly plain-text markdown, requiring deep contextual linking, graph visualization, and cross-platform flexibility.
@@ -29,7 +27,7 @@ DEVONthink approaches scale through an internal database structure. While it can
 
 Obsidian, conversely, operates purely on a local folder of files—predominantly Markdown (`.md`). It acts as an integrated development environment (IDE) for your notes. Because it relies entirely on the host operating system's file management, its scalability is theoretically limitless, though the visual graph and initial vault load times can slow down once you exceed 30,000 to 50,000 interlinked text files. Its architecture prioritizes the longevity and portability of your writing over complex multi-format document management.
 
-## 1. [DEVONthink 3](https://www.amazon.com/s?k=DEVONthink%203&tag=notesautomate-20)
+## 1. DEVONthink 3
 
 **Best for:** Academics, lawyers, and researchers managing massive, multi-format reference libraries
 **Price:** $150-$200 (One-time purchase, varies by edition)
@@ -49,7 +47,7 @@ For users dealing with gigabytes of legal briefs, academic papers, downloaded we
 - Exclusively restricted to the Apple ecosystem (macOS and iOS)
 - Interface feels utilitarian and requires a steep learning curve
 
-## 2. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=notesautomate-20)
+## 2. Obsidian
 
 **Best for:** Zettelkasten practitioners, prolific writers, and users who prioritize plain-text longevity
 **Price:** Free (Optional Sync is $4/month, Commercial license is $50/year)

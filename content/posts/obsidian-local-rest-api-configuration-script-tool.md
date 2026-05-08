@@ -9,8 +9,6 @@ slug: "obsidian-local-rest-api-configuration-script-tool"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Local REST API Configuration Script Tool: Complete Setup Guide
 
 > **Quick Answer:** The Obsidian Local REST API allows external scripts and applications to interact with your Obsidian vault locally. To set it up, install the Local REST API community plugin, enable it, copy your auto-generated API key, and use a configuration script tool (like Python or Node.js) to automate reading, creating, and modifying notes securely over HTTPS on port 27124.

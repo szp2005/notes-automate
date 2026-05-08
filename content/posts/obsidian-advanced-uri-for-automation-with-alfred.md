@@ -9,8 +9,6 @@ slug: "obsidian-advanced-uri-automation-alfred"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Advanced URI for Automation with Alfred: Setup Guide
 
 > **Quick Answer:** Integrating Obsidian Advanced URI with Alfred allows you to control your Obsidian vault globally from macOS. By installing the Advanced URI [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugin and mapping its URL schemes to Alfred workflows, you can instantly create notes, append tasks to [daily notes](/posts/automate-obsidian-daily-notes-using-python/), and trigger Obsidian commands without navigating the interface manually.

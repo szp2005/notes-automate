@@ -9,8 +9,6 @@ slug: "connecting-obsidian-to-external-api-with-python"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Connecting Obsidian to External APIs with Python: Complete Guide
 
 > **Quick Answer:** Connecting Obsidian to external APIs with Python involves writing a script that accesses your local Markdown vault using the `pathlib` module, parses file [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) using `python-frontmatter`, sends payload data to external endpoints via the `requests` library, and safely writes the structured response back into your vault.

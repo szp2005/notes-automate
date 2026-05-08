@@ -11,8 +11,6 @@ type: "informational"
 tags: ["obsidian", "dataview", "knowledge management", "automation"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # 如何使用 Obsidian Dataview：面向初学者的分步指南与可复制查询
 
 ---

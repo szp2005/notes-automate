@@ -9,8 +9,6 @@ slug: "n8n-obsidian-integration-for-automated-web-capture"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # n8n Obsidian Integration for Automated Web Capture: Complete Guide
 
 > **Quick Answer:** The most reliable n8n Obsidian integration for automated web capture uses a webhook trigger in n8n paired with a browser extension. n8n receives the web page data, extracts the core content and [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), formats it into Markdown with YAML frontmatter, and saves the file directly to your Obsidian vault via the Obsidian Local REST API plugin or a synced cloud folder.

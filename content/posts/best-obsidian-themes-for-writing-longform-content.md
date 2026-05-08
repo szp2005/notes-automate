@@ -11,8 +11,6 @@ type: "informational"
 tags: ["theme", "most", "important", "writing"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best Obsidian Themes for Writing Longform Content: A Writer's Scorecard Comparison (2024)
 
 ---

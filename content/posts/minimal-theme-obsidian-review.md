@@ -11,8 +11,6 @@ type: "informational"
 tags: ["obsidian", "minimal theme", "theme review", "customization"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Minimal Theme Review (2024): The Best Clean Interface for Your Second Brain?
 
 **TL;DR**

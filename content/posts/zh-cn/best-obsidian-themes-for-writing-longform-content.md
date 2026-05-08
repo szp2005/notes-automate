@@ -11,8 +11,6 @@ type: "informational"
 tags: ["theme", "most", "important", "writing"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # 长篇写作的最佳 Obsidian 主题：写作者评分卡对比 (2024)
 
 ---

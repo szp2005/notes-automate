@@ -9,8 +9,6 @@ slug: "automating-your-task-management-with-obsidian-tasks-plugin"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Automating Your Task Management With Obsidian Tasks Plugin: Guide
 
 > **Quick Answer:** Automating your task management with Obsidian Tasks plugin requires installing the [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugin, using the global task format (`- [ ] #task`), and deploying dynamic code block queries to automatically pull, filter, and sort your action items into centralized dashboards based on due dates, priority, and tags.

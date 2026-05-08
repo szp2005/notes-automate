@@ -11,8 +11,6 @@ type: "informational"
 tags: ["obsidian", "themes", "minimal theme", "things theme"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Things Theme vs Minimal Theme Obsidian: The Definitive Head-to-Head Comparison
 
 ---

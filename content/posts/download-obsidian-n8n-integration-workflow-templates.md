@@ -9,8 +9,6 @@ slug: "download-obsidian-n8n-integration-workflow-templates"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Download Obsidian n8n Integration Workflow Templates
 
 > **Quick Answer:** You can download Obsidian n8n integration workflow templates directly from the n8n community workflow hub or by importing curated JSON templates into your workspace. These pre-built workflows instantly bridge your local Obsidian vault with hundreds of external services, allowing you to automate daily note creation, task synchronization, and automated web clipping without writing custom scripts.

@@ -11,8 +11,6 @@ type: "informational"
 tags: ["obsidian", "visual notes", "maps", "knowledge management"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # How to Create Interactive Maps in Obsidian: The Complete Leaflet Plugin Guide
 
 **TL;DR**

@@ -9,8 +9,6 @@ slug: "obsidian-dataview-for-project-tracking"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Dataview for Project Tracking: Complete Setup Guide
 
 > **Quick Answer:** Obsidian Dataview for project tracking transforms your plain-text markdown vault into a dynamic, queryable database. By adding structured [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) (YAML or inline fields) to your notes, you can write simple DQL (Dataview Query Language) scripts to automatically aggregate tasks, track project statuses, and generate real-time [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) across your entire workspace.

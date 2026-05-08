@@ -11,8 +11,6 @@ type: "informational"
 tags: ["obsidian", "git", "version control", "backup"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # What Is the Obsidian Git Plugin For? A Beginner's Complete Guide
 
 **TL;DR**

@@ -9,8 +9,6 @@ slug: "visualizing-data-with-obsidian-tracker-plugin-for-goals"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Visualizing Data With Obsidian Tracker Plugin For Goals: Complete Setup Guide
 
 > **Quick Answer:** Visualizing data with Obsidian Tracker plugin for goals requires structuring your [daily notes](/posts/automate-obsidian-daily-notes-using-python/) with YAML frontmatter or inline [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) fields (e.g., `water: 8`), then using the `tracker` code block to query that data. You can generate line charts, bar graphs, and habit calendars by defining the search target, specifying the folder scope, and customizing the [visual](/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/) output type.

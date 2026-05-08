@@ -9,8 +9,6 @@ slug: "best-obsidian-plugins-for-medical-school-students-2026"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best Obsidian Plugins for Medical School Students in 2026
 
 > **Quick Answer:** The best Obsidian plugins for medical school students in 2026 focus on memorization and [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) efficiency. **Obsidian to Anki** is essential for seamless flashcard integration, **Excalidraw** excels at mapping complex biochemical pathways, and **[Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/)** is unmatched for tracking clinical rotation logs and study schedules.
@@ -23,7 +21,7 @@ Here are the best Obsidian plugins for medical school students navigating the 20
 
 ## Top Obsidian Plugins for Medical Students
 
-### 1. [Obsidian to Anki](https://www.amazon.com/s?k=Obsidian%20to%20Anki&tag=notesautomate-20)
+### 1. Obsidian to Anki
 
 **Best for:** Pre-clinical memorization and USMLE prep
 **Price:** Free
@@ -42,7 +40,7 @@ When you sync, the plugin automatically generates and updates the corresponding 
 - Initial setup and regex configuration can be technically intimidating
 - Requires AnkiConnect to be running in the background during sync
 
-### 2. [Excalidraw](https://www.amazon.com/s?k=Excalidraw&tag=notesautomate-20)
+### 2. Excalidraw
 
 **Best for:** Anatomy diagrams and biochemical pathways
 **Price:** Free (Optional subscription for cloud sync)
@@ -61,7 +59,7 @@ You can import an image of the brachial plexus, draw over it to highlight nerve 
 - Drawing with a mouse is difficult; best used with a tablet or 2-in-1 laptop
 - Exporting complex drawings to PDF can sometimes cause formatting quirks
 
-### 3. [Dataview](https://www.amazon.com/s?k=Dataview&tag=notesautomate-20)
+### 3. Dataview
 
 **Best for:** Tracking clinical rotations and study schedules
 **Price:** Free
@@ -80,7 +78,7 @@ Instead of hunting for that one interesting cardiology case you saw three weeks 
 - Steep learning curve for users unfamiliar with database queries
 - Can slow down vault loading times if queries are overly complex or numerous
 
-### 4. [Annotator](https://www.amazon.com/s?k=Annotator&tag=notesautomate-20)
+### 4. Annotator
 
 **Best for:** Reviewing primary literature and clinical guidelines
 **Price:** Free
@@ -99,7 +97,7 @@ The standout feature is that your annotations are saved as markdown text with de
 - The UI can feel cramped on smaller laptop screens
 - Handling massive PDF textbooks (1000+ pages) occasionally causes lag
 
-### 5. [Templater](https://www.amazon.com/s?k=Templater&tag=notesautomate-20)
+### 5. Templater
 
 **Best for:** Standardizing patient encounters and daily reviews
 **Price:** Free

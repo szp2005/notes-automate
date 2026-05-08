@@ -9,8 +9,6 @@ slug: "customizing-the-obsidian-graph-view-for-better-insights"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Customizing the Obsidian Graph View for Better Insights: 7-Step Guide
 
 > **Quick Answer:** Customizing the Obsidian graph view for better insights requires a strategic combination of color-coded Groups, precise node Filters, and adjusted Display Forces. By assigning distinct colors to specific tags or folders and tightening the link distance, you can transform a chaotic hairball into a readable map that highlights knowledge gaps and structural [themes](/posts/things-theme-vs-minimal-theme-obsidian/).

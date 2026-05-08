@@ -8,8 +8,6 @@ tags: ["Obsidian", "Qualitative Analysis", "Research Tools", "Academic Research"
 slug: "how-to-use-obsidian-for-qualitative-analysis"
 type: "informational"
 ---
-
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 # Obsidian for Qualitative Analysis: A Complete Guide
 
 > **Quick Answer:** Obsidian can be leveraged for qualitative analysis by creating a structured vault for research notes, using internal links for thematic connections, and employing tags for coding. Its powerful graph view visualizes relationships, while community plugins enhance data management, memoing, and export, streamlining the analytical process for [researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/).

@@ -11,8 +11,6 @@ type: "informational"
 tags: ["obsidian", "periodic notes", "weekly review", "plugin review"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Periodic Notes Plugin Review: Hands-On Setup, Advanced Workflows, and Honest Verdict
 
 **TL;DR**

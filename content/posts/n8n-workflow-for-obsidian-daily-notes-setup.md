@@ -9,8 +9,6 @@ slug: "n8n-workflow-for-obsidian-daily-notes-setup"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Complete Guide: n8n Workflow for Obsidian Daily Notes Setup
 
 > **Quick Answer:** Setting up an n8n workflow for Obsidian daily notes involves creating a scheduled trigger in n8n, pulling data from your calendar and task managers via APIs, structuring that data into your preferred Markdown template, and pushing the final file directly into your Obsidian vault using local file nodes or the Obsidian Local REST API. This automation ensures your daily note is ready with context before you even open your vault.

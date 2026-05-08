@@ -8,8 +8,6 @@ tags: ["Obsidian", "Project Management", "Academic Research", "Knowledge Managem
 slug: "obsidian-project-management-academic-research-teams"
 type: "informational"
 ---
-
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 # Obsidian Project Management for Academic Research Teams: A Complete Guide
 
 > **Quick Answer:** Obsidian offers academic research teams a highly customizable, local-first solution for project management, enabling robust knowledge linking, task tracking, and collaborative content generation through its markdown-based system and extensive plugin ecosystem. It excels in managing complex, interconnected research projects by fostering a networked thought process.

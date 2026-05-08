@@ -9,8 +9,6 @@ slug: "copilot-for-obsidian-chat-with-your-notes"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Copilot for Obsidian Complete Guide: Chat With Your Notes
 
 > **Quick Answer:** Copilot for Obsidian is a [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugin that integrates large language models (LLMs) directly into your Obsidian vault. It allows you to chat with your existing markdown notes, summarize long documents, and generate text using either cloud-based APIs like OpenAI and Anthropic, or [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/)-focused local models via Ollama and LM Studio.

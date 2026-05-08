@@ -9,8 +9,6 @@ slug: "download-automated-obsidian-vault-management-templates"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Download Automated Obsidian Vault Management Templates (2026)
 
 > **Quick Answer:** To download automated obsidian vault management templates, you should look for trusted community repositories on GitHub, premium PKM creator sites, or the official Obsidian forum. Look for templates that pre-configure plugins like Templater, Dataview, and QuickAdd to ensure your notes auto-route to the correct folders with standardized metadata.

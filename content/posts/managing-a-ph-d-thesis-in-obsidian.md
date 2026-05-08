@@ -9,8 +9,6 @@ slug: "managing-a-ph-d-thesis-in-obsidian"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 > **Quick Answer:** Managing a Ph.D. thesis in [Obsidian](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) requires a structured [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) combining [Zettelkasten](/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/) principles, reference managers like [Zotero](/posts/zotero-integration-for-obsidian-academic-research/), and [project management](/posts/obsidian-project-management-academic-research-teams/) tools. By creating centralized indexes (MOCs) and linking literature notes directly to your drafting workspace, you can prevent information overload and build an interconnected [database](/posts/obsidian-bases-native-update-review-2026/) that makes [writing](/posts/best-obsidian-themes-for-writing-longform-content/) your dissertation significantly faster.
 
 The sheer volume of information a doctoral candidate encounters over three to five years is staggering. Between hundreds of annotated PDFs, lab notebooks, fleeting methodological ideas, and drafted chapter fragments, research assets almost always end up scattered across multiple folders, cloud drives, and physical notebooks. When it comes time to synthesize this data into a coherent 80,000-word document, [students](/posts/organizing-complex-academic-projects-in-an-obsidian-vault/) frequently spend more time hunting down references or trying to recall the context of a three-year-old note than doing actual [academic writing](/posts/top-obsidian-plugins-for-academic-writing-and-citations/).

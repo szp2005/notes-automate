@@ -11,8 +11,6 @@ type: "informational"
 tags: ["obsidian", "community", "plugins", "obsidian community plugins list"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # The Ultimate Obsidian Community Plugins List (2024): Categorized by User & [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)
 
 *Last updated: June 2024 · Reading time: ~12 minutes*

@@ -11,8 +11,6 @@ type: "informational"
 tags: ["obsidian", "calendar", "planning", "plugin review"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Full Calendar Plugin Review: Complete Setup Guide & [Workflows](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) (2024)
 
 **TL;DR**

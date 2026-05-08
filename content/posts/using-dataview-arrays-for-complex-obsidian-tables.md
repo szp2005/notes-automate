@@ -9,8 +9,6 @@ slug: "using-dataview-arrays-for-complex-obsidian-tables"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Dataview Arrays for Complex Obsidian Tables: Complete Guide
 
 > **Quick Answer:** Using Dataview arrays for complex Obsidian tables allows you to group, manipulate, and display multiple values from a single [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) field. By leveraging Dataview Query Language (DQL) functions like `FLATTEN`, `filter()`, and `map()`, you can transform raw list data into structured, easy-to-read table rows without duplicating notes.

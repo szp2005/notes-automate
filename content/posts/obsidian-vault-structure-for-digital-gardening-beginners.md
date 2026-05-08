@@ -9,8 +9,6 @@ slug: "obsidian-vault-structure-digital-gardening-beginners"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Vault Structure for Digital Gardening Beginners: Guide
 
 > **Quick Answer:** The best Obsidian vault structure for digital gardening beginners uses a minimalist approach combining a staging area (inbox), core content folders based on idea maturity (seedlings, saplings, evergreens), and index notes (MOCs). This structure minimizes friction, prevents folder paralysis, and allows your personal knowledge system to evolve organically through bidirectional links rather than rigid categorization.

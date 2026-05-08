@@ -11,8 +11,6 @@ type: "informational"
 tags: ["obsidian", "sync", "privacy", "review"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Sync 值得买吗？一份诚实、客观的评测 (2024)
 
 **太长不看 (TL;DR)**

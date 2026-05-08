@@ -9,8 +9,6 @@ slug: "obsidian-plugin-automated-youtube-transcript-import"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best Obsidian Plugin for Automated YouTube Transcript Import
 
 > **Quick Answer:** The most effective Obsidian plugin for automated YouTube transcript import is the dedicated "YouTube Transcript" plugin, often paired with "Media Extended" for playback integration. Together, they allow you to fetch full video text, complete with clickable timestamps, directly into your active note with a single command, transforming passive watching into an active [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) system.

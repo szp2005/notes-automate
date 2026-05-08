@@ -11,8 +11,6 @@ type: "informational"
 tags: ["manage", "projects", "obsidian", "power"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Using the Obsidian Tasks Plugin for Project Management: A Complete Step-by-Step Guide
 
 ---

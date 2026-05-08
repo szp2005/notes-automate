@@ -9,8 +9,6 @@ slug: "obsidian-template-for-weekly-reflection-and-planning"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Template for Weekly Reflection and Planning: Complete Guide
 
 > **Quick Answer:** The ideal Obsidian template for weekly reflection and planning combines automated data aggregation (via Dataview), a structured review of past accomplishments, and dedicated sections for upcoming priorities. By separating reflection from planning, you ensure both emotional closure for the past week and clear, actionable focus for the next.

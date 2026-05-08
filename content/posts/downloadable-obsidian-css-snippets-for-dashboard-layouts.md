@@ -9,8 +9,6 @@ slug: "downloadable-obsidian-css-snippets-for-dashboard-layouts"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best Downloadable Obsidian CSS Snippets for Dashboard Layouts
 
 > **Quick Answer:** The most reliable way to build an aesthetic start page without coding is to use downloadable Obsidian CSS snippets for dashboard layouts, specifically the Modular CSS Layout (MCL), Dashboard++, and [Minimal Theme](/posts/things-theme-vs-minimal-theme-obsidian/)'s helper classes. Save these `.css` files into your `.obsidian/snippets` directory, enable them in Appearance settings, and use standard Markdown callouts to render sophisticated, multi-column grid layouts.

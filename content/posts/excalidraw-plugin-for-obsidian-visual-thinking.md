@@ -9,8 +9,6 @@ slug: "excalidraw-plugin-for-obsidian-visual-thinking"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Excalidraw Plugin for Obsidian: Visual Thinking Complete Guide
 
 > **Quick Answer:** The Excalidraw plugin for Obsidian bridges the gap between text-based [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) and visual thinking by allowing you to embed, edit, and link hand-drawn diagrams directly within your markdown vault. It enables bi-directional linking within sketches, transclusion of notes onto the canvas, and seamless integration of visual spatial organization into your personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) system.

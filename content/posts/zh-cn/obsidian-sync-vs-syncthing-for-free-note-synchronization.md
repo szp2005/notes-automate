@@ -11,8 +11,6 @@ type: "review"
 tags: ["obsidian", "sync", "syncthing", "privacy"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Sync 与 Syncthing 免费笔记同步：客观比较
 
 **太长不看 (TL;DR)**

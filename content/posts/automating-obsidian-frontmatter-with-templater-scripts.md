@@ -9,8 +9,6 @@ slug: "automating-obsidian-frontmatter-with-templater-scripts"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Automating Obsidian Frontmatter with Templater Scripts: 5-Step Guide
 
 > **Quick Answer:** Automating Obsidian frontmatter with Templater scripts involves using the community plugin "Templater" to dynamically generate YAML [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) when a new note is created. By inserting snippets like `<% tp.file.creation_date() %>` into your template files and binding them to specific folders, you eliminate manual data entry, ensure consistent metadata formatting, and enable powerful database querying across your vault.

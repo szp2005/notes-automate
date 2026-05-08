@@ -9,8 +9,6 @@ slug: "linter-plugin-for-obsidian-auto-formatting"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Linter Plugin for Obsidian Auto-Formatting: Complete Guide
 
 > **Quick Answer:** The Linter plugin for Obsidian automatically formats your Markdown notes according to pre-set rules. It enforces consistent spacing, YAML frontmatter, heading structures, and list styles, eliminating manual formatting so you can focus entirely on writing.

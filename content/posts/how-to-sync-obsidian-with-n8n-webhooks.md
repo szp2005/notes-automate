@@ -9,8 +9,6 @@ slug: "how-to-sync-obsidian-with-n8n-webhooks"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian and n8n Webhooks: 5-Step Sync Guide
 
 > **Quick Answer:** You can sync Obsidian with n8n webhooks by installing an Obsidian plugin like QuickAdd or Obsidian Webhooks to send HTTP POST requests directly to an n8n webhook URL. This allows you to trigger automated workflows across hundreds of external applications whenever you create, modify, or tag a note in your local Markdown vault.

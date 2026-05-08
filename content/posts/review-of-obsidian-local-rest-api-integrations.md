@@ -9,8 +9,6 @@ slug: "review-of-obsidian-local-rest-api-integrations"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Local REST API Integrations Review: Best Automation Setups
 
 > **Quick Answer:** The Obsidian Local REST API enables secure, offline automation of your vault by exposing standard HTTP endpoints. For no-code workflows, n8n offers the most robust integration. For Apple users, iOS Shortcuts provides seamless mobile capture, while developers will find custom Python scripts offer the most flexibility for bulk data manipulation and AI tagging.
@@ -31,7 +29,7 @@ Authentication is handled via an API key, and all connections are secured with s
 
 Below is an evaluation of the primary methods and platforms used to integrate with the Obsidian Local REST API, categorized by their technical approach and target user base.
 
-### 1. [n8n Obsidian Automation Node](https://www.amazon.com/s?k=n8n%20Obsidian%20Automation%20Node&tag=notesautomate-20)
+### 1. n8n Obsidian Automation Node
 
 **Best for:** Visual workflow builders and no-code automation enthusiasts
 **Price:** $0-$24/month (Free for self-hosted)
@@ -51,7 +49,7 @@ The strength of the n8n integration lies in its visual interface and data transf
 - Requires maintaining a separate server or Docker container
 - Initial setup of the self-signed SSL certificate in n8n requires careful configuration
 
-### 2. [Apple Shortcuts (iOS/macOS)](https://www.amazon.com/s?k=Apple%20Shortcuts%20%28iOS/macOS%29&tag=notesautomate-20)
+### 2. Apple Shortcuts (iOS/macOS)
 
 **Best for:** Mobile capture and ecosystem-integrated quick actions
 **Price:** Free
@@ -71,7 +69,7 @@ This integration shines for frictionless mobile capture. When reading an article
 - Building complex JSON payloads in the Shortcuts interface is tedious
 - Requires a VPN or tunneling service (like Tailscale) for out-of-home access
 
-### 3. [Custom Python Pipeline Scripts](https://www.amazon.com/s?k=Custom%20Python%20Pipeline%20Scripts&tag=notesautomate-20)
+### 3. Custom Python Pipeline Scripts
 
 **Best for:** Developers, data scientists, and bulk metadata processing
 **Price:** Free
@@ -91,7 +89,7 @@ Python integration bypasses the limitations of visual builders. You can implemen
 - High technical barrier to entry requires coding knowledge
 - Scripts must be manually triggered or scheduled via cron jobs
 
-### 4. [Raycast Obsidian API Extension](https://www.amazon.com/s?k=Raycast%20Obsidian%20API%20Extension&tag=notesautomate-20)
+### 4. Raycast Obsidian API Extension
 
 **Best for:** macOS power users prioritizing keyboard-driven workflows
 **Price:** Free-$8/month (Pro)

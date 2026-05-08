@@ -9,8 +9,6 @@ slug: "triggering-n8n-workflows-directly-from-obsidian-notes"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Triggering n8n Workflows Directly From Obsidian Notes: Complete Guide
 
 > **Quick Answer:** Triggering n8n workflows directly from Obsidian notes requires sending a POST request from Obsidian to an n8n Webhook node. You can achieve this using Obsidian plugins like QuickAdd, Obsidian Webhooks, or custom Templater scripts to pass note frontmatter, selected text, or entire markdown files directly into your local or self-hosted n8n instance for automated processing.

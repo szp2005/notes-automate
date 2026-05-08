@@ -9,8 +9,6 @@ slug: "periodic-notes-plugin-weekly-reviews"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Periodic Notes Plugin Complete Guide: Mastering Weekly Reviews
 
 > **Quick Answer:** The Periodic Notes plugin for weekly reviews allows [Obsidian](/posts/using-obsidian-for-long-term-evergreen-note-management/) users to automatically generate and link time-based notes beyond the core [daily notes](/posts/automate-obsidian-daily-notes-using-python/) feature. By configuring custom [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) and folder structures for weekly, monthly, and yearly intervals, you can create a frictionless system for reflecting on past accomplishments and planning future tasks.
@@ -25,7 +23,7 @@ This is where the Obsidian plugin ecosystem shines. By integrating specific comm
 
 To build a robust weekly review system, you need a combination of plugins that handle file generation, calendar navigation, and [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/). Here are the top tools that integrate to create a seamless workflow.
 
-### 1. [Periodic Notes Plugin](https://www.amazon.com/s?k=Periodic%20Notes%20Plugin&tag=notesautomate-20)
+### 1. Periodic Notes Plugin
 
 **Best for:** [Knowledge workers](/posts/understanding-the-difference-between-folders-and-tags-obsidian/) and planners needing structured time-based reflection
 **Price:** Free
@@ -42,7 +40,7 @@ The Periodic Notes plugin is the undisputed champion for extending Obsidian's de
 - Requires careful initial configuration of date formats
 - Can create folder clutter if not properly organized
 
-### 2. [Calendar Plugin](https://www.amazon.com/s?k=Calendar%20Plugin&tag=notesautomate-20)
+### 2. Calendar Plugin
 
 **Best for:** Visual thinkers who prefer navigating their vault chronologically
 **Price:** Free
@@ -59,7 +57,7 @@ The Calendar plugin provides a visual interface for your time-based notes in the
 - Takes up valuable sidebar real estate
 - Relies on strict filename formatting to recognize existing notes
 
-### 3. [Templater Plugin](https://www.amazon.com/s?k=Templater%20Plugin&tag=notesautomate-20)
+### 3. Templater Plugin
 
 **Best for:** Power users wanting dynamic, auto-populating review templates
 **Price:** Free
@@ -76,7 +74,7 @@ While Periodic Notes has native template support, Templater takes your weekly re
 - Syntax can be intimidating for users unfamiliar with coding
 - Incorrect scripts can cause template execution failures
 
-### 4. [Obsidian Tasks](https://www.amazon.com/s?k=Obsidian%20Tasks&tag=notesautomate-20)
+### 4. Obsidian Tasks
 
 **Best for:** Users managing extensive project tasks within their markdown files
 **Price:** Free

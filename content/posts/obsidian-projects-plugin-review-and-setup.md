@@ -11,8 +11,6 @@ type: "informational"
 tags: ["obsidian", "project management", "projects plugin", "workflow"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Projects Plugin: The Ultimate Review, Setup Guide & Power-User [Templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) (2024)
 
 > **TL;DR**

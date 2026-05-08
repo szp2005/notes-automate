@@ -9,8 +9,6 @@ slug: "automating-literature-reviews-using-obsidian-and-n8n"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Automating Literature Reviews with Obsidian & n8n: A Complete Guide
 
 > **Quick Answer:** Automating literature reviews using Obsidian and n8n involves leveraging Obsidian as a flexible, interconnected knowledge base for notes and insights, while using n8n as a powerful, no-code automation engine to fetch, process, and integrate research papers and metadata from various sources, significantly reducing manual effort and enhancing research efficiency.
@@ -121,7 +119,7 @@ Finally, **document your workflows**. As your n8n workflows become more complex,
 
 ## Product Review: Essential Tools for Automation
 
-### 1. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=notesautomate-20)
+### 1. Obsidian
 
 **Best for:** Researchers and academics seeking a flexible, local-first knowledge base for interconnected notes and literature review management.
 **Price:** Free (core app), Paid ($5-10/month for Sync/Publish services, community plugins often free).
@@ -141,7 +139,7 @@ Obsidian is a powerful, local-first knowledge base that operates on plain Markdo
 - No native web clipper (requires third-party solutions).
 - Sync and publish features are paid add-ons.
 
-### 2. [n8n](https://www.amazon.com/s?k=n8n&tag=notesautomate-20)
+### 2. n8n
 
 **Best for:** Researchers and knowledge workers needing a powerful, flexible automation platform to connect various research tools and streamline repetitive tasks.
 **Price:** Free (self-hosted), Paid ($20-$120/month for cloud plans).

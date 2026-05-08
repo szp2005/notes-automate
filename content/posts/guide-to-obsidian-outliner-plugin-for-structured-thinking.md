@@ -9,8 +9,6 @@ slug: "guide-to-obsidian-outliner-plugin-for-structured-thinking"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Outliner Plugin Complete Guide: Master Structured Thinking
 
 > **Quick Answer:** The Obsidian Outliner plugin transforms standard bullet lists into a powerful Roam-like outlining environment. It enables structured thinking by allowing you to seamlessly collapse, expand, zoom into, and rearrange hierarchical bullet points using intuitive keyboard shortcuts, keeping your focus on the logical flow of ideas rather than formatting constraints.

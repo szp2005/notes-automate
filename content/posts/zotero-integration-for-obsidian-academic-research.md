@@ -9,8 +9,6 @@ slug: "zotero-integration-for-obsidian-academic-research"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Zotero Integration for Obsidian: Complete Academic [Research](/posts/obsidian-vs-devonthink-for-large-research-archives/) Guide
 
 > **Quick Answer:** Zotero integration for Obsidian [academic research](/posts/obsidian-project-management-academic-research-teams/) bridges your reference manager and personal knowledge system. By combining Zotero, the Better BibTeX plugin, and Obsidian's Zotero Integration plugin, you can automatically extract PDF highlights, format citations, and generate interconnected literature notes, saving hundreds of hours during literature reviews.

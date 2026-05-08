@@ -9,8 +9,6 @@ slug: "local-gpt-plugin-for-obsidian-privacy"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Local GPT Plugin for Obsidian Privacy: Complete Guide
 
 > **Quick Answer:** Using a local GPT plugin for Obsidian ensures absolute privacy because all AI processing happens on your own hardware, never sending your sensitive personal knowledge base (PKM) data to external servers like OpenAI or Anthropic. You achieve this by running local LLMs via tools like LM Studio or Ollama and connecting them to Obsidian using [plugins](/posts/periodic-notes-plugin-weekly-reviews/) like BMO Chatbot or Text Generator.

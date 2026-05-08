@@ -11,8 +11,6 @@ type: "informational"
 tags: ["obsidian", "callouts", "note formatting", "knowledge management"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # How to Use Callouts in Obsidian for Better Notes (A Practical PKM Guide)
 
 ---

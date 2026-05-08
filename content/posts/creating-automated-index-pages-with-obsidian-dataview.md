@@ -9,8 +9,6 @@ slug: "creating-automated-index-pages-with-obsidian-dataview"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Automated Index Pages with Obsidian Dataview Setup: Complete Guide
 
 > **Quick Answer:** Creating automated index pages with Obsidian Dataview requires installing the Dataview [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugin and using its query language (DQL) to filter notes based on tags, folders, or [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/). By inserting a simple code block like ````dataview list from #projects```` into a note, Dataview dynamically generates an up-to-date list of all matching files, eliminating the need for manual link maintenance.

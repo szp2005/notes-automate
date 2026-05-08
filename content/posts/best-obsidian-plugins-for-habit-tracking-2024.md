@@ -11,8 +11,6 @@ type: "informational"
 tags: ["track", "habits", "obsidian", "best obsidian plugins for habit tracking 2024"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best Obsidian Plugins for Habit Tracking 2024: Build a Complete System That Actually Works
 
 ---

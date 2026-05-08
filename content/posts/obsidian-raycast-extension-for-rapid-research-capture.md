@@ -9,8 +9,6 @@ slug: "obsidian-raycast-extension-for-rapid-research-capture"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Raycast Extension: Rapid Research Capture Guide
 
 > **Quick Answer:** The Obsidian Raycast extension provides a streamlined, keyboard-driven interface to quickly capture notes, links, and ideas directly into your Obsidian vaults, significantly reducing context switching and enhancing the efficiency of your research and [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) workflows. It allows for immediate input, templating, and tagging, making it an indispensable tool for rapid information capture.

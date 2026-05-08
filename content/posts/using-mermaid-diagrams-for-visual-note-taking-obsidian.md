@@ -9,8 +9,6 @@ slug: "using-mermaid-diagrams-for-visual-note-taking-obsidian"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Using Mermaid Diagrams for Visual Note Taking in [Obsidian](/posts/obsidian-vs-reflect-for-fast-daily-journaling/): Complete Guide
 
 > **Quick Answer:** Using Mermaid diagrams for visual note taking in Obsidian allows you to build flowcharts, sequence diagrams, and mind maps directly from plain text using code blocks. By typing ````mermaid` followed by standard syntax, Obsidian automatically renders dynamic, scalable visuals that live natively within your Markdown notes, ensuring future-proof, fast, and connected [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/).

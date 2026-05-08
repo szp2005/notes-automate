@@ -9,8 +9,6 @@ slug: "best-n8n-templates-for-obsidian-vault-automation"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best n8n Templates for Obsidian Vault Automation in 2026
 
 > **Quick Answer:** The best n8n template for Obsidian vault automation depends on your core data sources. For capturing ideas on the go, the **Telegram Bot to Obsidian Inbox** template is the most reliable. For researchers, the **RSS Feed to Daily Note Syncer** automates content curation seamlessly using local file operations or the Obsidian Local REST API.
@@ -25,7 +23,7 @@ Here is a comprehensive review of the best n8n templates for automating your Obs
 
 ## Top n8n Templates for Obsidian Users
 
-### 1. [Telegram Bot to Obsidian Inbox](https://www.amazon.com/s?k=Telegram%20Bot%20to%20Obsidian%20Inbox&tag=notesautomate-20)
+### 1. Telegram Bot to Obsidian Inbox
 
 **Best for:** Mobile capture and quick idea logging
 **Price:** Free (Self-hosted)
@@ -44,7 +42,7 @@ The workflow uses the Telegram Trigger node to listen for messages sent to a cus
 - Requires setting up a Telegram bot via BotFather
 - Media file routing requires careful path configuration in the Write File node
 
-### 2. [RSS/Newsletter Feed to Daily Note Append](https://www.amazon.com/s?k=RSS/Newsletter%20Feed%20to%20Daily%20Note%20Append&tag=notesautomate-20)
+### 2. RSS/Newsletter Feed to Daily Note Append
 
 **Best for:** Researchers, journalists, and avid readers
 **Price:** Free (Self-hosted)
@@ -63,7 +61,7 @@ The automation runs on a Cron schedule. It pulls new items from the RSS Feed nod
 - Appending text to specific headings requires complex regex in the Code node
 - High-volume feeds can clutter your daily note
 
-### 3. [Readwise Highlights to Obsidian Exporter](https://www.amazon.com/s?k=Readwise%20Highlights%20to%20Obsidian%20Exporter&tag=notesautomate-20)
+### 3. Readwise Highlights to Obsidian Exporter
 
 **Best for:** Students and heavy Kindle users
 **Price:** Free template (Requires Readwise subscription)
@@ -82,7 +80,7 @@ This template queries the Readwise export API on a schedule. It parses the JSON 
 - Requires a paid Readwise account to access their API
 - Managing pagination in the Readwise API via n8n can be technically demanding
 
-### 4. [GitHub Commits to Project Log](https://www.amazon.com/s?k=GitHub%20Commits%20to%20Project%20Log&tag=notesautomate-20)
+### 4. GitHub Commits to Project Log
 
 **Best for:** Software developers and technical writers
 **Price:** Free
@@ -101,7 +99,7 @@ Triggered by a GitHub Webhook node, the workflow captures push events from speci
 - Webhook endpoints must be publicly accessible (requires n8n Cloud or a reverse proxy/tunnel for self-hosted instances)
 - Requires strict naming conventions to map repositories to specific Obsidian files
 
-### 5. [Task Manager (Todoist/TickTick) Sync](https://www.amazon.com/s?k=Task%20Manager%20%28Todoist/TickTick%29%20Sync&tag=notesautomate-20)
+### 5. Task Manager (Todoist/TickTick) Sync
 
 **Best for:** Project managers and GTD practitioners
 **Price:** Free

@@ -9,8 +9,6 @@ slug: "obsidian-automation-setup-guide-and-premium-templates"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # The Ultimate Obsidian Automation Setup Guide & Premium Templates
 
 > **Quick Answer:** The most effective Obsidian automation setup relies on combining core plugins like Templater, QuickAdd, and Dataview with external tools such as Make or n8n. By leveraging pre-built premium templates, users can instantly establish a zero-friction capture system that automatically categorizes notes, pulls metadata, and links related concepts without manual formatting.

@@ -9,8 +9,6 @@ slug: "managing-large-pdf-libraries-within-an-obsidian-vault"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Managing Large PDF Libraries Within an Obsidian Vault: Complete Setup Guide
 
 > **Quick Answer:** Managing large PDF libraries within an Obsidian vault requires balancing storage performance with accessibility. The most effective approach is keeping the physical PDF files in an external reference manager like Zotero while using [Obsidian plugins](/posts/smart-connections-plugin-for-emergent-ideas/) (like Zotero Integration and Omnisearch) to pull [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), index text, and extract annotations directly into your markdown notes.

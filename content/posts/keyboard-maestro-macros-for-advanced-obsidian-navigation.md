@@ -9,8 +9,6 @@ slug: "keyboard-maestro-macros-for-advanced-obsidian-navigation"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Mastering Obsidian: Keyboard Maestro Macros for Advanced Navigation
 
 > **Quick Answer:** Keyboard Maestro macros significantly enhance Obsidian navigation by automating repetitive tasks such as opening specific notes, switching panes, managing links, and executing complex command sequences, leading to a faster, more fluid, and highly customized [note-taking](/posts/comparing-obsidian-metadata-menu-vs-database-folder/) and [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) experience.

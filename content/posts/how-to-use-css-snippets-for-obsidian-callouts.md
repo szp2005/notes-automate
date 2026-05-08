@@ -9,8 +9,6 @@ slug: "how-to-use-css-snippets-for-obsidian-callouts"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # CSS Snippets for Obsidian Callouts: Customization Guide
 
 > **Quick Answer:** To use CSS snippets for Obsidian callouts, open Obsidian's Settings, navigate to Appearance, and click the folder icon next to "CSS snippets." Create a new `.css` file in that folder, define your custom callout using the `.callout[data-callout="your-name"]` selector, and assign RGB values to `--callout-color` and an icon name to `--callout-icon`. Refresh the snippets list in Settings and toggle your new snippet on.

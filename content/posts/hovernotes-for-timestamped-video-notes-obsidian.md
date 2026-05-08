@@ -9,8 +9,6 @@ slug: "hovernotes-for-timestamped-video-notes-obsidian"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # HoverNotes for Timestamped Video Notes in Obsidian: Complete Guide
 
 > **Quick Answer:** HoverNotes is a specialized Obsidian plugin that creates a floating, interactive video player capable of generating clickable timestamps directly into your markdown files. This allows you to watch YouTube, Vimeo, or local videos while typing, inserting precise timecodes that function as hyperlinks to specific moments in the video playback.

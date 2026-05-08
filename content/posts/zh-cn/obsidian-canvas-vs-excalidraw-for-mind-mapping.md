@@ -11,8 +11,6 @@ type: "review"
 tags: ["obsidian", "canvas", "excalidraw", "visual"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # 用于思维导图的 Obsidian Canvas 与 Excalidraw：哪款可视化工具更适合你的 PKM [工作流](/zh-cn/posts/streamlining-your-daily-note-workflow-for-better-productivity/)？
 
 ---

@@ -8,8 +8,6 @@ tags: ["Obsidian plugins", "Kindle highlights", "knowledge management", "product
 slug: "obsidian-plugin-for-automated-kindle-highlights-sync"
 type: "informational"
 ---
-
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 # Obsidian Plugin for Automated Kindle Highlights Sync: A Complete Guide
 
 > **Quick Answer:** The most effective Obsidian plugin for automated Kindle highlights sync is typically the 'Kindle Highlights' plugin, often used in conjunction with a service like Readwise or directly through local file imports. This setup ensures your annotations and insights from Kindle books are seamlessly integrated into your Obsidian vault for review and connection, significantly streamlining your [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) process.

@@ -8,8 +8,6 @@ tags: ["Obsidian", "Metadata", "Knowledge Management", "Advanced Users"]
 slug: "explaining-obsidian-properties-for-advanced-metadata-schemas"
 type: "informational"
 ---
-
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 # Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge
 
 > **Quick Answer:** Obsidian properties are structured key-value pairs embedded directly within notes, serving as foundational data points for advanced metadata schemas. They enable precise categorization, filtering, and querying of information, transforming a collection of notes into a dynamic, interconnected knowledge graph essential for sophisticated [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/).

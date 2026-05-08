@@ -11,8 +11,6 @@ type: "informational"
 tags: ["obsidian", "templater", "daily notes", "automation"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Templater Plugin Tutorial for Daily Notes: The Complete Step-by-Step Guide
 
 **TL;DR**

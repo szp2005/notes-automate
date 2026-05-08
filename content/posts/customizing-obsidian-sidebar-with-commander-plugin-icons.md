@@ -9,8 +9,6 @@ slug: "customizing-obsidian-sidebar-with-commander-plugin-icons"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Customize Obsidian Sidebar with Commander Plugin Icons: Complete Guide
 
 > **Quick Answer:** You can customize the Obsidian sidebar by installing the community plugin **Commander**. Once activated, navigate to Commander's settings, select the **Ribbon** or **Page Header** tab, click "Add Command," search for your desired action (like opening a specific note or triggering a template), and assign a specific Lucide or Remix icon to visually anchor it in your UI. 

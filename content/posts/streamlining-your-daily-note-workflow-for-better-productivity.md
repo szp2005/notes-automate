@@ -9,8 +9,6 @@ slug: "streamlining-your-daily-note-workflow-for-better-productivity"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Streamlining Your Daily Note Workflow for Better [Productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/): 5-Step Guide
 
 > **Quick Answer:** Streamlining your daily note workflow for better productivity requires centralizing your capture process, defining a consistent lightweight template, separating task execution from knowledge generation, and committing to a five-minute daily review routine. By reducing friction at the entry point, your daily note becomes a reliable anchor that prevents information overload and keeps your [deep work](/posts/setting-up-obsidian-for-deep-work-session-tracking/) focused.

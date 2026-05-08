@@ -11,8 +11,6 @@ type: "review"
 tags: ["obsidian", "canvas", "excalidraw", "visual"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Canvas vs. Excalidraw for Mind Mapping: Which Visual Tool Belongs in Your PKM [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)?
 
 ---

@@ -9,8 +9,6 @@ slug: "extracting-readwise-highlights-to-obsidian-via-n8n"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Extracting Readwise Highlights to Obsidian via n8n: Complete 5-Step Guide
 
 > **Quick Answer:** Extracting Readwise highlights to Obsidian via n8n involves using an n8n HTTP Request node to poll the Readwise Export API, splitting the JSON response with an Item Lists node, formatting the highlight data into Markdown using a Code node, and finally sending the formatted text to your Obsidian vault using the Obsidian Local REST API or a synced cloud folder.

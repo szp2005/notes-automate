@@ -9,8 +9,6 @@ slug: "managing-recurring-tasks-in-obsidian-with-dataviewjs"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Managing Recurring Tasks in Obsidian with DataviewJS: Complete Guide
 
 > **Quick Answer:** Managing recurring tasks in Obsidian with DataviewJS involves storing task recurrence intervals in inline fields (e.g., `[repeat:: daily]`), and writing a DataviewJS query that automatically calculates the next due date based on the completion date. This method prevents vault clutter by dynamically rendering upcoming tasks on a dashboard without generating duplicate markdown files for every instance of a repeating task.

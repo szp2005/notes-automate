@@ -9,8 +9,6 @@ slug: "best-templater-snippet-collections-for-obsidian-2026"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best Templater Snippet Collections for Obsidian in 2026
 
 > **Quick Answer:** The best overall Templater snippet collection in 2026 is the **Obsidian Automation Toolkit Pro** due to its comprehensive coverage of daily notes, task management, and Dataview integration. For academics and researchers, the **Academic Vault Automator** offers the most robust citation and literature note extraction scripts. 
@@ -35,7 +33,7 @@ Finally, they drastically reduce context switching. By using `tp.system.prompt` 
 
 ## Top Templater Snippet Collections Reviewed
 
-### 1. [Obsidian Automation Toolkit Pro](https://www.amazon.com/s?k=Obsidian%20Automation%20Toolkit%20Pro&tag=notesautomate-20)
+### 1. Obsidian Automation Toolkit Pro
 
 **Best for:** Power users and PKM generalists
 **Price:** $49.00
@@ -52,7 +50,7 @@ The Obsidian Automation Toolkit Pro has become the gold standard for vault autom
 - High upfront cost compared to community alternatives
 - Overwhelming for users who only want simple text insertion
 
-### 2. [Zettelkasten Templater Masterclass Collection](https://www.amazon.com/s?k=Zettelkasten%20Templater%20Masterclass%20Collection&tag=notesautomate-20)
+### 2. Zettelkasten Templater Masterclass Collection
 
 **Best for:** Strict Zettelkasten practitioners
 **Price:** $29.00
@@ -69,7 +67,7 @@ For those adhering to the Luhmann method of note-taking, the Zettelkasten Templa
 - Very rigid structure that is difficult to adapt to other workflows
 - Requires adherence to a specific folder and tagging hierarchy
 
-### 3. [Periodic Journaling Snippet Pack](https://www.amazon.com/s?k=Periodic%20Journaling%20Snippet%20Pack&tag=notesautomate-20)
+### 3. Periodic Journaling Snippet Pack
 
 **Best for:** Journalers and daily planners
 **Price:** $0.00-$15.00 (Pay what you want)
@@ -86,7 +84,7 @@ Journaling requires a different set of tools than academic research. The Periodi
 - Weather and external data snippets require setting up API keys
 - Can slow down note creation slightly if external APIs are unresponsive
 
-### 4. [Academic Vault Automator](https://www.amazon.com/s?k=Academic%20Vault%20Automator&tag=notesautomate-20)
+### 4. Academic Vault Automator
 
 **Best for:** Researchers, students, and academics
 **Price:** $35.00
@@ -103,7 +101,7 @@ The Academic Vault Automator bridges the gap between reference managers like Zot
 - Requires external helper scripts (Node.js) to function fully
 - Setup process is complex and requires terminal usage
 
-### 5. [Creator's Content Pipeline Scripts](https://www.amazon.com/s?k=Creator%27s%20Content%20Pipeline%20Scripts&tag=notesautomate-20)
+### 5. Creator's Content Pipeline Scripts
 
 **Best for:** Writers, bloggers, and content creators
 **Price:** $20.00

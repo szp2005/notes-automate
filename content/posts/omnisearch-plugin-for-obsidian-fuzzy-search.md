@@ -9,8 +9,6 @@ slug: "omnisearch-plugin-for-obsidian-fuzzy-search"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Omnisearch Plugin for Obsidian Fuzzy Search: Complete Guide
 
 > **Quick Answer:** The Omnisearch plugin provides powerful fuzzy search capabilities for Obsidian, allowing you to instantly locate notes even if you make typos or only remember partial words. By leveraging a scoring algorithm and integrating with Text Extractor, it indexes your entire vault—including text hidden inside PDFs and images—making it the most comprehensive retrieval solution for complex knowledge bases.

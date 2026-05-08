@@ -11,8 +11,6 @@ type: "informational"
 tags: ["css", "snippets", "care", "how to customize obsidian appearance with css snippets"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # How to Customize Obsidian Appearance with CSS Snippets (Complete Guide + Copy-Paste Starter Pack)
 
 ---

@@ -9,8 +9,6 @@ slug: "understanding-the-difference-between-folders-and-tags-obsidian"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Understanding the Difference Between Folders and Tags [Obsidian](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) Guide
 
 > **Quick Answer:** Folders create a rigid, physical hierarchy on your hard drive where a note can only exist in one single location, making them ideal for broad categories or access control. Tags function as flexible, non-hierarchical [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), allowing a single note to be associated with multiple contexts, statuses, or topics simultaneously without changing its physical location.

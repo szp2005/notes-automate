@@ -11,8 +11,6 @@ type: "informational"
 tags: ["use", "community", "plugins", "obsidian"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # How to Install Community Plugins in Obsidian Mobile (iOS & Android)
 
 **TL;DR**

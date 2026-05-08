@@ -9,8 +9,6 @@ slug: "advanced-dataview-js-scripts-for-custom-obsidian-dashboards"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide
 
 > **Quick Answer:** Building powerful Obsidian interfaces requires utilizing advanced dataview js scripts for custom obsidian dashboards. By writing [JavaScript](/posts/how-to-use-obsidian-templater-user-scripts/) via the Dataview API, you bypass standard query limitations, allowing you to manipulate arrays, generate custom HTML/CSS elements like progress bars, and aggregate cross-vault [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) into a single, automatically updating command center.

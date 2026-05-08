@@ -11,8 +11,6 @@ type: "informational"
 tags: ["power", "spaced", "repetition", "second"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Anki vs Spaced Repetition Plugin: Which One Actually Fits Your [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)?
 
 ---

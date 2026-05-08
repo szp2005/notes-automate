@@ -9,8 +9,6 @@ slug: "automate-obsidian-daily-notes-using-python"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Automate Obsidian Daily Notes with Python: A Complete Guide
 
 > **Quick Answer:** To automate Obsidian daily notes using Python, you create a script that generates a new Markdown file with a date-based filename and pre-defined content, then saves it to your Obsidian vault. This process leverages Python's file system capabilities and `datetime` module, and can be scheduled to run automatically, significantly enhancing your daily notetaking efficiency and consistency.

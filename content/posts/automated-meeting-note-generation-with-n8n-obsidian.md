@@ -9,8 +9,6 @@ slug: "automated-meeting-note-generation-with-n8n-obsidian"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Automated Meeting Note Generation With n8n Obsidian: 5-Step Guide
 
 > **Quick Answer:** Building an automated meeting note generation workflow with n8n and Obsidian involves capturing raw audio or text transcripts via a webhook, processing them through an LLM node in n8n for structured summarization, and writing the formatted markdown file directly into your local Obsidian vault. This architecture eliminates manual data entry, standardizes formatting, and ensures consistent knowledge retention across your local files.

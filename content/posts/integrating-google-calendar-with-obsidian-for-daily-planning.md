@@ -9,8 +9,6 @@ slug: "integrating-google-calendar-with-obsidian-for-daily-planning"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Integrating Google Calendar With Obsidian For Daily Planning
 
 > **Quick Answer:** Integrating Google Calendar with Obsidian for daily planning is best achieved using community plugins like *Full Calendar* or *Google Calendar*. These plugins allow you to sync your Google events directly into your daily notes, enabling seamless time-blocking and [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) alongside your daily schedule without switching context.

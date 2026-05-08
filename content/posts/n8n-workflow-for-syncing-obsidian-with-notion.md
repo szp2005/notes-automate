@@ -9,8 +9,6 @@ slug: "n8n-workflow-for-syncing-obsidian-with-notion"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # n8n Workflow for Syncing Obsidian with Notion: A Complete Guide
 
 > **Quick Answer:** An n8n workflow can automate the synchronization of notes and data between Obsidian and Notion by leveraging webhooks, APIs, and custom logic. This typically involves configuring triggers in Obsidian (e.g., file changes), processing the data within n8n, and subsequently updating corresponding Notion databases or pages, thereby ensuring data consistency and significantly reducing manual effort.

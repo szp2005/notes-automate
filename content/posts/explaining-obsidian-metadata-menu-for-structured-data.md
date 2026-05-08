@@ -9,8 +9,6 @@ slug: "explaining-obsidian-metadata-menu-for-structured-data"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Explaining Obsidian Metadata Menu for Structured Data: Full Guide
 
 > **Quick Answer:** The Obsidian Metadata Menu plugin transforms your vault into a structured [database](/posts/obsidian-bases-native-update-review-2026/) by allowing you to define, manage, and enforce typed frontmatter fields across your notes. It provides a user interface for editing metadata, ensuring consistency for queries using [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/), and enabling automated, structured [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) without leaving your local markdown files.

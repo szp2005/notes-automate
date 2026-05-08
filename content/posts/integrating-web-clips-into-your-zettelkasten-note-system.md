@@ -9,8 +9,6 @@ slug: "integrating-web-clips-into-your-zettelkasten-note-system"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Integrating Web Clips Into Your Zettelkasten Note System Guide
 
 > **Quick Answer:** Integrating web clips into your zettelkasten note system involves using capture tools to send web highlights to an inbox, processing those raw clips into your own words (fleeting notes), and formally linking the synthesized ideas into your network of permanent notes. This ensures captured content becomes active knowledge rather than digital hoarding.

@@ -9,8 +9,6 @@ slug: "setting-up-obsidian-with-apple-shortcuts-for-mobile"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Setting Up Obsidian with Apple Shortcuts for Mobile: Complete Guide
 
 > **Quick Answer:** Setting up Obsidian with Apple Shortcuts for mobile requires using the official Obsidian URI scheme or a [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugin like Advanced URI. By creating an Apple Shortcut that formats your text and sends it via an Obsidian URI link, you can bypass slow load times and capture ideas, [daily notes](/posts/automate-obsidian-daily-notes-using-python/), or tasks directly into your vault from your iPhone or iPad home screen.

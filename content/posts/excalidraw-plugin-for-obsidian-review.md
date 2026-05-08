@@ -11,8 +11,6 @@ type: "informational"
 tags: ["excalidraw", "use", "obsidian", "excalidraw plugin for obsidian review"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Excalidraw Plugin for Obsidian Review: The Definitive [Visual Thinking](/posts/excalidraw-plugin-for-obsidian-visual-thinking/) Tool?
 
 **TL;DR**

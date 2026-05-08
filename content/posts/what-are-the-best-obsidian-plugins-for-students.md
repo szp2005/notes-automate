@@ -11,8 +11,6 @@ type: "informational"
 tags: ["obsidian", "students", "study tools", "academic workflow"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # What Are the Best Obsidian Plugins for Students? A [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)-Based Guide
 
 > **TL;DR**

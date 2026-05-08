@@ -9,8 +9,6 @@ slug: "how-to-use-obsidian-templater-user-scripts"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Templater User Scripts: Complete Guide
 
 > **Quick Answer:** To use Obsidian Templater user scripts, enable the feature in Templater's settings and define a dedicated scripts folder. Create `.js` files exporting a function in that folder, and call them inside your Obsidian templates using the `<% tp.user.scriptName() %>` syntax. This allows you to run complex JavaScript, fetch external data, and deeply customize your vault automation.

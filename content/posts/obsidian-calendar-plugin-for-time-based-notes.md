@@ -9,8 +9,6 @@ slug: "obsidian-calendar-plugin-for-time-based-notes"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Calendar Plugin Complete Guide: Time-Based Notes
 
 > **Quick Answer:** The Obsidian Calendar plugin provides a visual monthly grid in your sidebar that connects directly to your daily, weekly, and monthly notes. By clicking on specific dates, you can seamlessly create, navigate, and manage time-based Markdown files, transforming your vault from a static knowledge base into a dynamic, time-aware management system.

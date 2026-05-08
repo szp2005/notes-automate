@@ -9,8 +9,6 @@ slug: "understanding-the-obsidian-internal-link-syntax-variations"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Understanding the Obsidian Internal Link Syntax Variations: Complete Guide
 
 > **Quick Answer:** The core of understanding the Obsidian internal link syntax variations lies in knowing the specific symbols: use `[[Page Name]]` for basic page links, `[[Page Name#Header]]` to link to a specific section, and `[[Page Name^block-id]]` to link directly to a paragraph or block. Adding a `!` before the link (`![[Page Name]]`) embeds the content directly into your current note.

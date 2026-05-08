@@ -8,8 +8,6 @@ tags: ["obsidian", "raindrop io", "knowledge management", "productivity"]
 slug: "raindrop-io-integration-for-obsidian-bookmark-management"
 type: "informational"
 ---
-
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 # Raindrop IO Integration for Obsidian Bookmark Management Guide
 
 > **Quick Answer:** The Raindrop IO integration for Obsidian bookmark management is best achieved using the community "Raindrop Highlights" plugin. It uses the Raindrop API to automatically pull saved bookmarks, tags, and text highlights into Obsidian as native Markdown files, allowing you to seamlessly connect web [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) with your local knowledge graph.

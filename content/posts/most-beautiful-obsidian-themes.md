@@ -11,8 +11,6 @@ type: "informational"
 tags: ["obsidian", "themes", "visual design", "customization"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Most Beautiful Obsidian Themes in 2024: Minimalist, Dark Mode & Vibrant Picks
 
 ---

@@ -9,8 +9,6 @@ slug: "python-scripts-for-obsidian-api-integration"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Python Scripts for Obsidian API Integration: Complete Guide
 
 > **Quick Answer:** Integrating Python with Obsidian using the Local REST API allows you to programmatically read, write, and update your markdown notes. By enabling the Local REST API plugin in Obsidian, you can use Python's `requests` library to fetch vault data, automate [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) tagging, sync external data sources directly into your vault, and build custom workflows that eliminate manual data entry.

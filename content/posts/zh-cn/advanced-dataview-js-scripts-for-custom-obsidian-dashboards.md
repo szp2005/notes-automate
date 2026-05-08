@@ -9,8 +9,6 @@ slug: "advanced-dataview-js-scripts-for-custom-obsidian-dashboards"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 _作为 Amazon 联盟成员，我们通过符合条件的购买获得收益。本文可能包含联盟链接。_
 
 # 用于自定义 Obsidian 仪表板的高级 Dataview JS 脚本：完整指南

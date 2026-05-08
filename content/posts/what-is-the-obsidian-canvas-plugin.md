@@ -11,8 +11,6 @@ type: "informational"
 tags: ["obsidian", "canvas", "infinite", "whiteboard"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # What Is the Obsidian Canvas Plugin? A Practical Guide for Visual Thinkers
 
 **Keyword focus:** what is the obsidian canvas plugin

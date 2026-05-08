@@ -9,8 +9,6 @@ slug: "setting-up-obsidian-git-for-automated-version-control"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Setting Up Obsidian Git for Automated Version Control: Full Guide
 
 > **Quick Answer:** Setting up Obsidian Git for automated version control involves installing the Obsidian Git [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) plugin, initializing a local Git repository in your vault, linking it to a remote provider like GitHub, and configuring the plugin's auto-backup intervals. This ensures your knowledge base is continuously backed up and synchronized across multiple desktop and mobile devices without manual intervention.

@@ -9,8 +9,6 @@ slug: "applying-the-para-method-to-an-obsidian-vault"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 _作为亚马逊合作伙伴，我们从符合条件的购买中赚取收益。本文可能包含附属链接。_
 
 # 在 Obsidian 库中应用 PARA 方法：完整指南

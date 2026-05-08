@@ -9,8 +9,6 @@ slug: "python-scripts-for-bulk-processing-obsidian-markdown-files"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Python Scripts for Bulk Processing Obsidian Markdown Files Guide
 
 > **Quick Answer:** The most reliable way to write Python scripts for bulk processing Obsidian markdown files is to use the `python-frontmatter` library to safely handle YAML [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) and `re` (regex) for parsing wikilinks. Always create a backup of your vault before running scripts, use `os.walk` or `pathlib.Path.rglob` to iterate through your files, and test your modifications on a small subset of notes first to prevent data loss.

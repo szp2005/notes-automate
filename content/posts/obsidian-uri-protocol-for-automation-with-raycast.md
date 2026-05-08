@@ -9,8 +9,6 @@ slug: "obsidian-uri-protocol-for-automation-with-raycast"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian URI Protocol for Automation with Raycast: Complete Guide
 
 > **Quick Answer:** The Obsidian URI protocol allows external apps to interact with your vault using deep links like `obsidian://open`. By combining this protocol with Raycast script commands on macOS, you can build custom, keyboard-driven automations to instantly capture ideas, open specific [daily notes](/posts/automate-obsidian-daily-notes-using-python/), or append text to running logs without ever touching your mouse.

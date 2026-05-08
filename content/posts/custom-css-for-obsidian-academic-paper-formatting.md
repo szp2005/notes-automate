@@ -9,8 +9,6 @@ slug: "custom-css-for-obsidian-academic-paper-formatting"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Custom CSS for Obsidian Academic Paper Formatting: A Complete Guide
 
 > **Quick Answer:** Custom CSS in Obsidian allows precise control over academic paper formatting elements like headings, paragraphs, blockquotes, and citation styles, ensuring consistency and professional presentation for research documents. It involves creating and enabling `.css` snippets within Obsidian's settings to override default styles, providing a tailored environment for academic writing and export.

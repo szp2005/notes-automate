@@ -9,8 +9,6 @@ slug: "using-obsidian-for-long-term-evergreen-note-management"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System
 
 > **Quick Answer:** Using Obsidian for long-term evergreen note management requires shifting from chronological capture to conceptual synthesis. By combining Obsidian's local, plain-text Markdown storage with a [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) built on atomic, densely linked concepts, you create a resilient knowledge graph that grows in compound value over decades without relying on proprietary databases.

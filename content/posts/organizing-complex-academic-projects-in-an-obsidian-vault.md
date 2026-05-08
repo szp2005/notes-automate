@@ -9,8 +9,6 @@ slug: "organizing-complex-academic-projects-in-an-obsidian-vault"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Mastering Academic Projects: Organizing in an Obsidian Vault
 
 > **Quick Answer:** Organizing complex academic projects in an Obsidian vault involves creating a networked knowledge system where research notes, sources, outlines, and drafts are interconnected. This approach leverages Obsidian's linking capabilities, flexible structure, and plugin ecosystem to provide a dynamic, searchable, and highly customizable environment for managing the multifaceted demands of academic work, from literature review to final manuscript.

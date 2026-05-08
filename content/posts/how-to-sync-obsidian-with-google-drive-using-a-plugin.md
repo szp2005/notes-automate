@@ -11,8 +11,6 @@ type: "informational"
 tags: ["sync", "obsidian", "google", "drive"]
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # How to Sync Obsidian with Google Drive Using a Plugin (Free, Step-by-Step Guide)
 
 > **TL;DR**

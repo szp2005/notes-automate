@@ -9,8 +9,6 @@ slug: "custom-templater-scripts-for-obsidian-free-download"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Custom Templater Scripts for Obsidian Free Download (2026)
 
 > **Quick Answer:** You can access our complete collection of custom templater scripts for Obsidian as a free download directly from the code blocks below. These ready-to-use scripts automate daily notes, meeting minutes, project structuring, and Zettelkasten ID generation, allowing you to bypass manual formatting and streamline your vault instantly.

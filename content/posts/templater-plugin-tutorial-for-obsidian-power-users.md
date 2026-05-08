@@ -9,8 +9,6 @@ slug: "templater-plugin-tutorial-for-obsidian-power-users"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Templater Plugin Tutorial for Obsidian Power Users: Advanced [Automation](/posts/triggering-n8n-workflows-directly-from-obsidian-notes/)
 
 > **Quick Answer:** The Templater plugin transforms Obsidian from a static text editor into an automated knowledge system. By leveraging its execution commands (`<%* %>`), system modules (`tp.file`, `tp.date`), and Javascript capabilities, power users can automate file routing, generate dynamic [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/), prompt for user inputs, and pull data from external APIs directly into their notes.
