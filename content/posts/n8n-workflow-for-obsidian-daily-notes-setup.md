@@ -144,6 +144,8 @@ This is almost always a timezone mismatch. Ensure that the `GENERIC_TIMEZONE` en
 
 ## Related Reading
 
+- [Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/)
+
 - [Download Obsidian n8n Integration Workflow Templates](/posts/download-obsidian-n8n-integration-workflow-templates/)
 
 - [Best Font Pairings for Obsidian Minimal Theme in 2026](/posts/best-font-pairings-obsidian-minimal-theme-2026/)

@@ -164,6 +164,10 @@ Yes, if you value your time. While you can find free snippets on GitHub or the O
 
 ## Related Reading
 
+- [Best Font Pairings for Obsidian Minimal Theme in 2026](/posts/best-font-pairings-obsidian-minimal-theme-2026/)
+
+- [Automating Obsidian Frontmatter with Templater Scripts: 5-Step Guide](/posts/automating-obsidian-frontmatter-with-templater-scripts/)
+
 - [Automating Obsidian Frontmatter with Templater Scripts: 5-Step Guide](/posts/automating-obsidian-frontmatter-with-templater-scripts/)
 
 - [Automating Obsidian Frontmatter with Templater Scripts: 5-Step Guide](/posts/automating-obsidian-frontmatter-with-templater-scripts/)
