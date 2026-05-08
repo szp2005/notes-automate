@@ -9,6 +9,8 @@ slug: "spaced-repetition-plugin-for-obsidian-flashcards"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Spaced Repetition Plugin for Obsidian Flashcards: Complete Setup Guide
 
 > **Quick Answer:** The Spaced Repetition plugin for Obsidian flashcards integrates active recall directly into your markdown notes. By using specific syntax (like `::` or `==`) to create flashcards inline, you can review concepts at algorithmically determined intervals without leaving your vault, ensuring long-term knowledge retention.

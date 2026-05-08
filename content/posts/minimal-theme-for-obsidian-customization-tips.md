@@ -9,6 +9,8 @@ slug: "minimal-theme-for-obsidian-customization-tips"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Minimal Theme for Obsidian Customization Tips: Complete Guide
 
 > **Quick Answer:** The most effective way to customize the Minimal theme in Obsidian is by installing the companion "Minimal Theme Settings" and "Style Settings" [community](/posts/how-to-install-community-plugins-in-obsidian-mobile/) [plugins](/posts/periodic-notes-plugin-weekly-reviews/). These allow you to adjust typography, toggle interface clutter, and switch color schemes (like Nord or Gruvbox) without writing code. For granular control, use Obsidian's [CSS snippets](/posts/top-obsidian-css-snippets-for-clean-minimalist-look/) feature to override specific design elements like callouts and headers.

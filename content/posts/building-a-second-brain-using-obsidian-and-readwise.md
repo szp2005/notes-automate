@@ -9,6 +9,8 @@ slug: "building-a-second-brain-using-obsidian-and-readwise"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Building a Second Brain Using Obsidian and Readwise: Complete Guide
 
 > **Quick Answer:** Building a second brain using Obsidian and Readwise requires connecting Readwise's automated highlight capture directly into Obsidian's local markdown vault via the official plugin. By piping your Kindle, web, and podcast annotations into a centralized inbox, you can progressively summarize and link those notes to create a resilient, interconnected personal knowledge base.

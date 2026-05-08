@@ -9,6 +9,8 @@ slug: "make-md-obsidian-notion-like-workspace"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Make.md for Obsidian: Notion-Like Workspace Setup Guide
 
 > **Quick Answer:** Make.md is a comprehensive Obsidian plugin that transforms the application's native markdown interface into a Notion-like workspace. It replaces standard folders with dynamic "Spaces," introduces seamless inline block editing, and adds visual "Context" blocks for database-like functionality, all without sacrificing the security, [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/), and speed of local plain-text files.

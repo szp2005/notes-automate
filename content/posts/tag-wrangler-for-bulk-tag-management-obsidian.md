@@ -9,6 +9,8 @@ slug: "tag-wrangler-for-bulk-tag-management-obsidian"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Tag Wrangler for Bulk Tag Management in Obsidian: Complete Guide
 
 > **Quick Answer:** Tag Wrangler is an essential Obsidian plugin that enables bulk tag management directly from the native tag pane. It allows you to rename, merge, search, and delete tags across your entire vault simultaneously, automatically updating all associated notes and preventing broken links or fragmented [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) structures.

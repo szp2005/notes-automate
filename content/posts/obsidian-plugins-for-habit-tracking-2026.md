@@ -9,6 +9,8 @@ slug: "obsidian-plugins-for-habit-tracking-2026"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Obsidian Plugins for Habit Tracking 2026: Complete Setup Guide
 
 > **Quick Answer:** The best Obsidian plugins for habit tracking in 2026 are [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/) (for querying daily note metadata), Tracker (for building progress charts), Heatmap Calendar (for GitHub-style commit grids), and Templater (for automating daily layouts). For a seamless setup, integrate these with your core [Daily Notes](/posts/automate-obsidian-daily-notes-using-python/) to extract habit data automatically into centralized, offline-first [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/).

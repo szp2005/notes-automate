@@ -190,7 +190,7 @@ The investment in Templater pays back quickly. Setting up three templates (liter
 
 **The problem it solves:** Obsidian's built-in search is good for finding text in your Markdown notes. But it doesn't index the content of PDF files stored in your vault. If you've attached 150 PDFs and you want to find every one that mentions "social capital formation in rural communities," the native search returns nothing.
 
-**What the plugin does:** [Omnisearch is a community plugin that builds a full-text search index across your entire vault, including the text inside PDF attachments. It uses a relevance-scored search algorithm rather than simple string matching, so results are ranked by likely relevance rather than just presence of the term.
+**What the plugin does:** Omnisearch is a community plugin that builds a full-text search index across your entire vault, including the text inside PDF attachments. It uses a relevance-scored search algorithm rather than simple string matching, so results are ranked by likely relevance rather than just presence of the term.
 
 **What this means in practice:**
 

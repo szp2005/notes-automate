@@ -31,7 +31,7 @@ For researchers dealing with fifty or more sources, investing in a structured te
 
 ## Best Advanced Obsidian Templates for Literature Review Matrix in 2026
 
-### 1. The Obsidian Academic Vault Pro
+### 1. [The Obsidian Academic Vault Pro](https://www.amazon.com/s?k=The%20Obsidian%20Academic%20Vault%20Pro&tag=notesautomate-20)
 
 **Best for:** PhD Students, Postdocs, and Career Researchers
 **Price:** $49-$79
@@ -50,7 +50,7 @@ It utilizes advanced DataviewJS scripts to generate matrices that allow inline e
 - Steep learning curve for users new to Obsidian
 - Heavy reliance on community plugins requires regular maintenance
 
-### 2. LitReview Master Matrix
+### 2. [LitReview Master Matrix](https://www.amazon.com/s?k=LitReview%20Master%20Matrix&tag=notesautomate-20)
 
 **Best for:** Master's Students and Thesis Writers
 **Price:** $25-$35
@@ -69,7 +69,7 @@ The templates use standard Dataview queries (rather than JavaScript), making the
 - Does not handle broader project management or task tracking
 - Requires manual setup to link with external reference managers
 
-### 3. Zettelkasten Scholar Edition
+### 3. [Zettelkasten Scholar Edition](https://www.amazon.com/s?k=Zettelkasten%20Scholar%20Edition&tag=notesautomate-20)
 
 **Best for:** Theoretical Researchers and Humanities Scholars
 **Price:** $39-$59
@@ -88,7 +88,7 @@ It includes a highly advanced graph view configuration and relies heavily on bid
 - Matrix queries can become slow with thousands of heavily linked notes
 - Less suited for systematic reviews in the hard sciences
 
-### 4. Dataview Driven Literature Tracker
+### 4. [Dataview Driven Literature Tracker](https://www.amazon.com/s?k=Dataview%20Driven%20Literature%20Tracker&tag=notesautomate-20)
 
 **Best for:** Code-Savvy Researchers and Data Scientists
 **Price:** $15-$25
@@ -107,7 +107,7 @@ You apply the frontmatter template to your reading notes, and then deploy the qu
 - Requires significant comfort with Dataview query language
 - Very little aesthetic formatting applied to the tables natively
 
-### 5. Notebase Academic Starter
+### 5. [Notebase Academic Starter](https://www.amazon.com/s?k=Notebase%20Academic%20Starter&tag=notesautomate-20)
 
 **Best for:** Undergraduates and Early Career Researchers
 **Price:** $0-$15

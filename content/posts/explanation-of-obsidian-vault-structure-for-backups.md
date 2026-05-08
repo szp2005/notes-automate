@@ -9,6 +9,8 @@ slug: "explanation-of-obsidian-vault-structure-for-backups"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Explanation of Obsidian Vault Structure for Backups (Full Guide)
 
 > **Quick Answer:** A complete explanation of obsidian vault structure for backups starts with recognizing that your vault is simply a standard local folder on your computer. To fully back up your workspace, you must secure both your visible Markdown files (your notes) and the hidden `.obsidian` directory, which houses your [plugins](/posts/periodic-notes-plugin-weekly-reviews/), themes, hotkeys, and core configurations, ensuring you can restore the exact environment without losing any customizations.

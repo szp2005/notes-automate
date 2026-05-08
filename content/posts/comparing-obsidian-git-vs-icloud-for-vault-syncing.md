@@ -29,7 +29,7 @@ Git relies on **snapshot-based version control**. Git tracks the exact additions
 
 ## Deep Dive: Syncing Obsidian with iCloud
 
-### 1. Apple iCloud Drive
+### 1. [Apple iCloud Drive](https://www.amazon.com/s?k=Apple%20iCloud%20Drive&tag=notesautomate-20)
 
 **Best for:** Users entirely within the Apple hardware ecosystem (Mac, iPhone, iPad).
 **Price:** Free (up to 5GB) to $9.99/mo for 2TB
@@ -54,7 +54,7 @@ Because iCloud manages file syncing directly through the operating system, Obsid
 
 ## Deep Dive: Syncing Obsidian with Git
 
-### 2. Obsidian Git (Community Plugin)
+### 2. [Obsidian Git (Community Plugin)](https://www.amazon.com/s?k=Obsidian%20Git%20%28Community%20Plugin%29&tag=notesautomate-20)
 
 **Best for:** [Developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/), power users, and cross-platform workers (Windows, Mac, Android, Linux).
 **Price:** Free

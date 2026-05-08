@@ -25,7 +25,7 @@ By integrating the right community plugins, you can connect your reference manag
 
 The core of any [academic workflow](/posts/managing-large-pdf-libraries-within-an-obsidian-vault/) is how you handle your sources. Moving citations manually between a reference manager and your notes is prone to error and incredibly time-consuming. These plugins automate the connection between your library and your Obsidian vault.
 
-### 1. Zotero Integration
+### 1. [Zotero Integration](https://www.amazon.com/s?k=Zotero%20Integration&tag=notesautomate-20)
 
 **Best for:** Managing literature reviews and extracting PDF annotations
 **Price:** Free
@@ -44,7 +44,7 @@ When paired with Zotero's built-in PDF reader, this plugin can automatically ext
 - Initial template setup has a steep learning curve
 - Requires Zotero to be open in the background
 
-### 2. Citations
+### 2. [Citations](https://www.amazon.com/s?k=Citations&tag=notesautomate-20)
 
 **Best for:** Lightweight reference referencing and Mendeley/JabRef users
 **Price:** Free
@@ -67,7 +67,7 @@ While it lacks the deep PDF annotation extraction capabilities of the Zotero Int
 
 Once your literature notes are in Obsidian, the next challenge is finding what you need when you need it. Academic vaults scale rapidly to thousands of notes. These tools allow you to treat your markdown files as a queryable database.
 
-### 3. Dataview
+### 3. [Dataview](https://www.amazon.com/s?k=Dataview&tag=notesautomate-20)
 
 **Best for:** Synthesizing literature and tracking research progress
 **Price:** Free
@@ -86,7 +86,7 @@ You can use Dataview to track your reading list status, aggregate open questions
 - Requires consistent application of frontmatter metadata
 - Can slow down vault load times if queries are overly complex
 
-### 4. Smart Connections
+### 4. [Smart Connections](https://www.amazon.com/s?k=Smart%20Connections&tag=notesautomate-20)
 
 **Best for:** Discovering hidden links across extensive literature notes
 **Price:** Free (requires OpenAI API key or local LLM setup)
@@ -109,7 +109,7 @@ When you open a note on a specific concept, the plugin displays a sidebar of you
 
 While external readers like Zotero are popular, many researchers prefer to keep their entire workflow contained within Obsidian to minimize context switching. 
 
-### 5. Annotator
+### 5. [Annotator](https://www.amazon.com/s?k=Annotator&tag=notesautomate-20)
 
 **Best for:** In-app PDF and EPUB reading
 **Price:** Free
@@ -132,7 +132,7 @@ Clicking on an annotation in your markdown file will instantly jump you to the e
 
 Obsidian is excellent for taking notes, but academics eventually need to produce perfectly formatted Word documents or LaTeX PDFs with specific citation styles. 
 
-### 6. Pandoc Plugin
+### 6. [Pandoc Plugin](https://www.amazon.com/s?k=Pandoc%20Plugin&tag=notesautomate-20)
 
 **Best for:** Exporting Markdown to formatted academic papers
 **Price:** Free (requires local Pandoc installation)
@@ -151,7 +151,7 @@ Crucially for researchers, it respects Pandoc citation syntax. If you have writt
 - Requires installing Pandoc and a LaTeX distribution on your operating system
 - Troubleshooting formatting errors requires reading terminal outputs
 
-### 7. Longform
+### 7. [Longform](https://www.amazon.com/s?k=Longform&tag=notesautomate-20)
 
 **Best for:** Managing long-form projects like theses and books
 **Price:** Free

@@ -9,6 +9,8 @@ slug: "smart-connections-plugin-for-emergent-ideas"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Smart Connections Plugin for Emergent Ideas: Complete 2026 Setup Guide
 
 > **Quick Answer:** The Smart Connections plugin for [Obsidian](/posts/obsidian-vs-tana-structured-knowledge-management/) uses local or API-based embeddings to analyze your entire vault and surface conceptually related notes, even when no direct links exist. By clustering semantically similar concepts, it acts as an automated [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) assistant that highlights emergent ideas, bridges separate domains of thought, and prevents knowledge silos within large personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) (PKM) systems.

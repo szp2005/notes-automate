@@ -229,7 +229,7 @@ Beyond modification, Python scripts for bulk processing Obsidian markdown files 
 
 For instance, you might want to extract all external URLs from your notes to verify they are still active, or you might want to find every note that contains a specific phrase but lacks a corresponding tag.
 
-To extract all external Markdown links (`[text](url)`), use the regex `r'\[([^\]]+)\]\((http[^\)]+)\)'`. This captures both the link text and the URL. 
+To extract all external Markdown links (`text(url)`), use the regex `r'\(^\+)\\((http^\)+)\)'`. This captures both the link text and the URL. 
 
 When running heavy regex operations across thousands of files, compile your regex patterns outside the loop (`pattern = re.compile(...)`). This significantly reduces CPU overhead, dropping processing time for a 10,000-note vault from minutes to mere seconds.
 

@@ -242,7 +242,7 @@ No habit tracking setup in Obsidian works best as a single plugin. These four su
 
 ### Templater: Eliminate Daily Friction
 
-[Templater auto-generates your daily note with the correct date, pre-populated habit checkboxes, and YAML frontmatter fields already in place. Without it, you're manually creating each note and prone to inconsistency.
+Templater auto-generates your daily note with the correct date, pre-populated habit checkboxes, and YAML frontmatter fields already in place. Without it, you're manually creating each note and prone to inconsistency.
 
 A minimal Templater daily note snippet:
 

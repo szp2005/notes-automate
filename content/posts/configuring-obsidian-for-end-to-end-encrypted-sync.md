@@ -9,6 +9,8 @@ slug: "configuring-obsidian-for-end-to-end-encrypted-sync"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Configuring Obsidian for End to End Encrypted Sync: 5-Step Guide
 
 > **Quick Answer:** Configuring Obsidian for end to end encrypted sync requires enabling Obsidian Sync, choosing "Custom encryption key" during the remote vault creation process, and storing your key in a secure password manager. This ensures your markdown files are encrypted locally using AES-256-GCM before transmission, meaning neither your internet provider nor Obsidian's servers can read your data.

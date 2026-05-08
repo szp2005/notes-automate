@@ -9,6 +9,8 @@ slug: "how-to-use-obsidian-for-software-engineering-documentation"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Obsidian for Software Engineering Documentation: 7-Step Guide
 
 > **Quick Answer:** To use Obsidian for software engineering documentation, store your notes locally in Markdown and use wikilinks (`[[link]]`) to connect code snippets, architecture diagrams, and API specs. By treating documentation like code and organizing it with Maps of Content (MOCs), developers can build an interconnected, version-controlled knowledge base that is highly searchable and infinitely faster than traditional cloud wikis.

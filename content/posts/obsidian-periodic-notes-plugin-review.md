@@ -176,7 +176,7 @@ where file.name >= "<% tp.date.now("YYYY-MM-DD", 0, "day", -tp.date.now("d") + 1
 \`\`\`
 ```
 
-For [task management](/posts/automating-your-task-management-with-obsidian-tasks-plugin/) that syncs across these notes, [Setapp bundles several apps (including OmniFocus-compatible workflows) that pair cleanly with an Obsidian-based daily review system.
+For task management(/posts/automating-your-task-management-with-obsidian-tasks-plugin/) that syncs across these notes, Setapp bundles several apps (including OmniFocus-compatible workflows) that pair cleanly with an Obsidian-based daily review system.
 
 ---
 

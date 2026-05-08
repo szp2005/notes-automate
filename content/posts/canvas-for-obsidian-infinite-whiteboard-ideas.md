@@ -9,6 +9,8 @@ slug: "canvas-for-obsidian-infinite-whiteboard-ideas"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Canvas for Obsidian: Infinite Whiteboard Ideas for 2026
 
 > **Quick Answer:** The Canvas core plugin for Obsidian turns your text-based vault into an infinite whiteboard. The best ideas for using it include creating spatial Maps of Content (MOCs), mapping out complex article structures, building visual project [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/), and clustering [research](/posts/obsidian-vs-devonthink-for-large-research-archives/) PDFs into thematic zones to discover hidden connections.

@@ -9,6 +9,8 @@ slug: "janitor-plugin-for-obsidian-vault-cleanup"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Janitor Plugin for Obsidian Vault Cleanup: Complete 2026 Guide
 
 > **Quick Answer:** The Janitor plugin for Obsidian vault cleanup automates the removal of orphaned files, empty notes, and unlinked attachments that accumulate over time. By scanning your local directory and identifying assets not referenced by any active markdown file, it allows you to bulk-delete digital clutter, significantly improving vault loading times and search performance.

@@ -139,7 +139,7 @@ Those hyphenated words after `class=` are the CSS selectors you target. To style
 }
 ```
 
-If you want to learn CSS properties beyond what you see in examples here, [a beginner CSS course on Udemy will get you from zero to writing confident rules in a weekend. Alternatively, the CSS Pocket Reference book is a reliable desk companion for quick property lookups.
+If you want to learn CSS properties beyond what you see in examples here, a beginner CSS course on Udemy will get you from zero to writing confident rules in a weekend. Alternatively, the CSS Pocket Reference book is a reliable desk companion for quick property lookups.
 
 ---
 

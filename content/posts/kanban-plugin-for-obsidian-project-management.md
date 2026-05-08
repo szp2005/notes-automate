@@ -9,6 +9,8 @@ slug: "kanban-plugin-for-obsidian-project-management"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Kanban Plugin for Obsidian Project Management: Complete Guide
 
 > **Quick Answer:** The Kanban plugin for Obsidian transforms standard markdown lists into interactive, drag-and-drop project boards. It allows you to visualize workflows, link tasks directly to specific notes within your vault, and manage complex projects without ever leaving your local, text-based environment. 

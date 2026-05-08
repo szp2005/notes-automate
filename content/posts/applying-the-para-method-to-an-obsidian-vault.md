@@ -9,6 +9,8 @@ slug: "applying-the-para-method-to-an-obsidian-vault"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Applying the PARA Method to an Obsidian Vault: Complete Guide
 
 > **Quick Answer:** Applying the PARA method to an Obsidian vault involves structuring your root folder into four main directories: `1-[Projects](/posts/using-obsidian-tasks-plugin-for-project-management/)` (active tasks with deadlines), `2-Areas` (ongoing responsibilities), `3-Resources` (topics of interest), and `4-Archives` (inactive items). This framework categorizes notes by their immediate actionability rather than their subject matter, reducing mental friction when saving and retrieving information.

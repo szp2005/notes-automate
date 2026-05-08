@@ -35,7 +35,7 @@ Before evaluating specific themes, it is necessary to establish the baseline cri
 
 The following themes have been rigorously tested for their contrast performance, [customization](/posts/minimal-theme-for-obsidian-customization-tips/) capabilities, and overall visual ergonomics.
 
-### 1. Minimal Theme
+### 1. [Minimal Theme](https://www.amazon.com/s?k=Minimal%20Theme&tag=notesautomate-20)
 
 **Best for:** [Power](/posts/using-obsidian-tasks-plugin-for-project-management/) users requiring deep customization and true black/white modes
 **Price:** Free
@@ -53,7 +53,7 @@ Minimal by Kepano remains the gold standard for Obsidian interface design. While
 - Requires installing a secondary plugin (Style Settings) to unlock true high contrast features
 - The sheer number of settings can be overwhelming for new users
 
-### 2. Primary
+### 2. [Primary](https://www.amazon.com/s?k=Primary&tag=notesautomate-20)
 
 **Best for:** Users with astigmatism who suffer from stark white text on pure black backgrounds
 **Price:** Free
@@ -71,7 +71,7 @@ Created by Cecilia May, Primary takes a scientifically grounded approach to colo
 - The heavily opinionated warm color scheme cannot be easily changed
 - Some third-party [plugins](/posts/periodic-notes-plugin-weekly-reviews/) may clash with the distinct earthy palette
 
-### 3. Dracula Official
+### 3. [Dracula Official](https://www.amazon.com/s?k=Dracula%20Official&tag=notesautomate-20)
 
 **Best for:** [Developers](/posts/best-obsidian-plugins-for-developers-and-code-snippets/) and users migrating from standard coding environments
 **Price:** Free
@@ -89,7 +89,7 @@ The Dracula color scheme is a ubiquitous standard across developer tools, and it
 - Only offers a dark mode; no light mode equivalent is available
 - The neon accents might feel too intense for long-form narrative writing
 
-### 4. Things
+### 4. [Things](https://www.amazon.com/s?k=Things&tag=notesautomate-20)
 
 **Best for:** Users who need distinct UI separation and clear application borders
 **Price:** Free
@@ -107,7 +107,7 @@ Inspired by the popular [task management](/posts/automating-your-task-management
 - Dark mode contrast is slightly weaker than its light mode counterpart
 - Less customizable than Minimal or Primary
 
-### 5. Shimmering Focus
+### 5. [Shimmering Focus](https://www.amazon.com/s?k=Shimmering%20Focus&tag=notesautomate-20)
 
 **Best for:** Keyboard-centric navigators and minimalist writers
 **Price:** Free

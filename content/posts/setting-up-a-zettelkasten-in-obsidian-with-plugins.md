@@ -9,6 +9,8 @@ slug: "setting-up-a-zettelkasten-in-obsidian-with-plugins"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Setting up a Zettelkasten in Obsidian with Plugins: 5-Step Guide
 
 > **Quick Answer:** Setting up a Zettelkasten in Obsidian with plugins involves configuring your core folder structure, installing [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/) plugins like Templater and [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/), creating standardized markdown [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/), establishing a bidirectional linking strategy, and building a daily [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) for fleeting, literature, and permanent notes. This transforms Obsidian from a basic markdown editor into an automated, interconnected knowledge engine.

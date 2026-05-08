@@ -9,6 +9,8 @@ slug: "zotero-integration-for-obsidian-academic-research"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Zotero Integration for Obsidian: Complete Academic [Research](/posts/obsidian-vs-devonthink-for-large-research-archives/) Guide
 
 > **Quick Answer:** Zotero integration for Obsidian [academic research](/posts/obsidian-project-management-academic-research-teams/) bridges your reference manager and personal knowledge system. By combining Zotero, the Better BibTeX plugin, and Obsidian's Zotero Integration plugin, you can automatically extract PDF highlights, format citations, and generate interconnected literature notes, saving hundreds of hours during literature reviews.
@@ -136,7 +138,7 @@ Avoid the temptation to dump all literature notes into your root directory. Crea
 * `/Sources/Permanent Notes/` — Your synthesized, atomic thoughts derived from the literature.
 * `/Projects/Drafts/` — Where you write your actual papers, referencing the literature notes.
 
-When configuring the Zotero Integration plugin, specify `/Sources/Literature Notes/` as the default output directory. Set the filename template to `{{citekey}}` or `@{{citekey}}`. Using the citekey as the filename ensures that when you type `[[` to link a note, typing the author's name and year immediately surfaces the correct file.
+When configuring the Zotero Integration plugin, specify `/Sources/Literature Notes/` as the default output directory. Set the filename template to `{{citekey}}` or `@{{citekey}}`. Using the citekey as the filename ensures that when you type `` to link a note, typing the author's name and year immediately surfaces the correct file.
 
 ## Synthesizing the Literature
 

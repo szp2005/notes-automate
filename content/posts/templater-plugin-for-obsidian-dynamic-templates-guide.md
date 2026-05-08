@@ -9,6 +9,8 @@ slug: "templater-plugin-for-obsidian-dynamic-templates-guide"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Templater Plugin for Obsidian Dynamic Templates Guide: Automate PKM
 
 > **Quick Answer:** The Templater plugin for Obsidian replaces static templates with dynamic, programmable scripts using the `<% tp %>` syntax. By executing [JavaScript](/posts/how-to-use-obsidian-templater-user-scripts/) at the moment of note creation, it allows you to automatically insert the current date, fetch external data, rename files, prompt for user input, and route notes to specific folders without manual data entry.

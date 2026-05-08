@@ -34,7 +34,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ---
 
-## 1. Two Ways to Browse Obsidian Themes: In-App vs. Web {#two-ways}
+## 1. [Two Ways to Browse Obsidian Themes: In-App vs. Web {#two-ways}](https://www.amazon.com/s?k=Two%20Ways%20to%20Browse%20Obsidian%20Themes%3A%20In-App%20vs.%20Web%20%7B%23two-ways%7D&tag=notesautomate-20)
 
 Obsidian gives you two distinct places to browse community themes. Neither is secret, but most guides only explain one of them. Here is how they actually differ.
 
@@ -55,7 +55,7 @@ The practical [workflow](/posts/streamlining-your-daily-note-workflow-for-better
 
 ---
 
-## 2. Step-by-Step: Using the In-App Theme Browser {#in-app-browser}
+## 2. [Step-by-Step: Using the In-App Theme Browser {#in-app-browser}](https://www.amazon.com/s?k=Step-by-Step%3A%20Using%20the%20In-App%20Theme%20Browser%20%7B%23in-app-browser%7D&tag=notesautomate-20)
 
 This is the primary method. Here is exactly how it works.
 
@@ -71,7 +71,7 @@ This is the primary method. Here is exactly how it works.
 
 ---
 
-## 3. How to Use the Official Web Theme Gallery for Discovery {#web-gallery}
+## 3. [How to Use the Official Web Theme Gallery for Discovery {#web-gallery}](https://www.amazon.com/s?k=How%20to%20Use%20the%20Official%20Web%20Theme%20Gallery%20for%20Discovery%20%7B%23web-gallery%7D&tag=notesautomate-20)
 
 Head to obsidian.md/themes in any browser. The page loads a grid of every community theme with a screenshot thumbnail, the theme name, and the author.
 
@@ -83,7 +83,7 @@ Head to obsidian.md/themes in any browser. The page loads a grid of every commun
 
 ---
 
-## 4. Installing and Managing Your Themes {#installing-managing}
+## 4. [Installing and Managing Your Themes {#installing-managing}](https://www.amazon.com/s?k=Installing%20and%20Managing%20Your%20Themes%20%7B%23installing-managing%7D&tag=notesautomate-20)
 
 **Activating a theme:** After installing, the Appearance settings panel shows a dropdown under **Current community theme**. Select any installed theme from that list to activate it immediately.
 
@@ -95,7 +95,7 @@ Head to obsidian.md/themes in any browser. The page loads a grid of every commun
 
 ---
 
-## 5. Five Must-Try Themes for New Users {#must-try-themes}
+## 5. [Five Must-Try Themes for New Users {#must-try-themes}](https://www.amazon.com/s?k=Five%20Must-Try%20Themes%20for%20New%20Users%20%7B%23must-try-themes%7D&tag=notesautomate-20)
 
 These five themes cover different aesthetics and are all actively maintained as of 2024.
 
@@ -117,7 +117,7 @@ These five themes cover different aesthetics and are all actively maintained as 
 
 ---
 
-## 6. Going Further: Customizing Themes with CSS Snippets {#css-snippets}
+## 6. [Going Further: Customizing Themes with CSS Snippets {#css-snippets}](https://www.amazon.com/s?k=Going%20Further%3A%20Customizing%20Themes%20with%20CSS%20Snippets%20%7B%23css-snippets%7D&tag=notesautomate-20)
 
 CSS snippets are small `.css` files that layer on top of your active theme. They let you fix one specific thing — a font size, a color, a margin — without touching the theme itself or waiting for the theme author to push an update.
 
@@ -142,7 +142,7 @@ Snippets are also the right tool when a theme update breaks something you relied
 
 ---
 
-## 7. Troubleshooting Common Theme Issues {#troubleshooting}
+## 7. [Troubleshooting Common Theme Issues {#troubleshooting}](https://www.amazon.com/s?k=Troubleshooting%20Common%20Theme%20Issues%20%7B%23troubleshooting%7D&tag=notesautomate-20)
 
 **Theme looks broken after an Obsidian update:** Core app updates occasionally change internal CSS class names. The theme has not caught up yet. Check the theme's GitHub page for open issues or a recent commit. If none, revert to Default theme temporarily and re-check after a week.
 

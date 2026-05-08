@@ -29,7 +29,7 @@ At the foundation of Obsidian's linking architecture is the standard wikilink. T
 
 The basic syntax utilizes double square brackets. If you want to link to a note titled "Atomic Habits", you type `[[Atomic Habits]]`. 
 
-Obsidian’s link resolution engine is highly intelligent. As soon as you type the first `[[`, a quick-switcher dialogue appears, allowing you to fuzzy-search your entire vault. This means you do not need to remember exact file paths or even the exact capitalization. If you have a file nested deeply in `Literature Notes/Books/Atomic Habits.md`, typing `[[atomic]]` will instantly suggest it.
+Obsidian’s link resolution engine is highly intelligent. As soon as you type the first ``, a quick-switcher dialogue appears, allowing you to fuzzy-search your entire vault. This means you do not need to remember exact file paths or even the exact capitalization. If you have a file nested deeply in `Literature Notes/Books/Atomic Habits.md`, typing `atomic` will instantly suggest it.
 
 A crucial feature of this basic syntax is its role in note creation. If you type `[[A Concept I Want To Explore Later]]` and hit enter, the link will appear slightly dimmed (an "unresolved link"). Clicking this unresolved link will immediately create a new markdown file with that exact title in your designated default folder for new notes. This friction-free creation process allows you to capture ideas at the speed of thought without breaking your writing flow to navigate folders.
 
@@ -51,7 +51,7 @@ To link to a specific heading within a note, you use the hash `#` symbol directl
 
 For example, if you have a note called "Project Apollo" and it contains an H2 heading named `## Launch Sequence`, your link would look like this: `[[Project Apollo#Launch Sequence]]`.
 
-When you type `[[Project Apollo#`, Obsidian will immediately populate a dropdown menu showing an outline of all the headers in that specific document. This feature makes it incredibly easy to navigate large documents. 
+When you type `Project Apollo#`, Obsidian will immediately populate a dropdown menu showing an outline of all the headers in that specific document. This feature makes it incredibly easy to navigate large documents. 
 
 You can also use aliases with header links to keep things clean. For instance: `[[Project Apollo#Launch Sequence|view the launch steps]]`. The reader will only see "view the launch steps", but clicking will take them precisely to the H2 within the Apollo note. It is worth noting that Obsidian's link updater handles header changes gracefully. If you rename the heading "Launch Sequence" to "Final Launch Sequence", Obsidian will automatically scan your vault and update all links pointing to that header.
 
@@ -63,7 +63,7 @@ To link to a specific block, you use the caret `^` symbol instead of the hash.
 
 The syntax looks like this: `[[Concept of Entropy^6a9f3b]]`. 
 
-Because you cannot be expected to know the block IDs, Obsidian handles this automatically. When you type `[[Note Title^`, Obsidian brings up a searchable list of every paragraph and list item in that file. When you select one, Obsidian automatically generates a unique alphanumeric hash (like `^6a9f3b`) and appends it to the end of the block in the destination file, while creating the link in your current file.
+Because you cannot be expected to know the block IDs, Obsidian handles this automatically. When you type `Note Title^`, Obsidian brings up a searchable list of every paragraph and list item in that file. When you select one, Obsidian automatically generates a unique alphanumeric hash (like `^6a9f3b`) and appends it to the end of the block in the destination file, while creating the link in your current file.
 
 If you prefer clean, human-readable markdown, you can manually define a block ID. At the end of a paragraph in your target file, type a space followed by `^my-custom-id`. Then, in your linking file, you can type `[[Note Title^my-custom-id]]`. This is highly recommended for [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) or frequently referenced core definitions, as human-readable IDs are easier to maintain if you ever process your markdown files with external scripts.
 

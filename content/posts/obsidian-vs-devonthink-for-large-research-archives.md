@@ -29,7 +29,7 @@ DEVONthink approaches scale through an internal database structure. While it can
 
 Obsidian, conversely, operates purely on a local folder of files—predominantly Markdown (`.md`). It acts as an integrated development environment (IDE) for your notes. Because it relies entirely on the host operating system's file management, its scalability is theoretically limitless, though the visual graph and initial vault load times can slow down once you exceed 30,000 to 50,000 interlinked text files. Its architecture prioritizes the longevity and portability of your writing over complex multi-format document management.
 
-## 1. DEVONthink 3
+## 1. [DEVONthink 3](https://www.amazon.com/s?k=DEVONthink%203&tag=notesautomate-20)
 
 **Best for:** Academics, lawyers, and researchers managing massive, multi-format reference libraries
 **Price:** $150-$200 (One-time purchase, varies by edition)
@@ -49,7 +49,7 @@ For users dealing with gigabytes of legal briefs, academic papers, downloaded we
 - Exclusively restricted to the Apple ecosystem (macOS and iOS)
 - Interface feels utilitarian and requires a steep learning curve
 
-## 2. Obsidian
+## 2. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=notesautomate-20)
 
 **Best for:** Zettelkasten practitioners, prolific writers, and users who prioritize plain-text longevity
 **Price:** Free (Optional Sync is $4/month, Commercial license is $50/year)

@@ -255,7 +255,7 @@ sort by due date
 ```
 ````
 
-This is not a visual Kanban board with drag-and-drop, but it groups your work by status in a way that reads like swim lanes. For a true Kanban visual, the community [Obsidian Kanban plugin paired with Tasks works well — use tasks in Kanban cards and query them independently.
+This is not a visual Kanban board with drag-and-drop, but it groups your work by status in a way that reads like swim lanes. For a true Kanban visual, the community Obsidian Kanban plugin paired with Tasks works well — use tasks in Kanban cards and query them independently.
 
 ### Finding Stuck Tasks
 
@@ -439,7 +439,7 @@ sort by created date
 
 ### Use the Templater Plugin for Project Notes
 
-The [Templater community plugin lets you create a new Project Home note from a template with one keypress. The template auto-fills today's date, asks for the project name, and pre-builds the folder structure. This removes the friction of setup so you actually create project notes instead of skipping them.
+The Templater community plugin lets you create a new Project Home note from a template with one keypress. The template auto-fills today's date, asks for the project name, and pre-builds the folder structure. This removes the friction of setup so you actually create project notes instead of skipping them.
 
 ### Mobile: Sync Is Not Optional
 

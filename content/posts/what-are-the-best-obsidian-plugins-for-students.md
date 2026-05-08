@@ -128,7 +128,7 @@ The Annotator plugin lets you highlight and annotate PDFs and EPUBs directly ins
 
 ### Readwise Official
 
-[Readwise is a paid service (there's a free trial) that aggregates highlights from Kindle, Instapaper, Pocket, web articles, physical books via their mobile app, and even tweets. The Obsidian plugin syncs all of those highlights into your vault automatically.
+Readwise is a paid service (there's a free trial) that aggregates highlights from Kindle, Instapaper, Pocket, web articles, physical books via their mobile app, and even tweets. The Obsidian plugin syncs all of those highlights into your vault automatically.
 
 **Why students need it:** If you read anywhere beyond your desk — on a phone, Kindle, or tablet — Readwise catches every highlight and sends it to Obsidian. No manual copying. For students who consume research across multiple devices and formats, the time savings are significant. The Readwise + Obsidian combination is particularly powerful for literature reviews where you're pulling from 20+ sources.
 

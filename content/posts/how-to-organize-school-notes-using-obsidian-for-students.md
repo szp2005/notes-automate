@@ -9,6 +9,8 @@ slug: "how-to-organize-school-notes-using-obsidian-for-students"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # School Notes Using Obsidian for Students: Complete 2026 Guide
 
 > **Quick Answer:** To effectively organize school notes using Obsidian, implement a hybrid structure: use broad top-level folders for academic terms and subjects, apply tags for [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) statuses (e.g., #todo, #exam-prep), and rely heavily on bidirectional links (`[[links]]`) to connect related concepts. Pair this framework with core community plugins like [Dataview](/posts/using-dataview-arrays-for-complex-obsidian-tables/) for tracking assignments and [Templater](/posts/templater-plugin-tutorial-for-obsidian-power-users/) for standardizing lecture notes.
