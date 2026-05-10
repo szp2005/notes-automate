@@ -184,6 +184,7 @@ const ga4MeasurementId = import.meta.env.PUBLIC_GA4_MEASUREMENT_ID;
       <nav>
         <a href={`${localePrefix}/posts/`}>Guides</a>
         <a href={`${localePrefix}/about/`}>About</a>
+        <a href="/author/">Authors</a>
         <a href="/tags/">Tags</a>
         <a href="/search/">Search</a>
       </nav>
@@ -197,7 +198,11 @@ const ga4MeasurementId = import.meta.env.PUBLIC_GA4_MEASUREMENT_ID;
         <a href={`${localePrefix}/about/`}>About</a>
         <a href={`${localePrefix}/contact/`}>Contact</a>
         <a href={`${localePrefix}/privacy/`}>Privacy</a>
+        <a href="/terms/">Terms</a>
+        <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
+        <a href="/editorial-policy/">Editorial Policy</a>
         <a href={`${localePrefix}/posts/`}>All Posts</a>
+        <a href="/author/">Authors</a>
         <a href="/tags/">Tags</a>
         <a href="/rss.xml">RSS</a>
         <a
@@ -218,5 +223,22 @@ const ga4MeasurementId = import.meta.env.PUBLIC_GA4_MEASUREMENT_ID;
         </a>
       </nav>
     </footer>
+    <div id="cookie-consent" class="cookie-consent" hidden>
+      <p>We use privacy-minded analytics, advertising scripts, and affiliate tracking to keep this site free. By continuing, you agree to our <a href="/privacy/">Privacy Policy</a> and <a href="/terms/">Terms</a>.</p>
+      <button type="button" id="cookie-consent-accept">Accept</button>
+    </div>
+    <script is:inline>
+      (() => {
+        const banner = document.getElementById('cookie-consent');
+        const button = document.getElementById('cookie-consent-accept');
+        if (!banner || !button) return;
+        if (localStorage.getItem('cookie-consent-v1') === 'accepted') return;
+        banner.hidden = false;
+        button.addEventListener('click', () => {
+          localStorage.setItem('cookie-consent-v1', 'accepted');
+          banner.hidden = true;
+        });
+      })();
+    </script>
   </body>
 </html>
