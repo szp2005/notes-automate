@@ -1,5 +1,11 @@
 ---
 image: "/og/obsidian-automation-setup-guide-and-premium-templates.webp"
+evidenceImage:
+  src: "/media/adsense-phase2/sticky-workflow.jpg"
+  alt: "Template planning workspace with sticky-note workflow steps"
+  caption: "A planning desk with sticky notes, used to represent workflow mapping and hand-picked editorial links."
+  credit: "Anastasia Shuraeva / Pexels"
+  sourceUrl: "https://www.pexels.com/photo/sticky-notes-and-a-laptop-7278606/"
 title: "The Ultimate Obsidian Automation Setup Guide & Premium Templates"
 description: "Master personal knowledge management with our Obsidian automation setup guide and premium templates. Discover workflows that save hours of manual data entry."
 pubDate: "2026-05-07"

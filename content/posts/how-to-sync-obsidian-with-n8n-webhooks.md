@@ -1,5 +1,11 @@
 ---
 image: "/og/how-to-sync-obsidian-with-n8n-webhooks.webp"
+evidenceImage:
+  src: "/media/adsense-phase2/code-laptop.jpg"
+  alt: "Webhook and script setup represented by a laptop coding screen"
+  caption: "A development laptop screen, used to ground the local AI and automation workflow examples."
+  credit: "Christina Morillo / Pexels"
+  sourceUrl: "https://www.pexels.com/photo/black-and-gray-laptop-computer-turned-on-doing-computer-codes-1181271/"
 title: "Obsidian and n8n Webhooks: 5-Step Sync Guide"
 description: "Learn how to sync Obsidian with n8n webhooks to automate your note-taking workflows. Discover our step-by-step guide to connect your local vault to any app."
 pubDate: "2026-05-07"

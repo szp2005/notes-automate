@@ -1,5 +1,11 @@
 ---
 image: "/og/how-to-use-obsidian-templater-user-scripts.webp"
+evidenceImage:
+  src: "/media/adsense-phase2/code-laptop.jpg"
+  alt: "Templater script work represented by a code laptop"
+  caption: "A development laptop screen, used to ground the local AI and automation workflow examples."
+  credit: "Christina Morillo / Pexels"
+  sourceUrl: "https://www.pexels.com/photo/black-and-gray-laptop-computer-turned-on-doing-computer-codes-1181271/"
 title: "Obsidian Templater User Scripts: Complete Guide"
 description: "Learn how to use Obsidian Templater user scripts to automate workflows, fetch API data, and execute custom JavaScript directly inside your daily notes."
 pubDate: "2026-05-07"

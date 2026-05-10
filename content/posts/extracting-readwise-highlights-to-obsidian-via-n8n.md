@@ -1,5 +1,11 @@
 ---
 image: "/og/extracting-readwise-highlights-to-obsidian-via-n8n.webp"
+evidenceImage:
+  src: "/media/adsense-phase2/notebook-writing.jpg"
+  alt: "Highlight review and note-taking setup"
+  caption: "Handwritten notes at a working desk, used to illustrate research note-taking and review habits."
+  credit: "cottonbro studio / Pexels"
+  sourceUrl: "https://www.pexels.com/photo/person-writing-on-a-notebook-5185080/"
 title: "Extracting Readwise Highlights to Obsidian via n8n: Complete 5-Step Guide"
 description: "Master the technical workflow for extracting Readwise highlights to Obsidian via n8n. Learn to parse JSON payloads, format Markdown, and automate your PKM system."
 pubDate: "2026-05-07"

@@ -1,5 +1,11 @@
 ---
 image: "/og/managing-recurring-tasks-in-obsidian-with-dataviewjs.webp"
+evidenceImage:
+  src: "/media/adsense-phase2/sticky-workflow.jpg"
+  alt: "Recurring task planning desk with visible sticky notes"
+  caption: "A planning desk with sticky notes, used to represent workflow mapping and hand-picked editorial links."
+  credit: "Anastasia Shuraeva / Pexels"
+  sourceUrl: "https://www.pexels.com/photo/sticky-notes-and-a-laptop-7278606/"
 title: "Managing Recurring Tasks in Obsidian with DataviewJS: Complete Guide"
 description: "Learn how to automate and track repeating workflows by managing recurring tasks in Obsidian with DataviewJS. Step-by-step code snippets and logic explained."
 pubDate: "2026-05-07"

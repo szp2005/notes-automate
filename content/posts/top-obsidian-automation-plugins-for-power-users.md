@@ -1,5 +1,11 @@
 ---
 image: "/og/top-obsidian-automation-plugins-for-power-users.webp"
+evidenceImage:
+  src: "/media/adsense-phase2/notes-laptop.jpg"
+  alt: "Obsidian automation planning setup with laptop and handwritten notes"
+  caption: "Notebook and laptop planning setup, used to illustrate manual review and workflow documentation."
+  credit: "RDNE Stock project / Pexels"
+  sourceUrl: "https://www.pexels.com/photo/worker-taking-notes-while-using-a-laptop-7888655/"
 title: "Top Obsidian Automation Plugins for Power Users in 2026"
 description: "Discover the top Obsidian automation plugins for power users to streamline workflows, sync data, and turn your vault into an automated productivity engine."
 pubDate: "2026-05-07"

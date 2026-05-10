@@ -1,5 +1,11 @@
 ---
 image: "/og/obsidian-vs-notion-api-for-automated-workflows.webp"
+evidenceImage:
+  src: "/media/adsense-phase2/sticky-workflow.jpg"
+  alt: "API workflow planning setup with laptop and sticky notes"
+  caption: "A planning desk with sticky notes, used to represent workflow mapping and hand-picked editorial links."
+  credit: "Anastasia Shuraeva / Pexels"
+  sourceUrl: "https://www.pexels.com/photo/sticky-notes-and-a-laptop-7278606/"
 title: "Obsidian vs Notion API for Automated Workflows: 2026 Comparison"
 description: "Compare Obsidian vs Notion API for automated workflows. We evaluate rate limits, local-first advantages, data structures, and integrations for developers."
 pubDate: "2026-05-07"

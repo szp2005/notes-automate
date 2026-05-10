@@ -1,5 +1,11 @@
 ---
 image: "/og/review-of-obsidian-local-rest-api-integrations.webp"
+evidenceImage:
+  src: "/media/adsense-phase2/code-laptop.jpg"
+  alt: "Local REST API integration work represented by laptop code"
+  caption: "A development laptop screen, used to ground the local AI and automation workflow examples."
+  credit: "Christina Morillo / Pexels"
+  sourceUrl: "https://www.pexels.com/photo/black-and-gray-laptop-computer-turned-on-doing-computer-codes-1181271/"
 title: "Obsidian Local REST API Integrations Review: Best Automation Setups"
 description: "Comprehensive review of Obsidian Local REST API integrations. Discover the best tools, scripts, and workflows to automate your PKM system securely."
 pubDate: "2026-05-07"

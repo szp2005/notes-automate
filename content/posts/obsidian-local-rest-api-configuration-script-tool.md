@@ -1,5 +1,11 @@
 ---
 image: "/og/obsidian-local-rest-api-configuration-script-tool.webp"
+evidenceImage:
+  src: "/media/adsense-phase2/code-laptop.jpg"
+  alt: "Configuration script workflow represented by a development laptop"
+  caption: "A development laptop screen, used to ground the local AI and automation workflow examples."
+  credit: "Christina Morillo / Pexels"
+  sourceUrl: "https://www.pexels.com/photo/black-and-gray-laptop-computer-turned-on-doing-computer-codes-1181271/"
 title: "Obsidian Local REST API Configuration Script Tool: Complete Setup Guide"
 description: "Master the Obsidian Local REST API configuration script tool to automate your vault. Learn how to set up, secure, and script your note-taking workflow."
 pubDate: "2026-05-07"
