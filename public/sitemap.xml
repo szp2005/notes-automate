@@ -118,13 +118,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://notes-automate.com/posts/best-font-pairings-for-obsidian-minimal-theme-2026/</loc>
+    <loc>https://notes-automate.com/posts/best-font-pairings-obsidian-minimal-theme-2026/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-font-pairings-for-obsidian-minimal-theme-2026/"/>
-    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-font-pairings-for-obsidian-minimal-theme-2026/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-font-pairings-for-obsidian-minimal-theme-2026/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-font-pairings-obsidian-minimal-theme-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-font-pairings-obsidian-minimal-theme-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-font-pairings-obsidian-minimal-theme-2026/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-n8n-templates-for-obsidian-vault-automation/</loc>
@@ -133,7 +133,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://notes-automate.com/posts/best-n8n-workflows-for-obsidian-automation-2026/</loc>
+    <loc>https://notes-automate.com/posts/best-n8n-workflows-obsidian-automation-2026/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -565,13 +565,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://notes-automate.com/posts/longform-plugin-for-obsidian-manuscript-writing/</loc>
+    <loc>https://notes-automate.com/posts/longform-plugin-obsidian-manuscript-writing/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://notes-automate.com/posts/make-md-for-obsidian-notion-like-workspace/</loc>
+    <loc>https://notes-automate.com/posts/make-md-obsidian-notion-like-workspace/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -631,7 +631,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://notes-automate.com/posts/obsidian-advanced-uri-for-automation-with-alfred/</loc>
+    <loc>https://notes-automate.com/posts/obsidian-advanced-uri-automation-alfred/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -712,7 +712,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://notes-automate.com/posts/obsidian-plugin-for-automated-youtube-transcript-import/</loc>
+    <loc>https://notes-automate.com/posts/obsidian-plugin-automated-youtube-transcript-import/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -724,7 +724,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://notes-automate.com/posts/obsidian-project-management-for-academic-research-teams/</loc>
+    <loc>https://notes-automate.com/posts/obsidian-project-management-academic-research-teams/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -781,7 +781,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://notes-automate.com/posts/obsidian-vault-structure-for-digital-gardening-beginners/</loc>
+    <loc>https://notes-automate.com/posts/obsidian-vault-structure-digital-gardening-beginners/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -817,7 +817,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://notes-automate.com/posts/obsidian-vs-notion-for-complex-project-management-workflows/</loc>
+    <loc>https://notes-automate.com/posts/obsidian-vs-notion-complex-project-management-workflows/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -835,7 +835,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://notes-automate.com/posts/obsidian-vs-tana-for-structured-knowledge-management/</loc>
+    <loc>https://notes-automate.com/posts/obsidian-vs-tana-structured-knowledge-management/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1138,13 +1138,13 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/automating-obsidian-frontmatter-with-templater-scripts/"/>
   </url>
   <url>
-    <loc>https://notes-automate.com/zh-cn/posts/best-font-pairings-for-obsidian-minimal-theme-2026/</loc>
+    <loc>https://notes-automate.com/zh-cn/posts/best-font-pairings-obsidian-minimal-theme-2026/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-font-pairings-for-obsidian-minimal-theme-2026/"/>
-    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-font-pairings-for-obsidian-minimal-theme-2026/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-font-pairings-for-obsidian-minimal-theme-2026/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-font-pairings-obsidian-minimal-theme-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-font-pairings-obsidian-minimal-theme-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-font-pairings-obsidian-minimal-theme-2026/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/zh-cn/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/</loc>
