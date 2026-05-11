@@ -62,6 +62,9 @@
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/advanced-obsidian-templates-for-literature-review-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/advanced-obsidian-templates-for-literature-review-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/advanced-obsidian-templates-for-literature-review-matrix/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/applying-the-para-method-to-an-obsidian-vault/</loc>
@@ -77,24 +80,36 @@
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/automate-obsidian-daily-notes-using-python/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/automate-obsidian-daily-notes-using-python/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/automate-obsidian-daily-notes-using-python/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/automate-obsidian-with-n8n-and-webhooks/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/automate-obsidian-with-n8n-and-webhooks/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/automate-obsidian-with-n8n-and-webhooks/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/automate-obsidian-with-n8n-and-webhooks/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/automated-meeting-note-generation-with-n8n-obsidian/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/automated-meeting-note-generation-with-n8n-obsidian/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/automated-meeting-note-generation-with-n8n-obsidian/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/automated-meeting-note-generation-with-n8n-obsidian/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/automating-literature-reviews-using-obsidian-and-n8n/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/automating-literature-reviews-using-obsidian-and-n8n/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/automating-literature-reviews-using-obsidian-and-n8n/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/automating-literature-reviews-using-obsidian-and-n8n/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/automating-obsidian-frontmatter-with-templater-scripts/</loc>
@@ -110,12 +125,18 @@
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/automating-your-task-management-with-obsidian-tasks-plugin/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/automating-your-task-management-with-obsidian-tasks-plugin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/automating-your-task-management-with-obsidian-tasks-plugin/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-apple-shortcuts-for-obsidian-power-users/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-apple-shortcuts-for-obsidian-power-users/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-apple-shortcuts-for-obsidian-power-users/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-apple-shortcuts-for-obsidian-power-users/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-font-pairings-obsidian-minimal-theme-2026/</loc>
@@ -131,12 +152,18 @@
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-n8n-templates-for-obsidian-vault-automation/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-n8n-templates-for-obsidian-vault-automation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-n8n-templates-for-obsidian-vault-automation/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-n8n-workflows-obsidian-automation-2026/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-n8n-workflows-obsidian-automation-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-n8n-workflows-obsidian-automation-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-n8n-workflows-obsidian-automation-2026/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/</loc>
@@ -152,54 +179,81 @@
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-community-plugins-for-recipe-management/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-community-plugins-for-recipe-management/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-community-plugins-for-recipe-management/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-obsidian-plugins-for-academic-researchers-2026/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-plugins-for-academic-researchers-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-plugins-for-academic-researchers-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-plugins-for-academic-researchers-2026/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-obsidian-plugins-for-developers-and-code-snippets/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-plugins-for-developers-and-code-snippets/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-plugins-for-developers-and-code-snippets/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-plugins-for-developers-and-code-snippets/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-obsidian-plugins-for-habit-tracking-2024/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-plugins-for-habit-tracking-2024/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-plugins-for-habit-tracking-2024/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-plugins-for-habit-tracking-2024/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-obsidian-plugins-for-medical-school-students-2026/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-plugins-for-medical-school-students-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-plugins-for-medical-school-students-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-plugins-for-medical-school-students-2026/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-obsidian-tasks-plugin-setup-2026/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-tasks-plugin-setup-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-tasks-plugin-setup-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-tasks-plugin-setup-2026/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-obsidian-themes-for-dark-mode-2026/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-themes-for-dark-mode-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-themes-for-dark-mode-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-themes-for-dark-mode-2026/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-obsidian-themes-for-high-contrast-accessibility-2026/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-themes-for-high-contrast-accessibility-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-themes-for-high-contrast-accessibility-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-themes-for-high-contrast-accessibility-2026/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-obsidian-themes-for-long-form-writing-focus/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-themes-for-long-form-writing-focus/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-themes-for-long-form-writing-focus/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-themes-for-long-form-writing-focus/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/best-obsidian-themes-for-writing-longform-content/</loc>
@@ -215,30 +269,45 @@
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-templater-snippet-collections-for-obsidian-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-templater-snippet-collections-for-obsidian-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-templater-snippet-collections-for-obsidian-2026/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/building-a-second-brain-using-obsidian-and-readwise/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/building-a-second-brain-using-obsidian-and-readwise/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/building-a-second-brain-using-obsidian-and-readwise/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/building-a-second-brain-using-obsidian-and-readwise/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/building-automated-weekly-reviews-with-templater-variables/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/building-automated-weekly-reviews-with-templater-variables/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/building-automated-weekly-reviews-with-templater-variables/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/building-automated-weekly-reviews-with-templater-variables/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/canvas-for-obsidian-infinite-whiteboard-ideas/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/canvas-for-obsidian-infinite-whiteboard-ideas/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/canvas-for-obsidian-infinite-whiteboard-ideas/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/canvas-for-obsidian-infinite-whiteboard-ideas/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/comparing-obsidian-frontmatter-vs-inline-dataview-fields/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/comparing-obsidian-frontmatter-vs-inline-dataview-fields/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/comparing-obsidian-frontmatter-vs-inline-dataview-fields/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/comparing-obsidian-frontmatter-vs-inline-dataview-fields/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/comparing-obsidian-git-vs-icloud-for-vault-syncing/</loc>
@@ -251,6 +320,9 @@
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/comparing-obsidian-metadata-menu-vs-database-folder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/comparing-obsidian-metadata-menu-vs-database-folder/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/comparing-obsidian-metadata-menu-vs-database-folder/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/posts/comparison-of-mobile-markdown-editors-for-ios-android/</loc>
@@ -380,6 +452,12 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/hovernotes-for-timestamped-video-notes-obsidian/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/how-to-automate-obsidian-with-n8n-webhooks/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -614,6 +692,12 @@
   </url>
   <url>
     <loc>https://notes-automate.com/posts/n8n-obsidian-integration-for-automated-web-capture/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/posts/n8n-vs-make-obsidian-automation-workflows/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1120,6 +1204,15 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/"/>
   </url>
   <url>
+    <loc>https://notes-automate.com/zh-cn/posts/advanced-obsidian-templates-for-literature-review-matrix/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/advanced-obsidian-templates-for-literature-review-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/advanced-obsidian-templates-for-literature-review-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/advanced-obsidian-templates-for-literature-review-matrix/"/>
+  </url>
+  <url>
     <loc>https://notes-automate.com/zh-cn/posts/applying-the-para-method-to-an-obsidian-vault/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -1127,6 +1220,42 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/applying-the-para-method-to-an-obsidian-vault/"/>
     <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/applying-the-para-method-to-an-obsidian-vault/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/applying-the-para-method-to-an-obsidian-vault/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/automate-obsidian-daily-notes-using-python/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/automate-obsidian-daily-notes-using-python/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/automate-obsidian-daily-notes-using-python/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/automate-obsidian-daily-notes-using-python/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/automate-obsidian-with-n8n-and-webhooks/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/automate-obsidian-with-n8n-and-webhooks/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/automate-obsidian-with-n8n-and-webhooks/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/automate-obsidian-with-n8n-and-webhooks/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/automated-meeting-note-generation-with-n8n-obsidian/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/automated-meeting-note-generation-with-n8n-obsidian/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/automated-meeting-note-generation-with-n8n-obsidian/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/automated-meeting-note-generation-with-n8n-obsidian/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/automating-literature-reviews-using-obsidian-and-n8n/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/automating-literature-reviews-using-obsidian-and-n8n/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/automating-literature-reviews-using-obsidian-and-n8n/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/automating-literature-reviews-using-obsidian-and-n8n/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/zh-cn/posts/automating-obsidian-frontmatter-with-templater-scripts/</loc>
@@ -1138,6 +1267,24 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/automating-obsidian-frontmatter-with-templater-scripts/"/>
   </url>
   <url>
+    <loc>https://notes-automate.com/zh-cn/posts/automating-your-task-management-with-obsidian-tasks-plugin/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/automating-your-task-management-with-obsidian-tasks-plugin/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/automating-your-task-management-with-obsidian-tasks-plugin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/automating-your-task-management-with-obsidian-tasks-plugin/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/best-apple-shortcuts-for-obsidian-power-users/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-apple-shortcuts-for-obsidian-power-users/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-apple-shortcuts-for-obsidian-power-users/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-apple-shortcuts-for-obsidian-power-users/"/>
+  </url>
+  <url>
     <loc>https://notes-automate.com/zh-cn/posts/best-font-pairings-obsidian-minimal-theme-2026/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -1145,6 +1292,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-font-pairings-obsidian-minimal-theme-2026/"/>
     <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-font-pairings-obsidian-minimal-theme-2026/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-font-pairings-obsidian-minimal-theme-2026/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/best-n8n-templates-for-obsidian-vault-automation/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-n8n-templates-for-obsidian-vault-automation/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-n8n-templates-for-obsidian-vault-automation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-n8n-templates-for-obsidian-vault-automation/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/best-n8n-workflows-obsidian-automation-2026/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-n8n-workflows-obsidian-automation-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-n8n-workflows-obsidian-automation-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-n8n-workflows-obsidian-automation-2026/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/zh-cn/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/</loc>
@@ -1156,6 +1321,87 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/"/>
   </url>
   <url>
+    <loc>https://notes-automate.com/zh-cn/posts/best-obsidian-community-plugins-for-recipe-management/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-community-plugins-for-recipe-management/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-community-plugins-for-recipe-management/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-community-plugins-for-recipe-management/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/best-obsidian-plugins-for-academic-researchers-2026/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-plugins-for-academic-researchers-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-plugins-for-academic-researchers-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-plugins-for-academic-researchers-2026/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/best-obsidian-plugins-for-developers-and-code-snippets/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-plugins-for-developers-and-code-snippets/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-plugins-for-developers-and-code-snippets/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-plugins-for-developers-and-code-snippets/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/best-obsidian-plugins-for-habit-tracking-2024/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-plugins-for-habit-tracking-2024/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-plugins-for-habit-tracking-2024/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-plugins-for-habit-tracking-2024/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/best-obsidian-plugins-for-medical-school-students-2026/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-plugins-for-medical-school-students-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-plugins-for-medical-school-students-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-plugins-for-medical-school-students-2026/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/best-obsidian-tasks-plugin-setup-2026/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-tasks-plugin-setup-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-tasks-plugin-setup-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-tasks-plugin-setup-2026/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/best-obsidian-themes-for-dark-mode-2026/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-themes-for-dark-mode-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-themes-for-dark-mode-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-themes-for-dark-mode-2026/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/best-obsidian-themes-for-high-contrast-accessibility-2026/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-themes-for-high-contrast-accessibility-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-themes-for-high-contrast-accessibility-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-themes-for-high-contrast-accessibility-2026/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/best-obsidian-themes-for-long-form-writing-focus/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-themes-for-long-form-writing-focus/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-themes-for-long-form-writing-focus/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-themes-for-long-form-writing-focus/"/>
+  </url>
+  <url>
     <loc>https://notes-automate.com/zh-cn/posts/best-obsidian-themes-for-writing-longform-content/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -1163,6 +1409,60 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-obsidian-themes-for-writing-longform-content/"/>
     <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-obsidian-themes-for-writing-longform-content/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-obsidian-themes-for-writing-longform-content/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/best-templater-snippet-collections-for-obsidian-2026/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/best-templater-snippet-collections-for-obsidian-2026/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/best-templater-snippet-collections-for-obsidian-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/best-templater-snippet-collections-for-obsidian-2026/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/building-a-second-brain-using-obsidian-and-readwise/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/building-a-second-brain-using-obsidian-and-readwise/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/building-a-second-brain-using-obsidian-and-readwise/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/building-a-second-brain-using-obsidian-and-readwise/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/building-automated-weekly-reviews-with-templater-variables/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/building-automated-weekly-reviews-with-templater-variables/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/building-automated-weekly-reviews-with-templater-variables/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/building-automated-weekly-reviews-with-templater-variables/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/canvas-for-obsidian-infinite-whiteboard-ideas/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/canvas-for-obsidian-infinite-whiteboard-ideas/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/canvas-for-obsidian-infinite-whiteboard-ideas/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/canvas-for-obsidian-infinite-whiteboard-ideas/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/comparing-obsidian-frontmatter-vs-inline-dataview-fields/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/comparing-obsidian-frontmatter-vs-inline-dataview-fields/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/comparing-obsidian-frontmatter-vs-inline-dataview-fields/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/comparing-obsidian-frontmatter-vs-inline-dataview-fields/"/>
+  </url>
+  <url>
+    <loc>https://notes-automate.com/zh-cn/posts/comparing-obsidian-metadata-menu-vs-database-folder/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://notes-automate.com/posts/comparing-obsidian-metadata-menu-vs-database-folder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://notes-automate.com/zh-cn/posts/comparing-obsidian-metadata-menu-vs-database-folder/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://notes-automate.com/posts/comparing-obsidian-metadata-menu-vs-database-folder/"/>
   </url>
   <url>
     <loc>https://notes-automate.com/zh-cn/posts/how-to-use-obsidian-dataview-for-beginners/</loc>
