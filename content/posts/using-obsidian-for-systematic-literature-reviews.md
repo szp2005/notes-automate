@@ -8,6 +8,8 @@ tags: ["Obsidian", "systematic literature review", "academic research", "knowled
 slug: "using-obsidian-for-systematic-literature-reviews"
 type: "review"
 ---
+
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 # Using Obsidian for Systematic Literature Reviews: A Complete Guide
 
 > **Quick Answer:** Obsidian offers a powerful, flexible, and privacy-focused environment for systematic literature reviews by leveraging its plain-text markdown files, robust linking capabilities, and extensive plugin ecosystem. [Researchers](/posts/obsidian-vs-heptabase-for-visual-research-workflows/) can efficiently capture, organize, synthesize, and visualize data, transforming raw literature into actionable insights and significantly streamlining the entire review process.
@@ -140,7 +142,7 @@ Finally, while Obsidian itself is not a publishing platform, its Markdown-based 
 
 Obsidian's true power for systematic literature reviews is unlocked through its vibrant plugin ecosystem. These tools extend its functionality, making it possible to manage references, query data, and visualize complex information with ease. Here are some indispensable plugins for your SLR workflow:
 
-### 1. Dataview Plugin
+### 1. [Dataview Plugin](https://www.amazon.com/s?k=Dataview%20Plugin&tag=notesautomate-20)
 
 **Best for:** Dynamic data querying, organization, and summary tables
 **Price:** Free
@@ -157,7 +159,7 @@ The Dataview plugin transforms your Obsidian vault into a powerful database, all
 - Requires learning a specific query syntax, which can have a learning curve.
 - Performance can degrade slightly with extremely large vaults and complex queries.
 
-### 2. Zotero Integration Plugin
+### 2. [Zotero Integration Plugin](https://www.amazon.com/s?k=Zotero%20Integration%20Plugin&tag=notesautomate-20)
 
 **Best for:** Seamless integration with Zotero reference manager, automated note creation
 **Price:** Free
@@ -174,7 +176,7 @@ The Zotero Integration plugin bridges the gap between your reference manager (Zo
 - Requires Zotero to be installed and running.
 - Configuration can be slightly complex for advanced features.
 
-### 3. Excalidraw Plugin
+### 3. [Excalidraw Plugin](https://www.amazon.com/s?k=Excalidraw%20Plugin&tag=notesautomate-20)
 
 **Best for:** Visualizing concepts, creating diagrams, flowcharts, and conceptual models
 **Price:** Free

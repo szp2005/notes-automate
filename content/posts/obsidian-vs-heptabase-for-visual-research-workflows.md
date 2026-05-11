@@ -9,6 +9,8 @@ slug: "obsidian-vs-heptabase-for-visual-research-workflows"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Obsidian vs Heptabase for Visual Research Workflows: Which Is Better?
 
 > **Quick Answer:** For pure, frictionless visual sense-making with heavy PDF integration, Heptabase is the superior choice due to its purpose-built architecture. However, if data [privacy](/posts/configuring-obsidian-for-end-to-end-encrypted-sync/), offline-first storage, and deep customization are your priorities, Obsidian with its native Canvas plugin offers a highly capable, budget-friendly alternative for visual research workflows.
@@ -37,7 +39,7 @@ Both Obsidian and Heptabase aim to solve these challenges, but they approach the
 
 Below is a breakdown of how each application positions itself as a tool for visual thinkers.
 
-### 1. Obsidian (with Canvas)
+### 1. [Obsidian (with Canvas)](https://www.amazon.com/s?k=Obsidian%20%28with%20Canvas%29&tag=notesautomate-20)
 
 **Best for:** Privacy-conscious researchers and offline-first builders
 **Price:** $0-$50/year (Sync is $48/year)
@@ -54,7 +56,7 @@ Obsidian is a powerful, local-first markdown knowledge base that introduced its 
 - Canvas performance can degrade significantly with hundreds of embedded PDFs
 - Lacks native database features for structuring visual cards without relying on plugins
 
-### 2. Heptabase
+### 2. [Heptabase](https://www.amazon.com/s?k=Heptabase&tag=notesautomate-20)
 
 **Best for:** [Academic researchers](/posts/using-obsidian-for-longitudinal-research-data-tracking/) and visual sense-makers
 **Price:** $8.99-$11.99/month

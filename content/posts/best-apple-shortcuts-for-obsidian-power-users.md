@@ -9,6 +9,8 @@ slug: "best-apple-shortcuts-for-obsidian-power-users"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Best Apple Shortcuts for Obsidian Power Users in 2026
 
 > **Quick Answer:** The best Apple Shortcuts for Obsidian rely on dedicated integration apps and plugins to bridge the gap between iOS/macOS and your local vault. **Actions for Obsidian** is the top premium choice for creating robust, native-feeling shortcuts across Apple devices without complex URL schemes, while the **Obsidian Advanced URI** plugin is the best free alternative for users comfortable with customizing URL parameters for automated note creation and appending.
@@ -23,7 +25,7 @@ In this comprehensive guide, we review the top tools and shortcut integrations a
 
 To build powerful shortcuts, you first need a bridge between Apple's shortcut engine and your vault. Here are the top tools that enable these advanced workflows.
 
-### 1. Actions for Obsidian
+### 1. [Actions for Obsidian](https://www.amazon.com/s?k=Actions%20for%20Obsidian&tag=notesautomate-20)
 
 **Best for:** Users who want native, easy-to-use shortcut actions without coding
 **Price:** $15.00-$20.00
@@ -42,7 +44,7 @@ For power users, this tool drastically reduces the friction of building automati
 - Requires a paid license (separate for iOS and macOS, though bundled options exist)
 - Requires a companion Obsidian plugin to be continuously active in your vault
 
-### 2. Obsidian Advanced URI Plugin
+### 2. [Obsidian Advanced URI Plugin](https://www.amazon.com/s?k=Obsidian%20Advanced%20URI%20Plugin&tag=notesautomate-20)
 
 **Best for:** Technical users who want free, limitless customization
 **Price:** $0.00-$0.00
@@ -61,7 +63,7 @@ To use this with Apple Shortcuts, you simply use the native "Open URL" action an
 - Steep learning curve for formatting and encoding URLs correctly
 - Harder to debug when a shortcut fails to execute properly on mobile
 
-### 3. Drafts App Integration
+### 3. [Drafts App Integration](https://www.amazon.com/s?k=Drafts%20App%20Integration&tag=notesautomate-20)
 
 **Best for:** Writers focused on pure text capture speed and processing
 **Price:** $0.00-$19.99/year
@@ -80,7 +82,7 @@ While not purely an Obsidian shortcut by itself, Drafts relies heavily on Apple 
 - Requires Drafts Pro subscription for the most advanced automation features
 - Adds another inbox that you must remember to process or empty regularly
 
-### 4. ToolBox Pro for Obsidian Workflows
+### 4. [ToolBox Pro for Obsidian Workflows](https://www.amazon.com/s?k=ToolBox%20Pro%20for%20Obsidian%20Workflows&tag=notesautomate-20)
 
 **Best for:** Users needing advanced filesystem operations and background processing
 **Price:** $0.00-$5.99
@@ -99,7 +101,7 @@ By using ToolBox Pro's advanced file handling capabilities, you can create a sho
 - Only works if your vault is stored in iCloud Drive (incompatible with Obsidian Sync)
 - Setup requires a strong technical understanding of file paths and Markdown extensions
 
-### 5. Native iOS Files Integration (iCloud Vaults)
+### 5. [Native iOS Files Integration (iCloud Vaults)](https://www.amazon.com/s?k=Native%20iOS%20Files%20Integration%20%28iCloud%20Vaults%29&tag=notesautomate-20)
 
 **Best for:** Minimalists who want no third-party plugins or apps
 **Price:** $0.00-$0.00

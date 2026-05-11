@@ -9,6 +9,8 @@ slug: "obsidian-vs-citavi-for-managing-research-citations"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Obsidian vs Citavi: Which is Better for Research Citations in 2026?
 
 > **Quick Answer:** For dedicated, comprehensive research citation management, including bibliography generation and task organization, Citavi is the superior choice. Obsidian, while excellent for personal [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/) and linking ideas, requires significant customization and external plugins to achieve basic citation functionality, making it less ideal as a primary citation manager for most academic workflows.
@@ -67,7 +69,7 @@ When evaluating Obsidian and Citavi for research citation management, it's cruci
 
 ---
 
-### 1. Citavi
+### 1. [Citavi](https://www.amazon.com/s?k=Citavi&tag=notesautomate-20)
 
 **Best for:** [Academic researchers](/posts/using-obsidian-for-longitudinal-research-data-tracking/), students, and teams requiring comprehensive, dedicated citation management, knowledge organization, and project planning.
 **Price:** Free (limited to 100 references); Student/Staff licenses often free via institutions; Commercial licenses from $149-$299 (one-time purchase) or subscription options.
@@ -87,7 +89,7 @@ Citavi is a robust, all-in-one solution designed from the ground up to support t
 - Steeper learning curve due to extensive features.
 - Free version is limited to 100 references per project.
 
-### 2. Obsidian
+### 2. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=notesautomate-20)
 
 **Best for:** Personal knowledge managers, researchers prioritizing flexible note-taking, conceptual linking, and highly customizable workflows, often in conjunction with a dedicated reference manager.
 **Price:** Free (core application); Obsidian Sync ($10/month) and Obsidian Publish ($20/month) for extended features.

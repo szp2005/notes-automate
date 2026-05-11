@@ -9,6 +9,8 @@ slug: "best-obsidian-tasks-plugin-setup-2026"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Best Obsidian Tasks Plugin Setup 2026: Complete Guide
 
 > **Quick Answer:** The best Obsidian Tasks plugin setup for 2026 combines the core **Tasks** plugin with **Dataview** for advanced dashboarding, **Day Planner** for time-blocking, and **Periodic Notes** for automated routines. This specific stack transforms standard markdown checklists into a fully queryable, dynamic task management system that rivals dedicated applications like Todoist or TickTick, all while keeping your data local.
@@ -23,7 +25,7 @@ This guide breaks down the definitive components of the optimal setup, how to co
 
 To build a resilient task management [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/), you need the right combination of tools. While the core Obsidian Tasks plugin is the engine, these companion plugins form the chassis of a complete [productivity](/posts/obsidian-vs-reflect-for-fast-daily-journaling/) system.
 
-### 1. Obsidian Tasks Plugin
+### 1. [Obsidian Tasks Plugin](https://www.amazon.com/s?k=Obsidian%20Tasks%20Plugin&tag=notesautomate-20)
 
 **Best for:** Core task tracking, [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) assignment, and querying
 **Price:** Free
@@ -40,7 +42,7 @@ The official Obsidian Tasks plugin remains the undisputed foundation for local t
 - Requires learning a specific block-code query language
 - Heavy reliance on inline emojis which some users find visually cluttered
 
-### 2. Dataview Plugin
+### 2. [Dataview Plugin](https://www.amazon.com/s?k=Dataview%20Plugin&tag=notesautomate-20)
 
 **Best for:** Custom [dashboards](/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/) and advanced metadata extraction
 **Price:** Free
@@ -57,7 +59,7 @@ While the Tasks plugin handles standard task queries beautifully, Dataview provi
 - Steep learning curve for non-programmers
 - Can impact vault load times if overused on a single note
 
-### 3. Periodic Notes
+### 3. [Periodic Notes](https://www.amazon.com/s?k=Periodic%20Notes&tag=notesautomate-20)
 
 **Best for:** Integrating tasks with daily and weekly reviews
 **Price:** Free
@@ -74,7 +76,7 @@ Periodic Notes is the connective tissue between your tasks and your calendar. Th
 - Requires upfront template design and configuration
 - Can lead to empty file clutter if you miss days
 
-### 4. Day Planner
+### 4. [Day Planner](https://www.amazon.com/s?k=Day%20Planner&tag=notesautomate-20)
 
 **Best for:** Visual time-blocking of daily tasks
 **Price:** Free
@@ -91,7 +93,7 @@ Day Planner takes the tasks you have scheduled for the current day and renders t
 - Strict formatting required for timestamps to register
 - UI can feel cramped on smaller laptop screens
 
-### 5. Obsidian Kanban
+### 5. [Obsidian Kanban](https://www.amazon.com/s?k=Obsidian%20Kanban&tag=notesautomate-20)
 
 **Best for:** Visual [project management](/posts/obsidian-project-management-academic-research-teams/) alongside standard tasks
 **Price:** Free
@@ -118,7 +120,7 @@ Never navigate through folders to log a task. All new tasks should be written in
 
 Because you assigned the project tag, you don't need to move the physical text. The global query on your Project Note will automatically find it.
 
-### 2. Standardizing Statuses
+### 2. [Standardizing Statuses](https://www.amazon.com/s?k=Standardizing%20Statuses&tag=notesautomate-20)
 
 Obsidian Tasks supports custom statuses beyond the standard open `[ ]` and closed `[x]`. Configure your Tasks settings to recognize:
 - `[/]` for In Progress
@@ -127,7 +129,7 @@ Obsidian Tasks supports custom statuses beyond the standard open `[ ]` and close
 
 This allows your queries to filter out tasks you decided not to do, without deleting the historical record of them.
 
-### 3. Setting Up the Global Dashboard
+### 3. [Setting Up the Global Dashboard](https://www.amazon.com/s?k=Setting%20Up%20the%20Global%20Dashboard&tag=notesautomate-20)
 
 Your "Master Dashboard" should be a single note pinned to your workspace. This dashboard uses code blocks to partition your workload into distinct, actionable segments.
 

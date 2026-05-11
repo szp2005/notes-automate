@@ -9,6 +9,8 @@ slug: "building-automated-weekly-reviews-with-templater-variables"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Building Automated Weekly Reviews With Templater Variables
 
 > **Quick Answer:** Building automated weekly reviews with templater variables requires combining [Obsidian](/posts/obsidian-vs-reflect-for-fast-daily-journaling/)'s Templater plugin with dynamic date functions (like `<% tp.date.now() %>`) to auto-populate headers, fetch weekly metrics, and roll up daily notes. This eliminates manual data entry, reducing a typical 45-minute weekly review administrative setup to under 2 seconds.
@@ -31,7 +33,7 @@ Unlike query-based tools that render data visually without altering the underlyi
 
 To execute this architecture flawlessly, you need a precise stack of Obsidian plugins. Here are the core tools evaluated specifically for their utility in a weekly review [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
 
-### 1. Templater Plugin
+### 1. [Templater Plugin](https://www.amazon.com/s?k=Templater%20Plugin&tag=notesautomate-20)
 
 **Best for:** Core template automation and script execution
 **Price:** Free
@@ -48,7 +50,7 @@ Templater replaces Obsidian's native, simplistic template functionality with a r
 - Steep learning curve for users unfamiliar with coding syntax
 - Requires strict folder structures to trigger folder [templates](/posts/advanced-obsidian-templates-for-literature-review-matrix/) properly
 
-### 2. Periodic Notes Plugin
+### 2. [Periodic Notes Plugin](https://www.amazon.com/s?k=Periodic%20Notes%20Plugin&tag=notesautomate-20)
 
 **Best for:** Date-based file management and automated routing
 **Price:** Free
@@ -65,7 +67,7 @@ Periodic Notes handles the infrastructure and routing of your weekly review. It 
 - Development cycle and feature updates have historically been slow
 - Can conflict with core Obsidian daily notes if both are left active
 
-### 3. Dataview Plugin
+### 3. [Dataview Plugin](https://www.amazon.com/s?k=Dataview%20Plugin&tag=notesautomate-20)
 
 **Best for:** Querying tasks and logs for review aggregation
 **Price:** Free
@@ -82,7 +84,7 @@ While Templater builds the static structure of the review note, Dataview pulls i
 - Data is rendered dynamically, meaning it isn't statically saved in the file
 - Extremely heavy queries across large vaults can cause temporary UI lag
 
-### 4. Tracker Plugin
+### 4. [Tracker Plugin](https://www.amazon.com/s?k=Tracker%20Plugin&tag=notesautomate-20)
 
 **Best for:** Habit tracking and quantitative metric visualization
 **Price:** Free

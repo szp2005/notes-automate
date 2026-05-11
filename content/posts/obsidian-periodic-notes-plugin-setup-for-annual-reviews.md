@@ -9,6 +9,8 @@ slug: "obsidian-periodic-notes-plugin-setup-for-annual-reviews"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Obsidian Periodic Notes Plugin Setup for Annual Reviews: Complete Guide
 
 > **Quick Answer:** The optimal Obsidian periodic notes plugin setup for annual reviews requires combining the Periodic Notes plugin with [Templater](/posts/automating-obsidian-frontmatter-with-templater-scripts/) and [Dataview](/posts/creating-automated-index-pages-with-obsidian-dataview/). Enable the "Yearly Notes" toggle, assign a dedicated template file containing your reflection prompts, and configure the folder destination to automatically aggregate your monthly and quarterly rollups into a single end-of-year dashboard.
@@ -23,7 +25,7 @@ This guide details the exact Obsidian periodic notes plugin setup for annual rev
 
 To build an automated, friction-free annual review system, you need three specific community [plugins](/posts/periodic-notes-plugin-weekly-reviews/) working in tandem. Here is a review of the essential components for your stack.
 
-### 1. Periodic Notes Plugin
+### 1. [Periodic Notes Plugin](https://www.amazon.com/s?k=Periodic%20Notes%20Plugin&tag=notesautomate-20)
 
 **Best for:** Time-based vault organization and macro-level reviews
 **Price:** Free
@@ -40,7 +42,7 @@ The Periodic Notes plugin by Liam Cain is the structural foundation of this [wor
 - Base setup requires understanding formatting tokens
 - Does not automatically pull data without other plugins
 
-### 2. Templater Plugin
+### 2. [Templater Plugin](https://www.amazon.com/s?k=Templater%20Plugin&tag=notesautomate-20)
 
 **Best for:** Dynamic text insertion and automated review prompts
 **Price:** Free
@@ -57,7 +59,7 @@ While Periodic Notes handles the creation of your yearly review file, Templater 
 - Syntax syntax can be punishing for [beginners](/posts/obsidian-vault-structure-digital-gardening-beginners/)
 - Excessive automation can lead to bloated notes
 
-### 3. Dataview Plugin
+### 3. [Dataview Plugin](https://www.amazon.com/s?k=Dataview%20Plugin&tag=notesautomate-20)
 
 **Best for:** Aggregating accomplishments and metrics
 **Price:** Free

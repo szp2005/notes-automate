@@ -33,6 +33,8 @@ slug: "obsidian-vs-notion-api-for-automated-workflows"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Obsidian vs Notion API for Automated Workflows: 2026 Comparison
 
 > **Quick Answer:** For cloud-based, multi-user automation with deep native integrations (Zapier, Make), the **Notion API** is superior. However, if you require absolute data privacy, offline execution, and unlimited local file manipulation without rate limits, **Obsidian's local API and file-based approach** is the better choice for automated workflows.
@@ -45,7 +47,7 @@ This comprehensive guide evaluates both approaches for building robust, scalable
 
 ## Core Platform Reviews
 
-### 1. Notion API
+### 1. [Notion API](https://www.amazon.com/s?k=Notion%20API&tag=notesautomate-20)
 
 **Best for:** Cloud-first teams, web developers, and users of iPaaS tools like Zapier, Make, or cloud n8n.
 **Price:** Free API access; Notion plans range from $0-$15/user/month.
@@ -63,7 +65,7 @@ The Notion API provides standard RESTful endpoints to interact with your Notion 
 - Cloud dependency means workflows break when offline or during Notion server outages.
 - High complexity when parsing nested block structures compared to plain text.
 
-### 2. Obsidian API (and Local File System)
+### 2. [Obsidian API (and Local File System)](https://www.amazon.com/s?k=Obsidian%20API%20%28and%20Local%20File%20System%29&tag=notesautomate-20)
 
 **Best for:** Solo developers, privacy advocates, power users, and those running local automation scripts (Python, bash, local Node.js).
 **Price:** Free for personal use; $50/user/year for commercial use.

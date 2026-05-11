@@ -8,6 +8,8 @@ tags: ["Obsidian themes", "long-form writing", "productivity", "writing tools"]
 slug: "best-obsidian-themes-for-long-form-writing-focus"
 type: "review"
 ---
+
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 # Best Obsidian Themes for Long-Form Writing Focus in 2026
 
 > **Quick Answer:** The best Obsidian themes for long-form writing focus prioritize readability, minimize interface clutter, and offer customizable typography to create a distraction-free environment, with themes like "Evergreen" and "Zenith" consistently ranking high for their clean design and ergonomic features.
@@ -36,7 +38,7 @@ Thirdly, **[customization](/posts/minimal-theme-for-obsidian-customization-tips/
 
 Here are our top picks for Obsidian themes that excel in providing a focused and comfortable environment for long-form writing.
 
-### 1. Evergreen
+### 1. [Evergreen](https://www.amazon.com/s?k=Evergreen&tag=notesautomate-20)
 
 **Best for:** Writers seeking a balanced, calm, and highly readable environment.
 **Price:** Free / Community-driven
@@ -55,7 +57,7 @@ Evergreen is celebrated for its serene aesthetic and exceptional readability, ma
 - Some users might find its default color scheme too subdued.
 - Limited advanced customization options without CSS snippets.
 
-### 2. Zenith
+### 2. [Zenith](https://www.amazon.com/s?k=Zenith&tag=notesautomate-20)
 
 **Best for:** Ultra-minimalists and those who demand absolute focus.
 **Price:** Free / Community-driven
@@ -74,7 +76,7 @@ Zenith takes minimalism to an extreme, offering an almost entirely distraction-f
 - Can feel too stark for users who prefer some visual guidance.
 - May require a slight learning curve to navigate the hidden UI.
 
-### 3. Typewriter
+### 3. [Typewriter](https://www.amazon.com/s?k=Typewriter&tag=notesautomate-20)
 
 **Best for:** Writers who appreciate a classic, fixed-width, and nostalgic writing experience.
 **Price:** Free / Community-driven
@@ -93,7 +95,7 @@ The Typewriter theme brings a touch of vintage charm to Obsidian, recreating the
 - Monospaced fonts aren't preferred by all for long-form reading.
 - Less modern visual appeal compared to other themes.
 
-### 4. Writer's Block
+### 4. [Writer's Block](https://www.amazon.com/s?k=Writer%27s%20Block&tag=notesautomate-20)
 
 **Best for:** Structured writers needing a clean interface with good markdown distinction.
 **Price:** Free / Community-driven
@@ -112,7 +114,7 @@ Writer's Block is a modern, clean theme that strikes a balance between minimalis
 - Might not be as aggressively minimalist as Zenith.
 - Some users might prefer even less styling on markdown elements.
 
-### 5. FocusFlow
+### 5. [FocusFlow](https://www.amazon.com/s?k=FocusFlow&tag=notesautomate-20)
 
 **Best for:** Ergonomic writing with a focus on visual comfort and flow.
 **Price:** Free / Community-driven

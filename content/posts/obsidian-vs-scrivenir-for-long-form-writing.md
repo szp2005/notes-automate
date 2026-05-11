@@ -9,6 +9,8 @@ slug: "obsidian-vs-scrivenir-for-long-form-writing"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Obsidian vs Scrivener for Long-Form Writing: Which Is Better?
 
 > **Quick Answer:** For long-form writing, Scrivener excels with its structured [project management](/posts/obsidian-project-management-academic-research-teams/), compilation features, and dedicated writing environment, making it ideal for novelists and academics. Obsidian, while highly flexible and powerful for [knowledge management](/posts/using-obsidian-for-long-term-evergreen-note-management/), requires more setup for traditional long-form projects but offers unparalleled linking and extensibility for researchers and non-linear thinkers.
@@ -23,7 +25,7 @@ This article provides a comprehensive comparison of Obsidian and Scrivener, eval
 
 Obsidian has rapidly gained popularity as a powerful tool for [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) and networked thought. At its core, Obsidian is a markdown-based, local-first application that allows users to create and link notes, building a "second brain" of interconnected ideas. While not explicitly designed as a long-form writing application, its flexibility and robust plugin ecosystem make it a compelling option for writers who prioritize interconnectedness, deep research, and a highly customizable [workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/).
 
-### 1. Obsidian
+### 1. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=notesautomate-20)
 
 **Best for:** Researchers, non-linear thinkers, technical writers, academics managing vast interconnected information, and those who value extreme customization and a local-first approach.
 **Price:** Free (personal use), $50 (Catalyst license for early access/support), $8/month (Obsidian Sync), $10/month (Obsidian Publish).
@@ -50,7 +52,7 @@ Obsidian operates on plain text Markdown files stored locally on your device, en
 
 Scrivener, developed by Literature & Latte, is widely regarded as the industry standard for long-form writing, particularly among novelists, screenwriters, and academics. Unlike traditional word processors, Scrivener is designed from the ground up to manage complex writing projects, breaking them down into manageable chunks and providing a comprehensive suite of tools for organization, drafting, and compilation. It aims to be an all-in-one environment for writers, allowing them to focus on the creative process without getting bogged down by file management or formatting issues.
 
-### 2. Scrivener
+### 2. [Scrivener](https://www.amazon.com/s?k=Scrivener&tag=notesautomate-20)
 
 **Best for:** Novelists, screenwriters, academics, researchers, and anyone needing structured project management, robust compilation, and a dedicated writing environment for a single, large project.
 **Price:** $59.99 (one-time purchase for Windows/macOS), $23.99 (iOS).

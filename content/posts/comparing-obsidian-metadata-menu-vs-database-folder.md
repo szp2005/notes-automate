@@ -9,6 +9,8 @@ slug: "comparing-obsidian-metadata-menu-vs-database-folder"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Obsidian Metadata Menu vs. Database Folder: Which is Best for Your [Workflow](/posts/streamlining-your-daily-note-workflow-for-better-productivity/)?
 
 > **Quick Answer:** The Obsidian Metadata Menu excels in creating highly structured, queryable data fields within individual notes, ideal for complex data management and [automation](/posts/templater-plugin-tutorial-for-obsidian-power-users/), while the Database Folder plugin offers a visual, spreadsheet-like interface for managing collections of notes, best suited for project tracking and visual organization. Your choice depends on whether you prioritize deep programmatic control over individual note properties or a user-friendly, table-based view for groups of notes.
@@ -25,7 +27,7 @@ Metadata, simply put, is data about data. In the context of Obsidian, it refers 
 
 The ability to define, input, and retrieve metadata efficiently is key to scaling your [personal knowledge management](/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/) system. Without it, finding specific information across hundreds or thousands of notes can become a daunting task, diminishing the value of your interconnected knowledge graph. Both Metadata Menu and Database Folder address this challenge, but with fundamentally different architectural approaches and user experiences. One focuses on enriching individual notes with robust, interactive properties, while the other aims to provide a centralized, visual overview of multiple notes as if they were rows in a database.
 
-### 1. Obsidian Metadata Menu Plugin
+### 1. [Obsidian Metadata Menu Plugin](https://www.amazon.com/s?k=Obsidian%20Metadata%20Menu%20Plugin&tag=notesautomate-20)
 
 **Best for:** Users requiring highly structured, validated, and programmatically accessible metadata fields within individual notes, complex data querying, and automation.
 **Price:** Free (Community Plugin)
@@ -48,7 +50,7 @@ The Obsidian Metadata Menu plugin revolutionizes how you interact with frontmatt
 -   **Configuration Heavy:** Requires significant configuration in its settings to define fields and behaviors.
 -   **No Native Table View:** Doesn't inherently provide a spreadsheet-like view of multiple notes' metadata without Dataview.
 
-### 2. Obsidian Database Folder Plugin
+### 2. [Obsidian Database Folder Plugin](https://www.amazon.com/s?k=Obsidian%20Database%20Folder%20Plugin&tag=notesautomate-20)
 
 **Best for:** Users who prefer a visual, spreadsheet-like interface for managing collections of notes, project tracking, task management, and quick overview of related items.
 **Price:** Free (Community Plugin)

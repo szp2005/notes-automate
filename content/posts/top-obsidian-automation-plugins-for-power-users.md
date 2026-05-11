@@ -32,6 +32,8 @@ slug: "top-obsidian-automation-plugins-for-power-users"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Top Obsidian Automation Plugins for Power Users in 2026
 
 > **Quick Answer:** The top Obsidian automation plugins for power users are Templater for dynamic content generation, QuickAdd for rapid data entry without context switching, Dataview for turning folders into dynamic databases, and Linter for automated formatting. Using these tools in tandem eliminates repetitive manual work and scales your personal knowledge management system.
@@ -55,7 +57,7 @@ Implementing tools across these three categories creates a self-maintaining vaul
 
 ## Best Obsidian Automation Plugins
 
-### 1. Templater
+### 1. [Templater](https://www.amazon.com/s?k=Templater&tag=notesautomate-20)
 
 **Best for:** Advanced template creation and dynamic content generation
 **Price:** Free
@@ -74,7 +76,7 @@ You can configure it to automatically run scripts when a new file is created in 
 - Steep learning curve for users unfamiliar with basic scripting or JavaScript
 - Can slow down note creation slightly if executing highly complex network requests
 
-### 2. QuickAdd
+### 2. [QuickAdd](https://www.amazon.com/s?k=QuickAdd&tag=notesautomate-20)
 
 **Best for:** Frictionless data capture and workflow macro execution
 **Price:** Free
@@ -93,7 +95,7 @@ For true automation, its Macro feature is unparalleled. Macros allow you to stri
 - Initial setup and configuration of complex macros can be tedious
 - The settings interface can feel overwhelming due to the sheer number of options
 
-### 3. Dataview
+### 3. [Dataview](https://www.amazon.com/s?k=Dataview&tag=notesautomate-20)
 
 **Best for:** Dynamic data retrieval and database-like querying
 **Price:** Free
@@ -112,7 +114,7 @@ While it is technically a retrieval tool, it automates the organization of your 
 - Requires strict adherence to metadata formatting to function correctly
 - Large, complex queries across massive vaults can occasionally impact rendering performance
 
-### 4. Linter
+### 4. [Linter](https://www.amazon.com/s?k=Linter&tag=notesautomate-20)
 
 **Best for:** Automated formatting and metadata standardization
 **Price:** Free
@@ -131,7 +133,7 @@ Linter can automatically format YAML keys, ensure consistent spacing around head
 - Running across a massive vault indiscriminately can cause unintended formatting changes
 - Requires careful initial configuration to match your personal formatting preferences
 
-### 5. Smart Connections
+### 5. [Smart Connections](https://www.amazon.com/s?k=Smart%20Connections&tag=notesautomate-20)
 
 **Best for:** AI-driven note linking and automated surfacing of context
 **Price:** Free (requires API key)

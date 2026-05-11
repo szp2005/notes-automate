@@ -9,6 +9,8 @@ slug: "comparing-obsidian-frontmatter-vs-inline-dataview-fields"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Comparing Obsidian Frontmatter vs Inline Dataview Fields (2026)
 
 > **Quick Answer:** When comparing Obsidian frontmatter vs inline Dataview fields, frontmatter (managed via Core Properties) is best for global, structured document [metadata](/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/) like creation dates, document types, and universal tags. Inline Dataview fields (`Key:: Value`) excel at contextual, paragraph-level [data tracking](/posts/using-obsidian-for-longitudinal-research-data-tracking/) directly within your writing. The most efficient Obsidian vaults utilize a hybrid approach: frontmatter for file-level architecture and inline fields for specific data extraction from daily notes or meeting logs.
@@ -23,7 +25,7 @@ Choosing the right method dictates how you will interact with your notes daily, 
 
 To understand which system aligns with your workflow, we need to evaluate them as distinct tools within your broader [note-taking](/posts/streamlining-your-daily-note-workflow-for-better-productivity/) ecosystem.
 
-### 1. Obsidian Frontmatter (Properties)
+### 1. [Obsidian Frontmatter (Properties)](https://www.amazon.com/s?k=Obsidian%20Frontmatter%20%28Properties%29&tag=notesautomate-20)
 
 **Best for:** File-level organization and standardized vault architecture
 **Price:** Free (Core Feature)
@@ -44,7 +46,7 @@ Because frontmatter sits outside the body text, it acts as a structured database
 - Rigid structure makes it cumbersome for logging multiple rapid entries in a single note
 
 
-### 2. Inline Dataview Fields
+### 2. [Inline Dataview Fields](https://www.amazon.com/s?k=Inline%20Dataview%20Fields&tag=notesautomate-20)
 
 **Best for:** Contextual logging, daily note tracking, and rapid data entry
 **Price:** Free (Requires Dataview Plugin)
