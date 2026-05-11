@@ -6,6 +6,24 @@ evidenceImage:
   caption: "A planning desk with sticky notes, used to represent workflow mapping and hand-picked editorial links."
   credit: "Anastasia Shuraeva / Pexels"
   sourceUrl: "https://www.pexels.com/photo/sticky-notes-and-a-laptop-7278606/"
+editorSummary: >-
+  The value of an Obsidian automation setup is not the template count. It is whether the vault
+  creates the right note with the right metadata at the right moment. This guide should help
+  readers assemble a practical baseline: daily notes, project notes, recurring reviews,
+  capture templates, and a few controlled automations. I would avoid importing a huge template
+  pack before deciding which fields matter, because cleanup becomes harder once hundreds of
+  notes share a weak structure.
+authorNote: >-
+  When reviewing template systems, I look at the third use, not the first. A template that
+  feels impressive once may still be too heavy for daily capture. The best ones disappear into
+  the routine.
+manualRelated:
+  - title: "Advanced Obsidian Templates for Literature Review Matrix"
+    url: "/posts/advanced-obsidian-templates-for-literature-review-matrix/"
+  - title: "Building Automated Weekly Reviews with Templater Variables"
+    url: "/posts/building-automated-weekly-reviews-with-templater-variables/"
+  - title: "Download Automated Obsidian Vault Management Templates"
+    url: "/posts/download-automated-obsidian-vault-management-templates/"
 title: "The Ultimate Obsidian Automation Setup Guide & Premium Templates"
 description: "Master personal knowledge management with our Obsidian automation setup guide and premium templates. Discover workflows that save hours of manual data entry."
 pubDate: "2026-05-07"

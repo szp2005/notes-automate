@@ -6,6 +6,23 @@ evidenceImage:
   caption: "A development laptop screen, used to ground the local AI and automation workflow examples."
   credit: "Christina Morillo / Pexels"
   sourceUrl: "https://www.pexels.com/photo/black-and-gray-laptop-computer-turned-on-doing-computer-codes-1181271/"
+editorSummary: >-
+  Templater user scripts are powerful because they let Obsidian behave like a small local app.
+  That also means they deserve the same caution as code. This guide is most useful if you
+  start with small, named scripts that do one job: format a date, create a note, fetch
+  metadata, or update frontmatter. I would keep scripts in version control, avoid hidden side
+  effects, and test on copied notes before letting a script touch an important vault folder.
+authorNote: >-
+  For Templater scripts, I like keeping a scratch vault nearby. If a script cannot survive a
+  test note with missing fields, odd characters, and an unexpected folder, it is not ready for
+  the main vault.
+manualRelated:
+  - title: "Templater Plugin for Obsidian Dynamic Templates Guide"
+    url: "/posts/templater-plugin-for-obsidian-dynamic-templates-guide/"
+  - title: "Custom Templater Scripts for Obsidian Free Download"
+    url: "/posts/custom-templater-scripts-for-obsidian-free-download/"
+  - title: "Python Scripts for Bulk Processing Obsidian Markdown Files"
+    url: "/posts/python-scripts-for-bulk-processing-obsidian-markdown-files/"
 title: "Obsidian Templater User Scripts: Complete Guide"
 description: "Learn how to use Obsidian Templater user scripts to automate workflows, fetch API data, and execute custom JavaScript directly inside your daily notes."
 pubDate: "2026-05-07"

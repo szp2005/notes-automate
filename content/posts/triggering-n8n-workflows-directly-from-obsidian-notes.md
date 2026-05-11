@@ -6,6 +6,24 @@ evidenceImage:
   caption: "A development laptop screen, used to ground the local AI and automation workflow examples."
   credit: "Christina Morillo / Pexels"
   sourceUrl: "https://www.pexels.com/photo/black-and-gray-laptop-computer-turned-on-doing-computer-codes-1181271/"
+editorSummary: >-
+  This guide is for users who want Obsidian to trigger real work, not just store notes. The
+  practical pattern is simple: a note or command sends structured data to an n8n webhook, and
+  n8n handles the outside-world action. The edit emphasizes safety and repeatability: use test
+  webhooks first, keep payloads small, include enough frontmatter for routing, and avoid
+  exposing a public webhook without authentication. A clean trigger is boring, visible, and
+  easy to retry.
+authorNote: >-
+  When I test an Obsidian-to-n8n trigger, I start with a dummy note and a log-only workflow.
+  Seeing the exact payload in n8n before adding email, database, or publishing steps prevents
+  a lot of accidental automation damage.
+manualRelated:
+  - title: "How to Sync Obsidian with n8n Webhooks"
+    url: "/posts/how-to-sync-obsidian-with-n8n-webhooks/"
+  - title: "n8n Workflow for Obsidian Daily Notes Setup"
+    url: "/posts/n8n-workflow-for-obsidian-daily-notes-setup/"
+  - title: "Using Obsidian to Manage n8n Workflow Documentation"
+    url: "/posts/using-obsidian-to-manage-n8n-workflow-documentation/"
 title: "Triggering n8n Workflows Directly From Obsidian Notes: Complete Guide"
 description: "Learn the exact methods for triggering n8n workflows directly from Obsidian notes. Automate your vault using webhooks and Templater to eliminate manual tasks."
 pubDate: "2026-05-07"

@@ -6,6 +6,24 @@ evidenceImage:
   caption: "A planning desk with sticky notes, used to represent workflow mapping and hand-picked editorial links."
   credit: "Anastasia Shuraeva / Pexels"
   sourceUrl: "https://www.pexels.com/photo/sticky-notes-and-a-laptop-7278606/"
+editorSummary: >-
+  Recurring tasks in Obsidian can become either a clean review system or a noisy pile of
+  overdue checkboxes. This guide is useful when you want DataviewJS to surface the right tasks
+  without turning every note into a dashboard project. I focused the editorial angle on query
+  discipline: consistent task syntax, predictable dates, limited scopes, and review views that
+  answer one question at a time. The setup should help you decide what to do next, not admire
+  a complex query.
+authorNote: >-
+  When I test DataviewJS task views, I add a deliberately messy note to the folder. If the
+  dashboard still behaves predictably with missing dates and old completed tasks, it is much
+  more likely to survive real use.
+manualRelated:
+  - title: "Using Obsidian Tasks Plugin for Project Management"
+    url: "/posts/using-obsidian-tasks-plugin-for-project-management/"
+  - title: "Obsidian Dataview for Project Tracking"
+    url: "/posts/obsidian-dataview-for-project-tracking/"
+  - title: "Visualizing Data with Obsidian Tracker Plugin for Goals"
+    url: "/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/"
 title: "Managing Recurring Tasks in Obsidian with DataviewJS: Complete Guide"
 description: "Learn how to automate and track repeating workflows by managing recurring tasks in Obsidian with DataviewJS. Step-by-step code snippets and logic explained."
 pubDate: "2026-05-07"

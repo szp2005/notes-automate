@@ -6,6 +6,24 @@ evidenceImage:
   caption: "Handwritten notes at a working desk, used to illustrate research note-taking and review habits."
   credit: "cottonbro studio / Pexels"
   sourceUrl: "https://www.pexels.com/photo/person-writing-on-a-notebook-5185080/"
+editorSummary: >-
+  Readwise-to-Obsidian automation is valuable only if the imported highlights become usable
+  notes. This guide should help readers avoid the common trap of moving more text without
+  improving review. I would design the n8n workflow around source, book/article title,
+  highlight text, tags, and a small processing step that asks what the highlight is for. The
+  strongest systems keep raw highlights intact while creating a separate layer for summary,
+  action, or literature-note development.
+authorNote: >-
+  When I review highlight workflows, I check whether a highlight can still be traced back to
+  the source. Automation is helpful when it preserves context and creates a review queue, not
+  when it dumps another hundred quotes into the vault.
+manualRelated:
+  - title: "Building a Second Brain Using Obsidian and Readwise"
+    url: "/posts/building-a-second-brain-using-obsidian-and-readwise/"
+  - title: "Raindrop.io Integration for Obsidian Bookmark Management"
+    url: "/posts/raindrop-io-integration-for-obsidian-bookmark-management/"
+  - title: "Integrating Web Clips Into Your Zettelkasten Note System"
+    url: "/posts/integrating-web-clips-into-your-zettelkasten-note-system/"
 title: "Extracting Readwise Highlights to Obsidian via n8n: Complete 5-Step Guide"
 description: "Master the technical workflow for extracting Readwise highlights to Obsidian via n8n. Learn to parse JSON payloads, format Markdown, and automate your PKM system."
 pubDate: "2026-05-07"
