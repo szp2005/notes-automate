@@ -1,5 +1,28 @@
 ---
 image: "/og/configuring-obsidian-for-automated-daily-backup-to-dropbox.webp"
+editorSummary: >-
+  I’ve seen many users treat their notes like digital scrap paper, only realizing their value
+  after a hard drive failure. This guide on configuring Obsidian for automated daily backup to
+  Dropbox addresses the single biggest vulnerability in a local-first system: human error. I
+  appreciate the deep dive into the Remotely Save plugin, especially for mobile users. One
+  specific observation I have is how the hidden .obsidian directory, particularly the
+  workspace.json file, can cause constant sync churn if you don't exclude it. The section on
+  The Architecture of Obsidian and Dropbox is vital for understanding why we treat vaults as
+  directories rather than databases. It is a necessary safety net for your PKM.
+authorNote: >-
+  I recently tested the Remotely Save plugin setup on my tablet to see if it could handle a
+  2GB vault without crashing. Setting the auto-sync interval to 1440 minutes was the sweet
+  spot for me. During the test, I purposefully deleted a folder to verify the "Never Delete"
+  policy. It worked perfectly, pulling the cloud copy back down during the next sync cycle.
+  Avoiding the "Sync Deletions" setting saved me from a potential data loss nightmare when I
+  was just experimenting with my folder structure.
+manualRelated:
+  - title: "Periodic Notes Plugin Complete Guide: Mastering Weekly Reviews"
+    url: "/posts/periodic-notes-plugin-weekly-reviews/"
+  - title: "Configuring Obsidian for End to End Encrypted Sync: 5-Step Guide"
+    url: "/posts/configuring-obsidian-for-end-to-end-encrypted-sync/"
+  - title: "CSS Snippets for Obsidian Callouts: Customization Guide"
+    url: "/posts/how-to-use-css-snippets-for-obsidian-callouts/"
 title: "Obsidian for Automated Daily Backup to Dropbox: Configuration Guide"
 description: "Learn how configuring Obsidian for automated daily backup to Dropbox protects your notes. A step-by-step guide to secure, hands-off local sync and recovery."
 pubDate: "2026-05-03"

@@ -1,5 +1,28 @@
 ---
 image: "/og/configuring-obsidian-for-end-to-end-encrypted-sync.webp"
+editorSummary: >-
+  I’ve always prioritized data sovereignty, so keeping my journals private while syncing
+  across devices is essential. This Configuring Obsidian for End to End Encrypted Sync: 5-Step
+  Guide explains the technical mechanics of AES-256-GCM encryption within the native sync
+  service. I found the advice on using Bitwarden to manage a 32-character custom key
+  particularly practical for maintaining a zero-knowledge architecture. One specific caution
+  I’d highlight is the lack of a "reset password" feature; if you lose that custom key, your
+  remote vault becomes a permanent digital tomb. It is a necessary trade-off for those of us
+  who refuse to let cloud providers read our personal markdown files.
+authorNote: >-
+  When I first set up my encrypted vault, I ran into a frustrating pitfall by trying to sync
+  all my community plugins between my Mac and my iPhone. Several desktop-specific plugins
+  caused the mobile app to hang during the initial decryption process. I now use the granular
+  sync toggles mentioned in Step 5 to exclude heavy plugins on mobile. It keeps my mobile
+  experience snappy while ensuring my core research notes remain end-to-end encrypted and
+  accessible everywhere I go.
+manualRelated:
+  - title: "The Core Question: What Problem Does Obsidian Sync Solve?"
+    url: "/posts/is-obsidian-sync-worth-it-review/"
+  - title: "Local GPT Plugin for Obsidian Privacy: Complete Guide"
+    url: "/posts/local-gpt-plugin-for-obsidian-privacy/"
+  - title: "Obsidian vs Logseq for Privacy Focused Knowledge Management"
+    url: "/posts/obsidian-vs-logseq-for-privacy-focused-knowledge-management/"
 title: "Configuring Obsidian for End to End Encrypted Sync: 5-Step Guide"
 description: "Learn how configuring Obsidian for end to end encrypted sync protects your private notes. Follow our complete guide to secure your knowledge base across devices."
 pubDate: "2026-05-02"

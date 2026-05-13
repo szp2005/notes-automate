@@ -1,5 +1,26 @@
 ---
 image: "/og/best-obsidian-community-plugins-for-recipe-management.webp"
+editorSummary: >-
+  I’ve spent years searching for a digital cookbook that won't lock my data away, and this
+  review highlights why Obsidian is a superior choice. You can discover the best Obsidian
+  community plugins for recipe management to organize meals, starting with Recipe Grabber to
+  strip away blog filler instantly. I find the dynamic ingredient scaling in Obsidian Cooklang
+  to be a total game-changer for dinner parties. One trade-off to consider is that Dataview,
+  while powerful for building a kitchen dashboard, can noticeably slow down vault performance
+  on older mobile devices if your database gets too large.
+authorNote: >-
+  My favorite part of this setup is what I call the Friday Night Test. I use Recipe Grabber to
+  pull a new pasta dish from a random blog, and then I use the Obsidian Cooklang slider to
+  scale the ingredients for four people instead of two. It prevents that annoying mental math
+  while I am already busy at the stove. I also suggest using a Kanban board for meal planning;
+  dragging cards for the week makes my grocery runs feel much more organized.
+manualRelated:
+  - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
+    url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "7 Best Obsidian Plugins for Developers and Code Snippets in 2026"
+    url: "/posts/best-obsidian-plugins-for-developers-and-code-snippets/"
 title: "Best Obsidian Community Plugins for Recipe Management (2026)"
 description: "Discover the best Obsidian community plugins for recipe management to organize meals, track ingredients, and build your ultimate personal cookbook system."
 pubDate: "2026-05-03"

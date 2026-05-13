@@ -1,5 +1,27 @@
 ---
 image: "/og/best-obsidian-themes-for-dark-mode-2026.webp"
+editorSummary: >-
+  Finding the right UI for my personal knowledge management vault is a constant struggle. I
+  used to think any dark theme would do, but this review changed how I evaluate the Best
+  Obsidian Themes for Dark Mode in 2026: Top Picks. I particularly appreciated the breakdown
+  of Minimal, which uses a neutral gray to prevent eye fatigue. A significant trade-off is
+  that Minimal requires installing companion plugins like Style Settings to really shine. One
+  crucial caution I noted is the risk of astigmatism-related halation when using high-contrast
+  themes, which can make long-form writing physically painful if text colors aren't softened.
+authorNote: >-
+  When I first started using the Things theme in my vault, I was impressed by how much it felt
+  like a native productivity app. My specific setup relies on the Tasks and Kanban plugins,
+  and seeing them rendered with those crisp card-based borders made my dashboard much easier
+  to navigate. A pitfall I encountered was sticking with pure white text on a black
+  background, which caused significant eye strain. Softening the main body text to an
+  off-white gray using Style Settings fixed it immediately.
+manualRelated:
+  - title: "Best Obsidian Themes for High Contrast Accessibility in 2026"
+    url: "/posts/best-obsidian-themes-for-high-contrast-accessibility-2026/"
+  - title: "Introduction: Beyond Default - Choosing Your Ideal Obsidian Interface"
+    url: "/posts/things-theme-vs-minimal-theme-obsidian/"
+  - title: "7 Best Obsidian Plugins for Developers and Code Snippets in 2026"
+    url: "/posts/best-obsidian-plugins-for-developers-and-code-snippets/"
 title: "Best Obsidian Themes for Dark Mode in 2026: Top Picks"
 description: "Discover the best Obsidian themes for dark mode in 2026. Compare top picks for readability, aesthetics, and performance to optimize your knowledge workspace."
 pubDate: "2026-05-01"

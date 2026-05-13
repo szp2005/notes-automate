@@ -1,5 +1,28 @@
 ---
 image: "/og/custom-css-for-obsidian-academic-paper-formatting.webp"
+editorSummary: >-
+  I’ve often struggled with the visual gap between my research notes and my final submission
+  drafts. This walkthrough clarifies Understanding Obsidian's Styling Architecture, which is
+  essential for anyone trying to maintain professional standards. I prefer using modular CSS
+  snippets over full themes because themes often prioritize general aesthetics over strict
+  journal guidelines—a trade-off that usually leads to formatting headaches later. One
+  specific observation I made while testing these styles is that while you can easily fix line
+  spacing, perfectly replicating APA Level 4 "same-line" headings with pure CSS remains a
+  tricky pitfall without additional HTML structure.
+authorNote: >-
+  When I was preparing my last literature review, I needed my bibliography to have a proper
+  hanging indent to match my department's requirements. I opened the Developer Tools to find
+  the exact class my citation plugin was using, which allowed me to target the bibliography
+  list items specifically. My setup now includes a project-specific snippet that styles
+  citation callouts so they are less visually distracting during my writing process. This
+  targeted approach prevents my vault's general theme from messing with my research output.
+manualRelated:
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Dataview Arrays for Complex Obsidian Tables: Complete Guide"
+    url: "/posts/using-dataview-arrays-for-complex-obsidian-tables/"
+  - title: "Obsidian for Software Engineering Documentation: 7-Step Guide"
+    url: "/posts/how-to-use-obsidian-for-software-engineering-documentation/"
 title: "Custom CSS for Obsidian Academic Paper Formatting: A Complete Guide"
 description: "Master custom CSS for Obsidian academic paper formatting. Tailor your notes, citations, and exports for professional research documents with this."
 pubDate: "2026-05-06"

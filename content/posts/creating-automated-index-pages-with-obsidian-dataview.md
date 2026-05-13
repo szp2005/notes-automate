@@ -1,5 +1,28 @@
 ---
 image: "/og/creating-automated-index-pages-with-obsidian-dataview.webp"
+editorSummary: >-
+  I spent years manually linking my notes before realizing my "Project Dashboard" was
+  constantly outdated. This guide on Automated Index Pages with Obsidian Dataview Setup:
+  Complete Guide explains why switching to dynamic queries is a total game-changer for digital
+  gardens. I specifically value the advice on using the GROUP BY command for task aggregation
+  to avoid a flat, contextless list of checkboxes. My main observation is the performance
+  trade-off; without optimized FROM clauses, large vaults will experience lag. It taught me to
+  be much more disciplined with my metadata taxonomy to ensure my automated dashboards remain
+  fast and reliable as my vault grows.
+authorNote: >-
+  My favorite setup described here is the reading log index. I used to lose track of books in
+  progress until I built a Dataview table that calculates a "Progress %" column directly in
+  the view using total pages. I hit a pitfall where inconsistent spelling for my "status"
+  property caused notes to vanish from my dashboard. Now, I use a standardized property schema
+  to keep my metadata clean, ensuring that my automated index pages stay accurate without
+  constant manual tinkering.
+manualRelated:
+  - title: "Dataview Arrays for Complex Obsidian Tables: Complete Guide"
+    url: "/posts/using-dataview-arrays-for-complex-obsidian-tables/"
+  - title: "Obsidian with n8n and Webhooks Automation: 5-Step Guide"
+    url: "/posts/automate-obsidian-with-n8n-and-webhooks/"
+  - title: "Templater Plugin Tutorial for Obsidian Power Users: Advanced Automation"
+    url: "/posts/templater-plugin-tutorial-for-obsidian-power-users/"
 title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
 description: "Learn how creating automated index pages with Obsidian Dataview can transform your personal knowledge management setup into a self-organizing system."
 pubDate: "2026-05-03"

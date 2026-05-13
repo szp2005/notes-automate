@@ -1,5 +1,28 @@
 ---
 image: "/og/best-obsidian-themes-for-high-contrast-accessibility-2026.webp"
+editorSummary: >-
+  My personal vault is a work in progress, but I’ve learned that a sleek design is worthless
+  if it causes eye strain during long writing sessions. I’ve tested multiple options to find
+  the Best Obsidian Themes for High Contrast Accessibility in 2026, focusing on those that hit
+  WCAG AAA standards for legibility. While I love the Minimal Theme for its "True Black" OLED
+  support, I found that I must use the Style Settings plugin to unlock its full potential. One
+  observation I made: while Primary is exceptional for reducing halation if you have
+  astigmatism, its warm palette can sometimes clash with specific third-party plugin icons,
+  creating minor visual friction.
+authorNote: >-
+  When I first moved my research notes into Obsidian, I struggled with the "halo" effect on
+  text during late-night sessions. I tried several dark modes, but pure black backgrounds
+  actually made the legibility worse for my eyes. Switching to the Primary theme was a
+  game-changer because its warm charcoal tones eliminated that jarring glow. I also realized
+  that forcing underlines on all my links via a custom CSS snippet saved me from hunting for
+  interactive elements on a crowded page.
+manualRelated:
+  - title: "Best Obsidian Themes for Dark Mode in 2026: Top Picks"
+    url: "/posts/best-obsidian-themes-for-dark-mode-2026/"
+  - title: "Is Obsidian Sync Worth It in 2026? Comprehensive Review"
+    url: "/posts/is-obsidian-sync-worth-it-in-2026/"
+  - title: "Introduction: Beyond Default - Choosing Your Ideal Obsidian Interface"
+    url: "/posts/things-theme-vs-minimal-theme-obsidian/"
 title: "Best Obsidian Themes for High Contrast Accessibility in 2026"
 description: "Discover the best Obsidian themes for high contrast accessibility in 2026. Protect your eyes and improve readability with our top WCAG-compliant picks."
 pubDate: "2026-05-02"

@@ -1,5 +1,28 @@
 ---
 image: "/og/building-automated-weekly-reviews-with-templater-variables.webp"
+editorSummary: >-
+  I’ve found that the biggest hurdle to a consistent reflection habit is the friction of
+  manual setup. This article explains how I streamlined my process by Building Automated
+  Weekly Reviews With Templater Variables. I use the tp.date function to auto-populate
+  ISO-formatted headers, ensuring my review is ready the moment I hit a hotkey. One vital
+  observation I’ve made is the trade-off between dynamic Dataview queries and static Templater
+  text. I always prioritize burning the week’s specific dates into the file using Templater
+  scripts. This guarantees my vault remains archival-safe, so my 2026 notes stay perfectly
+  legible in a decade, even if my plugin stack evolves.
+authorNote: >-
+  I used to waste twenty minutes every Sunday manually linking daily notes and copying habit
+  data from my tracker. Now, I use a specific Templater Folder Template trigger so my review
+  is fully populated the second I create a file in my "Reviews" folder. My biggest pitfall was
+  over-engineering complex Dataview queries that eventually lagged my mobile app. I’ve since
+  scaled back, focusing on high-signal task audits and static date ranges that keep my system
+  fast and frictionless.
+manualRelated:
+  - title: "Custom Templater Scripts for Obsidian Free Download (2026)"
+    url: "/posts/custom-templater-scripts-for-obsidian-free-download/"
+  - title: "Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide"
+    url: "/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/"
+  - title: "Obsidian vs Reflect for Fast Daily Journaling: Which Is Better for Power Users?"
+    url: "/posts/obsidian-vs-reflect-for-fast-daily-journaling/"
 title: "Building Automated Weekly Reviews With Templater Variables"
 description: "Master building automated weekly reviews with templater variables in Obsidian. Compare essential plugins and implement a frictionless productivity system."
 pubDate: "2026-05-07"

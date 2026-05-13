@@ -1,5 +1,28 @@
 ---
 image: "/og/comparing-obsidian-frontmatter-vs-inline-dataview-fields.webp"
+editorSummary: >-
+  I’ve spent years reorganizing my vault, and I’ve found that the biggest hurdle is deciding
+  where my data should live. When I first started, I scattered metadata everywhere, but this
+  guide helped me refine my strategy. Discover the pros and cons when comparing Obsidian
+  frontmatter vs inline Dataview fields. This helped me realize I should rely on Obsidian
+  Frontmatter (Properties) for my high-level file architecture because it’s faster to query.
+  However, I’ve noticed a significant performance lag when I over-rely on the `Key:: Value`
+  syntax in massive vaults. My trade-off is choosing rigidity for speed in project notes while
+  keeping my daily logs flexible.
+authorNote: >-
+  My own breakthrough happened when I stopped trying to force everything into the top of my
+  files. I now use inline fields exclusively for my daily habits, like tracking my 5:00 AM
+  coffee expenses or my sleep duration. I once tried to put these into the frontmatter, but it
+  felt too disconnected from the actual log. Now, I use the native Properties UI for my client
+  names and deadlines, ensuring my project dashboards never break due to a simple formatting
+  typo.
+manualRelated:
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge"
+    url: "/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/"
+  - title: "Customize Obsidian Sidebar with Commander Plugin Icons: Complete Guide"
+    url: "/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/"
 title: "Comparing Obsidian Frontmatter vs Inline Dataview Fields (2026)"
 description: "Discover the pros and cons when comparing Obsidian frontmatter vs inline Dataview fields. Learn which metadata method is best for your PKM workflow."
 pubDate: "2026-05-03"

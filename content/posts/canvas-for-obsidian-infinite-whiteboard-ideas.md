@@ -1,5 +1,28 @@
 ---
 image: "/og/canvas-for-obsidian-infinite-whiteboard-ideas.webp"
+editorSummary: >-
+  Moving from linear lists to a spatial environment fundamentally changed how I process
+  complex research. This guide explores high-impact Canvas for Obsidian: Infinite Whiteboard
+  Ideas for 2026, helping me visualize connections that were previously buried in nested
+  folders. I particularly appreciate the Source Clustering Matrix for managing academic PDFs
+  directly alongside my own cards. However, a major trade-off I have observed is the potential
+  for visual clutter; while spatial reasoning is powerful, over-complicating a board with too
+  many colored connection lines can eventually make it harder to navigate than a simple list.
+  My vault now feels like a truly dynamic workspace.
+authorNote: >-
+  When I started my latest long-form project, I utilized The Fiction Storyboard Approach to
+  map out my chapters. I arranged scene cards horizontally to see the timeline, while using
+  vertical space to track individual character arcs. This setup allowed me to spot a major
+  pacing issue where a subplot vanished for three chapters. Physically dragging the cards to
+  reorder the story felt more intuitive than cutting and pasting text in a linear document. It
+  kept my narrative structure visible and manageable throughout the process.
+manualRelated:
+  - title: "QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide"
+    url: "/posts/quickadd-plugin-for-rapid-capture-in-obsidian/"
+  - title: "Obsidian Plugins for Habit Tracking 2026: Complete Setup Guide"
+    url: "/posts/obsidian-plugins-for-habit-tracking-2026/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
 title: "Canvas for Obsidian: Infinite Whiteboard Ideas for 2026"
 description: "Discover creative Canvas for Obsidian infinite whiteboard ideas. Learn how to map concepts, organize research, and visualize your knowledge base today."
 pubDate: "2026-05-01"

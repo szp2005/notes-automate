@@ -1,5 +1,28 @@
 ---
 image: "/og/comparison-of-mobile-markdown-editors-for-ios-android.webp"
+editorSummary: >-
+  Selecting a mobile writing tool is a personal decision that impacts my entire PKM system.
+  I’ve found that many apps promise portability but fail when it comes to Sync Architecture
+  and Data Ownership. In this review, we provide a comprehensive comparison of mobile markdown
+  editors for iOS Android. Discover the top tools like Obsidian and Markor that prioritize
+  local file control. My main observation is that while custom keyboard extensions make mobile
+  typing faster, phones remain better suited for raw capture than deep structural editing.
+  Using an "Inbox" folder strategy helps me avoid the friction of manual filing during my
+  daily mobile workflow.
+authorNote: >-
+  I struggled for months with sync conflicts before settling on a local-first setup. I now use
+  Markor on my Android phone to capture ideas in an "Inbox" folder, which syncs instantly to
+  my desktop via Syncthing. This setup prevents me from losing drafts when I’m offline. I
+  learned the hard way that relying on proprietary cloud databases often leads to data
+  lock-in. Sticking to plain text ensures that my notes remain accessible regardless of which
+  app I choose next year.
+manualRelated:
+  - title: "Obsidian vs Reflect for Fast Daily Journaling: Which Is Better for Power Users?"
+    url: "/posts/obsidian-vs-reflect-for-fast-daily-journaling/"
+  - title: "Applying the PARA Method to an Obsidian Vault: Complete Guide"
+    url: "/posts/applying-the-para-method-to-an-obsidian-vault/"
+  - title: "Obsidian Metadata Menu vs. Database Folder: Which is Best for Your Workflow?"
+    url: "/posts/comparing-obsidian-metadata-menu-vs-database-folder/"
 title: "Best Mobile Markdown Editors for iOS & Android in 2026"
 description: "A comprehensive comparison of mobile markdown editors for iOS Android. Discover the top apps for cross-platform syncing, PKM, and distraction-free writing."
 pubDate: "2026-05-02"

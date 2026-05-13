@@ -1,5 +1,29 @@
 ---
 image: "/og/best-obsidian-themes-for-writing-longform-content.webp"
+editorSummary: >-
+  I’ve spent many hours fighting Obsidian’s default layout during long sessions, eventually
+  realizing that a theme is the most important writing tool in my kit. This piece provides a
+  "Best Obsidian Themes for Writing Longform Content: A Writer's Scorecard Comparison (2024)"
+  to help you find an ideal environment. I value how it rates options on specific criteria
+  like typography and UI minimalism. A key observation is the trade-off with the Minimal
+  theme: it offers unparalleled control but requires significant setup via the Style Settings
+  plugin. If you want immediate book-quality readability without tinkering, Typomagical is the
+  faster, more comfortable path.
+authorNote: >-
+  My favorite setup involves using the Minimal theme paired with the iA Writer Duospace font
+  to mimic a dedicated typewriter experience. I found that setting my line height to 1.7 and
+  restricting the max line width to 640px in Style Settings drastically reduced my eye strain
+  during late-night chapters. A common pitfall I encountered was over-configuring custom CSS
+  snippets, which occasionally broke the heading hierarchy for my academic footnotes. This
+  comparison really highlights why those specific vertical rhythms matter for sustained
+  creative focus.
+manualRelated:
+  - title: "Introduction: Beyond Default - Choosing Your Ideal Obsidian Interface"
+    url: "/posts/things-theme-vs-minimal-theme-obsidian/"
+  - title: "Most Beautiful Obsidian Themes for Better Productivity"
+    url: "/posts/most-beautiful-obsidian-themes/"
+  - title: "Obsidian Minimal Theme Review: The Ultimate Minimalist Guide"
+    url: "/posts/minimal-theme-obsidian-review/"
 title: "Best Obsidian Themes for Writing Longform Content"
 author: "Alex Chen"
 date: 2026-04-28

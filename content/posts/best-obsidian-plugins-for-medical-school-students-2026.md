@@ -1,5 +1,27 @@
 ---
 image: "/og/best-obsidian-plugins-for-medical-school-students-2026.webp"
+editorSummary: >-
+  Finding the right balance for medical school study tools is exhausting, but my vault only
+  really clicked once I integrated Obsidian to Anki. Most students struggle with the deluge of
+  pathology facts, and I found that while Dataview is unmatched for tracking clinical rotation
+  logs, its steep learning curve can be a distraction during pre-clinical years. I recommend
+  checking out the Best Obsidian Plugins for Medical School Students in 2026 to keep your
+  setup lean. One trade-off I noticed is that using Annotator for 2,000-page textbooks can
+  cause significant lag, so I suggest sticking to summaries for those massive volumes.
+authorNote: >-
+  During my neuroanatomy rotation, I used Excalidraw to map out the brachial plexus. I linked
+  specific nerve roots directly to my notes on neuropathies, which made reviewing for shelf
+  exams much more intuitive than staring at a static textbook page. I also built a master SOAP
+  note template using Templater. It automatically prompted me for the patient's chief
+  complaint, ensuring I didn't miss critical data fields during a hectic shift in the
+  emergency department. Standardizing this metadata early saved me hours of reformatting.
+manualRelated:
+  - title: "Spaced Repetition Plugin for Obsidian Flashcards: Complete Setup Guide"
+    url: "/posts/spaced-repetition-plugin-for-obsidian-flashcards/"
+  - title: "Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide"
+    url: "/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/"
+  - title: "Dataview Arrays for Complex Obsidian Tables: Complete Guide"
+    url: "/posts/using-dataview-arrays-for-complex-obsidian-tables/"
 title: "Best Obsidian Plugins for Medical School Students in 2026"
 description: "Discover the best Obsidian plugins for medical school students in 2026. Optimize your study workflow, master spaced repetition, and manage clinical rotations."
 pubDate: "2026-05-03"

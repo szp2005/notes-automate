@@ -1,5 +1,29 @@
 ---
 image: "/og/building-a-second-brain-using-obsidian-and-readwise.webp"
+editorSummary: >-
+  Building a Second Brain Using Obsidian and Readwise: Complete Guide addresses the constant
+  struggle I face with information overload. My system changed significantly once I treated
+  Readwise as the Universal Capture Engine, allowing highlights from my Kindle and podcasts to
+  flow directly into markdown files. I found that customizing the Markdown formatting with
+  specific YAML tags made my research much more accessible. However, I must offer a caution:
+  automated capture can lead to an illusion of productivity. Without a deliberate triage
+  process to review and distill these imports, the system becomes a cluttered archive rather
+  than a functional second brain.
+authorNote: >-
+  I finally stopped manual copy-pasting once I integrated the Readwise Official plugin. My
+  favorite part of this setup is using Jinja2 templates to automatically link authors in my
+  Obsidian vault. By wrapping the author field in double brackets, every new highlight
+  instantly connects to my existing library of notes. I personally test this every Sunday
+  during my triage hour, where I move raw captures into my evergreen notes folder. This
+  specific friction-free workflow is what keeps my knowledge management system from becoming
+  overwhelming during busy weeks.
+manualRelated:
+  - title: "Sync Obsidian with Self-hosted Servers: A Complete Guide"
+    url: "/posts/how-to-sync-obsidian-with-self-hosted-servers/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Customize Obsidian Sidebar with Commander Plugin Icons: Complete Guide"
+    url: "/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/"
 title: "Building a Second Brain Using Obsidian and Readwise: Complete Guide"
 description: "Learn exactly how building a second brain using Obsidian and Readwise transforms scattered highlights into a connected, actionable knowledge management system."
 pubDate: "2026-05-02"

@@ -1,5 +1,28 @@
 ---
 image: "/og/connecting-obsidian-to-external-api-with-python.webp"
+editorSummary: >-
+  I often prefer external scripts over internal plugins when my knowledge base needs to
+  interact with the web. This guide shows how to bridge that gap by Updating Obsidian Notes
+  with API Data using Python. I found the section on the python-frontmatter library
+  particularly useful because it prevents the accidental corruption of my note bodies during
+  metadata updates. My biggest takeaway is the security advantage of using .env files for
+  credential management. However, I noticed a significant trade-off: you must account for
+  potential file-locking collisions if you run these scripts while the Obsidian application is
+  actively writing to the same Markdown files.
+authorNote: >-
+  I recently set up a script to pull book metadata via ISBN using the Google Books API. I
+  learned the hard way that a malformed YAML block can completely break my Dataview tables, so
+  I now always use a staging directory for new imports. I also recommend setting up a manual
+  execution alias in your terminal instead of a high-frequency cron job. This helps me verify
+  the changes before they propagate through my entire vault and potentially ruin my carefully
+  structured links.
+manualRelated:
+  - title: "Python Scripts for Obsidian API Integration: Complete Guide"
+    url: "/posts/python-scripts-for-obsidian-api-integration/"
+  - title: "Python Scripts for Bulk Processing Obsidian Markdown Files Guide"
+    url: "/posts/python-scripts-for-bulk-processing-obsidian-markdown-files/"
+  - title: "Using Obsidian to Manage n8n Workflow Documentation: Complete Guide"
+    url: "/posts/using-obsidian-to-manage-n8n-workflow-documentation/"
 title: "Connecting Obsidian to External APIs with Python: Complete Guide"
 description: "Learn how to connect Obsidian to external APIs using Python. This step-by-step guide covers reading local vaults, making HTTP requests, and safely writing data back."
 pubDate: "2026-05-05"

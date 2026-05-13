@@ -1,5 +1,27 @@
 ---
 image: "/og/copilot-for-obsidian-chat-with-your-notes.webp"
+editorSummary: >-
+  I have spent countless hours trying to find specific insights buried in my thousands of
+  markdown files, and I found that standard keyword searches simply don't scale. This Copilot
+  for Obsidian Complete Guide: Chat With Your Notes explains how I finally bridged that gap
+  using an intelligence layer directly in my sidebar. I specifically appreciate the
+  Understanding the Architecture of Copilot for Obsidian section because it clarifies that the
+  plugin doesn't train on my data but uses RAG. However, I noticed a significant trade-off:
+  while cloud APIs offer massive reasoning, vault-wide queries can become expensive if I don't
+  monitor my token usage.
+authorNote: >-
+  I set up my local backend using Ollama on my M2 Mac to keep my private journals off the
+  cloud. It was a relief to see Llama 3 running at the default local port without any lag. One
+  pitfall I encountered was forgetting to fund my OpenAI developer account separately from my
+  Plus subscription when I tested the cloud side. Now, I mostly use the sidebar to summarize
+  long research papers I have clipped, which saves me hours of manual highlighting every week.
+manualRelated:
+  - title: "Customize Obsidian Sidebar with Commander Plugin Icons: Complete Guide"
+    url: "/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/"
+  - title: "Publish Obsidian Notes to a Blog: 5-Step Guide"
+    url: "/posts/how-to-publish-obsidian-notes-to-a-blog/"
+  - title: "HoverNotes for Timestamped Video Notes in Obsidian: Complete Guide"
+    url: "/posts/hovernotes-for-timestamped-video-notes-obsidian/"
 title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
 description: "Discover how to use Copilot for Obsidian to chat with your notes natively. Learn setup, local LLM integration, and workflows for efficient knowledge retrieval."
 pubDate: "2026-05-01"

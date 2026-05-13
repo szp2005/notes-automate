@@ -1,5 +1,28 @@
 ---
 image: "/og/comparing-obsidian-git-vs-icloud-for-vault-syncing.webp"
+editorSummary: >-
+  My biggest frustration with note-taking apps is the silent failure of background sync. This
+  review provides a Deep Dive: Syncing Obsidian with iCloud, highlighting the Core
+  Architectural Differences that matter when your vault grows. I appreciate the focus on the
+  "Optimize Mac Storage" pitfall, which can suddenly purge your local markdown files and leave
+  your vault empty without warning. If you need granular version control to recover
+  accidentally deleted paragraphs, Git is the clear winner. However, if you live entirely in
+  the Apple ecosystem, the zero-configuration nature of Apple iCloud Drive remains hard to
+  beat for pure convenience.
+authorNote: >-
+  I spent years wrestling with duplicated "Note (1).md" files in my vault before finally
+  moving to the Obsidian Git (Community Plugin). My setup currently uses a private GitHub
+  repository, which gives me peace of mind when editing on my Linux desktop and syncing to my
+  Android phone. I once accidentally nuked a massive canvas file, but because I had a commit
+  history, I restored it in seconds. This comparison perfectly captures the trade-off between
+  iCloud’s "set and forget" ease and Git’s technical resilience.
+manualRelated:
+  - title: "Applying the PARA Method to an Obsidian Vault: Complete Guide"
+    url: "/posts/applying-the-para-method-to-an-obsidian-vault/"
+  - title: "QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide"
+    url: "/posts/quickadd-plugin-for-rapid-capture-in-obsidian/"
+  - title: "Best Obsidian Web Clipper Extensions: Complete 2026 Review"
+    url: "/posts/review-of-the-best-obsidian-web-clipper-extensions/"
 title: "Comparing Obsidian Git vs iCloud for Vault Syncing in 2026"
 description: "A deep dive comparing Obsidian Git vs iCloud for vault syncing across devices. Learn which method offers the best speed, security, and cross-platform support."
 pubDate: "2026-05-02"

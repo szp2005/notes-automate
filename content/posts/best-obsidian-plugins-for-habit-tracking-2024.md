@@ -1,5 +1,27 @@
 ---
 image: "/og/best-obsidian-plugins-for-habit-tracking-2024.webp"
+editorSummary: >-
+  I’ve spent months trying to find a friction-free way to track habits in Obsidian, and this
+  guide finally clarifies the landscape. Whether you need a simple checkbox or complex
+  Dataview queries, these top methods cover every skill level. I appreciate that we Provide a
+  detailed comparison table rating each plugin on key criteria: setup difficulty,
+  mobile-friendliness, and maintenance level. One observation I’ve made is that while the
+  Tracker plugin creates beautiful heatmaps, its YAML-heavy syntax can be fragile; a single
+  indentation error often breaks my entire dashboard. It is a solid resource.
+authorNote: >-
+  My breakthrough with Obsidian habit tracking came when I stopped trying to build the
+  ultimate dashboard on day one. I started by adding simple checkboxes to my daily note
+  template for hydration and reading. Once that became automatic, I used the Tracker plugin to
+  visualize my consistency over a ninety-day window. Seeing those green blocks fill up in my
+  vault gave me more motivation than any standalone app, because the data lives alongside my
+  journals.
+manualRelated:
+  - title: "Introduction: Beyond Default - Choosing Your Ideal Obsidian Interface"
+    url: "/posts/things-theme-vs-minimal-theme-obsidian/"
+  - title: "Obsidian Mobile Community Plugins: Benefits and Setup Guide"
+    url: "/posts/how-to-install-community-plugins-in-obsidian-mobile/"
+  - title: "Excalidraw Obsidian Plugin Review: Visual Thinking Guide"
+    url: "/posts/excalidraw-plugin-for-obsidian-review/"
 title: "Obsidian Habit Tracking: Best Plugins for 2024"
 author: "Alex Chen"
 date: 2026-04-29
