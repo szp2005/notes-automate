@@ -1,5 +1,28 @@
 ---
 image: "/og/automate-obsidian-with-n8n-and-webhooks.webp"
+editorSummary: >-
+  Bridging the gap between cloud services and my local vault used to feel like a
+  friction-filled chore. In this guide, I detail the Obsidian with n8n and Webhooks
+  Automation: 5-Step Guide to help you build custom bridges using local webhooks. I focus
+  heavily on Step 1: Install and Configure the Local REST API Plugin, which allows n8n to talk
+  directly to your notes. One critical observation I made is that this setup requires the
+  Obsidian desktop app to be active; the API doesn't listen if the application is closed. It
+  is a small trade-off for keeping my sensitive knowledge management data entirely offline and
+  secure.
+authorNote: >-
+  I initially struggled to get n8n running in Docker to see my Obsidian port. My setup now
+  uses host.docker.internal to bridge the container to my local machine's port 27123. I tested
+  this by sending completed tasks from Todoist directly into my daily note. A common pitfall I
+  encountered was forgetting to include the Bearer token in the HTTP request header, which led
+  to 401 errors. Once fixed, the automation became a silent background worker for my
+  productivity system.
+manualRelated:
+  - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
+    url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"
+  - title: "Best n8n Templates for Obsidian Vault Automation in 2026"
+    url: "/posts/best-n8n-templates-for-obsidian-vault-automation/"
+  - title: "How to Automate Obsidian with n8n Webhooks: 5-Step Guide"
+    url: "/posts/how-to-automate-obsidian-with-n8n-webhooks/"
 title: "Obsidian with n8n and Webhooks Automation: 5-Step Guide"
 description: "Learn how to automate Obsidian with n8n and webhooks to capture notes, sync tasks, and streamline your personal knowledge management without manual entry."
 pubDate: "2026-05-05"

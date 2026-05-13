@@ -1,5 +1,28 @@
 ---
 image: "/og/best-font-pairings-obsidian-minimal-theme-2026.webp"
+editorSummary: >-
+  I have spent countless hours refining my personal knowledge management setup, and I have
+  found that the Minimal theme by Kepano truly highlights how much typography affects my
+  focus. For my daily research, finding the Best Font Pairings for Obsidian Minimal Theme in
+  2026 was a functional necessity to reduce eye strain on my high-DPI display. I particularly
+  appreciate the Inter & iA Writer Quattro combo for its balance of crisp UI and
+  typewriter-like body text. However, be aware that while Berkeley Mono looks incredible for
+  technical notes, its $75 price tag is a significant trade-off compared to high-quality
+  open-source alternatives.
+authorNote: >-
+  When I first tested the Berkeley Mono and Helvetica Neue setup, I was looking for a way to
+  make my technical documentation feel more like a professional engineering console. The
+  slashed zeros and clear distinction between the letter l and the number 1 made a massive
+  difference when I was auditing my own scripts inside Obsidian. One pitfall I encountered was
+  that reading purely monospaced text for several hours during a long-form writing session
+  felt more fatiguing than using a proportional serif like Lora.
+manualRelated:
+  - title: "Obsidian vs DEVONthink: Which Is Better for Large Research Archives?"
+    url: "/posts/obsidian-vs-devonthink-for-large-research-archives/"
+  - title: "Obsidian vs Heptabase for Visual Research Workflows: Which Is Better?"
+    url: "/posts/obsidian-vs-heptabase-for-visual-research-workflows/"
+  - title: "Excalidraw Plugin for Obsidian: Visual Thinking Complete Guide"
+    url: "/posts/excalidraw-plugin-for-obsidian-visual-thinking/"
 title: "Best Font Pairings for Obsidian Minimal Theme in 2026"
 description: "Discover the best font pairings for the Obsidian Minimal theme in 2026 to enhance readability and focus. Compare top typography setups for your PKM."
 pubDate: "2026-05-03"

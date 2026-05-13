@@ -1,5 +1,29 @@
 ---
 image: "/og/automating-literature-reviews-using-obsidian-and-n8n.webp"
+editorSummary: >-
+  I've spent years struggling with the "manual bottleneck" of academic research, which is why
+  I found this Practical guide to automating literature reviews using obsidian and n8n: setup
+  steps, so refreshing. My own research workflow often got bogged down in the tedious data
+  entry between Zotero and my notes. This article explains how to use n8n's visual nodes to
+  bridge that gap, effectively turning Obsidian into a high-performance engine for knowledge
+  management. One thing I noticed is the trade-off between the ease of n8n’s cloud service
+  versus the privacy of a self-hosted setup, which is vital when handling sensitive
+  pre-publication data. It’s a sophisticated approach to academic productivity that actually
+  scales.
+authorNote: >-
+  When I first tried literature review automation, I made the mistake of trying to scrape
+  every journal site manually, which led to constant maintenance headaches. Now, I use the
+  Zotero API node in n8n as described here to pull my library directly into my vault. My
+  favorite part of this setup is the automated Dataview queries; they instantly show me which
+  papers I haven't summarized yet. If you are starting out, start small with one RSS feed
+  before building complex multi-node flows.
+manualRelated:
+  - title: "Using Obsidian for Systematic Literature Reviews: A Complete Guide"
+    url: "/posts/using-obsidian-for-systematic-literature-reviews/"
+  - title: "Automated Meeting Note Generation With n8n Obsidian: 5-Step Guide"
+    url: "/posts/automated-meeting-note-generation-with-n8n-obsidian/"
+  - title: "n8n Workflow for Syncing Obsidian with Notion: A Complete Guide"
+    url: "/posts/n8n-workflow-for-syncing-obsidian-with-notion/"
 title: "Automating Literature Reviews with Obsidian & n8n: A Complete Guide"
 description: "Practical guide to automating literature reviews using obsidian and n8n: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-06"

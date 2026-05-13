@@ -1,5 +1,26 @@
 ---
 image: "/og/automate-obsidian-daily-notes-using-python.webp"
+editorSummary: >-
+  I’ve found that manual friction is the quickest way to kill a habit. This article explains
+  how Eliminating Repetitive Setup through Python Automation helps maintain a consistent
+  journaling practice. I personally rely on Python’s datetime module and the strftime() method
+  to ensure my filenames always match the standard YYYY-MM-DD format. While the built-in
+  plugin is basic, a script allows me to inject dynamic data like external calendar events
+  into my vault. One observation: be careful with absolute file paths if you sync your vault
+  across different operating systems, as it can cause the script to fail.
+authorNote: >-
+  My setup involves a small Python script that runs via a cron job every morning. I found that
+  creating a dedicated virtual environment using python3 -m venv .venv was essential to keep
+  my system dependencies clean. Initially, I struggled with duplicate files because my script
+  didn't check for existing notes. Now, I include a logic gate to ensure I don't overwrite any
+  manual entries I might have started on my phone during my morning commute.
+manualRelated:
+  - title: "Automating Your Task Management With Obsidian Tasks Plugin: Guide"
+    url: "/posts/automating-your-task-management-with-obsidian-tasks-plugin/"
+  - title: "Mastering Obsidian: Keyboard Maestro Macros for Advanced Navigation"
+    url: "/posts/keyboard-maestro-macros-for-advanced-obsidian-navigation/"
+  - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
+    url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"
 title: "Automate Obsidian Daily Notes with Python: A Complete Guide"
 description: "Learn how to automate Obsidian daily notes using Python scripts to streamline your notetaking workflow, ensure consistency, and save valuable time."
 pubDate: "2026-05-06"

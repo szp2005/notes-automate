@@ -1,5 +1,28 @@
 ---
 image: "/og/advanced-obsidian-templates-for-literature-review-matrix.webp"
+editorSummary: >-
+  I’ve spent years trying to move away from static spreadsheets for research, so I find these
+  **Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026** particularly
+  relevant. My biggest takeaway is the **Obsidian Academic Vault Pro**, which manages to
+  bridge the gap between citation management and thematic synthesis using DataviewJS. One
+  trade-off I’ve noticed is that while these premium frameworks save weeks of setup, they
+  require regular maintenance of community plugins to prevent your vault from breaking. I
+  recommend checking the Zotero integration first to ensure your PDF annotations flow into
+  your matrix without manual entry errors.
+authorNote: >-
+  When I first set up my academic vault, I struggled with DataviewJS scripts that failed every
+  time a plugin updated. I eventually switched to a more stable YAML frontmatter configuration
+  similar to what’s found in the LitReview Master Matrix. Testing this setup with over fifty
+  sources showed me that granular thematic tracking is only possible if you standardize your
+  methodology fields from day one. I now use these templates to ensure my sample sizes and
+  findings are always queryable during the writing phase.
+manualRelated:
+  - title: "Obsidian Project Management for Academic Research Teams: A Complete Guide"
+    url: "/posts/obsidian-project-management-academic-research-teams/"
+  - title: "Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge"
+    url: "/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
 title: "Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026"
 description: "Discover the best advanced Obsidian templates for literature review matrix organization. Compare premium frameworks to streamline your academic research today."
 pubDate: "2026-05-05"

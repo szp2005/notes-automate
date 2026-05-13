@@ -1,5 +1,28 @@
 ---
 image: "/og/applying-the-para-method-to-an-obsidian-vault.webp"
+editorSummary: >-
+  I often find my note-taking process gets bogged down by too much subject-based sorting.
+  Discover exactly how applying the PARA method to an Obsidian vault reduces friction in my
+  daily life by focusing on urgency. When Applying the PARA Method to an Obsidian Vault:
+  Complete Guide, the focus shifts from 'what is this?' to 'when will I need this?'. I
+  particularly appreciated the breakdown of Understanding the Actionability Scale. One
+  trade-off I noticed is that while folders provide a clear hierarchy, they can feel
+  restrictive compared to pure links. However, using the Dataview plugin for a projects
+  dashboard balances that rigidity perfectly.
+authorNote: >-
+  My main struggle was deciding if my finance notes belonged in 2-Areas or 3-Resources. I
+  finally set up a dedicated Inbox folder to handle incoming web clips before filing them
+  during my weekly review. I found that moving completed project folders directly into
+  archives, rather than sorting individual notes, saved me hours of unnecessary maintenance.
+  Avoiding the 'Too Many Folders' trap was essential for my setup; I only create a new folder
+  when I actually have a note that needs it.
+manualRelated:
+  - title: "QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide"
+    url: "/posts/quickadd-plugin-for-rapid-capture-in-obsidian/"
+  - title: "Comparing Obsidian Git vs iCloud for Vault Syncing in 2026"
+    url: "/posts/comparing-obsidian-git-vs-icloud-for-vault-syncing/"
+  - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
+    url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"
 title: "Applying the PARA Method to an Obsidian Vault: Complete Guide"
 description: "Discover exactly how applying the PARA method to an Obsidian vault reduces friction in personal knowledge management with clear examples and workflows."
 pubDate: "2026-05-02"

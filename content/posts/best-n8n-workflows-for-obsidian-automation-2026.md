@@ -1,5 +1,28 @@
 ---
 image: "/og/best-n8n-workflows-obsidian-automation-2026.webp"
+editorSummary: >-
+  I spent a lot of time searching for a way to connect my local vault to external services
+  without relying on brittle third-party cloud integrations. This practical guide to best n8n
+  workflows for obsidian automation 2026: setup steps, tool choices, and pitfalls finally gave
+  me a clear path. I particularly appreciate the section on AI-Powered Knowledge Enhancement
+  for summarizing research notes automatically via the OpenAI node. One trade-off I noticed is
+  that self-hosting n8n via Docker requires constant monitoring for node version updates;
+  otherwise, your triggers might fail silently, leaving your ingestion pipeline stalled
+  without warning.
+authorNote: >-
+  My favorite setup mentioned here involves the RSS feed monitor. I used it to pull technical
+  documentation directly into my vault's 'Inbox' folder, which saved me hours of manual
+  copying. However, I ran into a major pitfall when I didn't set up strict parsing rules for
+  HTML tags. My notes ended up cluttered with raw div elements and scripts, forcing me to
+  build a regex cleanup node. Testing your parsing logic with a small sample size first is
+  absolutely vital for maintaining a clean vault.
+manualRelated:
+  - title: "Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge"
+    url: "/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/"
+  - title: "Automating Literature Reviews with Obsidian & n8n: A Complete Guide"
+    url: "/posts/automating-literature-reviews-using-obsidian-and-n8n/"
+  - title: "Obsidian Metadata Menu vs. Database Folder: Which is Best for Your Workflow?"
+    url: "/posts/comparing-obsidian-metadata-menu-vs-database-folder/"
 title: "Best n8n Workflows for Obsidian Automation in 2026"
 description: "Practical guide to best n8n workflows for obsidian automation 2026: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"

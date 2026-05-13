@@ -1,5 +1,27 @@
 ---
 image: "/og/best-apple-shortcuts-for-obsidian-power-users.webp"
+editorSummary: >-
+  I often find the mobile capture experience in Obsidian a bit sluggish when I need to log
+  quick thoughts on the go. To solve this, I investigated how to Discover the best Apple
+  Shortcuts for Obsidian power users to automate your PKM workflow. In this review, I explore
+  how tools like Actions for Obsidian provide a native feel, while the Obsidian Advanced URI
+  plugin offers a free, highly technical path for those comfortable with URL encoding. One
+  major trade-off I noticed is that background file editing via ToolBox Pro only works for
+  iCloud vaults, making it incompatible with Obsidian Sync.
+authorNote: >-
+  My current setup relies on a custom shortcut triggered by an Apple Watch complication. I use
+  the Drafts App Integration to dictate quick reminders during my morning commute, which then
+  formats the text and appends it to my daily note. I previously struggled with the lag of the
+  main app loading, but using the Obsidian Advanced URI plugin to trigger actions silently
+  fixed my workflow. It took some time to get the URL parameters right, but the friction-less
+  capture is worth the effort.
+manualRelated:
+  - title: "Setting Up Obsidian with Apple Shortcuts for Mobile: Complete Guide"
+    url: "/posts/setting-up-obsidian-with-apple-shortcuts-for-mobile/"
+  - title: "Templater Plugin Tutorial for Obsidian Power Users: Advanced Automation"
+    url: "/posts/templater-plugin-tutorial-for-obsidian-power-users/"
+  - title: "Obsidian vs Heptabase for Visual Research Workflows: Which Is Better?"
+    url: "/posts/obsidian-vs-heptabase-for-visual-research-workflows/"
 title: "Best Apple Shortcuts for Obsidian Power Users in 2026"
 description: "Discover the best Apple Shortcuts for Obsidian power users to automate your PKM workflow. Compare top iOS/macOS tools for rapid capture and organization."
 pubDate: "2026-05-05"

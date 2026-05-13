@@ -1,5 +1,29 @@
 ---
 image: "/og/advanced-dataview-js-scripts-for-custom-obsidian-dashboards.webp"
+editorSummary: >-
+  I found that moving from standard DQL to DataviewJS is the only way to build a reactive
+  dashboard in my Obsidian vault. By using the dv object and the integrated luxon library, I
+  can finally calculate real-time project progress instead of just listing static links. This
+  article provides the scripts I used to create a rolling 7-day habit matrix, which is far
+  more flexible than native tables. However, I have to caution you about the performance
+  trade-off. Running scripts on every note render can lead to noticeable lag without
+  restricted query scopes. I now always use specific folder paths in dv.pages() to avoid
+  unnecessary vault-wide scans that slow my workspace to a crawl.
+authorNote: >-
+  I spent hours troubleshooting why my habit tracker showed 'undefined' until I realized I
+  hadn't standardized my YAML frontmatter across all daily notes. After enforcing a strict
+  template for fields like 'exercise' and 'reading', I implemented the rolling 7-day matrix
+  script mentioned here. It has transformed my morning review by providing an immediate visual
+  check on my consistency. One pitfall I encountered was using dv.pages() without folder
+  constraints, which made my mobile Obsidian app almost unusable until I optimized the query
+  scope.
+manualRelated:
+  - title: "Templater Plugin Tutorial for Obsidian Power Users: Advanced Automation"
+    url: "/posts/templater-plugin-tutorial-for-obsidian-power-users/"
+  - title: "Obsidian Plugins for Habit Tracking 2026: Complete Setup Guide"
+    url: "/posts/obsidian-plugins-for-habit-tracking-2026/"
+  - title: "7 Best Obsidian Plugins for Developers and Code Snippets in 2026"
+    url: "/posts/best-obsidian-plugins-for-developers-and-code-snippets/"
 title: "Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide"
 description: "Master advanced dataview js scripts for custom obsidian dashboards to transform your vault. Learn code snippets that automate tracking and elevate productivity."
 pubDate: "2026-05-02"

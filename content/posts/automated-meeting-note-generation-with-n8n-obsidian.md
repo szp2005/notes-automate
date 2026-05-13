@@ -1,5 +1,28 @@
 ---
 image: "/og/automated-meeting-note-generation-with-n8n-obsidian.webp"
+editorSummary: >-
+  I’ve spent too many hours manually cleaning up messy transcripts, so I find this technical
+  walkthrough for building an Automated Meeting Note Generation With n8n Obsidian: 5-Step
+  Guide incredibly practical. My favorite part of this setup is the transition from Extraction
+  via Webhooks to structured markdown. One critical observation I’ve made is that you should
+  never write these automated outputs directly into your main vault folders. Instead, I use a
+  dedicated inbox folder as a quarantine zone to catch any potential hallucinated data before
+  it clutters my permanent knowledge graph. This guide perfectly balances external API
+  convenience with local privacy options like Ollama.
+authorNote: >-
+  When I first connected n8n to my vault, I struggled with network connectivity between my
+  Docker container and the Obsidian Local REST API plugin. I eventually solved it by using my
+  machine's local IP address instead of localhost. Now, every time a call ends, my transcript
+  automatically appears in my inbox with full YAML frontmatter. I specifically configured my
+  system prompt to output action items in the standard markdown checkbox format, which allows
+  my existing Dataview queries to track tasks across different files without extra effort.
+manualRelated:
+  - title: "Obsidian vs Notion API for Automated Workflows: 2026 Comparison"
+    url: "/posts/obsidian-vs-notion-api-for-automated-workflows/"
+  - title: "n8n Obsidian Integration for Automated Web Capture: Complete Guide"
+    url: "/posts/n8n-obsidian-integration-for-automated-web-capture/"
+  - title: "Automating Literature Reviews with Obsidian & n8n: A Complete Guide"
+    url: "/posts/automating-literature-reviews-using-obsidian-and-n8n/"
 title: "Automated Meeting Note Generation With n8n Obsidian: 5-Step Guide"
 description: "Learn how to build an automated meeting note generation workflow using n8n and Obsidian. Capture transcripts, summarize via LLM, and sync directly to your vault."
 pubDate: "2026-05-07"

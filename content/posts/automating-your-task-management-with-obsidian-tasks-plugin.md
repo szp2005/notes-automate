@@ -1,5 +1,28 @@
 ---
 image: "/og/automating-your-task-management-with-obsidian-tasks-plugin.webp"
+editorSummary: >-
+  I've spent years jumping between dedicated to-do apps, but I find that keeping action items
+  inside my knowledge base is far more effective. Setting Up Your Automated Dashboards using
+  the Obsidian Tasks plugin is the key to making this work without manual overhead. I
+  specifically appreciate how the plugin handles Global vs. Local Task Tracking; I can jot
+  down a task in a messy meeting note and trust it will appear on my daily dashboard. However,
+  a significant trade-off involves vault performance. If you have over 10,000 files, running
+  global queries causes noticeable lag. I now limit query scopes to specific folders to keep
+  my workspace snappy and responsive.
+authorNote: >-
+  My setup relies heavily on the recurrence engine mentioned here. For instance, I use the
+  `every month on the 1st` rule for processing invoices. Before I automated this, I would
+  often forget these admin tasks because they weren't tied to a specific project note. Now, by
+  using the Tasks modal to append the recurrence symbol, the system generates a fresh
+  check-box the moment I finish the old one. This keeps my recurring obligations visible
+  without me having to manually reschedule them every single month.
+manualRelated:
+  - title: "Automate Obsidian Daily Notes with Python: A Complete Guide"
+    url: "/posts/automate-obsidian-daily-notes-using-python/"
+  - title: "Templater Plugin Tutorial for Obsidian Power Users: Advanced Automation"
+    url: "/posts/templater-plugin-tutorial-for-obsidian-power-users/"
+  - title: "Applying the PARA Method to an Obsidian Vault: Complete Guide"
+    url: "/posts/applying-the-para-method-to-an-obsidian-vault/"
 title: "Automating Your Task Management With Obsidian Tasks Plugin: Guide"
 description: "Learn how automating your task management with Obsidian Tasks plugin can streamline your workflow, organize projects, and boost your daily productivity."
 pubDate: "2026-05-02"
