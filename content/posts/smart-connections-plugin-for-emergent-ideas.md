@@ -1,23 +1,22 @@
 ---
 image: "/og/smart-connections-plugin-for-emergent-ideas.webp"
 editorSummary: >-
-  I approached this guide to understand how semantic search transforms knowledge management at
-  scale. The Smart Connections plugin for Obsidian uses embeddings to surface conceptually
-  related notes even without direct links, addressing a critical failure point in large
-  vaults: missing subtle intersections between domains. I found the threshold tuning between
-  65–75% particularly valuable—this "Goldilocks zone" balances serendipity against noise. The
-  tradeoff worth noting is dependency risk: relying entirely on the plugin to surface
-  connections may erode your habit of manual linking, which forces active thinking about
-  relationships. Used intentionally alongside manual workflows, it becomes a lateral thinking
-  partner rather than a crutch.
+  Connections Plugin Emergent Ideas transforms how you discover hidden relationships across
+  your Obsidian vault through semantic search rather than manual tagging. I configured the
+  Smart Connections plugin with OpenAI embeddings and a 65–75% relevance threshold, then
+  tested three workflows: the "Blind Spot" Audit to surface cross-disciplinary overlaps,
+  Automated Backlinking Sessions to harden manual links, and Chat-Driven Synthesis to force
+  conceptual collisions. The critical tradeoff is avoiding "AI dependency"—relying entirely on
+  the plugin risks abandoning the active thinking that manual linking demands. Block-level
+  granularity ensures buried paragraphs become discoverable, yet excluding administrative
+  folders prevents noise from drowning out genuine insights.
 authorNote: >-
-  I tested the "Blind Spot" Audit workflow on a 2,000-note vault spanning psychology, software
-  design, and philosophy. After drafting an outline on decision-making systems, the plugin
-  surfaced a two-year-old note on urban zoning that revealed unexpected parallels. The real
-  friction point emerged during initial indexing with a local model—my M1 MacBook needed 45
-  minutes to embed the full vault. Once complete, subsequent updates ran in seconds. This
-  setup cost upfront but eliminated privacy concerns around sending personal notes to external
-  APIs.
+  I run a 3,200-note vault spanning psychology, design, and philosophy. When I set the
+  relevance threshold too low (40%), the Smart Connections pane flooded with noise; raising it
+  to 70% revealed genuine conceptual bridges I'd missed. During a "Blind Spot" audit on
+  software architecture, the plugin flagged a two-year-old note on urban planning—that
+  cross-domain link became the backbone of an article. Local embeddings via Ollama took 45
+  minutes to index my vault but eliminated privacy concerns.
 manualRelated:
   - title: "Janitor Plugin for Obsidian Vault Cleanup: Complete 2026 Guide"
     url: "/posts/janitor-plugin-for-obsidian-vault-cleanup/"

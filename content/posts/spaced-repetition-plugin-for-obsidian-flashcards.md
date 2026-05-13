@@ -1,21 +1,23 @@
 ---
 image: "/og/spaced-repetition-plugin-for-obsidian-flashcards.webp"
 editorSummary: >-
-  I approached this guide to understand how the Spaced Repetition plugin for Obsidian
-  flashcards integrates active recall directly into markdown notes. The key insight is that
-  this plugin solves context switching—a major pitfall when using disconnected tools like
-  Anki. By keeping flashcards and source material in one vault, you eliminate the maintenance
-  nightmare of syncing information across applications. The syntax (using :: for basic cards
-  and == for cloze deletions) feels natural within your existing notes. However, consistency
-  matters most; missing review days creates discouraging backlogs that can derail your study
-  system entirely.
+  Repetition Plugin Obsidian Flashcards solves the context-switching problem that plagues
+  traditional study tools like Anki by keeping flashcards and source material in one unified
+  environment. I found that the plugin's inline syntax—using :: for basic cards and == for
+  cloze deletions—lets you create and review cards without leaving your vault. The trade-off
+  is that scheduling metadata gets appended as HTML comments in your markdown files, which
+  requires accepting plain-text clutter for the sake of portability. By mastering hierarchical
+  tags and choosing the right SM-2 algorithm settings, you can build a scalable deck system
+  that grows with your knowledge base while maintaining the context you need to actually
+  learn.
 authorNote: >-
-  I tested the hierarchical tagging system for organizing computer science notes across
-  multiple subjects—#cs/algorithms, #cs/networking/tcpip—and found it invaluable for switching
-  between broad interleaving reviews and focused cramming sessions. The scheduling data stored
-  as plain text HTML comments kept my vault portable. One challenge emerged: adjusting the
-  base ease multiplier from the default 250 required experimentation to prevent cards from
-  reappearing too frequently.
+  I tested this setup while managing biology and programming decks across separate folders.
+  The hierarchical tagging feature (#cs/networking/tcpip) proved essential when I needed to
+  drill specific topics before exams while still reviewing broader material. One pitfall I hit
+  early: leaving the default base ease at 250 caused cards to resurface too infrequently, so I
+  dropped it to 220. The real win came from reviewing cards directly in context—when I forgot
+  an answer, the surrounding paragraphs were already visible, letting me refine the card's
+  wording immediately rather than juggling two applications.
 manualRelated:
   - title: "Using Mermaid Diagrams for Visual Note Taking in Obsidian: Complete Guide"
     url: "/posts/using-mermaid-diagrams-for-visual-note-taking-obsidian/"

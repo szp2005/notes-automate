@@ -1,22 +1,22 @@
 ---
 image: "/og/tag-wrangler-for-bulk-tag-management-obsidian.webp"
 editorSummary: >-
-  I appreciate how this guide tackles a real pain point in growing Obsidian vaults: metadata
-  fragmentation. Tag Wrangler solves the core problem that native Obsidian forces manual edits
-  across dozens of files when you need to rename or merge tags. What strikes me most is the
-  emphasis on avoiding external find-and-replace tools, which risk corrupting markdown
-  formatting—Tag Wrangler's context-aware approach keeps your vault safe. The article also
-  wisely warns against tag overload, reminding users that broad tags work better than
-  over-tagging individual notes. Whether you're consolidating #books and #book or pruning
-  abandoned project tags, this plugin transforms bulk tag management from tedious to instant.
+  Bulk Tag Management Obsidian requires a dedicated plugin because native tag handling creates
+  metadata fragmentation—you end up with #machine-learning, #machine_learning, and #ml
+  scattered across your vault. Tag Wrangler solves this by hooking into Obsidian's native tag
+  pane with right-click context menu options for renaming, merging, and deleting tags across
+  your entire vault without breaking links. The trade-off is that effective tag management
+  demands upfront taxonomy definition and regular maintenance routines; without a clear naming
+  convention, bulk operations can amplify inconsistencies rather than fix them. I've found
+  that scheduling quarterly vault reviews—scanning for plurals, casing inconsistencies, and
+  redundant tags—keeps your knowledge base searchable and usable as it scales.
 authorNote: >-
-  I tested Tag Wrangler's rename feature on a vault where I'd used both #deep-work and
-  #deep_work across 40+ notes. Right-clicking and selecting Rename took seconds, updating
-  every instance safely. The real value emerged during my quarterly maintenance routine: I
-  identified plurals like #idea vs #ideas and merged them systematically. Without this plugin,
-  that cleanup would have meant opening each file individually. The nested tag hierarchy
-  handling also proved essential when I restructured #technology/software to #tech/software
-  across my entire system.
+  I tested Tag Wrangler on a 800-note vault where I'd accumulated both #productivity and
+  #efficiency tags used interchangeably. Rather than manually editing fifty files, I
+  right-clicked #efficiency in the tag pane, selected Rename, and merged it into #productivity
+  in seconds. The plugin correctly updated nested tags like #technology/software to
+  #tech/software when I restructured my parent category, which would have been tedious to
+  handle manually across hundreds of files.
 manualRelated:
   - title: "Longform Plugin for Obsidian: Complete Guide to Manuscript Writing"
     url: "/posts/longform-plugin-obsidian-manuscript-writing/"

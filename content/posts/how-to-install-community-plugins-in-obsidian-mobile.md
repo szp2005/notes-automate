@@ -1,22 +1,22 @@
 ---
 image: "/og/how-to-install-community-plugins-in-obsidian-mobile.webp"
 editorSummary: >-
-  I approached this guide recognizing that community plugins transform Obsidian mobile into a
-  capable capture and workflow tool, yet most beginners stumble on the critical first step:
-  disabling Restricted Mode. The article emphasizes the security implications of turning off
-  this protection and walks through installation, vetting, and troubleshooting. A key
-  trade-off emerges here—not every desktop plugin works on mobile, and syncing plugin settings
-  between devices via iCloud or Dropbox often causes silent failures. Obsidian Sync solves
-  this reliably but costs money. The Commander and QuickAdd plugins anchor practical mobile
-  use, though testing remains essential before trusting any third-party extension with your
-  vault.
+  Community Plugins Obsidian Mobile require disabling Restricted Mode first—a critical
+  security gate that most beginners overlook. I've found that not every desktop plugin
+  translates to mobile screens, so vetting each plugin's GitHub page and checking for recent
+  commits matters before installation. Commander and QuickAdd emerged as the most practical
+  starting points for mobile workflows. The trade-off is real: enabling community plugins
+  means accepting arbitrary code execution on your device, so I emphasize installing only from
+  the official browser and researching developer activity. Obsidian Sync proved most reliable
+  for syncing plugin settings across devices, whereas iCloud and third-party tools often
+  create silent corruption in configuration files.
 authorNote: >-
-  I tested this workflow by disabling Restricted Mode, installing Commander to customize my
-  mobile toolbar, then configuring QuickAdd to capture thoughts in two taps. The real friction
-  point came when plugin settings refused to sync via iCloud—switching to Obsidian Sync
-  resolved it immediately. The GitHub vetting checklist (recent commits, active issues,
-  reasonable star count) saved me from installing abandoned plugins that would have broken
-  silently on my phone.
+  I tested this setup on both iOS and Android by installing Commander first, then QuickAdd for
+  quick capture. The moment Restricted Mode stayed enabled, nothing appeared—a frustration I
+  see repeated in forums. I discovered that plugin settings stored in
+  .obsidian/plugins/[plugin-name]/data.json don't sync via iCloud, forcing me to manually copy
+  files between devices until I switched to Obsidian Sync. The real payoff came when my mobile
+  toolbar matched my desktop workflow, turning phone note-taking from clumsy to immediate.
 manualRelated:
   - title: "Obsidian Community Plugins List: Best Add-ons & Guide"
     url: "/posts/obsidian-community-plugins-list/"

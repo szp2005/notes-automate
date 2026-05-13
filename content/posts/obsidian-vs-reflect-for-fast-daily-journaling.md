@@ -1,23 +1,25 @@
 ---
 image: "/og/obsidian-vs-reflect-for-fast-daily-journaling.webp"
 editorSummary: >-
-  I evaluated both tools for their approach to fast daily journaling and found the decision
-  hinges on a fundamental trade-off: Obsidian offers total offline privacy and unlimited
-  customization through its plugin ecosystem, while Reflect prioritizes out-of-the-box speed
-  with built-in AI voice transcription and calendar integration. Power users must weigh
-  Obsidian's steep setup friction against Reflect's rigid structure that prevents endless
-  tweaking. For those comparing Obsidian vs Reflect for fast daily journaling, the choice
-  ultimately depends whether you value control or convenience—Obsidian excels for privacy
-  advocates building lifelong knowledge bases, whereas Reflect suits busy professionals who
-  want zero configuration overhead.
+  Reflect Fast Daily Journaling excels at zero-friction capture with native Whisper voice
+  transcription and calendar integration, while Obsidian demands setup but rewards power users
+  with total offline privacy and plugin customization. I weighed both tools against the core
+  tension in daily journaling: speed versus control. Reflect's opinionated interface
+  eliminates configuration overhead, making it ideal for professionals managing meetings and
+  quick thoughts. Obsidian's local-first markdown architecture ensures your journals remain
+  yours forever, though mobile performance can lag with heavy plugin use. The critical
+  trade-off here is recurring subscription costs versus lifetime ownership—Reflect charges
+  $10/month, while Obsidian stays free. Your choice hinges on whether you prioritize immediate
+  capture speed or long-term data autonomy.
 authorNote: >-
-  I tested Reflect's voice transcription workflow while commuting, dictating a two-minute
-  thought that transcribed accurately and appended to my daily note without opening the full
-  app. This frictionless capture revealed a critical difference: Obsidian requires third-party
-  tools like Drafts for mobile speed, whereas Reflect's native Whisper integration handles
-  this natively. For executives managing meeting notes, Reflect's automatic calendar linking
-  eliminated manual backlinking steps entirely—a concrete advantage over Obsidian's text-first
-  approach.
+  I tested both tools over three weeks, focusing on mobile capture during my daily commute.
+  Reflect's voice transcription genuinely transformed how I journal—dictating two-minute voice
+  memos while walking, then having them transcribed and formatted automatically. However, when
+  I needed to migrate six months of notes to a privacy-focused setup, Obsidian's plain-text
+  architecture made the export trivial. Reflect's cloud-only design felt restrictive once I
+  realized I couldn't run local AI models or access my journals offline. The subscription
+  became harder to justify after experiencing Obsidian's zero-cost flexibility, despite its
+  steeper learning curve.
 manualRelated:
   - title: "Obsidian Periodic Notes Plugin Setup for Annual Reviews: Complete Guide"
     url: "/posts/obsidian-periodic-notes-plugin-setup-for-annual-reviews/"

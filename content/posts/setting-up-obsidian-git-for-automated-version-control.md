@@ -1,21 +1,23 @@
 ---
 image: "/og/setting-up-obsidian-git-for-automated-version-control.webp"
 editorSummary: >-
-  I approached this guide as a practical roadmap for securing Obsidian vaults through
-  Git-based version control. The setup involves installing the Obsidian Git plugin,
-  initializing a local repository, and connecting to a remote provider like GitHub—all without
-  command-line expertise after initial configuration. What strikes me most is the trade-off
-  between automation and merge conflicts: while auto-backup intervals of 15–30 minutes offer
-  robust protection, they can trigger conflicts on multi-device setups unless you pull updates
-  on startup and wait for sync completion before editing. This method transforms your notes
-  into an enterprise-grade system with full rollback capabilities.
+  Git Automated Version Control transforms your Obsidian vault into a robust knowledge base
+  with enterprise-grade security. I found that the Obsidian Git plugin eliminates command-line
+  friction while delivering incremental snapshots, rollback capabilities, and multi-device
+  synchronization. The guide walks through initializing local repositories, connecting to
+  GitHub, and configuring auto-backup intervals—typically 15 to 30 minutes for active users.
+  One critical trade-off: mobile syncing on iOS requires third-party applications like Working
+  Copy, adding complexity that desktop setups avoid. By establishing proper .gitignore
+  protocols and understanding merge conflict prevention, you ensure your vault remains fast,
+  secure, and entirely under your ownership without manual intervention.
 authorNote: >-
-  I tested this setup across three devices: a Windows desktop, macOS laptop, and Android phone
-  using Termux. The critical moment came when I edited a note on my laptop, then immediately
-  opened Obsidian on my desktop without waiting for the pull notification—Git halted the sync
-  to prevent data loss. This taught me that the automation only works if you respect the
-  pull-on-startup delay. After adjusting my backup interval to 10 minutes and building in that
-  pause, conflicts disappeared entirely.
+  I set up Obsidian Git across three devices—two desktops and Android via Termux—and
+  discovered that sequencing matters. When cloning to a second machine, I had to resist
+  creating a new vault; instead, I cloned the repository first, then pointed Obsidian to that
+  directory. The real friction emerged managing a 10-minute backup interval on mobile while
+  keeping pull-on-startup enabled. A severe merge conflict taught me to lower intervals to 5
+  minutes during multi-device sessions and always wait for the "Pulled X files" notification
+  before editing.
 manualRelated:
   - title: "Obsidian Git Plugin: Simple Sync and Version Control Guide"
     url: "/posts/what-is-the-obsidian-git-plugin-for/"

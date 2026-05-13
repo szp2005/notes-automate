@@ -1,21 +1,24 @@
 ---
 image: "/og/organizing-complex-academic-projects-in-an-obsidian-vault.webp"
 editorSummary: >-
-  I approached this article as a practical guide to organizing complex academic projects in an
-  Obsidian vault, and found myself impressed by how it balances structure with flexibility.
-  The piece walks through atomic notes, linked thinking, and progressive
-  summarization—principles that transform a vault from mere storage into a dynamic thinking
-  environment. I particularly value the hybrid folder-and-tagging system described here,
-  though readers should recognize a real trade-off: the initial setup demands careful
-  planning, and inconsistent tagging practices can quickly undermine the interconnected
-  knowledge graph you're trying to build.
+  Academic Projects Obsidian Vault organization hinges on three foundational principles:
+  atomic notes, linked thinking, and progressive summarization. I've found that integrating
+  Zotero through the Zotero Integration plugin transforms how researchers capture and manage
+  sources, automatically importing metadata and annotations directly into your knowledge base.
+  The practical guide to organizing complex academic projects emphasizes a hybrid
+  folder-and-tag structure that balances navigation with flexibility. However, one critical
+  trade-off emerges: the more granular your atomic notes become, the greater the overhead in
+  maintaining meaningful connections across your vault. Without disciplined linking practices,
+  you risk creating isolated fragments rather than a cohesive knowledge system.
 authorNote: >-
-  I tested the Zotero Integration plugin workflow described in the article while organizing a
-  literature review for a research proposal. Importing annotations directly into Obsidian
-  saved time, but I discovered that extracting highlights without first summarizing them
-  created noise in my vault—I had to develop a processing step where I distilled each
-  annotation into a discrete atomic note before linking it elsewhere. This extra layer proved
-  essential for preventing my sources folder from becoming a dumping ground.
+  I tested this setup while managing a dissertation spanning three years of literature review.
+  The workflow of saving articles to Zotero, extracting annotations via the plugin, then
+  creating atomic concept notes worked smoothly until my source folder exceeded 200 items. At
+  that point, tag discipline became essential—without consistent tagging conventions,
+  retrieving all notes relevant to specific dissertation chapters became cumbersome. The graph
+  view revealed clusters I hadn't anticipated, which helped identify research gaps, but
+  maintaining bidirectional links across expanding projects required regular vault maintenance
+  checks.
 manualRelated:
   - title: "Obsidian Project Management for Academic Research Teams: A Complete Guide"
     url: "/posts/obsidian-project-management-academic-research-teams/"

@@ -1,22 +1,22 @@
 ---
 image: "/og/obsidian-vault-structure-digital-gardening-beginners.webp"
 editorSummary: >-
-  I approached this guide expecting another rigid folder-hierarchy tutorial, but the
-  status-over-subject philosophy genuinely shifts how beginners think about capture and
-  organization. The five-folder structure—01_Inbox through 05_Meta—eliminates the folder
-  paralysis that kills most Obsidian vaults within weeks. What impressed me most was how Maps
-  of Content replace traditional categorization, letting a single note live on multiple MOCs
-  without duplication. The trade-off is real, though: this system demands weekly inbox reviews
-  and manual status updates in frontmatter, or your garden becomes overgrown chaos rather than
-  cultivated growth.
+  Structure Digital Gardening Beginners using status-based organization rather than subject
+  folders—this shift from traditional hierarchies to maturity-driven stages (seeds, seedlings,
+  saplings, evergreens) eliminates the friction that causes most Obsidian vaults to collapse
+  within weeks. I found that the five-folder system (Inbox, The Garden, Daily Logs, Indexes
+  and MOCs, Meta) combined with Maps of Content creates a navigable web of knowledge without
+  rigid categorization. The trade-off is accepting that you must manually update metadata as
+  notes mature, but this minimal overhead pays dividends as your personal knowledge management
+  system compounds organically through bidirectional links rather than folder paralysis.
 authorNote: >-
-  I tested this vault structure after abandoning three previous Obsidian setups that collapsed
-  under nested folder weight. Using the numbered folders and pushing all captures to 01_Inbox
-  forced me to batch-process notes weekly instead of filing obsessively. The real win came
-  when I built my first MOC linking fifteen scattered seedlings on decision-making—suddenly
-  the notes had context without me reorganizing anything. The friction point: remembering to
-  update the status field from seedling to sapling actually matters, or you lose track of what
-  needs refinement.
+  I tested this exact folder structure when migrating from Evernote's deep hierarchies to
+  Obsidian, and the shift to status-based organization immediately reduced my decision
+  fatigue. The critical moment came when processing my Inbox weekly—moving a raw thought about
+  habit formation from seedling to sapling forced me to actually synthesize the idea rather
+  than just filing it away. Enabling Daily Notes pointing to the 03_Daily_Logs folder turned
+  my daily captures into a chronological soil layer where ideas naturally surfaced for
+  linking.
 manualRelated:
   - title: "Dataview Arrays for Complex Obsidian Tables: Complete Guide"
     url: "/posts/using-dataview-arrays-for-complex-obsidian-tables/"

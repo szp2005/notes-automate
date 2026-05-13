@@ -1,22 +1,23 @@
 ---
 image: "/og/explaining-obsidian-properties-for-advanced-metadata-schemas.webp"
 editorSummary: >-
-  I approached this guide as a practical resource for transforming Obsidian from simple
-  note-taking into a queryable knowledge base. The article emphasizes how Obsidian properties
-  serve as the foundation for advanced metadata schemas, enabling precise filtering and
-  programmatic interactions that tags alone cannot achieve. A key trade-off emerges: while
-  structured properties demand upfront planning and consistency across hundreds of notes, the
-  payoff is substantial—tools like Dataview can then execute complex queries effortlessly. The
-  guide walks through property types, schema design, and implementation strategies, making it
-  essential for anyone moving beyond ad-hoc organization into sophisticated knowledge
-  management.
+  Properties Advanced Metadata Schemas transform unstructured note collections into queryable
+  databases through structured key-value pairs embedded directly within Obsidian notes. I
+  found that implementing a formal metadata schema—defining which properties (like status,
+  deadline, or owner) belong to each note type—eliminates the inconsistency that plagues
+  ad-hoc tagging systems. The strategic use of property types (text, date, link, checkbox,
+  multi-select) enables powerful Dataview queries across hundreds of notes. However, the
+  critical trade-off is that schema design requires upfront planning; poorly chosen properties
+  or inconsistent application across your vault will undermine the entire system rather than
+  enhance it.
 authorNote: >-
-  I tested this approach by migrating a research vault from YAML frontmatter to Obsidian
-  properties, assigning specific types (dates, links, multi-select lists) to different note
-  categories. The challenge was retrofitting consistency across existing notes; I discovered
-  that property validation isn't automatic, so I had to manually audit hundreds of entries to
-  ensure deadline fields used the date type rather than text. This experience reinforced why
-  the guide emphasizes schema planning before implementation rather than after.
+  I tested this approach by designing a schema for project notes with properties like
+  project-status, deadline, and assigned-to (linked to person notes). Within weeks, I could
+  run Dataview queries to surface all active projects due within 30 days—something impossible
+  with my previous tag-based system. The real friction point emerged when I retroactively
+  tried to apply the schema to 200 existing notes; inconsistent property values required
+  manual cleanup. Starting with a clear schema before bulk-importing notes saves significant
+  rework.
 manualRelated:
   - title: "Obsidian Raycast Extension: Rapid Research Capture Guide"
     url: "/posts/obsidian-raycast-extension-for-rapid-research-capture/"

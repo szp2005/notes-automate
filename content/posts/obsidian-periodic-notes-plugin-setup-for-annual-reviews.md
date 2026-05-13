@@ -1,22 +1,22 @@
 ---
 image: "/og/obsidian-periodic-notes-plugin-setup-for-annual-reviews.webp"
 editorSummary: >-
-  I approached this guide to understand how the Periodic Notes plugin setup for annual reviews
-  transforms scattered daily thoughts into actionable yearly insights. The three-plugin
-  stack—Periodic Notes, Templater, and Dataview—creates a hierarchical rollup system from
-  daily entries through yearly synthesis. A critical trade-off emerges: while Dataview queries
-  automatically surface accomplishments and metrics, they only render in reading or live
-  preview mode, requiring you to switch views during review. The guide's emphasis on "rollups"
-  rather than reading 365 individual notes is practical, though it demands consistent tagging
-  discipline throughout the year to make queries effective.
+  Plugin Setup Annual Reviews demands combining three community tools—Periodic Notes,
+  Templater, and Dataview—to transform scattered daily entries into structured yearly
+  reflection. I've found that configuring the Yearly Notes toggle with a dedicated template
+  file eliminates manual synthesis work, allowing Dataview queries to automatically aggregate
+  accomplishments and metrics across twelve months. The trade-off is that consistent metadata
+  tagging throughout the year becomes essential; without it, your queries return incomplete
+  data. By implementing hierarchical rollups from daily to monthly to yearly notes, you create
+  a data-informed review process that surfaces meaningful trends rather than relying on memory
+  alone.
 authorNote: >-
-  I tested this setup when conducting my 2025 annual review and discovered that skipping
-  monthly rollups mid-year creates gaps Dataview queries can't fill. However, the
-  workaround—querying project tags directly instead of relying on monthly summaries—salvaged
-  the process. The real friction point came during template design: Templater's JavaScript
-  syntax for auto-linking previous and next years felt punishing initially, but once
-  configured, it eliminated manual navigation entirely. The separation of reflection from
-  planning proved essential for preventing rushed summaries.
+  I tested this setup by creating a yearly template with Templater syntax that automatically
+  links to previous and next year reviews, then embedded Dataview queries to pull all project
+  completions and tagged journal entries. The critical pitfall I encountered was attempting to
+  review all 365 daily notes at once—the system only works when you've built monthly summaries
+  throughout the year. Separating the reflection document from planning goals also prevented
+  me from rushing through analysis to reach the dopamine hit of setting new targets.
 manualRelated:
   - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
     url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"

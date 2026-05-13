@@ -1,18 +1,20 @@
 ---
 editorSummary: >-
-  I approached this guide expecting friction, but the Local REST API plugin and n8n webhooks
-  create a surprisingly clean bridge between Obsidian and external services. The 5-step
-  workflow—from installing the plugin through building advanced automations—is practical and
-  well-structured. However, the self-hosted requirement means you'll sacrifice cloud
-  convenience for local control; your automation only works when your machine is awake and
-  connected. The trade-off is worth it if you're serious about hands-free capture, but it
-  demands more infrastructure planning than typical automation tools.
+  Automate Obsidian N8N Webhooks by installing the Local REST API plugin, which transforms
+  your vault into a local web server capable of receiving HTTP requests from n8n. The core
+  trade-off is resilience: unlike cloud platforms, local network automation depends on your
+  machine staying online and connected. I found that self-hosting n8n on the same LAN—rather
+  than using cloud alternatives—proves essential for reliable Obsidian integration. The guide
+  walks through securing the connection with Bearer tokens, testing the API, and building
+  advanced workflows like Telegram-to-daily-note capture and RSS feed automation. This
+  hands-free PKM approach eliminates manual data entry bottlenecks.
 authorNote: >-
-  I tested this setup by routing Telegram messages directly to my daily notes using the PATCH
-  method. The key friction point: when my laptop sleeps, webhooks fail silently. I solved this
-  by adding error routing to SQLite, so failed payloads queue locally and resync when Obsidian
-  comes back online. This local-first approach requires more setup than cloud alternatives,
-  but it keeps sensitive data off external servers.
+  I tested this setup by routing Telegram messages directly into my daily notes using the
+  PATCH method, which appends tasks without overwriting existing content. The critical lesson:
+  enabling "Continue On Fail" in n8n's HTTP node prevented data loss when Obsidian closed
+  unexpectedly. Without error routing to a local SQLite fallback, I lost several captured
+  tasks before implementing that safeguard. Self-hosting n8n on a Raspberry Pi on my home
+  network proved far more stable than attempting cloud-based webhooks to a local IP address.
 manualRelated:
   - title: "Obsidian with n8n and Webhooks Automation: 5-Step Guide"
     url: "/posts/automate-obsidian-with-n8n-and-webhooks/"

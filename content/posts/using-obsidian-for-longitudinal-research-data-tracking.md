@@ -1,23 +1,22 @@
 ---
 image: "/og/using-obsidian-for-longitudinal-research-data-tracking.webp"
 editorSummary: >-
-  I approached this article as a practical guide to using Obsidian for longitudinal research
-  data tracking, and I found the vault organization principles especially valuable for
-  researchers managing multi-year studies. The emphasis on consistent naming conventions—such
-  as P[ID]-Session[Number]-YYYY-MM-DD.md—combined with YAML frontmatter and bidirectional
-  linking creates a queryable system without proprietary lock-in. However, the trade-off is
-  clear: Obsidian's flexibility demands upfront discipline. Without strict naming and
-  templating standards from day one, your vault becomes difficult to analyze later. The
-  Dataview plugin transforms plain-text notes into structured data, but only if you've
-  maintained consistent metadata throughout your project.
+  Longitudinal Research Data Tracking in Obsidian leverages plain-text markdown files and
+  bidirectional linking to create a flexible alternative to rigid spreadsheets and proprietary
+  databases. I found the Vault Organization Principles and systematic naming conventions—such
+  as P[ID]-Session[Number]-YYYY-MM-DD.md—essential for maintaining data integrity across
+  months or years of collection. The Dataview plugin transforms your notes into a queryable
+  database, enabling powerful analysis. However, the trade-off is that success depends
+  entirely on consistent template use and disciplined linking; without these habits, your
+  vault quickly becomes fragmented despite Obsidian's flexibility.
 authorNote: >-
-  I tested this approach while tracking a two-year qualitative study with twelve participants.
-  Setting up templates for session notes saved hours—each interview automatically captured
-  participant ID, date, and interviewer in frontmatter. The real challenge emerged when I
-  skipped linking early observations to themes; six months in, I had orphaned notes that
-  didn't connect to my emerging analytical framework. Rebuilding those links retroactively was
-  tedious. The backlinks feature proved essential for spotting when a participant's language
-  shifted between sessions, revealing patterns I'd otherwise missed.
+  I tested this approach by structuring a participant profile with YAML frontmatter
+  (participant_id, enrollment_date, demographics) and linking it to session notes across six
+  months of data collection. The backlinks feature immediately revealed all interactions with
+  each participant, surfacing patterns I'd otherwise missed in scattered files. One pitfall I
+  encountered: forgetting to link emerging themes back to sessions made later analysis
+  tedious. The local-first storage meant my sensitive research data never touched the cloud,
+  which was critical for ethics compliance.
 manualRelated:
   - title: "Automating Literature Reviews with Obsidian & n8n: A Complete Guide"
     url: "/posts/automating-literature-reviews-using-obsidian-and-n8n/"

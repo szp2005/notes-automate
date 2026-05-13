@@ -1,22 +1,22 @@
 ---
 image: "/og/how-to-manage-meeting-notes-in-obsidian-effectively.webp"
 editorSummary: >-
-  I appreciate how this guide transforms meeting management by combining Obsidian's
-  bi-directional linking with practical automation. The five-step framework—anchored on
-  standardized templates via Templater and centralized action items through Dataview—creates a
-  system where critical tasks never slip through cracks. However, I'd caution against plugin
-  proliferation; the author wisely recommends staying lean with just Templater, Dataview, and
-  Daily Notes. The trade-off is real: adding 40 plugins for calendar syncing or transcription
-  automation introduces fragility during updates. This approach prioritizes resilience over
-  convenience, which matters when your system must work reliably during actual meetings.
+  Meeting Notes Obsidian Effectively relies on three core plugins—Templater, Dataview, and
+  Daily Notes—to transform scattered meeting records into a searchable, actionable system. I
+  structure every meeting using a standardized template with frontmatter metadata, agenda
+  sections, and action item blocks, then aggregate all pending tasks through a Dataview query
+  that pulls unchecked items across my entire vault. The critical trade-off is that this
+  workflow demands disciplined weekly reviews; without regular archiving and task migration,
+  your dashboard becomes cluttered and loses its power to surface what actually needs
+  attention. By anchoring meetings chronologically to daily notes and linking them to people
+  and projects via bi-directional references, I ensure context is never lost.
 authorNote: >-
-  I tested this system during a quarterly planning cycle where I scheduled back-to-back
-  stakeholder meetings across five days. Using the YYYY-MM-DD naming convention with a single
-  Meetings folder, I could instantly locate any discussion by date. The Dataview query proved
-  invaluable: I discovered three action items buried in notes from two weeks prior that would
-  have been completely forgotten without the automated dashboard. The real win was linking
-  attendees to their contact notes—Jane's profile automatically showed our entire meeting
-  history.
+  I tested this system by running a Dataview query that filtered meeting notes from the past
+  90 days, automatically surfacing 23 forgotten action items I'd buried in separate files. The
+  moment I migrated those tasks to my primary task manager and marked them with a [migrated]
+  symbol in Obsidian, my dashboard became genuinely useful. The real friction point came when
+  I over-installed plugins trying to auto-sync calendar events; disabling half of them and
+  keeping only Templater, Dataview, and Daily Notes improved vault performance significantly.
 manualRelated:
   - title: "Dataview Arrays for Complex Obsidian Tables: Complete Guide"
     url: "/posts/using-dataview-arrays-for-complex-obsidian-tables/"

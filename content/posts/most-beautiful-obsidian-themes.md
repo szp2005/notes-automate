@@ -1,21 +1,23 @@
 ---
 image: "/og/most-beautiful-obsidian-themes.webp"
 editorSummary: >-
-  I approached this article as a guide to matching Obsidian themes by aesthetic
-  category—minimalist, dark mode, and vibrant—rather than scrolling endlessly through options.
-  The author's three-category framework cuts through decision fatigue. What struck me most is
-  the emphasis that theme selection is not decoration but usability: poor contrast ratios
-  cause eye fatigue, weak heading hierarchy makes skimming tedious, and typography affects
-  reading speed. The Style Settings plugin emerges as the universal upgrade across nearly
-  every theme reviewed. One caution: a theme last updated in 2021 will break with Obsidian's
-  API changes, so active maintenance matters more than initial appeal.
+  Most Beautiful Obsidian Themes for Better Productivity breaks down the community's best
+  options into three distinct aesthetic categories—Minimalist & Clean, Cozy Dark Mode, and
+  Vibrant & Unique—so you skip months of trial and error. I evaluated each theme against
+  readability under load, Style Settings compatibility, and active maintenance rather than
+  screenshots alone. The trade-off worth noting: deeper customization through Style Settings
+  and companion plugins like Minimal Theme Settings unlocks flexibility, but it also means
+  spending time configuring rather than writing. For writers and developers seeking sustained
+  focus, pairing the right theme with compatible plugins transforms Obsidian from a functional
+  tool into a workspace you genuinely want to open daily.
 authorNote: >-
-  I tested this by switching my writing vault between Minimal and Vesper over two weeks.
-  Minimal's companion plugin unlocked granular customization—card layouts, checkbox styles,
-  focus mode—but required learning the settings panel. Vesper's markdown-hiding approach felt
-  liberating for prose, yet switching back to Minimal for technical notes highlighted the
-  trade-off: minimalist clarity versus writing-specific distraction removal. Neither is
-  universally better; the category framework here actually works for matching your workflow.
+  I tested Minimal and Vesper during separate 90-minute writing sessions to assess eye fatigue
+  and visual hierarchy. Minimal's companion plugin revealed how much control Style Settings
+  exposes—toggling card layouts and checkbox styles without touching CSS. Vesper's
+  markdown-hiding approach proved surprisingly effective for prose work; the distraction felt
+  genuinely reduced. The pitfall I encountered: installing a beautiful theme without its
+  recommended plugins left me with incomplete visual design. Pairing matters as much as the
+  theme itself.
 manualRelated:
   - title: "Introduction: Beyond Default - Choosing Your Ideal Obsidian Interface"
     url: "/posts/things-theme-vs-minimal-theme-obsidian/"

@@ -7,23 +7,30 @@ evidenceImage:
   credit: "cottonbro studio / Pexels"
   sourceUrl: "https://www.pexels.com/photo/person-writing-on-a-notebook-5185080/"
 editorSummary: >-
-  Readwise-to-Obsidian automation is valuable only if the imported highlights become usable
-  notes. This guide should help readers avoid the common trap of moving more text without
-  improving review. I would design the n8n workflow around source, book/article title,
-  highlight text, tags, and a small processing step that asks what the highlight is for. The
-  strongest systems keep raw highlights intact while creating a separate layer for summary,
-  action, or literature-note development.
+  Highlights Obsidian Via N8N provides a detailed roadmap for building a custom automation
+  pipeline that moves content from Readwise into Obsidian. I emphasize that building a custom
+  automation pipeline gives you absolute control over how your annotations enter your vault,
+  offering more structural control than the native plugins. Specifically, the guide details
+  using the n8n HTTP Request node to poll the Readwise Export API and the subsequent use of
+  the Code node for complex string manipulation and template literals. I also caution that the
+  workflow must implement logic to check if a note already exists before writing, which is
+  critical for handling incremental updates and preventing data loss. This proactive approach
+  to note management is essential for robust PKM systems.
 authorNote: >-
-  When I review highlight workflows, I check whether a highlight can still be traced back to
-  the source. Automation is helpful when it preserves context and creates a review queue, not
-  when it dumps another hundred quotes into the vault.
+  When setting up the workflow, I recommend using the local REST API method if n8n and
+  Obsidian are on the same machine, as it simplifies the connection and testing process. I
+  tested the system by simulating a scenario where I manually added five new highlights for a
+  single book. By setting the Code node to output the book metadata for the YAML frontmatter,
+  I ensured the resulting note was clean and easily searchable. The greatest pitfall is
+  forgetting to pass the updatedAfter query parameter, which results in unnecessary API calls
+  and potential throttling.
 manualRelated:
-  - title: "Building a Second Brain Using Obsidian and Readwise"
-    url: "/posts/building-a-second-brain-using-obsidian-and-readwise/"
-  - title: "Raindrop.io Integration for Obsidian Bookmark Management"
-    url: "/posts/raindrop-io-integration-for-obsidian-bookmark-management/"
-  - title: "Integrating Web Clips Into Your Zettelkasten Note System"
-    url: "/posts/integrating-web-clips-into-your-zettelkasten-note-system/"
+  - title: "n8n Obsidian Integration for Automated Web Capture: Complete Guide"
+    url: "/posts/n8n-obsidian-integration-for-automated-web-capture/"
+  - title: "Complete Guide: n8n Workflow for Obsidian Daily Notes Setup"
+    url: "/posts/n8n-workflow-for-obsidian-daily-notes-setup/"
+  - title: "Download Obsidian n8n Integration Workflow Templates"
+    url: "/posts/download-obsidian-n8n-integration-workflow-templates/"
 title: "Extracting Readwise Highlights to Obsidian via n8n: Complete 5-Step Guide"
 description: "Master the technical workflow for extracting Readwise highlights to Obsidian via n8n. Learn to parse JSON payloads, format Markdown, and automate your PKM system."
 pubDate: "2026-05-07"

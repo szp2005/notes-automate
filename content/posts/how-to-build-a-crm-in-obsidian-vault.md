@@ -1,21 +1,23 @@
 ---
 image: "/og/how-to-build-a-crm-in-obsidian-vault.webp"
 editorSummary: >-
-  I approached this guide as a practical blueprint for professionals tired of subscription CRM
-  fees. The article walks through building a CRM in Obsidian vault using the Dataview and
-  Templater plugins to track clients and manage leads without proprietary lock-in. What
-  impressed me most was the emphasis on the Person Template with standardized YAML
-  properties—this consistency is what makes Dataview queries actually work. One trade-off
-  worth noting: Obsidian requires manual email logging, unlike Salesforce, but this discipline
-  ensures only signal-rich interactions clutter your vault. The follow-up queue dashboard
-  transforms scattered contacts into an actionable daily list.
+  Build CRM Obsidian Vault setups using the Dataview and Templater plugins to transform
+  markdown files into a functional relationship management system. I structured contact data
+  with YAML properties, created standardized Person and Organization templates, and built
+  dynamic dashboards that surface follow-up queues and active pipelines. The critical
+  trade-off: Obsidian requires manual logging of email interactions, unlike Salesforce or
+  HubSpot, but this discipline ensures only high-signal information enters your CRM. The real
+  advantage is complete data ownership, zero subscription costs, and seamless integration with
+  your existing knowledge base—perfect for freelancers and consultants managing professional
+  relationships locally.
 authorNote: >-
-  I tested this setup with a 50-contact freelance network and discovered that typos in status
-  fields immediately break Dataview queries—enforcing strict property standards via Obsidian's
-  Properties view became non-negotiable. Mapping the Templater command to a hotkey proved
-  essential; creating a new contact during a call without navigation friction changed how
-  consistently I logged interactions. The monthly audit habit caught three leads stuck in
-  negotiation for six months, forcing real decisions about pipeline health.
+  I built this system to manage my consulting client base without paying monthly SaaS fees.
+  The turning point came when I set up Dataview queries to surface contacts whose
+  next_follow_up dates had passed—suddenly my pipeline became visible at a glance. However, I
+  learned quickly that metadata consistency matters enormously; one typo in a status property
+  breaks your entire dashboard. Now I enforce strict YAML standards using Obsidian's
+  Properties picker rather than typing values manually, and I conduct monthly audits to catch
+  orphaned contacts before they go cold.
 manualRelated:
   - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
     url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"

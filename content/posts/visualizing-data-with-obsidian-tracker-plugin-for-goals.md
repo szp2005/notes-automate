@@ -1,20 +1,21 @@
 ---
 image: "/og/visualizing-data-with-obsidian-tracker-plugin-for-goals.webp"
 editorSummary: >-
-  I found the Obsidian Tracker plugin transforms fragmented goal tracking into a unified
-  system within your existing vault. By structuring daily notes with YAML frontmatter or
-  inline Dataview fields, you can generate line charts, habit calendars, and summary
-  statistics without external tools. The guide covers essential setup steps and parameter
-  configuration, though one critical trade-off emerges: placing heavy Tracker code blocks
-  inside daily notes causes unnecessary lag—dedicated dashboard notes are essential for
-  performance. Mastering searchType definitions and date format alignment prevents common
-  errors that derail visualizations.
+  Obsidian Tracker Plugin Goals require three core data-formatting methods—YAML frontmatter,
+  inline Dataview fields, and simple text tags—to extract values from your daily notes and
+  generate visualizations. I found that pairing standardized templates with dedicated
+  dashboard notes prevents performance lag and ensures consistent aggregation. Line charts
+  work well for continuous metrics like pages read, while habit calendars excel at binary
+  tracking using the "Don't Break the Chain" method. One critical trade-off: date format
+  mismatches between your note titles and plugin settings will silently break chronological
+  plotting, so verifying this alignment upfront saves debugging time later.
 authorNote: >-
-  I tested the Tracker plugin after struggling with scattered habit data across multiple apps.
-  Setting up a dedicated Goal Dashboard note with separate calendar blocks for meditation,
-  running, and reading eliminated the performance drag I initially experienced. The key
-  breakthrough came from standardizing my daily note template with consistent YAML keys using
-  Templater—without this, aggregation fails silently across dates.
+  I set up Tracker to monitor my novel word count using YAML frontmatter (word_count: 1200)
+  and added a target line at 1000 words per day on a bar chart. The visual threshold
+  immediately revealed that I was hitting my goal four days a week but missing it on weekends.
+  Without moving my tracking into Obsidian alongside my daily reflections, I would have
+  overlooked this pattern and blamed myself for inconsistency rather than adjusting my weekend
+  routine.
 manualRelated:
   - title: "Obsidian Plugins for Habit Tracking 2026: Complete Setup Guide"
     url: "/posts/obsidian-plugins-for-habit-tracking-2026/"

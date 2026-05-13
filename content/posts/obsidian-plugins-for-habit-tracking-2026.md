@@ -1,21 +1,22 @@
 ---
 image: "/og/obsidian-plugins-for-habit-tracking-2026.webp"
 editorSummary: >-
-  I approached this guide by examining how Dataview, Tracker, and Heatmap Calendar work
-  together to build a custom, offline-first habit tracking system in Obsidian. The core
-  insight is that managing habits separately from your notes creates friction that leads to
-  abandonment. By utilizing Obsidian Properties to log daily routines and configuring progress
-  charts through Tracker, you get immediate visual feedback without manual data entry across
-  platforms. The trade-off worth noting: while you can track forty variables across multiple
-  chart types, a sustainable system requires limiting yourself to five core habits at any time
-  to maintain focus and mobile performance.
+  Obsidian Plugins Habit Tracking 2026 relies on four core tools—Dataview, Tracker, Heatmap
+  Calendar, and Templater—to build a custom, offline-first productivity system. I discovered
+  that integrating these plugins transforms daily notes into automated dashboards without
+  manual data entry across multiple apps. The critical trade-off is resisting over-tracking:
+  limiting yourself to five core habits prevents dashboard clutter and maintains mobile
+  performance. By using boolean properties for binary routines and reserving integer tracking
+  for habits where volume matters, you create frictionless data capture. The real payoff
+  emerges when weekly and monthly aggregation queries automatically surface trends, giving you
+  actionable feedback that reinforces long-term behavior change.
 authorNote: >-
-  I tested this setup by creating a daily note template with five boolean properties
-  (exercise, meditation, hydration, reading, deep work) and connecting them to a Dataview
-  query on my homepage. The friction point I discovered: complex DataviewJS queries for
-  heatmaps slow down my phone significantly. I solved this by reserving annual heatmaps for
-  desktop weekly reviews only, keeping my daily dashboard to simple 7-day rolling windows.
-  This single constraint transformed my system from abandoned to sustainable.
+  I tested this setup by starting with ten tracked habits, then ruthlessly pruned to five
+  after two weeks. The friction point I hit was rendering complex DataviewJS heatmaps on my
+  iPad during morning reviews—performance tanked until I moved annual heatmaps to my desktop
+  weekly review note. Now I use simple boolean checkboxes for daily execution (meditated,
+  exercise, vitamins) and reserve detailed charts for weekly reflection, where I can actually
+  see patterns emerge without context-switching between apps.
 manualRelated:
   - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
     url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"

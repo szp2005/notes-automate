@@ -1,21 +1,23 @@
 ---
 image: "/og/setting-up-obsidian-with-apple-shortcuts-for-mobile.webp"
 editorSummary: >-
-  I approached this guide expecting standard mobile capture advice, but the Advanced URI
-  plugin emerges as the critical differentiator for serious workflows. The article walks
-  through setting up Obsidian with Apple Shortcuts for mobile, automating quick capture and
-  daily note appending with concrete steps. What strikes me is the trade-off: while URI
-  schemes eliminate Obsidian's boot delay entirely, they require meticulous URL encoding of
-  vault names and content—one unencoded character breaks the entire pipeline. For users
-  willing to invest in proper setup, the payoff is immediate, frictionless note capture from
-  your home screen.
+  Obsidian Apple Shortcuts Mobile setup transforms how you capture ideas on iOS by bypassing
+  the app's slow boot sequence. I found that the Advanced URI plugin is essential for
+  appending to daily notes and automating complex workflows, while the trade-off is that vault
+  name URL encoding requires careful attention—a single unencoded character breaks the entire
+  URI. By building shortcuts that handle text input, timestamps, and web clipping directly
+  through Safari's share sheet, you create a frictionless pipeline that lets you send
+  thoughts, articles, and dictations straight into your vault without waiting for Obsidian to
+  load. This approach fundamentally changes mobile note-taking from a friction-filled
+  experience into instant capture.
 authorNote: >-
-  I tested the Advanced URI approach after struggling with Obsidian's mobile load times on a
-  large vault. Setting up a dictation-to-daily-note shortcut mapped to my iPhone's Action
-  Button proved transformative: one long press records thoughts while driving, release sends
-  them straight to today's note with a timestamp. The real friction point came during
-  troubleshooting—a single space in my vault name wasn't URL-encoded, silently failing for
-  weeks before I caught it in the URI construction step.
+  I tested this workflow by setting up a daily note appender on my iPhone 15, mapping a
+  dictation shortcut to the Action Button for hands-free capture while driving. The real
+  challenge emerged when my vault name contained spaces—I forgot URL encoding initially and
+  spent twenty minutes troubleshooting silent failures where shortcuts ran but data never
+  saved. Once I properly encoded My%20Vault and verified the Advanced URI plugin settings, the
+  entire system worked flawlessly. Now I capture voice notes instantly without opening
+  Obsidian.
 manualRelated:
   - title: "Templater Plugin Tutorial for Obsidian Power Users: Advanced Automation"
     url: "/posts/templater-plugin-tutorial-for-obsidian-power-users/"

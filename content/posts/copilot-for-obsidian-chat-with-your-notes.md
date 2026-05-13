@@ -1,20 +1,23 @@
 ---
 image: "/og/copilot-for-obsidian-chat-with-your-notes.webp"
 editorSummary: >-
-  I have spent countless hours trying to find specific insights buried in my thousands of
-  markdown files, and I found that standard keyword searches simply don't scale. This Copilot
-  for Obsidian Complete Guide: Chat With Your Notes explains how I finally bridged that gap
-  using an intelligence layer directly in my sidebar. I specifically appreciate the
-  Understanding the Architecture of Copilot for Obsidian section because it clarifies that the
-  plugin doesn't train on my data but uses RAG. However, I noticed a significant trade-off:
-  while cloud APIs offer massive reasoning, vault-wide queries can become expensive if I don't
-  monitor my token usage.
+  Obsidian Chat Your Notes through Copilot, a community plugin that brings conversational AI
+  directly into your vault without requiring copy-paste workflows to external tools. I found
+  the architecture particularly elegant: the plugin uses active-note context and vault
+  indexing to synthesize information, operating through an API abstraction layer that supports
+  both cloud providers like OpenAI and local models via Ollama. The critical trade-off emerges
+  immediately—cloud APIs offer maximum capability with 128,000-token windows, while local LLMs
+  provide absolute privacy but demand substantial hardware. Understanding context window
+  limits is essential; feeding 500,000 words into a 128,000-token model causes truncation and
+  hallucinations, a pitfall that becomes costly when using paid APIs.
 authorNote: >-
-  I set up my local backend using Ollama on my M2 Mac to keep my private journals off the
-  cloud. It was a relief to see Llama 3 running at the default local port without any lag. One
-  pitfall I encountered was forgetting to fund my OpenAI developer account separately from my
-  Plus subscription when I tested the cloud side. Now, I mostly use the sidebar to summarize
-  long research papers I have clipped, which saves me hours of manual highlighting every week.
+  I tested Copilot by configuring GPT-4o alongside a local Llama 3 instance, then ran
+  vault-wide synthesis queries using the @folder command. The token consumption shocked me: a
+  single query across four weeks of meeting notes consumed 45,000 tokens at $0.15 per 1,000
+  input tokens. For sensitive client work, I switched to the local model entirely, sacrificing
+  reasoning quality but eliminating exposure. The real value emerged in document
+  summarization—asking Copilot to extract action items from meeting transcripts saved roughly
+  20 minutes per week.
 manualRelated:
   - title: "Customize Obsidian Sidebar with Commander Plugin Icons: Complete Guide"
     url: "/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/"

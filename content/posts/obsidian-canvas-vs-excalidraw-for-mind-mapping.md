@@ -1,19 +1,21 @@
 ---
 image: "/og/obsidian-canvas-vs-excalidraw-for-mind-mapping.webp"
 editorSummary: >-
-  I evaluated both tools through the 'Native vs. Plugin' paradigm, and the distinction matters
-  more than most comparisons acknowledge. Obsidian Canvas is part of Obsidian's core, ensuring
-  stability and seamless note embedding—live note cards let you read and edit sources without
-  leaving the spatial layout. Excalidraw offers richer drawing tools and real collaboration,
-  but demands an extra dependency. The trade-off: Canvas degrades noticeably beyond 40–50
-  embedded notes, while Excalidraw struggles with dense freehand strokes. Most serious PKM
-  users benefit from running both, each serving its own workflow.
+  Canvas Excalidraw Mind Mapping represents a fundamental choice: Obsidian Canvas is part of
+  Obsidian's core, ensuring stability and seamless note embedding, while Excalidraw (via
+  community plugin) offers full drawing power and real collaboration. I weighed both tools
+  across their native vs. plugin paradigm and found that Canvas excels for arranging existing
+  notes into spatial dashboards, whereas Excalidraw dominates when you need freehand
+  sketching, shape libraries, and team sharing. The trade-off matters: Canvas degrades beyond
+  40–50 embedded notes on mobile, while Excalidraw struggles with dense freehand strokes. Most
+  serious PKM users benefit from running both, each in its intended lane.
 authorNote: >-
-  I tested Canvas for a literature map by embedding source notes as live cards and arranging
-  them by research theme. The instant readability of each note without clicking away
-  accelerated my outlining process significantly. However, when I pushed beyond 45 embedded
-  notes, the pan-and-zoom experience on my iPad became sluggish. That constraint shaped how I
-  now use Canvas: focused, intentional maps rather than sprawling knowledge bases.
+  I tested Canvas for a literature map project where I needed to display source notes as live,
+  interactive cards alongside my argument structure. The live-card feature genuinely
+  accelerated my outlining because I could read and edit each note without leaving the spatial
+  layout. However, when I later switched to sketching system architecture diagrams, Canvas's
+  minimal shape tools became limiting. That's when I installed Excalidraw and discovered why
+  the two tools coexist rather than compete.
 manualRelated:
   - title: "Excalidraw Obsidian Plugin Review: Visual Thinking Guide"
     url: "/posts/excalidraw-plugin-for-obsidian-review/"

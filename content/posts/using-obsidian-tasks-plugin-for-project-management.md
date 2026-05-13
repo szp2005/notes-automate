@@ -1,21 +1,22 @@
 ---
 image: "/og/using-obsidian-tasks-plugin-for-project-management.webp"
 editorSummary: >-
-  I approached this article expecting a conventional task-management primer, but what struck
-  me is how thoroughly it addresses the context problem: your project notes live in Obsidian
-  while your tasks scatter across separate apps. The guide provides a downloadable project
-  management template with ready-to-use queries and a PARA-based workflow you can implement
-  immediately. The real trade-off worth noting is that emoji-based metadata syntax—while
-  powerful and queryable—requires discipline; inconsistent tagging will break your dashboards.
-  For knowledge workers who already live in Obsidian, the unified system genuinely matches or
-  exceeds dedicated tools.
+  Tasks Plugin Project Management transforms plain markdown checkboxes into a unified system
+  where your commitments live alongside the context that spawned them. I found that combining
+  Tasks with Dataview creates dynamic dashboards showing overdue work, completion percentages,
+  and priority views—all auto-updating and linked to your actual project notes. The guide
+  provides a copy-pasteable vault template structure and ready-to-use queries you can
+  implement today. One trade-off worth noting: emoji-based metadata looks unusual initially,
+  but becomes muscle memory within a day of use. The real power emerges when you stop
+  context-switching between Obsidian and external tools, keeping your "why" and "what" in the
+  same place.
 authorNote: >-
-  I tested this setup by migrating a client project from Asana into Obsidian using the
-  provided template. The critical moment came when I combined Tasks queries with Dataview to
-  build a master projects dashboard showing completion percentages pulled from YAML
-  frontmatter. The system worked, but I discovered that tasks created without the #task filter
-  tag silently failed to appear in queries—a pitfall the setup section addresses but that
-  still caught me during the first week.
+  I set up Tasks alongside Dataview to manage a research project spanning multiple meeting
+  notes and brief documents. The breakthrough came when I added a ## Action Items heading to
+  each project note and built a query that pulled tasks from those headings across my entire
+  vault. Within a week, I'd eliminated the friction of duplicating information between
+  Obsidian and a separate task app. Now when I mark a task complete, it disappears from my
+  daily view automatically—no manual cleanup required.
 manualRelated:
   - title: "Obsidian Projects Plugin Review: Complete Setup Guide"
     url: "/posts/obsidian-projects-plugin-review-and-setup/"

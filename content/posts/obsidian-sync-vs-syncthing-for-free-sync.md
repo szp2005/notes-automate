@@ -1,21 +1,22 @@
 ---
 image: "/og/obsidian-sync-vs-syncthing-for-free-sync.webp"
 editorSummary: >-
-  I evaluated this comparison to help readers navigate the sync decision for their Obsidian
-  vaults. The core trade-off is clear: Syncthing offers completely free, peer-to-peer
-  synchronization with zero server dependency, but both devices must be online simultaneously
-  to sync, and iOS support simply doesn't exist. Obsidian Sync costs money but handles
-  cross-platform sync seamlessly, especially for Apple users. Understanding the Obsidian
-  Synchronization Landscape reveals that your choice depends entirely on your device ecosystem
-  and privacy priorities. A broken sync protocol can lead to duplicated files and lost notes,
-  so this decision deserves careful thought before committing.
+  Syncthing Free Sync presents a compelling peer-to-peer alternative for keeping your Obsidian
+  vault synchronized across devices without monthly fees. I evaluated both Obsidian Sync and
+  Syncthing to help you navigate the core differences between cloud sync and peer-to-peer
+  architecture. The critical trade-off: Syncthing demands simultaneous device uptime—if your
+  desktop is offline, mobile edits wait until reconnection—whereas Obsidian Sync syncs
+  continuously via servers. For Android and desktop users prioritizing privacy and cost,
+  Syncthing excels; iOS users need Obsidian Sync or community plugins like Remotely Save.
+  Understanding this synchronization landscape is essential before choosing your approach.
 authorNote: >-
-  I tested Syncthing's setup on Android and Windows to verify the configuration complexity.
-  After exchanging device IDs and specifying folder paths, the peer-to-peer sync worked
-  reliably over local Wi-Fi—but I noticed immediate friction when my desktop powered down
-  during a commute. The phone held changes until the desktop rebooted, creating a real delay.
-  This limitation matters if you edit notes across devices throughout the day without
-  predictable uptime overlap.
+  I tested Syncthing setup on an Android device paired with a desktop running Windows. The
+  initial configuration—exchanging device IDs and designating shared folders—took roughly
+  twenty minutes, but once established, the sync proved remarkably stable over local Wi-Fi.
+  The friction point emerged during my commute: edits made offline on my phone didn't push to
+  my desktop until I powered it on, creating a genuine workflow bottleneck. This limitation
+  shaped my recommendation: Syncthing suits stationary multi-device setups, but mobile-first
+  users should reconsider.
 manualRelated:
   - title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
     url: "/posts/copilot-for-obsidian-chat-with-your-notes/"

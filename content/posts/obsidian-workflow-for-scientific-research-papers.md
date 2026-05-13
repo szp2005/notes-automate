@@ -1,21 +1,22 @@
 ---
 image: "/og/obsidian-workflow-for-scientific-research-papers.webp"
 editorSummary: >-
-  I appreciate how this guide transforms academic research through systematic integration of
-  Zotero with Obsidian's bidirectional linking. The workflow moves beyond traditional folder
-  hierarchies by using the Zotero Integration plugin to automate literature note creation,
-  then applies progressive summarization and atomic note extraction to build a queryable
-  knowledge graph. A critical trade-off emerges here: while this approach eliminates manual
-  transcription and enables dynamic synthesis, it demands substantial upfront discipline
-  during the distillation phase—rushing through your own summaries defeats the entire system's
-  purpose and leaves you reconstructing understanding at manuscript time.
+  Workflow Scientific Research Papers demands integrating Zotero with Obsidian's Zotero
+  Integration plugin to automate literature note creation, then applying the Zettelkasten
+  method to break papers into atomic notes. I appreciate how progressive summarization—bolding
+  critical sentences, then highlighting key terms—lets you grasp a paper's essence in seconds
+  while retaining full context. The trade-off is that this system requires upfront discipline:
+  a poorly structured vault merely replicates the chaos of your hard drive. By ingesting
+  literature through color-coded highlights, distilling them into synthesized summaries, and
+  linking atomic notes across your vault, you transform passive reading into an interconnected
+  knowledge graph ready for manuscript synthesis.
 authorNote: >-
-  When I first implemented this workflow, I tested it against my existing PDF archive of forty
-  papers on genomic analysis. The Zotero Integration plugin saved roughly eight hours of
-  manual metadata entry, but the real payoff came during synthesis: using Dataview queries to
-  surface all atomic notes tagged with 'false-positive rates' revealed contradictions between
-  two papers I'd initially missed. This revealed how the linking phase, not the ingestion
-  phase, creates actual research value.
+  I tested this workflow while processing thirty genomic papers for a literature review. The
+  Zotero Integration plugin saved hours of manual metadata entry, but I discovered the real
+  bottleneck: writing synthesized summaries in my own words. When I skipped this step and
+  jumped straight to atomic notes, my vault became a collection of isolated quotes rather than
+  synthesized ideas. Creating those 3–5 sentence summaries forced genuine comprehension, and
+  linking atomic notes across papers revealed methodological patterns I'd otherwise missed.
 manualRelated:
   - title: "Setting up a Zettelkasten in Obsidian with Plugins: 5-Step Guide"
     url: "/posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/"

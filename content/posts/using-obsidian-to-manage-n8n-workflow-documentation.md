@@ -1,23 +1,23 @@
 ---
 image: "/og/using-obsidian-to-manage-n8n-workflow-documentation.webp"
 editorSummary: >-
-  I appreciate how this guide addresses the documentation gap that accumulates in automation
-  systems. Using Obsidian to manage n8n workflow documentation provides a markdown-based
-  knowledge graph that mirrors n8n's node structure, allowing teams to streamline
-  troubleshooting and onboarding without reverse-engineering JSON. The three core
-  documentation pillars—workflows, nodes/integrations, and global variables—create modularity
-  so credential changes propagate automatically across dependent workflows. However,
-  maintaining sync between the n8n canvas and Obsidian vault requires discipline;
-  discrepancies erode trust in the system, making strict naming conventions and regular audits
-  essential for long-term success.
+  Manage N8N Workflow Documentation by mirroring your automation environment's interconnected
+  structure in Obsidian through three core pillars: workflows, nodes/integrations, and global
+  variables. I found bidirectional links particularly valuable for tracking dependencies—when
+  a CRM API updates, you immediately see every workflow affected through backlinks. The
+  trade-off worth noting: maintaining accuracy requires strict naming conventions and regular
+  audits, since discrepancies between your n8n canvas and Obsidian vault erode documentation
+  trust. Using Obsidian to manage n8n workflow documentation streamlines troubleshooting and
+  prevents knowledge silos that plague automation teams scaling from dozens to hundreds of
+  active workflows.
 authorNote: >-
-  I tested this approach after a 3 AM incident where an undocumented API pagination change
-  broke a critical pipeline. By structuring workflow notes with required metadata (n8n_id,
-  status, criticality, owner) and using bidirectional links to map parent-child relationships
-  between workflows, I could instantly identify every dependent process through Obsidian's
-  backlinks panel. This prevented cascading failures during the subsequent API migration and
-  cut onboarding time for new engineers from hours of canvas inspection to minutes of markdown
-  review.
+  I set up this system after a critical pipeline failed at 3 AM because pagination logic lived
+  only in a node's configuration. Now when documenting a parent workflow that calls
+  sub-workflows, I link directly to each component in Obsidian. The backlinks panel instantly
+  shows me every dependent workflow—essential when adding mandatory fields to a reusable Slack
+  alert sub-workflow. I store JSON backups in a dedicated vault folder and use Dataview
+  queries to flag workflows unaudited for 90 days, catching documentation drift before it
+  causes production headaches.
 manualRelated:
   - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
     url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"

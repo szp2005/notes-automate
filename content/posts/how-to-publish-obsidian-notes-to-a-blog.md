@@ -1,22 +1,21 @@
 ---
 image: "/og/how-to-publish-obsidian-notes-to-a-blog.webp"
 editorSummary: >-
-  I find this guide valuable for bridging the gap between private knowledge management and
-  public sharing. The article compares three distinct approaches—Obsidian Publish, static site
-  generators like Quartz, and community plugins—each with different trade-offs. While Obsidian
-  Publish offers simplicity, its $8 monthly cost and limited customization may frustrate
-  developers seeking control. The SSG route provides freedom but demands Git fluency. A key
-  pitfall the guide addresses is accidentally publishing private notes; the recommended
-  solution of physical folder separation rather than relying on frontmatter tags alone could
-  prevent serious data leaks in automated workflows.
+  Publish Obsidian Notes Blog workflows demand choosing between simplicity and control. Static
+  site generators like Quartz offer total design freedom and zero hosting costs, yet require
+  Git familiarity and careful wikilink management. Obsidian Publish eliminates technical
+  friction—no repositories, no build errors—but costs $8 monthly and limits structural
+  customization. I found the middle ground of community plugins appealing for WordPress users,
+  though image handling remains finicky. The critical trade-off: convenience versus ownership.
+  Separating public notes into dedicated folders prevents accidental exposure of private
+  drafts, a safeguard I'd recommend before automating any pipeline.
 authorNote: >-
-  I tested the symlink approach described in Step 2 when connecting my Obsidian vault to
-  Quartz. Initially, I created a copy of my public notes instead, which doubled storage and
-  created sync headaches. Using ln -s to point Quartz directly to my /Public folder eliminated
-  that friction entirely. The real challenge emerged when I discovered internal wikilinks
-  pointing to private notes outside the public folder—broken links appeared on the live site.
-  The guide's suggestion to audit these connections before deployment saved me from
-  embarrassing dead links.
+  I tested Quartz's symlink setup with my own vault, discovering that wikilinks pointing to
+  private notes outside the /Public folder become dead links during deployment. Before pushing
+  any commit, I now run the Find unlinked files plugin to audit broken connections. This
+  single step prevented publishing a note with dangling references. Standardizing frontmatter
+  with Obsidian's Templates plugin also saved me from build failures when metadata was missing
+  during the Vercel rebuild cycle.
 manualRelated:
   - title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
     url: "/posts/copilot-for-obsidian-chat-with-your-notes/"

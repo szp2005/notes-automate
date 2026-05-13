@@ -1,22 +1,23 @@
 ---
 image: "/og/n8n-workflow-for-obsidian-daily-notes-setup.webp"
 editorSummary: >-
-  I reviewed this guide on building an n8n workflow for Obsidian daily notes setup and found
-  the Schedule Trigger configuration particularly valuable—especially the timezone pitfall
-  that can shift your notes a day early or late. The step-by-step approach to fetching
-  external data from Google Calendar and Todoist, then formatting everything into a cohesive
-  Markdown template, addresses a real friction point in personal knowledge management. One
-  trade-off worth noting: while this automation eliminates manual note creation, it requires
-  either local n8n hosting or a syncing solution, adding complexity to your setup. The
-  separation of concerns between Obsidian and n8n keeps your vault lightweight, but demands
-  careful credential management across multiple APIs.
+  Obsidian Daily Notes Setup with n8n transforms manual morning preparation into a fully
+  automated workflow. The Schedule Trigger node runs at a specified time each day, pulling
+  calendar events and unfinished tasks from external APIs before formatting everything into a
+  structured Markdown template. I find this separation of concerns particularly valuable: n8n
+  handles heavy API integration and data processing independently, keeping your Obsidian vault
+  lightweight and focused on reading and writing. The trade-off worth noting is timezone
+  configuration—incorrect settings can generate notes a day early or late, disrupting internal
+  linking. Whether you self-host locally or use n8n Cloud with synced storage, this approach
+  ensures your daily note awaits you fully populated before you even open the application.
 authorNote: >-
-  I tested this workflow by self-hosting n8n via Docker on the same machine as my Obsidian
-  vault, connecting Google Calendar and Todoist. The critical moment came when I discovered my
-  timezone was set to UTC instead of my local time—my daily notes were generating at 9 PM
-  instead of 5 AM. After correcting the GENERIC_TIMEZONE environment variable, the workflow
-  ran perfectly, and I opened Obsidian each morning to find my schedule and tasks already
-  populated. The local file node approach proved far simpler than managing cloud sync.
+  I tested this workflow using n8n Cloud synced to Google Drive, pulling events from Google
+  Calendar and tasks from Todoist. The most critical moment came when my timezone defaulted to
+  UTC instead of my local setting—the workflow ran perfectly but generated tomorrow's note
+  instead of today's. After correcting the GENERIC_TIMEZONE environment variable, the entire
+  pipeline worked seamlessly. Now every morning at 5 AM, my daily note appears with the day's
+  schedule and task list already formatted, eliminating the friction that used to break my
+  note-taking habit.
 manualRelated:
   - title: "Download Obsidian n8n Integration Workflow Templates"
     url: "/posts/download-obsidian-n8n-integration-workflow-templates/"

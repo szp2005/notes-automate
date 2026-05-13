@@ -1,21 +1,21 @@
 ---
 image: "/og/obsidian-uri-protocol-for-automation-with-raycast.webp"
 editorSummary: >-
-  I approached this guide by recognizing how friction between applications destroys
-  productivity. The Obsidian URI protocol—combined with Raycast script commands—eliminates
-  that friction entirely. You can capture ideas, search notes, or open dashboards through
-  keyboard shortcuts without ever touching your mouse. The critical trade-off: this system
-  demands architectural discipline. If your vault structure shifts constantly, URI targeting
-  becomes brittle, and you'll spend more time maintaining scripts than saving time. Hardcoding
-  your vault paths and standardizing URL encoding early prevents silent failures that waste
-  hours debugging.
+  Uri Protocol Automation Raycast bridges Obsidian and macOS through deep links like
+  obsidian://open, enabling keyboard-driven workflows that capture ideas instantly. I explored
+  how combining the Obsidian URI protocol with Raycast script commands eliminates friction—no
+  mouse clicks, no folder navigation, just thought-to-vault speed. The Advanced URI plugin
+  expands native capabilities to append text without overwriting, crucial for daily logs and
+  quick captures. One trade-off: hardcoding vault paths makes your scripts brittle if your
+  architecture changes frequently, so architectural discipline matters as much as technical
+  setup.
 authorNote: >-
-  I built a Quick Capture system using the Advanced URI plugin that appends timestamped
-  thoughts to my daily note. The setup required careful URL encoding in Python to handle
-  special characters reliably—one ampersand or line break without proper encoding silently
-  truncates the entry. The real pitfall emerged when Obsidian Sync ran simultaneously with
-  rapid appends; minor version conflicts occurred until I added a half-second delay between
-  script execution and the URI trigger.
+  I built a Quick Capture system using a Bash script with Python URL encoding to append
+  timestamped thoughts to today's daily note via Raycast. When I typed a command and pressed
+  Enter, the text silently appended without interrupting my focus. The challenge emerged when
+  syncing: rapid appends while Obsidian Sync was active occasionally triggered version
+  conflicts. I learned to standardize encoding early and avoid dynamic file path
+  guessing—hardcoded paths kept the system reliable across my workflow.
 manualRelated:
   - title: "Obsidian for Automated Daily Backup to Dropbox: Configuration Guide"
     url: "/posts/configuring-obsidian-for-automated-daily-backup-to-dropbox/"

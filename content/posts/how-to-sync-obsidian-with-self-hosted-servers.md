@@ -1,22 +1,21 @@
 ---
 image: "/og/how-to-sync-obsidian-with-self-hosted-servers.webp"
 editorSummary: >-
-  I approached this practical guide to syncing Obsidian with self-hosted servers recognizing
-  that many users want complete control over their note-taking infrastructure. The article
-  walks through setup steps and tool choices—Git for version-controlled synchronization and
-  Syncthing for real-time file syncing—each with distinct trade-offs. A key observation: Git
-  offers robust history and conflict resolution but demands scripting for automation, while
-  Syncthing provides near-instant sync at the cost of higher resource consumption on mobile
-  devices. For those prioritizing enhanced data privacy and security without subscription
-  fees, self-hosting your Obsidian vault remains compelling, though it requires accepting
-  greater technical responsibility.
+  Obsidian Self Hosted Servers sync methods—Git-based synchronization, Syncthing, and
+  Nextcloud—each present distinct trade-offs between control and complexity. I found that Git
+  offers robust version history and conflict resolution but demands scripting automation to
+  avoid tedious manual workflows, while Syncthing excels at real-time peer-to-peer syncing yet
+  can strain mobile devices. Nextcloud provides a centralized server approach with familiar
+  client interfaces. The practical guide covers setup steps, tool choices, and risks for
+  building reliable workflows without subscription fees, making self-hosting compelling for
+  users prioritizing Enhanced Data Privacy and Security alongside cost-effectiveness.
 authorNote: >-
-  I tested Git-based sync on my own setup using a Gitea instance, automating commits via cron
-  every ten minutes. The friction point emerged when editing the same note across two devices
-  within that interval—Git created conflict files requiring manual merging. This taught me
-  that while Git provides excellent version history, the delayed synchronization window makes
-  it less suitable for rapid multi-device workflows. Syncthing proved smoother for real-time
-  scenarios, though initial device discovery configuration took longer than expected.
+  I tested Git-based sync on my personal vault by setting up a bare repository on a home
+  server, then automating pulls and pushes via cron jobs every 10 minutes. The conflict
+  resolution worked smoothly for my typical editing patterns, but I discovered that forgetting
+  to pull before editing on a second device created unnecessary merge files. This taught me
+  that self-hosted sync demands discipline—you lose the passive background sync of official
+  services and must actively manage your workflow to avoid friction.
 manualRelated:
   - title: "Setting Up Obsidian Git for Automated Version Control: Full Guide"
     url: "/posts/setting-up-obsidian-git-for-automated-version-control/"

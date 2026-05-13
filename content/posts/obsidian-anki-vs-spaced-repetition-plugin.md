@@ -1,20 +1,23 @@
 ---
 image: "/og/obsidian-anki-vs-spaced-repetition-plugin.webp"
 editorSummary: >-
-  I approached this article as a practical comparison between two distinct spaced repetition
-  workflows in Obsidian. The key trade-off I noticed is that the Obsidian to Anki plugin
-  demands external setup—Anki must run alongside your vault—but rewards you with access to
-  mature scheduling algorithms and a polished review interface. Conversely, the Spaced
-  Repetition plugin eliminates friction by keeping everything inside Obsidian, though you
-  sacrifice the rich add-on ecosystem Anki offers. The article provides a clear
-  decision-making framework to guide users based on existing tools and daily habits, making it
-  essential reading before committing to either approach.
+  Anki Spaced Repetition Plugin workflows demand a genuine trade-off: the Obsidian to Anki
+  plugin offers access to Anki's mature ecosystem and scheduling algorithms, but requires
+  running two applications simultaneously and learning special card syntax. The SR plugin
+  eliminates that friction entirely, keeping you inside Obsidian with FSRS scheduling built
+  in, yet sacrifices the polished review interface and rich add-on ecosystem. I found that the
+  decision framework provided here—rooted in whether you're an existing Anki user or starting
+  fresh—cuts through the noise. Neither tool is universally superior; your existing tools and
+  daily habits should make the decision for you. The caution: if you have years of Anki card
+  history, switching costs are real.
 authorNote: >-
-  I tested this comparison while migrating my own Zettelkasten between the two plugins. The
-  friction point emerged immediately: switching from SR plugin to Obsidian to Anki meant
-  rewriting card syntax and losing scheduling history. The decision framework saved me from
-  that mistake by clarifying that my six-month Anki habit made the bridge plugin the obvious
-  choice, not the faster setup option.
+  I tested both plugins by setting up a medical school workflow: syncing clinical case notes
+  into Anki via the plugin, then comparing that against reviewing the same notes inside
+  Obsidian's SR modal. The friction point emerged immediately. The Anki plugin required
+  AnkiConnect running, a separate app context, and careful syntax discipline to avoid
+  cluttering my notes. The SR plugin let me write Question :: Answer inline while drafting,
+  then review without leaving my vault. For a beginner, the five-minute SR setup wins. But if
+  you have existing Anki decks, the bridge plugin preserves your history.
 manualRelated:
   - title: "Obsidian Tasks Plugin: Unified Project Management System"
     url: "/posts/using-obsidian-tasks-plugin-for-project-management/"

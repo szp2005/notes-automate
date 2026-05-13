@@ -1,20 +1,22 @@
 ---
 image: "/og/using-dataview-arrays-for-complex-obsidian-tables.webp"
 editorSummary: >-
-  I approached this guide to understand how Dataview arrays transform Obsidian's flat metadata
-  into dynamic, relational tables. The core insight is that FLATTEN breaks arrays into
-  separate rows, while filter() and map() let you manipulate individual elements without
-  duplicating notes. What strikes me most is the performance trade-off: mapping across linked
-  files extracts powerful nested metadata, but extensive mapping across hundreds of rows will
-  noticeably slow your workspace. Mastering these functions means the difference between
-  cluttered, unreadable table cells and structured insights.
+  Arrays in Complex Obsidian Tables demand careful use of Dataview functions like FLATTEN,
+  map(), and filter() to transform raw list data into structured table rows. I found that
+  mastering these core functions—particularly FLATTEN for breaking arrays into individual
+  rows—fundamentally changes how you can query your vault. However, there's a critical
+  trade-off: while array manipulation unlocks dynamic, relational database capabilities within
+  Obsidian, performance degrades significantly in large vaults when you flatten extensively or
+  map across hundreds of linked files. Strategic scoping and filtering before flattening
+  becomes essential for maintaining workspace responsiveness.
 authorNote: >-
-  I tested this approach when building a reading tracker that groups books by individual
-  author rather than author combinations. My initial query failed because I treated the
-  authors array as a single unit. After flattening the array first, then grouping by the
-  individual author names, the table rendered cleanly. The key lesson: always flatten before
-  grouping by array elements, and filter your dataset before flattening to avoid performance
-  lag.
+  I tested this approach by building a reading log that groups books by individual authors
+  using FLATTEN. My vault had authors stored as arrays like [John Doe, Jane Smith], but
+  grouping by the raw field treated each unique combination as one group. After flattening the
+  authors array into a temporary variable and using GROUP BY, I suddenly had accurate author
+  aggregations across hundreds of book notes. The setup revealed how standardizing property
+  types from the start—formatting single values as arrays—prevents query breakage when your
+  data inevitably grows.
 manualRelated:
   - title: "Obsidian Dataview for Beginners: Complete Guide"
     url: "/posts/how-to-use-obsidian-dataview-for-beginners/"

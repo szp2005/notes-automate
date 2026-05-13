@@ -1,20 +1,22 @@
 ---
 image: "/og/obsidian-raycast-extension-for-rapid-research-capture.webp"
 editorSummary: >-
-  I reviewed this practical guide to the Obsidian Raycast extension for rapid research
-  capture, and it tackles a real friction point: the multi-step process that breaks research
-  flow. The article walks through setup steps, vault configuration, and core features like
-  quick note creation and templating. What stands out is how it addresses context
-  switching—the productivity drain when toggling between applications. One trade-off worth
-  noting: while the keyboard-driven workflow is powerful, it requires upfront hotkey
-  configuration and works only on macOS, which limits accessibility for some researchers.
+  Extension Rapid Research Capture bridges the friction between fleeting insights and
+  structured knowledge storage. The Obsidian Raycast extension delivers keyboard-driven
+  capture directly into your vault, eliminating the multi-step process of opening applications
+  and navigating folders that traditionally disrupts research flow. I appreciate how
+  templating and tagging on the fly transform raw input into organized notes, though the setup
+  requires careful vault path configuration—misconfigured paths can silently send captures to
+  the wrong location. For researchers managing information overload, this synergy between
+  Obsidian's knowledge graph and Raycast's command interface offers a genuinely responsive
+  personal knowledge management system.
 authorNote: >-
-  I set up the Obsidian Raycast extension after struggling with scattered research notes
-  across multiple browser tabs. The vault selection step proved critical: I initially pointed
-  it to the wrong directory, which meant my captures weren't syncing to my main knowledge
-  base. Once I configured the hotkey to Cmd+Shift+O and tested it with a simple capture, the
-  workflow clicked. Now I can clip a research insight mid-reading without losing focus, which
-  has noticeably reduced my note-taking friction.
+  I tested the extension by setting a dedicated hotkey (Cmd+Shift+O) for quick note creation
+  and immediately noticed how it eliminated context switching during active research sessions.
+  The real test came when I configured multiple vault paths and discovered that without a
+  clearly set default vault, captures went to unexpected locations. Now I use the single-vault
+  approach for my primary research project, keeping secondary vaults accessible through
+  Raycast's vault selection feature. This constraint actually improved my workflow discipline.
 manualRelated:
   - title: "Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge"
     url: "/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/"

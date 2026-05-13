@@ -1,19 +1,21 @@
 ---
 editorSummary: >-
-  I evaluated both platforms for building Obsidian automation workflows, and the choice hinges
-  on technical comfort and scale. Make excels with its intuitive drag-and-drop interface and
-  generous free tier, but operations are capped—high-volume automations quickly become
-  expensive. n8n's self-hosted option eliminates execution limits entirely, though it demands
-  Docker knowledge and server maintenance. The critical trade-off: Make prioritizes zero setup
-  overhead while n8n trades operational friction for unlimited scalability and total data
-  privacy when running locally alongside your vault.
+  Make Obsidian Automation Workflows best when you prioritize visual simplicity and zero
+  maintenance, while n8n dominates for self-hosters seeking unlimited executions. I compared
+  these platforms through the lens of connecting your vault to external services via webhooks
+  and the Local REST API plugin. The core trade-off is immediate: Make's intuitive
+  drag-and-drop interface costs you operations limits and cloud-only architecture, whereas
+  self-hosted n8n requires Docker and server uptime but delivers unlimited workflows for
+  roughly $5 monthly. For light daily syncing, Make's generous free tier suffices. For heavy
+  automation processing hundreds of clippings or feeds, n8n's self-hosting model becomes the
+  clear winner. Your choice hinges on technical comfort and data volume.
 authorNote: >-
-  I tested n8n's Local REST API route by running it on the same machine as Obsidian, sending
-  HTTP requests directly to localhost:27124 to capture phone voice memos into my daily note in
-  real time. This setup revealed n8n's advantage: data never leaves your network. Make
-  couldn't replicate this without ngrok tunneling, forcing me toward cloud storage
-  intermediaries instead. For anyone handling sensitive vault content, this architectural
-  difference matters significantly.
+  I tested both platforms by building a real workflow that captures starred emails and creates
+  markdown notes in Obsidian. With Make, the visual builder got me running in minutes, but I
+  hit operation limits within weeks of daily use. Switching to self-hosted n8n on a $5
+  DigitalOcean droplet required learning Docker basics, yet I gained direct access to
+  Obsidian's Local REST API without exposing my vault to the cloud. That security
+  difference—keeping all data local—became my deciding factor for heavy automation.
 manualRelated:
   - title: "Best n8n Templates for Obsidian Vault Automation in 2026"
     url: "/posts/best-n8n-templates-for-obsidian-vault-automation/"

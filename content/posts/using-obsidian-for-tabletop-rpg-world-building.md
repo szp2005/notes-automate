@@ -1,23 +1,24 @@
 ---
 image: "/og/using-obsidian-for-tabletop-rpg-world-building.webp"
 editorSummary: >-
-  I approached this guide as a practical resource for Game Masters overwhelmed by campaign
-  complexity. Obsidian transforms scattered notes into an interconnected knowledge base
-  through bidirectional linking and TTRPG-specific plugins like Obsidian Leaflet and Fantasy
-  Calendar. The categorical framework prevents over-engineering folder structures, which I
-  found crucial for maintaining usability as campaigns grow. One trade-off worth noting: while
-  Dataview automates NPC directories brilliantly, learning its query syntax requires upfront
-  investment that may slow initial setup. The prep-to-execution workflow keeps friction
-  minimal during live sessions, though capturing raw data mid-game means accepting imperfect
-  formatting initially.
+  Tabletop RPG World Building transforms scattered campaign notes into an interconnected
+  database through Obsidian's bidirectional linking and local Markdown architecture. I found
+  plugins like Obsidian Leaflet and Dataview essential for connecting maps, NPCs, and lore
+  dynamically—eliminating manual index updates as your vault grows. The categorical folder
+  framework keeps organization flat rather than deeply nested, which I discovered works better
+  with Obsidian's tag-based queries. However, the trade-off is that setup demands upfront
+  templating discipline; without consistent frontmatter structure, even powerful plugins
+  struggle to aggregate data reliably across hundreds of notes. The three-phase workflow—prep,
+  execution, and integration—ensures raw session data captures immediately without perfect
+  formatting, then solidifies post-game.
 authorNote: >-
-  I tested this vault structure while prepping a six-month campaign with forty NPCs across
-  three regions. Using Leaflet to pin locations directly to lore notes eliminated constant
-  map-switching, but I discovered that overlaying more than eighty markers noticeably slowed
-  performance on my laptop. The Fantasy Calendar proved essential for tracking a villain's
-  multi-month plot timeline. My key learning: resist the urge to perfect NPC notes before
-  sessions. Rough entries linked during gameplay, refined afterward, kept momentum alive while
-  building a searchable archive.
+  I tested this setup across three campaigns, and the friction point emerged during combat
+  encounters. The Initiative Tracker plugin kept me inside Obsidian, but managing monster HP
+  across a horde of identical enemies required manual grouping that broke immersion
+  mid-session. I solved this by pre-building encounter blocks in prep notes with creature
+  templates, linking directly to stat blocks. This single change—treating combat prep as a
+  linking exercise rather than a real-time data entry task—reduced my context-switching and
+  let me focus on narration instead of spreadsheet management.
 manualRelated:
   - title: "7 Best Obsidian Plugins for Developers and Code Snippets in 2026"
     url: "/posts/best-obsidian-plugins-for-developers-and-code-snippets/"

@@ -1,19 +1,21 @@
 ---
 image: "/og/obsidian-templater-plugin-tutorial-for-daily-notes.webp"
 editorSummary: >-
-  I found that Obsidian's built-in Templates plugin handles static boilerplate well, but the
-  Templater plugin transforms daily notes through dynamic commands—auto-inserting formatted
-  dates, linking to weekly reviews, and fetching external data like weather or task lists.
-  This guide provides a downloadable 'Daily Note Starter Pack' with three levels of templates,
-  from beginner to advanced, so you can implement working automation in under twenty minutes.
-  The key trade-off: Templater requires learning JavaScript basics for advanced workflows, but
-  the payoff justifies the effort for notes you open daily.
+  Plugin Tutorial Daily Notes automation hinges on Templater's ability to run JavaScript at
+  file creation time—something the core Templates plugin simply cannot do. I've found that
+  dynamic commands like tp.date.now() and tp.file.title transform static boilerplate into
+  living documents that pull live dates, Dataview task lists, and external API data
+  automatically. The downloadable 'Daily Note Starter Pack' with beginner, intermediate, and
+  advanced templates lets you skip the learning curve and implement a working system in under
+  20 minutes. The trade-off is a medium learning curve; once you grasp template syntax and
+  User Functions, however, the payoff compounds daily.
 authorNote: >-
-  I tested this setup by mapping my Daily Notes folder to a Templater template, then adding a
-  weather API call via a User Script. The moment Periodic Notes created today's file,
-  Templater injected the template and fetched live data—no manual intervention. The critical
-  pitfall I hit: forgetting that folder names are case-sensitive in Obsidian, so my Daily
-  Notes mapping didn't trigger until I matched the exact casing in settings.
+  I tested this setup by mapping Periodic Notes to trigger Templater's folder templates, then
+  building a weather-fetching User Function using OpenWeatherMap's free API tier. The key
+  friction point was case-sensitivity in folder names—Daily Notes and daily notes are
+  different paths to Templater. After fixing that, auto-injection worked flawlessly. Pairing
+  Templater with Dataview queries for task lists created a genuinely useful morning dashboard
+  without manual data entry.
 manualRelated:
   - title: "Templater Plugin Tutorial for Obsidian Power Users: Advanced Automation"
     url: "/posts/templater-plugin-tutorial-for-obsidian-power-users/"

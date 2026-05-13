@@ -1,21 +1,24 @@
 ---
 image: "/og/obsidian-vs-heptabase-for-visual-research-workflows.webp"
 editorSummary: >-
-  I evaluated both tools for comparing Obsidian vs Heptabase for visual research workflows,
-  and the choice hinges on competing priorities. Heptabase excels with its purpose-built
-  canvas and native PDF extraction for literature reviews, delivering frictionless
-  sense-making. However, Obsidian's local-first storage and offline-first architecture provide
-  data ownership and long-term longevity that researchers need. The critical trade-off:
-  Heptabase's subscription pricing and cloud dependency versus Obsidian's setup complexity and
-  canvas performance lag with hundreds of embedded PDFs. For privacy-conscious academics,
-  Obsidian wins; for pure visual fluidity, Heptabase dominates.
+  Heptabase Visual Research Workflows excel at native PDF extraction and spatial performance,
+  yet I found Obsidian's Canvas offers a compelling alternative for researchers prioritizing
+  data ownership. Comparing Obsidian vs Heptabase for visual research workflows reveals a
+  fundamental trade-off: Heptabase's purpose-built architecture handles hundreds of embedded
+  PDFs without lag, while Obsidian's local-first storage keeps your markdown files
+  future-proof and offline-accessible. For academics synthesizing complex papers, Heptabase's
+  side-by-side highlight extraction streamlines the sense-making process. However, if you
+  value privacy, customization through plugins, and avoiding subscription costs, Obsidian's
+  free Canvas delivers solid spatial reasoning—though canvas performance degrades noticeably
+  with massive media-heavy boards.
 authorNote: >-
-  I tested Heptabase's PDF extraction workflow on a 40-paper literature review and found the
-  side-by-side highlighting-to-card creation genuinely eliminated friction compared to
-  Obsidian's manual copy-paste process. However, when I switched to Obsidian for a sensitive
-  corporate research project requiring offline storage, the local markdown files gave me peace
-  of mind that no cloud sync could match. The performance gap only mattered once my canvas
-  exceeded 200 embedded PDFs.
+  I tested both tools managing a 40-paper literature review on market research trends. With
+  Heptabase, dragging PDF highlights directly onto the whiteboard created atomic cards
+  instantly, keeping my flow unbroken. Obsidian required manual plugin configuration and
+  copy-paste workflows that interrupted momentum. However, when I needed to export my entire
+  research graph for offline archival, Obsidian's markdown files proved invaluable—Heptabase's
+  cloud-first model forced me to rely on their export function. The choice ultimately hinged
+  on whether I prioritized seamless PDF synthesis or long-term data autonomy.
 manualRelated:
   - title: "Best Note Taking Apps for Zettelkasten Methodology 2026"
     url: "/posts/best-note-taking-apps-for-zettelkasten-methodology-2026/"

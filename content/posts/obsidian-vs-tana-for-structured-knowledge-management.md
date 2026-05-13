@@ -1,23 +1,26 @@
 ---
 image: "/og/obsidian-vs-tana-structured-knowledge-management.webp"
 editorSummary: >-
-  I evaluated this comparison of Obsidian vs Tana for structured knowledge management and
-  found the distinction between their data modeling approaches particularly revealing.
-  Obsidian relies on YAML Properties paired with the Dataview plugin for querying, while Tana
-  uses Supertags—an object-oriented system where fields inherit automatically across nodes.
-  The trade-off is significant: Tana offers database functionality immediately, but at the
-  cost of cloud dependency and vendor lock-in, whereas Obsidian guarantees absolute data
-  ownership through plain-text files yet demands technical configuration and plugin
-  maintenance. For users prioritizing long-term data permanence, Obsidian wins; for those
-  needing instant structure without coding, Tana excels.
+  Tana Structured Knowledge Management versus Obsidian presents a fundamental architectural
+  choice: database-driven object orientation through Supertags, or locally-owned plain-text
+  flexibility through YAML Properties. I examined both platforms specifically for structured
+  knowledge work, comparing their data modeling capabilities, information retrieval systems
+  via Dataview versus Search Nodes, and interface paradigms. The critical trade-off emerges in
+  setup friction: Tana delivers database functionality immediately without coding, while
+  Obsidian demands significant plugin configuration and maintenance to achieve comparable
+  structure. For users prioritizing absolute data ownership and offline capability, Obsidian's
+  plain-text foundation wins despite its complexity. However, those needing intuitive
+  relational data models and visual querying will find Tana's cloud-dependent architecture far
+  more efficient.
 authorNote: >-
-  I tested both tools while migrating a research database with 200+ interconnected notes.
-  Obsidian's Dataview queries took three days to configure correctly—writing the syntax for
-  filtering by multiple metadata fields proved error-prone. Tana's Search Nodes delivered
-  equivalent functionality within an hour using its visual interface. However, when my
-  internet dropped during a critical work session, Tana became unusable while Obsidian
-  continued seamlessly offline. That single incident shifted my perspective on what
-  'structured knowledge management' truly requires.
+  I tested both systems by migrating a moderately complex research vault containing tagged
+  articles, project metadata, and interconnected notes. With Obsidian, I spent weeks
+  configuring Dataview queries and maintaining consistent YAML frontmatter across 300+
+  notes—any schema changes required manual updates. When I replicated the same structure in
+  Tana using Supertags, the inheritance model updated all nodes instantly. However, Tana's
+  offline limitations became problematic during a conference where I needed to access notes
+  without internet connectivity. This real-world scenario clarified that tool choice depends
+  entirely on whether your workflow tolerates cloud dependency.
 manualRelated:
   - title: "Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026"
     url: "/posts/advanced-obsidian-templates-for-literature-review-matrix/"

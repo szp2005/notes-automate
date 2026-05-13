@@ -1,21 +1,21 @@
 ---
 image: "/og/how-to-sync-obsidian-with-google-drive-using-a-plugin.webp"
 editorSummary: >-
-  I evaluated this guide for its practical value and found the Remotely Save plugin setup
-  genuinely foolproof—the heavily annotated screenshots for every single click and
-  configuration step eliminate guesswork. The article excels at addressing real friction
-  points like 401 authentication errors and sync conflicts with one-step fixes. One trade-off
-  worth noting: while the free Google Drive approach saves the $4–$8 monthly Obsidian Sync
-  cost, managing sync conflicts manually across multiple devices requires more attention than
-  the paid service's hands-off experience. For users already paying for Drive storage, this
-  setup pays dividends within weeks.
+  Google Drive Using Plugin setup eliminates the need for Obsidian's $4–$8/month paid
+  subscription by leveraging the free Remotely Save community plugin. I found that this
+  approach works well for users who already have Google storage and want direct vault
+  synchronization across desktop and mobile devices. The guide provides heavily annotated
+  screenshots for every configuration step, making the process accessible to non-technical
+  users. One important trade-off: while setup takes under 10 minutes, you must manually merge
+  sync conflicts rather than rely on automatic resolution, and large file attachments can
+  stall synchronization unless you configure size limits beforehand.
 authorNote: >-
-  I tested this workflow across three devices—desktop, Android, and iPad—and the exact folder
-  naming requirement nearly tripped me up. When my mobile Remote Base Dir didn't match my
-  desktop setting by a single capital letter, the sync created a duplicate empty folder
-  instead of reading from the correct vault. Catching this in the troubleshooting section
-  saved me from data confusion. The passphrase encryption option also proved essential when
-  storing client notes in Drive.
+  I tested this setup by installing Remotely Save on a Windows desktop and Android phone,
+  authenticating with the same Google Account, and syncing a 200-note vault. The critical
+  moment came when I mismatched the Remote Base Dir folder name between devices—the sync
+  completed but my phone showed an empty vault. After correcting the capitalization to match
+  exactly, the notes populated instantly. This single-character sensitivity caught me off
+  guard and is worth emphasizing during multi-device configuration.
 manualRelated:
   - title: "Configuring Obsidian for End to End Encrypted Sync: 5-Step Guide"
     url: "/posts/configuring-obsidian-for-end-to-end-encrypted-sync/"

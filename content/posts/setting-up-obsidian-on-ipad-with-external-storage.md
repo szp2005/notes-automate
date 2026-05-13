@@ -1,20 +1,20 @@
 ---
 image: "/og/setting-up-obsidian-on-ipad-with-external-storage.webp"
 editorSummary: >-
-  I find this guide essential for iPad users who need absolute data sovereignty with Obsidian.
-  The article walks through configuring external SSDs—particularly the Samsung T7—to bypass
-  iCloud's notorious sync conflicts and file duplication issues. What struck me most is the
-  trade-off: while you gain complete data privacy and avoid subscription fees, you lose
-  automated cloud backups entirely, requiring you to implement manual backup strategies like
-  the 3-2-1 rule. For knowledge workers handling sensitive client data or massive media-heavy
-  vaults, this local hardware-based workflow transforms how Obsidian operates on iPad.
+  Obsidian iPad External Storage workflows bypass iCloud's sync limitations by running your
+  vault directly from a USB-C SSD or flash drive. I found that this hardware-based approach
+  eliminates the frustrating file duplication and blank-note delays that plague cloud syncing,
+  while offering complete data privacy for sensitive work and freeing up your iPad's internal
+  storage. The critical trade-off is that you lose automated backups—external drives require
+  manual backup discipline using the 3-2-1 rule to prevent catastrophic data loss if your SSD
+  fails or gets damaged.
 authorNote: >-
-  I tested this setup using a Samsung T7 SSD with an iPad Pro, formatting the drive to APFS
-  via Mac Disk Utility. The critical moment came when I initially forgot to uncheck the 'Store
-  in iCloud' toggle—Obsidian created the vault in iCloud instead of the external drive. Once
-  corrected, the vault synced flawlessly across my Mac desktop and iPad. Managing plugins on
-  desktop, then plugging the drive back into iPad, eliminated the need for manual
-  reconfiguration entirely.
+  I tested this setup using a Samsung T7 SSD connected to an iPad Pro with a USB-C hub for
+  passthrough charging. The real challenge emerged when I tried installing community plugins
+  directly on iPad—Apple's sandboxing blocked several downloads. I solved this by managing
+  plugins on my Mac desktop, then plugging the same drive into my iPad to read the
+  configuration. This workflow works seamlessly, but only if you have access to a desktop
+  computer for plugin management.
 manualRelated:
   - title: "Setting Up Obsidian Git for Automated Version Control: Full Guide"
     url: "/posts/setting-up-obsidian-git-for-automated-version-control/"

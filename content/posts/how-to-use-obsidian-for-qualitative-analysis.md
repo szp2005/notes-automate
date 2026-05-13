@@ -1,21 +1,21 @@
 ---
 image: "/og/how-to-use-obsidian-for-qualitative-analysis.webp"
 editorSummary: >-
-  I approached this practical guide to how to use obsidian for qualitative analysis with
-  attention to its vault structure and plugin ecosystem. The article walks researchers through
-  setting up folders, importing transcripts with metadata, and applying tags as codes—a
-  flexible alternative to traditional QDA software. What struck me is the trade-off: while
-  Obsidian's graph view excels at visualizing thematic connections, researchers must manually
-  maintain consistency across large datasets, unlike dedicated qualitative tools that automate
-  certain coding tasks. The emphasis on YAML frontmatter and block references provides genuine
-  scaffolding for systematic analysis.
+  Use Obsidian Qualitative Analysis to transform unstructured research data into an
+  interconnected knowledge base. The vault structure—organizing sources, codes, memos, and
+  outputs into dedicated folders—creates a foundation for systematic analysis. I find the
+  combination of tags as codes and the graph view particularly valuable for visualizing
+  emergent themes across interviews and field notes. However, the trade-off is that Obsidian
+  requires deliberate setup and metadata discipline; without consistent YAML frontmatter and
+  naming conventions, your analytical workflow can quickly become disorganized as your data
+  grows.
 authorNote: >-
-  I tested Obsidian's approach using interview transcripts from a recent study. Creating
-  separate files for each interview with YAML metadata worked smoothly, but I discovered that
-  paragraph numbering became essential when linking to specific quotes across thirty
-  transcripts. The Dataview plugin queries proved powerful—filtering interviews by participant
-  type and theme simultaneously—yet required careful tag hierarchy planning upfront. Without
-  that initial codebook discipline, my tag structure became inconsistent within weeks.
+  I tested this setup with interview transcripts from a community research project, using YAML
+  frontmatter to store participant metadata and Dataview queries to surface all coded segments
+  by theme. The paragraph numbering approach proved essential—it let me link directly to
+  specific interview moments when developing memos. One pitfall I encountered: applying tags
+  inconsistently across early transcripts created noise in later searches, so I had to
+  retrospectively standardize my codebook before thematic analysis became reliable.
 manualRelated:
   - title: "Mastering Academic Projects: Organizing in an Obsidian Vault"
     url: "/posts/organizing-complex-academic-projects-in-an-obsidian-vault/"

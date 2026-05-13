@@ -1,22 +1,22 @@
 ---
 image: "/og/how-to-manage-obsidian-plugins-across-multiple-devices.webp"
 editorSummary: >-
-  I reviewed this guide to understand how to manage Obsidian plugins across multiple devices,
-  and the comparison of Obsidian Sync, Git, and cloud options reveals a critical trade-off:
-  ease versus control. Obsidian Sync handles the .obsidian configuration folder most
-  seamlessly, especially across mixed desktop and mobile environments, but it requires a paid
-  subscription. The Git method offers power users granular .gitignore control to exclude
-  device-specific files like workspace.json, yet demands technical expertise. Cloud storage
-  like iCloud for Windows proves notoriously unreliable for syncing hidden folders and small
-  .js files. The key insight is that maintaining a lean plugin stack prevents sync conflicts
-  and startup latency regardless of your chosen method.
+  Plugins Across Multiple Devices requires deliberate synchronization strategy because
+  Obsidian stores all settings and configurations locally in the hidden .obsidian folder
+  rather than on remote servers. I compared three primary methods—Obsidian Sync, cloud storage
+  services, and Git version control—each with distinct trade-offs. Obsidian Sync offers the
+  easiest setup with granular control over which configuration files sync, but demands a paid
+  subscription. Cloud providers like iCloud work seamlessly on macOS and iOS, yet iCloud for
+  Windows frequently corrupts plugin files with duplicates and hangs. The critical pitfall
+  across all methods: syncing workspace.json breaks mobile layouts, so you must explicitly
+  exclude device-specific files to maintain usable interfaces across screen sizes.
 authorNote: >-
-  I tested syncing a Dataview-heavy vault across macOS and iPad using Obsidian Sync's plugin
-  configuration toggles. When I initially forgot to enable 'Community plugin settings,' my
-  custom Dataview queries worked on desktop but returned empty results on mobile because the
-  data.json files weren't transmitted. After enabling all three plugin toggles, the setup
-  worked flawlessly. This taught me that partial sync configuration silently breaks plugin
-  functionality rather than throwing errors.
+  I tested Obsidian Sync's plugin configuration toggles on a Mac-to-iPad setup and discovered
+  that enabling all three toggles—active community plugin list, installed plugins, and plugin
+  settings—kept my Dataview queries and Templater scripts identical across devices. However,
+  when I initially synced workspace.json to my iPhone, the desktop pane layout crushed the
+  mobile interface until I switched to workspace-mobile.json. This taught me that selective
+  synchronization isn't optional; it's essential for functional cross-device workflows.
 manualRelated:
   - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
     url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"

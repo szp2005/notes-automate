@@ -1,21 +1,21 @@
 ---
 image: "/og/how-to-find-obsidian-plugin-documentation.webp"
 editorSummary: >-
-  I approached this article as a practical guide to finding Obsidian plugin documentation, and
-  I appreciate how it consolidates information currently scattered across forums, Reddit, and
-  official help docs. The method of starting directly inside Obsidian's Community Plugins
-  browser—accessing the GitHub link in two clicks—genuinely saves time compared to browser
-  searches. However, I noticed a trade-off: relying on plugin descriptions alone works only
-  for simple tools; complex plugins like Dataview require jumping to dedicated documentation
-  sites, which means no single source covers everything. The GitHub Issues tab emerges as an
-  underrated resource when READMEs fall short.
+  Find Obsidian Plugin Documentation using the Community Plugins browser—it's the fastest path
+  to GitHub links and author information without leaving the app. I discovered that most users
+  overlook the built-in plugin detail pages, which consolidate information currently scattered
+  across forums, Reddit, and official help docs. The GitHub README remains the definitive
+  source for 95% of community plugins, though complex tools like Dataview and Templater
+  redirect you to dedicated documentation sites. One trade-off: relying solely on READMEs for
+  intricate plugins means missing 80% of available features and functions. The Issues tab
+  becomes invaluable when official docs fall short.
 authorNote: >-
-  I tested this workflow when troubleshooting a Templater configuration issue. The README
-  alone didn't explain a specific internal function, so I checked the GitHub Issues tab and
-  found the exact answer in a closed issue from six months prior. This experience confirmed
-  the article's core insight: knowing where to look in sequence—plugin description, then
-  README, then Issues—beats random forum searching. The hardest part wasn't finding docs; it
-  was recognizing when to stop reading the README and move to the next source.
+  I tested this workflow while troubleshooting a Templater setup where the README mentioned
+  functions I couldn't locate in plugin settings. Searching the GitHub Issues tab revealed the
+  feature existed in a development branch but wasn't yet released. This taught me to always
+  check the latest commit date and Issues tab before assuming documentation is complete. For
+  complex plugins, I now bookmark the dedicated documentation site immediately rather than
+  treating the README as the final destination.
 manualRelated:
   - title: "Obsidian Community Plugins List: Best Add-ons & Guide"
     url: "/posts/obsidian-community-plugins-list/"

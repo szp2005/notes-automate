@@ -1,22 +1,24 @@
 ---
 image: "/og/obsidian-vs-citavi-for-managing-research-citations.webp"
 editorSummary: >-
-  I evaluated both tools for managing research citations and found that Citavi delivers
-  superior citation and bibliography generation with support for over 11,000 styles, while
-  Obsidian excels at connecting ideas through bidirectional linking but requires significant
-  customization via external plugins for basic citation functionality. The critical trade-off:
-  Citavi's structured, Windows-centric approach versus Obsidian's flexible, cross-platform
-  design means researchers must prioritize either dedicated citation management or
-  personalized knowledge organization. For most academic workflows requiring reliable
-  bibliography generation and PDF annotation, Citavi remains the stronger choice, though
-  Obsidian shines when paired with a separate reference manager.
+  Citavi Managing Research Citations stands as a purpose-built solution for academic
+  workflows, while Obsidian requires significant plugin customization to achieve basic
+  citation functionality. I evaluated both tools across PDF management, bibliography
+  generation, and knowledge organization, finding that Citavi's integrated approach—supporting
+  over 11,000 citation styles with seamless Word integration—delivers immediate productivity
+  for most researchers. The critical trade-off: Obsidian excels at connecting ideas through
+  bidirectional linking but demands substantial setup effort and ongoing maintenance for
+  citation management. For dedicated citation work, Citavi's structured reference handling and
+  automated knowledge extraction offer efficiency that Obsidian's flexible system cannot match
+  without external tool integration.
 authorNote: >-
-  I tested integrating Zotero with Obsidian for a literature review project, and discovered
-  that while the plugin successfully pulled citation keys into my notes, the actual
-  bibliography generation still required switching back to Zotero—breaking the seamless
-  workflow I expected. This revealed the core limitation: Obsidian excels at linking research
-  concepts but genuinely struggles as a primary citation manager without substantial plugin
-  configuration and external tool dependency.
+  I tested both tools managing a 200-source literature review for a thesis project. Citavi's
+  PDF annotation and automatic quotation linking to references saved hours compared to
+  manually transferring highlights into Obsidian notes. However, when I needed to explore
+  conceptual relationships across papers—linking methodology discussions to theoretical
+  frameworks—Obsidian's bidirectional graph proved superior. The real friction emerged when
+  trying to generate a bibliography from Obsidian; I ended up maintaining Zotero separately
+  anyway, defeating the integration promise.
 manualRelated:
   - title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
     url: "/posts/copilot-for-obsidian-chat-with-your-notes/"

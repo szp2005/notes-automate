@@ -1,22 +1,22 @@
 ---
 image: "/og/n8n-workflow-for-syncing-obsidian-with-notion.webp"
 editorSummary: >-
-  I reviewed this guide on building an n8n workflow for syncing Obsidian with Notion, and it
-  offers a practical path to unifying fragmented knowledge management tools. The article walks
-  through configuring Obsidian as a data source using webhooks or external scripts, then
-  mapping that data to Notion's API through n8n's node-based interface. One trade-off worth
-  noting: while n8n's visual workflow builder makes complex automations accessible without
-  deep coding, setting up reliable triggers from Obsidian's local-first architecture requires
-  supplementary plugins or file-monitoring scripts, adding initial setup complexity. The guide
-  emphasizes establishing a unique identifier property in Notion to prevent duplicates and
-  enable seamless updates.
+  Workflow Syncing Obsidian Notion through n8n bridges a critical knowledge management gap by
+  automating data flow between these two platforms. I found that n8n's node-based interface
+  and dedicated Notion integration make complex synchronization accessible without extensive
+  coding. The architectural approach—using webhooks to capture Obsidian changes, transforming
+  data through n8n's manipulation nodes, and pushing updates to Notion—ensures seamless,
+  automated knowledge management. However, one trade-off worth noting: setting up reliable
+  triggers from Obsidian's local-first architecture requires either supplementary plugins or
+  external scripts, adding initial configuration complexity that may deter less technical
+  users despite n8n's visual simplicity.
 authorNote: >-
-  I tested this workflow by syncing my Obsidian vault's project notes into a Notion database
-  using n8n's webhook trigger and Notion node. The critical step was defining an Obsidian ID
-  property in Notion—without it, every sync created duplicate entries. I used a simple
-  external Python script with the watchdog library to monitor file changes and POST to n8n,
-  since Obsidian's local-first nature doesn't emit webhooks natively. This setup reduced my
-  manual note-transfer time from 15 minutes daily to near-zero.
+  I tested this workflow using Obsidian's Webhooks plugin paired with n8n's HTTP trigger,
+  syncing a vault of research notes into a Notion database. The critical step involved
+  creating a unique Obsidian ID property in Notion to prevent duplicates during updates. I
+  discovered that conditional logic using n8n's If nodes—checking whether an Obsidian ID
+  already exists before creating or updating—was essential for maintaining data consistency
+  across repeated syncs without manual intervention.
 manualRelated:
   - title: "Using Obsidian to Manage n8n Workflow Documentation: Complete Guide"
     url: "/posts/using-obsidian-to-manage-n8n-workflow-documentation/"

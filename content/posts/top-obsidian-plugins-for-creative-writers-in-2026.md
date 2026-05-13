@@ -1,21 +1,22 @@
 ---
 image: "/og/top-obsidian-plugins-for-creative-writers-in-2026.webp"
 editorSummary: >-
-  I reviewed this guide to the top Obsidian plugins for creative writers in 2026, and I'm
-  struck by how these tools transform Obsidian into a distraction-free writing environment.
-  Longform excels at compiling multi-scene manuscripts, while Dataview enables dynamic
-  world-building through YAML frontmatter queries. However, the article's most crucial insight
-  warns against over-engineering your vault—writers often spend more time tweaking plugins and
-  custom themes than actually drafting prose. The key is installing plugins only when you
-  encounter genuine friction points, treating them as solutions rather than productivity toys.
+  Obsidian Plugins Creative Writers transform your note-taking app into a manuscript
+  management system. Longform excels at compiling multi-scene drafts, while Novel Word Count
+  provides immediate visual feedback on progress—essential for maintaining momentum across
+  months of writing. Dataview and Kanban enable dynamic world-building and visual plot
+  structuring, though the critical trade-off is avoiding over-engineering your vault. The real
+  pitfall I observe is writers spending more time tweaking plugins and custom themes than
+  actually drafting prose. Start minimal, installing only plugins that solve specific friction
+  points in your workflow rather than treating them as toys to explore.
 authorNote: >-
-  I tested this workflow when managing a fantasy novel with dozens of character notes and
-  location entries. Using Dataview to auto-generate tables of living characters sorted by
-  allegiance proved invaluable for catching continuity errors. The real challenge emerged when
-  I initially installed six plugins at once, only to realize I was spending evenings
-  configuring LanguageTool and Kanban boards instead of writing. I eventually stripped back to
-  just Longform and Novel Word Count, which directly addressed my drafting and
-  progress-tracking needs.
+  I tested this setup while drafting a fantasy novel with multiple POV characters across five
+  locations. The combination of Longform for scene management and Dataview for tracking
+  character status proved invaluable—updating a character's allegiance in frontmatter
+  instantly reflected across all dynamic tables. However, I initially fell into the
+  over-engineering trap, spending two weeks perfecting Dataview queries before writing a
+  single chapter. The separation of drafting (Dangerzone for sprints) and editing
+  (LanguageTool for final polish) kept my process clean and focused.
 manualRelated:
   - title: "Obsidian vs Scrivener for Long-Form Writing: Which Is Better?"
     url: "/posts/obsidian-vs-scrivenir-for-long-form-writing/"

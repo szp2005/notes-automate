@@ -1,21 +1,22 @@
 ---
 image: "/og/guide-to-obsidian-outliner-plugin-for-structured-thinking.webp"
 editorSummary: >-
-  I found the Obsidian Outliner plugin transforms how I approach structured thinking by
-  eliminating friction from native markdown lists. The plugin's Smart List Manipulation
-  feature binds parent nodes and children together, so moving ideas doesn't break hierarchy—a
-  critical advantage when reorganizing complex arguments or project plans. What impressed me
-  most is the Focus and Zoom Mechanics, which lets me isolate specific sections to reduce
-  cognitive load. However, I should note that the plugin's deep editor integration
-  occasionally conflicts with other formatting plugins, requiring some compatibility testing
-  before full adoption.
+  Outliner Plugin Structured Thinking transforms bullet lists into a Roam-like environment
+  where hierarchical ideas flow without friction. I discovered that Smart List
+  Manipulation—binding parent nodes to their children—eliminates the manual copying and
+  pasting that interrupts deep cognitive work. The Focus and Zoom Mechanics let you isolate
+  specific branches, managing cognitive load effectively. However, the trade-off is real:
+  mastering keyboard shortcuts becomes mandatory for speed, and conflicting formatting plugins
+  can occasionally clash with Outliner's editor integration. For anyone wrestling with
+  disorganized markdown files in Obsidian, this plugin provides the structured scaffolding
+  needed for complex problem-solving and knowledge synthesis.
 authorNote: >-
-  I tested the Outliner plugin while processing a 50-page research document using the
-  Progressive Summarization Funnel workflow. I dumped raw highlights into a flat list, then
-  used Cmd+Shift+Up/Down to cluster related quotes under synthesized parent nodes. The Stick
-  the Cursor to Content setting prevented accidental formatting breaks, and collapsing
-  children revealed a clean high-level summary while keeping raw quotes accessible. This setup
-  reduced my processing time by roughly 40% compared to manual indentation.
+  I tested Outliner's Progressive Summarization workflow by processing a dense research
+  article. I dumped twenty raw highlights into a flat list, then used move-up/down shortcuts
+  to cluster related quotes and synthesize parent nodes above them. Collapsing the children
+  left me with a high-level summary outline while keeping exact quotes accessible. This single
+  workflow revealed why structured thinking matters: what felt overwhelming as a flat list
+  became navigable and actionable within minutes.
 manualRelated:
   - title: "Obsidian Bases Native Update Review 2026: The Notion Killer?"
     url: "/posts/obsidian-bases-native-update-review-2026/"

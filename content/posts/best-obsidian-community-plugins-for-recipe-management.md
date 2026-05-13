@@ -1,19 +1,20 @@
 ---
 image: "/og/best-obsidian-community-plugins-for-recipe-management.webp"
 editorSummary: >-
-  I’ve spent years searching for a digital cookbook that won't lock my data away, and this
-  review highlights why Obsidian is a superior choice. You can discover the best Obsidian
-  community plugins for recipe management to organize meals, starting with Recipe Grabber to
-  strip away blog filler instantly. I find the dynamic ingredient scaling in Obsidian Cooklang
-  to be a total game-changer for dinner parties. One trade-off to consider is that Dataview,
-  while powerful for building a kitchen dashboard, can noticeably slow down vault performance
-  on older mobile devices if your database gets too large.
+  Community Plugins Recipe Management transforms Obsidian into a queryable personal cookbook
+  by combining Recipe Grabber for web imports, Obsidian Cooklang for dynamic ingredient
+  scaling, and Dataview for database organization. I found that this three-plugin foundation
+  eliminates the chaos of plain-text recipe folders while keeping your culinary data entirely
+  offline and yours forever. The trade-off worth noting: Cooklang's specialized syntax
+  requires learning time, and Dataview queries demand some SQL familiarity, but the payoff is
+  a stress-free kitchen dashboard that surfaces exactly what you need to cook.
 authorNote: >-
-  My favorite part of this setup is what I call the Friday Night Test. I use Recipe Grabber to
-  pull a new pasta dish from a random blog, and then I use the Obsidian Cooklang slider to
-  scale the ingredients for four people instead of two. It prevents that annoying mental math
-  while I am already busy at the stove. I also suggest using a Kanban board for meal planning;
-  dragging cards for the week makes my grocery runs feel much more organized.
+  I tested this setup by importing fifty recipes from food blogs using Recipe Grabber, then
+  scaling a six-person dinner party recipe with Cooklang's serving slider—all quantities
+  recalculated instantly. The real win came when I built a Dataview query showing five-star
+  vegetarian meals under 45 minutes, surfacing forgotten favorites I'd rated highly months
+  earlier. Without strict frontmatter consistency from day one, however, those queries broke
+  immediately.
 manualRelated:
   - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
     url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"

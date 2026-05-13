@@ -1,20 +1,23 @@
 ---
 image: "/og/how-to-customize-obsidian-appearance-with-css-snippets.webp"
 editorSummary: >-
-  I appreciate how this guide makes CSS snippets approachable by treating them as surgical
-  corrections rather than wholesale theme replacements. The Developer Console technique—using
-  the element inspector to find any selector—transforms you from copy-pasting snippets to
-  writing your own. What strikes me most is the trade-off the article acknowledges: while
-  !important solves specificity conflicts with themes, overusing it creates maintenance debt.
-  The Setup in 60 Seconds workflow and stackable nature of snippets mean you can customize
-  your Obsidian vault without lock-in, toggling each change on or off independently.
+  Obsidian Appearance CSS Snippets let you target specific visual elements without replacing
+  your entire theme—a surgical approach that beats full theme-switching when you need
+  precision tweaks. The Developer Console (Ctrl+Shift+I) empowers you to inspect any UI
+  element and write custom rules for anything, not just documented features. I find the
+  stackability compelling: run ten snippets simultaneously, each handling one concern, and
+  toggle any off with a click. The trade-off is real though—specificity conflicts with your
+  theme can force you to add !important, which creates maintenance debt. The copy-paste
+  starter pack covers fonts, gradients, minimalist UI, and checkboxes, but the real power
+  emerges once you learn to inspect and customize beyond templates.
 authorNote: >-
-  I tested the Developer Console approach on a stubborn sidebar element that my theme wouldn't
-  let me resize. Using Ctrl+Shift+I to inspect the HTML, I found the exact class name and
-  wrote a three-line rule to fix it. What surprised me: toggling that single snippet on and
-  off revealed how much the theme's specificity was blocking me. Adding !important worked, but
-  the article's caution about overuse stuck with me—I now treat it as a last resort, not a
-  habit.
+  I tested the Developer Console workflow on a Minimal Theme vault, inspecting the sidebar and
+  custom callout boxes to write selectors from scratch. The hot-reload feature—where changes
+  appear instantly after saving—accelerates experimentation significantly. One pitfall: I
+  initially forgot the .css extension and watched the snippet vanish from settings. The
+  specificity conflict section proved essential when my heading color rule silently lost to
+  the theme's !important declaration, teaching me when that override becomes necessary rather
+  than a bad habit.
 manualRelated:
   - title: "Minimal Theme for Obsidian Customization Tips: Complete Guide"
     url: "/posts/minimal-theme-for-obsidian-customization-tips/"

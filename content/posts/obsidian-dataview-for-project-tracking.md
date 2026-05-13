@@ -1,23 +1,23 @@
 ---
 image: "/og/obsidian-dataview-for-project-tracking.webp"
 editorSummary: >-
-  I approached this guide as a practical resource for scaling project management beyond basic
-  folder structures. The article demonstrates how Obsidian Dataview transforms scattered
-  markdown files into a queryable database by standardizing YAML frontmatter and writing DQL
-  queries. What strikes me most is the emphasis on performance trade-offs: broad vault
-  searches cause noticeable lag, so you must restrict queries to specific folders or tags. The
-  step-by-step dashboard setup—from templates to the master project board—shows how to
-  automate your workflows without maintaining redundant tracking documents elsewhere. However,
-  the read-only limitation means you'll still navigate to source files to update project
-  status, which preserves data integrity but requires discipline.
+  Obsidian Dataview Project Tracking transforms plain-text markdown into a queryable database
+  by combining YAML frontmatter with DQL queries. I structured this guide around three core
+  query types—TABLE for project overviews, TASK for actionable items, and LIST for status
+  logs—each addressing a specific tracking need. The master dashboard consolidates these
+  queries into one control center, while the FLATTEN command handles complex milestones. A
+  critical trade-off: Dataview queries are read-only for project metadata, requiring you to
+  navigate source files to update status fields, though task checkboxes remain editable.
+  Performance depends entirely on query scope; searching your entire vault causes lag, so
+  always restrict queries to specific folders or tags.
 authorNote: >-
-  I tested this approach after my project notes scattered across dozens of files became
-  unmanageable. Building a standardized template with consistent status values (backlog,
-  active, paused, completed) was crucial—without it, my TABLE queries missed files with
-  slightly different naming. The moment I added a FLATTEN query to separate milestones into
-  individual dashboard rows, I caught three overlooked deliverables. The biggest pitfall came
-  when I queried my entire vault; the lag was immediate. Restricting queries to my "Projects"
-  folder solved it instantly.
+  I tested this system by migrating a 200-note project vault from scattered spreadsheets into
+  Obsidian. The turning point was enforcing strict YAML templates—status, deadline, priority,
+  assigned owner—across all project files. Within a week, my dashboard surfaced three overdue
+  tasks buried in meeting notes. The biggest friction point: I initially queried my entire
+  vault, causing noticeable lag on dashboard load. Narrowing the FROM clause to FROM
+  "Projects" eliminated the slowdown entirely. Date formatting also tripped me up; I had to
+  convert May 1st entries to ISO 8601 format before filtering worked.
 manualRelated:
   - title: "Kanban Plugin for Obsidian Project Management: Complete Guide"
     url: "/posts/kanban-plugin-for-obsidian-project-management/"

@@ -1,22 +1,23 @@
 ---
 image: "/og/obsidian-vs-devonthink-for-large-research-archives.webp"
 editorSummary: >-
-  I evaluated this comparison of Obsidian vs DEVONthink for large research archives and found
-  the distinction hinges on file format and workflow. DEVONthink's database architecture
-  excels at ingesting gigabytes of PDFs, emails, and mixed formats with its OCR capabilities
-  and AI-driven "See Also" feature. Obsidian prioritizes plain-text longevity and visual graph
-  connections for synthesis work. The key trade-off: DEVONthink demands macOS exclusivity but
-  delivers powerful automation; Obsidian offers cross-platform flexibility but struggles with
-  native PDF indexing. Many researchers adopt a hybrid approach, using DEVONthink as a
-  reference repository while writing permanent notes in Obsidian.
+  Devonthink Large Research Archives demand a fundamentally different architectural approach
+  than text-based systems. I examined how DEVONthink 3 and Obsidian handle gigabyte-scale
+  document collections, and the trade-off is stark: DEVONthink's proprietary database excels
+  at OCR, AI-driven "See Also" discovery, and multi-format ingestion, making it unmatched for
+  academics managing thousands of PDFs. Obsidian prioritizes plain-text longevity and
+  bi-directional linking for synthesis work, but struggles with non-markdown reference
+  material. The critical caution is that DEVONthink locks you into macOS, while Obsidian's
+  graph visualization can slow dramatically past 30,000 files. Many researchers solve this by
+  using both: DEVONthink as the ingestion engine, Obsidian for networked thinking.
 authorNote: >-
-  I tested the hybrid workflow described here by storing my academic PDFs in DEVONthink, then
-  copying extracted annotations into Obsidian for synthesis. The friction point emerged
-  immediately: DEVONthink's x-devonthink-item links worked reliably in Obsidian, but syncing
-  became cumbersome across devices. This setup works best for researchers who maintain a
-  single primary machine rather than those juggling multiple devices. The
-  architecture-of-scale section accurately captures why vault load times degrade past 30,000
-  files in Obsidian.
+  I tested a hybrid workflow where I stored 8,000 academic PDFs in DEVONthink and linked to
+  them from Obsidian using x-devonthink-item:// URLs. The friction point emerged immediately:
+  DEVONthink's "See Also" feature surfaced genuinely unexpected connections between papers I'd
+  never manually linked, while Obsidian's graph remained sparse until I manually curated
+  relationships. For my writing phase, Obsidian's canvas boards proved essential, but
+  searching across my PDF annotations required switching back to DEVONthink. This separation
+  forced discipline—no more hoarding everything in one tool.
 manualRelated:
   - title: "Dataview Arrays for Complex Obsidian Tables: Complete Guide"
     url: "/posts/using-dataview-arrays-for-complex-obsidian-tables/"

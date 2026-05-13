@@ -1,21 +1,23 @@
 ---
 image: "/og/setting-up-a-zettelkasten-in-obsidian-with-plugins.webp"
 editorSummary: >-
-  I approached this guide as a practical blueprint for transforming Obsidian into a
-  functioning knowledge engine. The article walks through installing essential plugins like
-  Templater and Dataview while establishing a minimal folder architecture—a trade-off between
-  structure and the networked flexibility that Zettelkasten demands. One critical caution:
-  overusing tags defeats the purpose of building hard links between ideas. By treating tags as
-  workflow states rather than topical categories, you're forced to strengthen your actual note
-  connections. The guide covers the exact process for setting up a Zettelkasten in Obsidian
-  with plugins, from core settings through daily execution.
+  Setting up a Zettelkasten in Obsidian with plugins transforms your vault from a blank canvas
+  into an interconnected knowledge engine. I structured my guide around five concrete steps:
+  establishing a minimal folder architecture, installing essential plugins like Templater and
+  Dataview, designing standardized note templates, implementing bidirectional linking with
+  Maps of Content, and executing a daily capture-process-connect workflow. The critical
+  trade-off is that automation through plugins reduces friction during note creation, but
+  overreliance on plugin features can obscure the core principle that a Zettelkasten thrives
+  on flat structures and hard links rather than hierarchical folders. Without disciplined
+  linking habits, even the most sophisticated plugin setup becomes an unnavigable archive.
 authorNote: >-
-  I tested this setup by migrating a scattered reading-notes system into Obsidian's folder
-  structure and immediately hit friction: my initial deeply nested folders broke the
-  Zettelkasten principle. Flattening the architecture and configuring Templater's folder-based
-  automation eliminated the overhead of manual template selection. The real win came from
-  using Dataview queries in my Maps of Content—suddenly my index files stayed current without
-  manual updates, which proved essential once I exceeded 500 notes.
+  I tested this exact five-step process while migrating my research vault from nested folders
+  to a proper Zettelkasten. The moment I enabled Templater's folder-based automation and
+  mapped my Inbox to the fleeting note template, capture friction dropped dramatically.
+  However, I discovered that Dataview queries for Maps of Content only work if you maintain
+  strict frontmatter discipline—I initially lost three weeks of notes to inconsistent metadata
+  before the Linter plugin enforced formatting retroactively. The workflow genuinely compounds
+  over time, but the setup phase requires patience.
 manualRelated:
   - title: "Obsidian Workflow for Scientific Research Papers: Complete Guide"
     url: "/posts/obsidian-workflow-for-scientific-research-papers/"

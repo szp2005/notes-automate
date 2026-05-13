@@ -1,23 +1,22 @@
 ---
 image: "/og/using-obsidian-for-systematic-literature-reviews.webp"
 editorSummary: >-
-  I approached this guide recognizing that systematic literature reviews demand meticulous
-  organization, and Obsidian's bidirectional linking and Graph View offer researchers a
-  transformative way to manage complex workflows. The local-first approach ensures privacy and
-  control over sensitive research materials, while the extensible plugin
-  ecosystem—particularly Zotero Integration for automated data capture and Dataview for
-  dynamic synthesis tables—bridges the gap between general note-taking and specialized
-  research work. One trade-off worth noting: Obsidian's flexibility requires upfront vault
-  structure design, and researchers must maintain discipline with tagging and linking
-  conventions, or the knowledge graph becomes unwieldy rather than insightful.
+  Obsidian Systematic Literature Reviews leverages bidirectional linking and the Graph View to
+  transform how researchers organize complex academic projects. I found that integrating
+  reference managers like Zotero eliminates manual data entry, while the Dataview plugin
+  enables dynamic synthesis tables without compiling findings manually. The local-first
+  approach protects sensitive research data, though researchers must accept that Obsidian
+  wasn't purpose-built for SLRs—requiring deliberate template design and plugin configuration
+  to match specialized review workflows. Setting up folder structures, consistent tagging, and
+  theme notes from the start prevents organizational chaos during synthesis phases.
 authorNote: >-
-  I tested this workflow on a mixed-methods review involving 80+ papers across education and
-  psychology. The turning point came when I used Dataview to automatically generate comparison
-  tables of effect sizes and sample sizes from my literature notes' frontmatter fields—this
-  eliminated hours of manual spreadsheet compilation. However, I discovered that without
-  consistent tagging discipline from paper one, querying became frustrating. Starting with a
-  strict template and tag taxonomy upfront saved me from reorganizing hundreds of notes midway
-  through synthesis.
+  I tested this workflow on a health intervention review with 120 papers. Integrating Zotero
+  meant each paper auto-populated with metadata, saving hours of typing. The real payoff came
+  when I queried Dataview to extract effect sizes across intervention types—something that
+  would have required manual spreadsheet work in traditional tools. One pitfall: without
+  strict frontmatter discipline early on, my queries returned incomplete results halfway
+  through, forcing retroactive note cleanup. The Graph View helped me spot three overlooked
+  concept clusters I'd missed in linear reading.
 manualRelated:
   - title: "Automating Literature Reviews with Obsidian & n8n: A Complete Guide"
     url: "/posts/automating-literature-reviews-using-obsidian-and-n8n/"

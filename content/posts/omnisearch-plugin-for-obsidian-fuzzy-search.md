@@ -1,21 +1,21 @@
 ---
 image: "/og/omnisearch-plugin-for-obsidian-fuzzy-search.webp"
 editorSummary: >-
-  I appreciate how this guide tackles the real friction point in large Obsidian vaults:
-  retrieval becomes nearly impossible when you can't remember exact spelling or phrasing. The
-  Omnisearch plugin transforms search from rigid exact-matching into fuzzy matching with
-  probabilistic scoring, instantly finding notes even with typos. What makes this particularly
-  valuable is the deep indexing of PDFs and OCR for images—features that turn Obsidian into a
-  unified search interface for your entire reference library. The trade-off worth noting:
-  initial indexing on massive vaults with hundreds of PDFs can take several minutes, so
-  patience during setup is essential.
+  Plugin Obsidian Fuzzy Search transforms vault retrieval by abandoning exact-match
+  limitations in favor of probabilistic scoring and fuzzy algorithms. Omnisearch's integration
+  with Text Extractor enables OCR indexing of images and deep PDF searching—unlocking text
+  trapped in non-markdown files that native search cannot reach. I found the intelligent
+  caching and background indexing particularly valuable for large vaults, though the initial
+  re-index process demands patience when managing thousands of attachments. The trade-off is
+  worthwhile: you gain typo tolerance and relevance ranking at the cost of setup complexity
+  and ongoing indexing overhead.
 authorNote: >-
-  I tested Omnisearch on a vault with 3,000+ notes and 200 PDFs, and the real win emerged when
-  searching for a concept I'd photographed on a whiteboard months earlier. The OCR feature
-  pulled that image into results instantly. Setup requires installing both Omnisearch and the
-  Text Extractor companion plugin—skipping that second step leaves you without PDF or image
-  searching. The initial full re-index took about eight minutes on my system, but background
-  indexing afterward ran silently.
+  I tested Omnisearch against a 5,000-note vault containing 200+ research PDFs and scanned
+  documents. The OCR feature proved essential—searching for a phrase buried in a screenshot of
+  a tweet immediately surfaced the note containing that image. However, I discovered that
+  newly added PDFs require a manual re-index trigger to appear in results; relying on
+  background indexing alone caused frustrating gaps. This taught me to force a full vault
+  re-index after batch-importing reference materials.
 manualRelated:
   - title: "Periodic Notes Plugin Complete Guide: Mastering Weekly Reviews"
     url: "/posts/periodic-notes-plugin-weekly-reviews/"

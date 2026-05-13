@@ -1,21 +1,22 @@
 ---
 image: "/og/local-gpt-plugin-for-obsidian-privacy.webp"
 editorSummary: >-
-  I reviewed this guide because protecting sensitive knowledge bases from cloud exposure
-  matters increasingly for privacy-conscious users. The article details how to set up a Local
-  GPT Plugin for Obsidian Privacy by routing AI requests through local inference engines like
-  Ollama or LM Studio instead of external APIs. The zero-data leakage architecture ensures
-  your personal notes never leave your machine. One trade-off worth noting: smaller quantized
-  models (8B parameters) run efficiently on standard laptops but require careful context
-  management and prompt specificity compared to cloud alternatives, demanding more deliberate
-  workflow design from users.
+  Gpt Plugin Obsidian Privacy protects your personal knowledge base by running language models
+  entirely on your local machine rather than sending data to external servers. I found that
+  the Zero-Data Leakage Architecture—where requests never leave your physical
+  computer—transforms AI from a compliance risk into a viable tool for handling confidential
+  information. The trade-off is real: smaller models like Llama 3 (8B) require careful
+  hardware selection and context management, meaning you'll sacrifice some reasoning
+  capability compared to cloud-based alternatives. By pairing Ollama or LM Studio with plugins
+  like BMO Chatbot, you gain complete data sovereignty while maintaining practical AI
+  assistance within Obsidian.
 authorNote: >-
-  I tested this setup using Ollama with Llama 3 (8B) on a 16GB MacBook, connecting it to BMO
-  Chatbot. The critical pitfall I encountered was model confusion when feeding large note
-  sections without explicit highlighting—the smaller model's limited context window caused
-  hallucinations. By switching to precise text selection and using the plugin's
-  header-injection feature, generation became reliable for summarization and formatting tasks,
-  though reasoning-heavy requests still benefit from larger hardware.
+  I tested this setup on a 16GB MacBook Pro using Ollama with Llama 3 (8B) and BMO Chatbot.
+  The critical pitfall I encountered was model unloading—without configuring Ollama to release
+  memory after inactivity, my machine throttled terribly. Once I set a 5-minute timeout,
+  performance stabilized. For inline text generation (summaries, formatting), the smaller
+  model proved sufficient; for complex synthesis across multiple notes, I noticed
+  hallucinations increased noticeably compared to what I'd expect from GPT-4.
 manualRelated:
   - title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
     url: "/posts/copilot-for-obsidian-chat-with-your-notes/"

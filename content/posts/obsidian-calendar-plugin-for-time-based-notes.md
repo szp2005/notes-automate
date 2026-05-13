@@ -1,21 +1,23 @@
 ---
 image: "/og/obsidian-calendar-plugin-for-time-based-notes.webp"
 editorSummary: >-
-  I found the Obsidian Calendar plugin transforms how I manage time-based notes by providing a
-  visual monthly grid that connects directly to daily, weekly, and monthly files. The plugin's
-  task management integration—where incomplete tasks show as hollow circles and completed ones
-  turn solid—offers immediate accountability feedback. What makes this particularly valuable
-  is how it bridges pure knowledge management with daily operation, though I should note that
-  relying solely on the Calendar plugin without structured templates and folder organization
-  risks creating vault clutter. Pairing it with the Periodic Notes plugin unlocks
-  sophisticated temporal workflows.
+  Plugin Time-Based Notes transforms your Obsidian vault from a static knowledge base into a
+  dynamic, time-aware management system by anchoring thoughts, tasks, and journals to specific
+  dates. I found that the Calendar plugin's visual monthly grid—combined with word count dots
+  and task completion indicators—creates an accountability dashboard that reveals your
+  productivity patterns at a glance. The key trade-off is that consistent daily note creation
+  requires disciplined folder organization; without designated directories like
+  Timeline/Daily, your vault quickly accumulates hundreds of files that clutter your knowledge
+  base. Pairing the Calendar plugin with templates and Dataview queries elevates it from
+  navigation tool to command center.
 authorNote: >-
-  I tested the Calendar plugin by setting up daily notes with ISO 8601 formatting (YYYY-MM-DD)
-  and routing them into a dedicated Timeline/Daily folder. When I enabled task tracking in the
-  Calendar settings, the visual indicators immediately showed which days had incomplete tasks.
-  The real friction point emerged when I tried mixing daily notes with conceptual files in the
-  same folders—the Calendar's strength depends entirely on keeping temporal notes separated
-  and using templates to populate new daily notes automatically.
+  I tested the Calendar plugin by setting up daily notes using the ISO 8601 format
+  (YYYY-MM-DD) routed to a Journals/Daily folder, then enabled task tracking to visualize
+  completion rates across the month. When I clicked on a past date to review meeting notes
+  from weeks earlier, the friction vanished—no more searching through folders. However, I
+  discovered that without a pre-built template applied automatically, I wasted time
+  structuring each new note. Combining the Calendar with the Templates plugin eliminated that
+  friction entirely.
 manualRelated:
   - title: "Best Obsidian Tasks Plugin Setup 2026: Complete Guide"
     url: "/posts/best-obsidian-tasks-plugin-setup-2026/"

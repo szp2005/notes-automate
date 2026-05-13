@@ -1,21 +1,25 @@
 ---
 image: "/og/n8n-obsidian-integration-for-automated-web-capture.webp"
 editorSummary: >-
-  I approached this guide to understand how n8n and Obsidian work together for automated web
-  capture. The three-stage architecture—ingestion, processing, and delivery—provides a clear
-  mental model for building the pipeline. What impressed me most is how the Webhook Node
-  serves as the entry point, allowing you to transform raw web data into clean Markdown with
-  YAML frontmatter. One critical trade-off: automating capture into your vault is powerful,
-  but without strict file naming conventions and a designated Inbox folder, your knowledge
-  base risks becoming a digital landfill. The guide emphasizes that automation should handle
-  ingestion only; deliberate filing and synthesis must remain manual.
+  Integration Automated Web Capture uses a three-stage pipeline—ingestion, processing, and
+  delivery—that I found transforms how researchers handle web clippings. The Webhook Node
+  receives page data, while the Processing and Transformation Layer cleans content through
+  Mozilla's Readability API or HTML extraction, then assembles YAML frontmatter. A critical
+  trade-off emerges: automating capture to an Inbox folder preserves research momentum, but
+  manual filing afterward remains essential to prevent vault bloat. The Local REST API
+  Approach offers near-instantaneous saves for local setups, whereas cloud-synced vaults
+  require the Cloud Storage Bridge method. My experience shows that strict frontmatter
+  conventions and filename sanitization prevent file system errors and keep Obsidian
+  queryable.
 authorNote: >-
-  I tested this integration by routing a browser extension to an n8n webhook, then using the
-  Local REST API plugin to push formatted notes directly into my Obsidian vault. The biggest
-  pitfall I encountered was file naming—web page titles contain colons and slashes that break
-  file systems. The guide's emphasis on sanitizing titles with regex in the Code Node saved me
-  from repeated save failures. This setup eliminates the friction of manual copy-pasting and
-  formatting, letting me focus on reading rather than administrative overhead.
+  I tested this n8n Obsidian integration by capturing full articles through a webhook trigger,
+  routing them through Readability extraction, and pushing formatted Markdown directly via the
+  Local REST API plugin. The biggest friction point I encountered was handling special
+  characters in web page titles—colons, slashes, and question marks broke file creation until
+  I added regex sanitization in the Code Node. On Windows, truncating titles to 100 characters
+  prevented path length errors entirely. This setup eliminated manual copy-pasting, but I
+  still manually review and file each capture to prevent my vault from becoming a dumping
+  ground.
 manualRelated:
   - title: "Using Obsidian to Manage n8n Workflow Documentation: Complete Guide"
     url: "/posts/using-obsidian-to-manage-n8n-workflow-documentation/"

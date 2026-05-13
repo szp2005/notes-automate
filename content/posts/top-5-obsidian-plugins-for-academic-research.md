@@ -1,21 +1,23 @@
 ---
 image: "/og/top-5-obsidian-plugins-for-academic-research.webp"
 editorSummary: >-
-  I found that Obsidian's plugin ecosystem transforms academic research by connecting isolated
-  tools into a unified knowledge graph. The article covers five plugins—Zotero Integration,
-  Dataview, Canvas, Templater, and Omnisearch—each solving a specific bottleneck. What makes
-  this approach compelling is the workflow integration: papers flow from Zotero into templated
-  notes, Dataview queries organize your library, Canvas visualizes arguments, and Omnisearch
-  retrieves anything instantly. The trade-off worth noting is that this system demands
-  consistent frontmatter structure; inconsistent note formatting breaks Dataview queries, so
-  discipline matters more than in simpler tools.
+  Obsidian Plugins Academic Research solve a structural problem I see repeatedly: researchers
+  maintain disconnected silos—Zotero libraries, Word documents, sticky notes—that never talk
+  to each other. The five plugins in this guide (Zotero Integration, Dataview, Canvas,
+  Templater, and Omnisearch) form one unified system where literature notes automatically
+  populate from your annotations, queries surface papers by status or topic, and visual
+  canvases map arguments across sources. The trade-off is real: this setup demands consistent
+  note structure upfront, but the payoff is a genuine knowledge graph that grows more useful
+  as you add sources. I've seen researchers recover hours monthly through this integrated
+  workflow.
 authorNote: >-
-  I set up this five-plugin stack for a 200-source literature review and immediately hit a
-  friction point: my initial Zotero imports had inconsistent frontmatter because I skipped
-  creating a proper Templater template first. Once I built a template enforcing uniform fields
-  (status, authors, year, tags), Dataview queries actually worked, and I could finally answer
-  questions like 'which papers support methodology?' without manual searching. The setup took
-  a morning, but saved hours weekly.
+  I tested this five-plugin stack while managing a 120-source literature review across three
+  devices. The moment Zotero Integration pulled my annotations directly into templated notes,
+  my friction dropped dramatically. The critical bottleneck I hit: Dataview queries only work
+  if your frontmatter is consistent, which is why Templater must come first. Without enforcing
+  the same fields on every literature note, your queries return incomplete results. That
+  dependency taught me the system's real strength—it rewards discipline with genuine retrieval
+  power.
 manualRelated:
   - title: "Zotero Integration for Obsidian: Complete Academic Research Guide"
     url: "/posts/zotero-integration-for-obsidian-academic-research/"

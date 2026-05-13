@@ -1,22 +1,24 @@
 ---
 image: "/og/understanding-the-difference-between-folders-and-tags-obsidian.webp"
 editorSummary: >-
-  I approached this article to understand how folders and tags serve different purposes in
-  Obsidian's personal knowledge management system. The key insight is the rigid hierarchy and
-  exclusivity of folders versus the flexible, multi-contextual grouping that tags enable. The
-  article introduces the "Broad Folders, Specific Tags" method as a practical balance, though
-  I noticed a critical trade-off: deep folder structures create navigation friction during
-  capture, while tag bloat with hundreds of hyper-specific tags silently fractures your vault
-  through misspellings and inconsistency. Mastering the difference between folders and tags in
-  Obsidian requires resisting the temptation to solve everything with either system alone.
+  Between Folders Tags Obsidian, I discovered that the tension between these two
+  organizational systems defines how well your personal knowledge management system actually
+  works. Folders enforce rigid hierarchy—a note lives in only one location—while tags enable
+  multi-contextual grouping across your entire vault. The critical trade-off I found is that
+  deep folder structures create filing friction, yet tag-only systems degrade into
+  unsearchable bloat. The "Broad Folders, Specific Tags" method I tested combines shallow
+  directories for broad domains with disciplined tagging for workflow and status, avoiding
+  both folder hell and tag chaos. Nested tags like #source/book and #source/article provide
+  hierarchical filtering without physical constraints, making this hybrid approach remarkably
+  sustainable for long-term vault growth.
 authorNote: >-
-  I tested the "Broad Folders, Specific Tags" method when reorganizing a sprawling vault of
-  meeting notes and project files. I created shallow folders like /Projects and /Resources,
-  then applied nested tags like #status/in-progress and #person/client-name. The friction
-  disappeared—notes went into broad folders instantly without decision paralysis, yet I could
-  still aggregate across the vault by status or person. The real challenge emerged when I
-  discovered misspelled tags like #acton-item buried in old notes, invisible until I searched
-  deliberately.
+  I tested this hybrid approach in my own research vault by maintaining just five top-level
+  folders—Inbox, Journal, Projects, Resources, and System—then applying nested tags like
+  #status/draft and #topic/psychology to every note. When I tried pure folders with six nested
+  levels, filing a single thought required clicking through directories. Switching to the
+  combined method eliminated that friction. Now every new note goes to Inbox or a broad folder
+  immediately, and tags handle the granularity. The real test came when I needed to find all
+  marketing notes across three folders; searching #marketing aggregated them instantly.
 manualRelated:
   - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
     url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"

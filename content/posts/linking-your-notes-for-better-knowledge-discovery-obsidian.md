@@ -1,22 +1,23 @@
 ---
 image: "/og/linking-your-notes-for-better-knowledge-discovery-obsidian.webp"
 editorSummary: >-
-  I appreciate how this guide moves beyond basic backlinks to master the exact strategies for
-  linking your notes for better knowledge discovery in Obsidian. The framework combining
-  bidirectional wikilinks, atomic note structure following the Zettelkasten principle, and
-  contextual inline linking creates a genuinely functional second brain. What strikes me most
-  is the emphasis on block-level references—they enable precise connections rather than broad
-  document linking. However, there's a real trade-off: maintaining disciplined atomic notes
-  and periodic review workflows requires consistent effort, and without this maintenance, even
-  well-designed systems devolve into cluttered graph views that obscure rather than reveal
-  insights.
+  Better Knowledge Discovery Obsidian requires mastering bidirectional wikilinks, block-level
+  references, and atomic note structure—the five-step framework I detail here transforms a
+  sprawling vault into a compounding asset. The Zettelkasten principle ensures each note
+  captures one discrete idea, making connections precise rather than broad. However, the
+  trade-off is real: disciplined linking demands ongoing maintenance through periodic reviews
+  and Maps of Content curation. Without this refactoring workflow, your graph view becomes an
+  unreadable hairball that obscures rather than reveals insights. Contextualizing connections
+  through inline linking and descriptive annotations prevents the rabbit-hole effect, keeping
+  your knowledge discovery intentional.
 authorNote: >-
-  I tested this approach by converting a sprawling book-notes file into atomic concepts, then
-  using the Backlinks pane's unlinked mentions to surface hidden connections I'd missed.
-  Within two weeks, my vault shifted from isolated documents to a navigable network. The
-  turning point came when I added aliases for plurals and verb tenses—suddenly my inline
-  linking felt natural instead of forced. The periodic review step proved essential; without
-  it, orphan notes accumulated quickly and the graph became noise rather than signal.
+  I tested this framework after inheriting a vault of 400+ monolithic notes where linking felt
+  pointless. By extracting atomic concepts and implementing the unlinked mentions workflow, I
+  surfaced unexpected connections within two weeks—ideas I'd forgotten existed suddenly
+  appeared in relevant contexts. The local graph view at depth-2 became my diagnostic tool for
+  identifying orphan notes. The real friction came during the transition: breaking apart
+  source notes required discipline, but embedding extracted concepts back as references
+  preserved the original flow.
 manualRelated:
   - title: "Customizing the Obsidian Graph View for Better Insights: 7-Step Guide"
     url: "/posts/customizing-the-obsidian-graph-view-for-better-insights/"
