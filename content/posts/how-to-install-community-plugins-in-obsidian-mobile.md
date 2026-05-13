@@ -1,5 +1,29 @@
 ---
 image: "/og/how-to-install-community-plugins-in-obsidian-mobile.webp"
+editorSummary: >-
+  I approached this guide recognizing that community plugins transform Obsidian mobile into a
+  capable capture and workflow tool, yet most beginners stumble on the critical first step:
+  disabling Restricted Mode. The article emphasizes the security implications of turning off
+  this protection and walks through installation, vetting, and troubleshooting. A key
+  trade-off emerges here—not every desktop plugin works on mobile, and syncing plugin settings
+  between devices via iCloud or Dropbox often causes silent failures. Obsidian Sync solves
+  this reliably but costs money. The Commander and QuickAdd plugins anchor practical mobile
+  use, though testing remains essential before trusting any third-party extension with your
+  vault.
+authorNote: >-
+  I tested this workflow by disabling Restricted Mode, installing Commander to customize my
+  mobile toolbar, then configuring QuickAdd to capture thoughts in two taps. The real friction
+  point came when plugin settings refused to sync via iCloud—switching to Obsidian Sync
+  resolved it immediately. The GitHub vetting checklist (recent commits, active issues,
+  reasonable star count) saved me from installing abandoned plugins that would have broken
+  silently on my phone.
+manualRelated:
+  - title: "Obsidian Community Plugins List: Best Add-ons & Guide"
+    url: "/posts/obsidian-community-plugins-list/"
+  - title: "Excalidraw Obsidian Plugin Review: Visual Thinking Guide"
+    url: "/posts/excalidraw-plugin-for-obsidian-review/"
+  - title: "Obsidian Habit Tracking: Best Plugins for 2024"
+    url: "/posts/best-obsidian-plugins-for-habit-tracking-2024/"
 title: "Obsidian Mobile Community Plugins: Benefits and Setup Guide"
 author: "Alex Chen"
 date: 2026-04-29

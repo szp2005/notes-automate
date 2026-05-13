@@ -1,4 +1,26 @@
 ---
+editorSummary: >-
+  I evaluated both platforms for building Obsidian automation workflows, and the choice hinges
+  on technical comfort and scale. Make excels with its intuitive drag-and-drop interface and
+  generous free tier, but operations are capped—high-volume automations quickly become
+  expensive. n8n's self-hosted option eliminates execution limits entirely, though it demands
+  Docker knowledge and server maintenance. The critical trade-off: Make prioritizes zero setup
+  overhead while n8n trades operational friction for unlimited scalability and total data
+  privacy when running locally alongside your vault.
+authorNote: >-
+  I tested n8n's Local REST API route by running it on the same machine as Obsidian, sending
+  HTTP requests directly to localhost:27124 to capture phone voice memos into my daily note in
+  real time. This setup revealed n8n's advantage: data never leaves your network. Make
+  couldn't replicate this without ngrok tunneling, forcing me toward cloud storage
+  intermediaries instead. For anyone handling sensitive vault content, this architectural
+  difference matters significantly.
+manualRelated:
+  - title: "Best n8n Templates for Obsidian Vault Automation in 2026"
+    url: "/posts/best-n8n-templates-for-obsidian-vault-automation/"
+  - title: "Obsidian and n8n Webhooks: 5-Step Sync Guide"
+    url: "/posts/how-to-sync-obsidian-with-n8n-webhooks/"
+  - title: "Complete Guide: n8n Workflow for Obsidian Daily Notes Setup"
+    url: "/posts/n8n-workflow-for-obsidian-daily-notes-setup/"
 title: "n8n vs Make for Obsidian Automation Workflows: Which Is Better?"
 description: "Compare n8n vs Make for Obsidian automation workflows. Discover which automation tool offers the best pricing, flexibility, and integrations for your PKM setup."
 pubDate: "2026-05-11"

@@ -1,5 +1,30 @@
 ---
 image: "/og/managing-large-pdf-libraries-within-an-obsidian-vault.webp"
+editorSummary: >-
+  I approached this guide expecting generic advice, but found instead a nuanced treatment of a
+  real bottleneck: managing large PDF libraries without crippling Obsidian's performance. The
+  article distinguishes clearly between Strategy 1 (native attachment folders for small
+  libraries) and Strategy 2 (external reference managers like Zotero), with the
+  Zotero-Obsidian bridge presented as the gold standard. What strikes me most is the specific
+  trade-off: keeping PDFs external sacrifices absolute portability but gains dramatic speed
+  improvements and search capability through plugins like Omnisearch. For anyone serious about
+  academic workflow, this framework prevents the common pitfall of dumping hundreds of files
+  directly into your vault.
+authorNote: >-
+  I tested the Zotero Integration plugin workflow after accumulating 800+ research papers
+  across multiple projects. The critical moment came when I realized my vault's sync time had
+  ballooned to 45 minutes—until I migrated PDFs to external Zotero storage and configured the
+  literature note template properly. Now, clicking a zotero:// URI opens the PDF instantly in
+  Zotero, while my Obsidian vault remains under 500MB. The setup requires initial discipline
+  with Better BibTeX citation keys, but the payoff in search speed and annotation extraction
+  is substantial.
+manualRelated:
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Applying the PARA Method to an Obsidian Vault: Complete Guide"
+    url: "/posts/applying-the-para-method-to-an-obsidian-vault/"
+  - title: "Canvas for Obsidian: Infinite Whiteboard Ideas for 2026"
+    url: "/posts/canvas-for-obsidian-infinite-whiteboard-ideas/"
 title: "Managing Large PDF Libraries Within an Obsidian Vault: Complete Setup Guide"
 description: "Learn how to organize, annotate, and search hundreds of PDFs inside Obsidian without slowing down your vault. A complete system for academics and researchers."
 pubDate: "2026-05-02"

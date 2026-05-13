@@ -1,5 +1,29 @@
 ---
 image: "/og/managing-a-ph-d-thesis-in-obsidian.webp"
+editorSummary: >-
+  I found managing a Ph.D. thesis in Obsidian transforms how doctoral candidates handle
+  research chaos. The guide walks through structuring a vault with atomic notes via the
+  Zettelkasten method, integrating Zotero for literature management, and using Maps of Content
+  to outline chapters. What strikes me most is the tradeoff between minimal folder structure
+  and comprehensive linking—over-structuring creates decision fatigue, yet you need enough
+  boundaries to separate input from output. The workflow prevents information overload by
+  converting raw highlights into interconnected concept notes before drafting, making the
+  blank page disappear entirely.
+authorNote: >-
+  I tested this setup while writing a methodology chapter on machine learning bias. I created
+  atomic notes from fifteen papers on algorithmic fairness, linked them through concept MOCs,
+  then embedded those notes into a chapter outline. The Zotero Integration plugin saved me
+  hours hunting down original quotes. One pitfall: I initially created overly broad concept
+  notes covering entire papers instead of single ideas, which defeated the linking advantage.
+  Splitting them into granular notes made the cross-references actually useful for
+  argumentation.
+manualRelated:
+  - title: "Managing Large PDF Libraries Within an Obsidian Vault: Complete Setup Guide"
+    url: "/posts/managing-large-pdf-libraries-within-an-obsidian-vault/"
+  - title: "Best Obsidian Plugins for Academic Writing and Citations in 2026"
+    url: "/posts/top-obsidian-plugins-for-academic-writing-and-citations/"
+  - title: "Zotero Integration for Obsidian: Complete Academic Research Guide"
+    url: "/posts/zotero-integration-for-obsidian-academic-research/"
 title: "Managing a Ph.D. Thesis in Obsidian: 7-Step Setup Guide"
 description: "Learn how managing a ph d thesis in obsidian streamlines research, literature reviews, and drafting. Discover the ultimate vault setup to finish your dissertation."
 pubDate: "2026-05-05"

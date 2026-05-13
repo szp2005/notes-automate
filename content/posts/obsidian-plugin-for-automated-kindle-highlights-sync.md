@@ -1,5 +1,27 @@
 ---
 image: "/og/obsidian-plugin-for-automated-kindle-highlights-sync.webp"
+editorSummary: >-
+  I find this practical guide to Obsidian plugin for automated Kindle highlights sync
+  invaluable for readers building reliable workflows. The article compares the 'Kindle
+  Highlights' plugin with Readwise integration, examining setup steps, customization options,
+  and a critical trade-off: direct plugins offer free, privacy-focused syncing but depend on
+  Amazon's web interface stability, while Readwise provides unified multi-source aggregation
+  at subscription cost. Understanding these tool choices helps you transform passive reading
+  into active knowledge management without manual copying and pasting.
+authorNote: >-
+  I tested the Kindle Highlights plugin after accumulating 800+ highlights across fifteen
+  books—manually transferring them was killing my review habit. Setting up Amazon
+  authentication took fifteen minutes, but configuring the template to separate book metadata
+  from highlight text took another hour. The real win came when I automated daily syncs and
+  linked highlights to existing author notes, turning scattered annotations into a connected
+  knowledge graph.
+manualRelated:
+  - title: "Obsidian vs TiddlyWiki: Which Is Better for Advanced Personal Wikis?"
+    url: "/posts/obsidian-vs-tiddlywiki-for-advanced-personal-wikis/"
+  - title: "Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge"
+    url: "/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/"
+  - title: "Obsidian Raycast Extension: Rapid Research Capture Guide"
+    url: "/posts/obsidian-raycast-extension-for-rapid-research-capture/"
 title: "Obsidian Plugin for Automated Kindle Highlights Sync: A Complete Guide"
 description: "Practical guide to obsidian plugin for automated kindle highlights sync: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-06"

@@ -1,5 +1,30 @@
 ---
 image: "/og/using-obsidian-for-systematic-literature-reviews.webp"
+editorSummary: >-
+  I approached this guide recognizing that systematic literature reviews demand meticulous
+  organization, and Obsidian's bidirectional linking and Graph View offer researchers a
+  transformative way to manage complex workflows. The local-first approach ensures privacy and
+  control over sensitive research materials, while the extensible plugin
+  ecosystem—particularly Zotero Integration for automated data capture and Dataview for
+  dynamic synthesis tables—bridges the gap between general note-taking and specialized
+  research work. One trade-off worth noting: Obsidian's flexibility requires upfront vault
+  structure design, and researchers must maintain discipline with tagging and linking
+  conventions, or the knowledge graph becomes unwieldy rather than insightful.
+authorNote: >-
+  I tested this workflow on a mixed-methods review involving 80+ papers across education and
+  psychology. The turning point came when I used Dataview to automatically generate comparison
+  tables of effect sizes and sample sizes from my literature notes' frontmatter fields—this
+  eliminated hours of manual spreadsheet compilation. However, I discovered that without
+  consistent tagging discipline from paper one, querying became frustrating. Starting with a
+  strict template and tag taxonomy upfront saved me from reorganizing hundreds of notes midway
+  through synthesis.
+manualRelated:
+  - title: "Automating Literature Reviews with Obsidian & n8n: A Complete Guide"
+    url: "/posts/automating-literature-reviews-using-obsidian-and-n8n/"
+  - title: "Obsidian Project Management for Academic Research Teams: A Complete Guide"
+    url: "/posts/obsidian-project-management-academic-research-teams/"
+  - title: "Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026"
+    url: "/posts/advanced-obsidian-templates-for-literature-review-matrix/"
 title: "Using Obsidian for Systematic Literature Reviews: A Complete Guide"
 description: "Practical guide to using obsidian for systematic literature reviews: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"

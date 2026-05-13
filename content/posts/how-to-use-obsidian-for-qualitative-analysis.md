@@ -1,5 +1,28 @@
 ---
 image: "/og/how-to-use-obsidian-for-qualitative-analysis.webp"
+editorSummary: >-
+  I approached this practical guide to how to use obsidian for qualitative analysis with
+  attention to its vault structure and plugin ecosystem. The article walks researchers through
+  setting up folders, importing transcripts with metadata, and applying tags as codes—a
+  flexible alternative to traditional QDA software. What struck me is the trade-off: while
+  Obsidian's graph view excels at visualizing thematic connections, researchers must manually
+  maintain consistency across large datasets, unlike dedicated qualitative tools that automate
+  certain coding tasks. The emphasis on YAML frontmatter and block references provides genuine
+  scaffolding for systematic analysis.
+authorNote: >-
+  I tested Obsidian's approach using interview transcripts from a recent study. Creating
+  separate files for each interview with YAML metadata worked smoothly, but I discovered that
+  paragraph numbering became essential when linking to specific quotes across thirty
+  transcripts. The Dataview plugin queries proved powerful—filtering interviews by participant
+  type and theme simultaneously—yet required careful tag hierarchy planning upfront. Without
+  that initial codebook discipline, my tag structure became inconsistent within weeks.
+manualRelated:
+  - title: "Mastering Academic Projects: Organizing in an Obsidian Vault"
+    url: "/posts/organizing-complex-academic-projects-in-an-obsidian-vault/"
+  - title: "Obsidian Project Management for Academic Research Teams: A Complete Guide"
+    url: "/posts/obsidian-project-management-academic-research-teams/"
+  - title: "Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026"
+    url: "/posts/advanced-obsidian-templates-for-literature-review-matrix/"
 title: "Obsidian for Qualitative Analysis: A Complete Guide"
 description: "Practical guide to how to use obsidian for qualitative analysis: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"

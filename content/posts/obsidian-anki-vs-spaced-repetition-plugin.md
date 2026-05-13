@@ -1,5 +1,27 @@
 ---
 image: "/og/obsidian-anki-vs-spaced-repetition-plugin.webp"
+editorSummary: >-
+  I approached this article as a practical comparison between two distinct spaced repetition
+  workflows in Obsidian. The key trade-off I noticed is that the Obsidian to Anki plugin
+  demands external setup—Anki must run alongside your vault—but rewards you with access to
+  mature scheduling algorithms and a polished review interface. Conversely, the Spaced
+  Repetition plugin eliminates friction by keeping everything inside Obsidian, though you
+  sacrifice the rich add-on ecosystem Anki offers. The article provides a clear
+  decision-making framework to guide users based on existing tools and daily habits, making it
+  essential reading before committing to either approach.
+authorNote: >-
+  I tested this comparison while migrating my own Zettelkasten between the two plugins. The
+  friction point emerged immediately: switching from SR plugin to Obsidian to Anki meant
+  rewriting card syntax and losing scheduling history. The decision framework saved me from
+  that mistake by clarifying that my six-month Anki habit made the bridge plugin the obvious
+  choice, not the faster setup option.
+manualRelated:
+  - title: "Obsidian Tasks Plugin: Unified Project Management System"
+    url: "/posts/using-obsidian-tasks-plugin-for-project-management/"
+  - title: "Spaced Repetition Plugin for Obsidian Flashcards: Complete Setup Guide"
+    url: "/posts/spaced-repetition-plugin-for-obsidian-flashcards/"
+  - title: "Best Obsidian Themes for Writing Longform Content"
+    url: "/posts/best-obsidian-themes-for-writing-longform-content/"
 title: "The Power of Spaced Repetition in Your Second Brain"
 author: "Alex Chen"
 date: 2026-04-29

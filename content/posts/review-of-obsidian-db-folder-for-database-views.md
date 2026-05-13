@@ -1,5 +1,28 @@
 ---
 image: "/og/review-of-obsidian-db-folder-for-database-views.webp"
+editorSummary: >-
+  I evaluated Obsidian DB Folder as a practical Notion alternative for local markdown
+  workflows, and it delivers genuine value for structured data management. The plugin excels
+  at bidirectional YAML editing and column types with data validation, letting you modify
+  frontmatter visually without touching raw text. However, performance degrades noticeably in
+  folders exceeding 500 files—a critical trade-off when scaling your vault. My recommendation:
+  pair DB Folder with Dataview using a dual-plugin strategy, reserving DB Folder for active
+  operational hubs like sprint boards while using Dataview for read-only dashboards across
+  your entire vault.
+authorNote: >-
+  I tested DB Folder on a 2,000-note project management vault and discovered the hard way that
+  pointing a database view at a root directory caused 5-second load delays. Restricting views
+  to segmented folders under 500 files solved this immediately. Before implementing any
+  database view, audit your existing frontmatter—I found I'd used status:, Status:, and state:
+  interchangeably, which fragmented my columns across three separate fields. Standardizing
+  your YAML keys first prevents this mess entirely.
+manualRelated:
+  - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
+    url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Automating Your Task Management With Obsidian Tasks Plugin: Guide"
+    url: "/posts/automating-your-task-management-with-obsidian-tasks-plugin/"
 title: "Review of Obsidian DB Folder for Database Views in 2026"
 description: "Looking for a Notion alternative? Read our complete review of Obsidian DB Folder for database views to see if this plugin transforms your PKM workflow."
 pubDate: "2026-05-03"

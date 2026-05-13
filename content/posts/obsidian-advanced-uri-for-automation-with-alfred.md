@@ -1,5 +1,27 @@
 ---
 image: "/og/obsidian-advanced-uri-automation-alfred.webp"
+editorSummary: >-
+  I see this guide as a practical bridge between two macOS tools that rarely communicate
+  seamlessly. By configuring Obsidian Advanced URI for automation with Alfred, you can
+  instantly create notes and append tasks without manual navigation. The key trade-off is that
+  Obsidian must remain running in the background for capture workflows to execute instantly—if
+  the application closes, the first URI triggers a startup delay that defeats the speed
+  advantage. URL encoding becomes the critical friction point; unencoded ampersands or spaces
+  in your vault name will silently break your workflows. Start with the Background Daily
+  Logger workflow to test the mechanics before expanding to more complex automations.
+authorNote: >-
+  I tested this setup by building a rapid task capture workflow that routes meeting notes
+  directly to my Inbox file via Alfred's task keyword. The moment I disabled the "Open file on
+  write" setting in Advanced URI, background appending worked reliably. However, I discovered
+  that if my vault name contained spaces, the URI silently failed until I applied proper URL
+  encoding. This single detail—%20 for spaces—prevented hours of debugging.
+manualRelated:
+  - title: "Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide"
+    url: "/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/"
+  - title: "Automate Obsidian Daily Notes with Python: A Complete Guide"
+    url: "/posts/automate-obsidian-daily-notes-using-python/"
+  - title: "Periodic Notes Plugin Complete Guide: Mastering Weekly Reviews"
+    url: "/posts/periodic-notes-plugin-weekly-reviews/"
 title: "Obsidian Advanced URI for Automation with Alfred: Setup Guide"
 description: "Learn how to configure Obsidian Advanced URI for automation with Alfred to instantly create notes, append text, and navigate your vault from macOS globally."
 pubDate: "2026-05-03"

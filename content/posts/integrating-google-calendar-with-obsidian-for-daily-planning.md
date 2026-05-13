@@ -1,5 +1,29 @@
 ---
 image: "/og/integrating-google-calendar-with-obsidian-for-daily-planning.webp"
+editorSummary: >-
+  I find that integrating Google Calendar with Obsidian for daily planning eliminates the
+  context-switching tax between scheduling and note-taking. This guide covers choosing the
+  right Obsidian plugin for calendar sync—whether Full Calendar for a traditional grid
+  interface or the Obsidian Google Calendar plugin for a lightweight sidebar view—plus the
+  technical setup via Google Calendar API. The key trade-off: syncing your entire calendar
+  history will bloat your vault's index, so establishing strict sync windows is essential. By
+  anchoring your schedule directly in daily notes with bidirectional wiki-links to meeting
+  documents, you build a unified knowledge graph without manual bridging.
+authorNote: >-
+  I tested this setup using the Obsidian Google Calendar plugin with OAuth credentials,
+  inserting a query block at the top of my daily note template. The real friction point came
+  when I initially synced ten years of historical events—my vault indexing slowed
+  dramatically. Once I configured the plugin to sync only the current month forward,
+  performance stabilized. Now when I see a meeting in my daily agenda, I can click to create a
+  linked meeting note instantly, turning my daily timeline into a searchable project reference
+  automatically.
+manualRelated:
+  - title: "Obsidian Periodic Notes Plugin Setup for Annual Reviews: Complete Guide"
+    url: "/posts/obsidian-periodic-notes-plugin-setup-for-annual-reviews/"
+  - title: "Applying the PARA Method to an Obsidian Vault: Complete Guide"
+    url: "/posts/applying-the-para-method-to-an-obsidian-vault/"
+  - title: "Automating Your Task Management With Obsidian Tasks Plugin: Guide"
+    url: "/posts/automating-your-task-management-with-obsidian-tasks-plugin/"
 title: "Integrating Google Calendar With Obsidian For Daily Planning"
 description: "Master integrating Google Calendar with Obsidian for daily planning. Discover the best plugins, setup steps, and workflows to unify your schedule and notes."
 pubDate: "2026-05-02"

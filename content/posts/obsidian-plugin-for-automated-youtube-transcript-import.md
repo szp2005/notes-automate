@@ -1,5 +1,29 @@
 ---
 image: "/og/obsidian-plugin-automated-youtube-transcript-import.webp"
+editorSummary: >-
+  I evaluated the YouTube Transcript plugin paired with Media Extended as the most effective
+  solution for automated YouTube transcript import in Obsidian. The combination lets you fetch
+  full video text with clickable timestamps directly into your notes, transforming passive
+  watching into active knowledge management. However, a critical trade-off emerges: full
+  transcripts can pollute your vault's search results with casual mentions, forcing you to
+  structure inputs separately from synthesized knowledge. The plugin handles auto-generated
+  captions reasonably well, though technical jargon often requires selective correction rather
+  than full editing.
+authorNote: >-
+  I tested this workflow by importing a one-hour technical lecture on machine learning. After
+  enabling timestamps in the YouTube Transcript plugin and configuring Media Extended to
+  recognize the time format, I created a template-based note structure. The friction point
+  appeared when searching for specific concepts—the raw transcript cluttered results until I
+  moved all video inputs into a dedicated folder and excluded it from default searches. This
+  separation immediately improved my ability to surface synthesized notes over raw source
+  material.
+manualRelated:
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Customize Obsidian Sidebar with Commander Plugin Icons: Complete Guide"
+    url: "/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/"
+  - title: "HoverNotes for Timestamped Video Notes in Obsidian: Complete Guide"
+    url: "/posts/hovernotes-for-timestamped-video-notes-obsidian/"
 title: "Best Obsidian Plugin for Automated YouTube Transcript Import"
 description: "Discover the top Obsidian plugin for automated YouTube transcript import to seamlessly turn video content into searchable notes and boost your PKM workflow."
 pubDate: "2026-05-03"

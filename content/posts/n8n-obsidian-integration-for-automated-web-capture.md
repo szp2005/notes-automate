@@ -1,5 +1,28 @@
 ---
 image: "/og/n8n-obsidian-integration-for-automated-web-capture.webp"
+editorSummary: >-
+  I approached this guide to understand how n8n and Obsidian work together for automated web
+  capture. The three-stage architecture—ingestion, processing, and delivery—provides a clear
+  mental model for building the pipeline. What impressed me most is how the Webhook Node
+  serves as the entry point, allowing you to transform raw web data into clean Markdown with
+  YAML frontmatter. One critical trade-off: automating capture into your vault is powerful,
+  but without strict file naming conventions and a designated Inbox folder, your knowledge
+  base risks becoming a digital landfill. The guide emphasizes that automation should handle
+  ingestion only; deliberate filing and synthesis must remain manual.
+authorNote: >-
+  I tested this integration by routing a browser extension to an n8n webhook, then using the
+  Local REST API plugin to push formatted notes directly into my Obsidian vault. The biggest
+  pitfall I encountered was file naming—web page titles contain colons and slashes that break
+  file systems. The guide's emphasis on sanitizing titles with regex in the Code Node saved me
+  from repeated save failures. This setup eliminates the friction of manual copy-pasting and
+  formatting, letting me focus on reading rather than administrative overhead.
+manualRelated:
+  - title: "Using Obsidian to Manage n8n Workflow Documentation: Complete Guide"
+    url: "/posts/using-obsidian-to-manage-n8n-workflow-documentation/"
+  - title: "Python Scripts for Bulk Processing Obsidian Markdown Files Guide"
+    url: "/posts/python-scripts-for-bulk-processing-obsidian-markdown-files/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
 title: "n8n Obsidian Integration for Automated Web Capture: Complete Guide"
 description: "Learn how to build a reliable n8n Obsidian integration for automated web capture. Step-by-step workflow guide to saving articles, metadata, and highlights."
 pubDate: "2026-05-05"

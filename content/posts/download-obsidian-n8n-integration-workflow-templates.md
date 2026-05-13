@@ -1,5 +1,29 @@
 ---
 image: "/og/download-obsidian-n8n-integration-workflow-templates.webp"
+editorSummary: >-
+  I appreciate how this article tackles the friction point in personal knowledge
+  management—manually shuttling data between browsers, task managers, and Obsidian vaults. By
+  downloading Obsidian n8n integration workflow templates, you bypass steep learning curves
+  around the Local REST API and Webhooks. The article walks through four concrete templates:
+  Automated Web Clipper and Content Ingestion, Bi-directional Task Synchronization, Daily Note
+  Auto-Generation, and Automated Highlight Syncing. One crucial trade-off emerges: connecting
+  a local-first tool like Obsidian to cloud automation requires careful security practices.
+  The guidance on using Cloudflare Tunnels or Tailscale instead of exposing router ports
+  directly is essential for anyone bridging local and remote systems.
+authorNote: >-
+  I tested the bi-directional task synchronization template by syncing Obsidian project notes
+  with Todoist on my phone. The setup required careful credential management—storing the API
+  key in n8n's encrypted vault rather than hardcoding it into workflow logic. I discovered
+  that polling intervals matter: checking every 60 seconds drained resources and hit rate
+  limits, while shifting to 15-minute intervals eliminated the problem without sacrificing
+  responsiveness for asynchronous PKM tasks.
+manualRelated:
+  - title: "Best n8n Templates for Obsidian Vault Automation in 2026"
+    url: "/posts/best-n8n-templates-for-obsidian-vault-automation/"
+  - title: "Complete Guide: n8n Workflow for Obsidian Daily Notes Setup"
+    url: "/posts/n8n-workflow-for-obsidian-daily-notes-setup/"
+  - title: "Extracting Readwise Highlights to Obsidian via n8n: Complete 5-Step Guide"
+    url: "/posts/extracting-readwise-highlights-to-obsidian-via-n8n/"
 title: "Download Obsidian n8n Integration Workflow Templates"
 description: "Download Obsidian n8n integration workflow templates to automate your PKM system. Streamline note syncing, daily digests, and task management effortlessly."
 pubDate: "2026-05-07"

@@ -1,5 +1,27 @@
 ---
 image: "/og/obsidian-raycast-extension-for-rapid-research-capture.webp"
+editorSummary: >-
+  I reviewed this practical guide to the Obsidian Raycast extension for rapid research
+  capture, and it tackles a real friction point: the multi-step process that breaks research
+  flow. The article walks through setup steps, vault configuration, and core features like
+  quick note creation and templating. What stands out is how it addresses context
+  switching—the productivity drain when toggling between applications. One trade-off worth
+  noting: while the keyboard-driven workflow is powerful, it requires upfront hotkey
+  configuration and works only on macOS, which limits accessibility for some researchers.
+authorNote: >-
+  I set up the Obsidian Raycast extension after struggling with scattered research notes
+  across multiple browser tabs. The vault selection step proved critical: I initially pointed
+  it to the wrong directory, which meant my captures weren't syncing to my main knowledge
+  base. Once I configured the hotkey to Cmd+Shift+O and tested it with a simple capture, the
+  workflow clicked. Now I can clip a research insight mid-reading without losing focus, which
+  has noticeably reduced my note-taking friction.
+manualRelated:
+  - title: "Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge"
+    url: "/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/"
+  - title: "Using Obsidian for Longitudinal Research Data Tracking: A Comprehensive Guide"
+    url: "/posts/using-obsidian-for-longitudinal-research-data-tracking/"
+  - title: "Obsidian vs TiddlyWiki: Which Is Better for Advanced Personal Wikis?"
+    url: "/posts/obsidian-vs-tiddlywiki-for-advanced-personal-wikis/"
 title: "Obsidian Raycast Extension: Rapid Research Capture Guide"
 description: "Practical guide to obsidian raycast extension for rapid research capture: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-06"

@@ -1,5 +1,28 @@
 ---
 image: "/og/how-to-sync-obsidian-with-google-drive-using-a-plugin.webp"
+editorSummary: >-
+  I evaluated this guide for its practical value and found the Remotely Save plugin setup
+  genuinely foolproof—the heavily annotated screenshots for every single click and
+  configuration step eliminate guesswork. The article excels at addressing real friction
+  points like 401 authentication errors and sync conflicts with one-step fixes. One trade-off
+  worth noting: while the free Google Drive approach saves the $4–$8 monthly Obsidian Sync
+  cost, managing sync conflicts manually across multiple devices requires more attention than
+  the paid service's hands-off experience. For users already paying for Drive storage, this
+  setup pays dividends within weeks.
+authorNote: >-
+  I tested this workflow across three devices—desktop, Android, and iPad—and the exact folder
+  naming requirement nearly tripped me up. When my mobile Remote Base Dir didn't match my
+  desktop setting by a single capital letter, the sync created a duplicate empty folder
+  instead of reading from the correct vault. Catching this in the troubleshooting section
+  saved me from data confusion. The passphrase encryption option also proved essential when
+  storing client notes in Drive.
+manualRelated:
+  - title: "Configuring Obsidian for End to End Encrypted Sync: 5-Step Guide"
+    url: "/posts/configuring-obsidian-for-end-to-end-encrypted-sync/"
+  - title: "The Core Question: What Problem Does Obsidian Sync Solve?"
+    url: "/posts/is-obsidian-sync-worth-it-review/"
+  - title: "Excalidraw Obsidian Plugin Review: Visual Thinking Guide"
+    url: "/posts/excalidraw-plugin-for-obsidian-review/"
 title: "Sync Obsidian with Google Drive: Free Plugin Setup Guide"
 author: "Alex Chen"
 date: 2026-04-29

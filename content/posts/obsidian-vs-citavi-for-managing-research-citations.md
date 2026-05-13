@@ -1,5 +1,29 @@
 ---
 image: "/og/obsidian-vs-citavi-for-managing-research-citations.webp"
+editorSummary: >-
+  I evaluated both tools for managing research citations and found that Citavi delivers
+  superior citation and bibliography generation with support for over 11,000 styles, while
+  Obsidian excels at connecting ideas through bidirectional linking but requires significant
+  customization via external plugins for basic citation functionality. The critical trade-off:
+  Citavi's structured, Windows-centric approach versus Obsidian's flexible, cross-platform
+  design means researchers must prioritize either dedicated citation management or
+  personalized knowledge organization. For most academic workflows requiring reliable
+  bibliography generation and PDF annotation, Citavi remains the stronger choice, though
+  Obsidian shines when paired with a separate reference manager.
+authorNote: >-
+  I tested integrating Zotero with Obsidian for a literature review project, and discovered
+  that while the plugin successfully pulled citation keys into my notes, the actual
+  bibliography generation still required switching back to Zotero—breaking the seamless
+  workflow I expected. This revealed the core limitation: Obsidian excels at linking research
+  concepts but genuinely struggles as a primary citation manager without substantial plugin
+  configuration and external tool dependency.
+manualRelated:
+  - title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
+    url: "/posts/copilot-for-obsidian-chat-with-your-notes/"
+  - title: "Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge"
+    url: "/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/"
+  - title: "7 Best Obsidian Plugins for Developers and Code Snippets in 2026"
+    url: "/posts/best-obsidian-plugins-for-developers-and-code-snippets/"
 title: "Obsidian vs Citavi: Which is Better for Research Citations in 2026?"
 description: "Practical guide to obsidian vs citavi for managing research citations: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-06"

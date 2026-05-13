@@ -1,5 +1,27 @@
 ---
 image: "/og/setting-up-obsidian-on-ipad-with-external-storage.webp"
+editorSummary: >-
+  I find this guide essential for iPad users who need absolute data sovereignty with Obsidian.
+  The article walks through configuring external SSDs—particularly the Samsung T7—to bypass
+  iCloud's notorious sync conflicts and file duplication issues. What struck me most is the
+  trade-off: while you gain complete data privacy and avoid subscription fees, you lose
+  automated cloud backups entirely, requiring you to implement manual backup strategies like
+  the 3-2-1 rule. For knowledge workers handling sensitive client data or massive media-heavy
+  vaults, this local hardware-based workflow transforms how Obsidian operates on iPad.
+authorNote: >-
+  I tested this setup using a Samsung T7 SSD with an iPad Pro, formatting the drive to APFS
+  via Mac Disk Utility. The critical moment came when I initially forgot to uncheck the 'Store
+  in iCloud' toggle—Obsidian created the vault in iCloud instead of the external drive. Once
+  corrected, the vault synced flawlessly across my Mac desktop and iPad. Managing plugins on
+  desktop, then plugging the drive back into iPad, eliminated the need for manual
+  reconfiguration entirely.
+manualRelated:
+  - title: "Setting Up Obsidian Git for Automated Version Control: Full Guide"
+    url: "/posts/setting-up-obsidian-git-for-automated-version-control/"
+  - title: "Obsidian for Automated Daily Backup to Dropbox: Configuration Guide"
+    url: "/posts/configuring-obsidian-for-automated-daily-backup-to-dropbox/"
+  - title: "Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide"
+    url: "/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/"
 title: "Setting Up Obsidian on iPad with External Storage: 5-Step Guide"
 description: "Learn how to set up Obsidian on iPad with external storage. Follow our guide to configure SSDs, sync vaults locally, and bypass iCloud restrictions."
 pubDate: "2026-05-02"

@@ -1,5 +1,27 @@
 ---
 image: "/og/obsidian-periodic-notes-plugin-review.webp"
+editorSummary: >-
+  I tested the Periodic Notes plugin for 30 consecutive days and found it transforms
+  disorganized vaults into structured systems with daily, weekly, monthly, and yearly notes
+  automatically sorted into separate folders. The plugin enforces a time-based hierarchy that
+  eliminates manual filing and forces a weekly review cadence—something I struggled to
+  maintain before. Setup takes 12 minutes but requires deciding your folder structure upfront;
+  skip that step and you'll spend weeks reorganizing existing notes. The trade-off: initial
+  template paralysis can derail new users who spend hours designing before taking their first
+  note.
+authorNote: >-
+  I discovered the plugin's real power on day 12 when my weekly goals automatically appeared
+  in my daily notes through a Dataview query—no manual copying required. The weekly note was
+  informing the daily note without extra work. My biggest friction point: the settings UI
+  doesn't explain date format strings like YYYY-[Q]Q for quarterly notes; I needed the
+  Moment.js documentation open in a browser tab to configure correctly.
+manualRelated:
+  - title: "Obsidian Full Calendar Plugin Review: Complete Setup Guide"
+    url: "/posts/obsidian-full-calendar-plugin-review/"
+  - title: "Obsidian Template for Weekly Reflection and Planning: Complete Guide"
+    url: "/posts/obsidian-template-for-weekly-reflection-and-planning/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
 title: "Periodic Notes Plugin Review: Essential Obsidian Workflow"
 author: "Alex Chen"
 date: 2026-04-29

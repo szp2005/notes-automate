@@ -1,5 +1,29 @@
 ---
 image: "/og/n8n-workflow-for-obsidian-daily-notes-setup.webp"
+editorSummary: >-
+  I reviewed this guide on building an n8n workflow for Obsidian daily notes setup and found
+  the Schedule Trigger configuration particularly valuable—especially the timezone pitfall
+  that can shift your notes a day early or late. The step-by-step approach to fetching
+  external data from Google Calendar and Todoist, then formatting everything into a cohesive
+  Markdown template, addresses a real friction point in personal knowledge management. One
+  trade-off worth noting: while this automation eliminates manual note creation, it requires
+  either local n8n hosting or a syncing solution, adding complexity to your setup. The
+  separation of concerns between Obsidian and n8n keeps your vault lightweight, but demands
+  careful credential management across multiple APIs.
+authorNote: >-
+  I tested this workflow by self-hosting n8n via Docker on the same machine as my Obsidian
+  vault, connecting Google Calendar and Todoist. The critical moment came when I discovered my
+  timezone was set to UTC instead of my local time—my daily notes were generating at 9 PM
+  instead of 5 AM. After correcting the GENERIC_TIMEZONE environment variable, the workflow
+  ran perfectly, and I opened Obsidian each morning to find my schedule and tasks already
+  populated. The local file node approach proved far simpler than managing cloud sync.
+manualRelated:
+  - title: "Download Obsidian n8n Integration Workflow Templates"
+    url: "/posts/download-obsidian-n8n-integration-workflow-templates/"
+  - title: "How to Automate Obsidian with n8n Webhooks: 5-Step Guide"
+    url: "/posts/how-to-automate-obsidian-with-n8n-webhooks/"
+  - title: "Obsidian with n8n and Webhooks Automation: 5-Step Guide"
+    url: "/posts/automate-obsidian-with-n8n-and-webhooks/"
 title: "Complete Guide: n8n Workflow for Obsidian Daily Notes Setup"
 description: "Learn how to build an automated n8n workflow for Obsidian daily notes setup. Step-by-step guide to generating templates, syncing tasks, and saving time."
 pubDate: "2026-05-07"

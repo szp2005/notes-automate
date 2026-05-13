@@ -1,5 +1,28 @@
 ---
 image: "/og/how-to-find-obsidian-plugin-documentation.webp"
+editorSummary: >-
+  I approached this article as a practical guide to finding Obsidian plugin documentation, and
+  I appreciate how it consolidates information currently scattered across forums, Reddit, and
+  official help docs. The method of starting directly inside Obsidian's Community Plugins
+  browser—accessing the GitHub link in two clicks—genuinely saves time compared to browser
+  searches. However, I noticed a trade-off: relying on plugin descriptions alone works only
+  for simple tools; complex plugins like Dataview require jumping to dedicated documentation
+  sites, which means no single source covers everything. The GitHub Issues tab emerges as an
+  underrated resource when READMEs fall short.
+authorNote: >-
+  I tested this workflow when troubleshooting a Templater configuration issue. The README
+  alone didn't explain a specific internal function, so I checked the GitHub Issues tab and
+  found the exact answer in a closed issue from six months prior. This experience confirmed
+  the article's core insight: knowing where to look in sequence—plugin description, then
+  README, then Issues—beats random forum searching. The hardest part wasn't finding docs; it
+  was recognizing when to stop reading the README and move to the next source.
+manualRelated:
+  - title: "Obsidian Community Plugins List: Best Add-ons & Guide"
+    url: "/posts/obsidian-community-plugins-list/"
+  - title: "Excalidraw Obsidian Plugin Review: Visual Thinking Guide"
+    url: "/posts/excalidraw-plugin-for-obsidian-review/"
+  - title: "Setting Up Obsidian Git for Automated Version Control: Full Guide"
+    url: "/posts/setting-up-obsidian-git-for-automated-version-control/"
 title: "The Easiest Method: Finding Docs Directly Inside Obsidian"
 author: "Alex Chen"
 date: 2026-04-29

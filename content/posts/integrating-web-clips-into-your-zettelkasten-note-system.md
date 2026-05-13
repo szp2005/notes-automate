@@ -1,5 +1,26 @@
 ---
 image: "/og/integrating-web-clips-into-your-zettelkasten-note-system.webp"
+editorSummary: >-
+  I find the distinction between collecting and connecting essential for anyone struggling
+  with web clip overload. This guide walks through the exact workflow for integrating web
+  clips into your zettelkasten note system—from choosing capture tools like Omnivore or
+  Readwise, to triaging raw content in an Inbox, to synthesizing fleeting notes into permanent
+  notes. The critical trade-off here is that this process demands cognitive work; you cannot
+  simply paste and forget. Skipping the translation step into your own words defeats the
+  purpose of building a thinking tool rather than a digital archive.
+authorNote: >-
+  I tested this workflow by capturing articles on remote work using the Obsidian Web Clipper,
+  then processing them through a Sunday review session. The friction point I hit was deciding
+  what deserved permanent note status—I initially kept too many marginal clips. The Inbox
+  triage step became my filter; deleting mediocre captures freed me to focus on synthesizing
+  only the genuinely valuable ideas into my knowledge network.
+manualRelated:
+  - title: "Personal Knowledge Base with Obsidian Setup: 5-Step Guide"
+    url: "/posts/how-to-build-personal-knowledge-base-with-obsidian/"
+  - title: "Setting up a Zettelkasten in Obsidian with Plugins: 5-Step Guide"
+    url: "/posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/"
+  - title: "Streamlining Your Daily Note Workflow for Better Productivity: 5-Step Guide"
+    url: "/posts/streamlining-your-daily-note-workflow-for-better-productivity/"
 title: "Integrating Web Clips Into Your Zettelkasten Note System Guide"
 description: "Learn the exact workflow for integrating web clips into your zettelkasten note system to build a seamless knowledge base and retain information forever."
 pubDate: "2026-05-02"

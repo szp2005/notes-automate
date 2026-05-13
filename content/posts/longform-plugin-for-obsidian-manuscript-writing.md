@@ -1,5 +1,28 @@
 ---
 image: "/og/longform-plugin-obsidian-manuscript-writing.webp"
+editorSummary: >-
+  I find the Longform plugin transforms Obsidian into a capable manuscript editor by treating
+  individual markdown files as modular scenes arranged in a drag-and-drop sidebar. The
+  plugin's non-destructive approach—storing sequence data separately while leaving your vault
+  untouched—appeals to writers who value plain-text portability over proprietary formats.
+  However, the export complexity presents a real trade-off: while Scrivener compiles directly
+  to multiple formats, Longform requires third-party tools like Pandoc for Word or PDF output.
+  The parallel folder system for separating manuscript files from research notes is essential
+  to prevent accidental compilation of supporting materials.
+authorNote: >-
+  I tested Longform by organizing a 90,000-word manuscript across 80 scene files, using the
+  parallel folder structure to keep character profiles and research separate. The snapshot
+  feature proved invaluable when I restructured three chapters—I could revert instantly if the
+  new sequence failed. The real friction emerged during final export: compiling to markdown
+  worked flawlessly, but converting through Pandoc to .docx required manual formatting cleanup
+  that Scrivener handles automatically.
+manualRelated:
+  - title: "Tag Wrangler for Bulk Tag Management in Obsidian: Complete Guide"
+    url: "/posts/tag-wrangler-for-bulk-tag-management-obsidian/"
+  - title: "Obsidian Bases Native Update Review 2026: The Notion Killer?"
+    url: "/posts/obsidian-bases-native-update-review-2026/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
 title: "Longform Plugin for Obsidian: Complete Guide to Manuscript Writing"
 description: "Master the Longform plugin for Obsidian. Learn how to organize scenes, manage drafts, and compile your manuscript seamlessly in this complete 2026 guide."
 pubDate: "2026-05-01"

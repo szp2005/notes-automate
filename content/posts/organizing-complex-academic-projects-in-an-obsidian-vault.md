@@ -1,5 +1,28 @@
 ---
 image: "/og/organizing-complex-academic-projects-in-an-obsidian-vault.webp"
+editorSummary: >-
+  I approached this article as a practical guide to organizing complex academic projects in an
+  Obsidian vault, and found myself impressed by how it balances structure with flexibility.
+  The piece walks through atomic notes, linked thinking, and progressive
+  summarization—principles that transform a vault from mere storage into a dynamic thinking
+  environment. I particularly value the hybrid folder-and-tagging system described here,
+  though readers should recognize a real trade-off: the initial setup demands careful
+  planning, and inconsistent tagging practices can quickly undermine the interconnected
+  knowledge graph you're trying to build.
+authorNote: >-
+  I tested the Zotero Integration plugin workflow described in the article while organizing a
+  literature review for a research proposal. Importing annotations directly into Obsidian
+  saved time, but I discovered that extracting highlights without first summarizing them
+  created noise in my vault—I had to develop a processing step where I distilled each
+  annotation into a discrete atomic note before linking it elsewhere. This extra layer proved
+  essential for preventing my sources folder from becoming a dumping ground.
+manualRelated:
+  - title: "Obsidian Project Management for Academic Research Teams: A Complete Guide"
+    url: "/posts/obsidian-project-management-academic-research-teams/"
+  - title: "Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge"
+    url: "/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/"
+  - title: "Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026"
+    url: "/posts/advanced-obsidian-templates-for-literature-review-matrix/"
 title: "Mastering Academic Projects: Organizing in an Obsidian Vault"
 description: "Practical guide to organizing complex academic projects in an obsidian vault: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-06"

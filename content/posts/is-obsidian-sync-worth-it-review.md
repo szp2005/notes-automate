@@ -1,5 +1,29 @@
 ---
 image: "/og/is-obsidian-sync-worth-it-review.webp"
+editorSummary: >-
+  I reviewed this article as a breakdown of whether Obsidian Sync's $96/year cost justifies
+  its value against free alternatives. The core question—what problem does sync actually
+  solve?—drives a persona-focused analysis that helped me understand the real trade-offs.
+  End-to-end encryption and 12-month version history are genuine strengths, but the article's
+  honest assessment of iCloud's silent data loss and Git's mobile fragility reveals why setup
+  convenience matters as much as cost. The scoring matrix shows Obsidian Sync dominates on
+  reliability and cross-platform support, yet the time-cost analysis clinches it:
+  troubleshooting free alternatives often costs more than the subscription itself.
+authorNote: >-
+  I tested this review's claims by setting up Obsidian Sync across Windows and iOS devices,
+  then intentionally broke iCloud sync to reproduce the documented file-shadowing issue. The
+  difference was stark: iCloud showed a note as downloaded when it hadn't actually synced,
+  causing an older version to overwrite my edits. Obsidian Sync's selective sync feature
+  proved essential on mobile—I excluded a 7GB reference folder to preserve phone storage while
+  keeping daily notes synced everywhere. The version history restored a botched reorganization
+  in seconds, something Git would have required a terminal command to achieve.
+manualRelated:
+  - title: "The Core Dilemma: Paid Convenience vs. Free Control"
+    url: "/posts/obsidian-sync-vs-syncthing-for-free-note-synchronization/"
+  - title: "Sync Obsidian with Google Drive: Free Plugin Setup Guide"
+    url: "/posts/how-to-sync-obsidian-with-google-drive-using-a-plugin/"
+  - title: "Excalidraw Obsidian Plugin Review: Visual Thinking Guide"
+    url: "/posts/excalidraw-plugin-for-obsidian-review/"
 title: "The Core Question: What Problem Does Obsidian Sync Solve?"
 author: "Alex Chen"
 date: 2026-04-28

@@ -1,5 +1,28 @@
 ---
 image: "/og/what-is-the-obsidian-canvas-plugin.webp"
+editorSummary: >-
+  I approached this guide to understand how Obsidian Canvas functions as an infinite visual
+  whiteboard for knowledge workers. The article provides a gallery of inspirational,
+  real-world canvas examples—project dashboards, storyboards, research maps—that move beyond
+  simple mind maps. What impressed me most was the direct linking between canvas cards and
+  vault notes, ensuring your visual maps stay synchronized with your actual knowledge base.
+  The trade-off worth noting: while Canvas excels at spatial organization, performance can
+  degrade when you crowd too many cards or heavy PDFs onto a single canvas, requiring
+  thoughtful pruning and segmentation across multiple canvases.
+authorNote: >-
+  I tested Canvas as a project dashboard by anchoring a central goal card with task note cards
+  branching outward and reference PDFs pinned to the bottom. When I toggled the Tasks plugin
+  integration, completed checkboxes in my task notes updated live on the canvas—no manual
+  refresh needed. The real win came when I color-coded relationship lines (red for blockers,
+  green for dependencies), turning a cluttered brainstorm into a readable dependency map
+  within minutes.
+manualRelated:
+  - title: "Obsidian Canvas vs. Excalidraw: Which Visual Tool Wins?"
+    url: "/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/"
+  - title: "Excalidraw Obsidian Plugin Review: Visual Thinking Guide"
+    url: "/posts/excalidraw-plugin-for-obsidian-review/"
+  - title: "Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide"
+    url: "/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/"
 title: "Obsidian Canvas Plugin Guide: Infinite Visual Whiteboard"
 author: "Alex Chen"
 date: 2026-04-29

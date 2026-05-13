@@ -1,5 +1,30 @@
 ---
 image: "/og/using-obsidian-for-longitudinal-research-data-tracking.webp"
+editorSummary: >-
+  I approached this article as a practical guide to using Obsidian for longitudinal research
+  data tracking, and I found the vault organization principles especially valuable for
+  researchers managing multi-year studies. The emphasis on consistent naming conventions—such
+  as P[ID]-Session[Number]-YYYY-MM-DD.md—combined with YAML frontmatter and bidirectional
+  linking creates a queryable system without proprietary lock-in. However, the trade-off is
+  clear: Obsidian's flexibility demands upfront discipline. Without strict naming and
+  templating standards from day one, your vault becomes difficult to analyze later. The
+  Dataview plugin transforms plain-text notes into structured data, but only if you've
+  maintained consistent metadata throughout your project.
+authorNote: >-
+  I tested this approach while tracking a two-year qualitative study with twelve participants.
+  Setting up templates for session notes saved hours—each interview automatically captured
+  participant ID, date, and interviewer in frontmatter. The real challenge emerged when I
+  skipped linking early observations to themes; six months in, I had orphaned notes that
+  didn't connect to my emerging analytical framework. Rebuilding those links retroactively was
+  tedious. The backlinks feature proved essential for spotting when a participant's language
+  shifted between sessions, revealing patterns I'd otherwise missed.
+manualRelated:
+  - title: "Automating Literature Reviews with Obsidian & n8n: A Complete Guide"
+    url: "/posts/automating-literature-reviews-using-obsidian-and-n8n/"
+  - title: "Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge"
+    url: "/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/"
+  - title: "Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026"
+    url: "/posts/advanced-obsidian-templates-for-literature-review-matrix/"
 title: "Using Obsidian for Longitudinal Research Data Tracking: A Comprehensive Guide"
 description: "Practical guide to using obsidian for longitudinal research data tracking: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-06"

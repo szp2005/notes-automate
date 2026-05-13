@@ -1,5 +1,25 @@
 ---
 image: "/og/how-to-use-callouts-in-obsidian-for-better-notes.webp"
+editorSummary: >-
+  I found callouts transform how quickly I can scan my Obsidian notes—the > [!TYPE] syntax is
+  deceptively simple, yet the visual hierarchy it creates makes a real difference when
+  returning to notes weeks later. This guide provides a 'copy-paste' CSS snippet library for
+  five workflow-oriented callouts like [!action] and [!key] that integrate directly into PARA,
+  Zettelkasten, and Evergreen Note systems. The trade-off worth noting: custom CSS snippets
+  require syncing across devices, which adds a small setup burden if you work on mobile.
+authorNote: >-
+  I tested the five custom callouts in a project dashboard spanning meeting notes, book
+  summaries, and goal tracking. The [!summary] callout at the top of evergreen notes proved
+  most useful—when I linked to those notes from elsewhere, the summary appeared first without
+  forcing me to scroll. Mobile sync through Obsidian Sync kept everything consistent across my
+  phone and desktop without manual file transfers.
+manualRelated:
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Linking Your Notes for Better Knowledge Discovery Obsidian: 5 Steps"
+    url: "/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/"
+  - title: "Setting up a Zettelkasten in Obsidian with Plugins: 5-Step Guide"
+    url: "/posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/"
 title: "Obsidian Callouts: The Complete Guide to Better Notes"
 author: "Alex Chen"
 date: 2026-04-29

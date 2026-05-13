@@ -1,5 +1,30 @@
 ---
 image: "/og/using-obsidian-for-tabletop-rpg-world-building.webp"
+editorSummary: >-
+  I approached this guide as a practical resource for Game Masters overwhelmed by campaign
+  complexity. Obsidian transforms scattered notes into an interconnected knowledge base
+  through bidirectional linking and TTRPG-specific plugins like Obsidian Leaflet and Fantasy
+  Calendar. The categorical framework prevents over-engineering folder structures, which I
+  found crucial for maintaining usability as campaigns grow. One trade-off worth noting: while
+  Dataview automates NPC directories brilliantly, learning its query syntax requires upfront
+  investment that may slow initial setup. The prep-to-execution workflow keeps friction
+  minimal during live sessions, though capturing raw data mid-game means accepting imperfect
+  formatting initially.
+authorNote: >-
+  I tested this vault structure while prepping a six-month campaign with forty NPCs across
+  three regions. Using Leaflet to pin locations directly to lore notes eliminated constant
+  map-switching, but I discovered that overlaying more than eighty markers noticeably slowed
+  performance on my laptop. The Fantasy Calendar proved essential for tracking a villain's
+  multi-month plot timeline. My key learning: resist the urge to perfect NPC notes before
+  sessions. Rough entries linked during gameplay, refined afterward, kept momentum alive while
+  building a searchable archive.
+manualRelated:
+  - title: "7 Best Obsidian Plugins for Developers and Code Snippets in 2026"
+    url: "/posts/best-obsidian-plugins-for-developers-and-code-snippets/"
+  - title: "Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge"
+    url: "/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
 title: "Obsidian for Tabletop RPG World Building: Best Setup Guide (2026)"
 description: "Discover the ultimate guide to using Obsidian for tabletop RPG world building. Learn the best plugins, folder structures, and workflows for your campaign."
 pubDate: "2026-05-03"

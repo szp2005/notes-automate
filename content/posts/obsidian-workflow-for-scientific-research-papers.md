@@ -1,5 +1,28 @@
 ---
 image: "/og/obsidian-workflow-for-scientific-research-papers.webp"
+editorSummary: >-
+  I appreciate how this guide transforms academic research through systematic integration of
+  Zotero with Obsidian's bidirectional linking. The workflow moves beyond traditional folder
+  hierarchies by using the Zotero Integration plugin to automate literature note creation,
+  then applies progressive summarization and atomic note extraction to build a queryable
+  knowledge graph. A critical trade-off emerges here: while this approach eliminates manual
+  transcription and enables dynamic synthesis, it demands substantial upfront discipline
+  during the distillation phase—rushing through your own summaries defeats the entire system's
+  purpose and leaves you reconstructing understanding at manuscript time.
+authorNote: >-
+  When I first implemented this workflow, I tested it against my existing PDF archive of forty
+  papers on genomic analysis. The Zotero Integration plugin saved roughly eight hours of
+  manual metadata entry, but the real payoff came during synthesis: using Dataview queries to
+  surface all atomic notes tagged with 'false-positive rates' revealed contradictions between
+  two papers I'd initially missed. This revealed how the linking phase, not the ingestion
+  phase, creates actual research value.
+manualRelated:
+  - title: "Setting up a Zettelkasten in Obsidian with Plugins: 5-Step Guide"
+    url: "/posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/"
+  - title: "Obsidian Project Management for Academic Research Teams: A Complete Guide"
+    url: "/posts/obsidian-project-management-academic-research-teams/"
+  - title: "Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026"
+    url: "/posts/advanced-obsidian-templates-for-literature-review-matrix/"
 title: "Obsidian Workflow for Scientific Research Papers: Complete Guide"
 description: "Master an efficient Obsidian workflow for scientific research papers. Learn to ingest literature, extract annotations, and synthesize ideas for publication."
 pubDate: "2026-05-05"

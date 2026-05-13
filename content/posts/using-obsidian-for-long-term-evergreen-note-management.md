@@ -1,5 +1,27 @@
 ---
 image: "/og/using-obsidian-for-long-term-evergreen-note-management.webp"
+editorSummary: >-
+  I view evergreen note systems as long-term investments in knowledge, and this article
+  convinced me that Obsidian's plain-text Markdown architecture is uniquely suited for that
+  horizon. The guide walks through the three non-negotiable principles—atomic structure,
+  writing in your own words, and dense interconnectivity—then details why local file storage
+  and standard YAML frontmatter matter for decades of accessibility. The trade-off worth
+  noting: a flat vault structure with Maps of Content requires more intentional linking work
+  upfront, but scales far better than hierarchical folders as your knowledge base grows.
+authorNote: >-
+  I tested the four-stage pipeline while building a vault on behavioral economics. Capturing
+  fleeting notes felt natural, but I discovered that jumping directly from literature notes to
+  evergreen notes created weak synthesis. By strictly separating the distill and synthesize
+  stages—spending days between them—my concept notes became genuinely reusable. The hardest
+  part wasn't the structure; it was resisting the urge to tag everything and instead rely on
+  bidirectional links to surface connections organically.
+manualRelated:
+  - title: "Obsidian Project Management for Academic Research Teams: A Complete Guide"
+    url: "/posts/obsidian-project-management-academic-research-teams/"
+  - title: "Obsidian vs Tana for Structured Knowledge Management: Which Is Better in 2026?"
+    url: "/posts/obsidian-vs-tana-structured-knowledge-management/"
+  - title: "Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge"
+    url: "/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/"
 title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
 description: "Master the architecture of a resilient knowledge base. Learn a proven workflow for using Obsidian for long-term evergreen note management and personal growth."
 pubDate: "2026-05-03"

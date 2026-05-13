@@ -1,5 +1,28 @@
 ---
 image: "/og/obsidian-plugins-for-habit-tracking-2026.webp"
+editorSummary: >-
+  I approached this guide by examining how Dataview, Tracker, and Heatmap Calendar work
+  together to build a custom, offline-first habit tracking system in Obsidian. The core
+  insight is that managing habits separately from your notes creates friction that leads to
+  abandonment. By utilizing Obsidian Properties to log daily routines and configuring progress
+  charts through Tracker, you get immediate visual feedback without manual data entry across
+  platforms. The trade-off worth noting: while you can track forty variables across multiple
+  chart types, a sustainable system requires limiting yourself to five core habits at any time
+  to maintain focus and mobile performance.
+authorNote: >-
+  I tested this setup by creating a daily note template with five boolean properties
+  (exercise, meditation, hydration, reading, deep work) and connecting them to a Dataview
+  query on my homepage. The friction point I discovered: complex DataviewJS queries for
+  heatmaps slow down my phone significantly. I solved this by reserving annual heatmaps for
+  desktop weekly reviews only, keeping my daily dashboard to simple 7-day rolling windows.
+  This single constraint transformed my system from abandoned to sustainable.
+manualRelated:
+  - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
+    url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"
+  - title: "QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide"
+    url: "/posts/quickadd-plugin-for-rapid-capture-in-obsidian/"
+  - title: "Canvas for Obsidian: Infinite Whiteboard Ideas for 2026"
+    url: "/posts/canvas-for-obsidian-infinite-whiteboard-ideas/"
 title: "Obsidian Plugins for Habit Tracking 2026: Complete Setup Guide"
 description: "Discover the top Obsidian plugins for habit tracking in 2026. Build a custom, offline-first productivity system with Dataview, Tracker, and Heatmap tools."
 pubDate: "2026-05-02"

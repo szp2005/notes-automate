@@ -1,5 +1,29 @@
 ---
 image: "/og/how-to-build-personal-knowledge-base-with-obsidian.webp"
+editorSummary: >-
+  I find this 5-step framework for building a personal knowledge base with Obsidian genuinely
+  practical because it addresses the real friction points in knowledge management. The guide's
+  emphasis on bidirectional linking for concept discovery and Maps of Content (MoCs) for
+  navigation transforms how I think about organizing ideas—moving away from rigid hierarchies
+  toward organic association. What strikes me most is the caution about community plugins:
+  adding too many threatens both performance and the longevity of plain text files. The weekly
+  review discipline, though simple, prevents knowledge bases from becoming digital junk
+  drawers that nobody actually uses.
+authorNote: >-
+  I tested this framework when setting up a vault for research notes across multiple projects.
+  The friction point came at Step 1: I initially created deeply nested folders by project and
+  topic, only to realize I couldn't decide where new notes belonged. Flattening to Inputs,
+  Outputs, and Concepts immediately solved this. The Daily Note template proved
+  essential—dumping meeting notes there with bidirectional links meant they automatically
+  surfaced in relevant project notes without manual filing. The weekly review kept the system
+  from becoming stale.
+manualRelated:
+  - title: "CRM in Obsidian Vault Setup: Complete 2026 Guide"
+    url: "/posts/how-to-build-a-crm-in-obsidian-vault/"
+  - title: "Applying the PARA Method to an Obsidian Vault: Complete Guide"
+    url: "/posts/applying-the-para-method-to-an-obsidian-vault/"
+  - title: "Customize Obsidian Sidebar with Commander Plugin Icons: Complete Guide"
+    url: "/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/"
 title: "Personal Knowledge Base with Obsidian Setup: 5-Step Guide"
 description: "Learn how to build a personal knowledge base with Obsidian using our 5-step framework. Discover folders, tags, and links to organize your ideas effectively."
 pubDate: "2026-05-02"

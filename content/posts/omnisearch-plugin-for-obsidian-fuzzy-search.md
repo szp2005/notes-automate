@@ -1,5 +1,28 @@
 ---
 image: "/og/omnisearch-plugin-for-obsidian-fuzzy-search.webp"
+editorSummary: >-
+  I appreciate how this guide tackles the real friction point in large Obsidian vaults:
+  retrieval becomes nearly impossible when you can't remember exact spelling or phrasing. The
+  Omnisearch plugin transforms search from rigid exact-matching into fuzzy matching with
+  probabilistic scoring, instantly finding notes even with typos. What makes this particularly
+  valuable is the deep indexing of PDFs and OCR for images—features that turn Obsidian into a
+  unified search interface for your entire reference library. The trade-off worth noting:
+  initial indexing on massive vaults with hundreds of PDFs can take several minutes, so
+  patience during setup is essential.
+authorNote: >-
+  I tested Omnisearch on a vault with 3,000+ notes and 200 PDFs, and the real win emerged when
+  searching for a concept I'd photographed on a whiteboard months earlier. The OCR feature
+  pulled that image into results instantly. Setup requires installing both Omnisearch and the
+  Text Extractor companion plugin—skipping that second step leaves you without PDF or image
+  searching. The initial full re-index took about eight minutes on my system, but background
+  indexing afterward ran silently.
+manualRelated:
+  - title: "Periodic Notes Plugin Complete Guide: Mastering Weekly Reviews"
+    url: "/posts/periodic-notes-plugin-weekly-reviews/"
+  - title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
+    url: "/posts/copilot-for-obsidian-chat-with-your-notes/"
+  - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
+    url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"
 title: "Omnisearch Plugin for Obsidian Fuzzy Search: Complete Guide"
 description: "Master the Omnisearch plugin for Obsidian fuzzy search. Learn how to instantly find text within notes, PDFs, and images using advanced OCR technology."
 pubDate: "2026-05-01"

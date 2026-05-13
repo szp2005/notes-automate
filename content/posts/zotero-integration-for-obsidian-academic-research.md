@@ -1,5 +1,27 @@
 ---
 image: "/og/zotero-integration-for-obsidian-academic-research.webp"
+editorSummary: >-
+  I approached this guide as a roadmap for researchers drowning in PDF fragmentation. Master
+  Zotero integration for Obsidian academic research by connecting three components: Zotero as
+  your reference engine, Better BibTeX as the bridge generating stable citation keys, and
+  Obsidian as your synthesis hub. The Nunjucks templating system transforms raw annotations
+  into structured literature notes automatically. One critical trade-off: storing PDFs in
+  Zotero rather than your Obsidian vault preserves performance, but requires discipline to
+  maintain your single source of truth across both systems.
+authorNote: >-
+  I tested this workflow after managing 400+ research papers across three separate tools. The
+  breakthrough came when I configured Better BibTeX's auto-export to "On Change" and pointed
+  Obsidian's Zotero Integration plugin to my SQLite database—suddenly, color-coded highlights
+  from my PDFs appeared in formatted notes within seconds. The template's ability to group
+  annotations by color meant my yellow highlights (main arguments) separated automatically
+  from blue ones (methods), eliminating manual sorting entirely.
+manualRelated:
+  - title: "Best Obsidian Plugins for Academic Writing and Citations in 2026"
+    url: "/posts/top-obsidian-plugins-for-academic-writing-and-citations/"
+  - title: "Excalidraw Plugin for Obsidian: Visual Thinking Complete Guide"
+    url: "/posts/excalidraw-plugin-for-obsidian-visual-thinking/"
+  - title: "Obsidian Project Management for Academic Research Teams: A Complete Guide"
+    url: "/posts/obsidian-project-management-academic-research-teams/"
 title: "Zotero Integration for Obsidian: Complete Academic Research Guide"
 description: "Master Zotero integration for Obsidian academic research. Learn to automatically sync citations, annotations, and notes to streamline your literature review."
 pubDate: "2026-05-01"

@@ -1,5 +1,29 @@
 ---
 image: "/og/linter-plugin-for-obsidian-auto-formatting.webp"
+editorSummary: >-
+  I found the Linter plugin for Obsidian auto-formatting to be essential for maintaining vault
+  consistency at scale. The plugin enforces unified style across YAML frontmatter, whitespace,
+  and heading structures, which I discovered is critical when publishing notes via static site
+  generators or parsing files with external scripts. What struck me most is the trade-off
+  between convenience and risk: enabling "Lint on Save" streamlines your workflow
+  dramatically, but running "Lint Entire Vault" requires careful backup planning since it
+  modifies thousands of files simultaneously. The guide emphasizes testing on dummy notes
+  first, which saved me from unintended reformatting disasters.
+authorNote: >-
+  I tested the Linter plugin by creating a dummy note filled with my typical formatting
+  mistakes—inconsistent heading spacing, missing YAML frontmatter, and trailing
+  whitespace—before applying rules to my main vault. The critical setup moment came when
+  configuring the YAML Timestamp rule with ISO 8601 format for my Hugo static site generator.
+  Without proper date formatting, my builds failed silently. I learned to enable "Lint on
+  Save" rather than bulk-linting the entire vault, which gave me confidence that changes were
+  incremental and reversible.
+manualRelated:
+  - title: "Janitor Plugin for Obsidian Vault Cleanup: Complete 2026 Guide"
+    url: "/posts/janitor-plugin-for-obsidian-vault-cleanup/"
+  - title: "Automating Your Task Management With Obsidian Tasks Plugin: Guide"
+    url: "/posts/automating-your-task-management-with-obsidian-tasks-plugin/"
+  - title: "Smart Connections Plugin for Emergent Ideas: Complete 2026 Setup Guide"
+    url: "/posts/smart-connections-plugin-for-emergent-ideas/"
 title: "Linter Plugin for Obsidian Auto-Formatting: Complete Guide"
 description: "Learn how to configure the Linter plugin for Obsidian auto-formatting to save time, enforce consistency, and streamline your entire note-taking workflow."
 pubDate: "2026-05-01"

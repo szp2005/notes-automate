@@ -1,5 +1,28 @@
 ---
 image: "/og/explaining-obsidian-metadata-menu-for-structured-data.webp"
+editorSummary: >-
+  I found the Metadata Menu plugin transforms how I manage structured data in Obsidian by
+  eliminating the friction between plain text flexibility and database rigor. The plugin's
+  File Classes enforce typed frontmatter fields—preventing the typos that break Dataview
+  queries—while its context menu GUI makes editing metadata as simple as selecting from
+  dropdowns. The trade-off is that initial setup requires deliberate schema planning; rushing
+  this phase creates rigid structures that resist later changes. When paired with Dataview,
+  the plugin ensures absolute consistency across thousands of notes, making it invaluable for
+  scaling personal knowledge management systems beyond basic tagging.
+authorNote: >-
+  I tested Metadata Menu by building a personal CRM system with File Classes for Contacts,
+  Projects, and Tasks. The moment I enforced a Status field with strict select options
+  (Active, Paused, Completed), my Dataview dashboard stopped showing duplicate entries from
+  capitalization errors. However, I discovered that renaming a select option after applying it
+  to hundreds of notes requires manual migration—the plugin doesn't auto-update existing
+  values. This taught me to finalize field definitions before bulk application.
+manualRelated:
+  - title: "Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge"
+    url: "/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
+    url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"
 title: "Explaining Obsidian Metadata Menu for Structured Data: Full Guide"
 description: "Master your personal knowledge management by explaining Obsidian metadata menu for structured data. Learn to organize notes efficiently and scale your vault."
 pubDate: "2026-05-03"

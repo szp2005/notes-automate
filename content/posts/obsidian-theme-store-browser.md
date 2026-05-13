@@ -1,5 +1,27 @@
 ---
 image: "/og/obsidian-theme-store-browser.webp"
+editorSummary: >-
+  I found Obsidian's dual browsing approach—in-app via Settings > Appearance > Community
+  themes > Browse versus the web gallery at obsidian.md/themes—genuinely useful for different
+  discovery workflows. The primary and most efficient way to browse and install themes is
+  directly within the app, but the web gallery's light/dark filtering and preview screenshots
+  let you shortlist candidates before committing. A key trade-off: the web gallery lacks an
+  install button, requiring you to search by name in-app afterward. CSS snippets deserve early
+  attention too; they let you tweak any theme without replacing it entirely, saving
+  frustration when minor adjustments are all you need.
+authorNote: >-
+  I tested the two-step workflow—filtering themes on the web gallery by dark mode, then
+  searching by name inside Obsidian—when setting up a vault for technical documentation. The
+  friction of copying a theme name and pasting it into the in-app search actually forced me to
+  preview screenshots more carefully, preventing three unnecessary installations. This
+  deliberate pause proved more valuable than one-click install convenience.
+manualRelated:
+  - title: "Introduction: Beyond Default - Choosing Your Ideal Obsidian Interface"
+    url: "/posts/things-theme-vs-minimal-theme-obsidian/"
+  - title: "Obsidian vs Reflect for Fast Daily Journaling: Which Is Better for Power Users?"
+    url: "/posts/obsidian-vs-reflect-for-fast-daily-journaling/"
+  - title: "Obsidian Community Plugins List: Best Add-ons & Guide"
+    url: "/posts/obsidian-community-plugins-list/"
 title: "Two Ways to Browse Obsidian Themes: In-App vs. Web"
 author: "Alex Chen"
 date: 2026-04-29

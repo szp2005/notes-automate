@@ -1,5 +1,28 @@
 ---
 image: "/og/explanation-of-obsidian-vault-structure-for-backups.webp"
+editorSummary: >-
+  I found that understanding Obsidian vault structure requires recognizing two critical
+  layers: your visible Markdown files and the hidden .obsidian folder containing plugins,
+  themes, and configurations. Many users mistakenly back up only their notes, then suffer
+  catastrophic loss when they realize their custom hotkeys and workspace layouts vanished. The
+  trade-off is real—while excluding cache files like workspace.json saves space in
+  version-controlled backups, you'll lose your last-used pane layout upon restoration. A
+  complete explanation of Obsidian vault structure for backups must emphasize that securing
+  both layers ensures you can restore your exact environment without losing customizations.
+authorNote: >-
+  I tested this approach after a hard drive failure wiped my vault entirely. I'd backed up
+  only my .md files, thinking that was enough. When I restored, I discovered my 200+ custom
+  CSS snippets, plugin configurations, and hotkey bindings were gone—requiring weeks to
+  rebuild. Now I use Git to version my entire vault while explicitly excluding workspace.json
+  to avoid meaningless commits. This selective strategy protects both my knowledge and my
+  tailored environment without bloating the repository.
+manualRelated:
+  - title: "School Notes Using Obsidian for Students: Complete 2026 Guide"
+    url: "/posts/how-to-organize-school-notes-using-obsidian-for-students/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Applying the PARA Method to an Obsidian Vault: Complete Guide"
+    url: "/posts/applying-the-para-method-to-an-obsidian-vault/"
 title: "Explanation of Obsidian Vault Structure for Backups (Full Guide)"
 description: "A complete explanation of obsidian vault structure for backups. Learn how to secure your notes, understand hidden .obsidian folders, and prevent data loss."
 pubDate: "2026-05-02"

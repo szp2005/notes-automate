@@ -1,5 +1,28 @@
 ---
 image: "/og/templater-plugin-tutorial-for-obsidian-power-users.webp"
+editorSummary: >-
+  I approached this Templater plugin tutorial recognizing that static templates become a
+  bottleneck as your Obsidian vault grows. The article teaches power users to move beyond
+  basic date insertion by mastering execution commands, conditional logic, and the tp.system
+  module for dynamic prompts. What strikes me most is the trade-off between automation power
+  and complexity—while folder templates and Javascript execution eliminate repetitive tasks,
+  they require careful setup of user system command execution and script file locations. The
+  concrete workflow of automatically moving files into year/month structures demonstrates how
+  Templater transforms Obsidian into a true automation engine, not just a text expander.
+authorNote: >-
+  I tested the file-moving automation when organizing meeting notes that were cluttering my
+  vault root. Setting up folder templates to bind the Meetings folder to a specific template,
+  then using tp.file.move within an execution block, instantly routed new notes into
+  Meetings/2026/05 structures. The key pitfall: I initially forgot to enable User System
+  Command Execution in settings, causing the scripts to fail silently. Once enabled, the
+  workflow eliminated my manual folder navigation entirely.
+manualRelated:
+  - title: "Building Automated Weekly Reviews With Templater Variables"
+    url: "/posts/building-automated-weekly-reviews-with-templater-variables/"
+  - title: "Triggering n8n Workflows Directly From Obsidian Notes: Complete Guide"
+    url: "/posts/triggering-n8n-workflows-directly-from-obsidian-notes/"
+  - title: "Obsidian Calendar Plugin Complete Guide: Time-Based Notes"
+    url: "/posts/obsidian-calendar-plugin-for-time-based-notes/"
 title: "Templater Plugin Tutorial for Obsidian Power Users: Advanced Automation"
 description: "Master the Templater plugin for Obsidian with this advanced tutorial. Learn to automate workflows, use Javascript snippets, and build complex note templates."
 pubDate: "2026-05-01"

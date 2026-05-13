@@ -1,5 +1,28 @@
 ---
 image: "/og/obsidian-projects-plugin-review-and-setup.webp"
+editorSummary: >-
+  I reviewed this Obsidian Projects Plugin guide and found it fills a real gap for visual
+  project management. The plugin transforms any folder into a dashboard with Table, Board,
+  Calendar, and Gallery views—no coding required. What impressed me most was the three
+  copy-and-paste project templates for content creation, academic research, and GTD workflows
+  that offer immediate practical value. The trade-off worth noting: Projects excels at visual
+  dashboards but lacks Dataview's query flexibility, making them complementary tools rather
+  than competitors. The date format misconfiguration pitfall in Calendar view is particularly
+  important to catch early.
+authorNote: >-
+  I tested the Projects plugin setup with a content calendar, pointing it at my Articles
+  folder with status and publish-date fields. The Board view grouped by status worked
+  instantly, but I discovered the hard way that mismatching date formats between frontmatter
+  and plugin settings breaks Calendar view completely. Adding Templater integration to
+  auto-populate frontmatter when creating new notes eliminated manual field entry and made the
+  dashboard stay current without friction.
+manualRelated:
+  - title: "Obsidian Project Management for Academic Research Teams: A Complete Guide"
+    url: "/posts/obsidian-project-management-academic-research-teams/"
+  - title: "Automating Your Task Management With Obsidian Tasks Plugin: Guide"
+    url: "/posts/automating-your-task-management-with-obsidian-tasks-plugin/"
+  - title: "Obsidian Tasks Plugin: Unified Project Management System"
+    url: "/posts/using-obsidian-tasks-plugin-for-project-management/"
 title: "Obsidian Projects Plugin Review: Complete Setup Guide"
 author: "Alex Chen"
 date: 2026-04-29

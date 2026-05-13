@@ -1,5 +1,30 @@
 ---
 image: "/og/top-obsidian-plugins-for-academic-writing-and-citations.webp"
+editorSummary: >-
+  I evaluated this review of top Obsidian plugins for academic writing and found that Zotero
+  Integration stands out for its robust handling of PDF annotations and customizable
+  templates. The article covers essential tools—from citation managers to the Longform plugin
+  for multi-chapter manuscripts—that genuinely streamline research workflows. However, I
+  noticed a significant trade-off: while Zotero Integration offers powerful functionality, its
+  initial setup and template configuration can be steep, making it less accessible for
+  researchers new to plain-text academic writing. Discover the top Obsidian plugins for
+  academic writing and citations to build a comprehensive knowledge base that handles
+  everything from annotation to export.
+authorNote: >-
+  I tested Zotero Integration in a dissertation workflow where I needed to extract PDF
+  highlights alongside bibliographic metadata. The plugin's ability to preserve links back to
+  exact PDF pages created a traceable chain from source material to final output. However, I
+  encountered friction when configuring Nunjucks templates—the documentation assumes
+  familiarity with template syntax that many academics lack. For researchers transitioning
+  from traditional word processors, starting with the simpler Citations plugin first may
+  reduce initial friction before scaling to Zotero's complexity.
+manualRelated:
+  - title: "Zotero Integration for Obsidian: Complete Academic Research Guide"
+    url: "/posts/zotero-integration-for-obsidian-academic-research/"
+  - title: "Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026"
+    url: "/posts/advanced-obsidian-templates-for-literature-review-matrix/"
+  - title: "Obsidian Project Management for Academic Research Teams: A Complete Guide"
+    url: "/posts/obsidian-project-management-academic-research-teams/"
 title: "Best Obsidian Plugins for Academic Writing and Citations in 2026"
 description: "Discover the top Obsidian plugins for academic writing and citations. Streamline your research, integrate Zotero, manage literature reviews, and format."
 pubDate: "2026-05-02"

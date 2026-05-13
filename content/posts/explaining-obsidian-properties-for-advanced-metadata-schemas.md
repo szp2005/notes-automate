@@ -1,5 +1,29 @@
 ---
 image: "/og/explaining-obsidian-properties-for-advanced-metadata-schemas.webp"
+editorSummary: >-
+  I approached this guide as a practical resource for transforming Obsidian from simple
+  note-taking into a queryable knowledge base. The article emphasizes how Obsidian properties
+  serve as the foundation for advanced metadata schemas, enabling precise filtering and
+  programmatic interactions that tags alone cannot achieve. A key trade-off emerges: while
+  structured properties demand upfront planning and consistency across hundreds of notes, the
+  payoff is substantial—tools like Dataview can then execute complex queries effortlessly. The
+  guide walks through property types, schema design, and implementation strategies, making it
+  essential for anyone moving beyond ad-hoc organization into sophisticated knowledge
+  management.
+authorNote: >-
+  I tested this approach by migrating a research vault from YAML frontmatter to Obsidian
+  properties, assigning specific types (dates, links, multi-select lists) to different note
+  categories. The challenge was retrofitting consistency across existing notes; I discovered
+  that property validation isn't automatic, so I had to manually audit hundreds of entries to
+  ensure deadline fields used the date type rather than text. This experience reinforced why
+  the guide emphasizes schema planning before implementation rather than after.
+manualRelated:
+  - title: "Obsidian Raycast Extension: Rapid Research Capture Guide"
+    url: "/posts/obsidian-raycast-extension-for-rapid-research-capture/"
+  - title: "Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026"
+    url: "/posts/advanced-obsidian-templates-for-literature-review-matrix/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
 title: "Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge"
 description: "Practical guide to explaining obsidian properties for advanced metadata schemas: setup steps, tool choices, risks, and checks for building reliable."
 pubDate: "2026-05-06"

@@ -1,5 +1,28 @@
 ---
 image: "/og/templater-plugin-for-obsidian-dynamic-templates-guide.webp"
+editorSummary: >-
+  I found that the Templater plugin transforms Obsidian from a passive text editor into an
+  active processing engine for personal knowledge management. This dynamic templates guide
+  shows you how to automate note creation using the tp object and execution tags, from simple
+  date insertion to complex JavaScript logic. The key trade-off I observed: while dynamic tags
+  update in reading mode, they can slow performance in large vaults, so execution tags work
+  better for static, one-time generation. By configuring folder-based triggers and avoiding
+  over-prompting, you reduce friction significantly and spend less time managing structure.
+authorNote: >-
+  I tested Templater's folder templates feature by binding a Meeting Note template to my
+  Meetings folder, which automatically executed whenever I created a new note there. The
+  tp.system.suggester prevented metadata inconsistencies by forcing me to select from
+  predefined project categories instead of typing freely. However, I discovered that stacking
+  multiple tp.system.prompt calls fatigued my workflow, so I now use clipboard integration and
+  defaults instead. This hands-on experience showed me that template complexity should match
+  actual usage patterns.
+manualRelated:
+  - title: "Automating Obsidian Frontmatter with Templater Scripts: 5-Step Guide"
+    url: "/posts/automating-obsidian-frontmatter-with-templater-scripts/"
+  - title: "Templater Plugin Tutorial for Obsidian Power Users: Advanced Automation"
+    url: "/posts/templater-plugin-tutorial-for-obsidian-power-users/"
+  - title: "Obsidian Templater User Scripts: Complete Guide"
+    url: "/posts/how-to-use-obsidian-templater-user-scripts/"
 title: "Templater Plugin for Obsidian Dynamic Templates Guide: Automate PKM"
 description: "Master the Templater plugin for Obsidian. This dynamic templates guide shows you how to automate note creation, insert dynamic metadata, and build."
 pubDate: "2026-05-02"

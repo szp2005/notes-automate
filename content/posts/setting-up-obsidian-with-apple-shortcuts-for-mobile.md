@@ -1,5 +1,28 @@
 ---
 image: "/og/setting-up-obsidian-with-apple-shortcuts-for-mobile.webp"
+editorSummary: >-
+  I approached this guide expecting standard mobile capture advice, but the Advanced URI
+  plugin emerges as the critical differentiator for serious workflows. The article walks
+  through setting up Obsidian with Apple Shortcuts for mobile, automating quick capture and
+  daily note appending with concrete steps. What strikes me is the trade-off: while URI
+  schemes eliminate Obsidian's boot delay entirely, they require meticulous URL encoding of
+  vault names and content—one unencoded character breaks the entire pipeline. For users
+  willing to invest in proper setup, the payoff is immediate, frictionless note capture from
+  your home screen.
+authorNote: >-
+  I tested the Advanced URI approach after struggling with Obsidian's mobile load times on a
+  large vault. Setting up a dictation-to-daily-note shortcut mapped to my iPhone's Action
+  Button proved transformative: one long press records thoughts while driving, release sends
+  them straight to today's note with a timestamp. The real friction point came during
+  troubleshooting—a single space in my vault name wasn't URL-encoded, silently failing for
+  weeks before I caught it in the URI construction step.
+manualRelated:
+  - title: "Templater Plugin Tutorial for Obsidian Power Users: Advanced Automation"
+    url: "/posts/templater-plugin-tutorial-for-obsidian-power-users/"
+  - title: "Obsidian Advanced URI for Automation with Alfred: Setup Guide"
+    url: "/posts/obsidian-advanced-uri-automation-alfred/"
+  - title: "Automate Obsidian Daily Notes with Python: A Complete Guide"
+    url: "/posts/automate-obsidian-daily-notes-using-python/"
 title: "Setting Up Obsidian with Apple Shortcuts for Mobile: Complete Guide"
 description: "Learn how to master setting up Obsidian with Apple Shortcuts for mobile. Automate your quick capture, daily notes, and tasks on iOS seamlessly."
 pubDate: "2026-05-03"

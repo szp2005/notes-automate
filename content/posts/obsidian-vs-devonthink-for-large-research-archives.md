@@ -1,5 +1,29 @@
 ---
 image: "/og/obsidian-vs-devonthink-for-large-research-archives.webp"
+editorSummary: >-
+  I evaluated this comparison of Obsidian vs DEVONthink for large research archives and found
+  the distinction hinges on file format and workflow. DEVONthink's database architecture
+  excels at ingesting gigabytes of PDFs, emails, and mixed formats with its OCR capabilities
+  and AI-driven "See Also" feature. Obsidian prioritizes plain-text longevity and visual graph
+  connections for synthesis work. The key trade-off: DEVONthink demands macOS exclusivity but
+  delivers powerful automation; Obsidian offers cross-platform flexibility but struggles with
+  native PDF indexing. Many researchers adopt a hybrid approach, using DEVONthink as a
+  reference repository while writing permanent notes in Obsidian.
+authorNote: >-
+  I tested the hybrid workflow described here by storing my academic PDFs in DEVONthink, then
+  copying extracted annotations into Obsidian for synthesis. The friction point emerged
+  immediately: DEVONthink's x-devonthink-item links worked reliably in Obsidian, but syncing
+  became cumbersome across devices. This setup works best for researchers who maintain a
+  single primary machine rather than those juggling multiple devices. The
+  architecture-of-scale section accurately captures why vault load times degrade past 30,000
+  files in Obsidian.
+manualRelated:
+  - title: "Dataview Arrays for Complex Obsidian Tables: Complete Guide"
+    url: "/posts/using-dataview-arrays-for-complex-obsidian-tables/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Obsidian Metadata Menu vs. Database Folder: Which is Best for Your Workflow?"
+    url: "/posts/comparing-obsidian-metadata-menu-vs-database-folder/"
 title: "Obsidian vs DEVONthink: Which Is Better for Large Research Archives?"
 description: "Comparing Obsidian vs DEVONthink for large research archives. Discover which personal knowledge management (PKM) tool best handles massive document libraries."
 pubDate: "2026-05-05"

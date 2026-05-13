@@ -1,5 +1,28 @@
 ---
 image: "/og/obsidian-calendar-plugin-for-time-based-notes.webp"
+editorSummary: >-
+  I found the Obsidian Calendar plugin transforms how I manage time-based notes by providing a
+  visual monthly grid that connects directly to daily, weekly, and monthly files. The plugin's
+  task management integration—where incomplete tasks show as hollow circles and completed ones
+  turn solid—offers immediate accountability feedback. What makes this particularly valuable
+  is how it bridges pure knowledge management with daily operation, though I should note that
+  relying solely on the Calendar plugin without structured templates and folder organization
+  risks creating vault clutter. Pairing it with the Periodic Notes plugin unlocks
+  sophisticated temporal workflows.
+authorNote: >-
+  I tested the Calendar plugin by setting up daily notes with ISO 8601 formatting (YYYY-MM-DD)
+  and routing them into a dedicated Timeline/Daily folder. When I enabled task tracking in the
+  Calendar settings, the visual indicators immediately showed which days had incomplete tasks.
+  The real friction point emerged when I tried mixing daily notes with conceptual files in the
+  same folders—the Calendar's strength depends entirely on keeping temporal notes separated
+  and using templates to populate new daily notes automatically.
+manualRelated:
+  - title: "Best Obsidian Tasks Plugin Setup 2026: Complete Guide"
+    url: "/posts/best-obsidian-tasks-plugin-setup-2026/"
+  - title: "Periodic Notes Plugin Complete Guide: Mastering Weekly Reviews"
+    url: "/posts/periodic-notes-plugin-weekly-reviews/"
+  - title: "Customize Obsidian Sidebar with Commander Plugin Icons: Complete Guide"
+    url: "/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/"
 title: "Obsidian Calendar Plugin Complete Guide: Time-Based Notes"
 description: "Master the Obsidian Calendar plugin for time-based notes. Learn how to visualize your daily, weekly, and monthly workflows directly within your vault."
 pubDate: "2026-05-01"

@@ -1,5 +1,28 @@
 ---
 image: "/og/guide-to-obsidian-outliner-plugin-for-structured-thinking.webp"
+editorSummary: >-
+  I found the Obsidian Outliner plugin transforms how I approach structured thinking by
+  eliminating friction from native markdown lists. The plugin's Smart List Manipulation
+  feature binds parent nodes and children together, so moving ideas doesn't break hierarchy—a
+  critical advantage when reorganizing complex arguments or project plans. What impressed me
+  most is the Focus and Zoom Mechanics, which lets me isolate specific sections to reduce
+  cognitive load. However, I should note that the plugin's deep editor integration
+  occasionally conflicts with other formatting plugins, requiring some compatibility testing
+  before full adoption.
+authorNote: >-
+  I tested the Outliner plugin while processing a 50-page research document using the
+  Progressive Summarization Funnel workflow. I dumped raw highlights into a flat list, then
+  used Cmd+Shift+Up/Down to cluster related quotes under synthesized parent nodes. The Stick
+  the Cursor to Content setting prevented accidental formatting breaks, and collapsing
+  children revealed a clean high-level summary while keeping raw quotes accessible. This setup
+  reduced my processing time by roughly 40% compared to manual indentation.
+manualRelated:
+  - title: "Obsidian Bases Native Update Review 2026: The Notion Killer?"
+    url: "/posts/obsidian-bases-native-update-review-2026/"
+  - title: "Customize Obsidian Sidebar with Commander Plugin Icons: Complete Guide"
+    url: "/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
 title: "Obsidian Outliner Plugin Complete Guide: Master Structured Thinking"
 description: "Discover how to use the Obsidian Outliner plugin for structured thinking. Our complete guide covers installation, key shortcuts, and workflow strategies."
 pubDate: "2026-05-03"

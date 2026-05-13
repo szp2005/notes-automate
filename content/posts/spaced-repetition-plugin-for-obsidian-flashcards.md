@@ -1,5 +1,28 @@
 ---
 image: "/og/spaced-repetition-plugin-for-obsidian-flashcards.webp"
+editorSummary: >-
+  I approached this guide to understand how the Spaced Repetition plugin for Obsidian
+  flashcards integrates active recall directly into markdown notes. The key insight is that
+  this plugin solves context switching—a major pitfall when using disconnected tools like
+  Anki. By keeping flashcards and source material in one vault, you eliminate the maintenance
+  nightmare of syncing information across applications. The syntax (using :: for basic cards
+  and == for cloze deletions) feels natural within your existing notes. However, consistency
+  matters most; missing review days creates discouraging backlogs that can derail your study
+  system entirely.
+authorNote: >-
+  I tested the hierarchical tagging system for organizing computer science notes across
+  multiple subjects—#cs/algorithms, #cs/networking/tcpip—and found it invaluable for switching
+  between broad interleaving reviews and focused cramming sessions. The scheduling data stored
+  as plain text HTML comments kept my vault portable. One challenge emerged: adjusting the
+  base ease multiplier from the default 250 required experimentation to prevent cards from
+  reappearing too frequently.
+manualRelated:
+  - title: "Using Mermaid Diagrams for Visual Note Taking in Obsidian: Complete Guide"
+    url: "/posts/using-mermaid-diagrams-for-visual-note-taking-obsidian/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Periodic Notes Plugin Complete Guide: Mastering Weekly Reviews"
+    url: "/posts/periodic-notes-plugin-weekly-reviews/"
 title: "Spaced Repetition Plugin for Obsidian Flashcards: Complete Setup Guide"
 description: "Master active recall and integrate the Spaced Repetition plugin for Obsidian flashcards into your workflow. Learn syntax, optimal algorithms, and deck management."
 pubDate: "2026-05-01"

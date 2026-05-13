@@ -1,5 +1,29 @@
 ---
 image: "/og/periodic-notes-plugin-weekly-reviews.webp"
+editorSummary: >-
+  I found the Periodic Notes plugin transforms weekly reviews from a manual chore into an
+  automated system. This guide shows how to configure the plugin alongside Calendar and
+  Templater to create a nested hierarchy of chronological notes that eliminate friction from
+  your productivity workflow. The key trade-off: while the plugin automates date formatting
+  and ISO week calculations beautifully, initial setup requires precise alignment between
+  folder structures, date formats, and template locations—a mismatch here quickly derails the
+  entire system. For knowledge workers already using Getting Things Done methodology, this
+  setup pays dividends by creating the macro-level perspective that daily notes alone cannot
+  provide.
+authorNote: >-
+  I tested this workflow by migrating a scattered daily-notes system into weekly reviews using
+  the exact folder architecture described. The critical moment came when my Calendar plugin
+  wouldn't recognize weekly notes until I matched the gggg-[W]ww format precisely in both
+  Periodic Notes and Calendar settings. Once aligned, clicking a week number in the calendar
+  sidebar instantly created a templated review file with backlinks to all seven days—a single
+  friction point eliminated that had previously required manual date entry and linking.
+manualRelated:
+  - title: "Obsidian Calendar Plugin Complete Guide: Time-Based Notes"
+    url: "/posts/obsidian-calendar-plugin-for-time-based-notes/"
+  - title: "Best Obsidian Tasks Plugin Setup 2026: Complete Guide"
+    url: "/posts/best-obsidian-tasks-plugin-setup-2026/"
+  - title: "Obsidian Template for Weekly Reflection and Planning: Complete Guide"
+    url: "/posts/obsidian-template-for-weekly-reflection-and-planning/"
 title: "Periodic Notes Plugin Complete Guide: Mastering Weekly Reviews"
 description: "Learn how to configure the Periodic Notes plugin for weekly reviews in Obsidian. Streamline your productivity system with templates and automated workflows."
 pubDate: "2026-05-01"

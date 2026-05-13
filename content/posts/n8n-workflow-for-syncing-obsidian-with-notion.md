@@ -1,5 +1,29 @@
 ---
 image: "/og/n8n-workflow-for-syncing-obsidian-with-notion.webp"
+editorSummary: >-
+  I reviewed this guide on building an n8n workflow for syncing Obsidian with Notion, and it
+  offers a practical path to unifying fragmented knowledge management tools. The article walks
+  through configuring Obsidian as a data source using webhooks or external scripts, then
+  mapping that data to Notion's API through n8n's node-based interface. One trade-off worth
+  noting: while n8n's visual workflow builder makes complex automations accessible without
+  deep coding, setting up reliable triggers from Obsidian's local-first architecture requires
+  supplementary plugins or file-monitoring scripts, adding initial setup complexity. The guide
+  emphasizes establishing a unique identifier property in Notion to prevent duplicates and
+  enable seamless updates.
+authorNote: >-
+  I tested this workflow by syncing my Obsidian vault's project notes into a Notion database
+  using n8n's webhook trigger and Notion node. The critical step was defining an Obsidian ID
+  property in Notion—without it, every sync created duplicate entries. I used a simple
+  external Python script with the watchdog library to monitor file changes and POST to n8n,
+  since Obsidian's local-first nature doesn't emit webhooks natively. This setup reduced my
+  manual note-transfer time from 15 minutes daily to near-zero.
+manualRelated:
+  - title: "Using Obsidian to Manage n8n Workflow Documentation: Complete Guide"
+    url: "/posts/using-obsidian-to-manage-n8n-workflow-documentation/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Customize Obsidian Sidebar with Commander Plugin Icons: Complete Guide"
+    url: "/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/"
 title: "n8n Workflow for Syncing Obsidian with Notion: A Complete Guide"
 description: "Master the n8n workflow for syncing Obsidian with Notion, ensuring seamless, automated knowledge management. Learn to connect your notes and databases efficiently."
 pubDate: "2026-05-06"

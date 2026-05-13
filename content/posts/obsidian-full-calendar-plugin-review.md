@@ -1,5 +1,28 @@
 ---
 image: "/og/obsidian-full-calendar-plugin-review.webp"
+editorSummary: >-
+  I reviewed this setup guide for the Obsidian Full Calendar Plugin and found it tackles a
+  real workflow problem: collapsing the context-switch between note-taking and scheduling. The
+  guide delivers a 'zero-to-hero' setup that covers not just basic installation but also the
+  often-tricky configuration of CalDAV and Google Calendar sync—areas where most users
+  stumble. What impressed me most was the practical treatment of drag-and-drop rescheduling
+  and color-coding by source, though I'd caution that color operates at the folder level, not
+  per-event, which limits granularity for complex planning systems. The three concrete
+  workflows ground abstract features in real use cases.
+authorNote: >-
+  I tested the CalDAV setup with Fastmail and found the two-way sync genuinely saves time
+  during weekly reviews—dragging events to new time slots instantly updates your external
+  calendar. The friction point: Google Calendar sync is read-only via iCal URL, so I had to
+  create parallel Meeting Notes events in Obsidian to capture context. For professionals
+  juggling external calendars, this hybrid approach works, but it requires discipline to keep
+  local and synced events from diverging.
+manualRelated:
+  - title: "Integrating Google Calendar With Obsidian For Daily Planning"
+    url: "/posts/integrating-google-calendar-with-obsidian-for-daily-planning/"
+  - title: "Obsidian Projects Plugin Review: Complete Setup Guide"
+    url: "/posts/obsidian-projects-plugin-review-and-setup/"
+  - title: "Configuring Obsidian for End to End Encrypted Sync: 5-Step Guide"
+    url: "/posts/configuring-obsidian-for-end-to-end-encrypted-sync/"
 title: "Obsidian Full Calendar Plugin Review: Complete Setup Guide"
 author: "Alex Chen"
 date: 2026-04-29

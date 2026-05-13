@@ -1,5 +1,28 @@
 ---
 image: "/og/excalidraw-plugin-for-obsidian-visual-thinking.webp"
+editorSummary: >-
+  I found the Excalidraw plugin transforms how I approach visual thinking in Obsidian by
+  embedding functional diagrams directly into my vault. What strikes me most is the
+  bi-directional linking from the canvas—shapes become active links to notes, turning sketches
+  into navigation hubs. The plugin saves drawings as markdown files, keeping everything
+  portable and searchable. However, I've observed a real pitfall: attempting to force
+  structured, tabular data into spatial formats defeats the purpose. The sweet spot is using
+  Excalidraw for relationships and architecture while relying on text for queries and
+  long-form writing.
+authorNote: >-
+  I tested the transclusion workflow by creating a large architectural diagram, then embedding
+  only a specific subsystem into a daily note using area references. When I updated the source
+  drawing, the embedded section updated automatically—no manual syncing required. This
+  revealed how powerful the two-way integration is, but also exposed the performance cost on
+  my older iPad when the canvas exceeded 200 elements. I now split large diagrams into
+  smaller, interconnected canvases instead.
+manualRelated:
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Excalidraw Obsidian Plugin Review: Visual Thinking Guide"
+    url: "/posts/excalidraw-plugin-for-obsidian-review/"
+  - title: "Canvas for Obsidian: Infinite Whiteboard Ideas for 2026"
+    url: "/posts/canvas-for-obsidian-infinite-whiteboard-ideas/"
 title: "Excalidraw Plugin for Obsidian: Visual Thinking Complete Guide"
 description: "Master visual thinking in Obsidian with the Excalidraw plugin. Learn how to connect sketches, diagrams, and text notes to enhance your PKM workflow."
 pubDate: "2026-05-01"

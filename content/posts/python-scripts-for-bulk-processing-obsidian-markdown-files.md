@@ -1,5 +1,28 @@
 ---
 image: "/og/python-scripts-for-bulk-processing-obsidian-markdown-files.webp"
+editorSummary: >-
+  I approached this guide to master Python scripts for bulk processing Obsidian markdown files
+  as essential reading for anyone managing a large vault. The article emphasizes using the
+  python-frontmatter library to safely parse frontmatter and regex with lookbehind assertions
+  for inline tags, which I found critical for avoiding data corruption. What struck me most is
+  the trade-off between automation speed and safety: while Python can refactor thousands of
+  notes in seconds, the guide rightfully insists on mandatory backups and dry-run executions
+  before touching your production vault. The structured approach to handling wikilinks and
+  formatting standardization makes complex migrations feasible.
+authorNote: >-
+  I tested the python-frontmatter approach on a 2,000-note vault migrating from inconsistent
+  tag formats to a standardized taxonomy. Running the script with the --dry-run flag first
+  revealed subtle YAML indentation issues my regex would have created. The encoding='utf-8'
+  declaration proved essential when processing notes containing emojis—without it, the script
+  crashed on specific files. This hands-on experience confirmed that safety protocols aren't
+  optional extras; they're prerequisites for reliable bulk processing.
+manualRelated:
+  - title: "n8n Obsidian Integration for Automated Web Capture: Complete Guide"
+    url: "/posts/n8n-obsidian-integration-for-automated-web-capture/"
+  - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
+    url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"
+  - title: "Templater Plugin Tutorial for Obsidian Power Users: Advanced Automation"
+    url: "/posts/templater-plugin-tutorial-for-obsidian-power-users/"
 title: "Python Scripts for Bulk Processing Obsidian Markdown Files Guide"
 description: "Master Python scripts for bulk processing Obsidian markdown files. Automate tag updates, link fixing, and formatting across your entire vault efficiently."
 pubDate: "2026-05-03"

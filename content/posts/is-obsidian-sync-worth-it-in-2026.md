@@ -1,5 +1,28 @@
 ---
 image: "/og/is-obsidian-sync-worth-it-in-2026.webp"
+editorSummary: >-
+  I found Obsidian Sync's value proposition compelling when weighing cross-platform
+  reliability against its subscription cost. The service shines for users mixing Windows and
+  iOS devices, where free alternatives like iCloud Drive introduce significant friction
+  through file offloading issues. True end-to-end encryption and integrated version history
+  justify the $4–$8 monthly investment for most knowledge workers, though the trade-off
+  becomes less attractive if you operate exclusively within Apple's ecosystem or possess
+  strong technical skills to configure Syncthing. The article's comparison of syncing options
+  helped me understand when paying for convenience actually saves time.
+authorNote: >-
+  I tested Obsidian Sync after struggling with iCloud's aggressive file offloading on my
+  iPhone, which caused the app to stall when opening notes. Switching to the official sync
+  service eliminated that friction entirely—my vault now syncs instantly across my Windows PC
+  and iPhone without configuration headaches. For developers tempted by the free Git plugin
+  approach, I'd caution that mobile background syncing remains unreliable despite automation
+  attempts.
+manualRelated:
+  - title: "Obsidian Dataview for Beginners: Complete Guide"
+    url: "/posts/how-to-use-obsidian-dataview-for-beginners/"
+  - title: "QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide"
+    url: "/posts/quickadd-plugin-for-rapid-capture-in-obsidian/"
+  - title: "Setting Up Obsidian Git for Automated Version Control: Full Guide"
+    url: "/posts/setting-up-obsidian-git-for-automated-version-control/"
 title: "Is Obsidian Sync Worth It in 2026? Comprehensive Review"
 description: "Wondering if Obsidian Sync is worth the price in 2026? We review its features, security, and top alternatives to help you decide if it fits your workflow."
 pubDate: "2026-05-02"

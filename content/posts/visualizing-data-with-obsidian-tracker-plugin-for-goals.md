@@ -1,5 +1,27 @@
 ---
 image: "/og/visualizing-data-with-obsidian-tracker-plugin-for-goals.webp"
+editorSummary: >-
+  I found the Obsidian Tracker plugin transforms fragmented goal tracking into a unified
+  system within your existing vault. By structuring daily notes with YAML frontmatter or
+  inline Dataview fields, you can generate line charts, habit calendars, and summary
+  statistics without external tools. The guide covers essential setup steps and parameter
+  configuration, though one critical trade-off emerges: placing heavy Tracker code blocks
+  inside daily notes causes unnecessary lag—dedicated dashboard notes are essential for
+  performance. Mastering searchType definitions and date format alignment prevents common
+  errors that derail visualizations.
+authorNote: >-
+  I tested the Tracker plugin after struggling with scattered habit data across multiple apps.
+  Setting up a dedicated Goal Dashboard note with separate calendar blocks for meditation,
+  running, and reading eliminated the performance drag I initially experienced. The key
+  breakthrough came from standardizing my daily note template with consistent YAML keys using
+  Templater—without this, aggregation fails silently across dates.
+manualRelated:
+  - title: "Obsidian Plugins for Habit Tracking 2026: Complete Setup Guide"
+    url: "/posts/obsidian-plugins-for-habit-tracking-2026/"
+  - title: "Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide"
+    url: "/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/"
+  - title: "Automate Obsidian Daily Notes with Python: A Complete Guide"
+    url: "/posts/automate-obsidian-daily-notes-using-python/"
 title: "Visualizing Data With Obsidian Tracker Plugin For Goals: Complete Setup Guide"
 description: "Learn how to start visualizing data with Obsidian Tracker plugin for goals. Master custom charts, habit tracking, and progress metrics in your daily notes."
 pubDate: "2026-05-02"

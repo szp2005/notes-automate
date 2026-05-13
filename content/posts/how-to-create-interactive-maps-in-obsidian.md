@@ -1,5 +1,27 @@
 ---
 image: "/og/how-to-create-interactive-maps-in-obsidian.webp"
+editorSummary: >-
+  I found spatial note-taking transforms how we organize location-based information in
+  Obsidian. The Leaflet plugin lets you embed interactive maps directly in notes without GIS
+  expertise, pulling marker data from YAML frontmatter and automating updates through
+  Dataview. This guide provides downloadable templates for different use-cases, such as a
+  world travel log, a fictional kingdom map, and a local project planner. One trade-off worth
+  noting: image-based maps use percentage coordinates rather than real-world lat/long, which
+  requires different mental math depending on your use-case.
+authorNote: >-
+  I tested the Leaflet plugin by building a travel log for Southeast Asia trips, tagging each
+  destination note with coordinates in frontmatter. Using markerTag: travel, new notes
+  automatically appeared on the map without editing the map block itself. The real efficiency
+  gain came when I paired it with Dataview to sync a sortable table alongside the map—clicking
+  either the pin or the table row opened the same note, eliminating duplicate navigation
+  paths.
+manualRelated:
+  - title: "Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026"
+    url: "/posts/advanced-obsidian-templates-for-literature-review-matrix/"
+  - title: "Obsidian Tasks Plugin: Unified Project Management System"
+    url: "/posts/using-obsidian-tasks-plugin-for-project-management/"
+  - title: "Streamlining Your Daily Note Workflow for Better Productivity: 5-Step Guide"
+    url: "/posts/streamlining-your-daily-note-workflow-for-better-productivity/"
 title: "Obsidian Interactive Maps: Spatial Note-Taking Guide"
 author: "Alex Chen"
 date: 2026-04-29

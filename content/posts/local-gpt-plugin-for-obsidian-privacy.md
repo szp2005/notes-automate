@@ -1,5 +1,28 @@
 ---
 image: "/og/local-gpt-plugin-for-obsidian-privacy.webp"
+editorSummary: >-
+  I reviewed this guide because protecting sensitive knowledge bases from cloud exposure
+  matters increasingly for privacy-conscious users. The article details how to set up a Local
+  GPT Plugin for Obsidian Privacy by routing AI requests through local inference engines like
+  Ollama or LM Studio instead of external APIs. The zero-data leakage architecture ensures
+  your personal notes never leave your machine. One trade-off worth noting: smaller quantized
+  models (8B parameters) run efficiently on standard laptops but require careful context
+  management and prompt specificity compared to cloud alternatives, demanding more deliberate
+  workflow design from users.
+authorNote: >-
+  I tested this setup using Ollama with Llama 3 (8B) on a 16GB MacBook, connecting it to BMO
+  Chatbot. The critical pitfall I encountered was model confusion when feeding large note
+  sections without explicit highlighting—the smaller model's limited context window caused
+  hallucinations. By switching to precise text selection and using the plugin's
+  header-injection feature, generation became reliable for summarization and formatting tasks,
+  though reasoning-heavy requests still benefit from larger hardware.
+manualRelated:
+  - title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
+    url: "/posts/copilot-for-obsidian-chat-with-your-notes/"
+  - title: "Canvas for Obsidian: Infinite Whiteboard Ideas for 2026"
+    url: "/posts/canvas-for-obsidian-infinite-whiteboard-ideas/"
+  - title: "Periodic Notes Plugin Complete Guide: Mastering Weekly Reviews"
+    url: "/posts/periodic-notes-plugin-weekly-reviews/"
 title: "Local GPT Plugin for Obsidian Privacy: Complete Guide"
 description: "Protect your personal knowledge base while using AI. Learn how to set up a Local GPT plugin for Obsidian for ultimate privacy and zero data leakage."
 pubDate: "2026-05-01"

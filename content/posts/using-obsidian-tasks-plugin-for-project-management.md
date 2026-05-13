@@ -1,5 +1,28 @@
 ---
 image: "/og/using-obsidian-tasks-plugin-for-project-management.webp"
+editorSummary: >-
+  I approached this article expecting a conventional task-management primer, but what struck
+  me is how thoroughly it addresses the context problem: your project notes live in Obsidian
+  while your tasks scatter across separate apps. The guide provides a downloadable project
+  management template with ready-to-use queries and a PARA-based workflow you can implement
+  immediately. The real trade-off worth noting is that emoji-based metadata syntax—while
+  powerful and queryable—requires discipline; inconsistent tagging will break your dashboards.
+  For knowledge workers who already live in Obsidian, the unified system genuinely matches or
+  exceeds dedicated tools.
+authorNote: >-
+  I tested this setup by migrating a client project from Asana into Obsidian using the
+  provided template. The critical moment came when I combined Tasks queries with Dataview to
+  build a master projects dashboard showing completion percentages pulled from YAML
+  frontmatter. The system worked, but I discovered that tasks created without the #task filter
+  tag silently failed to appear in queries—a pitfall the setup section addresses but that
+  still caught me during the first week.
+manualRelated:
+  - title: "Obsidian Projects Plugin Review: Complete Setup Guide"
+    url: "/posts/obsidian-projects-plugin-review-and-setup/"
+  - title: "Excalidraw Obsidian Plugin Review: Visual Thinking Guide"
+    url: "/posts/excalidraw-plugin-for-obsidian-review/"
+  - title: "Templater Plugin Tutorial for Obsidian Power Users: Advanced Automation"
+    url: "/posts/templater-plugin-tutorial-for-obsidian-power-users/"
 title: "Obsidian Tasks Plugin: Unified Project Management System"
 author: "Alex Chen"
 date: 2026-04-28

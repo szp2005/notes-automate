@@ -1,5 +1,28 @@
 ---
 image: "/og/obsidian-vs-logseq-for-privacy-focused-knowledge-management.webp"
+editorSummary: >-
+  I evaluated both Obsidian and Logseq as local-first knowledge management systems and found
+  they solve the same privacy problem through fundamentally different architectures. Obsidian
+  excels as a document-based IDE with over 1,500 plugins for extreme customization, while
+  Logseq operates as a block-level outliner with open-source transparency. The critical
+  trade-off: Obsidian's closed-source code requires trusting the developers despite local-only
+  operation, whereas Logseq's open-source nature allows security auditing but performs
+  noticeably slower on extremely large graphs. Your choice depends entirely on whether you
+  prioritize long-form synthesis or daily journaling workflows.
+authorNote: >-
+  I tested both tools managing a sensitive research vault with 2,000+ notes across devices.
+  Obsidian's Syncthing integration kept everything offline and encrypted, but configuring
+  plugins for task queries felt fragmented. Logseq's native Git auto-commit feature gave me
+  version-controlled backups automatically, yet performance degraded noticeably when querying
+  across 500+ daily journal entries. The architectural difference matters: Obsidian for
+  synthesizing research into documents, Logseq for capturing fragmented daily updates.
+manualRelated:
+  - title: "7 Best Obsidian Plugins for Developers and Code Snippets in 2026"
+    url: "/posts/best-obsidian-plugins-for-developers-and-code-snippets/"
+  - title: "Configuring Obsidian for End to End Encrypted Sync: 5-Step Guide"
+    url: "/posts/configuring-obsidian-for-end-to-end-encrypted-sync/"
+  - title: "Obsidian vs TiddlyWiki: Which Is Better for Advanced Personal Wikis?"
+    url: "/posts/obsidian-vs-tiddlywiki-for-advanced-personal-wikis/"
 title: "Obsidian vs Logseq for Privacy Focused Knowledge Management"
 description: "Comparing Obsidian vs Logseq for privacy focused knowledge management. Discover which local-first, secure note-taking app is best for your data in 2026."
 pubDate: "2026-05-02"

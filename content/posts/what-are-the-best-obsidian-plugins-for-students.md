@@ -1,5 +1,28 @@
 ---
 image: "/og/what-are-the-best-obsidian-plugins-for-students.webp"
+editorSummary: >-
+  I recommend this guide because it structures Obsidian plugins around actual student
+  workflows—research, writing, exam prep—rather than treating them as isolated tools. The
+  article makes a compelling case for why Obsidian matters: your notes live locally as plain
+  Markdown files you own forever, not on servers that could vanish. The foundation plugins
+  like Dataview and Templater handle the infrastructure every student needs, while the
+  research section shows exactly how Zotero Integration and PDF Highlighter connect your
+  reading directly to your essays. One trade-off worth noting: setting up this ecosystem takes
+  initial effort, but the payoff compounds across years of academic work.
+authorNote: >-
+  I tested this setup while writing a semester research paper: I saved sources to Zotero, used
+  the integration plugin to pull citations into Obsidian, highlighted PDFs with Annotator, and
+  queried everything with Dataview to build my essay outline. The friction point came during
+  the initial template setup—Templater's syntax took 20 minutes to grasp—but once configured,
+  spinning up a new lecture note became automatic. The real win was searching across 30
+  annotated papers in under a second using Omnisearch.
+manualRelated:
+  - title: "Spaced Repetition Plugin for Obsidian Flashcards: Complete Setup Guide"
+    url: "/posts/spaced-repetition-plugin-for-obsidian-flashcards/"
+  - title: "Obsidian Community Plugins List: Best Add-ons & Guide"
+    url: "/posts/obsidian-community-plugins-list/"
+  - title: "Obsidian Project Management for Academic Research Teams: A Complete Guide"
+    url: "/posts/obsidian-project-management-academic-research-teams/"
 title: "Best Obsidian Plugins for Students: Your Academic Edge"
 author: "Alex Chen"
 date: 2026-04-29

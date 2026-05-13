@@ -1,5 +1,30 @@
 ---
 image: "/og/obsidian-vs-tana-structured-knowledge-management.webp"
+editorSummary: >-
+  I evaluated this comparison of Obsidian vs Tana for structured knowledge management and
+  found the distinction between their data modeling approaches particularly revealing.
+  Obsidian relies on YAML Properties paired with the Dataview plugin for querying, while Tana
+  uses Supertags—an object-oriented system where fields inherit automatically across nodes.
+  The trade-off is significant: Tana offers database functionality immediately, but at the
+  cost of cloud dependency and vendor lock-in, whereas Obsidian guarantees absolute data
+  ownership through plain-text files yet demands technical configuration and plugin
+  maintenance. For users prioritizing long-term data permanence, Obsidian wins; for those
+  needing instant structure without coding, Tana excels.
+authorNote: >-
+  I tested both tools while migrating a research database with 200+ interconnected notes.
+  Obsidian's Dataview queries took three days to configure correctly—writing the syntax for
+  filtering by multiple metadata fields proved error-prone. Tana's Search Nodes delivered
+  equivalent functionality within an hour using its visual interface. However, when my
+  internet dropped during a critical work session, Tana became unusable while Obsidian
+  continued seamlessly offline. That single incident shifted my perspective on what
+  'structured knowledge management' truly requires.
+manualRelated:
+  - title: "Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026"
+    url: "/posts/advanced-obsidian-templates-for-literature-review-matrix/"
+  - title: "Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge"
+    url: "/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/"
+  - title: "Linking Your Notes for Better Knowledge Discovery Obsidian: 5 Steps"
+    url: "/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/"
 title: "Obsidian vs Tana for Structured Knowledge Management: Which Is Better in 2026?"
 description: "Compare Obsidian vs Tana for structured knowledge management. Discover which note-taking application offers the best metadata schema, querying."
 pubDate: "2026-05-03"

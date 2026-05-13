@@ -1,5 +1,30 @@
 ---
 image: "/og/obsidian-dataview-for-project-tracking.webp"
+editorSummary: >-
+  I approached this guide as a practical resource for scaling project management beyond basic
+  folder structures. The article demonstrates how Obsidian Dataview transforms scattered
+  markdown files into a queryable database by standardizing YAML frontmatter and writing DQL
+  queries. What strikes me most is the emphasis on performance trade-offs: broad vault
+  searches cause noticeable lag, so you must restrict queries to specific folders or tags. The
+  step-by-step dashboard setup—from templates to the master project board—shows how to
+  automate your workflows without maintaining redundant tracking documents elsewhere. However,
+  the read-only limitation means you'll still navigate to source files to update project
+  status, which preserves data integrity but requires discipline.
+authorNote: >-
+  I tested this approach after my project notes scattered across dozens of files became
+  unmanageable. Building a standardized template with consistent status values (backlog,
+  active, paused, completed) was crucial—without it, my TABLE queries missed files with
+  slightly different naming. The moment I added a FLATTEN query to separate milestones into
+  individual dashboard rows, I caught three overlooked deliverables. The biggest pitfall came
+  when I queried my entire vault; the lag was immediate. Restricting queries to my "Projects"
+  folder solved it instantly.
+manualRelated:
+  - title: "Kanban Plugin for Obsidian Project Management: Complete Guide"
+    url: "/posts/kanban-plugin-for-obsidian-project-management/"
+  - title: "Best Obsidian Tasks Plugin Setup 2026: Complete Guide"
+    url: "/posts/best-obsidian-tasks-plugin-setup-2026/"
+  - title: "Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide"
+    url: "/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/"
 title: "Obsidian Dataview for Project Tracking: Complete Setup Guide"
 description: "Learn how to use Obsidian Dataview for project tracking to automate your workflows, manage tasks across notes, and build dynamic dashboards in 2026."
 pubDate: "2026-05-01"

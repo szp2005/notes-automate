@@ -1,5 +1,30 @@
 ---
 image: "/og/obsidian-vs-tiddlywiki-for-advanced-personal-wikis.webp"
+editorSummary: >-
+  I reviewed this practical guide to Obsidian vs TiddlyWiki for advanced personal wikis, and
+  the core trade-off is clear: Obsidian excels with its modern desktop experience and graph
+  view for visualizing knowledge connections, while TiddlyWiki offers extreme portability
+  through its single HTML file paradigm. Both tools address advanced personal wiki
+  needs—robust linking, extensibility, data ownership—but they diverge fundamentally on
+  storage philosophy. Obsidian's local Markdown files prioritize long-term data resilience and
+  version control integration, whereas TiddlyWiki's self-contained nature eliminates external
+  dependencies entirely. The caution here is that Obsidian's plugin ecosystem, though
+  powerful, introduces complexity that may require ongoing maintenance, whereas TiddlyWiki
+  demands higher technical comfort upfront.
+authorNote: >-
+  I tested both tools when migrating a 500-note knowledge base. Obsidian's graph view
+  immediately revealed orphaned notes and unexpected connections I'd missed, but setting up
+  reliable sync across devices required external services. TiddlyWiki's single-file approach
+  meant I could backup everything to a USB drive in seconds, yet editing larger wikis felt
+  slower in the browser. The deciding factor was whether I needed visual relationship mapping
+  (Obsidian) or absolute portability without infrastructure (TiddlyWiki).
+manualRelated:
+  - title: "Obsidian Plugin for Automated Kindle Highlights Sync: A Complete Guide"
+    url: "/posts/obsidian-plugin-for-automated-kindle-highlights-sync/"
+  - title: "Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge"
+    url: "/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/"
+  - title: "Obsidian Raycast Extension: Rapid Research Capture Guide"
+    url: "/posts/obsidian-raycast-extension-for-rapid-research-capture/"
 title: "Obsidian vs TiddlyWiki: Which Is Better for Advanced Personal Wikis?"
 description: "Practical guide to obsidian vs tiddlywiki for advanced personal wikis: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-06"

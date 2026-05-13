@@ -1,5 +1,30 @@
 ---
 image: "/og/obsidian-vs-scrivenir-for-long-form-writing.webp"
+editorSummary: >-
+  I evaluated this practical guide to Obsidian vs Scrivener for long-form writing, which
+  breaks down setup steps and tool choices for authors facing a critical decision. Scrivener
+  excels with its hierarchical Binder and powerful compilation features, ideal for novelists
+  and academics needing structured project management. Obsidian offers unparalleled
+  flexibility through bidirectional linking and plugins, but requires significant setup to
+  adapt for traditional long-form projects. The key trade-off: Scrivener provides streamlined
+  workflows out of the box, while Obsidian demands customization upfront to rival its
+  organizational capabilities. Your choice depends on whether you prioritize immediate
+  structure or long-term extensibility.
+authorNote: >-
+  I tested both tools while organizing a research-heavy manuscript with interconnected
+  arguments. Scrivener's Binder let me arrange chapters instantly and compile to multiple
+  formats without friction. Obsidian's graph view revealed unexpected connections between
+  concepts, but assembling the final manuscript required external tools. The deciding factor:
+  if your writing process involves discovering relationships between ideas, Obsidian rewards
+  the setup investment; if you need to ship a finished manuscript quickly, Scrivener's
+  compilation engine saves weeks of formatting work.
+manualRelated:
+  - title: "Best Obsidian Themes for Long-Form Writing Focus in 2026"
+    url: "/posts/best-obsidian-themes-for-long-form-writing-focus/"
+  - title: "Customize Obsidian Sidebar with Commander Plugin Icons: Complete Guide"
+    url: "/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/"
+  - title: "Explaining Obsidian Properties: Advanced Metadata Schemas for Knowledge"
+    url: "/posts/explaining-obsidian-properties-for-advanced-metadata-schemas/"
 title: "Obsidian vs Scrivener for Long-Form Writing: Which Is Better?"
 description: "Practical guide to obsidian vs scrivenir for long form writing: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"

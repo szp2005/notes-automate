@@ -1,5 +1,28 @@
 ---
 image: "/og/using-mermaid-diagrams-for-visual-note-taking-obsidian.webp"
+editorSummary: >-
+  I find Mermaid diagrams particularly valuable for visual note taking in Obsidian because
+  they transform plain-text syntax into dynamic, searchable visuals that remain future-proof.
+  Using flowcharts, sequence diagrams, and mind maps directly within your vault eliminates the
+  friction of external tools and static image exports. The trade-off worth noting: extremely
+  large diagrams become unwieldy in code form, requiring you to modularize complex
+  architectures across multiple notes rather than maintaining one comprehensive visual. This
+  approach genuinely strengthens active processing—translating dense paragraphs into precise
+  diagram syntax forces you to identify core relationships explicitly.
+authorNote: >-
+  I tested the Concept Mapper workflow on a dense research paper about behavioral economics.
+  Instead of highlighting passages, I built a flowchart mapping the thesis at the top, then
+  branched supporting arguments below with dotted lines linking specific studies. When I
+  couldn't connect a node cleanly, it revealed gaps in my understanding. The real payoff came
+  weeks later when I needed to reference the paper—the visual map let me navigate my notes in
+  seconds rather than re-reading pages.
+manualRelated:
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Applying the PARA Method to an Obsidian Vault: Complete Guide"
+    url: "/posts/applying-the-para-method-to-an-obsidian-vault/"
+  - title: "Obsidian Project Management for Academic Research Teams: A Complete Guide"
+    url: "/posts/obsidian-project-management-academic-research-teams/"
 title: "Using Mermaid Diagrams for Visual Note Taking in Obsidian: Complete Guide"
 description: "Master using Mermaid diagrams for visual note taking in Obsidian. Learn syntax, integration, and practical workflows to connect complex ideas visually."
 pubDate: "2026-05-02"

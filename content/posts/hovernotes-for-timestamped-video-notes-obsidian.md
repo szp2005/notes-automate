@@ -1,5 +1,30 @@
 ---
 image: "/og/hovernotes-for-timestamped-video-notes-obsidian.webp"
+editorSummary: >-
+  I found HoverNotes transforms how I capture knowledge from video content in Obsidian by
+  creating a floating player that syncs with my notes through clickable timestamps. The plugin
+  solves a persistent friction point: watching lectures while typing notes inevitably causes
+  me to lose my place and disconnect insights from their visual context. By binding timestamp
+  insertion to a hotkey like Cmd+T, I can anchor precise moments—say [04:23]—directly into
+  markdown, then click those links later to instantly seek back to the exact second. The
+  trade-off worth noting is that over-annotating defeats the purpose; I aim for one timestamp
+  every 2–5 minutes rather than transcribing entire videos, keeping synthesis efficient.
+authorNote: >-
+  I tested HoverNotes on a 45-minute machine learning lecture by splitting my workspace with
+  the floating player at 85% opacity, allowing me to see my notes beneath it. When the
+  instructor displayed the backpropagation diagram, I pressed Cmd+T to insert [12:40], then
+  later linked that timestamp to an atomic note [[Concept - Backpropagation]]. The real payoff
+  came during synthesis: clicking the timestamp instantly jumped playback to that exact
+  moment, eliminating the need to rewatch the entire video. For videos over an hour, I
+  switched to Media Extended's pane layout instead, which proved less fatiguing on longer
+  sessions.
+manualRelated:
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Obsidian for Software Engineering Documentation: 7-Step Guide"
+    url: "/posts/how-to-use-obsidian-for-software-engineering-documentation/"
+  - title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
+    url: "/posts/copilot-for-obsidian-chat-with-your-notes/"
 title: "HoverNotes for Timestamped Video Notes in Obsidian: Complete Guide"
 description: "Master HoverNotes for timestamped video notes in Obsidian. Learn how to sync YouTube playback, take precise annotations, and build your visual knowledge base."
 pubDate: "2026-05-01"

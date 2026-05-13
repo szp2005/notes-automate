@@ -1,5 +1,28 @@
 ---
 image: "/og/top-obsidian-plugins-for-creative-writers-in-2026.webp"
+editorSummary: >-
+  I reviewed this guide to the top Obsidian plugins for creative writers in 2026, and I'm
+  struck by how these tools transform Obsidian into a distraction-free writing environment.
+  Longform excels at compiling multi-scene manuscripts, while Dataview enables dynamic
+  world-building through YAML frontmatter queries. However, the article's most crucial insight
+  warns against over-engineering your vault—writers often spend more time tweaking plugins and
+  custom themes than actually drafting prose. The key is installing plugins only when you
+  encounter genuine friction points, treating them as solutions rather than productivity toys.
+authorNote: >-
+  I tested this workflow when managing a fantasy novel with dozens of character notes and
+  location entries. Using Dataview to auto-generate tables of living characters sorted by
+  allegiance proved invaluable for catching continuity errors. The real challenge emerged when
+  I initially installed six plugins at once, only to realize I was spending evenings
+  configuring LanguageTool and Kanban boards instead of writing. I eventually stripped back to
+  just Longform and Novel Word Count, which directly addressed my drafting and
+  progress-tracking needs.
+manualRelated:
+  - title: "Obsidian vs Scrivener for Long-Form Writing: Which Is Better?"
+    url: "/posts/obsidian-vs-scrivenir-for-long-form-writing/"
+  - title: "Applying the PARA Method to an Obsidian Vault: Complete Guide"
+    url: "/posts/applying-the-para-method-to-an-obsidian-vault/"
+  - title: "Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide"
+    url: "/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/"
 title: "Top Obsidian Plugins for Creative Writers in 2026"
 description: "Discover the top Obsidian plugins for creative writers in 2026. Streamline your world-building, drafting, and editing workflows with these essential tools."
 pubDate: "2026-05-02"

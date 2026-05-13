@@ -1,5 +1,28 @@
 ---
 image: "/og/most-beautiful-obsidian-themes.webp"
+editorSummary: >-
+  I approached this article as a guide to matching Obsidian themes by aesthetic
+  category—minimalist, dark mode, and vibrant—rather than scrolling endlessly through options.
+  The author's three-category framework cuts through decision fatigue. What struck me most is
+  the emphasis that theme selection is not decoration but usability: poor contrast ratios
+  cause eye fatigue, weak heading hierarchy makes skimming tedious, and typography affects
+  reading speed. The Style Settings plugin emerges as the universal upgrade across nearly
+  every theme reviewed. One caution: a theme last updated in 2021 will break with Obsidian's
+  API changes, so active maintenance matters more than initial appeal.
+authorNote: >-
+  I tested this by switching my writing vault between Minimal and Vesper over two weeks.
+  Minimal's companion plugin unlocked granular customization—card layouts, checkbox styles,
+  focus mode—but required learning the settings panel. Vesper's markdown-hiding approach felt
+  liberating for prose, yet switching back to Minimal for technical notes highlighted the
+  trade-off: minimalist clarity versus writing-specific distraction removal. Neither is
+  universally better; the category framework here actually works for matching your workflow.
+manualRelated:
+  - title: "Introduction: Beyond Default - Choosing Your Ideal Obsidian Interface"
+    url: "/posts/things-theme-vs-minimal-theme-obsidian/"
+  - title: "Obsidian Minimal Theme Review: The Ultimate Minimalist Guide"
+    url: "/posts/minimal-theme-obsidian-review/"
+  - title: "Excalidraw Obsidian Plugin Review: Visual Thinking Guide"
+    url: "/posts/excalidraw-plugin-for-obsidian-review/"
 title: "Most Beautiful Obsidian Themes for Better Productivity"
 author: "Alex Chen"
 date: 2026-04-29

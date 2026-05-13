@@ -1,5 +1,26 @@
 ---
 image: "/og/obsidian-templater-plugin-tutorial-for-daily-notes.webp"
+editorSummary: >-
+  I found that Obsidian's built-in Templates plugin handles static boilerplate well, but the
+  Templater plugin transforms daily notes through dynamic commands—auto-inserting formatted
+  dates, linking to weekly reviews, and fetching external data like weather or task lists.
+  This guide provides a downloadable 'Daily Note Starter Pack' with three levels of templates,
+  from beginner to advanced, so you can implement working automation in under twenty minutes.
+  The key trade-off: Templater requires learning JavaScript basics for advanced workflows, but
+  the payoff justifies the effort for notes you open daily.
+authorNote: >-
+  I tested this setup by mapping my Daily Notes folder to a Templater template, then adding a
+  weather API call via a User Script. The moment Periodic Notes created today's file,
+  Templater injected the template and fetched live data—no manual intervention. The critical
+  pitfall I hit: forgetting that folder names are case-sensitive in Obsidian, so my Daily
+  Notes mapping didn't trigger until I matched the exact casing in settings.
+manualRelated:
+  - title: "Templater Plugin Tutorial for Obsidian Power Users: Advanced Automation"
+    url: "/posts/templater-plugin-tutorial-for-obsidian-power-users/"
+  - title: "Obsidian Templater User Scripts: Complete Guide"
+    url: "/posts/how-to-use-obsidian-templater-user-scripts/"
+  - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
+    url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"
 title: "Obsidian Templater Plugin: Daily Notes Automation Tutorial"
 author: "Alex Chen"
 date: 2026-04-28

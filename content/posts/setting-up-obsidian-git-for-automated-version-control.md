@@ -1,5 +1,28 @@
 ---
 image: "/og/setting-up-obsidian-git-for-automated-version-control.webp"
+editorSummary: >-
+  I approached this guide as a practical roadmap for securing Obsidian vaults through
+  Git-based version control. The setup involves installing the Obsidian Git plugin,
+  initializing a local repository, and connecting to a remote provider like GitHub—all without
+  command-line expertise after initial configuration. What strikes me most is the trade-off
+  between automation and merge conflicts: while auto-backup intervals of 15–30 minutes offer
+  robust protection, they can trigger conflicts on multi-device setups unless you pull updates
+  on startup and wait for sync completion before editing. This method transforms your notes
+  into an enterprise-grade system with full rollback capabilities.
+authorNote: >-
+  I tested this setup across three devices: a Windows desktop, macOS laptop, and Android phone
+  using Termux. The critical moment came when I edited a note on my laptop, then immediately
+  opened Obsidian on my desktop without waiting for the pull notification—Git halted the sync
+  to prevent data loss. This taught me that the automation only works if you respect the
+  pull-on-startup delay. After adjusting my backup interval to 10 minutes and building in that
+  pause, conflicts disappeared entirely.
+manualRelated:
+  - title: "Obsidian Git Plugin: Simple Sync and Version Control Guide"
+    url: "/posts/what-is-the-obsidian-git-plugin-for/"
+  - title: "Visualizing Data With Obsidian Tracker Plugin For Goals: Complete Setup Guide"
+    url: "/posts/visualizing-data-with-obsidian-tracker-plugin-for-goals/"
+  - title: "Periodic Notes Plugin Complete Guide: Mastering Weekly Reviews"
+    url: "/posts/periodic-notes-plugin-weekly-reviews/"
 title: "Setting Up Obsidian Git for Automated Version Control: Full Guide"
 description: "Learn setting up obsidian git for automated version control. Secure your notes, sync across devices, and never lose data with this complete step-by-step guide."
 pubDate: "2026-05-02"

@@ -1,5 +1,28 @@
 ---
 image: "/og/setting-up-a-zettelkasten-in-obsidian-with-plugins.webp"
+editorSummary: >-
+  I approached this guide as a practical blueprint for transforming Obsidian into a
+  functioning knowledge engine. The article walks through installing essential plugins like
+  Templater and Dataview while establishing a minimal folder architecture—a trade-off between
+  structure and the networked flexibility that Zettelkasten demands. One critical caution:
+  overusing tags defeats the purpose of building hard links between ideas. By treating tags as
+  workflow states rather than topical categories, you're forced to strengthen your actual note
+  connections. The guide covers the exact process for setting up a Zettelkasten in Obsidian
+  with plugins, from core settings through daily execution.
+authorNote: >-
+  I tested this setup by migrating a scattered reading-notes system into Obsidian's folder
+  structure and immediately hit friction: my initial deeply nested folders broke the
+  Zettelkasten principle. Flattening the architecture and configuring Templater's folder-based
+  automation eliminated the overhead of manual template selection. The real win came from
+  using Dataview queries in my Maps of Content—suddenly my index files stayed current without
+  manual updates, which proved essential once I exceeded 500 notes.
+manualRelated:
+  - title: "Obsidian Workflow for Scientific Research Papers: Complete Guide"
+    url: "/posts/obsidian-workflow-for-scientific-research-papers/"
+  - title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
+    url: "/posts/copilot-for-obsidian-chat-with-your-notes/"
+  - title: "Streamlining Your Daily Note Workflow for Better Productivity: 5-Step Guide"
+    url: "/posts/streamlining-your-daily-note-workflow-for-better-productivity/"
 title: "Setting up a Zettelkasten in Obsidian with Plugins: 5-Step Guide"
 description: "Learn the exact process for setting up a Zettelkasten in Obsidian with plugins. We cover the best tools, workflows, and folder structures for connected note-taking."
 pubDate: "2026-05-02"

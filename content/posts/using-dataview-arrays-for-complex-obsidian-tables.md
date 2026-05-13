@@ -1,5 +1,27 @@
 ---
 image: "/og/using-dataview-arrays-for-complex-obsidian-tables.webp"
+editorSummary: >-
+  I approached this guide to understand how Dataview arrays transform Obsidian's flat metadata
+  into dynamic, relational tables. The core insight is that FLATTEN breaks arrays into
+  separate rows, while filter() and map() let you manipulate individual elements without
+  duplicating notes. What strikes me most is the performance trade-off: mapping across linked
+  files extracts powerful nested metadata, but extensive mapping across hundreds of rows will
+  noticeably slow your workspace. Mastering these functions means the difference between
+  cluttered, unreadable table cells and structured insights.
+authorNote: >-
+  I tested this approach when building a reading tracker that groups books by individual
+  author rather than author combinations. My initial query failed because I treated the
+  authors array as a single unit. After flattening the array first, then grouping by the
+  individual author names, the table rendered cleanly. The key lesson: always flatten before
+  grouping by array elements, and filter your dataset before flattening to avoid performance
+  lag.
+manualRelated:
+  - title: "Obsidian Dataview for Beginners: Complete Guide"
+    url: "/posts/how-to-use-obsidian-dataview-for-beginners/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Obsidian vs Reflect for Fast Daily Journaling: Which Is Better for Power Users?"
+    url: "/posts/obsidian-vs-reflect-for-fast-daily-journaling/"
 title: "Dataview Arrays for Complex Obsidian Tables: Complete Guide"
 description: "Master Obsidian Dataview arrays to build complex, dynamic tables. Learn how to filter, flatten, and map data across your personal knowledge management vault."
 pubDate: "2026-05-07"

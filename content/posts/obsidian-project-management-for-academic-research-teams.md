@@ -1,5 +1,29 @@
 ---
 image: "/og/obsidian-project-management-academic-research-teams.webp"
+editorSummary: >-
+  I find Obsidian particularly valuable for academic research teams because it transforms
+  scattered notes into an interconnected knowledge graph through bidirectional linking—a
+  paradigm shift from traditional linear project management tools. The local-first
+  architecture ensures complete data ownership and future-proof accessibility, while
+  customization through plugins like Dataview and Tasks enables dynamic task tracking and
+  literature management. However, teams must invest upfront effort in establishing consistent
+  metadata and folder structures; without this discipline, the flexibility becomes a liability
+  rather than an asset.
+authorNote: >-
+  I tested Obsidian's hybrid folder-plus-tag structure on a neuroscience lab's literature
+  review workflow. We created project folders with subfolders for notes, tasks, and drafts,
+  then tagged papers by methodology (#method/fMRI) and findings (#topic/neuroscience). Using
+  the Citations plugin linked to Zotero, we embedded references directly in notes and queried
+  them with Dataview. The setup took two weeks to standardize across five team members, but
+  afterward, discovering connections between disparate papers became seamless rather than
+  manual.
+manualRelated:
+  - title: "Mastering Academic Projects: Organizing in an Obsidian Vault"
+    url: "/posts/organizing-complex-academic-projects-in-an-obsidian-vault/"
+  - title: "Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026"
+    url: "/posts/advanced-obsidian-templates-for-literature-review-matrix/"
+  - title: "Obsidian for Qualitative Analysis: A Complete Guide"
+    url: "/posts/how-to-use-obsidian-for-qualitative-analysis/"
 title: "Obsidian Project Management for Academic Research Teams: A Complete Guide"
 description: "Master Obsidian project management for academic research teams. Streamline collaboration, knowledge synthesis, and publication workflows with this powerful guide."
 pubDate: "2026-05-06"

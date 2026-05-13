@@ -1,5 +1,28 @@
 ---
 image: "/og/kanban-plugin-for-obsidian-project-management.webp"
+editorSummary: >-
+  I found the Kanban plugin transforms how I manage projects directly within Obsidian by
+  rendering markdown lists as interactive, drag-and-drop boards. The guide covers installing
+  the plugin, tweaking core settings like note folders and link formats, and designing
+  workflows—from classic To-Do/Doing/Done columns to content creation pipelines. What strikes
+  me is the trade-off: while markdown-backed boards keep your data portable and future-proof,
+  they lack the real-time collaboration features of external tools like Trello. Combining
+  Kanban with Dataview unlocks powerful cross-board task aggregation, making this approach
+  genuinely competitive for personal knowledge management.
+authorNote: >-
+  I tested this setup by migrating a three-client project structure into separate Kanban
+  boards, each linked to detailed project notes. The critical moment came when I configured
+  the note folder setting—initially leaving it at root caused vault clutter. Once I created a
+  dedicated Projects folder and applied a template to auto-generate task metadata, I could
+  query all active tasks across boards using Dataview. This hybrid approach eliminated my
+  context-switching between Obsidian and external managers.
+manualRelated:
+  - title: "Dataview Arrays for Complex Obsidian Tables: Complete Guide"
+    url: "/posts/using-dataview-arrays-for-complex-obsidian-tables/"
+  - title: "Customize Obsidian Sidebar with Commander Plugin Icons: Complete Guide"
+    url: "/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/"
+  - title: "Templater Plugin Tutorial for Obsidian Power Users: Advanced Automation"
+    url: "/posts/templater-plugin-tutorial-for-obsidian-power-users/"
 title: "Kanban Plugin for Obsidian Project Management: Complete Guide"
 description: "Master the Kanban plugin for Obsidian project management. Learn how to structure boards, track tasks, and build a productive workflow directly inside your vault."
 pubDate: "2026-05-01"

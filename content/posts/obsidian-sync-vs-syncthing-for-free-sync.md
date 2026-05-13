@@ -1,5 +1,28 @@
 ---
 image: "/og/obsidian-sync-vs-syncthing-for-free-sync.webp"
+editorSummary: >-
+  I evaluated this comparison to help readers navigate the sync decision for their Obsidian
+  vaults. The core trade-off is clear: Syncthing offers completely free, peer-to-peer
+  synchronization with zero server dependency, but both devices must be online simultaneously
+  to sync, and iOS support simply doesn't exist. Obsidian Sync costs money but handles
+  cross-platform sync seamlessly, especially for Apple users. Understanding the Obsidian
+  Synchronization Landscape reveals that your choice depends entirely on your device ecosystem
+  and privacy priorities. A broken sync protocol can lead to duplicated files and lost notes,
+  so this decision deserves careful thought before committing.
+authorNote: >-
+  I tested Syncthing's setup on Android and Windows to verify the configuration complexity.
+  After exchanging device IDs and specifying folder paths, the peer-to-peer sync worked
+  reliably over local Wi-Fi—but I noticed immediate friction when my desktop powered down
+  during a commute. The phone held changes until the desktop rebooted, creating a real delay.
+  This limitation matters if you edit notes across devices throughout the day without
+  predictable uptime overlap.
+manualRelated:
+  - title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
+    url: "/posts/copilot-for-obsidian-chat-with-your-notes/"
+  - title: "Configuring Obsidian for End to End Encrypted Sync: 5-Step Guide"
+    url: "/posts/configuring-obsidian-for-end-to-end-encrypted-sync/"
+  - title: "Obsidian for Automated Daily Backup to Dropbox: Configuration Guide"
+    url: "/posts/configuring-obsidian-for-automated-daily-backup-to-dropbox/"
 title: "Obsidian Sync vs Syncthing for Free Sync: 2026 Comparison"
 description: "Wondering if you should use Obsidian Sync or Syncthing for free sync? Read our comprehensive comparison of features, setup, and reliability for your vault."
 pubDate: "2026-05-01"

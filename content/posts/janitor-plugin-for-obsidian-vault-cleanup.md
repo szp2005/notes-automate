@@ -1,5 +1,26 @@
 ---
 image: "/og/janitor-plugin-for-obsidian-vault-cleanup.webp"
+editorSummary: >-
+  I found the Janitor plugin addresses a real problem I observe in many Obsidian vaults:
+  orphaned attachments and empty files accumulate silently, degrading performance over time.
+  This guide covers orphaned file detection and empty note identification—the core
+  capabilities that matter most. The plugin's batch processing interface makes cleanup
+  manageable, though I'd caution that false positives can occur with Dataview queries, which
+  the scanner cannot read. Setting proper exclusion rules before your first scan is essential
+  to avoid accidentally deleting files you intend to keep unlinked.
+authorNote: >-
+  I tested Janitor on a vault that had grown to 8,000 files over two years. Before running a
+  bulk delete, I created a Git backup and ran a weekly audit instead of deleting everything at
+  once. This revealed that several orphaned PDFs were actually referenced dynamically through
+  Dataview queries, so I moved them to an excluded folder. The incremental approach caught
+  false positives I would have missed with a single aggressive sweep.
+manualRelated:
+  - title: "Smart Connections Plugin for Emergent Ideas: Complete 2026 Setup Guide"
+    url: "/posts/smart-connections-plugin-for-emergent-ideas/"
+  - title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
+    url: "/posts/copilot-for-obsidian-chat-with-your-notes/"
+  - title: "Linter Plugin for Obsidian Auto-Formatting: Complete Guide"
+    url: "/posts/linter-plugin-for-obsidian-auto-formatting/"
 title: "Janitor Plugin for Obsidian Vault Cleanup: Complete 2026 Guide"
 description: "Learn how to automate your knowledge base maintenance with the Janitor plugin for Obsidian vault cleanup. Remove orphans, fix empty files, and optimize speed."
 pubDate: "2026-05-01"

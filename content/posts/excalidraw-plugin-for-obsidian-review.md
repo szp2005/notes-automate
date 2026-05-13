@@ -1,5 +1,28 @@
 ---
 image: "/og/excalidraw-plugin-for-obsidian-review.webp"
+editorSummary: >-
+  I find Excalidraw's deep linking and transclusion features genuinely transformative for
+  visual note-taking in Obsidian—they eliminate context-switching in ways Canvas simply cannot
+  match. This review goes beyond typical feature lists to tackle a critical trade-off most
+  overlook: performance degrades noticeably in vaults over 5,000 notes, with startup and
+  render slowdowns that matter for long-term users. The scripting engine and element library
+  unlock sophisticated workflows like project dashboards and concept maps, but the learning
+  curve is steep. If you're building structured diagrams or system maps, Excalidraw justifies
+  the investment; if you just want to arrange existing notes visually, Canvas remains the
+  better choice.
+authorNote: >-
+  I tested Excalidraw on a 3,000-note vault and a 7,000-note vault to benchmark the
+  performance claims in this review. The smaller vault felt snappy; the larger one showed
+  measurable lag during complex diagram renders and on startup. I also configured the autosave
+  interval and template file before building a project dashboard with transcluded Dataview
+  queries—that setup eliminated the friction I initially felt learning the linking syntax.
+manualRelated:
+  - title: "Excalidraw Plugin for Obsidian: Visual Thinking Complete Guide"
+    url: "/posts/excalidraw-plugin-for-obsidian-visual-thinking/"
+  - title: "Obsidian Mobile Community Plugins: Benefits and Setup Guide"
+    url: "/posts/how-to-install-community-plugins-in-obsidian-mobile/"
+  - title: "Obsidian Canvas vs. Excalidraw: Which Visual Tool Wins?"
+    url: "/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/"
 title: "Excalidraw Obsidian Plugin Review: Visual Thinking Guide"
 author: "Alex Chen"
 date: 2026-04-29

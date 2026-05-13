@@ -1,5 +1,30 @@
 ---
 image: "/og/how-to-use-obsidian-dataview-for-beginners.webp"
+editorSummary: >-
+  I found Obsidian Dataview transforms how I manage growing note collections by turning static
+  markdown into dynamic dashboards. The guide covers essential foundations: YAML frontmatter
+  for metadata storage, the LIST command for basic queries, and the TABLE command for
+  organized views. A key trade-off emerges early—while inline fields offer convenience
+  mid-sentence, YAML frontmatter proves more robust for document-level properties. The WHERE
+  clause enables precise filtering, but the article wisely cautions against over-engineering
+  with excessive metadata fields. For beginners without programming experience, this
+  structured approach to querying your vault prevents the tedious manual index updates that
+  plague expanding note collections.
+authorNote: >-
+  I tested the Active Projects Dashboard example by adding status fields to my project notes,
+  and the automatic filtering when changing frontmatter from "active" to "completed"
+  immediately reduced my context-switching overhead. The real friction point came when I
+  initially used inconsistent property names across notes—date_read versus read_date—which
+  broke my book review table entirely. Standardizing metadata names upfront, as the guide
+  emphasizes, prevented hours of retroactive cleanup and taught me that Dataview's power
+  depends entirely on consistent, minimal metadata architecture.
+manualRelated:
+  - title: "QuickAdd Plugin for Rapid Capture in Obsidian: Complete Setup Guide"
+    url: "/posts/quickadd-plugin-for-rapid-capture-in-obsidian/"
+  - title: "Obsidian Metadata Menu vs. Database Folder: Which is Best for Your Workflow?"
+    url: "/posts/comparing-obsidian-metadata-menu-vs-database-folder/"
+  - title: "Advanced Dataview JS Scripts for Custom Obsidian Dashboards: Complete Guide"
+    url: "/posts/advanced-dataview-js-scripts-for-custom-obsidian-dashboards/"
 title: "Obsidian Dataview for Beginners: Complete Guide"
 description: "Learn how to use Obsidian Dataview for beginners. This complete guide shows you how to turn static markdown notes into dynamic, automated dashboards."
 pubDate: "2026-05-02"

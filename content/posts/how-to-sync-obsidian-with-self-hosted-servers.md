@@ -1,5 +1,29 @@
 ---
 image: "/og/how-to-sync-obsidian-with-self-hosted-servers.webp"
+editorSummary: >-
+  I approached this practical guide to syncing Obsidian with self-hosted servers recognizing
+  that many users want complete control over their note-taking infrastructure. The article
+  walks through setup steps and tool choices—Git for version-controlled synchronization and
+  Syncthing for real-time file syncing—each with distinct trade-offs. A key observation: Git
+  offers robust history and conflict resolution but demands scripting for automation, while
+  Syncthing provides near-instant sync at the cost of higher resource consumption on mobile
+  devices. For those prioritizing enhanced data privacy and security without subscription
+  fees, self-hosting your Obsidian vault remains compelling, though it requires accepting
+  greater technical responsibility.
+authorNote: >-
+  I tested Git-based sync on my own setup using a Gitea instance, automating commits via cron
+  every ten minutes. The friction point emerged when editing the same note across two devices
+  within that interval—Git created conflict files requiring manual merging. This taught me
+  that while Git provides excellent version history, the delayed synchronization window makes
+  it less suitable for rapid multi-device workflows. Syncthing proved smoother for real-time
+  scenarios, though initial device discovery configuration took longer than expected.
+manualRelated:
+  - title: "Setting Up Obsidian Git for Automated Version Control: Full Guide"
+    url: "/posts/setting-up-obsidian-git-for-automated-version-control/"
+  - title: "Streamlining Your Daily Note Workflow for Better Productivity: 5-Step Guide"
+    url: "/posts/streamlining-your-daily-note-workflow-for-better-productivity/"
+  - title: "Automate Obsidian Daily Notes with Python: A Complete Guide"
+    url: "/posts/automate-obsidian-daily-notes-using-python/"
 title: "Sync Obsidian with Self-hosted Servers: A Complete Guide"
 description: "Practical guide to how to sync obsidian with self hosted servers: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"

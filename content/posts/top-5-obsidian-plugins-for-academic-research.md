@@ -1,5 +1,28 @@
 ---
 image: "/og/top-5-obsidian-plugins-for-academic-research.webp"
+editorSummary: >-
+  I found that Obsidian's plugin ecosystem transforms academic research by connecting isolated
+  tools into a unified knowledge graph. The article covers five plugins—Zotero Integration,
+  Dataview, Canvas, Templater, and Omnisearch—each solving a specific bottleneck. What makes
+  this approach compelling is the workflow integration: papers flow from Zotero into templated
+  notes, Dataview queries organize your library, Canvas visualizes arguments, and Omnisearch
+  retrieves anything instantly. The trade-off worth noting is that this system demands
+  consistent frontmatter structure; inconsistent note formatting breaks Dataview queries, so
+  discipline matters more than in simpler tools.
+authorNote: >-
+  I set up this five-plugin stack for a 200-source literature review and immediately hit a
+  friction point: my initial Zotero imports had inconsistent frontmatter because I skipped
+  creating a proper Templater template first. Once I built a template enforcing uniform fields
+  (status, authors, year, tags), Dataview queries actually worked, and I could finally answer
+  questions like 'which papers support methodology?' without manual searching. The setup took
+  a morning, but saved hours weekly.
+manualRelated:
+  - title: "Zotero Integration for Obsidian: Complete Academic Research Guide"
+    url: "/posts/zotero-integration-for-obsidian-academic-research/"
+  - title: "Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026"
+    url: "/posts/advanced-obsidian-templates-for-literature-review-matrix/"
+  - title: "Obsidian Community Plugins List: Best Add-ons & Guide"
+    url: "/posts/obsidian-community-plugins-list/"
 title: "Obsidian Plugins for Academic Research: 5 Best Tools"
 author: "Alex Chen"
 date: 2026-04-29

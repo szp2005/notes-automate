@@ -1,5 +1,28 @@
 ---
 image: "/og/raindrop-io-integration-for-obsidian-bookmark-management.webp"
+editorSummary: >-
+  I found the Raindrop IO integration for Obsidian bookmark management transforms how
+  researchers bridge web capture and local synthesis. Using the community Raindrop Highlights
+  plugin, you can sync web highlights directly into your vault with customizable templates and
+  selective collection filtering. The critical trade-off involves choosing between overwrite
+  and append modes: overwrite keeps your source notes perfectly synchronized but destroys
+  manual edits in Obsidian, while append preserves your writing but risks formatting drift. I
+  recommend treating synced Raindrop notes as read-only sources and creating separate
+  permanent notes for your own synthesis to protect both data integrity and your thinking.
+authorNote: >-
+  When I first set up this integration, I made the mistake of treating synced Raindrop files
+  as editable notes in Obsidian. After the plugin overwrote my annotations during the next
+  sync, I restructured my workflow: I now keep Raindrop source files read-only and create
+  separate concept notes that link back to them. This separation prevents sync conflicts while
+  maintaining a clean pipeline from web research through highlight capture into my knowledge
+  graph.
+manualRelated:
+  - title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
+    url: "/posts/copilot-for-obsidian-chat-with-your-notes/"
+  - title: "7 Best Obsidian Plugins for Developers and Code Snippets in 2026"
+    url: "/posts/best-obsidian-plugins-for-developers-and-code-snippets/"
+  - title: "Customize Obsidian Sidebar with Commander Plugin Icons: Complete Guide"
+    url: "/posts/customizing-obsidian-sidebar-with-commander-plugin-icons/"
 title: "Raindrop IO Integration for Obsidian Bookmark Management Guide"
 description: "Master the Raindrop IO integration for Obsidian bookmark management. Sync web highlights directly into your local knowledge graph with our complete setup guide."
 pubDate: "2026-05-02"

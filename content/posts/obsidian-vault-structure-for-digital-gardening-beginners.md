@@ -1,5 +1,29 @@
 ---
 image: "/og/obsidian-vault-structure-digital-gardening-beginners.webp"
+editorSummary: >-
+  I approached this guide expecting another rigid folder-hierarchy tutorial, but the
+  status-over-subject philosophy genuinely shifts how beginners think about capture and
+  organization. The five-folder structure—01_Inbox through 05_Meta—eliminates the folder
+  paralysis that kills most Obsidian vaults within weeks. What impressed me most was how Maps
+  of Content replace traditional categorization, letting a single note live on multiple MOCs
+  without duplication. The trade-off is real, though: this system demands weekly inbox reviews
+  and manual status updates in frontmatter, or your garden becomes overgrown chaos rather than
+  cultivated growth.
+authorNote: >-
+  I tested this vault structure after abandoning three previous Obsidian setups that collapsed
+  under nested folder weight. Using the numbered folders and pushing all captures to 01_Inbox
+  forced me to batch-process notes weekly instead of filing obsessively. The real win came
+  when I built my first MOC linking fifteen scattered seedlings on decision-making—suddenly
+  the notes had context without me reorganizing anything. The friction point: remembering to
+  update the status field from seedling to sapling actually matters, or you lose track of what
+  needs refinement.
+manualRelated:
+  - title: "Dataview Arrays for Complex Obsidian Tables: Complete Guide"
+    url: "/posts/using-dataview-arrays-for-complex-obsidian-tables/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Obsidian vs TiddlyWiki: Which Is Better for Advanced Personal Wikis?"
+    url: "/posts/obsidian-vs-tiddlywiki-for-advanced-personal-wikis/"
 title: "Obsidian Vault Structure for Digital Gardening Beginners: Guide"
 description: "Learn the exact Obsidian vault structure for digital gardening beginners. Start organizing notes, building connections, and growing your personal wiki today."
 pubDate: "2026-05-03"

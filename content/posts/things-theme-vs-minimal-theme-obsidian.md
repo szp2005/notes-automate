@@ -1,5 +1,27 @@
 ---
 image: "/og/things-theme-vs-minimal-theme-obsidian.webp"
+editorSummary: >-
+  I evaluated both themes to help readers move beyond Obsidian's default interface. Things
+  Theme arrives fully opinionated with GTD-ready checkbox styling and warm aesthetics, but
+  that rigidity becomes a friction point when you want to iterate on your setup. Minimal Theme
+  offers a near-blank canvas with 100+ Style Settings knobs for granular control over
+  typography and layout. The trade-off is clear: Things wins if you want zero configuration;
+  Minimal dominates if you crave customization. Your workflow, not aesthetics, should drive
+  the decision between them.
+authorNote: >-
+  I tested both themes while building a project management system in Obsidian. Things Theme's
+  custom checkbox states—like [/] for in-progress and [>] for deferred—mapped perfectly to my
+  GTD workflow without touching CSS. But when I wanted to shift the warm palette toward cooler
+  tones seasonally, the lack of a GUI configuration panel forced me into raw CSS editing.
+  That's when I switched to Minimal and discovered Style Settings integration actually solved
+  the problem.
+manualRelated:
+  - title: "Obsidian Habit Tracking: Best Plugins for 2024"
+    url: "/posts/best-obsidian-plugins-for-habit-tracking-2024/"
+  - title: "Excalidraw Obsidian Plugin Review: Visual Thinking Guide"
+    url: "/posts/excalidraw-plugin-for-obsidian-review/"
+  - title: "Best Font Pairings for Obsidian Minimal Theme in 2026"
+    url: "/posts/best-font-pairings-obsidian-minimal-theme-2026/"
 title: "Introduction: Beyond Default - Choosing Your Ideal Obsidian Interface"
 author: "Alex Chen"
 date: 2026-04-29

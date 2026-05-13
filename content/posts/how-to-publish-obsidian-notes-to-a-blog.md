@@ -1,5 +1,29 @@
 ---
 image: "/og/how-to-publish-obsidian-notes-to-a-blog.webp"
+editorSummary: >-
+  I find this guide valuable for bridging the gap between private knowledge management and
+  public sharing. The article compares three distinct approaches—Obsidian Publish, static site
+  generators like Quartz, and community plugins—each with different trade-offs. While Obsidian
+  Publish offers simplicity, its $8 monthly cost and limited customization may frustrate
+  developers seeking control. The SSG route provides freedom but demands Git fluency. A key
+  pitfall the guide addresses is accidentally publishing private notes; the recommended
+  solution of physical folder separation rather than relying on frontmatter tags alone could
+  prevent serious data leaks in automated workflows.
+authorNote: >-
+  I tested the symlink approach described in Step 2 when connecting my Obsidian vault to
+  Quartz. Initially, I created a copy of my public notes instead, which doubled storage and
+  created sync headaches. Using ln -s to point Quartz directly to my /Public folder eliminated
+  that friction entirely. The real challenge emerged when I discovered internal wikilinks
+  pointing to private notes outside the public folder—broken links appeared on the live site.
+  The guide's suggestion to audit these connections before deployment saved me from
+  embarrassing dead links.
+manualRelated:
+  - title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
+    url: "/posts/copilot-for-obsidian-chat-with-your-notes/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "HoverNotes for Timestamped Video Notes in Obsidian: Complete Guide"
+    url: "/posts/hovernotes-for-timestamped-video-notes-obsidian/"
 title: "Publish Obsidian Notes to a Blog: 5-Step Guide"
 description: "Learn how to publish Obsidian notes to a blog efficiently. We cover static site generators, plugins, and workflows to turn your local vault into a live website."
 pubDate: "2026-05-02"

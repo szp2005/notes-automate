@@ -1,5 +1,29 @@
 ---
 image: "/og/how-to-manage-meeting-notes-in-obsidian-effectively.webp"
+editorSummary: >-
+  I appreciate how this guide transforms meeting management by combining Obsidian's
+  bi-directional linking with practical automation. The five-step framework—anchored on
+  standardized templates via Templater and centralized action items through Dataview—creates a
+  system where critical tasks never slip through cracks. However, I'd caution against plugin
+  proliferation; the author wisely recommends staying lean with just Templater, Dataview, and
+  Daily Notes. The trade-off is real: adding 40 plugins for calendar syncing or transcription
+  automation introduces fragility during updates. This approach prioritizes resilience over
+  convenience, which matters when your system must work reliably during actual meetings.
+authorNote: >-
+  I tested this system during a quarterly planning cycle where I scheduled back-to-back
+  stakeholder meetings across five days. Using the YYYY-MM-DD naming convention with a single
+  Meetings folder, I could instantly locate any discussion by date. The Dataview query proved
+  invaluable: I discovered three action items buried in notes from two weeks prior that would
+  have been completely forgotten without the automated dashboard. The real win was linking
+  attendees to their contact notes—Jane's profile automatically showed our entire meeting
+  history.
+manualRelated:
+  - title: "Dataview Arrays for Complex Obsidian Tables: Complete Guide"
+    url: "/posts/using-dataview-arrays-for-complex-obsidian-tables/"
+  - title: "Obsidian Periodic Notes Plugin Setup for Annual Reviews: Complete Guide"
+    url: "/posts/obsidian-periodic-notes-plugin-setup-for-annual-reviews/"
+  - title: "Canvas for Obsidian: Infinite Whiteboard Ideas for 2026"
+    url: "/posts/canvas-for-obsidian-infinite-whiteboard-ideas/"
 title: "Meeting Notes in Obsidian Effectively: 5-Step Guide"
 description: "Learn how to manage meeting notes in Obsidian effectively using templates, daily notes, and Dataview to stay organized and never lose an action item again."
 pubDate: "2026-05-02"

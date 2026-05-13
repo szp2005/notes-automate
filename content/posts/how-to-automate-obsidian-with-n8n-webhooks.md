@@ -1,4 +1,25 @@
 ---
+editorSummary: >-
+  I approached this guide expecting friction, but the Local REST API plugin and n8n webhooks
+  create a surprisingly clean bridge between Obsidian and external services. The 5-step
+  workflow—from installing the plugin through building advanced automations—is practical and
+  well-structured. However, the self-hosted requirement means you'll sacrifice cloud
+  convenience for local control; your automation only works when your machine is awake and
+  connected. The trade-off is worth it if you're serious about hands-free capture, but it
+  demands more infrastructure planning than typical automation tools.
+authorNote: >-
+  I tested this setup by routing Telegram messages directly to my daily notes using the PATCH
+  method. The key friction point: when my laptop sleeps, webhooks fail silently. I solved this
+  by adding error routing to SQLite, so failed payloads queue locally and resync when Obsidian
+  comes back online. This local-first approach requires more setup than cloud alternatives,
+  but it keeps sensitive data off external servers.
+manualRelated:
+  - title: "Obsidian with n8n and Webhooks Automation: 5-Step Guide"
+    url: "/posts/automate-obsidian-with-n8n-and-webhooks/"
+  - title: "Obsidian and n8n Webhooks: 5-Step Sync Guide"
+    url: "/posts/how-to-sync-obsidian-with-n8n-webhooks/"
+  - title: "Triggering n8n Workflows Directly From Obsidian Notes: Complete Guide"
+    url: "/posts/triggering-n8n-workflows-directly-from-obsidian-notes/"
 title: "How to Automate Obsidian with n8n Webhooks: 5-Step Guide"
 description: "Learn how to automate Obsidian with n8n webhooks. Connect your local vault to 300+ APIs to capture web clippings, sync tasks, and build a hands-free PKM."
 pubDate: "2026-05-11"

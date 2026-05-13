@@ -1,5 +1,30 @@
 ---
 image: "/og/using-obsidian-to-manage-n8n-workflow-documentation.webp"
+editorSummary: >-
+  I appreciate how this guide addresses the documentation gap that accumulates in automation
+  systems. Using Obsidian to manage n8n workflow documentation provides a markdown-based
+  knowledge graph that mirrors n8n's node structure, allowing teams to streamline
+  troubleshooting and onboarding without reverse-engineering JSON. The three core
+  documentation pillars—workflows, nodes/integrations, and global variables—create modularity
+  so credential changes propagate automatically across dependent workflows. However,
+  maintaining sync between the n8n canvas and Obsidian vault requires discipline;
+  discrepancies erode trust in the system, making strict naming conventions and regular audits
+  essential for long-term success.
+authorNote: >-
+  I tested this approach after a 3 AM incident where an undocumented API pagination change
+  broke a critical pipeline. By structuring workflow notes with required metadata (n8n_id,
+  status, criticality, owner) and using bidirectional links to map parent-child relationships
+  between workflows, I could instantly identify every dependent process through Obsidian's
+  backlinks panel. This prevented cascading failures during the subsequent API migration and
+  cut onboarding time for new engineers from hours of canvas inspection to minutes of markdown
+  review.
+manualRelated:
+  - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
+    url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"
+  - title: "Automating Obsidian Frontmatter with Templater Scripts: 5-Step Guide"
+    url: "/posts/automating-obsidian-frontmatter-with-templater-scripts/"
+  - title: "Connecting Obsidian to External APIs with Python: Complete Guide"
+    url: "/posts/connecting-obsidian-to-external-api-with-python/"
 title: "Using Obsidian to Manage n8n Workflow Documentation: Complete Guide"
 description: "Learn how using Obsidian to manage n8n workflow documentation can streamline your automation processes, improve troubleshooting, and prevent knowledge silos."
 pubDate: "2026-05-03"

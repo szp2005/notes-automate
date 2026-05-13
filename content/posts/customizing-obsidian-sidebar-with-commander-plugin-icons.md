@@ -1,5 +1,28 @@
 ---
 image: "/og/customizing-obsidian-sidebar-with-commander-plugin-icons.webp"
+editorSummary: >-
+  I find the Commander plugin transforms how I interact with Obsidian by replacing tedious
+  command palette searches with single-click sidebar access. This guide walks through
+  installing Commander, stripping default sidebar clutter, and assigning Lucide icons to your
+  most critical workflows—from daily notes to complex macros. The trade-off worth noting:
+  maintaining visual consistency across icons requires deliberate curation, as mixing detailed
+  graphics with minimalist vectors fragments your interface. Building advanced sidebar
+  workflows with macros and workspace toggles elevates this from simple customization to a
+  genuine productivity multiplier for personal knowledge management.
+authorNote: >-
+  I tested this approach when my vault grew to 200+ notes and command palette searches became
+  a bottleneck. I stripped eight unused default icons, then mapped my QuickAdd macro for
+  project creation and my three primary workspaces (Writing, Research, Admin) to distinct
+  icons. The result: my daily friction dropped significantly. One pitfall I
+  discovered—assigning too many icons (I tried 18) created a scrollbar on my laptop screen,
+  defeating the purpose of instant visual recognition.
+manualRelated:
+  - title: "Automating Your Task Management With Obsidian Tasks Plugin: Guide"
+    url: "/posts/automating-your-task-management-with-obsidian-tasks-plugin/"
+  - title: "Minimal Theme for Obsidian Customization Tips: Complete Guide"
+    url: "/posts/minimal-theme-for-obsidian-customization-tips/"
+  - title: "Periodic Notes Plugin Complete Guide: Mastering Weekly Reviews"
+    url: "/posts/periodic-notes-plugin-weekly-reviews/"
 title: "Customize Obsidian Sidebar with Commander Plugin Icons: Complete Guide"
 description: "Learn how customizing your Obsidian sidebar with Commander plugin icons can streamline your workflow. Discover setup steps, custom icons, and layout tips."
 pubDate: "2026-05-03"

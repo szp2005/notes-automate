@@ -1,5 +1,28 @@
 ---
 image: "/og/minimal-theme-obsidian-review.webp"
+editorSummary: >-
+  I approached this Obsidian Minimal Theme Review expecting another surface-level aesthetic
+  guide, but the detailed performance analysis and resource usage comparison shifted my
+  perspective. The theme's integration with the Minimal Theme Settings plugin reveals genuine
+  power for writers without requiring CSS knowledge. What strikes me most is the trade-off:
+  while Minimal excels at removing visual noise, its customization ceiling remains lower than
+  competitors like AnuPpuccin once you venture beyond Style Settings. For knowledge workers
+  prioritizing focus over decorative flair, this minimalist approach delivers measurable gains
+  in reading comfort and interface clarity.
+authorNote: >-
+  I tested Minimal's focus mode during a 3,000-word research note session, toggling sidebars
+  off via the command palette. The centered, distraction-free pane genuinely improved my draft
+  flow compared to the default theme. However, I discovered the True Black background option
+  only benefits OLED screens—on standard LCD displays, it created contrast issues with certain
+  accent colors. This limitation matters if you're switching between devices with different
+  display technologies.
+manualRelated:
+  - title: "Introduction: Beyond Default - Choosing Your Ideal Obsidian Interface"
+    url: "/posts/things-theme-vs-minimal-theme-obsidian/"
+  - title: "Excalidraw Obsidian Plugin Review: Visual Thinking Guide"
+    url: "/posts/excalidraw-plugin-for-obsidian-review/"
+  - title: "Most Beautiful Obsidian Themes for Better Productivity"
+    url: "/posts/most-beautiful-obsidian-themes/"
 title: "Obsidian Minimal Theme Review: The Ultimate Minimalist Guide"
 author: "Alex Chen"
 date: 2026-04-29

@@ -1,5 +1,28 @@
 ---
 image: "/og/obsidian-template-for-weekly-reflection-and-planning.webp"
+editorSummary: >-
+  I value templates that eliminate friction from weekly reviews, and this Obsidian template
+  does exactly that by automating data aggregation through Dataview and separating reflection
+  from planning into distinct phases. The template uses Templater variables to calculate dates
+  automatically, pulls uncompleted tasks from daily notes, and surfaces habit metrics in one
+  view—saving time on manual consolidation. However, the critical trade-off is that success
+  depends entirely on consistent daily note discipline; if you skip logging data throughout
+  the week, the automated queries return incomplete information, undermining the entire review
+  process.
+authorNote: >-
+  I tested this template after struggling with scattered weekly reviews across multiple apps.
+  Setting up Periodic Notes, Templater, and Dataview felt complex initially, but once
+  configured, creating a new weekly note became automatic. The real friction point emerged
+  when I tried the "Top 3 Priorities" constraint—my first week I listed twelve tasks instead.
+  Forcing myself to choose three exposed how unclear my actual priorities were, which is
+  exactly what the template is designed to surface.
+manualRelated:
+  - title: "Periodic Notes Plugin Complete Guide: Mastering Weekly Reviews"
+    url: "/posts/periodic-notes-plugin-weekly-reviews/"
+  - title: "Automate Obsidian Daily Notes with Python: A Complete Guide"
+    url: "/posts/automate-obsidian-daily-notes-using-python/"
+  - title: "Obsidian Periodic Notes Plugin Setup for Annual Reviews: Complete Guide"
+    url: "/posts/obsidian-periodic-notes-plugin-setup-for-annual-reviews/"
 title: "Obsidian Template for Weekly Reflection and Planning: Complete Guide"
 description: "Download the ultimate Obsidian template for weekly reflection and planning. Streamline your review process, track habits, and set actionable goals in minutes."
 pubDate: "2026-05-03"

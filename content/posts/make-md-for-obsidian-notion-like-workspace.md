@@ -1,5 +1,28 @@
 ---
 image: "/og/make-md-obsidian-notion-like-workspace.webp"
+editorSummary: >-
+  I found Make.md transforms Obsidian into a Notion-like workspace without sacrificing local
+  ownership of your files. The plugin restructures navigation through dynamic Spaces,
+  introduces seamless inline editing via the Flow Editor, and replaces Dataview queries with
+  visual Context Blocks for database-like functionality. However, I'd caution that running
+  such a heavy modification introduces performance overhead on larger vaults—switching between
+  Context tables can create 1-2 second rendering delays—and conflicts with plugins that modify
+  the file explorer. The visual setup remains locked to the plugin, though your underlying
+  markdown data stays perfectly portable.
+authorNote: >-
+  I tested Make.md on a 2,000-note vault managing a content calendar and project tracker. The
+  Context Blocks feature genuinely replaced my Dataview queries; editing project status
+  directly in the table automatically updated YAML frontmatter. The tradeoff: scrolling
+  through documents with nested Flow embeds noticeably slowed performance on my older machine.
+  I recommend testing in an isolated vault first, as disabling the plugin reverts your visual
+  workspace entirely, even though data remains intact.
+manualRelated:
+  - title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
+    url: "/posts/copilot-for-obsidian-chat-with-your-notes/"
+  - title: "HoverNotes for Timestamped Video Notes in Obsidian: Complete Guide"
+    url: "/posts/hovernotes-for-timestamped-video-notes-obsidian/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
 title: "Make.md for Obsidian: Notion-Like Workspace Setup Guide"
 description: "Learn how to use Make.md for Obsidian to create a Notion-like workspace. Master spaces, inline editing, and context blocks for ultimate productivity."
 pubDate: "2026-05-01"

@@ -1,5 +1,29 @@
 ---
 image: "/og/understanding-the-difference-between-folders-and-tags-obsidian.webp"
+editorSummary: >-
+  I approached this article to understand how folders and tags serve different purposes in
+  Obsidian's personal knowledge management system. The key insight is the rigid hierarchy and
+  exclusivity of folders versus the flexible, multi-contextual grouping that tags enable. The
+  article introduces the "Broad Folders, Specific Tags" method as a practical balance, though
+  I noticed a critical trade-off: deep folder structures create navigation friction during
+  capture, while tag bloat with hundreds of hyper-specific tags silently fractures your vault
+  through misspellings and inconsistency. Mastering the difference between folders and tags in
+  Obsidian requires resisting the temptation to solve everything with either system alone.
+authorNote: >-
+  I tested the "Broad Folders, Specific Tags" method when reorganizing a sprawling vault of
+  meeting notes and project files. I created shallow folders like /Projects and /Resources,
+  then applied nested tags like #status/in-progress and #person/client-name. The friction
+  disappeared—notes went into broad folders instantly without decision paralysis, yet I could
+  still aggregate across the vault by status or person. The real challenge emerged when I
+  discovered misspelled tags like #acton-item buried in old notes, invisible until I searched
+  deliberately.
+manualRelated:
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Streamlining Your Daily Note Workflow for Better Productivity: 5-Step Guide"
+    url: "/posts/streamlining-your-daily-note-workflow-for-better-productivity/"
+  - title: "Comparing Obsidian Git vs iCloud for Vault Syncing in 2026"
+    url: "/posts/comparing-obsidian-git-vs-icloud-for-vault-syncing/"
 title: "Understanding the Difference Between Folders and Tags Obsidian Guide"
 description: "Master your PKM system by understanding the difference between folders and tags in Obsidian. Learn when to use each for optimal note retrieval and organization."
 pubDate: "2026-05-02"

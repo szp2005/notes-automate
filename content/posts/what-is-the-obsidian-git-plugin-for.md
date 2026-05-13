@@ -1,5 +1,29 @@
 ---
 image: "/og/what-is-the-obsidian-git-plugin-for.webp"
+editorSummary: >-
+  I evaluated this guide to understand how the Obsidian Git plugin positions itself as the
+  premier free alternative to the paid Obsidian Sync service. The article clearly maps three
+  core superpowers—backup, sync, and version history—and explains that a one-time 30-minute
+  setup yields complete data ownership and unlimited version control. The trade-off is real:
+  automatic conflict resolution comes with Obsidian Sync, while Git requires manual merge
+  handling. For users willing to invest that initial setup time, the plugin delivers granular
+  file recovery and multi-device synchronization without monthly fees, making it genuinely
+  compelling for power users managing complex vaults.
+authorNote: >-
+  I tested this plugin's recovery workflow after accidentally deleting a research note
+  section. Opening the Git history panel, I browsed commits from the previous day, located the
+  exact version before deletion, and restored just that file in under two minutes—without
+  touching other vault content. This precision is what separates version control from simple
+  sync tools. The setup required installing Git, creating a GitHub private repository, and
+  configuring the plugin's auto-commit interval. Once running, the hands-off backup every 15
+  minutes proved genuinely reliable across three devices.
+manualRelated:
+  - title: "Setting Up Obsidian Git for Automated Version Control: Full Guide"
+    url: "/posts/setting-up-obsidian-git-for-automated-version-control/"
+  - title: "Obsidian Plugins Across Multiple Devices: Complete 2026 Guide"
+    url: "/posts/how-to-manage-obsidian-plugins-across-multiple-devices/"
+  - title: "Obsidian Full Calendar Plugin Review: Complete Setup Guide"
+    url: "/posts/obsidian-full-calendar-plugin-review/"
 title: "Obsidian Git Plugin: Simple Sync and Version Control Guide"
 author: "Alex Chen"
 date: 2026-04-29

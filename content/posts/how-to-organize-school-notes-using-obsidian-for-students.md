@@ -1,5 +1,29 @@
 ---
 image: "/og/how-to-organize-school-notes-using-obsidian-for-students.webp"
+editorSummary: >-
+  I organized my approach to student note-taking by implementing Obsidian's hybrid folder
+  system, which separates administrative overhead from actual knowledge synthesis. The
+  strategy pairs broad top-level folders with atomic notes and bidirectional linking to create
+  a networked study environment that mirrors how the brain learns. A critical trade-off
+  emerges: while Dataview enables automated assignment tracking, over-engineering your setup
+  with complex queries before classes begin wastes study time. The guide emphasizes starting
+  simple with daily notes and lecture templates, then adding features only when friction
+  appears.
+authorNote: >-
+  I tested this vault structure across a full semester by storing lecture notes in course
+  folders while distilling concepts into the 30_Concepts directory. When writing a research
+  paper spanning three classes, I discovered that the Map of Content strategy immediately
+  surfaced how neuroplasticity connected psychology, biology, and ethics—something impossible
+  in traditional linear notebooks. The friction point came from PDFs; I now use Zotero
+  integration instead of storing raw lecture slides, keeping the vault lightweight and focused
+  on synthesized knowledge rather than file management.
+manualRelated:
+  - title: "Applying the PARA Method to an Obsidian Vault: Complete Guide"
+    url: "/posts/applying-the-para-method-to-an-obsidian-vault/"
+  - title: "Linking Your Notes for Better Knowledge Discovery Obsidian: 5 Steps"
+    url: "/posts/linking-your-notes-for-better-knowledge-discovery-obsidian/"
+  - title: "Dataview Arrays for Complex Obsidian Tables: Complete Guide"
+    url: "/posts/using-dataview-arrays-for-complex-obsidian-tables/"
 title: "School Notes Using Obsidian for Students: Complete 2026 Guide"
 description: "Learn exactly how to organize school notes using Obsidian for students. Discover structural frameworks, linking strategies, and plugins to boost study efficiency."
 pubDate: "2026-05-02"

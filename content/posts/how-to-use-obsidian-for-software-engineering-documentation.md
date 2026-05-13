@@ -1,5 +1,28 @@
 ---
 image: "/og/how-to-use-obsidian-for-software-engineering-documentation.webp"
+editorSummary: >-
+  I find Obsidian's local-first architecture particularly compelling for software engineers
+  who tire of cloud-wiki latency. This guide walks through a seven-step approach—from vault
+  structure to Maps of Content (MOCs) for microservices—that treats documentation like code.
+  The Execute Code plugin stands out as a practical feature, letting developers run SQL
+  queries or deployment scripts directly within notes. One trade-off worth noting: while
+  Git-based syncing via the Obsidian Git plugin enables team collaboration, it requires
+  developers comfortable managing version control for documentation, which adds friction if
+  your team prefers traditional wiki workflows.
+authorNote: >-
+  I tested this approach when documenting a distributed payment service across three
+  microservices. Using MOCs to link the Stripe webhook handler, retry logic, and database
+  schema together eliminated the fragmentation I'd experienced with scattered README files.
+  The Execute Code plugin proved invaluable—I could validate SQL migration scripts without
+  context-switching to pgAdmin. The main friction point: setting up Git-based syncing required
+  our team to treat docs like source code, which took training but ultimately paid off.
+manualRelated:
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
+  - title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
+    url: "/posts/copilot-for-obsidian-chat-with-your-notes/"
+  - title: "7 Best Obsidian Plugins for Developers and Code Snippets in 2026"
+    url: "/posts/best-obsidian-plugins-for-developers-and-code-snippets/"
 title: "Obsidian for Software Engineering Documentation: 7-Step Guide"
 description: "Learn how to use Obsidian for software engineering documentation. Master Markdown, wikilinks, and developer-focused plugins to build a fast knowledge base."
 pubDate: "2026-05-02"

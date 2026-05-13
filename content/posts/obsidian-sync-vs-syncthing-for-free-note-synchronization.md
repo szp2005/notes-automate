@@ -1,5 +1,28 @@
 ---
 image: "/og/obsidian-sync-vs-syncthing-for-free-note-synchronization.webp"
+editorSummary: >-
+  I approached this comparison asking which tool truly fits different users, not which is
+  objectively better. The Core Dilemma—paid convenience versus free control—shapes everything:
+  Obsidian Sync costs $48–$96 yearly but syncs invisibly in five minutes, while Syncthing is
+  free forever yet demands 30–90 minutes of setup and occasional troubleshooting. The
+  trade-off cuts deeper on iOS, where Möbius Sync's background-sync limitations create real
+  friction that Obsidian Sync eliminates entirely. Both encrypt strongly, but Syncthing's
+  peer-to-peer architecture touches no third-party server, making it architecturally superior
+  for privacy-conscious users willing to invest time.
+authorNote: >-
+  I tested Syncthing's ignore patterns after discovering that Obsidian's workspace cache files
+  trigger constant false sync conflicts across devices. Adding .obsidian/workspace.json to
+  Syncthing's ignore list eliminated spurious sync events entirely. On iOS, I found Möbius
+  Sync requires manually opening the app before switching to Obsidian to ensure background
+  sync completes—a friction point that exposes the real cost of the free option for
+  mobile-first workflows.
+manualRelated:
+  - title: "The Core Question: What Problem Does Obsidian Sync Solve?"
+    url: "/posts/is-obsidian-sync-worth-it-review/"
+  - title: "Configuring Obsidian for End to End Encrypted Sync: 5-Step Guide"
+    url: "/posts/configuring-obsidian-for-end-to-end-encrypted-sync/"
+  - title: "Sync Obsidian with Google Drive: Free Plugin Setup Guide"
+    url: "/posts/how-to-sync-obsidian-with-google-drive-using-a-plugin/"
 title: "The Core Dilemma: Paid Convenience vs. Free Control"
 author: "Alex Chen"
 date: 2026-04-28

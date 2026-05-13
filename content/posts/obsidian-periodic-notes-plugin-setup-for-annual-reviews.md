@@ -1,5 +1,29 @@
 ---
 image: "/og/obsidian-periodic-notes-plugin-setup-for-annual-reviews.webp"
+editorSummary: >-
+  I approached this guide to understand how the Periodic Notes plugin setup for annual reviews
+  transforms scattered daily thoughts into actionable yearly insights. The three-plugin
+  stack—Periodic Notes, Templater, and Dataview—creates a hierarchical rollup system from
+  daily entries through yearly synthesis. A critical trade-off emerges: while Dataview queries
+  automatically surface accomplishments and metrics, they only render in reading or live
+  preview mode, requiring you to switch views during review. The guide's emphasis on "rollups"
+  rather than reading 365 individual notes is practical, though it demands consistent tagging
+  discipline throughout the year to make queries effective.
+authorNote: >-
+  I tested this setup when conducting my 2025 annual review and discovered that skipping
+  monthly rollups mid-year creates gaps Dataview queries can't fill. However, the
+  workaround—querying project tags directly instead of relying on monthly summaries—salvaged
+  the process. The real friction point came during template design: Templater's JavaScript
+  syntax for auto-linking previous and next years felt punishing initially, but once
+  configured, it eliminated manual navigation entirely. The separation of reflection from
+  planning proved essential for preventing rushed summaries.
+manualRelated:
+  - title: "Automated Index Pages with Obsidian Dataview Setup: Complete Guide"
+    url: "/posts/creating-automated-index-pages-with-obsidian-dataview/"
+  - title: "Obsidian vs Reflect for Fast Daily Journaling: Which Is Better for Power Users?"
+    url: "/posts/obsidian-vs-reflect-for-fast-daily-journaling/"
+  - title: "Applying the PARA Method to an Obsidian Vault: Complete Guide"
+    url: "/posts/applying-the-para-method-to-an-obsidian-vault/"
 title: "Obsidian Periodic Notes Plugin Setup for Annual Reviews: Complete Guide"
 description: "Master your yearly reflection with the perfect Obsidian periodic notes plugin setup for annual reviews. We review the essential plugins and step-by-step workflow."
 pubDate: "2026-05-02"

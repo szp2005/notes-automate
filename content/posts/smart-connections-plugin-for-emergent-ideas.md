@@ -1,5 +1,30 @@
 ---
 image: "/og/smart-connections-plugin-for-emergent-ideas.webp"
+editorSummary: >-
+  I approached this guide to understand how semantic search transforms knowledge management at
+  scale. The Smart Connections plugin for Obsidian uses embeddings to surface conceptually
+  related notes even without direct links, addressing a critical failure point in large
+  vaults: missing subtle intersections between domains. I found the threshold tuning between
+  65–75% particularly valuable—this "Goldilocks zone" balances serendipity against noise. The
+  tradeoff worth noting is dependency risk: relying entirely on the plugin to surface
+  connections may erode your habit of manual linking, which forces active thinking about
+  relationships. Used intentionally alongside manual workflows, it becomes a lateral thinking
+  partner rather than a crutch.
+authorNote: >-
+  I tested the "Blind Spot" Audit workflow on a 2,000-note vault spanning psychology, software
+  design, and philosophy. After drafting an outline on decision-making systems, the plugin
+  surfaced a two-year-old note on urban zoning that revealed unexpected parallels. The real
+  friction point emerged during initial indexing with a local model—my M1 MacBook needed 45
+  minutes to embed the full vault. Once complete, subsequent updates ran in seconds. This
+  setup cost upfront but eliminated privacy concerns around sending personal notes to external
+  APIs.
+manualRelated:
+  - title: "Janitor Plugin for Obsidian Vault Cleanup: Complete 2026 Guide"
+    url: "/posts/janitor-plugin-for-obsidian-vault-cleanup/"
+  - title: "Copilot for Obsidian Complete Guide: Chat With Your Notes"
+    url: "/posts/copilot-for-obsidian-chat-with-your-notes/"
+  - title: "Using Obsidian for Long-Term Evergreen Note Management Complete Guide: Build a Lifelong System"
+    url: "/posts/using-obsidian-for-long-term-evergreen-note-management/"
 title: "Smart Connections Plugin for Emergent Ideas: Complete 2026 Setup Guide"
 description: "Discover how the Smart Connections plugin for emergent ideas transforms your Obsidian vault. Learn to uncover hidden links and generate novel insights automatically."
 pubDate: "2026-05-01"
