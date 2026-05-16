@@ -27,7 +27,7 @@ title: "Obsidian Minimal 主题评测：终极极简主义指南"
 author: "Alex Chen"
 date: 2026-04-29
 slug: minimal-theme-obsidian-review
-description: "提供详细的性能分析，包括启用该主题与默认主题相比的启动时间和资源占用情况。"
+description: "深入评测 Obsidian Minimal 主题：提供详细的性能分析，对比默认主题的启动时间与资源占用，并分享如何通过 Minimal Theme Settings 打造极致专注的写作环境。"
 keywords: ["obsidian minimal theme settings", "kepano obsidian theme", "best obsidian themes for writing", "obsidian style settings plugin", "clean obsidian setup", "obsidian customization css", "minimal theme obsidian tutorial", "obsidian focus mode"]
 draft: false
 type: "informational"
@@ -36,7 +36,7 @@ tags: ["obsidian", "minimal theme", "theme review", "customization"]
 
 # Obsidian Minimal 主题评测 (2024)：你的第二大脑的最佳纯净界面？
 
-**太长不看 (TL;DR)**
+**快速解答 (TL;DR)**
 - Minimal 是一款由 Kepano 开发的免费且持续维护的 Obsidian 主题，它去除了视觉噪音而没有削减功能——开箱即用，它在专注写作方面已经击败了大多数[主题](/zh-cn/posts/best-obsidian-themes-for-high-contrast-accessibility-2026/)。
 - 结合 Style Settings 和 Minimal Theme Settings [插件](/zh-cn/posts/periodic-notes-plugin-weekly-reviews/)，你可以在不碰一行 CSS 代码的情况下，对排版、颜色和布局进行细粒度的控制。
 - 它加载快，且始终保持流畅，非常适合作家、学者和 PKM 深度用户——但如果你想要装饰性元素或动漫风格的审美，请另寻他处。

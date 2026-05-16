@@ -24,7 +24,7 @@ tags: ["obsidian", "project management", "projects plugin", "workflow"]
 
 # Obsidian Projects 插件：终极测评、设置指南与高级用户[模板](/zh-cn/posts/advanced-obsidian-templates-for-literature-review-matrix/) (2024)
 
-> **核心摘要**
+> **快速解答**
 > - Obsidian Projects 插件能将任何笔记文件夹转化为包含表格（Table）、看板（Board）、日历（Calendar）和画廊（Gallery）视图的可视化仪表板——无需编写任何代码。
 > - 在可视化[项目管理](/zh-cn/posts/obsidian-project-management-academic-research-teams/)的设置上，它比 [Dataview](/zh-cn/posts/creating-automated-index-pages-with-obsidian-dataview/) 更快捷，但在复杂查询的灵活性上稍显不足；这两种工具能够完美互补。
 > - 本指南包含三个可直接复制粘贴的项目模板，一个 [Templater](/zh-cn/posts/templater-plugin-tutorial-for-obsidian-power-users/) + QuickAdd 的集成演练，以及针对最常见设置失败情况的故障排除部分。

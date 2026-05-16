@@ -22,7 +22,7 @@ type: "informational"
 
 # Obsidian Longform 插件：长篇文稿写作完整指南
 
-> **核心观点：** Longform 插件将 Obsidian 从一个标准的[笔记环境](/zh-cn/posts/streamlining-your-daily-note-workflow-for-better-productivity/)改造为类似于 Scrivener 的结构化手稿编辑器。它允许作家将各个 Markdown 文件组织成有序的场景和章节，通过拖拽式侧边栏进行排列，并将它们编译成单一连贯的手稿文件，而无需改变核心 vault 的层级结构。
+> **快速解答：** Longform 插件将 Obsidian 从一个标准的[笔记环境](/zh-cn/posts/streamlining-your-daily-note-workflow-for-better-productivity/)改造为类似于 Scrivener 的结构化手稿编辑器。它允许作家将各个 Markdown 文件组织成有序的场景和章节，通过拖拽式侧边栏进行排列，并将它们编译成单一连贯的手稿文件，而无需改变核心 vault 的层级结构。
 
 在标准的 Markdown 应用程序中撰写书籍、论文或长篇随笔，往往会退化成一个杂乱无章、装满零散文本文件的文件夹。虽然像 Scrivener 或 Ulysses 这样专门的[写作软件](/zh-cn/posts/obsidian-vs-scrivenir-for-long-form-writing/)能够完美处理复杂的文档结构，但许多作家更青睐 Obsidian 的[隐私性](/zh-cn/posts/configuring-obsidian-for-end-to-end-encrypted-sync/)、速度以及双向链接功能。当你试图将 80 个不同的场景文件排序成一个线性的叙事结构时，摩擦就产生了。
 
