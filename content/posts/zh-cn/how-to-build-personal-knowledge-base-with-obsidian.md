@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-build-personal-knowledge-base-with-obsidian.webp"
 title: "Obsidian 个人知识库搭建：5步指南"
 description: "通过我们的 5 步框架，学习如何使用 Obsidian 搭建个人知识库。探索如何利用文件夹、标签和链接来高效地组织你的想法。"

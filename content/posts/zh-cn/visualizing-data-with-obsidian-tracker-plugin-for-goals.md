@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/visualizing-data-with-obsidian-tracker-plugin-for-goals.webp"
 editorSummary: >-
   Obsidian Tracker 插件的目标追踪需要三种核心数据格式化方法——YAML frontmatter、内联 Dataview 字段和纯文本标签——以便从你的日常笔记中提取数值并生成可视化图表。我发现，将标准化模板与专用仪表板笔记结合使用，可以防止性能卡顿并确保数据聚合的一致性。折线图非常适合“阅读页数”等连续指标，而习惯日历则擅长使用“不要断链（Don't Break the Chain）”方法进行二元追踪。一个关键的权衡点是：笔记标题与插件设置之间的日期格式不匹配会悄无声息地破坏按时间顺序的图表绘制，因此提前验证这种一致性可以节省后续调试的时间。

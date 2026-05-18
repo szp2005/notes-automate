@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/things-theme-vs-minimal-theme-obsidian.webp"
 editorSummary: >-
   我评估了这两款主题，以帮助读者摆脱 Obsidian 的默认界面。Things 主题主张明确，带有为 GTD 量身定制的复选框样式和温暖的美学风格，但当你想要迭代你的设置时，这种僵化就会成为一个摩擦点。Minimal 主题则提供了一个几乎空白的画布，拥有 100 多个 Style Settings 调节旋钮，可对排版和布局进行精细控制。权衡很明显：如果你想要零配置，Things 胜出；如果你渴望自定义，Minimal 则占据主导。你的工作流，而不是美学，应该成为你在两者之间做出决定的驱动力。

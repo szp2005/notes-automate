@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/best-n8n-templates-for-obsidian-vault-automation.webp"
 title: "2026年用于Obsidian Vault自动化的最佳n8n模板"
 description: "探索用于Obsidian vault自动化的最佳n8n模板。简化您的PKM工作流，同步数据源，并轻松实现笔记创建的自动化。"

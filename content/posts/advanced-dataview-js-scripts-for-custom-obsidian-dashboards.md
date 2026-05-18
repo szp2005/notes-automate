@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:30:38+08:00
 image: "/og/advanced-dataview-js-scripts-for-custom-obsidian-dashboards.webp"
 editorSummary: >-
   I found that moving from standard DQL to DataviewJS is the only way to build a reactive

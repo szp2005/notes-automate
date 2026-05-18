@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 title: "如何使用 n8n Webhooks 自动化 Obsidian：5 步指南"
 description: "了解如何使用 n8n Webhooks 自动化 Obsidian。将本地知识库连接到 300 多个 API，以捕获网页剪报、同步任务，并构建自动化的 PKM。"
 pubDate: "2026-05-11"

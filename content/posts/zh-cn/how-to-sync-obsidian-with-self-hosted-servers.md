@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-sync-obsidian-with-self-hosted-servers.webp"
 title: "如何将 Obsidian 与自托管服务器同步：完整指南"
 description: "有关如何将 Obsidian 与自托管服务器同步的实用指南：设置步骤、工具选择、风险以及构建可靠工作流的检查。"

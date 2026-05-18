@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T21:17:39+08:00
 image: "/og/obsidian-sync-vs-syncthing-for-free-note-synchronization.webp"
 title: "核心困境：付费的便利性与免费的控制权"
 author: "Alex Chen"

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/most-beautiful-obsidian-themes.webp"
 editorSummary: >-
   Most Beautiful Obsidian Themes for Better Productivity breaks down the community's best

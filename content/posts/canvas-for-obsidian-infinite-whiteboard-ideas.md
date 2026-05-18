@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T23:18:08+08:00
 image: "/og/canvas-for-obsidian-infinite-whiteboard-ideas.webp"
 editorSummary: >-
   Moving from linear lists to a spatial environment fundamentally changed how I process

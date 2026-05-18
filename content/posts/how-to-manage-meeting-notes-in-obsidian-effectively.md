@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T13:31:24+08:00
 image: "/og/how-to-manage-meeting-notes-in-obsidian-effectively.webp"
 editorSummary: >-
   Meeting Notes Obsidian Effectively relies on three core plugins—Templater, Dataview, and

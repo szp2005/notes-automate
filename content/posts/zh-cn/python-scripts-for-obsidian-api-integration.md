@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/python-scripts-for-obsidian-api-integration.webp"
 editorSummary: >-
   使用 Python 的 requests 库编写 Obsidian API 集成脚本，通过以编程方式自动化 Vault 操作，能够释放个人知识管理的全部潜力。我发现 Local REST API 插件将 Obsidian 从静态存储库转变为动态系统——无需人工操作即可实现批量的 Frontmatter 标准化、外部数据同步和元数据标记。当然这也是有代价的：虽然自动化消除了数小时的繁琐工作，但在使用 PUT 请求时，哪怕是一个脚本错误，都可能在几秒钟内覆盖数百条笔记。了解 Local REST API 的工作原理、正确配置身份验证以及在请求之间实施速率限制，是我建议你在扩展自动化之前应采取的必要保护措施。

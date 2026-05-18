@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-templater-plugin-tutorial-for-daily-notes.webp"
 editorSummary: >-
   插件教程的每日笔记自动化依赖于 Templater 在文件创建时运行 JavaScript 的能力——这是核心的 Templates 插件根本无法做到的。我发现，像 tp.date.now() 和 tp.file.title 这样的动态命令，将静态模板转换成了可以自动提取实时日期、Dataview 任务列表和外部 API 数据的活动文档。可下载的包含初级、中级和高级模板的“每日笔记入门包”让你无需经历学习曲线，在 20 分钟内即可实现一套可用的系统。代价是中等程度的学习曲线；然而，一旦你掌握了模板语法和 User Functions，它的回报每天都在复利增长。

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T06:56:48+08:00
 image: "/og/best-note-taking-apps-for-zettelkasten-methodology-2026.webp"
 title: "2026年适合Zettelkasten（卡片盒笔记法）的最佳笔记软件"
 description: "探索2026年适合Zettelkasten（卡片盒笔记法）的最佳笔记软件。比较顶级工具，构建强大的个人知识管理系统。"

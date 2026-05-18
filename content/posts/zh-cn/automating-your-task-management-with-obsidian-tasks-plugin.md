@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/automating-your-task-management-with-obsidian-tasks-plugin.webp"
 title: "使用 Obsidian Tasks 插件自动化你的任务管理：指南"
 description: "了解如何使用 Obsidian Tasks 插件自动化你的任务管理，从而简化工作流、组织项目并提高日常生产力。"

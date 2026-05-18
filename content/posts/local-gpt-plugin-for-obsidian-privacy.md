@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:50:34+08:00
 image: "/og/local-gpt-plugin-for-obsidian-privacy.webp"
 editorSummary: >-
   Gpt Plugin Obsidian Privacy protects your personal knowledge base by running language models

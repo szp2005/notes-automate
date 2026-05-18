@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-vs-reflect-for-fast-daily-journaling.webp"
 editorSummary: >-
   Reflect 快速每日日记在通过原生 Whisper 语音转录和日历集成实现零摩擦记录方面表现出色，而 Obsidian 需要配置，但为高级用户提供了完全的离线隐私和插件自定义作为回报。我在这两款工具之间权衡了每日日记的核心矛盾：速度与控制。Reflect 固执己见的界面消除了配置开销，使其非常适合管理会议和快速想法的专业人士。Obsidian 的本地优先 Markdown 架构确保你的日记永远属于你，尽管在大量使用插件的情况下移动端性能可能会有所滞后。这里的关键权衡是持续订阅成本与终身所有权——Reflect 每月收费 10 美元，而 Obsidian 保持免费。你的选择取决于你是优先考虑即时的记录速度，还是长期的数据自主权。

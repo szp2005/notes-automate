@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/tag-wrangler-for-bulk-tag-management-obsidian.webp"
 editorSummary: >-
   在 Obsidian 中进行批量标签管理需要专用的插件，因为原生的标签处理方式会导致元数据碎片化——你的库中会散布着 #machine-learning、#machine_learning 和 #ml。Tag Wrangler 巧妙地解决了这个问题，它通过右键上下文菜单与 Obsidian 的原生标签面板整合，允许你在整个库中重命名、合并和删除标签，而不会破坏链接。代价是有效的标签管理需要预先定义分类法和定期的维护习惯；如果没有清晰的命名约定，批量操作可能会放大不一致性，而不是修复它们。我发现安排季度的库审查——扫描复数形式、大小写不一致和冗余标签——能让你的知识库在规模扩大时保持可搜索性和可用性。

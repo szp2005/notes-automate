@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/obsidian-sync-vs-syncthing-for-free-note-synchronization.webp"
 editorSummary: >-
   I approached this comparison asking which tool truly fits different users, not which is

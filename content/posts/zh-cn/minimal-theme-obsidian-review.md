@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/minimal-theme-obsidian-review.webp"
 editorSummary: >-
   I approached this Obsidian Minimal Theme Review expecting another surface-level aesthetic

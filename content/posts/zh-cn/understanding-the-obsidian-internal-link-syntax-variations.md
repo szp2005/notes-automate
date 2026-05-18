@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/understanding-the-obsidian-internal-link-syntax-variations.webp"
 editorSummary: >-
   我发现，掌握 Obsidian 内部链接语法的变体——从基础的 wikilinks 到精确到标题和块的链接——将彻底改变你构建知识图谱的方式。本文涵盖了使用 [[Page Name#Header]] 进行定向导航以及使用 ! 前缀嵌入内容等核心技巧，让你无需重复输入文本即可创建动态仪表盘。需要注意的一个权衡是：虽然 wikilinks 提供了速度和模糊搜索的便利，但如果你计划将 vault 发布到其他地方，标准 markdown 链接则能提供更好的可移植性。理解这些语法变体，是将一个功能齐全、相互关联的数据库与一个杂乱无章的孤立文件夹区分开来的关键。

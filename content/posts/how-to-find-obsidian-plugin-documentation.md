@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/how-to-find-obsidian-plugin-documentation.webp"
 editorSummary: >-
   Find Obsidian Plugin Documentation using the Community Plugins browser—it's the fastest path

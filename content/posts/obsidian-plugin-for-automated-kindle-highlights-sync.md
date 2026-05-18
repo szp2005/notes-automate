@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:23:12+08:00
 image: "/og/obsidian-plugin-for-automated-kindle-highlights-sync.webp"
 editorSummary: >-
   I find this practical guide to Obsidian plugin for automated Kindle highlights sync

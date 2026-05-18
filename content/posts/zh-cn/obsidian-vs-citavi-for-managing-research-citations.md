@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-vs-citavi-for-managing-research-citations.webp"
 editorSummary: >-
   Citavi 作为一个专为学术工作流打造的解决方案脱颖而出，而 Obsidian 则需要大量的插件定制才能实现基本的文献管理功能。我在 PDF 管理、参考文献生成和知识组织等多个方面对这两款工具进行了评估，发现 Citavi 的集成方法——支持超过 11,000 种引用格式并与 Word 无缝集成——能为大多数研究人员带来立竿见影的生产力提升。关键的权衡在于：Obsidian 擅长通过双向链接连接思想，但在文献管理方面需要大量的初始设置和持续的维护。对于专门的文献引用工作，Citavi 结构化的参考文献处理和自动化的知识提取提供了 Obsidian 在没有外部工具集成的情况下无法匹敌的效率。

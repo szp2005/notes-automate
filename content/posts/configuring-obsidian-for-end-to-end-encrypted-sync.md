@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:36:35+08:00
 image: "/og/configuring-obsidian-for-end-to-end-encrypted-sync.webp"
 editorSummary: >-
   I’ve always prioritized data sovereignty, so keeping my journals private while syncing

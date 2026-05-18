@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-manage-meeting-notes-in-obsidian-effectively.webp"
 title: "如何在 Obsidian 中高效管理会议笔记：5 步指南"
 description: "了解如何利用模板、每日笔记和 Dataview 在 Obsidian 中高效管理会议笔记，保持条理清晰，不再遗漏任何待办事项。"

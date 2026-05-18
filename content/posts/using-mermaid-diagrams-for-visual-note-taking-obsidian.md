@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T14:00:03+08:00
 image: "/og/using-mermaid-diagrams-for-visual-note-taking-obsidian.webp"
 editorSummary: >-
   I find Mermaid diagrams particularly valuable for visual note taking in Obsidian because

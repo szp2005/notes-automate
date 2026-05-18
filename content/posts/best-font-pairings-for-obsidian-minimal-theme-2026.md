@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:25:09+08:00
 image: "/og/best-font-pairings-obsidian-minimal-theme-2026.webp"
 editorSummary: >-
   Pairings Obsidian Minimal Theme require careful consideration because typography directly

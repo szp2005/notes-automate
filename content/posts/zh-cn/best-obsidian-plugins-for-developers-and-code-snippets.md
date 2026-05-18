@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/best-obsidian-plugins-for-developers-and-code-snippets.webp"
 title: "2026年适合开发者和代码片段的7款最佳Obsidian插件"
 description: "探索2026年适合开发者的最佳Obsidian插件，用于管理代码片段、语法高亮、执行脚本并简化您的编程工作流。"

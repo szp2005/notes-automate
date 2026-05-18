@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/organizing-complex-academic-projects-in-an-obsidian-vault.webp"
 editorSummary: >-
   在 Obsidian vault 中组织复杂的学术项目，其核心在于三个基础原则：原子化笔记（atomic notes）、链接思考（linked thinking）和渐进式总结（progressive summarization）。我发现通过 Zotero Integration 插件整合 Zotero，能够彻底改变研究人员收集和管理文献源的方式，将元数据和批注自动直接导入到你的知识库中。这份管理复杂学术项目的实用指南强调了一种混合文件夹与标签的结构，在导航与灵活性之间取得了平衡。然而，这里出现了一个关键的权衡点：你的原子化笔记越细化，在整个 vault 中维护有意义连接的开销就越大。如果没有纪律严明的链接实践，你很可能会创建出孤立的碎片，而不是一个连贯的知识系统。

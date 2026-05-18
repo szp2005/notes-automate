@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:38:15+08:00
 image: "/og/obsidian-uri-protocol-for-automation-with-raycast.webp"
 editorSummary: >-
   Uri Protocol Automation Raycast bridges Obsidian and macOS through deep links like

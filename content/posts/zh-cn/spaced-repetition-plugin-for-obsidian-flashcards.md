@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/spaced-repetition-plugin-for-obsidian-flashcards.webp"
 editorSummary: >-
   Obsidian 的 Spaced Repetition 插件解决了困扰 Anki 等传统学习工具的上下文切换问题，它将抽认卡（flashcards）和源材料保存在一个统一的环境中。我发现该插件的内联语法——使用 :: 表示基础卡片，使用 == 表示 cloze deletions——让你无需离开你的 vault 就能创建和复习卡片。代价是调度元数据作为 HTML 注释附加在你的 markdown 文件中，这需要你为了便携性而接受纯文本的一些杂乱。通过掌握层级标签并选择合适的 SM-2 算法设置，你可以构建一个可扩展的牌组（deck）系统，它与你的知识库共同成长，同时保持你真正学习所需的上下文。

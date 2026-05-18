@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:25:02+08:00
 image: "/og/obsidian-vs-tiddlywiki-for-advanced-personal-wikis.webp"
 editorSummary: >-
   Tiddlywiki Advanced Personal Wikis demand a choice between two fundamentally different

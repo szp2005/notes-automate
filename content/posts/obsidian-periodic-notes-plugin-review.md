@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/obsidian-periodic-notes-plugin-review.webp"
 editorSummary: >-
   I tested the Periodic Notes plugin for 30 consecutive days and found it transforms

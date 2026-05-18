@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T16:37:30+08:00
 image: "/og/comparing-obsidian-git-vs-icloud-for-vault-syncing.webp"
 editorSummary: >-
   My biggest frustration with note-taking apps is the silent failure of background sync. This

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T23:20:10+08:00
 image: "/og/minimal-theme-for-obsidian-customization-tips.webp"
 editorSummary: >-
   I find the Minimal theme for Obsidian customization tips particularly valuable because it

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:11:52+08:00
 image: "/og/how-to-build-a-crm-in-obsidian-vault.webp"
 editorSummary: >-
   Build CRM Obsidian Vault setups using the Dataview and Templater plugins to transform

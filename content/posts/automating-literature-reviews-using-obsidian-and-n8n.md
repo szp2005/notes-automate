@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:19:36+08:00
 image: "/og/automating-literature-reviews-using-obsidian-and-n8n.webp"
 editorSummary: >-
   I've spent years struggling with the "manual bottleneck" of academic research, which is why

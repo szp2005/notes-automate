@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/explanation-of-obsidian-vault-structure-for-backups.webp"
 title: "Obsidian 库结构与备份完全解析（完整指南）"
 description: "关于 Obsidian 库结构与备份的完整解析。了解如何保护您的笔记、理解隐藏的 .obsidian 文件夹，并防止数据丢失。"

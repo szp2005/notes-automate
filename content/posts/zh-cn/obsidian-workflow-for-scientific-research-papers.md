@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-workflow-for-scientific-research-papers.webp"
 editorSummary: >-
   撰写科研论文的工作流需要将 Zotero 与 Obsidian 的 Zotero Integration 插件结合，以实现文献笔记的自动创建，然后应用卡片盒笔记法（Zettelkasten）将论文拆分为原子化笔记。我非常推崇渐进式总结——加粗关键句子，然后高亮核心术语——这能让你在几秒钟内掌握论文的精髓，同时保留完整的上下文。这种方法的代价是需要前期的自律：一个结构糟糕的笔记库只会复制你硬盘里的混乱。通过导入带有颜色编码的高亮，将其提炼为综合总结，并在你的笔记库中链接原子化笔记，你可以将被动阅读转化为一个相互连接的知识图谱，为论文合成做好准备。

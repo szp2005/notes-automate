@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:02:30+08:00
 image: "/og/best-n8n-templates-for-obsidian-vault-automation.webp"
 editorSummary: >-
   I have spent a lot of time searching for the Best n8n Templates for Obsidian Vault

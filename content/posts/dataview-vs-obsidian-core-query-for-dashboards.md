@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:30:42+08:00
 image: "/og/dataview-vs-obsidian-core-query-for-dashboards.webp"
 editorSummary: >-
   I evaluated both Dataview and Obsidian Core Query for dashboard construction, and the choice

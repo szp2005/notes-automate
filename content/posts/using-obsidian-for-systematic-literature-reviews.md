@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:25:44+08:00
 image: "/og/using-obsidian-for-systematic-literature-reviews.webp"
 editorSummary: >-
   Obsidian 系统性文献综述利用双向链接和图视图，改变了研究人员组织复杂学术项目的方式。我发现，整合 Zotero 等参考文献管理器可以消除手动数据录入，而 Dataview 插件则无需手动编译研究结果即可生成动态综合表格。本地优先的方法保护了敏感的研究数据，尽管研究人员必须接受 Obsidian 并非专为 SLR 构建——它需要精心设计的模板和插件配置来匹配专业的综述工作流程。从一开始就设置好文件夹结构、保持标签一致性以及主题笔记，可以避免在综合阶段出现组织混乱。

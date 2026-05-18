@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T13:29:34+08:00
 image: "/og/explanation-of-obsidian-vault-structure-for-backups.webp"
 editorSummary: >-
   I found that understanding Obsidian vault structure requires recognizing two critical

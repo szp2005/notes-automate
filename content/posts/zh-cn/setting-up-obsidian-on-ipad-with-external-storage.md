@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/setting-up-obsidian-on-ipad-with-external-storage.webp"
 editorSummary: >-
   在 iPad 上使用外部存储运行 Obsidian 的工作流绕过了 iCloud 的同步限制，允许你直接从 USB-C SSD 或闪存盘运行你的 Vault。我发现这种基于硬件的方法消除了困扰云同步的令人沮丧的文件重复和空白笔记延迟问题，同时为敏感工作提供了完全的数据隐私，并释放了 iPad 的内部存储空间。关键的权衡是你失去了自动备份——外部驱动器需要使用 3-2-1 规则进行严格的手动备份，以防止 SSD 出现故障或损坏时发生灾难性的数据丢失。

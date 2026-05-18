@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T20:39:24+08:00
 editorSummary: >-
   Make Obsidian Automation Workflows best when you prioritize visual simplicity and zero
   maintenance, while n8n dominates for self-hosters seeking unlimited executions. I compared

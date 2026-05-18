@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:46:01+08:00
 image: "/og/quickadd-plugin-for-rapid-capture-in-obsidian.webp"
 editorSummary: >-
   I found the QuickAdd plugin transforms how ideas enter Obsidian by eliminating friction

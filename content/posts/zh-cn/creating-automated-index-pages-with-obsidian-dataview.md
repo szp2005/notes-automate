@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/creating-automated-index-pages-with-obsidian-dataview.webp"
 title: "Obsidian Dataview 自动索引页设置：完整指南"
 description: "了解如何使用 Obsidian Dataview 创建自动索引页，将您的个人知识管理设置转变为自组织系统。"

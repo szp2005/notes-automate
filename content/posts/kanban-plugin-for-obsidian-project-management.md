@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:44:54+08:00
 image: "/og/kanban-plugin-for-obsidian-project-management.webp"
 editorSummary: >-
   I found the Kanban plugin transforms how I manage projects directly within Obsidian by

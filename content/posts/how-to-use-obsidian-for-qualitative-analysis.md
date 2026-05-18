@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:06:31+08:00
 image: "/og/how-to-use-obsidian-for-qualitative-analysis.webp"
 editorSummary: >-
   Use Obsidian Qualitative Analysis to transform unstructured research data into an

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:55:19+08:00
 image: "/og/connecting-obsidian-to-external-api-with-python.webp"
 editorSummary: >-
   I often prefer external scripts over internal plugins when my knowledge base needs to

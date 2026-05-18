@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T13:30:32+08:00
 image: "/og/best-note-taking-apps-for-zettelkasten-methodology-2026.webp"
 editorSummary: >-
   Finding the right home for my thoughts is a high-stakes decision because my Zettelkasten

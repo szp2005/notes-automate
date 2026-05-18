@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T15:45:57+08:00
 image: "/og/managing-recurring-tasks-in-obsidian-with-dataviewjs.webp"
 evidenceImage:
   src: "/media/adsense-phase2/sticky-workflow.jpg"

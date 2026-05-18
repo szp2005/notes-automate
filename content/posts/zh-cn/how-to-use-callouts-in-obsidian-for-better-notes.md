@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-use-callouts-in-obsidian-for-better-notes.webp"
 title: "Obsidian Callouts：优化笔记的完整指南"
 author: "Alex Chen"

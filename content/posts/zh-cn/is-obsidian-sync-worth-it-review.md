@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T21:17:39+08:00
 image: "/og/is-obsidian-sync-worth-it-review.webp"
 title: "核心问题：Obsidian Sync 解决了什么问题？"
 author: "Alex Chen"

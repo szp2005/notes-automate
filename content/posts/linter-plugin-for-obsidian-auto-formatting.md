@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T19:18:15+08:00
 image: "/og/linter-plugin-for-obsidian-auto-formatting.webp"
 editorSummary: >-
   I found the Linter plugin for Obsidian auto-formatting to be essential for maintaining vault

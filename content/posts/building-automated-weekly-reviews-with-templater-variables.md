@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T13:16:47+08:00
 image: "/og/building-automated-weekly-reviews-with-templater-variables.webp"
 editorSummary: >-
   Weekly Reviews Templater Variables eliminate the 45-minute administrative friction of

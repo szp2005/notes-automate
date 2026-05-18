@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:16:50+08:00
 image: "/og/comparing-obsidian-metadata-menu-vs-database-folder.webp"
 editorSummary: >-
   I often find myself caught between needing rigid data validation and wanting a quick

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:31:37+08:00
 image: "/og/best-templater-snippet-collections-for-obsidian-2026.webp"
 editorSummary: >-
   I’ve learned that the real friction in a vault isn't writing—it's the manual upkeep of

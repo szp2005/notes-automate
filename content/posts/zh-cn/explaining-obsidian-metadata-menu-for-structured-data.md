@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/explaining-obsidian-metadata-menu-for-structured-data.webp"
 title: "详解用于结构化数据的 Obsidian Metadata Menu：完整指南"
 description: "通过详解用于结构化数据的 Obsidian Metadata Menu，掌控您的个人知识管理。学习如何高效组织笔记并扩展您的知识库。"

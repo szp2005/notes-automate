@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T14:02:26+08:00
 image: "/og/visualizing-data-with-obsidian-tracker-plugin-for-goals.webp"
 editorSummary: >-
   Obsidian Tracker Plugin Goals require three core data-formatting methods—YAML frontmatter,

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:24:10+08:00
 image: "/og/using-obsidian-for-longitudinal-research-data-tracking.webp"
 editorSummary: >-
   Longitudinal Research Data Tracking in Obsidian leverages plain-text markdown files and

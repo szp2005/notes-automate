@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T06:56:48+08:00
 image: "/og/advanced-dataview-js-scripts-for-custom-obsidian-dashboards.webp"
 title: "用于自定义 Obsidian 仪表板的高级 Dataview JS 脚本：完整指南"
 description: "掌握用于自定义 Obsidian 仪表板的高级 Dataview JS 脚本，彻底改变你的知识库。学习自动追踪并提升生产力的代码片段。"

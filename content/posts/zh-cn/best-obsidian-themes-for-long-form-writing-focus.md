@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/best-obsidian-themes-for-long-form-writing-focus.webp"
 title: "2026 年最适合沉浸式长篇写作的 Obsidian 主题"
 description: "探索最适合长篇写作专注的 Obsidian 主题，提升阅读体验，减少干扰，从而提高您的生产力和创作心流。"

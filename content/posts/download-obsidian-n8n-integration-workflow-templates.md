@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:32:22+08:00
 image: "/og/download-obsidian-n8n-integration-workflow-templates.webp"
 editorSummary: >-
   N8n Integration Workflow Templates bridge your local Obsidian vault with external services

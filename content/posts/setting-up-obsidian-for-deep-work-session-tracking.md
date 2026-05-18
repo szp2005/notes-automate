@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:12:26+08:00
 image: "/og/setting-up-obsidian-for-deep-work-session-tracking.webp"
 editorSummary: >-
   Deep Work Session Tracking in Obsidian transforms your vault from a passive note repository

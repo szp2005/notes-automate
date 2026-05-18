@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/kanban-plugin-for-obsidian-project-management.webp"
 editorSummary: >-
   我发现 Kanban 插件通过将 Markdown 列表渲染为交互式、可拖拽的看板，彻底改变了我在 Obsidian 中直接管理项目的方式。本指南涵盖了插件安装、调整核心设置（如笔记文件夹和链接格式）以及设计工作流——从经典的待办/进行中/已完成列到内容创作管道。令我印象深刻的是其权衡：虽然基于 Markdown 的看板保持了数据的可移植性和面向未来的兼容性，但它们缺乏像 Trello 等外部工具那样的实时协作功能。将 Kanban 与 Dataview 结合使用，可以解锁强大的跨看板任务聚合能力，使这种方法在个人知识管理中具有真正的竞争力。

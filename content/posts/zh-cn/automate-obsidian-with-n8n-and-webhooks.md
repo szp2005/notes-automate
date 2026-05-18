@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/automate-obsidian-with-n8n-and-webhooks.webp"
 title: "使用 n8n 和 Webhooks 自动化 Obsidian：5 步指南"
 description: "了解如何使用 n8n 和 webhooks 自动化 Obsidian，以捕获笔记、同步任务并在无需手动输入的情况下简化您的个人知识管理。"

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/extracting-readwise-highlights-to-obsidian-via-n8n.webp"
 evidenceImage:
   src: "/media/adsense-phase2/notebook-writing.jpg"

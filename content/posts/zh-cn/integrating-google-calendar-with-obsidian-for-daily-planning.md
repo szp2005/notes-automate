@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/integrating-google-calendar-with-obsidian-for-daily-planning.webp"
 title: "将 Google Calendar 与 Obsidian 结合用于每日计划"
 description: "掌握将 Google Calendar 与 Obsidian 结合用于每日计划的方法。发现最佳的插件、设置步骤以及工作流，统一您的日程安排与笔记。"

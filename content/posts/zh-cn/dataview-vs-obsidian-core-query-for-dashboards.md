@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/dataview-vs-obsidian-core-query-for-dashboards.webp"
 title: "Dataview vs Obsidian Core Query 用于仪表盘：哪个更好？"
 description: "对比 Dataview 和 Obsidian Core Query 在构建仪表盘时的表现。探索哪款工具能为你的 PKM 系统提供最佳的性能、灵活性和配置。"

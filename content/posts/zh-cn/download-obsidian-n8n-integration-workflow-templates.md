@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/download-obsidian-n8n-integration-workflow-templates.webp"
 title: "下载 Obsidian n8n 集成工作流模板"
 description: "下载 Obsidian n8n 集成工作流模板以自动化您的 PKM 系统。轻松简化笔记同步、每日摘要和任务管理。"

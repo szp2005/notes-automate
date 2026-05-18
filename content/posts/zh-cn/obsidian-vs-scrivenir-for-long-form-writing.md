@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-vs-scrivenir-for-long-form-writing.webp"
 editorSummary: >-
   我评估了这份关于 Obsidian 与 Scrivener 长篇写作对比的实用指南，它为面临关键抉择的作者分解了设置步骤和工具选择。Scrivener 凭借其层级化的 Binder 和强大的编译功能脱颖而出，非常适合需要结构化项目管理的小说家和学者。Obsidian 通过双向链接和插件提供了无与伦比的灵活性，但需要大量的前期设置才能适应传统的长篇写作项目。关键的权衡在于：Scrivener 开箱即用，提供流畅的工作流，而 Obsidian 则需要前期定制才能在组织能力上与之匹敌。你的选择取决于你是优先考虑即时的结构化环境，还是长期的可扩展性。

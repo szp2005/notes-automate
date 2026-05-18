@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:27:47+08:00
 image: "/og/obsidian-template-for-weekly-reflection-and-planning.webp"
 editorSummary: >-
   I value templates that eliminate friction from weekly reviews, and this Obsidian template

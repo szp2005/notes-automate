@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/using-obsidian-tasks-plugin-for-project-management.webp"
 editorSummary: >-
   Tasks Plugin Project Management transforms plain markdown checkboxes into a unified system

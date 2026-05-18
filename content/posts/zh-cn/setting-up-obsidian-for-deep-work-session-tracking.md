@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/setting-up-obsidian-for-deep-work-session-tracking.webp"
 editorSummary: >-
   Obsidian 中的深度工作会话追踪将您的知识库从被动的笔记库转变为主动的生产力引擎。我发现，标准化 Frontmatter 元数据——特别是 deep_work_actual_minutes 字段——与 Pomodoro 插件相结合，能够在意图和执行之间建立无缝循环。代价是手动记录需要自律；通过插件实现自动化可以减少阻力，但会增加设置的复杂性。使用 Dataview 查询您的会话，可以揭示您对专注时间的感知是否与现实相符，大多数知识工作者只有在经过几周诚实的追踪后才会发现这种差距。这种架构让您的分析数据保持本地化并充满上下文，将持续时间直接与产出联系起来，而不是孤立的时间指标。

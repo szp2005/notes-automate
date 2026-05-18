@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/downloadable-obsidian-css-snippets-for-dashboard-layouts.webp"
 title: "用于仪表板布局的最佳可下载 Obsidian CSS 代码片段"
 description: "使用这些用于仪表板布局的可下载 Obsidian CSS 代码片段升级您的个人知识管理系统。即刻构建一个美观的工作区。"

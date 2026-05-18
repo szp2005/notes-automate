@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:20:28+08:00
 image: "/og/custom-css-for-obsidian-academic-paper-formatting.webp"
 editorSummary: >-
   I’ve often struggled with the visual gap between my research notes and my final submission

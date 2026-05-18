@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:16:29+08:00
 image: "/og/top-obsidian-plugins-for-academic-writing-and-citations.webp"
 editorSummary: >-
   I evaluated this review of top Obsidian plugins for academic writing and found that Zotero

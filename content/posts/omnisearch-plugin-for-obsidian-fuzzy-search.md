@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:46:51+08:00
 image: "/og/omnisearch-plugin-for-obsidian-fuzzy-search.webp"
 editorSummary: >-
   Plugin Obsidian Fuzzy Search transforms vault retrieval by abandoning exact-match

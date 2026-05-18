@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/guide-to-obsidian-outliner-plugin-for-structured-thinking.webp"
 title: "Obsidian Outliner 插件完整指南：掌握结构化思考"
 description: "探索如何使用 Obsidian Outliner 插件进行结构化思考。我们的完整指南涵盖了安装、关键快捷键和工作流策略。"

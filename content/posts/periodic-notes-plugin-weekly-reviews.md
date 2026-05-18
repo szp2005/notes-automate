@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T22:56:01+08:00
 image: "/og/periodic-notes-plugin-weekly-reviews.webp"
 editorSummary: >-
   I found the Periodic Notes plugin transforms weekly reviews from a manual chore into an

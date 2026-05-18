@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/automate-obsidian-daily-notes-using-python.webp"
 title: "使用 Python 自动化 Obsidian 每日笔记：完整指南"
 description: "了解如何使用 Python 脚本自动化 Obsidian 每日笔记，以简化你的笔记工作流，确保一致性，并节省宝贵的时间。"

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-vs-devonthink-for-large-research-archives.webp"
 editorSummary: >-
   DEVONthink 大型研究档案需要与基于文本的系统截然不同的架构方法。我研究了 DEVONthink 3 和 Obsidian 如何处理 GB 级的文档集合，其权衡非常明显：DEVONthink 的专有数据库在 OCR、AI 驱动的“See Also”发现以及多格式内容摄取方面表现出色，使其在管理数千个 PDF 的学术界无可匹敌。Obsidian 优先考虑纯文本的长效性和用于综合工作的双向链接，但在处理非 Markdown 参考资料时显得吃力。需要特别注意的是，DEVONthink 会将你锁定在 macOS 生态中，而 Obsidian 的图谱可视化在文件数量超过 30,000 个时可能会显著变慢。许多研究人员通过结合使用两者来解决这个问题：DEVONthink 作为摄取引擎，而 Obsidian 用于网状思考。

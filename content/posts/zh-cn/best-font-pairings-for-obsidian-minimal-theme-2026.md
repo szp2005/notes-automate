@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T06:56:48+08:00
 image: "/og/best-font-pairings-obsidian-minimal-theme-2026.webp"
 title: "2026年 Obsidian Minimal 主题最佳字体搭配"
 description: "探索 2026 年 Obsidian Minimal 主题的最佳字体搭配，提升阅读体验与专注度。比较适合你的个人知识管理 (PKM) 的顶级排版设置。"

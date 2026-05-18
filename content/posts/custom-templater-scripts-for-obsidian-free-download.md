@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:33:56+08:00
 image: "/og/custom-templater-scripts-for-obsidian-free-download.webp"
 editorSummary: >-
   Scripts Obsidian Free Download eliminate repetitive vault setup by automating daily notes,

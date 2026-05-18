@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-use-obsidian-for-software-engineering-documentation.webp"
 title: "使用 Obsidian 编写软件工程文档：7 步指南"
 description: "了解如何使用 Obsidian 编写软件工程文档。掌握 Markdown、双向链接 (wikilinks) 和面向开发者的插件，构建极速的知识库。"

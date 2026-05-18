@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:23:27+08:00
 image: "/og/review-of-the-best-obsidian-web-clipper-extensions.webp"
 editorSummary: >-
   I evaluated five web clipper extensions for Obsidian and found that choosing the right tool

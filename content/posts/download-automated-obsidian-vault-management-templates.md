@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:34:41+08:00
 image: "/og/download-automated-obsidian-vault-management-templates.webp"
 editorSummary: >-
   I find that downloading automated Obsidian vault management templates saves considerable

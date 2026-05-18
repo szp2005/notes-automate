@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:24:09+08:00
 image: "/og/top-obsidian-plugins-for-creative-writers-in-2026.webp"
 editorSummary: >-
   Obsidian Plugins Creative Writers transform your note-taking app into a manuscript

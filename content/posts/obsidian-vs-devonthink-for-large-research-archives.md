@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:56:10+08:00
 image: "/og/obsidian-vs-devonthink-for-large-research-archives.webp"
 editorSummary: >-
   Devonthink Large Research Archives demand a fundamentally different architectural approach

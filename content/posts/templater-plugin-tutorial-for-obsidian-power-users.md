@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T22:56:01+08:00
 image: "/og/templater-plugin-tutorial-for-obsidian-power-users.webp"
 editorSummary: >-
   I approached this Templater plugin tutorial recognizing that static templates become a

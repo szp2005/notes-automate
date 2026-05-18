@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-vs-tiddlywiki-for-advanced-personal-wikis.webp"
 editorSummary: >-
   TiddlyWiki 高级个人 Wiki 要求在两种截然不同的架构之间做出选择。Obsidian 的本地 Markdown 文件及其关系图谱在可视化知识连接方面表现出色，而 TiddlyWiki 的单文件范式在自包含的 HTML 环境中提供了无与伦比的便携性。我评估了这两款工具，以了解高级个人 Wiki 的需求——强大的链接、可扩展性和数据所有权——并发现了一个关键的权衡：Obsidian 提供了现代桌面体验和易于访问的插件生态系统，而 TiddlyWiki 则通过深度定制赋予了最终的控制权，代价是更高的技术要求。你的选择取决于你是优先考虑结构化的知识图谱还是极致的数据自主权。

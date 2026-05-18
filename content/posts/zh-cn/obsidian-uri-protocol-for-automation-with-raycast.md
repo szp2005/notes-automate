@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-uri-protocol-for-automation-with-raycast.webp"
 editorSummary: >-
   Uri Protocol Automation Raycast 通过类似于 obsidian://open 的深度链接架起了 Obsidian 和 macOS 之间的桥梁，实现了以键盘驱动的即时捕获想法的工作流。我探索了将 Obsidian URI 协议与 Raycast 脚本命令相结合是如何消除阻力的——无需鼠标点击，无需文件夹导航，只有从思维到 vault 的速度。Advanced URI 插件扩展了原生功能，可以追加文本而不覆盖原有内容，这对于每日日志和快速捕获至关重要。一个权衡是：如果你的架构频繁变更，硬编码 vault 路径会使你的脚本变得脆弱，因此架构规范与技术设置同样重要。

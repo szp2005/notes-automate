@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/obsidian-full-calendar-plugin-review.webp"
 editorSummary: >-
   I reviewed this setup guide for the Obsidian Full Calendar Plugin and found it tackles a

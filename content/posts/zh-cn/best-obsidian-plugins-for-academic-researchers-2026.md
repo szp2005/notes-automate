@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/best-obsidian-plugins-for-academic-researchers-2026.webp"
 title: "2026年适合学术研究人员的最佳Obsidian插件"
 description: "探索2026年适合学术研究人员的最佳Obsidian插件，以简化文献综述、引用管理和论文写作的工作流程。"

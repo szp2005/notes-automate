@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:31:13+08:00
 image: "/og/setting-up-obsidian-git-for-automated-version-control.webp"
 editorSummary: >-
   Git Automated Version Control transforms your Obsidian vault into a robust knowledge base

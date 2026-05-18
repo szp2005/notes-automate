@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/setting-up-obsidian-with-apple-shortcuts-for-mobile.webp"
 editorSummary: >-
   Obsidian Apple Shortcuts Mobile 设置通过绕过应用程序缓慢的启动过程，彻底改变了你在 iOS 上捕捉灵感的方式。我发现 Advanced URI 插件对于追加到 daily notes 和自动化复杂的工作流至关重要，但代价是必须仔细处理 vault 名称的 URL 编码——哪怕是一个未编码的字符都会破坏整个 URI。通过构建通过 Safari 共享表单直接处理文本输入、时间戳和网页剪辑的 shortcuts，你可以创建一个无缝的管道，让你无需等待 Obsidian 加载即可将想法、文章和听写直接发送到你的 vault 中。这种方法从根本上将移动端笔记记录从充满摩擦的体验变成了即时捕捉。

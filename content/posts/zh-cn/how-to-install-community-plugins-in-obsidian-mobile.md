@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-install-community-plugins-in-obsidian-mobile.webp"
 title: "Obsidian 移动端社区插件：优势与设置指南"
 author: "Alex Chen"

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/best-n8n-workflows-obsidian-automation-2026.webp"
 title: "2026年最佳的Obsidian自动化n8n工作流"
 description: "2026年Obsidian自动化最佳n8n工作流实用指南：设置步骤、工具选择、风险以及构建可靠工作流的注意事项。"

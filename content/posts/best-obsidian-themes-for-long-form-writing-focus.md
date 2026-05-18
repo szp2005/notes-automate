@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:18:47+08:00
 image: "/og/best-obsidian-themes-for-long-form-writing-focus.webp"
 editorSummary: >-
   Finding the right visual balance for my vault was a game-changer for my productivity. I’ve

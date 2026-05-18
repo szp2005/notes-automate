@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/periodic-notes-plugin-weekly-reviews.webp"
 editorSummary: >-
   我发现 Periodic Notes 插件将每周回顾从一项手动苦差事转变为一个自动化系统。本指南展示了如何配置该插件，并结合 Calendar 和 Templater 创建按时间顺序排列的嵌套笔记层级结构，从而消除生产力工作流中的阻力。关键的权衡在于：虽然该插件出色地自动化了日期格式化和 ISO 周计算，但初始设置需要文件夹结构、日期格式和模板位置之间的精确对齐——这里的不匹配会迅速破坏整个系统。对于已经使用“搞定”（Getting Things Done）方法的知识工作者来说，此设置通过创建仅靠每日笔记无法提供的宏观视角而带来巨大回报。

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:16:45+08:00
 image: "/og/understanding-the-obsidian-internal-link-syntax-variations.webp"
 editorSummary: >-
   I found that mastering Obsidian's internal link syntax variations—from basic wikilinks to

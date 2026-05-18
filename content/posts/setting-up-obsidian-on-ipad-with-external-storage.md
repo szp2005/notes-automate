@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:39:21+08:00
 image: "/og/setting-up-obsidian-on-ipad-with-external-storage.webp"
 editorSummary: >-
   Obsidian iPad External Storage workflows bypass iCloud's sync limitations by running your

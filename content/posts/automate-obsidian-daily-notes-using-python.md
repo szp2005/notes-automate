@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:09:00+08:00
 image: "/og/automate-obsidian-daily-notes-using-python.webp"
 editorSummary: >-
   Daily Notes Using Python scripts eliminates the repetitive friction of manual file creation

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:35:12+08:00
 image: "/og/using-obsidian-to-manage-n8n-workflow-documentation.webp"
 editorSummary: >-
   Manage N8N Workflow Documentation by mirroring your automation environment's interconnected

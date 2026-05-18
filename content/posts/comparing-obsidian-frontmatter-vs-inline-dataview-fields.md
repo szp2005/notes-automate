@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:24:06+08:00
 image: "/og/comparing-obsidian-frontmatter-vs-inline-dataview-fields.webp"
 editorSummary: >-
   Frontmatter and inline Dataview fields represent two distinct metadata architectures in

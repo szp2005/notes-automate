@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T16:37:30+08:00
 image: "/og/using-obsidian-for-longitudinal-research-data-tracking.webp"
 editorSummary: >-
   Obsidian 中的纵向研究数据追踪利用纯文本 Markdown 文件和双向链接，为僵化的电子表格和专有数据库提供了一种灵活的替代方案。我发现 Vault 组织原则和系统命名约定（例如 P[ID]-Session[Number]-YYYY-MM-DD.md）对于在数月或数年的数据收集中维护数据完整性至关重要。Dataview 插件将您的笔记转换为可查询的数据库，从而实现强大的分析。然而，权衡是成功完全取决于一致的模板使用和严谨的链接；如果没有这些习惯，尽管 Obsidian 具有灵活性，您的知识库也会迅速变得支离破碎。

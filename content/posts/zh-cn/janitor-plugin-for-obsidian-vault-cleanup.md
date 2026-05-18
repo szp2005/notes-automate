@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/janitor-plugin-for-obsidian-vault-cleanup.webp"
 title: "Obsidian 库清理插件 Janitor：2026 年完整指南"
 description: "了解如何使用 Obsidian 库清理插件 Janitor 自动化知识库维护。移除孤立文件、修复空文件并优化速度。"

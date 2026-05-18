@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:29:11+08:00
 image: "/og/templater-plugin-for-obsidian-dynamic-templates-guide.webp"
 editorSummary: >-
   I found that the Templater plugin transforms Obsidian from a passive text editor into an

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-organize-school-notes-using-obsidian-for-students.webp"
 title: "学生如何使用 Obsidian 整理课堂笔记：2026 完整指南"
 description: "了解学生究竟该如何使用 Obsidian 整理课堂笔记。探索结构框架、链接策略和插件，全面提升学习效率。"

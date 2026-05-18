@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:51:57+08:00
 image: "/og/automate-obsidian-with-n8n-and-webhooks.webp"
 editorSummary: >-
   Bridging the gap between cloud services and my local vault used to feel like a

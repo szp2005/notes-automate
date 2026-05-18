@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/things-theme-vs-minimal-theme-obsidian.webp"
 editorSummary: >-
   I evaluated both themes to help readers move beyond Obsidian's default interface. Things

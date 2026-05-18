@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T13:50:31+08:00
 image: "/og/how-to-use-obsidian-templater-user-scripts.webp"
 evidenceImage:
   src: "/media/adsense-phase2/code-laptop.jpg"

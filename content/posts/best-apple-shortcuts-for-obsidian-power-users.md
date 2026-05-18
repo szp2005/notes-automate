@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T21:00:40+08:00
 image: "/og/best-apple-shortcuts-for-obsidian-power-users.webp"
 editorSummary: >-
   I often find the mobile capture experience in Obsidian a bit sluggish when I need to log

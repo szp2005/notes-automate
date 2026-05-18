@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:34:29+08:00
 image: "/og/obsidian-plugin-automated-youtube-transcript-import.webp"
 editorSummary: >-
   I evaluated the YouTube Transcript plugin paired with Media Extended as the most effective

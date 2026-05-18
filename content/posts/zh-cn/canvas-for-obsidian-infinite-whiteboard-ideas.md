@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/canvas-for-obsidian-infinite-whiteboard-ideas.webp"
 title: "Canvas for Obsidian：2026年无限白板创意"
 description: "探索极具创意的 Canvas for Obsidian 无限白板使用方法。立即了解如何映射概念、组织研究并将您的知识库可视化。"

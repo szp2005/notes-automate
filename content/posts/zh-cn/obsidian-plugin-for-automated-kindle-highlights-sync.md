@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-plugin-for-automated-kindle-highlights-sync.webp"
 editorSummary: >-
   我发现这篇关于 Obsidian 自动化 Kindle 标注同步插件的实用指南对于构建可靠工作流的读者来说非常有价值。本文对比了“Kindle Highlights”插件与 Readwise 集成，探讨了设置步骤、自定义选项以及一个关键的权衡：直接使用插件提供免费、注重隐私的同步功能，但依赖于亚马逊网页界面的稳定性；而 Readwise 则以订阅费为代价提供统一的多数据源聚合服务。了解这些工具的选择有助于您将从被动阅读转变为主动的知识管理，而无需手动复制和粘贴。

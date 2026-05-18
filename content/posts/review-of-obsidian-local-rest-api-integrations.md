@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:29:59+08:00
 image: "/og/review-of-obsidian-local-rest-api-integrations.webp"
 evidenceImage:
   src: "/media/adsense-phase2/code-laptop.jpg"

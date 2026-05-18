@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/best-obsidian-plugins-for-habit-tracking-2024.webp"
 title: "Obsidian 习惯追踪：2024 年最佳插件推荐"
 author: "Alex Chen"

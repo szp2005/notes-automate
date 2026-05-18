@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T13:59:05+08:00
 image: "/og/managing-large-pdf-libraries-within-an-obsidian-vault.webp"
 editorSummary: >-
   Libraries Within Obsidian Vault require balancing storage performance with accessibility,

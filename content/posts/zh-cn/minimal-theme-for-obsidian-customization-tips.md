@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/minimal-theme-for-obsidian-customization-tips.webp"
 editorSummary: >-
   我发现这篇关于 Obsidian Minimal 主题定制技巧的指南特别有价值，因为它解决了一个实际问题：默认界面在日常知识工作中显得视觉密度过高。该指南强调安装核心配套插件——特别是 Minimal Theme Settings 和 Style Settings——让你无需编写代码就能立即获得控制权。最让我印象深刻的是它在简单性与灵活性之间取得的平衡：虽然 Minimal 开箱即用的外观很简洁，但它的真正威力是通过仔细的排版和间距微调展现出来的。关于行宽（40-45 ems）和行高（1.5-1.6）的具体指导显著地改变了阅读舒适度。然而，CSS 片段部分表明，要实现你确切的审美仍需要超出插件切换的额外技术努力。

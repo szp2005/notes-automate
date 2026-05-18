@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/omnisearch-plugin-for-obsidian-fuzzy-search.webp"
 editorSummary: >-
   Obsidian 模糊搜索插件通过放弃精确匹配的限制，转而使用概率评分和模糊算法，彻底改变了 vault 的检索方式。Omnisearch 与 Text Extractor 的集成实现了图像的 OCR 索引和 PDF 的深度搜索——解锁了原生搜索无法触及的被困在非 Markdown 文件中的文本。我发现其智能缓存和后台索引对大型 vault 特别有价值，尽管在管理数千个附件时，最初的重新索引过程需要耐心。这种权衡是值得的：你以设置的复杂性和持续的索引开销为代价，获得了对拼写错误的容忍度和相关性排名。

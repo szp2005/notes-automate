@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:08:15+08:00
 image: "/og/using-obsidian-for-long-term-evergreen-note-management.webp"
 editorSummary: >-
   I view evergreen note systems as long-term investments in knowledge, and this article

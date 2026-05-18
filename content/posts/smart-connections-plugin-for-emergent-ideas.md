@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:48:13+08:00
 image: "/og/smart-connections-plugin-for-emergent-ideas.webp"
 editorSummary: >-
   Connections Plugin Emergent Ideas transforms how you discover hidden relationships across

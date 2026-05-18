@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/how-to-create-interactive-maps-in-obsidian.webp"
 editorSummary: >-
   I found spatial note-taking transforms how we organize location-based information in

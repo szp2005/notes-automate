@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/quickadd-plugin-for-rapid-capture-in-obsidian.webp"
 editorSummary: >-
   我发现 QuickAdd 插件通过消除思考与记录之间的阻力，彻底改变了灵感进入 Obsidian 的方式。本指南详细解析了它的四个核心模块——Templates、Captures、Macros 和 Choices——并演示了如何进行实用的设置，比如快速的每日日志和任务收件箱。关键的权衡在于：虽然 Captures 在不切换上下文的情况下追加内容表现出色，但依赖系统剪贴板或桌面 API 的复杂宏在移动端会失效，需要针对移动端制定单独的工作流。了解这一限制有助于你设计出能在所有设备上顺畅运行且可持续的记录系统。

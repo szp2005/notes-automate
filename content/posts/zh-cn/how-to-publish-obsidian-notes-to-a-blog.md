@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-publish-obsidian-notes-to-a-blog.webp"
 title: "将 Obsidian 笔记发布到博客：5步指南"
 description: "了解如何高效地将 Obsidian 笔记发布到博客。我们将介绍静态站点生成器、插件和工作流，帮助您将本地 vault 转化为在线网站。"

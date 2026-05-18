@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:51:48+08:00
 image: "/og/janitor-plugin-for-obsidian-vault-cleanup.webp"
 editorSummary: >-
   I found the Janitor plugin addresses a real problem I observe in many Obsidian vaults:

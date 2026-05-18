@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/best-obsidian-themes-for-writing-longform-content.webp"
 editorSummary: >-
   I’ve spent many hours fighting Obsidian’s default layout during long sessions, eventually

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:52:50+08:00
 image: "/og/obsidian-workflow-for-scientific-research-papers.webp"
 editorSummary: >-
   Workflow Scientific Research Papers demands integrating Zotero with Obsidian's Zotero

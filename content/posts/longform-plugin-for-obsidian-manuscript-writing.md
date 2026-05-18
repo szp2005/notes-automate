@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T19:17:19+08:00
 image: "/og/longform-plugin-obsidian-manuscript-writing.webp"
 editorSummary: >-
   I find the Longform plugin transforms Obsidian into a capable manuscript editor by treating

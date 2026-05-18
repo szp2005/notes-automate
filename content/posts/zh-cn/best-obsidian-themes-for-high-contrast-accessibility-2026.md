@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/best-obsidian-themes-for-high-contrast-accessibility-2026.webp"
 title: "2026年适合高对比度无障碍阅读的最佳 Obsidian 主题"
 description: "探索2026年适合高对比度无障碍阅读的最佳 Obsidian 主题。使用我们精选的符合 WCAG 标准的主题，保护您的双眼并提升阅读体验。"

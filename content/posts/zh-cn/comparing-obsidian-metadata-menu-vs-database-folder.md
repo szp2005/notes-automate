@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/comparing-obsidian-metadata-menu-vs-database-folder.webp"
 title: "Obsidian Metadata Menu vs. Database Folder：哪款插件最适合你的工作流？"
 description: "对比 Obsidian Metadata Menu 和 Database Folder 插件，帮助你选择管理结构化数据、优化笔记工作流的理想工具。"

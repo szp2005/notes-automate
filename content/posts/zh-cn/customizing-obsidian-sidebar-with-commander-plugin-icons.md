@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/customizing-obsidian-sidebar-with-commander-plugin-icons.webp"
 title: "使用 Commander 插件图标自定义 Obsidian 侧边栏：完整指南"
 description: "了解如何使用 Commander 插件图标自定义 Obsidian 侧边栏以简化您的工作流。探索设置步骤、自定义图标以及布局技巧。"

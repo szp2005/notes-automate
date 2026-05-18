@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/templater-plugin-tutorial-for-obsidian-power-users.webp"
 editorSummary: >-
   我在阅读这篇 Templater 插件教程时意识到，随着你的 Obsidian 知识库不断增长，静态模板会成为一个瓶颈。本文教授高级用户如何掌握执行命令、条件逻辑和 tp.system 模块来实现动态提示，从而超越基础的日期插入。最令我印象深刻的是自动化威力与复杂性之间的权衡——虽然文件夹模板和 Javascript 执行消除了重复性任务，但它们需要仔细设置用户系统命令执行和脚本文件位置。将文件自动移动到年/月结构的具体工作流，证明了 Templater 将 Obsidian 变成了一个真正的自动化引擎，而不仅仅是一个文本扩展器。

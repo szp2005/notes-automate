@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/best-obsidian-plugins-for-habit-tracking-2024.webp"
 editorSummary: >-
   I’ve spent months trying to find a friction-free way to track habits in Obsidian, and this

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/customizing-the-obsidian-graph-view-for-better-insights.webp"
 title: "自定义 Obsidian 关系图谱以获取更深层次的洞察：七步指南"
 description: "掌握自定义 Obsidian 关系图谱以获取更深层次的洞察。学习如何配置分组、物理效果和过滤器，以发现笔记中隐藏的联系。"

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T10:21:27+08:00
 image: "/og/building-a-second-brain-using-obsidian-and-readwise.webp"
 editorSummary: >-
   Building a Second Brain Using Obsidian and Readwise: Complete Guide addresses the constant

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-plugin-automated-youtube-transcript-import.webp"
 editorSummary: >-
   我评估了 YouTube Transcript 插件与 Media Extended 的组合，认为这是在 Obsidian 中自动导入 YouTube 视频字幕的最有效方案。该组合允许你直接将带有可点击时间戳的完整视频文本提取到笔记中，将被动观看转化为主动的知识管理。然而，这也带来了一个关键的权衡：完整的字幕可能会因为随意的提及而污染知识库的搜索结果，迫使你将输入内容与合成的知识分开构建。该插件处理自动生成字幕的效果尚可，但技术术语通常需要选择性地修正，而不是进行全面编辑。

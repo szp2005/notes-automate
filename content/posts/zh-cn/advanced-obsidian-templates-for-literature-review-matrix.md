@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/advanced-obsidian-templates-for-literature-review-matrix.webp"
 title: "高级 Obsidian 文献综述矩阵模板：2026 年精选推荐"
 description: "探索用于整理文献综述矩阵的最佳高级 Obsidian 模板。对比优质框架，即刻优化您的学术研究流程。"

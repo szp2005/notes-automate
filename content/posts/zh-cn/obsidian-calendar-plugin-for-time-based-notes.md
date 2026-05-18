@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-calendar-plugin-for-time-based-notes.webp"
 editorSummary: >-
   基于时间的笔记将你的 Obsidian 笔记库从静态知识库转变为动态的、具有时间感知能力的管理系统，将想法、任务和日志锚定到特定日期。我发现 Calendar 插件的月度网格视图——结合字数统计圆点和任务完成指示器——创建了一个能让你对生产力模式一目了然的问责仪表板。关键的权衡是，持续创建每日笔记需要有纪律的文件夹组织；如果没有像 Timeline/Daily 这样的指定目录，你的笔记库会很快堆积数百个文件，导致知识库杂乱无章。将 Calendar 插件与模板和 Dataview 查询结合使用，可以将其从导航工具提升为指挥中心。

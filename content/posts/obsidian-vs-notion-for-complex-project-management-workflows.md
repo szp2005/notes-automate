@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:20:55+08:00
 image: "/og/obsidian-vs-notion-complex-project-management-workflows.webp"
 editorSummary: >-
   Complex Project Management Workflows demand tools that balance structure with flexibility,

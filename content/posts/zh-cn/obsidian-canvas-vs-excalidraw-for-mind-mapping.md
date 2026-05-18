@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T21:17:39+08:00
 image: "/og/obsidian-canvas-vs-excalidraw-for-mind-mapping.webp"
 title: "Obsidian Canvas 与 Excalidraw：哪款可视化工具更胜一筹？"
 author: "Alex Chen"

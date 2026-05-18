@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/custom-templater-scripts-for-obsidian-free-download.webp"
 title: "Obsidian 自定义 Templater 脚本免费下载 (2026)"
 description: "正在寻找 Obsidian 自定义 Templater 脚本的免费下载？获取我们精心挑选的工作流自动化脚本集，节省您数小时的手动输入时间。"

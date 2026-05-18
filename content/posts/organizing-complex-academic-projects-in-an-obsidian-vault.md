@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:21:14+08:00
 image: "/og/organizing-complex-academic-projects-in-an-obsidian-vault.webp"
 editorSummary: >-
   Academic Projects Obsidian Vault organization hinges on three foundational principles:

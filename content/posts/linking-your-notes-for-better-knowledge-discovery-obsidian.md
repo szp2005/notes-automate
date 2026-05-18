@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T10:24:10+08:00
 image: "/og/linking-your-notes-for-better-knowledge-discovery-obsidian.webp"
 editorSummary: >-
   Better Knowledge Discovery Obsidian requires mastering bidirectional wikilinks, block-level

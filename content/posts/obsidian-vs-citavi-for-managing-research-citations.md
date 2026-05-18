@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:22:20+08:00
 image: "/og/obsidian-vs-citavi-for-managing-research-citations.webp"
 editorSummary: >-
   Citavi Managing Research Citations stands as a purpose-built solution for academic

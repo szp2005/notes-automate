@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/setting-up-a-zettelkasten-in-obsidian-with-plugins.webp"
 editorSummary: >-
   在 Obsidian 中通过插件设置 Zettelkasten（卡片盒笔记法），可以将你的笔记库从一张空白画布转变为一个相互关联的知识引擎。我的指南围绕五个具体步骤展开：建立最小化的文件夹架构，安装如 Templater 和 Dataview 等必备插件，设计标准化的笔记模板，通过 MOC（内容映射）实现双向链接，以及执行每日的“收集-处理-连接”工作流。关键的权衡在于，虽然通过插件实现自动化可以减少创建笔记时的阻力，但过度依赖插件功能可能会掩盖 Zettelkasten 的核心原则——即它依赖于扁平的结构和硬链接，而非层级文件夹。如果没有自律的链接习惯，即使是最复杂的插件设置也会变成一个无法导航的档案馆。

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:08:09+08:00
 image: "/og/obsidian-vs-scrivenir-for-long-form-writing.webp"
 editorSummary: >-
   I evaluated this practical guide to Obsidian vs Scrivener for long-form writing, which

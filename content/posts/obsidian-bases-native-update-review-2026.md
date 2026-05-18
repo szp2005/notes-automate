@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:49:50+08:00
 image: "/og/obsidian-bases-native-update-review-2026.webp"
 editorSummary: >-
   I reviewed the 2026 native update to Obsidian Bases and found it addresses a critical gap in

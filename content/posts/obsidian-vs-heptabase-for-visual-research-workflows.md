@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:20:54+08:00
 image: "/og/obsidian-vs-heptabase-for-visual-research-workflows.webp"
 editorSummary: >-
   Heptabase Visual Research Workflows excel at native PDF extraction and spatial performance,

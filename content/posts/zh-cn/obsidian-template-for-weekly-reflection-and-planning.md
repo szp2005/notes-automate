@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-template-for-weekly-reflection-and-planning.webp"
 editorSummary: >-
   我非常看重能够消除每周复盘阻力的模板，而这个Obsidian模板正是通过Dataview自动汇总数据，并将反思与计划分为两个独立的阶段来实现这一点。该模板使用Templater变量自动计算日期，从日记中提取未完成的任务，并在一个视图中呈现习惯指标——节省了手动整合的时间。然而，关键的权衡在于，它的成功完全取决于坚持每天记笔记的纪律；如果你在一周内没有记录数据，自动查询将返回不完整的信息，从而破坏整个复盘过程。

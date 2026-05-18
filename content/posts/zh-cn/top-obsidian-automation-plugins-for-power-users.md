@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/top-obsidian-automation-plugins-for-power-users.webp"
 evidenceImage:
   src: "/media/adsense-phase2/notes-laptop.jpg"

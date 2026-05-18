@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/n8n-workflow-for-syncing-obsidian-with-notion.webp"
 editorSummary: >-
   通过 n8n 将 Obsidian 与 Notion 同步的工作流弥合了关键的知识管理空白，实现了这两个平台之间数据流动的自动化。我发现 n8n 基于节点的界面和专用的 Notion 集成使复杂的同步过程变得容易，而无需大量编码。其架构方法——使用 webhook 捕获 Obsidian 的更改，通过 n8n 的数据操作节点转换数据，并将更新推送到 Notion——确保了无缝、自动化的知识管理。然而，值得注意的一个折衷是：从 Obsidian 本地优先的架构中设置可靠的触发器，需要辅助插件或外部脚本，这增加了初始配置的复杂性，尽管 n8n 提供了直观的可视化界面，但这种复杂性仍可能让非技术用户望而却步。

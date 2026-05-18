@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:32:58+08:00
 image: "/og/configuring-obsidian-for-automated-daily-backup-to-dropbox.webp"
 editorSummary: >-
   I’ve seen many users treat their notes like digital scrap paper, only realizing their value

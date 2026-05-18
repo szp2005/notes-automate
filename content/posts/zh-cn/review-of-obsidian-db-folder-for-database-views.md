@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/review-of-obsidian-db-folder-for-database-views.webp"
 editorSummary: >-
   我评估了 Obsidian DB Folder，将其作为本地 Markdown 工作流中实用的 Notion 替代方案，它在结构化数据管理方面提供了真正的价值。该插件在双向 YAML 编辑和带有数据验证的列类型方面表现出色，让你无需接触原始文本即可可视化地修改 Frontmatter。然而，在超过 500 个文件的文件夹中，性能会明显下降——这是在扩展你的 Vault 时需要权衡的关键点。我的建议：采用双插件策略，将 DB Folder 与 Dataview 结合使用。将 DB Folder 保留给活跃的操作中心（如冲刺看板），同时使用 Dataview 为整个 Vault 创建只读仪表板。

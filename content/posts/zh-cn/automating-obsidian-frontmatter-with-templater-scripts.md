@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T06:56:48+08:00
 image: "/og/automating-obsidian-frontmatter-with-templater-scripts.webp"
 title: "使用 Templater 脚本自动生成 Obsidian Frontmatter：5步指南"
 description: "了解如何使用 Templater 脚本自动生成 Obsidian frontmatter，以简化您的知识管理工作流。发现实用的代码片段以节省时间。"

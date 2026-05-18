@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/managing-large-pdf-libraries-within-an-obsidian-vault.webp"
 editorSummary: >-
   在 Obsidian 仓库中管理库需要平衡存储性能与可访问性，我发现外部文献管理器策略——尤其是 Zotero-Obsidian 桥接——解决了管理数百个 PDF 与保持仓库速度之间的核心矛盾。原生 PDF 存储会引入同步瓶颈和搜索盲区，而 Omnisearch 和 Text Extractor 等插件只能部分解决这些问题。权衡是非常清晰的：将 PDF 保存在外部的 Zotero 中，同时将元数据和注释提取到 Markdown 笔记中，可以使您的仓库保持轻量和极速，尽管这需要模板设计和工作流的纪律性。对于管理大量研究库的学者来说，这种架构是必不可少的。

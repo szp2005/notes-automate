@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-anki-vs-spaced-repetition-plugin.webp"
 editorSummary: >-
   Anki 和 Spaced Repetition 插件的工作流需要真正的权衡：Obsidian to Anki 插件允许你使用 Anki 成熟的生态系统和调度算法，但需要同时运行两个应用程序并学习特殊的卡片语法。SR 插件完全消除了这种摩擦，让你留在 Obsidian 内部并内置了 FSRS 调度，但牺牲了完善的复习界面和丰富的附加组件生态系统。我发现这里提供的决策框架（基于你是现有的 Anki 用户还是重新开始）能够拨开迷雾。没有哪个工具是绝对优越的；你现有的工具和日常习惯应该为你做出决定。需要注意的是：如果你有多年的 Anki 卡片历史，转换成本是实实在在的。

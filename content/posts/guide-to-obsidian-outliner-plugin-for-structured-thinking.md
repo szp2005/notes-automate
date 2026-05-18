@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:14:54+08:00
 image: "/og/guide-to-obsidian-outliner-plugin-for-structured-thinking.webp"
 editorSummary: >-
   Outliner Plugin Structured Thinking transforms bullet lists into a Roam-like environment

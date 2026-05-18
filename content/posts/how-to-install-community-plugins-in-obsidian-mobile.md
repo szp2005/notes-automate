@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/how-to-install-community-plugins-in-obsidian-mobile.webp"
 editorSummary: >-
   Community Plugins Obsidian Mobile require disabling Restricted Mode first—a critical

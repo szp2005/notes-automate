@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/raindrop-io-integration-for-obsidian-bookmark-management.webp"
 editorSummary: >-
   我发现将 Raindrop IO 集成到 Obsidian 进行书签管理，彻底改变了研究人员在网页捕获与本地内容综合之间的连接方式。通过社区插件 Raindrop Highlights，你可以使用自定义模板和选择性集合过滤，将网页高亮内容直接同步到你的知识库中。这里面一个关键的权衡在于选择覆盖（overwrite）模式还是追加（append）模式：覆盖模式能让你的源笔记保持完美的同步，但会破坏你在 Obsidian 中的手动编辑内容；而追加模式能保留你的写作，但可能会面临格式偏移的风险。我建议将同步过来的 Raindrop 笔记视为只读来源，并为你自己的综合内容创建单独的永久笔记，以此来保护数据完整性和你的思考过程。

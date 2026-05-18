@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T16:37:30+08:00
 image: "/og/using-obsidian-for-tabletop-rpg-world-building.webp"
 editorSummary: >-
   Tabletop RPG World Building transforms scattered campaign notes into an interconnected

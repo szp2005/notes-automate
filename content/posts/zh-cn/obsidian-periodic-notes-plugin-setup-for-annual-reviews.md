@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-periodic-notes-plugin-setup-for-annual-reviews.webp"
 editorSummary: >-
   年度回顾的插件设置需要结合三个社区工具——Periodic Notes、Templater和Dataview——将零散的每日记录转化为结构化的年度反思。我发现通过配置带有专属模板文件的年度笔记（Yearly Notes）开关，可以消除手动汇总的工作，让Dataview查询能够在十二个月跨度内自动汇总成就和指标。代价是在全年保持一致的元数据标签变得至关重要；否则，你的查询将返回不完整的数据。通过实施从每日到每月再到每年的层级汇总，你可以创建一个基于数据的回顾流程，呈现出有意义的趋势，而不是仅仅依赖记忆。
