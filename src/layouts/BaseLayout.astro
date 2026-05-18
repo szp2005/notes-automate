@@ -37,9 +37,13 @@ const lang = pathname.startsWith('/zh-cn') ? 'zh-cn' : 'en';
 // Force canonical to siteURL host regardless of which domain served the page.
 const canonicalURL = canonicalURLProp ?? `${siteURL}${pathname}${Astro.url.search}`;
 
-// Alternate links for SEO
-const alternateEn = `${siteURL}${pathname.replace('/zh-cn', '')}`;
-const alternateZh = pathname.startsWith('/zh-cn') ? `${siteURL}${pathname}` : `${siteURL}/zh-cn${pathname}`;
+const normalizedPath = pathname.replace(/^\/zh-cn/, '') || '/';
+const pathWithTrailingSlash = normalizedPath.endsWith('/') ? normalizedPath : `${normalizedPath}/`;
+const hasLocalizedStaticPage = new Set(['/', '/about/', '/contact/', '/privacy/', '/posts/']).has(pathWithTrailingSlash);
+const hasLocalizedPostPage = /^\/posts\/[^/]+\/$/.test(pathWithTrailingSlash);
+const shouldEmitLocalizedAlternates = !noindex && (hasLocalizedStaticPage || hasLocalizedPostPage);
+const alternateEn = `${siteURL}${pathWithTrailingSlash}`;
+const alternateZh = `${siteURL}${pathWithTrailingSlash === '/' ? '/zh-cn/' : `/zh-cn${pathWithTrailingSlash}`}`;
 
 const ogImage = articleImage ? (articleImage.startsWith('http') ? articleImage : `${siteURL}${articleImage}`) : `${siteURL}/og-default.png`;
 const cloudflareWebAnalyticsToken = import.meta.env.PUBLIC_CLOUDFLARE_WEB_ANALYTICS_TOKEN;
@@ -61,10 +65,14 @@ const ga4MeasurementId = import.meta.env.PUBLIC_GA4_MEASUREMENT_ID;
     <title>{title}</title>
     {noindex && (<meta name="robots" content="noindex,follow" />)}
 
-    <!-- i18n -->
-    <link rel="alternate" hreflang="en" href={alternateEn} />
-    <link rel="alternate" hreflang="zh-cn" href={alternateZh} />
-    <link rel="alternate" hreflang="x-default" href={alternateEn} />
+    {shouldEmitLocalizedAlternates && (
+      <>
+        <!-- i18n -->
+        <link rel="alternate" hreflang="en" href={alternateEn} />
+        <link rel="alternate" hreflang="zh-cn" href={alternateZh} />
+        <link rel="alternate" hreflang="x-default" href={alternateEn} />
+      </>
+    )}
 
     <!-- Canonical -->
     <link rel="canonical" href={canonicalURL} />
