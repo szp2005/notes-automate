@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-sync-obsidian-with-google-drive-using-a-plugin.webp"
 title: "将 Obsidian 与 Google Drive 同步：免费插件设置指南"
 author: "Alex Chen"

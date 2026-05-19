@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-use-css-snippets-for-obsidian-callouts.webp"
 title: "Obsidian Callouts 的 CSS Snippets 自定义指南"
 description: "了解如何使用 CSS snippets 为 Obsidian callouts 创建自定义颜色、图标和样式。通过个性化的视觉块提升你的笔记体验。"

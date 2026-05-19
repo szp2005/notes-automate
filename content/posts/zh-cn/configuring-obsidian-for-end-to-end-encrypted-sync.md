@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/configuring-obsidian-for-end-to-end-encrypted-sync.webp"
 title: "为 Obsidian 配置端到端加密同步：五步指南"
 description: "了解为 Obsidian 配置端到端加密同步如何保护您的私人笔记。遵循我们的完整指南，在各个设备上保护您的知识库安全。"

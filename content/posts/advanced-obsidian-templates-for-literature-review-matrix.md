@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T21:01:24+08:00
 image: "/og/advanced-obsidian-templates-for-literature-review-matrix.webp"
 editorSummary: >-
   Obsidian Templates Literature Matrix systems eliminate the bottleneck of manual data entry

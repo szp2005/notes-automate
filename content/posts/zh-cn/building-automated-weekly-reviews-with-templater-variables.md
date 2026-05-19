@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/building-automated-weekly-reviews-with-templater-variables.webp"
 title: "使用 Templater 变量构建自动化每周回顾"
 description: "掌握在 Obsidian 中使用 Templater 变量构建自动化的每周回顾。比较核心插件并实施无摩擦的生产力系统。"

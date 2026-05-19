@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/n8n-obsidian-integration-for-automated-web-capture.webp"
 editorSummary: >-
   自动化网页抓取集成使用包含摄取、处理和交付的三个阶段管道，我发现这彻底改变了研究人员处理网页剪报的方式。Webhook Node 接收页面数据，而 Processing and Transformation Layer 通过 Mozilla 的 Readability API 或 HTML 提取清理内容，然后组装 YAML frontmatter。一个关键的权衡随之出现：将抓取自动化到 Inbox 文件夹可以保持研究的势头，但事后的手动归档对于防止 vault 臃肿仍然必不可少。Local REST API 方法为本地环境提供近乎即时的保存，而云同步的 vault 则需要云存储桥接方法。我的经验表明，严格的 frontmatter 约定和文件名清理可以防止文件系统错误并保持 Obsidian 的可查询性。

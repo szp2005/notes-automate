@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/obsidian-community-plugins-list.webp"
 editorSummary: >-
   I organized this guide to create a more user-friendly experience than the official docs by

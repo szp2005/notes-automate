@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T07:07:18+08:00
 image: "/og/setting-up-a-zettelkasten-in-obsidian-with-plugins.webp"
 editorSummary: >-
   Setting up a Zettelkasten in Obsidian with plugins transforms your vault from a blank canvas

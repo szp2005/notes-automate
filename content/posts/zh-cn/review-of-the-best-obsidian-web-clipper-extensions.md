@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/review-of-the-best-obsidian-web-clipper-extensions.webp"
 editorSummary: >-
   我评估了五款 Obsidian 网页剪藏扩展，发现选择合适的工具完全取决于您的信息处理方式。官方的 Obsidian Web Clipper 因其原生集成和免费而非常适合大多数用户，而 Readwise Reader 则更适合那些在将提炼后的知识同步到其库中之前进行大量高亮的专业研究人员。这里出现了一个关键的权衡：像 MarkDownload 这样的直接捕获方法可以为您提供完整的离线存档，但可能会用未经过滤的内容导致您的知识库变得臃肿。在任何扩展中配置标准化的 frontmatter 模板（包括 URL、作者和捕获日期），每年可节省数百小时的手动数据输入时间。

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T13:57:30+08:00
 image: "/og/how-to-use-obsidian-for-software-engineering-documentation.webp"
 editorSummary: >-
   I find Obsidian's local-first architecture particularly compelling for software engineers

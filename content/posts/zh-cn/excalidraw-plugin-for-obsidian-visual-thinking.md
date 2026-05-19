@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/excalidraw-plugin-for-obsidian-visual-thinking.webp"
 title: "Obsidian Excalidraw 插件：视觉化思维完整指南"
 description: "通过 Excalidraw 插件在 Obsidian 中掌握视觉化思维。了解如何连接草图、图表和文本笔记，以增强你的 PKM 工作流。"

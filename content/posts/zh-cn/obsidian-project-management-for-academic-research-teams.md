@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-project-management-academic-research-teams.webp"
 editorSummary: >-
   我发现 Obsidian 对学术研究团队特别有价值，因为它通过双向链接将零散的笔记转化为相互关联的知识图谱——这是传统线性项目管理工具的一种范式转变。本地优先的架构确保了完整的数据所有权和面向未来的可访问性，而通过 Dataview 和 Tasks 等插件进行的定制则实现了动态任务跟踪和文献管理。然而，团队必须在前期投入精力建立一致的元数据和文件夹结构；如果没有这种纪律性，这种灵活性就会成为一种负担，而不是资产。

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:17:32+08:00
 image: "/og/best-obsidian-plugins-for-medical-school-students-2026.webp"
 editorSummary: >-
   Finding the right balance for medical school study tools is exhausting, but my vault only

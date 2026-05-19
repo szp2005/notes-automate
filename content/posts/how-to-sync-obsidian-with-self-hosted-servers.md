@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:14:11+08:00
 image: "/og/how-to-sync-obsidian-with-self-hosted-servers.webp"
 editorSummary: >-
   Obsidian Self Hosted Servers sync methods—Git-based synchronization, Syncthing, and

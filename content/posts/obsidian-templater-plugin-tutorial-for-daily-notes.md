@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/obsidian-templater-plugin-tutorial-for-daily-notes.webp"
 editorSummary: >-
   Plugin Tutorial Daily Notes automation hinges on Templater's ability to run JavaScript at

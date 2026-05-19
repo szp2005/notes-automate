@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/what-are-the-best-obsidian-plugins-for-students.webp"
 editorSummary: >-
   我推荐这篇指南，因为它围绕学生实际的工作流——研究、写作、备考——来构建 Obsidian 插件体系，而不是将它们视为孤立的工具。文章提出了一个令人信服的理由来解释为什么 Obsidian 如此重要：你的笔记作为纯 Markdown 文件存储在本地，你将永远拥有它们，而不是存放在可能随时消失的服务器上。像 Dataview 和 Templater 这样的基础插件处理了每个学生都需要的底层架构，而研究部分则确切地展示了 Zotero Integration 和 PDF Highlighter 如何将你的阅读与论文直接联系起来。值得注意的一个权衡是：建立这个生态系统需要前期的努力，但这种回报将在多年的学术工作中不断累积。

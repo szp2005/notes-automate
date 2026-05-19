@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/copilot-for-obsidian-chat-with-your-notes.webp"
 title: "Copilot for Obsidian 完整指南：与你的笔记对话"
 description: "探索如何原生使用 Copilot for Obsidian 与笔记进行对话。了解设置方法、本地 LLM 集成以及用于高效知识检索的工作流。"

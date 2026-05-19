@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/comparing-obsidian-frontmatter-vs-inline-dataview-fields.webp"
 title: "比较 Obsidian Frontmatter 与 Inline Dataview Fields (2026)"
 description: "深入探讨比较 Obsidian frontmatter 与 inline Dataview fields 时的优缺点。了解哪种元数据方法最适合你的 PKM 工作流。"

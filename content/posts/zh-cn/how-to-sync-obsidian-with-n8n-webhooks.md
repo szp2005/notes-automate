@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-sync-obsidian-with-n8n-webhooks.webp"
 evidenceImage:
   src: "/media/adsense-phase2/code-laptop.jpg"

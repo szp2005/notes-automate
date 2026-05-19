@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:56:55+08:00
 image: "/og/python-scripts-for-obsidian-api-integration.webp"
 editorSummary: >-
   Scripts Obsidian API Integration using Python's requests library unlock the full potential

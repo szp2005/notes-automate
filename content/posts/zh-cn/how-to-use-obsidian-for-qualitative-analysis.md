@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-use-obsidian-for-qualitative-analysis.webp"
 title: "使用 Obsidian 进行定性分析：完整指南"
 description: "有关如何使用 Obsidian 进行定性分析的实用指南：设置步骤、工具选择、风险以及构建可靠工作流的检查。"

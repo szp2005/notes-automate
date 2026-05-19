@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/what-is-the-obsidian-canvas-plugin.webp"
 editorSummary: >-
   What Obsidian Canvas Plugin offers is a free, built-in infinite whiteboard that spatially

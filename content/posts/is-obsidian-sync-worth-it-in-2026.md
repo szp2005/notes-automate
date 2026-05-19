@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T07:05:07+08:00
 image: "/og/is-obsidian-sync-worth-it-in-2026.webp"
 editorSummary: >-
   I found Obsidian Sync's value proposition compelling when weighing cross-platform

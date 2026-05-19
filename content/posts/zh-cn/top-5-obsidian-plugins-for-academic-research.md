@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/top-5-obsidian-plugins-for-academic-research.webp"
 editorSummary: >-
   Obsidian Plugins Academic Research solve a structural problem I see repeatedly: researchers

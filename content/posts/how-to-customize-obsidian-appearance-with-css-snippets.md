@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/how-to-customize-obsidian-appearance-with-css-snippets.webp"
 editorSummary: >-
   Obsidian Appearance CSS Snippets let you target specific visual elements without replacing

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/linking-your-notes-for-better-knowledge-discovery-obsidian.webp"
 editorSummary: >-
   在 Obsidian 中实现更好的知识发现需要掌握双向链接（bidirectional wikilinks）、块级引用（block-level references）以及原子化笔记结构——我在此详细介绍的五步框架能够将一个杂乱无章的笔记库转化为不断增值的资产。卡片盒笔记法（Zettelkasten）原则确保每条笔记只捕捉一个独立的概念，使得连接变得精准而非宽泛。然而，这种方法的代价是真实的：自律的链接习惯需要通过定期回顾和策划内容映射图（Maps of Content）来持续维护。如果没有这种重构工作流，你的关系图谱（graph view）就会变成一个无法阅读的毛线球，不仅不能揭示深刻见解，反而会掩盖它们。通过行内链接和描述性注释为连接提供上下文，可以防止陷入“兔子洞”效应，让你的知识发现保持有目的性。

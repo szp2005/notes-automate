@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:15:56+08:00
 image: "/og/how-to-manage-obsidian-plugins-across-multiple-devices.webp"
 editorSummary: >-
   Plugins Across Multiple Devices requires deliberate synchronization strategy because

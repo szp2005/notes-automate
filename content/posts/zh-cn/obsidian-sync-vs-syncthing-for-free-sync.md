@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-sync-vs-syncthing-for-free-sync.webp"
 editorSummary: >-
   Syncthing 免费同步提供了一个引人注目的点对点替代方案，让你的 Obsidian 库在不同设备间保持同步，且无需每月付费。我评估了 Obsidian Sync 和 Syncthing，以帮助你理清云同步与点对点架构之间的核心差异。关键的权衡在于：Syncthing 需要设备同时在线——如果你的桌面端离线，移动端的修改将不得不等到重新连接后才能同步——而 Obsidian Sync 则通过服务器进行持续同步。对于看重隐私和成本的 Android 和桌面用户来说，Syncthing 表现出色；而 iOS 用户则需要使用 Obsidian Sync 或如 Remotely Save 这样的社区插件。在选择同步方案之前，深入了解这些同步生态是必不可少的。

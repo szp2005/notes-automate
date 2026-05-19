@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/obsidian-anki-vs-spaced-repetition-plugin.webp"
 editorSummary: >-
   Anki Spaced Repetition Plugin workflows demand a genuine trade-off: the Obsidian to Anki

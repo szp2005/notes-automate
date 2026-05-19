@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:17:29+08:00
 image: "/og/comparison-of-mobile-markdown-editors-for-ios-android.webp"
 editorSummary: >-
   Selecting a mobile writing tool is a personal decision that impacts my entire PKM system.

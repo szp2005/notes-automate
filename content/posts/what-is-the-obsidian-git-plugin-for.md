@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/what-is-the-obsidian-git-plugin-for.webp"
 editorSummary: >-
   What Obsidian Git Plugin delivers is the premier free alternative to paid Obsidian Sync—a

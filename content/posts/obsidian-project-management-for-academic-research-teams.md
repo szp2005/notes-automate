@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:18:10+08:00
 image: "/og/obsidian-project-management-academic-research-teams.webp"
 editorSummary: >-
   I find Obsidian particularly valuable for academic research teams because it transforms

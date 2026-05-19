@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/automating-literature-reviews-using-obsidian-and-n8n.webp"
 title: "使用 Obsidian 与 n8n 自动化文献综述：完整指南"
 description: "使用 Obsidian 和 n8n 自动化文献综述的实用指南：设置步骤、工具选择、风险以及构建可靠工作流的检查清单。"

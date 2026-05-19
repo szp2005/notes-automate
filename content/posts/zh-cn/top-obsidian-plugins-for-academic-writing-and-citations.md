@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/top-obsidian-plugins-for-academic-writing-and-citations.webp"
 editorSummary: >-
   我评估了这篇关于Obsidian顶级学术写作插件的评测，发现Zotero Integration因其对PDF批注的强大处理能力和可自定义模板而脱颖而出。本文涵盖了从文献管理工具到用于多章节手稿的Longform插件等核心工具，这些工具切实简化了研究工作流。然而，我也注意到了一个明显的权衡：虽然Zotero Integration提供了强大的功能，但其初始设置和模板配置门槛较高，对于刚接触纯文本学术写作的研究人员来说不够友好。探索顶级Obsidian学术写作与引文插件，构建一个从批注到导出无所不包的综合知识库。

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/using-obsidian-to-manage-n8n-workflow-documentation.webp"
 editorSummary: >-
   通过将自动化环境的相互关联结构映射到 Obsidian 中，管理 N8N 工作流文档。这主要通过三个核心支柱实现：工作流、节点/集成和全局变量。我发现双向链接在跟踪依赖关系时特别有价值——当 CRM API 更新时，你可以立即通过反向链接看到所有受影响的工作流。需要注意的权衡是：保持准确性需要严格的命名约定和定期审计，因为 n8n 画布和 Obsidian 库之间的差异会削弱对文档的信任。使用 Obsidian 管理 n8n 工作流文档可以简化故障排除，并防止在将自动化团队从几十个扩展到数百个活动工作流时出现知识孤岛。

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:33:43+08:00
 image: "/og/customizing-obsidian-sidebar-with-commander-plugin-icons.webp"
 editorSummary: >-
   I find the Commander plugin transforms how I interact with Obsidian by replacing tedious

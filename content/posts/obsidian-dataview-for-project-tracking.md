@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T22:56:01+08:00
 image: "/og/obsidian-dataview-for-project-tracking.webp"
 editorSummary: >-
   Obsidian Dataview Project Tracking transforms plain-text markdown into a queryable database

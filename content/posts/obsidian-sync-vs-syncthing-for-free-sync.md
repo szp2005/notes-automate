@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T23:20:57+08:00
 image: "/og/obsidian-sync-vs-syncthing-for-free-sync.webp"
 editorSummary: >-
   Syncthing Free Sync presents a compelling peer-to-peer alternative for keeping your Obsidian

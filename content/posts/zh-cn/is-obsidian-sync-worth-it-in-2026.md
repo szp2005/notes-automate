@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/is-obsidian-sync-worth-it-in-2026.webp"
 title: "2026年Obsidian Sync值得购买吗？全面评测"
 description: "想知道2026年Obsidian Sync是否物有所值？我们评测了它的功能、安全性以及最佳替代方案，帮助你决定它是否适合你的工作流。"

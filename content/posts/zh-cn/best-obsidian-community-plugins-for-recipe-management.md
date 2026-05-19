@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/best-obsidian-community-plugins-for-recipe-management.webp"
 title: "最佳 Obsidian 社区食谱管理插件 (2026)"
 description: "探索最佳的 Obsidian 社区食谱管理插件，以组织膳食、追踪食材，并构建您终极的个人食谱系统。"

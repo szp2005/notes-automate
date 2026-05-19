@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-dataview-for-project-tracking.webp"
 editorSummary: >-
   Obsidian Dataview 项目跟踪通过结合 YAML frontmatter 和 DQL 查询，将纯文本 Markdown 转化为可查询的数据库。本指南围绕三种核心查询类型构建——用于项目概览的 TABLE、用于可执行待办事项的 TASK 和用于状态日志的 LIST——每种类型都解决特定的跟踪需求。主仪表板将这些查询整合到一个控制中心，而 FLATTEN 命令则处理复杂的里程碑。一个关键的权衡是：Dataview 查询对于项目元数据是只读的，需要您导航到源文件以更新状态字段，尽管任务复选框仍然可编辑。性能完全取决于查询范围；搜索整个 vault 会导致延迟，因此请始终将查询限制在特定的文件夹或标签。

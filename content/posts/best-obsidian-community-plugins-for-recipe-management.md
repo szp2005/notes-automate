@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:22:13+08:00
 image: "/og/best-obsidian-community-plugins-for-recipe-management.webp"
 editorSummary: >-
   Community Plugins Recipe Management transforms Obsidian into a queryable personal cookbook

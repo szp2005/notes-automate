@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:16:12+08:00
 image: "/og/obsidian-raycast-extension-for-rapid-research-capture.webp"
 editorSummary: >-
   Extension Rapid Research Capture bridges the friction between fleeting insights and

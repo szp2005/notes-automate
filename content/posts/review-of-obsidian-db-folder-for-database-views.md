@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:23:22+08:00
 image: "/og/review-of-obsidian-db-folder-for-database-views.webp"
 editorSummary: >-
   I evaluated Obsidian DB Folder as a practical Notion alternative for local markdown

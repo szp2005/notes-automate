@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:37:20+08:00
 image: "/og/customizing-the-obsidian-graph-view-for-better-insights.webp"
 editorSummary: >-
   I find that customizing the Obsidian graph view for better insights transforms what often

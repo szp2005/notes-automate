@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/best-obsidian-plugins-for-medical-school-students-2026.webp"
 title: "2026年医学生最佳 Obsidian 插件指南"
 description: "探索2026年适合医学生的最佳 Obsidian 插件。优化你的学习工作流，掌握间隔重复，并高效管理临床轮转。"

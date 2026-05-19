@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-manage-obsidian-plugins-across-multiple-devices.webp"
 title: "在多设备上管理 Obsidian 插件：2026 年完整指南"
 description: "了解如何精确管理多设备上的 Obsidian 插件。比较 Obsidian Sync、Git 和云服务选项，以保持你的库配置完全一致。"

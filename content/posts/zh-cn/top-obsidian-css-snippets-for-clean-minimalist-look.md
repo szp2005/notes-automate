@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/top-obsidian-css-snippets-for-clean-minimalist-look.webp"
 editorSummary: >-
   I evaluated these top Obsidian CSS snippets for a clean minimalist look and found they

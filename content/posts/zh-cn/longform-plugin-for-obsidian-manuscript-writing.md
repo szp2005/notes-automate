@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/longform-plugin-obsidian-manuscript-writing.webp"
 editorSummary: >-
   我发现 Longform 插件通过将单个 Markdown 文件视为可以在拖拽式侧边栏中排列的模块化场景，将 Obsidian 变成了一个强大的长篇文稿编辑器。该插件的非破坏性方法——将顺序数据单独存储，同时保持你的库（vault）原样不动——吸引了那些看重纯文本便携性而非专有格式的作家。然而，复杂的导出过程确实是一个妥协：Scrivener 可以直接编译为多种格式，而 Longform 需要像 Pandoc 这样的第三方工具来输出 Word 或 PDF。使用平行的文件夹系统将手稿文件与研究笔记分开，对于防止意外编译辅助材料至关重要。

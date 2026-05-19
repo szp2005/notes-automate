@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T10:22:33+08:00
 image: "/og/streamlining-your-daily-note-workflow-for-better-productivity.webp"
 editorSummary: >-
   I found that streamlining your daily note workflow for better productivity hinges on

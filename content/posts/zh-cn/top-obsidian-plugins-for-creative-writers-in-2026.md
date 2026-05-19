@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/top-obsidian-plugins-for-creative-writers-in-2026.webp"
 editorSummary: >-
   Obsidian 的创意写作插件将您的笔记应用转变为一个手稿管理系统。Longform 在编译多场景草稿方面表现出色，而 Novel Word Count 则提供有关进度的即时视觉反馈——这对于在数月的写作中保持动力至关重要。Dataview 和 Kanban 实现了动态的世界构建和可视化的情节结构，但关键的权衡是避免过度设计您的知识库。我观察到的真正陷阱是，作家们花在调整插件和自定义主题上的时间比实际起草文章的时间还要多。从极简开始，只安装那些能解决您工作流中特定阻力点的插件，而不是把它们当成玩具来探索。

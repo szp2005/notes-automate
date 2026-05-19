@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:07:32+08:00
 image: "/og/obsidian-vault-structure-digital-gardening-beginners.webp"
 editorSummary: >-
   Structure Digital Gardening Beginners using status-based organization rather than subject

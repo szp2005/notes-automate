@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:59:33+08:00
 image: "/og/managing-a-ph-d-thesis-in-obsidian.webp"
 editorSummary: >-
   I found managing a Ph.D. thesis in Obsidian transforms how doctoral candidates handle

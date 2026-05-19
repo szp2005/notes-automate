@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:19:58+08:00
 image: "/og/best-obsidian-themes-for-high-contrast-accessibility-2026.webp"
 editorSummary: >-
   My personal vault is a work in progress, but I’ve learned that a sleek design is worthless

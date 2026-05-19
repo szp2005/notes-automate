@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:35:26+08:00
 image: "/og/n8n-workflow-for-obsidian-daily-notes-setup.webp"
 editorSummary: >-
   Obsidian Daily Notes Setup with n8n transforms manual morning preparation into a fully

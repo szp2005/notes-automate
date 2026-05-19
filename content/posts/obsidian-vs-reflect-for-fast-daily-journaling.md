@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:26:09+08:00
 image: "/og/obsidian-vs-reflect-for-fast-daily-journaling.webp"
 editorSummary: >-
   Reflect Fast Daily Journaling excels at zero-friction capture with native Whisper voice

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:13:06+08:00
 image: "/og/creating-automated-index-pages-with-obsidian-dataview.webp"
 editorSummary: >-
   Index Pages Obsidian Dataview transforms vault organization by replacing manual link

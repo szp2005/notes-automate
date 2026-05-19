@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T10:23:09+08:00
 image: "/og/applying-the-para-method-to-an-obsidian-vault.webp"
 editorSummary: >-
   I often find my note-taking process gets bogged down by too much subject-based sorting.

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:31:21+08:00
 image: "/og/python-scripts-for-bulk-processing-obsidian-markdown-files.webp"
 editorSummary: >-
   Processing Obsidian Markdown Files with Python requires mastering python-frontmatter for

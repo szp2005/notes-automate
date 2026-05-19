@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:47:34+08:00
 image: "/og/copilot-for-obsidian-chat-with-your-notes.webp"
 editorSummary: >-
   Obsidian Chat Your Notes through Copilot, a community plugin that brings conversational AI

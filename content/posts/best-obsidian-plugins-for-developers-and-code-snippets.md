@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:28:09+08:00
 image: "/og/best-obsidian-plugins-for-developers-and-code-snippets.webp"
 editorSummary: >-
   I often find that vanilla Obsidian lacks the native formatting I need for professional

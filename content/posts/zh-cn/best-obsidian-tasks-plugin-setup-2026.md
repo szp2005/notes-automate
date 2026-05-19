@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/best-obsidian-tasks-plugin-setup-2026.webp"
 title: "2026年最佳 Obsidian Tasks 插件配置：完整指南"
 description: "探索2026年最佳的 Obsidian Tasks 插件配置。学习如何结合 Dataview、每日笔记和高级查询，打造完美的生产力系统。"

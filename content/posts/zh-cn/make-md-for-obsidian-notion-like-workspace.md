@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/make-md-obsidian-notion-like-workspace.webp"
 editorSummary: >-
   我发现 Make.md 能够将 Obsidian 转化为类似 Notion 的工作区，而不会牺牲你对本地文件的所有权。该插件通过动态的 Spaces 重构导航，引入 Flow Editor 实现无缝内联编辑，并用可视化的 Context Blocks 替代 Dataview 查询以实现类似数据库的功能。不过我需要提醒的是，运行如此繁重的修改会在较大的库上带来性能开销——在 Context 表格之间切换可能会产生 1-2 秒的渲染延迟——并且会与修改文件浏览器的插件产生冲突。视觉设置仍然与该插件绑定，但你的底层 Markdown 数据依然保持完美的便携性。

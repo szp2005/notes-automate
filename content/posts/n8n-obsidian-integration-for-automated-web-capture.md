@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:54:18+08:00
 image: "/og/n8n-obsidian-integration-for-automated-web-capture.webp"
 editorSummary: >-
   Integration Automated Web Capture uses a three-stage pipeline—ingestion, processing, and

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:40:04+08:00
 image: "/og/automating-your-task-management-with-obsidian-tasks-plugin.webp"
 editorSummary: >-
   I've spent years jumping between dedicated to-do apps, but I find that keeping action items

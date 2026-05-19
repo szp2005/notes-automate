@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/configuring-obsidian-for-automated-daily-backup-to-dropbox.webp"
 title: "配置 Obsidian 自动每日备份到 Dropbox 的指南"
 description: "了解如何配置 Obsidian 自动每日备份到 Dropbox 以保护您的笔记。这是一份关于安全、免提的本地同步与恢复的逐步指南。"

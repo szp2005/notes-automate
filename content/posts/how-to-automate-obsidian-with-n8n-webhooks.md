@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T20:38:44+08:00
 editorSummary: >-
   Automate Obsidian N8N Webhooks by installing the Local REST API plugin, which transforms
   your vault into a local web server capable of receiving HTTP requests from n8n. The core

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-projects-plugin-review-and-setup.webp"
 editorSummary: >-
   我测评了这篇 Obsidian Projects 插件指南，发现它切实填补了可视化项目管理领域的空白。该插件能将任何文件夹转化为包含表格（Table）、看板（Board）、日历（Calendar）和画廊（Gallery）视图的仪表板——无需编写任何代码。最令我印象深刻的是提供了三个可直接复制使用的项目模板，分别适用于内容创作、学术研究和 GTD 工作流，具备极高的即时实用价值。需要注意的是，它的取舍在于：Projects 插件擅长可视化仪表板，但缺乏 Dataview 的查询灵活性，因此两者是互补工具而非竞争对手。日历视图中的日期格式配置错误是一个特别需要尽早避免的陷阱。

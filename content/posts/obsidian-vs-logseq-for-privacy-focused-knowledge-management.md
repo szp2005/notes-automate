@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:15:19+08:00
 image: "/og/obsidian-vs-logseq-for-privacy-focused-knowledge-management.webp"
 editorSummary: >-
   I evaluated both Obsidian and Logseq as local-first knowledge management systems and found

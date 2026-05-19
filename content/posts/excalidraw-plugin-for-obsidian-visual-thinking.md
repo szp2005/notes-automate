@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T23:16:33+08:00
 image: "/og/excalidraw-plugin-for-obsidian-visual-thinking.webp"
 editorSummary: >-
   I found the Excalidraw plugin transforms how I approach visual thinking in Obsidian by

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T13:42:36+08:00
 image: "/og/using-dataview-arrays-for-complex-obsidian-tables.webp"
 editorSummary: >-
   Arrays in Complex Obsidian Tables demand careful use of Dataview functions like FLATTEN,

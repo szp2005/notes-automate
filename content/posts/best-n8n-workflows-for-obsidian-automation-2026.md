@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:09:38+08:00
 image: "/og/best-n8n-workflows-obsidian-automation-2026.webp"
 editorSummary: >-
   I spent a lot of time searching for a way to connect my local vault to external services

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-raycast-extension-for-rapid-research-capture.webp"
 editorSummary: >-
   Extension Rapid Research Capture 弥合了转瞬即逝的灵感与结构化知识存储之间的摩擦。Obsidian Raycast extension 提供了直接将内容通过键盘驱动采集到您的 vault 中的功能，消除了通常会打断研究流程的打开应用程序和导航文件夹的多步过程。我非常欣赏即时模板和标签如何将原始输入转化为有组织的笔记，尽管设置需要仔细配置 vault 路径——配置错误的路径会悄无声息地将采集的内容发送到错误的位置。对于管理信息过载的研究人员来说，Obsidian 的知识图谱和 Raycast 的命令界面之间的这种协同作用提供了一个真正响应迅速的个人知识管理系统。

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:09:10+08:00
 image: "/og/automating-obsidian-frontmatter-with-templater-scripts.webp"
 editorSummary: >-
   I have found that the biggest hurdle in maintaining a large vault isn't the writing itself,

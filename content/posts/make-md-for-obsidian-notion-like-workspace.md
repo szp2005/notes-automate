@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:48:59+08:00
 image: "/og/make-md-obsidian-notion-like-workspace.webp"
 editorSummary: >-
   I found Make.md transforms Obsidian into a Notion-like workspace without sacrificing local

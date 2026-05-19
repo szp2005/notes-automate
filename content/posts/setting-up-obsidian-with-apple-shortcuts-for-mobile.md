@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:28:32+08:00
 image: "/og/setting-up-obsidian-with-apple-shortcuts-for-mobile.webp"
 editorSummary: >-
   Obsidian Apple Shortcuts Mobile setup transforms how you capture ideas on iOS by bypassing

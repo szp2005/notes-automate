@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/best-obsidian-themes-for-dark-mode-2026.webp"
 title: "2026 年最佳 Obsidian 深色模式主题：精选推荐"
 description: "探索 2026 年最佳 Obsidian 深色模式主题。比较顶尖选择的易读性、美观度和性能，以优化您的知识工作区。"

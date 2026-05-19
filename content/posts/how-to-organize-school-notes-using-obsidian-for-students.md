@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T13:32:05+08:00
 image: "/og/how-to-organize-school-notes-using-obsidian-for-students.webp"
 editorSummary: >-
   I organized my approach to student note-taking by implementing Obsidian's hybrid folder

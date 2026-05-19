@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-advanced-uri-automation-alfred.webp"
 editorSummary: >-
   I see this guide as a practical bridge between two macOS tools that rarely communicate

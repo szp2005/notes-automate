@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:51:12+08:00
 image: "/og/tag-wrangler-for-bulk-tag-management-obsidian.webp"
 editorSummary: >-
   Bulk Tag Management Obsidian requires a dedicated plugin because native tag handling creates

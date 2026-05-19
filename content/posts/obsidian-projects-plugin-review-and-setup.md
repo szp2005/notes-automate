@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/obsidian-projects-plugin-review-and-setup.webp"
 editorSummary: >-
   I reviewed this Obsidian Projects Plugin guide and found it fills a real gap for visual

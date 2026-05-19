@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-customize-obsidian-appearance-with-css-snippets.webp"
 title: "Obsidian CSS 代码片段：自定义你的知识库外观"
 author: "Alex Chen"

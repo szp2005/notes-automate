@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-build-a-crm-in-obsidian-vault.webp"
 title: "在 Obsidian Vault 中构建 CRM：2026 完整指南"
 description: "了解如何在 Obsidian vault 中构建 CRM，以在本地跟踪客户、管理潜在客户并链接笔记，无需按月订阅。包含分步设置指南。"

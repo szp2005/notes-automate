@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/is-obsidian-sync-worth-it-review.webp"
 editorSummary: >-
   I reviewed this article as a breakdown of whether Obsidian Sync's $96/year cost justifies

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T19:15:33+08:00
 image: "/og/hovernotes-for-timestamped-video-notes-obsidian.webp"
 editorSummary: >-
   I found HoverNotes transforms how I capture knowledge from video content in Obsidian by

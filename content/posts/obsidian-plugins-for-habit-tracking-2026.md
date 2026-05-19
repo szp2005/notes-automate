@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T07:08:26+08:00
 image: "/og/obsidian-plugins-for-habit-tracking-2026.webp"
 editorSummary: >-
   Obsidian Plugins Habit Tracking 2026 relies on four core tools—Dataview, Tracker, Heatmap

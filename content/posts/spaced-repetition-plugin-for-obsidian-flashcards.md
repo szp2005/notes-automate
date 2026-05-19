@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T19:14:45+08:00
 image: "/og/spaced-repetition-plugin-for-obsidian-flashcards.webp"
 editorSummary: >-
   Repetition Plugin Obsidian Flashcards solves the context-switching problem that plagues

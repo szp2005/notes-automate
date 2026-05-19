@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T13:28:41+08:00
 image: "/og/understanding-the-difference-between-folders-and-tags-obsidian.webp"
 editorSummary: >-
   Between Folders Tags Obsidian, I discovered that the tension between these two

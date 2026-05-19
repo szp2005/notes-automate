@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/zotero-integration-for-obsidian-academic-research.webp"
 editorSummary: >-
   通过 Better BibTeX 将 Obsidian 学术研究整合，在文献管理工具和知识库之间搭建了一座强大的桥梁。我发现，将 PDF 高亮、引用和批注自动同步到基于模板的文献笔记中，能够消除分散的研究工作流带来的阻力。Zotero Integration 插件的 Nunjucks 模板引擎能在几分钟内将原始批注转化为结构化、相互关联的笔记——在文献综述期间节省数百小时。然而，将 PDF 存储在 Obsidian 库外而不是直接同步是至关重要的；将数 GB 的文件推入你的库会降低索引性能和移动端功能。掌握引用键标准化和模板设计是区分高效工作流与混乱工作流的关键。

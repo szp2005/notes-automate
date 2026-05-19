@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:29:55+08:00
 image: "/og/obsidian-periodic-notes-plugin-setup-for-annual-reviews.webp"
 editorSummary: >-
   Plugin Setup Annual Reviews demands combining three community tools—Periodic Notes,

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/how-to-use-callouts-in-obsidian-for-better-notes.webp"
 editorSummary: >-
   I found callouts transform how quickly I can scan my Obsidian notes—the > [!TYPE] syntax is

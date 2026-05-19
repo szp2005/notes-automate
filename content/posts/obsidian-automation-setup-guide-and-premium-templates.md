@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:36:50+08:00
 image: "/og/obsidian-automation-setup-guide-and-premium-templates.webp"
 evidenceImage:
   src: "/media/adsense-phase2/sticky-workflow.jpg"

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:35:40+08:00
 image: "/og/raindrop-io-integration-for-obsidian-bookmark-management.webp"
 editorSummary: >-
   I found the Raindrop IO integration for Obsidian bookmark management transforms how

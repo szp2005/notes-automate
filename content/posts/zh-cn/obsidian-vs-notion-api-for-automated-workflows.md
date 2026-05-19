@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-vs-notion-api-for-automated-workflows.webp"
 evidenceImage:
   src: "/media/adsense-phase2/sticky-workflow.jpg"

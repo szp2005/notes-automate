@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T19:16:27+08:00
 image: "/og/zotero-integration-for-obsidian-academic-research.webp"
 editorSummary: >-
   Integration Obsidian Academic Research through Better BibTeX creates a powerful bridge

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/integrating-web-clips-into-your-zettelkasten-note-system.webp"
 title: "将网页剪藏整合到 Zettelkasten 笔记系统的指南"
 description: "学习将网页剪藏整合到 Zettelkasten 笔记系统的确切工作流，从而构建无缝的知识库并永久保留信息。"

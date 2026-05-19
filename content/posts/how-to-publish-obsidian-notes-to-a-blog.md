@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T07:09:08+08:00
 image: "/og/how-to-publish-obsidian-notes-to-a-blog.webp"
 editorSummary: >-
   Publish Obsidian Notes Blog workflows demand choosing between simplicity and control. Static

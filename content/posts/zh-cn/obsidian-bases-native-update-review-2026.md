@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-bases-native-update-review-2026.webp"
 editorSummary: >-
   我评测了2026年的 Obsidian Bases 原生更新，发现它填补了本地优先笔记工具的一个关键空白。新的 SQLite 架构消除了困扰早期数据库插件的界面卡顿问题，实现了对包含数千条记录的表格的无缝编辑。最让我印象深刻的是，该插件现在完全继承了 Obsidian 的原生主题和快捷键，使其感觉像是原生集成而非外挂组件。不过，在旧硬件上初次索引笔记库可能需要几分钟时间——在将此方案应用于海量笔记库前，这是一个值得权衡的因素。与 Datacore 和 Data Loom 相比，Bases 在结构化数据与纯文本理念之间取得了最佳平衡。

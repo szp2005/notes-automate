@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T06:56:48+08:00
 image: "/og/applying-the-para-method-to-an-obsidian-vault.webp"
 title: "在 Obsidian 库中应用 PARA 方法：完整指南"
 description: "通过清晰的示例和工作流，准确了解在 Obsidian 库中应用 PARA 方法如何减少个人知识管理中的摩擦。"

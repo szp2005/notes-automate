@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/automated-meeting-note-generation-with-n8n-obsidian.webp"
 title: "使用 n8n 和 Obsidian 自动生成会议笔记：5 步指南"
 description: "了解如何使用 n8n 和 Obsidian 构建自动化的会议笔记生成工作流。捕获转录内容，通过 LLM 进行总结，并直接同步到您的本地知识库中。"

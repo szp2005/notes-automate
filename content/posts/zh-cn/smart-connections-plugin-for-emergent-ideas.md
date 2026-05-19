@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/smart-connections-plugin-for-emergent-ideas.webp"
 editorSummary: >-
   Smart Connections 插件通过语义搜索而非手动标签，彻底改变了你在 Obsidian 知识库中发现隐藏联系的方式。我使用 OpenAI 嵌入和 65–75% 的相关性阈值配置了 Smart Connections 插件，随后测试了三种工作流：用于发现跨学科重叠的“盲区”审计、用于巩固手动链接的自动化反向链接会话，以及用于促成概念碰撞的聊天驱动综合。这里关键的权衡在于避免“AI 依赖”——完全依赖该插件可能会让你放弃手动链接所必需的积极思考。块级别的细粒度确保了被埋没的段落也能被发现，同时排除管理类文件夹可以防止噪音淹没真正的洞察。

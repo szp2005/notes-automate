@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/custom-css-for-obsidian-academic-paper-formatting.webp"
 editorSummary: >-
   我经常在研究笔记和最终提交草稿之间的视觉差异上感到挣扎。这篇教程阐明了理解 Obsidian 样式架构（Understanding Obsidian's Styling Architecture）的过程，这对于任何试图保持专业标准的人来说都至关重要。我更喜欢使用模块化的 CSS 代码片段，而不是完整的主题，因为主题往往优先考虑整体美观，而不是严格的期刊指南——这种权衡通常会在以后导致格式化方面的头痛问题。在测试这些样式时，我观察到的一个具体情况是：虽然你可以轻松修复行距，但如果没有额外的 HTML 结构，使用纯 CSS 完美复制 APA 4 级“同级”标题仍然是一个棘手的陷阱。

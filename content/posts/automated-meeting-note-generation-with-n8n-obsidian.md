@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T15:43:41+08:00
 image: "/og/automated-meeting-note-generation-with-n8n-obsidian.webp"
 editorSummary: >-
   I’ve spent too many hours manually cleaning up messy transcripts, so I find this technical

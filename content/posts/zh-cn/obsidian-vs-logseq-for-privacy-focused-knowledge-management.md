@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-vs-logseq-for-privacy-focused-knowledge-management.webp"
 editorSummary: >-
   我评估了 Obsidian 和 Logseq 这两款本地优先的知识管理系统，发现它们通过截然不同的架构解决了相同的隐私问题。Obsidian 作为基于文档的 IDE 表现出色，拥有超过 1,500 个插件，可实现极致的定制化；而 Logseq 则是一个具有开源透明度的块级大纲工具。关键的权衡在于：尽管 Obsidian 是纯本地运行，但其闭源特性要求用户必须信任开发者；而 Logseq 的开源特性允许进行安全审计，但在处理超大型图谱时性能明显较慢。你的选择完全取决于你是优先考虑长文合成，还是日常日志记录工作流。

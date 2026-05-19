@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/obsidian-canvas-vs-excalidraw-for-mind-mapping.webp"
 editorSummary: >-
   Canvas Excalidraw Mind Mapping represents a fundamental choice: Obsidian Canvas is part of

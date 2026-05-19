@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T10:25:12+08:00
 image: "/og/integrating-web-clips-into-your-zettelkasten-note-system.webp"
 editorSummary: >-
   I find the distinction between collecting and connecting essential for anyone struggling

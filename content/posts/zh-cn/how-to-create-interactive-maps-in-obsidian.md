@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-create-interactive-maps-in-obsidian.webp"
 title: "Obsidian 交互式地图：空间化笔记指南"
 author: "Alex Chen"

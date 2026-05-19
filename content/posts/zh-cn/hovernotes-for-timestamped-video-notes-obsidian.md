@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/hovernotes-for-timestamped-video-notes-obsidian.webp"
 title: "在 Obsidian 中使用 HoverNotes 记录带时间戳的视频笔记：完整指南"
 description: "掌握在 Obsidian 中使用 HoverNotes 记录带时间戳的视频笔记的方法。了解如何同步 YouTube 播放、进行精准批注以及构建你的可视化知识库。"

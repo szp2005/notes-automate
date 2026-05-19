@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/obsidian-theme-store-browser.webp"
 editorSummary: >-
   I found Obsidian's dual browsing approach—in-app via Settings > Appearance > Community

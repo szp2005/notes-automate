@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/templater-plugin-for-obsidian-dynamic-templates-guide.webp"
 editorSummary: >-
   我发现 Templater 插件将 Obsidian 从被动的文本编辑器转变为个人知识管理的活跃处理引擎。这份动态模板指南向你展示了如何使用 tp 对象和执行标签来自动创建笔记，从简单的日期插入到复杂的 JavaScript 逻辑。我观察到的主要权衡是：虽然动态标签会在阅读模式下更新，但它们可能会拖慢大型知识库的性能，因此执行标签更适合静态的、一次性的生成。通过配置基于文件夹的触发器并避免过度提示，你可以显著减少摩擦，花更少的时间管理结构。

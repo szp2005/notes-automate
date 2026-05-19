@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-theme-store-browser.webp"
 editorSummary: >-
   我发现 Obsidian 的双重浏览模式——通过“Settings > Appearance > Community themes > Browse”在应用内浏览，以及在 obsidian.md/themes 的网页画廊浏览——对于不同的发现工作流非常有用。浏览和安装主题最主要且最高效的方式是直接在应用内进行，但网页画廊的明/暗模式过滤和预览截图能让你在决定前筛选候选主题。一个关键的取舍是：网页画廊没有安装按钮，需要你之后在应用内按名称搜索。CSS snippets 也值得尽早关注；它们允许你微调任何主题而无需完全替换它，当你只需要进行微小调整时，这能省去很多烦恼。

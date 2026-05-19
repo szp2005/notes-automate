@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/excalidraw-plugin-for-obsidian-review.webp"
 editorSummary: >-
   I find Excalidraw's deep linking and transclusion features genuinely transformative for

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/linter-plugin-for-obsidian-auto-formatting.webp"
 editorSummary: >-
   我发现 Obsidian 的 Linter 自动格式化插件对于在大规模维护笔记库的一致性方面至关重要。该插件统一了 YAML 前言、空格和标题结构的样式，我发现这在通过静态网站生成器发布笔记或使用外部脚本解析文件时非常关键。最让我印象深刻的是便利性与风险之间的权衡：启用“保存时格式化”（Lint on Save）可以极大地简化你的工作流，但运行“格式化整个笔记库”（Lint Entire Vault）需要仔细的备份计划，因为它会同时修改数千个文件。本指南强调先在测试笔记上进行尝试，这让我避免了意外的格式化灾难。

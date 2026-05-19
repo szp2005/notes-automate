@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/explaining-obsidian-properties-for-advanced-metadata-schemas.webp"
 title: "详解 Obsidian 属性：用于知识管理的高级元数据模式"
 description: "详解用于高级元数据模式的 Obsidian 属性实用指南：设置步骤、工具选择、风险以及构建可靠系统的检查项。"

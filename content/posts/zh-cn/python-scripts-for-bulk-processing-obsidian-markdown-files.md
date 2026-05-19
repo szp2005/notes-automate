@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/python-scripts-for-bulk-processing-obsidian-markdown-files.webp"
 editorSummary: >-
   使用 Python 处理 Obsidian Markdown 文件需要掌握 python-frontmatter 以安全处理 YAML 元数据，并熟练运用类似 (?<!\w)#old-tag\b 的正则表达式来进行行内标签匹配。我发现，在整个 vault 中自动执行标签更新、链接修复和格式排版，能将手动数据录入转化为架构层面的管理。关键的权衡在于，虽然 Python 提供了超越 Obsidian 原生搜索替换的细粒度控制，但一个未经充分验证的正则表达式可能会对格式造成不可逆的破坏。在生产环境的 vault 中运行脚本之前，我始终严格执行安全协议——强制备份、dry-run 标志以及先在小范围子集上进行测试。这种方法能让你充满信心地执行大规模重构。

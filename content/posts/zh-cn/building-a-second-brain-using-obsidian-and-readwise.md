@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/building-a-second-brain-using-obsidian-and-readwise.webp"
 title: "使用 Obsidian 和 Readwise 构建第二大脑：完整指南"
 description: "准确了解如何使用 Obsidian 和 Readwise 构建第二大脑，将零散的高亮标注转化为相互关联、可操作的知识管理系统。"

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/using-dataview-arrays-for-complex-obsidian-tables.webp"
 editorSummary: >-
   在复杂的 Obsidian 表格中，数组（Arrays）需要谨慎使用 Dataview 函数，如 FLATTEN、map() 和 filter()，以将原始列表数据转换为结构化的表格行。我发现，掌握这些核心函数——尤其是用于将数组拆分为单独行的 FLATTEN——从根本上改变了查询知识库的方式。然而，这里存在一个关键的权衡：虽然数组操作在 Obsidian 中解锁了动态的关系型数据库功能，但当你在大型知识库中进行大规模的展平或跨数百个链接文件进行映射时，性能会显著下降。在展平之前进行战略性的范围限定和过滤，对于保持工作区的响应速度变得至关重要。

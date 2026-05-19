@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:11:45+08:00
 image: "/og/explaining-obsidian-properties-for-advanced-metadata-schemas.webp"
 editorSummary: >-
   Properties Advanced Metadata Schemas transform unstructured note collections into queryable

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-vs-tana-structured-knowledge-management.webp"
 editorSummary: >-
   Tana 的结构化知识管理与 Obsidian 之间呈现了一种根本性的架构选择：是通过 Supertags 实现数据库驱动的面向对象，还是通过 YAML Properties 拥抱本地所有的纯文本灵活性。我专门针对结构化知识工作检查了这两个平台，对比了它们的数据建模能力、通过 Dataview 与 Search Nodes 实现的信息检索系统以及界面范式。关键的权衡在于初始设置的阻力：Tana 无需编码即可立即提供数据库功能，而 Obsidian 则需要大量的插件配置和维护才能达到类似的结构。对于优先考虑绝对数据所有权和离线能力的用户来说，Obsidian 的纯文本基础尽管复杂，但仍是赢家。然而，对于那些需要直观的关系数据模型和可视化查询的用户来说，Tana 依赖云的架构效率要高得多。

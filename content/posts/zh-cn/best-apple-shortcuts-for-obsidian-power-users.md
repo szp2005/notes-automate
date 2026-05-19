@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/best-apple-shortcuts-for-obsidian-power-users.webp"
 title: "2026年适合Obsidian高阶用户的最佳Apple Shortcuts"
 description: "探索适合Obsidian高阶用户的最佳Apple Shortcuts，自动化您的PKM工作流。比较适用于iOS/macOS的顶级工具，实现快速记录与整理。"

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:53:38+08:00
 image: "/og/best-obsidian-plugins-for-academic-researchers-2026.webp"
 editorSummary: >-
   Obsidian Plugins Academic Researchers need Zotero Integration, Dataview, and Annotator to

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:06:42+08:00
 image: "/og/how-to-use-css-snippets-for-obsidian-callouts.webp"
 editorSummary: >-
   I find CSS snippets for Obsidian callouts invaluable for moving beyond default styling

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/what-are-the-best-obsidian-plugins-for-students.webp"
 editorSummary: >-
   I recommend this guide because it structures Obsidian plugins around actual student

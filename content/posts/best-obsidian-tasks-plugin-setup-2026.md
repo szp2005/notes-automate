@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T22:56:01+08:00
 image: "/og/best-obsidian-tasks-plugin-setup-2026.webp"
 editorSummary: >-
   I found that most productivity systems fail when a vault grows too large. To fix this, I

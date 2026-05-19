@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-find-obsidian-plugin-documentation.webp"
 title: "最简单的方法：直接在 Obsidian 内部查找文档"
 author: "Alex Chen"

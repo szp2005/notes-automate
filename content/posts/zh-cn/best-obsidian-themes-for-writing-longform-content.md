@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T21:17:39+08:00
 image: "/og/best-obsidian-themes-for-writing-longform-content.webp"
 title: "长篇写作的最佳 Obsidian 主题"
 author: "Alex Chen"

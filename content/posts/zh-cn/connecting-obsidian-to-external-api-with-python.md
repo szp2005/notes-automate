@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/connecting-obsidian-to-external-api-with-python.webp"
 title: "使用 Python 将 Obsidian 连接到外部 API：完整指南"
 description: "了解如何使用 Python 将 Obsidian 连接到外部 API。本分步指南涵盖了读取本地 Vault、发起 HTTP 请求以及安全地写回数据。"

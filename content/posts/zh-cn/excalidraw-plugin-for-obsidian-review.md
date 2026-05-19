@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/excalidraw-plugin-for-obsidian-review.webp"
 title: "Excalidraw Obsidian 插件评测：视觉思考指南"
 author: "Alex Chen"

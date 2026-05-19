@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/keyboard-maestro-macros-for-advanced-obsidian-navigation.webp"
 editorSummary: >-
   I found Keyboard Maestro transforms how I navigate Obsidian by automating repetitive actions

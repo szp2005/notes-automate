@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T13:15:49+08:00
 image: "/og/triggering-n8n-workflows-directly-from-obsidian-notes.webp"
 evidenceImage:
   src: "/media/adsense-phase2/code-laptop.jpg"

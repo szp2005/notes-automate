@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T10:19:23+08:00
 image: "/og/how-to-sync-obsidian-with-google-drive-using-a-plugin.webp"
 editorSummary: >-
   Google Drive Using Plugin setup eliminates the need for Obsidian's $4–$8/month paid

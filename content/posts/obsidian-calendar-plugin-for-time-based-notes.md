@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T22:56:01+08:00
 image: "/og/obsidian-calendar-plugin-for-time-based-notes.webp"
 editorSummary: >-
   Plugin Time-Based Notes transforms your Obsidian vault from a static knowledge base into a

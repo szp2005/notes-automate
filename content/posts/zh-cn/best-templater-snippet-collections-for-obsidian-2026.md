@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:22+08:00
 image: "/og/best-templater-snippet-collections-for-obsidian-2026.webp"
 title: "2026年最佳Obsidian Templater代码片段集合"
 description: "探索2026年最佳的Obsidian Templater代码片段集合。利用预先构建的脚本自动化你的日记、任务和笔记的PKM工作流。"

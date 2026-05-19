@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:27:04+08:00
 image: "/og/downloadable-obsidian-css-snippets-for-dashboard-layouts.webp"
 editorSummary: >-
   I find that downloadable Obsidian CSS snippets for dashboard layouts—particularly the

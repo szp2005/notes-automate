@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T07:06:26+08:00
 image: "/og/how-to-use-obsidian-dataview-for-beginners.webp"
 editorSummary: >-
   I found Obsidian Dataview transforms how I manage growing note collections by turning static

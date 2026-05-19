@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:10:52+08:00
 image: "/og/n8n-workflow-for-syncing-obsidian-with-notion.webp"
 editorSummary: >-
   Workflow Syncing Obsidian Notion through n8n bridges a critical knowledge management gap by

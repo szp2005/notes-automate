@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:10:16+08:00
 image: "/og/explaining-obsidian-metadata-menu-for-structured-data.webp"
 editorSummary: >-
   I found the Metadata Menu plugin transforms how I manage structured data in Obsidian by

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/using-obsidian-for-long-term-evergreen-note-management.webp"
 editorSummary: >-
   我将常青笔记系统视为知识的长期投资，而本文使我确信 Obsidian 的纯文本 Markdown 架构独特地契合了这一长远目标。本指南详细探讨了三个不可妥协的原则——原子化结构、用自己的话来写以及密集的相互链接——然后解释了为什么本地文件存储和标准的 YAML Frontmatter 对于长达数十年的可访问性至关重要。值得注意的一个权衡是：带有内容地图（MOCs）的扁平化知识库结构在前期需要付出更多有意的链接工作，但随着知识库的增长，其扩展性远好于层级文件夹。

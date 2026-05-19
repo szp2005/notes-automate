@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T23:19:06+08:00
 image: "/og/best-obsidian-themes-for-dark-mode-2026.webp"
 editorSummary: >-
   Finding the right UI for my personal knowledge management vault is a constant struggle. I

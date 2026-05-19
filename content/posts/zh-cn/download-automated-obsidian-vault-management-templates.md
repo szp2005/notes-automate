@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/download-automated-obsidian-vault-management-templates.webp"
 title: "下载自动化 Obsidian 库管理模板 (2026)"
 description: "准备好优化您的 PKM 了吗？了解在哪里下载自动化 Obsidian 库管理模板，并将它们整合到您的日常工作流中。"

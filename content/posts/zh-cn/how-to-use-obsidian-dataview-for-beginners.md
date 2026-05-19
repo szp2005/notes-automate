@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T21:17:39+08:00
 image: "/og/how-to-use-obsidian-dataview-for-beginners.webp"
 title: "什么是 Dataview？为什么它是你笔记的颠覆者？"
 date: 2026-04-28

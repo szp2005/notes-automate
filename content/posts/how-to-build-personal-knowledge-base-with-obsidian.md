@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T14:01:36+08:00
 image: "/og/how-to-build-personal-knowledge-base-with-obsidian.webp"
 editorSummary: >-
   I find this 5-step framework for building a personal knowledge base with Obsidian genuinely
