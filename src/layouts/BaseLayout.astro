@@ -202,6 +202,16 @@ const ga4MeasurementId = import.meta.env.PUBLIC_GA4_MEASUREMENT_ID;
     </main>
     <footer class="site-footer">
       <p>Independent guides and reviews for Obsidian plugins, themes, and workflows.</p>
+      <form
+        class="footer-subscribe"
+        action="https://buttondown.com/api/emails/embed-subscribe/aifuye-ops"
+        method="post"
+        target="popupwindow"
+        aria-label="Subscribe to the weekly digest"
+      >
+        <input type="email" name="email" placeholder="Get the weekly digest" required />
+        <button type="submit">Subscribe</button>
+      </form>
       <nav class="footer-nav">
         <a href={`${localePrefix}/about/`}>About</a>
         <a href={`${localePrefix}/contact/`}>Contact</a>
