@@ -21,4 +21,50 @@
 /zh-cn/author/ /author/ 301
 /zh-cn/author/* /author/:splat 301
 
+# 2026-05-27: Slug normalization redirects. Posts renamed from
+# `2026-04-XX-slug.md` to `slug.md` in commit d911ee2. Old URLs that
+# Google indexed were returning 404 — see GSC "未找到 (404)" report.
+/posts/2026-04-28-best-obsidian-themes-for-writing-longform-content/ /posts/best-obsidian-themes-for-writing-longform-content/ 301
+/posts/2026-04-28-how-to-use-obsidian-dataview-for-beginners/ /posts/how-to-use-obsidian-dataview-for-beginners/ 301
+/posts/2026-04-28-is-obsidian-sync-worth-it-review/ /posts/is-obsidian-sync-worth-it-review/ 301
+/posts/2026-04-28-obsidian-canvas-vs-excalidraw-for-mind-mapping/ /posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/ 301
+/posts/2026-04-28-obsidian-sync-vs-syncthing-for-free-note-synchronization/ /posts/obsidian-sync-vs-syncthing-for-free-note-synchronization/ 301
+/posts/2026-04-28-obsidian-templater-plugin-tutorial-for-daily-notes/ /posts/obsidian-templater-plugin-tutorial-for-daily-notes/ 301
+/posts/2026-04-28-setting-up-a-zettelkasten-in-obsidian-with-plugins/ /posts/setting-up-a-zettelkasten-in-obsidian-with-plugins/ 301
+/posts/2026-04-28-using-obsidian-tasks-plugin-for-project-management/ /posts/using-obsidian-tasks-plugin-for-project-management/ 301
+/posts/2026-04-29-best-obsidian-plugins-for-habit-tracking-2024/ /posts/best-obsidian-plugins-for-habit-tracking-2024/ 301
+/posts/2026-04-29-excalidraw-plugin-for-obsidian-review/ /posts/excalidraw-plugin-for-obsidian-review/ 301
+/posts/2026-04-29-how-to-create-interactive-maps-in-obsidian/ /posts/how-to-create-interactive-maps-in-obsidian/ 301
+/posts/2026-04-29-how-to-customize-obsidian-appearance-with-css-snippets/ /posts/how-to-customize-obsidian-appearance-with-css-snippets/ 301
+/posts/2026-04-29-how-to-find-obsidian-plugin-documentation/ /posts/how-to-find-obsidian-plugin-documentation/ 301
+/posts/2026-04-29-how-to-install-community-plugins-in-obsidian-mobile/ /posts/how-to-install-community-plugins-in-obsidian-mobile/ 301
+/posts/2026-04-29-how-to-publish-obsidian-notes-to-a-blog/ /posts/how-to-publish-obsidian-notes-to-a-blog/ 301
+/posts/2026-04-29-how-to-sync-obsidian-with-google-drive-using-a-plugin/ /posts/how-to-sync-obsidian-with-google-drive-using-a-plugin/ 301
+/posts/2026-04-29-how-to-use-callouts-in-obsidian-for-better-notes/ /posts/how-to-use-callouts-in-obsidian-for-better-notes/ 301
+/posts/2026-04-29-minimal-theme-obsidian-review/ /posts/minimal-theme-obsidian-review/ 301
+/posts/2026-04-29-most-beautiful-obsidian-themes/ /posts/most-beautiful-obsidian-themes/ 301
+/posts/2026-04-29-obsidian-anki-vs-spaced-repetition-plugin/ /posts/obsidian-anki-vs-spaced-repetition-plugin/ 301
+/posts/2026-04-29-obsidian-community-plugins-list/ /posts/obsidian-community-plugins-list/ 301
+/posts/2026-04-29-obsidian-full-calendar-plugin-review/ /posts/obsidian-full-calendar-plugin-review/ 301
+/posts/2026-04-29-obsidian-periodic-notes-plugin-review/ /posts/obsidian-periodic-notes-plugin-review/ 301
+/posts/2026-04-29-obsidian-projects-plugin-review-and-setup/ /posts/obsidian-projects-plugin-review-and-setup/ 301
+/posts/2026-04-29-obsidian-theme-store-browser/ /posts/obsidian-theme-store-browser/ 301
+/posts/2026-04-29-things-theme-vs-minimal-theme-obsidian/ /posts/things-theme-vs-minimal-theme-obsidian/ 301
+/posts/2026-04-29-top-5-obsidian-plugins-for-academic-research/ /posts/top-5-obsidian-plugins-for-academic-research/ 301
+/posts/2026-04-29-what-are-the-best-obsidian-plugins-for-students/ /posts/what-are-the-best-obsidian-plugins-for-students/ 301
+/posts/2026-04-29-what-is-the-obsidian-canvas-plugin/ /posts/what-is-the-obsidian-canvas-plugin/ 301
+/posts/2026-04-29-what-is-the-obsidian-git-plugin-for/ /posts/what-is-the-obsidian-git-plugin-for/ 301
+
+# Same renames for zh-cn locale (translation pipeline mirrors EN slugs)
+/zh-cn/posts/2026-04-28-best-obsidian-themes-for-writing-longform-content/ /zh-cn/posts/best-obsidian-themes-for-writing-longform-content/ 301
+/zh-cn/posts/2026-04-28-how-to-use-obsidian-dataview-for-beginners/ /zh-cn/posts/how-to-use-obsidian-dataview-for-beginners/ 301
+/zh-cn/posts/2026-04-28-is-obsidian-sync-worth-it-review/ /zh-cn/posts/is-obsidian-sync-worth-it-review/ 301
+/zh-cn/posts/2026-04-28-obsidian-canvas-vs-excalidraw-for-mind-mapping/ /zh-cn/posts/obsidian-canvas-vs-excalidraw-for-mind-mapping/ 301
+/zh-cn/posts/2026-04-28-obsidian-sync-vs-syncthing-for-free-note-synchronization/ /zh-cn/posts/obsidian-sync-vs-syncthing-for-free-note-synchronization/ 301
+
+# Author typo cleanup (2026-05-27): one post had `Alexell Chen` →
+# fixed to `Alex Chen`. Old author page now empty, redirect to canonical.
+/author/alexell-chen /author/alex-chen/ 301
+/author/alexell-chen/ /author/alex-chen/ 301
+
 # Cloudflare Pages serves /404.html automatically for missing static routes.

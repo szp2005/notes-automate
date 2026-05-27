@@ -30,7 +30,7 @@ manualRelated:
 title: "Advanced Obsidian Templates for Literature Review Matrix: Top Picks 2026"
 description: "Discover the best advanced Obsidian templates for literature review matrix organization. Compare premium frameworks to streamline your academic research today."
 pubDate: "2026-05-05"
-author: "Alexell Chen"
+author: "Alex Chen"
 tags: ["obsidian", "literature review", "academic research", "templates", "knowledge management"]
 slug: "advanced-obsidian-templates-for-literature-review-matrix"
 type: "review"
