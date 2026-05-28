@@ -1,4 +1,12 @@
 ---
+// Global site styles. Imported (not <link href="/styles/global.css">) so
+// Astro bundles + hashes them into /_astro/*.css. The old absolute-path
+// <link> 404'd because src/styles/ is not served at /styles/ — only
+// public/ is. That left the entire site rendering with ~1.3KB of inline
+// component styles and no global layout/typography CSS (likely a major
+// contributor to the AdSense "low-value content" verdict). Fixed 2026-05-28.
+import "../styles/global.css";
+
 interface Props {
   title?: string;
   description?: string;
@@ -159,7 +167,6 @@ const ga4MeasurementId = import.meta.env.PUBLIC_GA4_MEASUREMENT_ID;
       })} />
     )}
 
-    <link rel="stylesheet" href="/styles/global.css" />
     {hasCloudflareWebAnalyticsToken && (
       <script
         is:inline
