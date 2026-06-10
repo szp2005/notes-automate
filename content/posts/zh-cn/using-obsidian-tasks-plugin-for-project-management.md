@@ -1,6 +1,3 @@
-I will now provide the full translated Markdown article, adhering to all the specified requirements.
-
-```markdown
 ---
 image: "/og/using-obsidian-tasks-plugin-for-project-management.webp"
 editorSummary: >-
@@ -39,6 +36,8 @@ tags: ["manage", "projects", "obsidian", "power"]
 ---
 
 # 使用 Obsidian Tasks 插件进行项目管理：完整分步指南
+
+> **快速解答：** Obsidian Tasks 插件可以把 vault 中任意位置的 Markdown 复选框变成可查询、可过滤的完整任务系统：用 emoji 语法记录截止日期、优先级与重复规则，再配合全局查询和 Dataview 仪表板集中跟踪所有项目进度，而无需离开你的笔记环境。
 
 ---
 

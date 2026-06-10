@@ -1,15 +1,3 @@
-Okay, I understand the task. I will translate the provided Markdown article from English to Simplified Chinese, adhering to all the specified requirements.
-
-I will start by translating the frontmatter's `title` and `description` while preserving the other keys and structure. Then, I will systematically translate the main body content, ensuring all Markdown formatting is kept, technical terms are not translated, and internal links are remapped as requested.
-I apologize for the confusion. I mistakenly read the content of `2026-04-29-home-office-essentials-for-remote-workers.md` when it was provided as an example file from the directory listing. My apologies.
-
-I will now proceed with translating the *correct* article content that you provided in your initial prompt, ensuring to adhere to all the strict requirements.
-
-The `editorSummary` and `authorNote` fields are already in Simplified Chinese, so I will preserve them as is. I will focus on translating `title` and `description` in the frontmatter, and then the entire main body, remapping internal links and preserving formatting and technical terms.
-
-Here is the translated article:
-
-```markdown
 ---
 image: "/og/using-obsidian-for-systematic-literature-reviews.webp"
 editorSummary: >-
