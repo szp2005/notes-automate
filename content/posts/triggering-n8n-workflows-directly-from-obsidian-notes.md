@@ -2,7 +2,7 @@
 publishedAt: 2026-05-07T13:15:49+08:00
 image: "/og/triggering-n8n-workflows-directly-from-obsidian-notes.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/code-laptop.jpg"
+  src: "/media/article-media/code-laptop.jpg"
   alt: "Automation trigger workflow represented by a laptop code screen"
   caption: "A development laptop screen, used to ground the local AI and automation workflow examples."
   credit: "Christina Morillo / Pexels"

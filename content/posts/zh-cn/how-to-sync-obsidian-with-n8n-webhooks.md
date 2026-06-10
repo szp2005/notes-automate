@@ -2,7 +2,7 @@
 publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-sync-obsidian-with-n8n-webhooks.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/code-laptop.jpg"
+  src: "/media/article-media/code-laptop.jpg"
   alt: "以笔记本电脑编程屏幕表示的 Webhook 和脚本设置"
   caption: "一个开发用的笔记本电脑屏幕，用于展示本地 AI 和自动化工作流示例。"
   credit: "Christina Morillo / Pexels"

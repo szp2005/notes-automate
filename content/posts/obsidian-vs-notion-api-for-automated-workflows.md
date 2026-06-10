@@ -2,7 +2,7 @@
 publishedAt: 2026-05-07T20:03:28+08:00
 image: "/og/obsidian-vs-notion-api-for-automated-workflows.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/sticky-workflow.jpg"
+  src: "/media/article-media/sticky-workflow.jpg"
   alt: "API workflow planning setup with laptop and sticky notes"
   caption: "A planning desk with sticky notes, used to represent workflow mapping and hand-picked editorial links."
   credit: "Anastasia Shuraeva / Pexels"

@@ -2,7 +2,7 @@
 publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/obsidian-local-rest-api-configuration-script-tool.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/code-laptop.jpg"
+  src: "/media/article-media/code-laptop.jpg"
   alt: "由开发笔记本电脑代表的配置脚本工作流"
   caption: "一台开发笔记本电脑的屏幕，用于展示本地 AI 和自动化工作流示例。"
   credit: "Christina Morillo / Pexels"

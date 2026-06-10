@@ -2,7 +2,7 @@
 publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/how-to-use-obsidian-templater-user-scripts.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/code-laptop.jpg"
+  src: "/media/article-media/code-laptop.jpg"
   alt: "由带有代码的笔记本电脑代表的 Templater 脚本工作"
   caption: "一个开发笔记本电脑屏幕，用于展示本地 AI 和自动化工作流示例。"
   credit: "Christina Morillo / Pexels"

@@ -2,7 +2,7 @@
 publishedAt: 2026-05-07T13:50:31+08:00
 image: "/og/how-to-use-obsidian-templater-user-scripts.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/code-laptop.jpg"
+  src: "/media/article-media/code-laptop.jpg"
   alt: "Templater script work represented by a code laptop"
   caption: "A development laptop screen, used to ground the local AI and automation workflow examples."
   credit: "Christina Morillo / Pexels"

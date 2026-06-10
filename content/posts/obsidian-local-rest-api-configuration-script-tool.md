@@ -2,7 +2,7 @@
 publishedAt: 2026-05-07T20:36:10+08:00
 image: "/og/obsidian-local-rest-api-configuration-script-tool.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/code-laptop.jpg"
+  src: "/media/article-media/code-laptop.jpg"
   alt: "Configuration script workflow represented by a development laptop"
   caption: "A development laptop screen, used to ground the local AI and automation workflow examples."
   credit: "Christina Morillo / Pexels"

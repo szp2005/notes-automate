@@ -2,7 +2,7 @@
 publishedAt: 2026-05-07T20:29:59+08:00
 image: "/og/review-of-obsidian-local-rest-api-integrations.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/code-laptop.jpg"
+  src: "/media/article-media/code-laptop.jpg"
   alt: "Local REST API integration work represented by laptop code"
   caption: "A development laptop screen, used to ground the local AI and automation workflow examples."
   credit: "Christina Morillo / Pexels"

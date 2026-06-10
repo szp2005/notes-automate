@@ -2,7 +2,7 @@
 publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/extracting-readwise-highlights-to-obsidian-via-n8n.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/notebook-writing.jpg"
+  src: "/media/article-media/notebook-writing.jpg"
   alt: "高亮复习与笔记设置"
   caption: "工作台上的手写笔记，用于说明研究记录和复习习惯。"
   credit: "cottonbro studio / Pexels"

@@ -2,7 +2,7 @@
 publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/triggering-n8n-workflows-directly-from-obsidian-notes.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/code-laptop.jpg"
+  src: "/media/article-media/code-laptop.jpg"
   alt: "以笔记本电脑代码屏幕为代表的自动化触发工作流"
   caption: "充当本地 AI 和自动化工作流示例基础的开发笔记本电脑屏幕。"
   credit: "Christina Morillo / Pexels"

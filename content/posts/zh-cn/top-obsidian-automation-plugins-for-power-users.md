@@ -2,7 +2,7 @@
 publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/top-obsidian-automation-plugins-for-power-users.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/notes-laptop.jpg"
+  src: "/media/article-media/notes-laptop.jpg"
   alt: "带有笔记本电脑和手写笔记的 Obsidian 自动化规划设置"
   caption: "笔记本和笔记本电脑规划设置，用于说明手动审查和工作流文档。"
   credit: "RDNE Stock project / Pexels"

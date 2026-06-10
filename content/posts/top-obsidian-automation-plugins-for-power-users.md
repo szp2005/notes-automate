@@ -2,7 +2,7 @@
 publishedAt: 2026-05-07T20:04:28+08:00
 image: "/og/top-obsidian-automation-plugins-for-power-users.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/notes-laptop.jpg"
+  src: "/media/article-media/notes-laptop.jpg"
   alt: "Obsidian automation planning setup with laptop and handwritten notes"
   caption: "Notebook and laptop planning setup, used to illustrate manual review and workflow documentation."
   credit: "RDNE Stock project / Pexels"

@@ -2,7 +2,7 @@
 publishedAt: 2026-05-07T20:36:50+08:00
 image: "/og/obsidian-automation-setup-guide-and-premium-templates.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/sticky-workflow.jpg"
+  src: "/media/article-media/sticky-workflow.jpg"
   alt: "Template planning workspace with sticky-note workflow steps"
   caption: "A planning desk with sticky notes, used to represent workflow mapping and hand-picked editorial links."
   credit: "Anastasia Shuraeva / Pexels"

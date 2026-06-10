@@ -2,7 +2,7 @@
 publishedAt: 2026-05-07T15:45:00+08:00
 image: "/og/extracting-readwise-highlights-to-obsidian-via-n8n.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/notebook-writing.jpg"
+  src: "/media/article-media/notebook-writing.jpg"
   alt: "Highlight review and note-taking setup"
   caption: "Handwritten notes at a working desk, used to illustrate research note-taking and review habits."
   credit: "cottonbro studio / Pexels"

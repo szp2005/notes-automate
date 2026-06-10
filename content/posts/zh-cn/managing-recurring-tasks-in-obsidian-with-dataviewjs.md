@@ -2,7 +2,7 @@
 publishedAt: 2026-05-16T14:58:13+08:00
 image: "/og/managing-recurring-tasks-in-obsidian-with-dataviewjs.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/sticky-workflow.jpg"
+  src: "/media/article-media/sticky-workflow.jpg"
   alt: "带有可见便利贴的重复任务规划桌面"
   caption: "一个带有便利贴的规划桌面，用于表示工作流映射和精选的编辑链接。"
   credit: "Anastasia Shuraeva / Pexels"
